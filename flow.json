@@ -1985,7 +1985,8 @@
             "6f1f2fc244d27fc2",
             "2226fe0dc49a5933",
             "fc1ec03d8b0117fa",
-            "2dcc35895060c95b"
+            "2dcc35895060c95b",
+            "deae04d3b07e573a"
         ],
         "x": 1234,
         "y": 149,
@@ -3604,7 +3605,9 @@
             "c1061922fbb55e35",
             "3b9c1ffbdb77d781",
             "1f7639cd6cd873fe",
-            "6b457186e495abc4"
+            "6b457186e495abc4",
+            "7bcb1c84fdd2354c",
+            "677759898efe0053"
         ],
         "x": 54,
         "y": 359,
@@ -5173,9 +5176,7 @@
             "db3fdb908ecb466b",
             "307aeb59e0085dd0",
             "1f7d62ca91f7e3e7",
-            "49478312d7cef663",
             "ac5fafb8e9a1c47a",
-            "e46f1cbb27f023d3",
             "322a4e38e5d36710"
         ],
         "x": 74,
@@ -34706,7 +34707,9 @@
             "be360e54206710dc",
             "e46f1cbb27f023d3",
             "322a4e38e5d36710",
-            "3484e5233d4f23d3"
+            "3484e5233d4f23d3",
+            "677759898efe0053",
+            "8cce936ef2c32986"
         ],
         "x": 381,
         "y": 80,
@@ -44776,7 +44779,9 @@
             "be360e54206710dc",
             "e46f1cbb27f023d3",
             "322a4e38e5d36710",
-            "3484e5233d4f23d3"
+            "3484e5233d4f23d3",
+            "677759898efe0053",
+            "8cce936ef2c32986"
         ],
         "x": 1425,
         "y": 60,
@@ -47530,8 +47535,7 @@
             [],
             [
                 "825a8d81.e5826",
-                "1f7d62ca91f7e3e7",
-                "49478312d7cef663"
+                "1f7d62ca91f7e3e7"
             ],
             [
                 "39b139ed.19f7a6"
@@ -48586,7 +48590,8 @@
         "y": 500,
         "wires": [
             [
-                "d47b33e4bb67ed8d"
+                "d47b33e4bb67ed8d",
+                "c9ad40e52b5b4024"
             ]
         ]
     },
@@ -53644,7 +53649,8 @@
         "y": 970,
         "wires": [
             [
-                "533f18d250f0f542"
+                "533f18d250f0f542",
+                "7bcb1c84fdd2354c"
             ]
         ]
     },
@@ -66716,7 +66722,7 @@
         "z": "902fc438.e5d758",
         "g": "fcb3da61.429db8",
         "name": "Estado fun. de control",
-        "func": "var arauto = global.get(\"Control_functions.ActiveCF.AutomaticRestart\", \"memoryOnly\") || false;\nvar prolongada = global.get(\"Control_functions.ActiveCF.Prolonged_Reference\", \"memoryOnly\") || false;\nvar escalonado = global.get(\"Control_functions.ActiveCF.Staggered_start\", \"memoryOnly\") || false;\n\nif(arauto)\n    msg.payload = \"Ejecutando arranque automático\";\n\nelse if(escalonado)\n    msg.payload = \"Ejecutando Arranque escalonado\";\n\nelse if(prolongada)\n    msg.payload = \"Ejecutando referencia prolongada\";\n\nelse\n    msg.payload = \"\";\n\n\nreturn msg;",
+        "func": "var arauto = global.get(\"Control_functions.ActiveCF.AutomaticRestart\", \"memoryOnly\") || false;\nvar prolongada = global.get(\"Control_functions.ActiveCF.Prolonged_Reference\", \"memoryOnly\") || false;\nvar escalonado = global.get(\"Control_functions.ActiveCF.Staggered_start\", \"memoryOnly\") || false;\nvar count = context.get(\"count\",\"memoryOnly\")||0;\n\nif (count==4)\n    count = 0;\n\nif(arauto)\n    msg.payload = \"Ejecutando arranque automático\";\n\nelse if(escalonado)\n    msg.payload = \"Ejecutando Arranque escalonado\";\n\nelse if(prolongada)\n    msg.payload = \"Ejecutando referencia prolongada\";\n\nelse\n    msg.payload = \"\";\n\nif(count>2)\n    msg.payload = \"\";\n\ncontext.set(\"count\", count+1, \"memoryOnly\");\n\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -66727,34 +66733,6 @@
         "wires": [
             [
                 "817dbbb379f02f18"
-            ]
-        ]
-    },
-    {
-        "id": "49478312d7cef663",
-        "type": "change",
-        "z": "bef159b0eb2cf912",
-        "g": "9bdf522.eba6db",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "Referencia prolongada iniciada",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 710,
-        "y": 430,
-        "wires": [
-            [
-                "e46f1cbb27f023d3"
             ]
         ]
     },
@@ -66771,6 +66749,11 @@
                 "pt": "msg",
                 "to": "Referencia prolongada finalizada",
                 "tot": "str"
+            },
+            {
+                "t": "delete",
+                "p": "topic",
+                "pt": "msg"
             }
         ],
         "action": "",
@@ -66787,28 +66770,15 @@
         ]
     },
     {
-        "id": "e46f1cbb27f023d3",
-        "type": "link out",
-        "z": "bef159b0eb2cf912",
-        "g": "9bdf522.eba6db",
-        "name": "",
-        "links": [
-            "207ea8ce.3dea68",
-            "2da816b7.b2be9a"
-        ],
-        "x": 835,
-        "y": 430,
-        "wires": []
-    },
-    {
         "id": "322a4e38e5d36710",
         "type": "link out",
         "z": "bef159b0eb2cf912",
         "g": "9bdf522.eba6db",
-        "name": "",
+        "name": "prolongada finalizada",
         "links": [
             "207ea8ce.3dea68",
-            "2da816b7.b2be9a"
+            "2da816b7.b2be9a",
+            "deae04d3b07e573a"
         ],
         "x": 925,
         "y": 620,
@@ -66999,5 +66969,114 @@
         "x": 2175,
         "y": 860,
         "wires": []
+    },
+    {
+        "id": "7bcb1c84fdd2354c",
+        "type": "change",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Arranque automático exitoso",
+                "tot": "str"
+            },
+            {
+                "t": "delete",
+                "p": "topic",
+                "pt": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1710,
+        "y": 920,
+        "wires": [
+            [
+                "677759898efe0053"
+            ]
+        ]
+    },
+    {
+        "id": "677759898efe0053",
+        "type": "link out",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "links": [
+            "207ea8ce.3dea68",
+            "2da816b7.b2be9a"
+        ],
+        "x": 1825,
+        "y": 920,
+        "wires": []
+    },
+    {
+        "id": "c9ad40e52b5b4024",
+        "type": "change",
+        "z": "bef159b0eb2cf912",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Referencia prolongada iniciada",
+                "tot": "str"
+            },
+            {
+                "t": "delete",
+                "p": "topic",
+                "pt": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2520,
+        "y": 550,
+        "wires": [
+            [
+                "8cce936ef2c32986"
+            ]
+        ]
+    },
+    {
+        "id": "8cce936ef2c32986",
+        "type": "link out",
+        "z": "bef159b0eb2cf912",
+        "name": "",
+        "links": [
+            "207ea8ce.3dea68",
+            "2da816b7.b2be9a"
+        ],
+        "x": 2645,
+        "y": 550,
+        "wires": []
+    },
+    {
+        "id": "deae04d3b07e573a",
+        "type": "link in",
+        "z": "bef159b0eb2cf912",
+        "g": "3a4b00b6e7d09e3a",
+        "name": "",
+        "links": [
+            "322a4e38e5d36710"
+        ],
+        "x": 2405,
+        "y": 250,
+        "wires": [
+            [
+                "60147134ac0b341b"
+            ]
+        ]
     }
 ]
