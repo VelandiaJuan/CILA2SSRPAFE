@@ -55526,7 +55526,7 @@
         "z": "d08f14e12055286a",
         "g": "dad84feb.d4773",
         "name": "Referencia",
-        "func": "var Ref = global.get(\"C2S.Last_Reference.Value\",'file');\nmsg.payload = Ref;\nreturn msg;",
+        "func": "var Ref = global.get(\"C2S.Last_Reference.Value\",'file');\nmsg.payload = Ref;\nmsg.Topic = \"Arranque automático\";\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
