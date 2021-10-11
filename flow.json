@@ -3695,7 +3695,9 @@
             "1f7639cd6cd873fe",
             "6b457186e495abc4",
             "7bcb1c84fdd2354c",
-            "677759898efe0053"
+            "677759898efe0053",
+            "8a259519ac32d6f7",
+            "64c862c08b3c181c"
         ],
         "x": 54,
         "y": 359,
@@ -3759,7 +3761,10 @@
             "c1723a65.a620c8",
             "ca41ebf5.6cdf28",
             "8ef5c8d6.524028",
-            "b8c12e8b.715b2"
+            "b8c12e8b.715b2",
+            "fb15ee5c8bf9c323",
+            "b41706e9a776a44b",
+            "b4c9b17bde2f220c"
         ],
         "x": 54,
         "y": 49,
@@ -7660,6 +7665,15 @@
         "order": 7,
         "width": "4",
         "height": 1
+    },
+    {
+        "id": "c1a3c2c60ca4ba6b",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "cf893b29.8b0a68",
+        "order": 1,
+        "width": "0",
+        "height": "0"
     },
     {
         "id": "e765ca36.69fb98",
@@ -46793,7 +46807,8 @@
         "name": "Arranque Escalonado Link In",
         "links": [
             "8565c38.316b44",
-            "881f8e7e37d29f85"
+            "881f8e7e37d29f85",
+            "64c862c08b3c181c"
         ],
         "x": 195,
         "y": 530,
@@ -55146,7 +55161,8 @@
                 "a877cbae.a027a8",
                 "39c71fe2.06935",
                 "449e7bab.192fe4",
-                "6ae46230.0f8d4c"
+                "6ae46230.0f8d4c",
+                "b41706e9a776a44b"
             ]
         ]
     },
@@ -55177,7 +55193,7 @@
         "g": "8f8a192b.bb2ef8",
         "name": "",
         "group": "cf893b29.8b0a68",
-        "order": 2,
+        "order": 3,
         "width": 6,
         "height": 1,
         "passthru": false,
@@ -55204,7 +55220,7 @@
         "g": "8f8a192b.bb2ef8",
         "name": "",
         "group": "cf893b29.8b0a68",
-        "order": 1,
+        "order": 2,
         "width": 6,
         "height": 1,
         "passthru": false,
@@ -55718,8 +55734,8 @@
         "y": 870,
         "wires": [
             [
-                "3b9c1ffbdb77d781",
-                "a6252416.b477e8"
+                "a6252416.b477e8",
+                "8a259519ac32d6f7"
             ]
         ]
     },
@@ -55729,8 +55745,8 @@
         "z": "d08f14e12055286a",
         "g": "dad84feb.d4773",
         "name": "",
-        "x": 1200,
-        "y": 890,
+        "x": 1340,
+        "y": 910,
         "wires": [
             [],
             []
@@ -67394,6 +67410,144 @@
         ],
         "x": 3155,
         "y": 2110,
+        "wires": []
+    },
+    {
+        "id": "fb15ee5c8bf9c323",
+        "type": "ui_dropdown",
+        "z": "d08f14e12055286a",
+        "g": "7aad629d.de652c",
+        "name": "",
+        "label": "",
+        "tooltip": "",
+        "place": "Tipo de arranque",
+        "group": "e72670e4.f5998",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "multiple": false,
+        "options": [
+            {
+                "label": "Arranque normal",
+                "value": 1,
+                "type": "num"
+            },
+            {
+                "label": "Arranque escalonado",
+                "value": 2,
+                "type": "num"
+            }
+        ],
+        "payload": "",
+        "topic": "",
+        "x": 1630,
+        "y": 100,
+        "wires": [
+            [
+                "b4c9b17bde2f220c"
+            ]
+        ]
+    },
+    {
+        "id": "b41706e9a776a44b",
+        "type": "change",
+        "z": "d08f14e12055286a",
+        "g": "7aad629d.de652c",
+        "name": "Tipo Arranque",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Control_functions.Automatic_Restart.type",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1460,
+        "y": 100,
+        "wires": [
+            [
+                "fb15ee5c8bf9c323"
+            ]
+        ]
+    },
+    {
+        "id": "b4c9b17bde2f220c",
+        "type": "change",
+        "z": "d08f14e12055286a",
+        "g": "7aad629d.de652c",
+        "name": "Tipo Arranque",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.Automatic_Restart.type",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1790,
+        "y": 100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8a259519ac32d6f7",
+        "type": "switch",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "property": "Control_functions.Automatic_Restart.type",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "num"
+            },
+            {
+                "t": "eq",
+                "v": "2",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1140,
+        "y": 920,
+        "wires": [
+            [
+                "3b9c1ffbdb77d781"
+            ],
+            [
+                "64c862c08b3c181c"
+            ]
+        ]
+    },
+    {
+        "id": "64c862c08b3c181c",
+        "type": "link out",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "links": [
+            "5a992b9e.0fe264"
+        ],
+        "x": 1455,
+        "y": 930,
         "wires": []
     }
 ]
