@@ -2099,7 +2099,9 @@
             "b9df7528.923398"
         ],
         "x": 28,
-        "y": 23
+        "y": 23,
+        "w": 2970,
+        "h": 1062
     },
     {
         "id": "83483662ea05d247",
@@ -3583,7 +3585,6 @@
             "2e7249b4.58bd66",
             "32c8b0ee.45f27",
             "66ec00f0.b69ff",
-            "3c6bdbde.b87f34",
             "383d0d61.1e6de2",
             "14c9d205.a3aa7e",
             "40db7d54.6eda64",
@@ -3638,10 +3639,14 @@
             "de4880db95ed8834",
             "d9b3e61d145ba55d",
             "c1061922fbb55e35",
-            "3b9c1ffbdb77d781"
+            "3b9c1ffbdb77d781",
+            "1f7639cd6cd873fe",
+            "6b457186e495abc4"
         ],
         "x": 54,
-        "y": 359
+        "y": 359,
+        "w": 1832,
+        "h": 700
     },
     {
         "id": "7aad629d.de652c",
@@ -3703,7 +3708,9 @@
             "b8c12e8b.715b2"
         ],
         "x": 54,
-        "y": 49
+        "y": 49,
+        "w": 2762,
+        "h": 302
     },
     {
         "id": "8f8a192b.bb2ef8",
@@ -3732,7 +3739,9 @@
             "4e19cfd4.3982f"
         ],
         "x": 1894,
-        "y": 439
+        "y": 439,
+        "w": 1062,
+        "h": 232
     },
     {
         "id": "b9df7528.923398",
@@ -3749,7 +3758,9 @@
             "65994a87.9d5eb4"
         ],
         "x": 1898,
-        "y": 683
+        "y": 683,
+        "w": 1074,
+        "h": 134
     },
     {
         "id": "6625e1db09743bc3",
@@ -5197,14 +5208,14 @@
             "223f7107.39115e",
             "f144e183.7ff68",
             "b130bfc6.1176",
-            "a0fa86d.e053b78",
-            "95ba5bc8.730648",
             "0f2870f227221b2d",
             "3205efce2e9e6943",
             "80958343820b9c28",
             "ae40d46c1e2917ed",
             "24beaaedb233cc7c",
-            "db3fdb908ecb466b"
+            "db3fdb908ecb466b",
+            "307aeb59e0085dd0",
+            "1f7d62ca91f7e3e7"
         ],
         "x": 74,
         "y": 249,
@@ -5229,7 +5240,9 @@
             "f4363e16.f1813"
         ],
         "x": 1924,
-        "y": 709
+        "y": 709,
+        "w": 1022,
+        "h": 82
     },
     {
         "id": "dd4ef7f.6489508",
@@ -47558,7 +47571,7 @@
             [],
             [
                 "825a8d81.e5826",
-                "95ba5bc8.730648"
+                "1f7d62ca91f7e3e7"
             ],
             [
                 "39b139ed.19f7a6"
@@ -47845,60 +47858,8 @@
         "y": 540,
         "wires": [
             [
-                "a0fa86d.e053b78"
+                "307aeb59e0085dd0"
             ]
-        ]
-    },
-    {
-        "id": "a0fa86d.e053b78",
-        "type": "change",
-        "z": "bef159b0eb2cf912",
-        "g": "9bdf522.eba6db",
-        "name": "Estado Funciones de control",
-        "rules": [
-            {
-                "t": "set",
-                "p": "#:(memoryOnly)::Funciones_control_activas.Incremento_prolongado",
-                "pt": "global",
-                "to": "false",
-                "tot": "bool"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1000,
-        "y": 540,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "95ba5bc8.730648",
-        "type": "change",
-        "z": "bef159b0eb2cf912",
-        "g": "9bdf522.eba6db",
-        "name": "Estado Funciones de control",
-        "rules": [
-            {
-                "t": "set",
-                "p": "#:(memoryOnly)::Funciones_control_activas.Incremento_prolongado",
-                "pt": "global",
-                "to": "true",
-                "tot": "bool"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 490,
-        "y": 430,
-        "wires": [
-            []
         ]
     },
     {
@@ -52646,7 +52607,6 @@
         "y": 500,
         "wires": [
             [
-                "3c6bdbde.b87f34",
                 "853cd9a2.d77cf8"
             ]
         ]
@@ -52737,32 +52697,6 @@
                 "60c61f62.f5c34",
                 "8aebe900.f1cdd8"
             ]
-        ]
-    },
-    {
-        "id": "3c6bdbde.b87f34",
-        "type": "change",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "Control_functions.ActiveCF.AutomaticRestart",
-                "pt": "global",
-                "to": "payload.status",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1170,
-        "y": 480,
-        "wires": [
-            []
         ]
     },
     {
@@ -53433,7 +53367,8 @@
         "y": 460,
         "wires": [
             [
-                "c0305bdc.676a28"
+                "c0305bdc.676a28",
+                "6b457186e495abc4"
             ]
         ]
     },
@@ -53574,7 +53509,8 @@
         "y": 610,
         "wires": [
             [
-                "aafdc29a.6cbc"
+                "aafdc29a.6cbc",
+                "1f7639cd6cd873fe"
             ]
         ]
     },
@@ -66687,5 +66623,109 @@
         "x": 1575,
         "y": 1090,
         "wires": []
+    },
+    {
+        "id": "307aeb59e0085dd0",
+        "type": "change",
+        "z": "bef159b0eb2cf912",
+        "g": "9bdf522.eba6db",
+        "name": "Estado Funciones de control",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Control_functions.ActiveCF.Prolonged_Reference",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1000,
+        "y": 540,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1f7d62ca91f7e3e7",
+        "type": "change",
+        "z": "bef159b0eb2cf912",
+        "g": "9bdf522.eba6db",
+        "name": "Estado Funciones de control",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Control_functions.ActiveCF.Prolonged_Reference",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 490,
+        "y": 430,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1f7639cd6cd873fe",
+        "type": "change",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Estado Funciones de control",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Control_functions.ActiveCF.AutomaticRestart",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1390,
+        "y": 650,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6b457186e495abc4",
+        "type": "change",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Estado Funciones de control",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Control_functions.ActiveCF.AutomaticRestart",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1060,
+        "y": 430,
+        "wires": [
+            []
+        ]
     }
 ]
