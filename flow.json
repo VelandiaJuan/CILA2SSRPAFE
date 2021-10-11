@@ -836,7 +836,8 @@
             "db09e7f56c7c6542",
             "1685514ca67b1e7b",
             "c8d7ce27507994dd",
-            "43df135fef3c7bbd"
+            "43df135fef3c7bbd",
+            "f1f7bfacfe0754bf"
         ],
         "x": 24,
         "y": 609,
@@ -2006,7 +2007,10 @@
             "0d8935807bf48065",
             "6943549b680dd673",
             "5f28e0260ab07b11",
-            "6f1f2fc244d27fc2"
+            "6f1f2fc244d27fc2",
+            "2226fe0dc49a5933",
+            "fc1ec03d8b0117fa",
+            "2dcc35895060c95b"
         ],
         "x": 1234,
         "y": 149,
@@ -48656,7 +48660,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2350,
+        "x": 2360,
         "y": 500,
         "wires": [
             [
@@ -48701,7 +48705,7 @@
         "links": [
             "223f7107.39115e"
         ],
-        "x": 2445,
+        "x": 2455,
         "y": 500,
         "wires": []
     },
@@ -52545,7 +52549,7 @@
         "to": "",
         "reg": false,
         "x": 2180,
-        "y": 600,
+        "y": 630,
         "wires": [
             [
                 "aeb76c9ced35d9f4"
@@ -52562,7 +52566,7 @@
             "52f1e35a6b450a62"
         ],
         "x": 2295,
-        "y": 600,
+        "y": 630,
         "wires": []
     },
     {
@@ -52586,7 +52590,7 @@
         "to": "",
         "reg": false,
         "x": 2320,
-        "y": 550,
+        "y": 580,
         "wires": [
             []
         ]
@@ -52600,11 +52604,11 @@
         "links": [
             "ecf98f3f.4a704"
         ],
-        "x": 1435,
+        "x": 1305,
         "y": 740,
         "wires": [
             [
-                "ac2c282207510e0a"
+                "2dcc35895060c95b"
             ]
         ]
     },
@@ -55724,7 +55728,7 @@
         "finalize": "",
         "libs": [],
         "x": 2160,
-        "y": 550,
+        "y": 580,
         "wires": [
             [
                 "9c5515f79c0d3921"
@@ -55965,10 +55969,12 @@
         "wires": [
             [
                 "0d8935807bf48065",
-                "44c036455c97db1f"
+                "44c036455c97db1f",
+                "2226fe0dc49a5933"
             ],
             [
-                "32c533cd806813d9"
+                "32c533cd806813d9",
+                "fc1ec03d8b0117fa"
             ]
         ]
     },
@@ -63536,7 +63542,8 @@
         "y": 1020,
         "wires": [
             [
-                "4a7db122c2dc8b89"
+                "4a7db122c2dc8b89",
+                "f1f7bfacfe0754bf"
             ]
         ]
     },
@@ -66304,7 +66311,8 @@
         "g": "10280aeffc57de7d",
         "name": "",
         "links": [
-            "b7063a39ef994ed0"
+            "b7063a39ef994ed0",
+            "f1f7bfacfe0754bf"
         ],
         "x": 1635,
         "y": 130,
@@ -66590,5 +66598,94 @@
                 "977882cd.4483a"
             ]
         ]
+    },
+    {
+        "id": "2226fe0dc49a5933",
+        "type": "change",
+        "z": "bef159b0eb2cf912",
+        "g": "3a4b00b6e7d09e3a",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::valido",
+                "pt": "flow",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2180,
+        "y": 540,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "fc1ec03d8b0117fa",
+        "type": "change",
+        "z": "bef159b0eb2cf912",
+        "g": "3a4b00b6e7d09e3a",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::valido",
+                "pt": "flow",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2190,
+        "y": 670,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2dcc35895060c95b",
+        "type": "switch",
+        "z": "bef159b0eb2cf912",
+        "g": "3a4b00b6e7d09e3a",
+        "name": "",
+        "property": "#:(memoryOnly)::valido",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1410,
+        "y": 740,
+        "wires": [
+            [
+                "ac2c282207510e0a"
+            ]
+        ]
+    },
+    {
+        "id": "f1f7bfacfe0754bf",
+        "type": "link out",
+        "z": "902fc438.e5d758",
+        "g": "fcb3da61.429db8",
+        "name": "detener rampaprol",
+        "links": [
+            "9b26a5f696dfa4ae"
+        ],
+        "x": 1575,
+        "y": 1090,
+        "wires": []
     }
 ]
