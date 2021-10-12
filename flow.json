@@ -1429,7 +1429,7 @@
             "9166bbc5fd352f81",
             "9f77b0d829ad914b"
         ],
-        "x": 404,
+        "x": 514,
         "y": 769,
         "w": 282,
         "h": 82
@@ -1444,7 +1444,8 @@
         },
         "nodes": [
             "70a63b74.44894c",
-            "ee01b6d1.f76f98"
+            "ee01b6d1.f76f98",
+            "dc201b4c96bf9cb8"
         ],
         "x": 18,
         "y": 23,
@@ -5372,12 +5373,12 @@
             "color": "#000000"
         },
         "nodes": [
-            "b35e816b7361405a",
-            "c54be5e31afc1279"
+            "c54be5e31afc1279",
+            "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1689,
-        "w": 422,
+        "y": 1679,
+        "w": 332,
         "h": 82
     },
     {
@@ -39743,7 +39744,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 570,
+        "x": 680,
         "y": 810,
         "wires": [
             []
@@ -39758,7 +39759,7 @@
         "links": [
             "ad87cee4.7dbb5"
         ],
-        "x": 445,
+        "x": 555,
         "y": 810,
         "wires": [
             [
@@ -67559,32 +67560,6 @@
         ]
     },
     {
-        "id": "b35e816b7361405a",
-        "type": "inject",
-        "z": "902fc438.e5d758",
-        "g": "afdbbb533d628687",
-        "name": "IP pqa",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "192.168.2.13",
-        "payloadType": "str",
-        "x": 1360,
-        "y": 1730,
-        "wires": [
-            [
-                "c54be5e31afc1279"
-            ]
-        ]
-    },
-    {
         "id": "c54be5e31afc1279",
         "type": "change",
         "z": "902fc438.e5d758",
@@ -67604,8 +67579,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1550,
-        "y": 1730,
+        "x": 1460,
+        "y": 1720,
         "wires": [
             []
         ]
@@ -67614,10 +67589,76 @@
         "id": "f03514ef9dc06b59",
         "type": "comment",
         "z": "dd18d94e.4b1408",
-        "name": "Cambiar IP del variador aqui",
+        "name": "Si Cambia dirección IP variador escribirla aquí",
         "info": "",
-        "x": 630,
+        "x": 680,
         "y": 740,
+        "wires": []
+    },
+    {
+        "id": "756bcd33a6cec802",
+        "type": "link in",
+        "z": "902fc438.e5d758",
+        "g": "afdbbb533d628687",
+        "name": "",
+        "links": [
+            "f8f9c8b59aaee87c",
+            "acb738077324d4f5"
+        ],
+        "x": 1305,
+        "y": 1720,
+        "wires": [
+            [
+                "c54be5e31afc1279"
+            ]
+        ]
+    },
+    {
+        "id": "ead83bdf05616014",
+        "type": "inject",
+        "z": "2858ae04397c7488",
+        "name": "IP pqa",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "192.168.2.13",
+        "payloadType": "str",
+        "x": 570,
+        "y": 570,
+        "wires": [
+            [
+                "acb738077324d4f5"
+            ]
+        ]
+    },
+    {
+        "id": "acb738077324d4f5",
+        "type": "link out",
+        "z": "2858ae04397c7488",
+        "name": "",
+        "links": [
+            "756bcd33a6cec802"
+        ],
+        "x": 665,
+        "y": 570,
+        "wires": []
+    },
+    {
+        "id": "dc201b4c96bf9cb8",
+        "type": "comment",
+        "z": "2858ae04397c7488",
+        "g": "38940f8.c9c27f",
+        "name": "Si Cambia dirección IP PQA escribirla aquí",
+        "info": "",
+        "x": 660,
+        "y": 530,
         "wires": []
     }
 ]
