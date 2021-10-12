@@ -1933,7 +1933,9 @@
             "9faabcc1f09b24a8"
         ],
         "x": 1394,
-        "y": 89
+        "y": 89,
+        "w": 662,
+        "h": 272
     },
     {
         "id": "fbbdc4b7.95b5c8",
@@ -2008,7 +2010,9 @@
             "8a99e2610762706f"
         ],
         "x": 34,
-        "y": 393
+        "y": 393,
+        "w": 1988,
+        "h": 848
     },
     {
         "id": "d84615.919209e8",
@@ -2023,7 +2027,9 @@
             "675af0d1.a9fc4"
         ],
         "x": 22,
-        "y": 27
+        "y": 27,
+        "w": 1176,
+        "h": 686
     },
     {
         "id": "3a4b00b6e7d09e3a",
@@ -2078,7 +2084,9 @@
             "deae04d3b07e573a"
         ],
         "x": 1234,
-        "y": 149
+        "y": 149,
+        "w": 1452,
+        "h": 632
     },
     {
         "id": "0382d006bf3e8547",
@@ -3649,7 +3657,9 @@
             "97085297.91fc4"
         ],
         "x": 1324,
-        "y": 419
+        "y": 419,
+        "w": 672,
+        "h": 202
     },
     {
         "id": "675af0d1.a9fc4",
@@ -3666,7 +3676,9 @@
             "9bdf522.eba6db"
         ],
         "x": 48,
-        "y": 53
+        "y": 53,
+        "w": 1124,
+        "h": 634
     },
     {
         "id": "dad84feb.d4773",
@@ -5308,7 +5320,9 @@
             "d0a19b38.893ab8"
         ],
         "x": 74,
-        "y": 79
+        "y": 79,
+        "w": 1042,
+        "h": 162
     },
     {
         "id": "9bdf522.eba6db",
@@ -5347,10 +5361,13 @@
             "307aeb59e0085dd0",
             "1f7d62ca91f7e3e7",
             "ac5fafb8e9a1c47a",
-            "322a4e38e5d36710"
+            "322a4e38e5d36710",
+            "8ca4e5b4ca175ad4"
         ],
         "x": 74,
-        "y": 249
+        "y": 249,
+        "w": 1072,
+        "h": 412
     },
     {
         "id": "65994a87.9d5eb4",
@@ -48274,7 +48291,7 @@
         "order": 7,
         "width": 2,
         "height": 1,
-        "passthru": true,
+        "passthru": false,
         "mode": "number",
         "delay": "0",
         "topic": "",
@@ -48298,7 +48315,7 @@
         "order": 4,
         "width": 2,
         "height": 1,
-        "passthru": true,
+        "passthru": false,
         "mode": "number",
         "delay": "0",
         "topic": "",
@@ -48322,7 +48339,7 @@
         "order": 5,
         "width": 2,
         "height": 1,
-        "passthru": true,
+        "passthru": false,
         "mode": "number",
         "delay": "0",
         "topic": "",
@@ -48346,7 +48363,7 @@
         "order": 6,
         "width": 2,
         "height": 1,
-        "passthru": true,
+        "passthru": false,
         "mode": "number",
         "delay": "0",
         "topic": "",
@@ -63347,7 +63364,8 @@
             "bf6826f1.1eaf58",
             "51d6f5bd.7b3bac",
             "14c9d205.a3aa7e",
-            "d864cf5d.4424a"
+            "d864cf5d.4424a",
+            "8ca4e5b4ca175ad4"
         ],
         "x": 2065,
         "y": 1080,
@@ -67686,7 +67704,7 @@
         "z": "7a89175c.90f6a8",
         "g": "2fa4e5be63ea61ce",
         "name": "Falla general",
-        "func": "var Drive_fault    = (global.get('C2S.Drive_Status.Fault','memoryOnly') || 0) == 0? false:true;\nvar DI = global.get(\"IO.Functions.DI\", 'memoryOnly');\nvar Prot = global.get('Protections.General','memoryOnly') || false;\n// Valor lógico para detección de algún disparo en aplicación\nvar Disparos = DIFunction['Stop ESD'] ||\n    DIFunction['Disparo alto nivel de aceite SUT'] ||\n    DIFunction['Disparo alta temperatura SUT'] ||\n    DIFunction['Disparo bajo bajo nivel de aceite SUT'] ||\n    DIFunction['Disparo válvula sobre-presión SUT'] ||\n    DIFunction['Disparo alta temperatura filtros'] ||\n    DIFunction['Disparo alta presión THP'] ||\n    DIFunction['Disparo sobre-tensión SUT']||\n    DIFunction['Disparo puerta abierta']||\n    DIFunction['Disparo shutdown SCC']||\n    DIFunction['Disparo baja presión en la troncal'] ||\n    DIFunction['ESD Remoto']||false;\n\nvar FallaGral = Drive_fault || Disparos;\n\nmsg.payload = FallaGral;\nglobal.set(\"IO.Functions.DO['Falla general']\", FallaGral , 'memoryOnly');\nFallaGral == true ? node.status({ fill: \"red\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"green\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;\n\n/*\n @param {string | number} IOFunction\n*/\nfunction DIFunction(IOFunction){\n    try {return DI[IOFunction];} \n    catch (error) {return false;};\n}",
+        "func": "var Drive_fault    = (global.get('C2S.Drive_Status.Fault','memoryOnly') || 0) == 0? false:true;\nvar DI = global.get(\"IO.Functions.DI\", 'memoryOnly');\nvar Prot = global.get('Protections.General','memoryOnly') || false;\n// Valor lógico para detección de algún disparo en aplicación\nvar Disparos = DIFunction['Stop ESD'] ||\n    DIFunction['Disparo alto nivel de aceite SUT'] ||\n    DIFunction['Disparo alta temperatura SUT'] ||\n    DIFunction['Disparo bajo bajo nivel de aceite SUT'] ||\n    DIFunction['Disparo válvula sobre-presión SUT'] ||\n    DIFunction['Disparo alta temperatura filtros'] ||\n    DIFunction['Disparo alta presión THP'] ||\n    DIFunction['Disparo sobre-tensión SUT']||\n    DIFunction['Disparo puerta abierta']||\n    DIFunction['Disparo shutdown SCC']||\n    DIFunction['Disparo baja presión en la troncal'] ||\n    DIFunction['ESD Remoto']||false;\n\nvar FallaGral = Drive_fault || Disparos ||Prot;\n\nmsg.payload = FallaGral;\nglobal.set(\"IO.Functions.DO['Falla general']\", FallaGral , 'memoryOnly');\nFallaGral == true ? node.status({ fill: \"red\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"green\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;\n\n/*\n @param {string | number} IOFunction\n*/\nfunction DIFunction(IOFunction){\n    try {return DI[IOFunction];} \n    catch (error) {return false;};\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -67699,6 +67717,23 @@
         ],
         "inputLabels": [
             "Activar función"
+        ]
+    },
+    {
+        "id": "8ca4e5b4ca175ad4",
+        "type": "link in",
+        "z": "bef159b0eb2cf912",
+        "g": "9bdf522.eba6db",
+        "name": "Reset Funciones de control Link In",
+        "links": [
+            "1ef779a27f308aef"
+        ],
+        "x": 875,
+        "y": 480,
+        "wires": [
+            [
+                "307aeb59e0085dd0"
+            ]
         ]
     }
 ]
