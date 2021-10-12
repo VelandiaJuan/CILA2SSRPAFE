@@ -703,7 +703,7 @@
         ],
         "out": [
             {
-                "x": 670,
+                "x": 600,
                 "y": 50,
                 "wires": [
                     {
@@ -734,7 +734,9 @@
             "bfa48676.a364f8"
         ],
         "x": 14,
-        "y": 19
+        "y": 19,
+        "w": 432,
+        "h": 149.5
     },
     {
         "id": "d929d138.3b512",
@@ -751,7 +753,9 @@
             "480b025f.8cf9cc"
         ],
         "x": 464,
-        "y": 29
+        "y": 29,
+        "w": 282,
+        "h": 122
     },
     {
         "id": "82fde41a.c6f8d8",
@@ -784,7 +788,9 @@
             "236c6c92.d31584"
         ],
         "x": 14,
-        "y": 189
+        "y": 189,
+        "w": 852,
+        "h": 282
     },
     {
         "id": "fcb3da61.429db8",
@@ -907,7 +913,9 @@
             "c41a251e.427c98"
         ],
         "x": -2,
-        "y": 983
+        "y": 983,
+        "w": 1564,
+        "h": 334
     },
     {
         "id": "365d864c.8c19ca",
@@ -931,7 +939,9 @@
             "e032b1f4.a8be7"
         ],
         "x": 1522,
-        "y": 127
+        "y": 127,
+        "w": 1726,
+        "h": 2556
     },
     {
         "id": "43bab036.712ca",
@@ -946,7 +956,9 @@
             "e9d2f5f0.86a518"
         ],
         "x": -2,
-        "y": 521
+        "y": 521,
+        "w": 1564,
+        "h": 456
     },
     {
         "id": "54254b6e.789ca4",
@@ -968,7 +980,9 @@
             "26320c2147a2f648"
         ],
         "x": 194,
-        "y": 1329
+        "y": 1329,
+        "w": 682,
+        "h": 202
     },
     {
         "id": "68e6bb30.d1fce4",
@@ -983,7 +997,9 @@
             "a7e99088.c8108"
         ],
         "x": -2,
-        "y": 133
+        "y": 133,
+        "w": 1564,
+        "h": 374
     },
     {
         "id": "8a04702.34fd29",
@@ -1000,7 +1016,9 @@
             "49534500.cd9cdc"
         ],
         "x": 894,
-        "y": 1329
+        "y": 1329,
+        "w": 291,
+        "h": 122
     },
     {
         "id": "ab42d2fa.9240c",
@@ -1020,7 +1038,9 @@
             "82264d68.0b05a"
         ],
         "x": 3268,
-        "y": 1753
+        "y": 1753,
+        "w": 1334,
+        "h": 624
     },
     {
         "id": "bd17e5b9.9261f8",
@@ -1040,7 +1060,9 @@
             "aa730b91.5646d8"
         ],
         "x": 3264,
-        "y": 2389
+        "y": 2389,
+        "w": 762,
+        "h": 122
     },
     {
         "id": "ec31a094.c373c",
@@ -1060,7 +1082,9 @@
             "9f627758.670cd8"
         ],
         "x": 3268,
-        "y": 133
+        "y": 133,
+        "w": 1534,
+        "h": 1574
     },
     {
         "id": "d689e3de.7d569",
@@ -1084,7 +1108,9 @@
             "b5972fd3.3aeb7"
         ],
         "x": 14,
-        "y": 479
+        "y": 479,
+        "w": 602,
+        "h": 202
     },
     {
         "id": "eed2da25.98fab8",
@@ -1126,7 +1152,9 @@
             "8c4c4846.6ea308"
         ],
         "x": 14,
-        "y": 699
+        "y": 699,
+        "w": 622,
+        "h": 242
     },
     {
         "id": "312f680c.5a3b4",
@@ -1342,7 +1370,9 @@
             "312d9def.84df32"
         ],
         "x": 14,
-        "y": 969
+        "y": 969,
+        "w": 702,
+        "h": 242
     },
     {
         "id": "3ae9fbe60d6132ea",
@@ -1365,7 +1395,9 @@
             "c249c18f3081eb3e"
         ],
         "x": 24,
-        "y": 429
+        "y": 429,
+        "w": 722,
+        "h": 242
     },
     {
         "id": "6abd418f.d175b",
@@ -1380,7 +1412,9 @@
             "b2f2659a.67f648"
         ],
         "x": 18,
-        "y": 23
+        "y": 23,
+        "w": 1754,
+        "h": 394
     },
     {
         "id": "8c207e440fb46f33",
@@ -1396,7 +1430,9 @@
             "9f77b0d829ad914b"
         ],
         "x": 404,
-        "y": 769
+        "y": 769,
+        "w": 282,
+        "h": 82
     },
     {
         "id": "38940f8.c9c27f",
@@ -1411,7 +1447,9 @@
             "ee01b6d1.f76f98"
         ],
         "x": 18,
-        "y": 23
+        "y": 23,
+        "w": 1464,
+        "h": 664
     },
     {
         "id": "48d282d70b9e72c9",
@@ -1550,7 +1588,9 @@
             "98ca0b1c.cda4f8"
         ],
         "x": 24,
-        "y": 29
+        "y": 29,
+        "w": 942,
+        "h": 202
     },
     {
         "id": "57eba231.4d56dc",
@@ -1570,7 +1610,9 @@
             "e9e93a2c.deeb18"
         ],
         "x": 28,
-        "y": 243
+        "y": 243,
+        "w": 374,
+        "h": 304
     },
     {
         "id": "dbdc491cb6e9eee5",
@@ -1601,7 +1643,9 @@
             "1a8c4a3f92c0ded2"
         ],
         "x": 1574,
-        "y": 339
+        "y": 339,
+        "w": 832,
+        "h": 702
     },
     {
         "id": "99671f60976b1d2a",
@@ -1625,7 +1669,9 @@
             "a84bce49f9e89b58"
         ],
         "x": 1544,
-        "y": 29
+        "y": 29,
+        "w": 992,
+        "h": 212
     },
     {
         "id": "95daead77be77494",
@@ -1670,7 +1716,9 @@
             "652eef7ff30e8029"
         ],
         "x": 994,
-        "y": 649
+        "y": 649,
+        "w": 532,
+        "h": 682
     },
     {
         "id": "87fca62744442ad4",
@@ -1709,7 +1757,9 @@
             "19a66bb9.eaa504"
         ],
         "x": 44,
-        "y": 409
+        "y": 409,
+        "w": 702,
+        "h": 272
     },
     {
         "id": "a7f58aaec292b159",
@@ -1752,7 +1802,9 @@
             "30359a42be66cafb"
         ],
         "x": 44,
-        "y": 689
+        "y": 689,
+        "w": 812,
+        "h": 272
     },
     {
         "id": "37b64a70f39dda06",
@@ -1791,7 +1843,9 @@
             "e0a3fe6a.f68a1"
         ],
         "x": 44,
-        "y": 969
+        "y": 969,
+        "w": 742,
+        "h": 272
     },
     {
         "id": "ee5753bdd6eedb72",
@@ -1816,7 +1870,9 @@
             "46e32360.5940dc"
         ],
         "x": 44,
-        "y": 239
+        "y": 239,
+        "w": 912,
+        "h": 162
     },
     {
         "id": "931b0370.afc1b",
@@ -1835,7 +1891,9 @@
             "52f1e35a6b450a62"
         ],
         "x": 1384,
-        "y": 19
+        "y": 19,
+        "w": 262,
+        "h": 182
     },
     {
         "id": "10280aeffc57de7d",
@@ -2114,7 +2172,9 @@
             "6625e1db09743bc3"
         ],
         "x": -2,
-        "y": 2193
+        "y": 2193,
+        "w": 1504,
+        "h": 294
     },
     {
         "id": "854dec5e.9e51d",
@@ -2176,7 +2236,9 @@
             "77dcd918.f8c298"
         ],
         "x": 14,
-        "y": 1229
+        "y": 1229,
+        "w": 928,
+        "h": 378
     },
     {
         "id": "06c0dbf1bffe1e21",
@@ -2291,24 +2353,6 @@
         "y": 3,
         "w": 1284,
         "h": 1554
-    },
-    {
-        "id": "0379aa12b6a49e83",
-        "type": "group",
-        "z": "902fc438.e5d758",
-        "name": "IP info",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "f2d4bbec97371dae",
-            "52501268e456d659"
-        ],
-        "x": 1264,
-        "y": 1689,
-        "w": 422,
-        "h": 82
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -2580,7 +2624,9 @@
             "54a6e602.e31808"
         ],
         "x": 294,
-        "y": 1419
+        "y": 1419,
+        "w": 622,
+        "h": 162
     },
     {
         "id": "5d9b6e5b.adfe78",
@@ -2657,7 +2703,9 @@
             "6f6dca07.0b3994"
         ],
         "x": 894,
-        "y": 1009
+        "y": 1009,
+        "w": 642,
+        "h": 282
     },
     {
         "id": "c41a251e.427c98",
@@ -2686,7 +2734,9 @@
             "dd0739fd9e6348e6"
         ],
         "x": 24,
-        "y": 1009
+        "y": 1009,
+        "w": 862,
+        "h": 202
     },
     {
         "id": "e032b1f4.a8be7",
@@ -2707,7 +2757,9 @@
             "4a1410ce.7057a"
         ],
         "x": 1628,
-        "y": 153
+        "y": 153,
+        "w": 1594,
+        "h": 1014
     },
     {
         "id": "9bb5d411.271d48",
@@ -2728,7 +2780,9 @@
             "44ee5bb3.49b264"
         ],
         "x": 1648,
-        "y": 1183
+        "y": 1183,
+        "w": 1574,
+        "h": 494
     },
     {
         "id": "8ac2b187.14625",
@@ -2749,7 +2803,9 @@
             "efe6d3f.f10193"
         ],
         "x": 1598,
-        "y": 1693
+        "y": 1693,
+        "w": 1624,
+        "h": 254
     },
     {
         "id": "dd0fb9ab.f737f8",
@@ -2770,7 +2826,9 @@
             "de31a457.a923c8"
         ],
         "x": 1548,
-        "y": 1963
+        "y": 1963,
+        "w": 1674,
+        "h": 254
     },
     {
         "id": "dad86215.ed79c",
@@ -2791,7 +2849,9 @@
             "baaa353b.511268"
         ],
         "x": 1648,
-        "y": 2283
+        "y": 2283,
+        "w": 1574,
+        "h": 374
     },
     {
         "id": "27c43941.e9e0c6",
@@ -2829,7 +2889,9 @@
             "dc19234d7f6c1436"
         ],
         "x": 24,
-        "y": 549
+        "y": 549,
+        "w": 772,
+        "h": 322
     },
     {
         "id": "e9d2f5f0.86a518",
@@ -2862,7 +2924,9 @@
             "8307ca17.c4d5b8"
         ],
         "x": 804,
-        "y": 547
+        "y": 547,
+        "w": 732,
+        "h": 404
     },
     {
         "id": "6cdd72bc.8124cc",
@@ -2891,7 +2955,9 @@
             "4690fd613d3bc91f"
         ],
         "x": 24,
-        "y": 159
+        "y": 159,
+        "w": 752,
+        "h": 202
     },
     {
         "id": "a7e99088.c8108",
@@ -2921,7 +2987,9 @@
             "c48a9a39.50daa8"
         ],
         "x": 784,
-        "y": 159
+        "y": 159,
+        "w": 752,
+        "h": 322
     },
     {
         "id": "78a8be83.7018c",
@@ -2952,7 +3020,9 @@
             "3f3a83c71b2f5a67"
         ],
         "x": 3304,
-        "y": 1869
+        "y": 1869,
+        "w": 1272,
+        "h": 482
     },
     {
         "id": "82264d68.0b05a",
@@ -2972,7 +3042,9 @@
             "84631e96.4b794"
         ],
         "x": 3294,
-        "y": 1779
+        "y": 1779,
+        "w": 682,
+        "h": 82
     },
     {
         "id": "4af99851.bcfb28",
@@ -3041,7 +3113,9 @@
             "7b5ffe1a.15acc"
         ],
         "x": 3294,
-        "y": 159
+        "y": 159,
+        "w": 832,
+        "h": 1522
     },
     {
         "id": "9f627758.670cd8",
@@ -3113,7 +3187,9 @@
             "487147d15f5c304a"
         ],
         "x": 4134,
-        "y": 159
+        "y": 159,
+        "w": 642,
+        "h": 562
     },
     {
         "id": "71fd37.e2a532c8",
@@ -3385,7 +3461,9 @@
             "c30439cc.4bcb68"
         ],
         "x": 44,
-        "y": 49
+        "y": 49,
+        "w": 1422,
+        "h": 212
     },
     {
         "id": "b2f2659a.67f648",
@@ -3412,7 +3490,9 @@
             "e92736fb1766d1e0"
         ],
         "x": 44,
-        "y": 269
+        "y": 269,
+        "w": 1702,
+        "h": 122
     },
     {
         "id": "70a63b74.44894c",
@@ -3432,7 +3512,9 @@
             "d22f737e1faaee45"
         ],
         "x": 44,
-        "y": 499
+        "y": 499,
+        "w": 412,
+        "h": 162
     },
     {
         "id": "ee01b6d1.f76f98",
@@ -3471,7 +3553,9 @@
             "43ffc14d.a3cac8"
         ],
         "x": 44,
-        "y": 49
+        "y": 49,
+        "w": 1412,
+        "h": 442
     },
     {
         "id": "e2589faa.5b6d2",
@@ -3490,7 +3574,9 @@
             "f0c186466f456fd2"
         ],
         "x": 54,
-        "y": 269
+        "y": 269,
+        "w": 322,
+        "h": 122
     },
     {
         "id": "e9e93a2c.deeb18",
@@ -3510,7 +3596,9 @@
             "37f2db57.b831c4"
         ],
         "x": 54,
-        "y": 399
+        "y": 399,
+        "w": 322,
+        "h": 122
     },
     {
         "id": "272ed76d.7cce68",
@@ -3778,7 +3866,9 @@
             "c7ce33ac338a9db9"
         ],
         "x": 24,
-        "y": 2219
+        "y": 2219,
+        "w": 1452,
+        "h": 242
     },
     {
         "id": "c30870cb.fa25a",
@@ -4279,7 +4369,9 @@
             "3157c937b070fc59"
         ],
         "x": 1674,
-        "y": 1209
+        "y": 1209,
+        "w": 872,
+        "h": 442
     },
     {
         "id": "37d2bc6e.615114",
@@ -4308,7 +4400,9 @@
             "59ca9b2ac35f46be"
         ],
         "x": 1624,
-        "y": 1719
+        "y": 1719,
+        "w": 912,
+        "h": 202
     },
     {
         "id": "de31a457.a923c8",
@@ -4336,13 +4430,12 @@
             "b6e11c32b8331dcb",
             "9a4e1f31c48da3ad",
             "19946862893fe848",
-            "cf9e216856107939",
-            "c7c074bf435a2a83",
-            "2b9fd860c1ccd703",
-            "b202ac4f2bf5b998"
+            "cf9e216856107939"
         ],
         "x": 1574,
-        "y": 1989
+        "y": 1989,
+        "w": 972,
+        "h": 202
     },
     {
         "id": "e5ce125e.59232",
@@ -4419,7 +4512,9 @@
             "22341ae01ccb0b7c"
         ],
         "x": 2544,
-        "y": 179
+        "y": 179,
+        "w": 652,
+        "h": 642
     },
     {
         "id": "44ee5bb3.49b264",
@@ -4479,7 +4574,9 @@
             "6271ec419c9975fc"
         ],
         "x": 2544,
-        "y": 1209
+        "y": 1209,
+        "w": 652,
+        "h": 442
     },
     {
         "id": "efe6d3f.f10193",
@@ -4515,7 +4612,9 @@
             "55372f1ea71702ea"
         ],
         "x": 2544,
-        "y": 1719
+        "y": 1719,
+        "w": 652,
+        "h": 202
     },
     {
         "id": "826b087f.5615a8",
@@ -4544,14 +4643,12 @@
             "c2e28f90.5f874",
             "fb3775bd.41b018",
             "fd4063c.445afa",
-            "7cda2e346e20ca45",
-            "637bbfe6c3959423",
-            "9ff557afc7268d9b",
-            "ff821ce8918fb347",
-            "e3332fedb965c2f9"
+            "7cda2e346e20ca45"
         ],
         "x": 2544,
-        "y": 1989
+        "y": 1989,
+        "w": 652,
+        "h": 162
     },
     {
         "id": "372b998e.a167c6",
@@ -4589,7 +4686,9 @@
             "c982f81bb2232785"
         ],
         "x": 1674,
-        "y": 2309
+        "y": 2309,
+        "w": 862,
+        "h": 322
     },
     {
         "id": "baaa353b.511268",
@@ -4637,7 +4736,9 @@
             "e3c99a130078517c"
         ],
         "x": 2544,
-        "y": 2309
+        "y": 2309,
+        "w": 652,
+        "h": 322
     },
     {
         "id": "4a1410ce.7057a",
@@ -4701,7 +4802,9 @@
             "014e809185179741"
         ],
         "x": 1654,
-        "y": 179
+        "y": 179,
+        "w": 882,
+        "h": 962
     },
     {
         "id": "76d03353.299b94",
@@ -5258,6 +5361,24 @@
         ],
         "x": 1394,
         "y": 389
+    },
+    {
+        "id": "afdbbb533d628687",
+        "type": "group",
+        "z": "902fc438.e5d758",
+        "name": "IP info",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "b35e816b7361405a",
+            "c54be5e31afc1279"
+        ],
+        "x": 1264,
+        "y": 1689,
+        "w": 422,
+        "h": 82
     },
     {
         "id": "d25d405a.19cff",
@@ -6087,11 +6208,11 @@
         "serialStopbits": "1",
         "serialParity": "none",
         "serialConnectionDelay": "100",
-        "unit_id": "5",
-        "commandDelay": "1",
-        "clientTimeout": "1000",
+        "unit_id": 5,
+        "commandDelay": 1,
+        "clientTimeout": 1000,
         "reconnectOnTimeout": true,
-        "reconnectTimeout": "2000",
+        "reconnectTimeout": 2000,
         "parallelUnitIdsAllowed": true
     },
     {
@@ -6913,31 +7034,16 @@
         "name": "DHS SCP1",
         "vartable": {
             "": {
-                "DATA_CL1.DATOS_SENSOR.Status_Comm_SF": {
+                "CLUSTER.W01.VSD.Arranque_Remoto_PD": {
                     "type": "BOOL"
                 },
-                "DATA_CL1.DATOS_SENSOR.Selec_DHS": {
-                    "type": "INT"
+                "CLUSTER.W01.VSD.Parada_Remota_PD": {
+                    "type": "BOOL"
                 },
-                "DATA_CL1.DATOS_SENSOR.Presion_Entrada": {
-                    "type": "REAL"
+                "CLUSTER.W01.VSD.Reset_Remoto_PD": {
+                    "type": "BOOL"
                 },
-                "DATA_CL1.DATOS_SENSOR.Presion_Descarga": {
-                    "type": "REAL"
-                },
-                "DATA_CL1.DATOS_SENSOR.Temperatura_Entrada": {
-                    "type": "REAL"
-                },
-                "DATA_CL1.DATOS_SENSOR.Temperatura_descarga": {
-                    "type": "REAL"
-                },
-                "DATA_CL1.DATOS_SENSOR.Temperatura_MOTOR": {
-                    "type": "REAL"
-                },
-                "DATA_CL1.DATOS_SENSOR.Vibracion_Gral": {
-                    "type": "REAL"
-                },
-                "DATA_CL1.DATOS_SENSOR.Corriente_FugaMot": {
+                "CLUSTER.W01.VSD.Referencia_Frecuencia_Remota_PD": {
                     "type": "REAL"
                 }
             }
@@ -7532,7 +7638,7 @@
         "type": "ui_spacer",
         "name": "spacer",
         "group": "4d236281.ace7dc",
-        "order": 5,
+        "order": 4,
         "width": 4,
         "height": 1
     },
@@ -7541,7 +7647,7 @@
         "type": "ui_spacer",
         "name": "spacer",
         "group": "4d236281.ace7dc",
-        "order": 7,
+        "order": 6,
         "width": "4",
         "height": 1
     },
@@ -7594,6 +7700,15 @@
                 }
             }
         }
+    },
+    {
+        "id": "6adea93ec0a12db3",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "4d236281.ace7dc",
+        "order": 7,
+        "width": "4",
+        "height": 1
     },
     {
         "id": "e765ca36.69fb98",
@@ -14656,7 +14771,7 @@
         "label": "mΩ/m",
         "tooltip": "",
         "group": "4d236281.ace7dc",
-        "order": 4,
+        "order": 3,
         "width": 4,
         "height": 1,
         "passthru": true,
@@ -14680,7 +14795,7 @@
         "label": "mH/m",
         "tooltip": "",
         "group": "4d236281.ace7dc",
-        "order": 6,
+        "order": 5,
         "width": 4,
         "height": 1,
         "passthru": true,
@@ -17210,7 +17325,7 @@
         "y": 2110,
         "wires": [
             [
-                "e3332fedb965c2f9"
+                "c2e28f90.5f874"
             ],
             []
         ]
@@ -21252,7 +21367,7 @@
             "e674f6d18b55af83"
         ],
         "x": 3155,
-        "y": 2150,
+        "y": 2110,
         "wires": []
     },
     {
@@ -22711,7 +22826,7 @@
         "order": 1,
         "width": 0,
         "height": 0,
-        "format": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n    \n  </head>\n  <body>\n    <!-- Navigation bar -->\n    <nav>\n      <div class=\"nav nav-pills nav-fill\" id=\"nav-tab\" role=\"tablist\">\n        <a class=\"nav-item nav-link active\" id=\"nav-DatosMotor-tab\" data-toggle=\"tab\" href=\"#nav-DatosMotor\" role=\"tab\" aria-controls=\"nav-DatosMotor\" aria-selected=\"true\" ng-click=\"send({payload:DatosMotor()})\">Datos de motor</a>\n        <a class=\"nav-item nav-link\" id=\"nav-RampsLimits-tab\" data-toggle=\"tab\" href=\"#nav-RampsLimits\" role=\"tab\" aria-controls=\"nav-RampsLimits\" aria-selected=\"false\" ng-click=\"send({payload:RampsLimits()})\">Rampas y Límites</a>\n        <a class=\"nav-item nav-link\" id=\"nav-DatosFiltroCable-tab\" data-toggle=\"tab\" href=\"#nav-DatosFiltroCable\" role=\"tab\" aria-controls=\"nav-DatosFiltroCable\" aria-selected=\"false\" ng-click=\"send({payload:DatosFiltroCable()})\">Datos Filtro/Cable</a>\n        <a class=\"nav-item nav-link\" id=\"nav-DatosTX-tab\" data-toggle=\"tab\" href=\"#nav-DatosTX\" role=\"tab\" aria-controls=\"nav-DatosTX\" aria-selected=\"false\" ng-click=\"send({payload:DatosTX()})\">Datos TX</a>\n        <a class=\"nav-item nav-link\" id=\"nav-AjustesRefuerzo-tab\" data-toggle=\"tab\" href=\"#nav-AjustesRefuerzo\" role=\"tab\" aria-controls=\"nav-AjustesRefuerzo\" aria-selected=\"false\" ng-click=\"send({payload:AjustesRefuerzo()})\">Ajuste de Refuerzo</a>\n      </div>\n    </nav>\n\n    <script>\n        this.scope.DatosMotor = function() { return \"DatosMotor\"; };\n        this.scope.RampsLimits = function() { return \"RampsLimits\"; };\n        this.scope.AjustesRefuerzo = function() { return \"AjustesRefuerzo\"; };\n        this.scope.DatosTX = function() { return \"DatosTX\"; };\n        this.scope.DatosFiltroCable = function() { return \"DatosFiltroCable\"; };\n        \n    </script>\n    \n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n\n  </body>\n</html>\n",
+        "format": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n    \n  </head>\n  <body>\n    <!-- Navigation bar -->\n    <nav>\n      <div class=\"nav nav-pills nav-fill\" id=\"nav-tab\" role=\"tablist\">\n        <a class=\"nav-item nav-link active\" id=\"nav-DatosMotor-tab\" data-toggle=\"tab\" href=\"#nav-DatosMotor\" role=\"tab\" aria-controls=\"nav-DatosMotor\" aria-selected=\"true\" ng-click=\"send({payload:DatosMotor()})\">Datos de motor</a>\n        <a class=\"nav-item nav-link\" id=\"nav-RampsLimits-tab\" data-toggle=\"tab\" href=\"#nav-RampsLimits\" role=\"tab\" aria-controls=\"nav-RampsLimits\" aria-selected=\"false\" ng-click=\"send({payload:RampsLimits()})\">Rampas y Límites</a>\n        <a class=\"nav-item nav-link\" id=\"nav-DatosFiltroCable-tab\" data-toggle=\"tab\" href=\"#nav-DatosFiltroCable\" role=\"tab\" aria-controls=\"nav-DatosFiltroCable\" aria-selected=\"false\" ng-click=\"send({payload:DatosFiltroCable()})\">Cable Fondo</a>\n        <a class=\"nav-item nav-link\" id=\"nav-DatosTX-tab\" data-toggle=\"tab\" href=\"#nav-DatosTX\" role=\"tab\" aria-controls=\"nav-DatosTX\" aria-selected=\"false\" ng-click=\"send({payload:DatosTX()})\">Datos TX</a>\n        <a class=\"nav-item nav-link\" id=\"nav-AjustesRefuerzo-tab\" data-toggle=\"tab\" href=\"#nav-AjustesRefuerzo\" role=\"tab\" aria-controls=\"nav-AjustesRefuerzo\" aria-selected=\"false\" ng-click=\"send({payload:AjustesRefuerzo()})\">Ajuste de Refuerzo</a>\n      </div>\n    </nav>\n\n    <script>\n        this.scope.DatosMotor = function() { return \"DatosMotor\"; };\n        this.scope.RampsLimits = function() { return \"RampsLimits\"; };\n        this.scope.AjustesRefuerzo = function() { return \"AjustesRefuerzo\"; };\n        this.scope.DatosTX = function() { return \"DatosTX\"; };\n        this.scope.DatosFiltroCable = function() { return \"DatosFiltroCable\"; };\n        \n    </script>\n    \n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n\n  </body>\n</html>\n",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
@@ -52403,8 +52518,7 @@
                 "45d0fb82.ffcd44",
                 "133ae82a.b6a158",
                 "9ae2d969.d5dba8",
-                "c2687871.db7ae8",
-                "2b9fd860c1ccd703"
+                "c2687871.db7ae8"
             ]
         ]
     },
@@ -64635,58 +64749,6 @@
         ]
     },
     {
-        "id": "f2d4bbec97371dae",
-        "type": "inject",
-        "z": "902fc438.e5d758",
-        "g": "0379aa12b6a49e83",
-        "name": "IP pqa",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "192.168.2.13",
-        "payloadType": "str",
-        "x": 1360,
-        "y": 1730,
-        "wires": [
-            [
-                "52501268e456d659"
-            ]
-        ]
-    },
-    {
-        "id": "52501268e456d659",
-        "type": "change",
-        "z": "902fc438.e5d758",
-        "g": "0379aa12b6a49e83",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "CILA_infoIP.PQA",
-                "pt": "flow",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1550,
-        "y": 1730,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "0de54509db195c49",
         "type": "function",
         "z": "902fc438.e5d758",
@@ -65846,12 +65908,12 @@
         "id": "5becbb582e0f26ee",
         "type": "eth-ip in",
         "z": "c5aadb46aa743252",
-        "endpoint": "22923d59c109b82b",
+        "endpoint": "334149985a144b7e",
         "mode": "all",
         "variable": "",
         "program": "",
         "name": "",
-        "x": 160,
+        "x": 130,
         "y": 90,
         "wires": [
             [
@@ -67098,164 +67160,6 @@
         ]
     },
     {
-        "id": "c7c074bf435a2a83",
-        "type": "ui_text_input",
-        "z": "43b51d90.0b47f4",
-        "g": "de31a457.a923c8",
-        "name": "",
-        "label": "Capacitancia filtro",
-        "tooltip": "",
-        "group": "4d236281.ace7dc",
-        "order": 3,
-        "width": 4,
-        "height": 1,
-        "passthru": true,
-        "mode": "number",
-        "delay": "0",
-        "topic": "",
-        "x": 2190,
-        "y": 2190,
-        "wires": [
-            [
-                "b202ac4f2bf5b998"
-            ]
-        ]
-    },
-    {
-        "id": "2b9fd860c1ccd703",
-        "type": "change",
-        "z": "43b51d90.0b47f4",
-        "g": "de31a457.a923c8",
-        "name": "Capaci_filtro",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "C2S.Motor_Control.PMM.Capaci_filtro",
-                "tot": "global"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1920,
-        "y": 2190,
-        "wires": [
-            [
-                "c7c074bf435a2a83"
-            ]
-        ]
-    },
-    {
-        "id": "b202ac4f2bf5b998",
-        "type": "change",
-        "z": "43b51d90.0b47f4",
-        "g": "de31a457.a923c8",
-        "name": "Capaci_filtro",
-        "rules": [
-            {
-                "t": "set",
-                "p": "C2S.Motor_Control.PMM.Capaci_filtro",
-                "pt": "global",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 2450,
-        "y": 2190,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "637bbfe6c3959423",
-        "type": "link in",
-        "z": "43b51d90.0b47f4",
-        "g": "826b087f.5615a8",
-        "name": "",
-        "links": [
-            "e3332fedb965c2f9"
-        ],
-        "x": 2675,
-        "y": 2150,
-        "wires": [
-            [
-                "9ff557afc7268d9b"
-            ]
-        ]
-    },
-    {
-        "id": "9ff557afc7268d9b",
-        "type": "change",
-        "z": "43b51d90.0b47f4",
-        "g": "826b087f.5615a8",
-        "name": "Capaci_filtro",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "C2S.Motor_Control.PMM.Capaci_filtro",
-                "tot": "global"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 2830,
-        "y": 2150,
-        "wires": [
-            [
-                "ff821ce8918fb347"
-            ]
-        ]
-    },
-    {
-        "id": "ff821ce8918fb347",
-        "type": "subflow:1ae6c379.02ea3d",
-        "z": "43b51d90.0b47f4",
-        "g": "826b087f.5615a8",
-        "name": "Filter Capactnce",
-        "env": [
-            {
-                "name": "Parameter",
-                "value": "2039",
-                "type": "num"
-            }
-        ],
-        "x": 3030,
-        "y": 2150,
-        "wires": [
-            [
-                "c2e28f90.5f874"
-            ],
-            []
-        ]
-    },
-    {
-        "id": "e3332fedb965c2f9",
-        "type": "link out",
-        "z": "43b51d90.0b47f4",
-        "g": "826b087f.5615a8",
-        "name": "",
-        "links": [
-            "637bbfe6c3959423"
-        ],
-        "x": 3155,
-        "y": 2110,
-        "wires": []
-    },
-    {
         "id": "fb15ee5c8bf9c323",
         "type": "ui_dropdown",
         "z": "d08f14e12055286a",
@@ -67456,12 +67360,12 @@
         "id": "4df8ed61e43ae60a",
         "type": "eth-ip in",
         "z": "7eb4390f8f10273f",
-        "endpoint": "c533e2045e44e279",
+        "endpoint": "334149985a144b7e",
         "mode": "all",
         "variable": "CLUSTER.W01.VSD.Referencia_Frecuencia_Remota_PD",
         "program": "",
         "name": "",
-        "x": 280,
+        "x": 250,
         "y": 50,
         "wires": [
             [
@@ -67480,7 +67384,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 490,
+        "x": 420,
         "y": 50,
         "wires": [
             []
@@ -67490,7 +67394,7 @@
         "id": "94f9b468d26c586d",
         "type": "eth-ip out",
         "z": "7eb4390f8f10273f",
-        "endpoint": "c533e2045e44e279",
+        "endpoint": "334149985a144b7e",
         "variable": "CLUSTER.W01.VSD.Referencia_Frecuencia_Remota_PD",
         "program": "",
         "name": "",
@@ -67507,7 +67411,9 @@
         "x": 1300,
         "y": 850,
         "wires": [
-            []
+            [
+                "4c3cb55755b2b7b7"
+            ]
         ]
     },
     {
@@ -67565,17 +67471,153 @@
         "id": "322f337a.986754",
         "type": "function",
         "z": "b33f2007a2776232",
-        "name": "block",
+        "name": "block parada",
         "func": "var Funciones = global.get(\"Control_functions.ActiveCF\",\"memoryOnly\")||{1:false};\n\nvar array = Object.values(Funciones);\nvar resp = array.find(element => element == true)||false;\nnode.status({fill:\"green\",shape:\"dot\",text:!resp});\n\nif(!resp){return msg;}\nelse{return;}\n\n//msg.payload = msg.payload*1000;\n//return msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1480,
-        "y": 850,
+        "x": 1570,
+        "y": 660,
         "wires": [
             []
         ]
+    },
+    {
+        "id": "4c3cb55755b2b7b7",
+        "type": "debug",
+        "z": "b33f2007a2776232",
+        "name": "",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": true,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "payload",
+        "statusType": "auto",
+        "x": 1530,
+        "y": 850,
+        "wires": []
+    },
+    {
+        "id": "2679ef434f4fc799",
+        "type": "function",
+        "z": "b33f2007a2776232",
+        "name": "block arranque",
+        "func": "var Funciones = global.get(\"Control_functions.ActiveCF\",\"memoryOnly\")||{1:false};\n\nvar array = Object.values(Funciones);\nvar resp = array.find(element => element == true)||false;\nnode.status({fill:\"green\",shape:\"dot\",text:!resp});\n\nif(!resp){return msg;}\nelse{return;}\n\n//msg.payload = msg.payload*1000;\n//return msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1580,
+        "y": 620,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4668f244329a8730",
+        "type": "function",
+        "z": "b33f2007a2776232",
+        "name": "block reset",
+        "func": "var Funciones = global.get(\"Control_functions.ActiveCF\",\"memoryOnly\")||{1:false};\n\nvar array = Object.values(Funciones);\nvar resp = array.find(element => element == true)||false;\nnode.status({fill:\"green\",shape:\"dot\",text:!resp});\n\nif(!resp){return msg;}\nelse{return;}\n\n//msg.payload = msg.payload*1000;\n//return msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1570,
+        "y": 700,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "31759d48de20e997",
+        "type": "switch",
+        "z": "b33f2007a2776232",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1340,
+        "y": 570,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b35e816b7361405a",
+        "type": "inject",
+        "z": "902fc438.e5d758",
+        "g": "afdbbb533d628687",
+        "name": "IP pqa",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "192.168.2.13",
+        "payloadType": "str",
+        "x": 1360,
+        "y": 1730,
+        "wires": [
+            [
+                "c54be5e31afc1279"
+            ]
+        ]
+    },
+    {
+        "id": "c54be5e31afc1279",
+        "type": "change",
+        "z": "902fc438.e5d758",
+        "g": "afdbbb533d628687",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "CILA_infoIP.PQA",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1550,
+        "y": 1730,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f03514ef9dc06b59",
+        "type": "comment",
+        "z": "dd18d94e.4b1408",
+        "name": "Cambiar IP del variador aqui",
+        "info": "",
+        "x": 630,
+        "y": 740,
+        "wires": []
     }
 ]
