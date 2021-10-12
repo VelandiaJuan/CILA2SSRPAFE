@@ -698,7 +698,9 @@
             "bfa48676.a364f8"
         ],
         "x": 14,
-        "y": 19
+        "y": 19,
+        "w": 432,
+        "h": 149.5
     },
     {
         "id": "d929d138.3b512",
@@ -715,7 +717,9 @@
             "480b025f.8cf9cc"
         ],
         "x": 464,
-        "y": 29
+        "y": 29,
+        "w": 282,
+        "h": 122
     },
     {
         "id": "82fde41a.c6f8d8",
@@ -748,7 +752,9 @@
             "236c6c92.d31584"
         ],
         "x": 14,
-        "y": 189
+        "y": 189,
+        "w": 852,
+        "h": 282
     },
     {
         "id": "fcb3da61.429db8",
@@ -1048,7 +1054,9 @@
             "b5972fd3.3aeb7"
         ],
         "x": 14,
-        "y": 479
+        "y": 479,
+        "w": 602,
+        "h": 202
     },
     {
         "id": "eed2da25.98fab8",
@@ -1092,7 +1100,9 @@
             "8c4c4846.6ea308"
         ],
         "x": 14,
-        "y": 699
+        "y": 699,
+        "w": 622,
+        "h": 242
     },
     {
         "id": "312f680c.5a3b4",
@@ -1314,7 +1324,9 @@
             "312d9def.84df32"
         ],
         "x": 14,
-        "y": 969
+        "y": 969,
+        "w": 702,
+        "h": 242
     },
     {
         "id": "3ae9fbe60d6132ea",
@@ -1813,7 +1825,9 @@
             "52f1e35a6b450a62"
         ],
         "x": 1384,
-        "y": 19
+        "y": 19,
+        "w": 262,
+        "h": 182
     },
     {
         "id": "10280aeffc57de7d",
@@ -2138,7 +2152,9 @@
             "cf985e84.c7693"
         ],
         "x": 18,
-        "y": 23
+        "y": 23,
+        "w": 2064,
+        "h": 944
     },
     {
         "id": "e1e65313b5eaa836",
@@ -2164,7 +2180,9 @@
             "77dcd918.f8c298"
         ],
         "x": 14,
-        "y": 1229
+        "y": 1229,
+        "w": 928,
+        "h": 378
     },
     {
         "id": "06c0dbf1bffe1e21",
@@ -2568,7 +2586,9 @@
             "54a6e602.e31808"
         ],
         "x": 294,
-        "y": 1419
+        "y": 1419,
+        "w": 622,
+        "h": 162
     },
     {
         "id": "5d9b6e5b.adfe78",
@@ -3971,7 +3991,9 @@
             "25037f6e145deee9"
         ],
         "x": 44,
-        "y": 649
+        "y": 649,
+        "w": 1152,
+        "h": 292
     },
     {
         "id": "cf985e84.c7693",
@@ -4043,7 +4065,9 @@
             "d6aaf343fc532b87"
         ],
         "x": 44,
-        "y": 49
+        "y": 49,
+        "w": 2012,
+        "h": 592
     },
     {
         "id": "ef45fa052227c233",
@@ -5293,7 +5317,9 @@
             "7af9ff4dabd191fb"
         ],
         "x": 1394,
-        "y": 389
+        "y": 389,
+        "w": 632,
+        "h": 222
     },
     {
         "id": "d25d405a.19cff",
@@ -58512,7 +58538,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Otras_Funciones_de_Control_Configuración\",\t                \"Otras_Funciones_de_Control_Tendencia\",\t                \"Otras_Funciones_de_Control_Control\",\t                \"Otras_Funciones_de_Control_Sintonización\",\t                \"Otras_Funciones_de_Control_TendenciaPID\",\t                \"Otras_Funciones_de_Control_Tendencia\",\t                \"Otras_Funciones_de_Control_Límites_de_Operación\",\t                \"Otras_Funciones_de_Control_Reglas_de_Activación\",\t                \"Otras_Funciones_de_Control_Habilitar/Deshabilitar\",\t                \"Otras_Funciones_de_Control_Navbar_PID\"],\t       \"show\":[ \"Otras_Funciones_de_Control_Nav_Bar\",\t                \"Otras_Funciones_de_Control_Habilitar_AR\",\t                \"Otras_Funciones_de_Control_Habilitar AR2\",\t                \"Otras_Funciones_de_Control_Rampas_de_Aceleración\",\t                \"Otras_Funciones_de_Control_Tiempo_de_Rearme\",\t                \"Otras_Funciones_de_Control_No._de_Intentos\"]\t   }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Otras_Funciones_de_Control_Configuración\",\t                \"Otras_Funciones_de_Control_Tendencia\",\t                \"Otras_Funciones_de_Control_Control\",\t                \"Otras_Funciones_de_Control_Sintonización\",\t                \"Otras_Funciones_de_Control_TendenciaPID\",\t                \"Otras_Funciones_de_Control_Tendencia\",\t                \"Otras_Funciones_de_Control_Límites_de_Operación\",\t                \"Otras_Funciones_de_Control_Reglas_de_Activación\",\t                \"Otras_Funciones_de_Control_Habilitar/Deshabilitar\",\t                \"Otras_Funciones_de_Control_Navbar_PID\"],\t       \"show\":[ \"Otras_Funciones_de_Control_Nav_Bar\",\t                \"Otras_Funciones_de_Control_Habilitar_AR\",\t                \"Otras_Funciones_de_Control_Habilitar_AR2\",\t                \"Otras_Funciones_de_Control_Rampas_de_Aceleración\",\t                \"Otras_Funciones_de_Control_Tiempo_de_Rearme\",\t                \"Otras_Funciones_de_Control_No._de_Intentos\"]\t   }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -60801,7 +60827,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Otras_Funciones_de_Control_TendenciaPID\",\t                \"Otras_Funciones_de_Control_Reglas_de_Activación\",\t                \"Otras_Funciones_de_Control_Habilitar_AR\",\t                \"Otras_Funciones_de_Control_Rampas_de_Aceleración\",\t                \"Otras_Funciones_de_Control_Tiempo_de_Rearme\",\t                \"Otras_Funciones_de_Control_No._de_Intentos\",\t                \"Otras_Funciones_de_Control_Habilitar_RS\",\t                \"Otras_Funciones_de_Control_Configuración\",\t                \"Otras_Funciones_de_Control_Control\",\t                \"Otras_Funciones_de_Control_Tendencia\",\t                \"Otras_Funciones_de_Control_TendenciaPID\"],\t       \"show\":[ \"Otras_Funciones_de_Control_Navbar_PID\",\t                \"Otras_Funciones_de_Control_Sintonización\",\t                \"Otras_Funciones_de_Control_Límites_de_Operación\"]\t   }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Otras_Funciones_de_Control_TendenciaPID\",\t                \"Otras_Funciones_de_Control_Reglas_de_Activación\",\t                \"Otras_Funciones_de_Control_Habilitar_AR\",\t                \"Otras_Funciones_de_Control_Rampas_de_Aceleración\",\t                \"Otras_Funciones_de_Control_Tiempo_de_Rearme\",\t                \"Otras_Funciones_de_Control_No._de_Intentos\",\t                \"Otras_Funciones_de_Control_Habilitar_AR2\",\t                \"Otras_Funciones_de_Control_Configuración\",\t                \"Otras_Funciones_de_Control_Control\",\t                \"Otras_Funciones_de_Control_Tendencia\",\t                \"Otras_Funciones_de_Control_TendenciaPID\"],\t       \"show\":[ \"Otras_Funciones_de_Control_Navbar_PID\",\t                \"Otras_Funciones_de_Control_Sintonización\",\t                \"Otras_Funciones_de_Control_Límites_de_Operación\"]\t   }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -60829,7 +60855,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Otras_Funciones_de_Control_Sintonización\",\t                \"Otras_Funciones_de_Control_Límites_de_Operación\",\t                \"Otras_Funciones_de_Control_Habilitar_AR\",\t                \"Otras_Funciones_de_Control_Rampas_de_Aceleración\",\t                \"Otras_Funciones_de_Control_Tiempo_de_Rearme\",\t                \"Otras_Funciones_de_Control_No._de_Intentos\",\t                \"Otras_Funciones_de_Control_Habilitar_RS\",\t                \"Otras_Funciones_de_Control_Configuración\",\t                \"Otras_Funciones_de_Control_TendenciaPID\",\t                \"Otras_Funciones_de_Control_Control\",\t                \"Otras_Funciones_de_Control_Tendencia\"],\t       \"show\":[ \"Otras_Funciones_de_Control_Navbar_PID\",\t                \"Otras_Funciones_de_Control_Reglas_de_Activación\"]\t   }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Otras_Funciones_de_Control_Sintonización\",\t                \"Otras_Funciones_de_Control_Límites_de_Operación\",\t                \"Otras_Funciones_de_Control_Habilitar_AR\",\t                \"Otras_Funciones_de_Control_Rampas_de_Aceleración\",\t                \"Otras_Funciones_de_Control_Tiempo_de_Rearme\",\t                \"Otras_Funciones_de_Control_No._de_Intentos\",\t                \"Otras_Funciones_de_Control_Habilitar_AR2\",\t                \"Otras_Funciones_de_Control_Configuración\",\t                \"Otras_Funciones_de_Control_TendenciaPID\",\t                \"Otras_Funciones_de_Control_Control\",\t                \"Otras_Funciones_de_Control_Tendencia\"],\t       \"show\":[ \"Otras_Funciones_de_Control_Navbar_PID\",\t                \"Otras_Funciones_de_Control_Reglas_de_Activación\"]\t   }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -60922,7 +60948,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Otras_Funciones_de_Control_Reglas_de_Activación\",\t                \"Otras_Funciones_de_Control_Sintonización\",\t                \"Otras_Funciones_de_Control_Límites_de_Operación\",\t                \"Otras_Funciones_de_Control_Habilitar_AR\",\t                \"Otras_Funciones_de_Control_Rampas_de_Aceleración\",\t                \"Otras_Funciones_de_Control_Tiempo_de_Rearme\",\t                \"Otras_Funciones_de_Control_No._de_Intentos\",\t                \"Otras_Funciones_de_Control_Habilitar_RS\",\t                \"Otras_Funciones_de_Control_Configuración\",\t                \"Otras_Funciones_de_Control_Control\",\t                \"Otras_Funciones_de_Control_Tendencia\"],\t       \"show\":[ \"Otras_Funciones_de_Control_Navbar_PID\",\t                \"Otras_Funciones_de_Control_TendenciaPID\"]\t   }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Otras_Funciones_de_Control_Reglas_de_Activación\",\t                \"Otras_Funciones_de_Control_Sintonización\",\t                \"Otras_Funciones_de_Control_Límites_de_Operación\",\t                \"Otras_Funciones_de_Control_Habilitar_AR\",\t                \"Otras_Funciones_de_Control_Rampas_de_Aceleración\",\t                \"Otras_Funciones_de_Control_Tiempo_de_Rearme\",\t                \"Otras_Funciones_de_Control_No._de_Intentos\",\t                \"Otras_Funciones_de_Control_Habilitar_AR2\",\t                \"Otras_Funciones_de_Control_Configuración\",\t                \"Otras_Funciones_de_Control_Control\",\t                \"Otras_Funciones_de_Control_Tendencia\"],\t       \"show\":[ \"Otras_Funciones_de_Control_Navbar_PID\",\t                \"Otras_Funciones_de_Control_TendenciaPID\"]\t   }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -65225,8 +65251,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1080,
-        "y": 250,
+        "x": 1370,
+        "y": 380,
         "wires": [
             []
         ]
@@ -65241,8 +65267,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1060,
-        "y": 100,
+        "x": 1350,
+        "y": 230,
         "wires": [
             []
         ]
@@ -65257,8 +65283,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1080,
-        "y": 200,
+        "x": 1370,
+        "y": 330,
         "wires": [
             []
         ]
@@ -65273,8 +65299,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1060,
-        "y": 150,
+        "x": 1350,
+        "y": 280,
         "wires": [
             []
         ]
@@ -65302,8 +65328,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1110,
-        "y": 50,
+        "x": 1400,
+        "y": 180,
         "wires": [
             []
         ]
