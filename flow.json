@@ -1595,9 +1595,7 @@
             "1a8c4a3f92c0ded2"
         ],
         "x": 1574,
-        "y": 339,
-        "w": 832,
-        "h": 702
+        "y": 339
     },
     {
         "id": "99671f60976b1d2a",
@@ -1621,9 +1619,7 @@
             "a84bce49f9e89b58"
         ],
         "x": 1544,
-        "y": 29,
-        "w": 992,
-        "h": 212
+        "y": 29
     },
     {
         "id": "95daead77be77494",
@@ -1668,9 +1664,7 @@
             "652eef7ff30e8029"
         ],
         "x": 994,
-        "y": 649,
-        "w": 532,
-        "h": 682
+        "y": 649
     },
     {
         "id": "87fca62744442ad4",
@@ -1709,9 +1703,7 @@
             "19a66bb9.eaa504"
         ],
         "x": 44,
-        "y": 409,
-        "w": 702,
-        "h": 272
+        "y": 409
     },
     {
         "id": "a7f58aaec292b159",
@@ -1754,9 +1746,7 @@
             "30359a42be66cafb"
         ],
         "x": 44,
-        "y": 689,
-        "w": 812,
-        "h": 272
+        "y": 689
     },
     {
         "id": "37b64a70f39dda06",
@@ -1795,9 +1785,7 @@
             "e0a3fe6a.f68a1"
         ],
         "x": 44,
-        "y": 969,
-        "w": 742,
-        "h": 272
+        "y": 969
     },
     {
         "id": "ee5753bdd6eedb72",
@@ -1822,9 +1810,7 @@
             "46e32360.5940dc"
         ],
         "x": 44,
-        "y": 239,
-        "w": 912,
-        "h": 162
+        "y": 239
     },
     {
         "id": "931b0370.afc1b",
@@ -1876,9 +1862,7 @@
             "9faabcc1f09b24a8"
         ],
         "x": 1394,
-        "y": 89,
-        "w": 662,
-        "h": 272
+        "y": 89
     },
     {
         "id": "fbbdc4b7.95b5c8",
@@ -1953,9 +1937,7 @@
             "8a99e2610762706f"
         ],
         "x": 34,
-        "y": 393,
-        "w": 1988,
-        "h": 848
+        "y": 393
     },
     {
         "id": "d84615.919209e8",
@@ -1970,9 +1952,7 @@
             "675af0d1.a9fc4"
         ],
         "x": 22,
-        "y": 27,
-        "w": 1176,
-        "h": 686
+        "y": 27
     },
     {
         "id": "3a4b00b6e7d09e3a",
@@ -2027,9 +2007,7 @@
             "deae04d3b07e573a"
         ],
         "x": 1234,
-        "y": 149,
-        "w": 1452,
-        "h": 632
+        "y": 149
     },
     {
         "id": "0382d006bf3e8547",
@@ -2119,9 +2097,7 @@
             "b9df7528.923398"
         ],
         "x": 28,
-        "y": 23,
-        "w": 2970,
-        "h": 1062
+        "y": 23
     },
     {
         "id": "83483662ea05d247",
@@ -2158,7 +2134,9 @@
             "b4d97ea9.9a1f1"
         ],
         "x": 28,
-        "y": 33
+        "y": 33,
+        "w": 2514,
+        "h": 834
     },
     {
         "id": "c2c81bf2.d0a218",
@@ -3598,9 +3576,7 @@
             "97085297.91fc4"
         ],
         "x": 1324,
-        "y": 419,
-        "w": 672,
-        "h": 202
+        "y": 419
     },
     {
         "id": "675af0d1.a9fc4",
@@ -3617,9 +3593,7 @@
             "9bdf522.eba6db"
         ],
         "x": 48,
-        "y": 53,
-        "w": 1124,
-        "h": 634
+        "y": 53
     },
     {
         "id": "dad84feb.d4773",
@@ -3700,9 +3674,7 @@
             "64c862c08b3c181c"
         ],
         "x": 54,
-        "y": 359,
-        "w": 1832,
-        "h": 700
+        "y": 359
     },
     {
         "id": "7aad629d.de652c",
@@ -3767,9 +3739,7 @@
             "b4c9b17bde2f220c"
         ],
         "x": 54,
-        "y": 49,
-        "w": 2762,
-        "h": 302
+        "y": 49
     },
     {
         "id": "8f8a192b.bb2ef8",
@@ -3798,9 +3768,7 @@
             "4e19cfd4.3982f"
         ],
         "x": 1894,
-        "y": 439,
-        "w": 1062,
-        "h": 232
+        "y": 439
     },
     {
         "id": "b9df7528.923398",
@@ -3817,9 +3785,7 @@
             "65994a87.9d5eb4"
         ],
         "x": 1898,
-        "y": 683,
-        "w": 1074,
-        "h": 134
+        "y": 683
     },
     {
         "id": "6625e1db09743bc3",
@@ -3884,7 +3850,9 @@
             "aa646335.08c07"
         ],
         "x": 54,
-        "y": 59
+        "y": 59,
+        "w": 752,
+        "h": 202
     },
     {
         "id": "f3b2b1b2.a0af2",
@@ -3914,7 +3882,9 @@
             "168b6577.3e722b"
         ],
         "x": 814,
-        "y": 59
+        "y": 59,
+        "w": 892,
+        "h": 292
     },
     {
         "id": "4384031.9ff1afc",
@@ -3939,7 +3909,9 @@
             "9b8ae752.54eb48"
         ],
         "x": 1714,
-        "y": 59
+        "y": 59,
+        "w": 802,
+        "h": 202
     },
     {
         "id": "b4d97ea9.9a1f1",
@@ -4001,7 +3973,9 @@
             "53dc0629efb2bf3e"
         ],
         "x": 54,
-        "y": 359
+        "y": 359,
+        "w": 1912,
+        "h": 482
     },
     {
         "id": "afcd8222.ca23b",
@@ -5276,9 +5250,7 @@
             "d0a19b38.893ab8"
         ],
         "x": 74,
-        "y": 79,
-        "w": 1042,
-        "h": 162
+        "y": 79
     },
     {
         "id": "9bdf522.eba6db",
@@ -5320,9 +5292,7 @@
             "322a4e38e5d36710"
         ],
         "x": 74,
-        "y": 249,
-        "w": 1072,
-        "h": 412
+        "y": 249
     },
     {
         "id": "65994a87.9d5eb4",
@@ -5342,9 +5312,7 @@
             "f4363e16.f1813"
         ],
         "x": 1924,
-        "y": 709,
-        "w": 1022,
-        "h": 82
+        "y": 709
     },
     {
         "id": "dd4ef7f.6489508",
@@ -43612,7 +43580,7 @@
         "z": "9941a439.4b17c8",
         "g": "dbdc491cb6e9eee5",
         "name": "Datos protecciones",
-        "func": "// Protecciones PQA.\nvar Voltage = global.get(\"PQA.Real_Time_Parameters.Average_Line_Voltage\",'memoryOnly')||0;\nvar Selection = flow.get(\"proteccionSelec\",'memoryOnly')||\"-\";\n\n// Protecciones Variador\nvar Load = global.get(\"C2S.Implicit.Output_Current\",'memoryOnly')||0;\nvar BusDC = global.get(\"C2S.Implicit.Bus_DC_Volts\", 'memoryOnly') || 0;\n\n// Protecciones Instrumentación\nvar THP = global.get(\"Process_data.AI['Presión de cabeza THP']\",'memoryOnly')||0;\nvar THT = global.get(\"Process_data.AI['Temperatura de cabeza THT']\",'memoryOnly')||0;\n\n// Sensor de Fondo\nvar Process_data            = global.get(\"Process_data.DHS\",'memoryOnly');\nvar Vibration_X             = Process_data[\"Vibración X\"]||0;\nvar Vibration_Z             = Process_data[\"Vibración Z\"]||0;\n\n//Protecciones Fondo\nvar Vibration_Gral          = Vibration_X >= Vibration_Z ? Vibration_X : Vibration_Z;\nvar LeakageCurrent          = Process_data[\"Corriente de fuga\"]||0;\nvar IntakePressure          = Process_data[\"Presión de entrada\"]||0;\nvar DischargePressure       = Process_data[\"Presión de descarga\"]||0;\nvar IntakeTemperature       = Process_data[\"Temperatura de entrada\"]||0;\nvar MotorTemperature        = Process_data[\"Temperatura de motor\"]||0;\nvar DischargeTemperature    = Process_data[\"Temperatura de descarga\"]||0;\n\nvar CurrentValue;\nif (Selection == \"Voltage\"){CurrentValue = Voltage.toFixed(2) +\" V\";}\nelse if (Selection == \"Load\") { CurrentValue = Load.toFixed(2) + \" A\";}\nelse if (Selection == \"BusDC\") { CurrentValue = BusDC.toFixed(2) + \" V\";}\nelse if (Selection == \"THP\") { CurrentValue = THP.toFixed(2) + \" psi\";}\nelse if (Selection == \"THT\") { CurrentValue = THT.toFixed(2) + \" ºF\";}\nelse if (Selection == \"Vibration_Gral\") { CurrentValue = Vibration_Gral.toFixed(2) + \" G\";}\nelse if (Selection == \"LeakageCurrent\") { CurrentValue = LeakageCurrent.toFixed(2) + \" mA\";}\nelse if (Selection == \"IntakePressure\") { CurrentValue = IntakePressure.toFixed(2) + \" psi\";}\nelse if (Selection == \"DischargePressure\") { CurrentValue = DischargePressure.toFixed(2) + \" psi\";}\nelse if (Selection == \"IntakeTemperature\") { CurrentValue = IntakeTemperature.toFixed(2) + \" ºF\";}\nelse if (Selection == \"MotorTemperature\") { CurrentValue = MotorTemperature.toFixed(2) + \" ºF\";}\nelse if (Selection == \"DischargeTemperature\") { CurrentValue = DischargeTemperature.toFixed(2) + \" ºF\";}\nelse {CurrentValue = \"---\";}\n\nreturn [\n    { payload: DecPlacces(Voltage,1)},\n    { payload: DecPlacces(Load,1)},\n    { payload: DecPlacces(BusDC,1)},\n    { payload: DecPlacces(THP,2)},\n    { payload: DecPlacces(THT,2)},\n    { payload: DecPlacces(Vibration_Gral,3)},\n    { payload: DecPlacces(LeakageCurrent,3)},\n    { payload: DecPlacces(IntakePressure,1)},\n    { payload: DecPlacces(DischargePressure,1)},\n    { payload: DecPlacces(IntakeTemperature,1)},\n    { payload: DecPlacces(MotorTemperature,1)},\n    { payload: DecPlacces(DischargeTemperature,1)},\n    { payload: CurrentValue}\n];\n\nfunction DecPlacces(value,Places){\n    return parseFloat(value.toFixed(Places));\n}",
+        "func": "// Protecciones PQA.\nvar Voltage = global.get(\"PQA.Real_Time_Parameters.Average_Line_Voltage\",'memoryOnly')||0;\nvar Selection = flow.get(\"proteccionSelec\",'memoryOnly')||\"-\";\n\n// Protecciones Variador\nvar Load = global.get(\"C2S.Implicit.Output_Current\",'memoryOnly')||0;\nvar BusDC = global.get(\"C2S.Implicit.Bus_DC_Volts\", 'memoryOnly') || 0;\n\n// Protecciones Instrumentación\nvar THP = global.get(\"Process_data.AI['Presión de cabeza THP']\",'memoryOnly')||0;\nvar THT = global.get(\"Process_data.AI['Temperatura de cabeza THT']\",'memoryOnly')||0;\n\n// Sensor de Fondo\nvar Process_data            = global.get(\"Process_data.DHS\",'memoryOnly');\nvar Vibration_X             = Process_data[\"Vibración X\"]||0;\nvar Vibration_Z             = Process_data[\"Vibración Z\"]||0;\n\n//Protecciones Fondo\nvar Vibration_Gral          = Vibration_X >= Vibration_Z ? Vibration_X : Vibration_Z;\nvar LeakageCurrent          = Process_data[\"Corriente de fuga\"]||0;\nvar IntakePressure          = Process_data[\"Presión de entrada\"]||0;\nvar DischargePressure       = Process_data[\"Presión de descarga\"]||0;\nvar IntakeTemperature       = Process_data[\"Temperatura de entrada\"]||0;\nvar MotorTemperature        = Process_data[\"Temperatura de motor\"]||0;\nvar DischargeTemperature    = Process_data[\"Temperatura de descarga\"]||0;\n\nvar CurrentValue;\nif (Selection == \"Voltage\"){CurrentValue = Voltage.toFixed(2) +\" V\";}\nelse if (Selection == \"Load\") { CurrentValue = Load.toFixed(2) + \" A\";}\nelse if (Selection == \"BusDC\") { CurrentValue = BusDC.toFixed(2) + \" V\";}\nelse if (Selection == \"THP\") { CurrentValue = THP.toFixed(2) + \" psi\";}\nelse if (Selection == \"THT\") { CurrentValue = THT.toFixed(2) + \" ºF\";}\nelse if (Selection == \"VibrationGeneral\") { CurrentValue = Vibration_Gral.toFixed(2) + \" G\";}\nelse if (Selection == \"LeakageCurrent\") { CurrentValue = LeakageCurrent.toFixed(2) + \" mA\";}\nelse if (Selection == \"IntakePressure\") { CurrentValue = IntakePressure.toFixed(2) + \" psi\";}\nelse if (Selection == \"DischargePressure\") { CurrentValue = DischargePressure.toFixed(2) + \" psi\";}\nelse if (Selection == \"IntakeTemperature\") { CurrentValue = IntakeTemperature.toFixed(2) + \" ºF\";}\nelse if (Selection == \"MotorTemperature\") { CurrentValue = MotorTemperature.toFixed(2) + \" ºF\";}\nelse if (Selection == \"DischargeTemperature\") { CurrentValue = DischargeTemperature.toFixed(2) + \" ºF\";}\nelse {CurrentValue = \"---\";}\n\nreturn [\n    { payload: DecPlacces(Voltage,1)},\n    { payload: DecPlacces(Load,1)},\n    { payload: DecPlacces(BusDC,1)},\n    { payload: DecPlacces(THP,2)},\n    { payload: DecPlacces(THT,2)},\n    { payload: DecPlacces(Vibration_Gral,3)},\n    { payload: DecPlacces(LeakageCurrent,3)},\n    { payload: DecPlacces(IntakePressure,1)},\n    { payload: DecPlacces(DischargePressure,1)},\n    { payload: DecPlacces(IntakeTemperature,1)},\n    { payload: DecPlacces(MotorTemperature,1)},\n    { payload: DecPlacces(DischargeTemperature,1)},\n    { payload: CurrentValue}\n];\n\nfunction DecPlacces(value,Places){\n    return parseFloat(value.toFixed(Places));\n}",
         "outputs": 13,
         "noerr": 0,
         "initialize": "",
@@ -50419,7 +50387,7 @@
         "server": "f630cb55.8d18e8",
         "emptyMsgOnFail": false,
         "keepMsgProperties": false,
-        "x": 2290,
+        "x": 2300,
         "y": 500,
         "wires": [
             [],
@@ -67220,7 +67188,7 @@
         "z": "43b51d90.0b47f4",
         "g": "de31a457.a923c8",
         "name": "m/ft",
-        "func": "msg.payload = parseFloat((msg.payload*0.3048).toFixed(1));\nreturn msg;",
+        "func": "msg.payload = parseFloat((msg.payload/0.3048).toFixed(1));\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -67240,7 +67208,7 @@
         "z": "43b51d90.0b47f4",
         "g": "de31a457.a923c8",
         "name": "ft/m",
-        "func": "msg.payload = parseFloat((msg.payload/0.3048).toFixed(1));\nreturn msg;",
+        "func": "msg.payload = parseFloat((msg.payload*0.3048).toFixed(1));\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -67268,7 +67236,7 @@
         "height": 1,
         "passthru": true,
         "mode": "number",
-        "delay": "10",
+        "delay": "0",
         "topic": "",
         "x": 2190,
         "y": 2190,
@@ -67315,7 +67283,7 @@
         "rules": [
             {
                 "t": "set",
-                "p": "C2S.Motor_Control.PMM.C2S.Motor_Control.PMM.Capaci_filtro",
+                "p": "C2S.Motor_Control.PMM.Capaci_filtro",
                 "pt": "global",
                 "to": "payload",
                 "tot": "msg"
