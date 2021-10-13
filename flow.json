@@ -908,7 +908,9 @@
             "c41a251e.427c98"
         ],
         "x": -2,
-        "y": 983
+        "y": 983,
+        "w": 1564,
+        "h": 334
     },
     {
         "id": "365d864c.8c19ca",
@@ -932,7 +934,9 @@
             "e032b1f4.a8be7"
         ],
         "x": 1522,
-        "y": 127
+        "y": 127,
+        "w": 1726,
+        "h": 2556
     },
     {
         "id": "43bab036.712ca",
@@ -947,7 +951,9 @@
             "e9d2f5f0.86a518"
         ],
         "x": -2,
-        "y": 521
+        "y": 521,
+        "w": 1564,
+        "h": 456
     },
     {
         "id": "54254b6e.789ca4",
@@ -969,7 +975,9 @@
             "26320c2147a2f648"
         ],
         "x": 194,
-        "y": 1329
+        "y": 1329,
+        "w": 682,
+        "h": 202
     },
     {
         "id": "68e6bb30.d1fce4",
@@ -984,7 +992,9 @@
             "a7e99088.c8108"
         ],
         "x": -2,
-        "y": 133
+        "y": 133,
+        "w": 1564,
+        "h": 374
     },
     {
         "id": "8a04702.34fd29",
@@ -1001,7 +1011,9 @@
             "49534500.cd9cdc"
         ],
         "x": 894,
-        "y": 1329
+        "y": 1329,
+        "w": 291,
+        "h": 122
     },
     {
         "id": "ab42d2fa.9240c",
@@ -1021,7 +1033,9 @@
             "82264d68.0b05a"
         ],
         "x": 3268,
-        "y": 1753
+        "y": 1753,
+        "w": 1334,
+        "h": 624
     },
     {
         "id": "bd17e5b9.9261f8",
@@ -1041,7 +1055,9 @@
             "aa730b91.5646d8"
         ],
         "x": 3264,
-        "y": 2389
+        "y": 2389,
+        "w": 752,
+        "h": 122
     },
     {
         "id": "ec31a094.c373c",
@@ -1061,7 +1077,9 @@
             "9f627758.670cd8"
         ],
         "x": 3268,
-        "y": 133
+        "y": 133,
+        "w": 1534,
+        "h": 1574
     },
     {
         "id": "d689e3de.7d569",
@@ -1102,9 +1120,7 @@
             "566c907c.70175"
         ],
         "x": 28,
-        "y": 33,
-        "w": 1264,
-        "h": 574
+        "y": 33
     },
     {
         "id": "9132da2c.b8c6b8",
@@ -1146,9 +1162,7 @@
             "7c55c2ad.611734"
         ],
         "x": 22,
-        "y": 637,
-        "w": 3146,
-        "h": 2266
+        "y": 637
     },
     {
         "id": "c3a35f81.5c82b8",
@@ -1171,9 +1185,7 @@
             "d961a2f.f52ad6"
         ],
         "x": 1874,
-        "y": 129,
-        "w": 892,
-        "h": 162
+        "y": 129
     },
     {
         "id": "9b538856.60fb38",
@@ -1988,7 +2000,9 @@
             "675af0d1.a9fc4"
         ],
         "x": 22,
-        "y": 27
+        "y": 27,
+        "w": 1176,
+        "h": 686
     },
     {
         "id": "3a4b00b6e7d09e3a",
@@ -2043,7 +2057,9 @@
             "deae04d3b07e573a"
         ],
         "x": 1234,
-        "y": 149
+        "y": 149,
+        "w": 1452,
+        "h": 632
     },
     {
         "id": "0382d006bf3e8547",
@@ -2074,9 +2090,7 @@
             "23fa42dfe2b133da"
         ],
         "x": 1334,
-        "y": 359,
-        "w": 1152,
-        "h": 232
+        "y": 359
     },
     {
         "id": "2fa4e5be63ea61ce",
@@ -2096,9 +2110,7 @@
             "da3d5f3ce168e7d3"
         ],
         "x": 1344,
-        "y": 79,
-        "w": 482,
-        "h": 232
+        "y": 79
     },
     {
         "id": "2bb641e0f5f82309",
@@ -2114,9 +2126,7 @@
             "80a9920a.43161"
         ],
         "x": 42,
-        "y": 2927,
-        "w": 2636,
-        "h": 866
+        "y": 2927
     },
     {
         "id": "e3aa057d.09fb18",
@@ -2134,9 +2144,7 @@
             "b9df7528.923398"
         ],
         "x": 28,
-        "y": 23,
-        "w": 2970,
-        "h": 1062
+        "y": 23
     },
     {
         "id": "83483662ea05d247",
@@ -2152,7 +2160,9 @@
             "6625e1db09743bc3"
         ],
         "x": -2,
-        "y": 2193
+        "y": 2193,
+        "w": 1504,
+        "h": 294
     },
     {
         "id": "854dec5e.9e51d",
@@ -2171,9 +2181,7 @@
             "b4d97ea9.9a1f1"
         ],
         "x": 28,
-        "y": 33,
-        "w": 2514,
-        "h": 834
+        "y": 33
     },
     {
         "id": "c2c81bf2.d0a218",
@@ -2633,9 +2641,7 @@
             "742e267a.cbc27"
         ],
         "x": 68,
-        "y": 2973,
-        "w": 1284,
-        "h": 594
+        "y": 2973
     },
     {
         "id": "80a9920a.43161",
@@ -2668,9 +2674,7 @@
             "7e42111d.6ffa3"
         ],
         "x": 1368,
-        "y": 2953,
-        "w": 1284,
-        "h": 814
+        "y": 2953
     },
     {
         "id": "1306de9a.9ba341",
@@ -2697,7 +2701,9 @@
             "6f6dca07.0b3994"
         ],
         "x": 894,
-        "y": 1009
+        "y": 1009,
+        "w": 642,
+        "h": 282
     },
     {
         "id": "c41a251e.427c98",
@@ -2726,7 +2732,9 @@
             "dd0739fd9e6348e6"
         ],
         "x": 24,
-        "y": 1009
+        "y": 1009,
+        "w": 862,
+        "h": 202
     },
     {
         "id": "e032b1f4.a8be7",
@@ -2747,7 +2755,9 @@
             "4a1410ce.7057a"
         ],
         "x": 1628,
-        "y": 153
+        "y": 153,
+        "w": 1594,
+        "h": 1014
     },
     {
         "id": "9bb5d411.271d48",
@@ -2768,7 +2778,9 @@
             "44ee5bb3.49b264"
         ],
         "x": 1648,
-        "y": 1183
+        "y": 1183,
+        "w": 1574,
+        "h": 494
     },
     {
         "id": "8ac2b187.14625",
@@ -2789,7 +2801,9 @@
             "efe6d3f.f10193"
         ],
         "x": 1598,
-        "y": 1693
+        "y": 1693,
+        "w": 1624,
+        "h": 254
     },
     {
         "id": "dd0fb9ab.f737f8",
@@ -2810,7 +2824,9 @@
             "de31a457.a923c8"
         ],
         "x": 1548,
-        "y": 1963
+        "y": 1963,
+        "w": 1674,
+        "h": 254
     },
     {
         "id": "dad86215.ed79c",
@@ -2831,7 +2847,9 @@
             "baaa353b.511268"
         ],
         "x": 1648,
-        "y": 2283
+        "y": 2283,
+        "w": 1574,
+        "h": 374
     },
     {
         "id": "27c43941.e9e0c6",
@@ -2869,7 +2887,9 @@
             "dc19234d7f6c1436"
         ],
         "x": 24,
-        "y": 549
+        "y": 549,
+        "w": 772,
+        "h": 322
     },
     {
         "id": "e9d2f5f0.86a518",
@@ -2902,7 +2922,9 @@
             "8307ca17.c4d5b8"
         ],
         "x": 804,
-        "y": 547
+        "y": 547,
+        "w": 732,
+        "h": 404
     },
     {
         "id": "6cdd72bc.8124cc",
@@ -2931,7 +2953,9 @@
             "4690fd613d3bc91f"
         ],
         "x": 24,
-        "y": 159
+        "y": 159,
+        "w": 752,
+        "h": 202
     },
     {
         "id": "a7e99088.c8108",
@@ -2961,7 +2985,9 @@
             "c48a9a39.50daa8"
         ],
         "x": 784,
-        "y": 159
+        "y": 159,
+        "w": 752,
+        "h": 322
     },
     {
         "id": "78a8be83.7018c",
@@ -2992,7 +3018,9 @@
             "3f3a83c71b2f5a67"
         ],
         "x": 3304,
-        "y": 1869
+        "y": 1869,
+        "w": 1272,
+        "h": 482
     },
     {
         "id": "82264d68.0b05a",
@@ -3012,7 +3040,9 @@
             "84631e96.4b794"
         ],
         "x": 3294,
-        "y": 1779
+        "y": 1779,
+        "w": 682,
+        "h": 82
     },
     {
         "id": "4af99851.bcfb28",
@@ -3081,7 +3111,9 @@
             "7b5ffe1a.15acc"
         ],
         "x": 3294,
-        "y": 159
+        "y": 159,
+        "w": 832,
+        "h": 1522
     },
     {
         "id": "9f627758.670cd8",
@@ -3153,7 +3185,9 @@
             "487147d15f5c304a"
         ],
         "x": 4134,
-        "y": 159
+        "y": 159,
+        "w": 642,
+        "h": 562
     },
     {
         "id": "71fd37.e2a532c8",
@@ -3198,9 +3232,7 @@
             "868cefce.6694a"
         ],
         "x": 54,
-        "y": 59,
-        "w": 1212,
-        "h": 362
+        "y": 59
     },
     {
         "id": "566c907c.70175",
@@ -3224,9 +3256,7 @@
             "3f94e47b8b495988"
         ],
         "x": 54,
-        "y": 429,
-        "w": 1002,
-        "h": 152
+        "y": 429
     },
     {
         "id": "f167459.5f028b8",
@@ -3245,9 +3275,7 @@
             "f68d7eac.63fb98"
         ],
         "x": 48,
-        "y": 703,
-        "w": 1744,
-        "h": 2174
+        "y": 703
     },
     {
         "id": "7c55c2ad.611734",
@@ -3265,9 +3293,7 @@
             "c4bcf1ca.3d67d"
         ],
         "x": 1778,
-        "y": 663,
-        "w": 1364,
-        "h": 1121.5
+        "y": 663
     },
     {
         "id": "b1830307.ee865",
@@ -3607,7 +3633,9 @@
             "9bdf522.eba6db"
         ],
         "x": 48,
-        "y": 53
+        "y": 53,
+        "w": 1124,
+        "h": 634
     },
     {
         "id": "dad84feb.d4773",
@@ -3685,9 +3713,7 @@
             "dba5a375ebc26199"
         ],
         "x": 54,
-        "y": 359,
-        "w": 1832,
-        "h": 700
+        "y": 359
     },
     {
         "id": "7aad629d.de652c",
@@ -3752,9 +3778,7 @@
             "b4c9b17bde2f220c"
         ],
         "x": 54,
-        "y": 49,
-        "w": 2762,
-        "h": 302
+        "y": 49
     },
     {
         "id": "8f8a192b.bb2ef8",
@@ -3783,9 +3807,7 @@
             "4e19cfd4.3982f"
         ],
         "x": 1894,
-        "y": 439,
-        "w": 1062,
-        "h": 232
+        "y": 439
     },
     {
         "id": "b9df7528.923398",
@@ -3802,9 +3824,7 @@
             "65994a87.9d5eb4"
         ],
         "x": 1898,
-        "y": 683,
-        "w": 1074,
-        "h": 134
+        "y": 683
     },
     {
         "id": "6625e1db09743bc3",
@@ -3837,7 +3857,9 @@
             "c7ce33ac338a9db9"
         ],
         "x": 24,
-        "y": 2219
+        "y": 2219,
+        "w": 1452,
+        "h": 242
     },
     {
         "id": "c30870cb.fa25a",
@@ -3867,9 +3889,7 @@
             "aa646335.08c07"
         ],
         "x": 54,
-        "y": 59,
-        "w": 752,
-        "h": 202
+        "y": 59
     },
     {
         "id": "f3b2b1b2.a0af2",
@@ -3899,9 +3919,7 @@
             "168b6577.3e722b"
         ],
         "x": 814,
-        "y": 59,
-        "w": 892,
-        "h": 292
+        "y": 59
     },
     {
         "id": "4384031.9ff1afc",
@@ -3926,9 +3944,7 @@
             "9b8ae752.54eb48"
         ],
         "x": 1714,
-        "y": 59,
-        "w": 802,
-        "h": 202
+        "y": 59
     },
     {
         "id": "b4d97ea9.9a1f1",
@@ -3990,9 +4006,7 @@
             "53dc0629efb2bf3e"
         ],
         "x": 54,
-        "y": 359,
-        "w": 1912,
-        "h": 482
+        "y": 359
     },
     {
         "id": "afcd8222.ca23b",
@@ -4229,9 +4243,7 @@
             "ec7a9df336d4ffeb"
         ],
         "x": 94,
-        "y": 2999,
-        "w": 1232,
-        "h": 542
+        "y": 2999
     },
     {
         "id": "f6e2a6e0.47efb8",
@@ -4270,9 +4282,7 @@
             "b6a4e02ca271262e"
         ],
         "x": 1394,
-        "y": 2979,
-        "w": 1232,
-        "h": 322
+        "y": 2979
     },
     {
         "id": "edfe6c51.d89c68",
@@ -4307,9 +4317,7 @@
             "6f5153fc.5881dc"
         ],
         "x": 1394,
-        "y": 3299,
-        "w": 722,
-        "h": 442
+        "y": 3299
     },
     {
         "id": "16097ef1.129291",
@@ -4356,7 +4364,9 @@
             "3157c937b070fc59"
         ],
         "x": 1674,
-        "y": 1209
+        "y": 1209,
+        "w": 872,
+        "h": 442
     },
     {
         "id": "37d2bc6e.615114",
@@ -4385,7 +4395,9 @@
             "59ca9b2ac35f46be"
         ],
         "x": 1624,
-        "y": 1719
+        "y": 1719,
+        "w": 912,
+        "h": 202
     },
     {
         "id": "de31a457.a923c8",
@@ -4416,7 +4428,9 @@
             "cf9e216856107939"
         ],
         "x": 1574,
-        "y": 1989
+        "y": 1989,
+        "w": 972,
+        "h": 202
     },
     {
         "id": "e5ce125e.59232",
@@ -4493,7 +4507,9 @@
             "22341ae01ccb0b7c"
         ],
         "x": 2544,
-        "y": 179
+        "y": 179,
+        "w": 652,
+        "h": 642
     },
     {
         "id": "44ee5bb3.49b264",
@@ -4553,7 +4569,9 @@
             "6271ec419c9975fc"
         ],
         "x": 2544,
-        "y": 1209
+        "y": 1209,
+        "w": 652,
+        "h": 442
     },
     {
         "id": "efe6d3f.f10193",
@@ -4589,7 +4607,9 @@
             "55372f1ea71702ea"
         ],
         "x": 2544,
-        "y": 1719
+        "y": 1719,
+        "w": 652,
+        "h": 202
     },
     {
         "id": "826b087f.5615a8",
@@ -4621,7 +4641,9 @@
             "7cda2e346e20ca45"
         ],
         "x": 2544,
-        "y": 1989
+        "y": 1989,
+        "w": 652,
+        "h": 162
     },
     {
         "id": "372b998e.a167c6",
@@ -4659,7 +4681,9 @@
             "c982f81bb2232785"
         ],
         "x": 1674,
-        "y": 2309
+        "y": 2309,
+        "w": 862,
+        "h": 322
     },
     {
         "id": "baaa353b.511268",
@@ -4707,7 +4731,9 @@
             "e3c99a130078517c"
         ],
         "x": 2544,
-        "y": 2309
+        "y": 2309,
+        "w": 652,
+        "h": 322
     },
     {
         "id": "4a1410ce.7057a",
@@ -4771,7 +4797,9 @@
             "014e809185179741"
         ],
         "x": 1654,
-        "y": 179
+        "y": 179,
+        "w": 882,
+        "h": 962
     },
     {
         "id": "76d03353.299b94",
@@ -4835,9 +4863,7 @@
             "901abd09c7f1d327"
         ],
         "x": 74,
-        "y": 729,
-        "w": 1242,
-        "h": 842
+        "y": 729
     },
     {
         "id": "49c39e.d1336c64",
@@ -5014,9 +5040,7 @@
             "e2a956b347fcb43a"
         ],
         "x": 84,
-        "y": 1579,
-        "w": 1682,
-        "h": 1112
+        "y": 1579
     },
     {
         "id": "f68d7eac.63fb98",
@@ -5046,9 +5070,7 @@
             "dc7c0e6833d4017c"
         ],
         "x": 84,
-        "y": 2669,
-        "w": 892,
-        "h": 182
+        "y": 2669
     },
     {
         "id": "d532ac68.2d5408",
@@ -5103,9 +5125,7 @@
             "b11471d1de6d950b"
         ],
         "x": 1824,
-        "y": 689,
-        "w": 1292,
-        "h": 502
+        "y": 689
     },
     {
         "id": "c4bcf1ca.3d67d",
@@ -5166,9 +5186,7 @@
             "8862fe04df379b4e"
         ],
         "x": 1804,
-        "y": 1219,
-        "w": 1292,
-        "h": 539.5
+        "y": 1219
     },
     {
         "id": "a80677cf.4274c8",
@@ -5249,7 +5267,9 @@
             "d0a19b38.893ab8"
         ],
         "x": 74,
-        "y": 79
+        "y": 79,
+        "w": 1042,
+        "h": 162
     },
     {
         "id": "9bdf522.eba6db",
@@ -5292,7 +5312,9 @@
             "8ca4e5b4ca175ad4"
         ],
         "x": 74,
-        "y": 249
+        "y": 249,
+        "w": 1072,
+        "h": 412
     },
     {
         "id": "65994a87.9d5eb4",
@@ -5312,9 +5334,7 @@
             "f4363e16.f1813"
         ],
         "x": 1924,
-        "y": 709,
-        "w": 1022,
-        "h": 82
+        "y": 709
     },
     {
         "id": "dd4ef7f.6489508",
@@ -9147,7 +9167,7 @@
         "order": 4,
         "width": 3,
         "height": "3",
-        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n</head>\n\n<body>\n    <div class=\"container align-self-center\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col\">\n                <img src=\"http://localhost:1880/swcpro-images/hlogo.png\" style=\"width:75%;\">\n            </div>\n        </div>\n    </div>\n    <div class=\"container align-self-center\">\n        <div class=\"row justify-content-center\">\n            <h5><span class=\"badge badge-secondary\">Versión: RB 1.0.0</span></h5>\n        </div>\n    </div>\n</body>\n\n<script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n<script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n<script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script>\n\n<style>\n    .disable-select {\n        user-select: none;\n        /* supported by Chrome and Opera */\n        -webkit-user-select: none;\n        /* Safari */\n        -khtml-user-select: none;\n        /* Konqueror HTML */\n        -moz-user-select: none;\n        /* Firefox */\n        -ms-user-select: none;\n        /* Internet Explorer/Edge */\n    }\n\n    .imagen {\n        height: 90px;\n        background-image: url(http://localhost:1880/swcpro-images/hlogo.png);\n        background-size: contain;\n        background-repeat: no-repeat;\n        background-position: center center;\n    }\n</style>\n\n</html>",
+        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n</head>\n\n<body>\n    <div class=\"container align-self-center\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col\">\n                <img src=\"http://localhost:1880/swcpro-images/hlogo.png\" style=\"width:75%;\">\n            </div>\n        </div>\n    </div>\n    <div class=\"container align-self-center\">\n        <div class=\"row justify-content-center\">\n            <h5><span class=\"badge badge-secondary\">Versión: RB 1.7.2</span></h5>\n        </div>\n    </div>\n</body>\n\n<script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n<script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n<script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script>\n\n<style>\n    .disable-select {\n        user-select: none;\n        /* supported by Chrome and Opera */\n        -webkit-user-select: none;\n        /* Safari */\n        -khtml-user-select: none;\n        /* Konqueror HTML */\n        -moz-user-select: none;\n        /* Firefox */\n        -ms-user-select: none;\n        /* Internet Explorer/Edge */\n    }\n\n    .imagen {\n        height: 90px;\n        background-image: url(http://localhost:1880/swcpro-images/hlogo.png);\n        background-size: contain;\n        background-repeat: no-repeat;\n        background-position: center center;\n    }\n</style>\n\n</html>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
@@ -9180,7 +9200,7 @@
                 "type": "str"
             },
             {
-                "label": "Carga",
+                "label": "Corriente VSD",
                 "value": "Load",
                 "type": "str"
             },
@@ -9660,11 +9680,12 @@
         "z": "9941a439.4b17c8",
         "g": "ee5753bdd6eedb72",
         "name": "a Tabla",
-        "func": "var protecciones = global.get(\"Protections\")||null;\nvar statusprot = global.get(\"Protections\",\"memoryOnly\")||null;\nvar labelprot = [\"Voltage\",\"Load\",\"BusDC\",\"THP\",\"THT\",\"VibrationGeneral\",\"CurrentLeakage\",\"IntakePressure\",\"DischargePressure\",\"IntakeTemperature\",\"MotorTemperature\",\"DischargeTemperature\"];\nvar estadoprot = [];\n\nevaluarhab();\nevalstatus();\n\nmsg.payload = [ {'protec': \"<font size = 4px>Tension\",'condic': estadoprot[0]},\n                {'protec': \"<font size = 4px>Carga\",'condic': estadoprot[1]},\n                {'protec': \"<font size = 4px>Bus DC\",'condic': estadoprot[2]},\n                {'protec': \"<font size = 4px>Presión THP\",'condic': estadoprot[3]},\n                {'protec': \"<font size = 4px>Temperatura THT\",'condic': estadoprot[4]},\n                {'protec': \"<font size = 4px>Vibración\",'condic': estadoprot[5]},\n                {'protec': \"<font size = 4px>Corriente de fuga\",'condic': estadoprot[6]},\n                {'protec': \"<font size = 4px>Presión de entrada\",'condic': estadoprot[7]},\n                {'protec': \"<font size = 4px>Presión de salida\",'condic': estadoprot[8]},\n                {'protec': \"<font size = 4px>Temperatura de entrada\",'condic': estadoprot[9]},\n                {'protec': \"<font size = 4px>Temperatura de motor\",'condic': estadoprot[10]},\n                {'protec': \"<font size = 4px>Temperatura de descarga\",'condic': estadoprot[11]}\n    ];\nreturn msg;\n\nfunction evaluarhab(){\n    for(i=0;i<12;i++){\n        var acu=0;\n        if(protecciones!=null){\n            if (typeof protecciones[labelprot[i]] !='undefined'){\n                if(protecciones[labelprot[i]].HH.EN == true)\n                    acu++;\n                if(protecciones[labelprot[i]].H.EN == true)\n                    acu++;\n                if(protecciones[labelprot[i]].L.EN == true)\n                    acu++;\n                if(protecciones[labelprot[i]].LL.EN == true)\n                    acu++;\n                if(acu>0)\n                    estadoprot.push(\"<font size = 4px><font color = green>Normal\");\n                else\n                    estadoprot.push(\"<font size = 4px><font color = gray>-----\");\n            }\n            else\n                estadoprot.push(\"<font size = 4px><font color = gray>-----\");\n        }\n        else\n            estadoprot.push(\"<font size = 4px><font color = gray>-----\");\n    }\n}\n\nfunction evalstatus(){\n    for(i=0;i<12;i++){\n        if(statusprot!=null){\n            if(estadoprot[i] == \"<font size = 4px><font color = green>Normal\"){\n                if (typeof statusprot[labelprot[i]] !='undefined'){\n                    if(statusprot[labelprot[i]].H == true)\n                        estadoprot[i] = \"<font size = 4px><font color = orange><b>Alarma H<b>\";\n                    if(statusprot[labelprot[i]].L == true)\n                        estadoprot[i] = \"<font size = 4px><font color = orange><b>Alarma L<b>\";\n                    if(statusprot[labelprot[i]].HH == true)\n                        estadoprot[i] = \"<font size = 4px><font color = red><b>Disparo HH<b>\";\n                    if(statusprot[labelprot[i]].LL == true)\n                        estadoprot[i] = \"<font size = 4px><font color = red><b>Disparo LL<b>\";\n                }\n            }\n        }\n    }\n}",
+        "func": "var protecciones = global.get(\"Protections\")||null;\nvar statusprot = global.get(\"Protections\",\"memoryOnly\")||null;\nvar labelprot = [\"Voltage\",\"Load\",\"BusDC\",\"THP\",\"THT\",\"VibrationGeneral\",\"CurrentLeakage\",\"IntakePressure\",\"DischargePressure\",\"IntakeTemperature\",\"MotorTemperature\",\"DischargeTemperature\"];\nvar estadoprot = [];\n\nevaluarhab();\nevalstatus();\n\nmsg.payload = [ {'protec': \"<font size = 4px>Tension\",'condic': estadoprot[0]},\n                {'protec': \"<font size = 4px>Corriente VSD\",'condic': estadoprot[1]},\n                {'protec': \"<font size = 4px>Bus DC\",'condic': estadoprot[2]},\n                {'protec': \"<font size = 4px>Presión THP\",'condic': estadoprot[3]},\n                {'protec': \"<font size = 4px>Temperatura THT\",'condic': estadoprot[4]},\n                {'protec': \"<font size = 4px>Vibración\",'condic': estadoprot[5]},\n                {'protec': \"<font size = 4px>Corriente de fuga\",'condic': estadoprot[6]},\n                {'protec': \"<font size = 4px>Presión de entrada\",'condic': estadoprot[7]},\n                {'protec': \"<font size = 4px>Presión de salida\",'condic': estadoprot[8]},\n                {'protec': \"<font size = 4px>Temperatura de entrada\",'condic': estadoprot[9]},\n                {'protec': \"<font size = 4px>Temperatura de motor\",'condic': estadoprot[10]},\n                {'protec': \"<font size = 4px>Temperatura de descarga\",'condic': estadoprot[11]}\n    ];\nreturn msg;\nvar i;\nfunction evaluarhab(){\n    for(i=0;i<12;i++){\n        var acu=0;\n        if(protecciones!=null){\n            if (typeof protecciones[labelprot[i]] !='undefined'){\n                if(protecciones[labelprot[i]].HH.EN == true)\n                    acu++;\n                if(protecciones[labelprot[i]].H.EN == true)\n                    acu++;\n                if(protecciones[labelprot[i]].L.EN == true)\n                    acu++;\n                if(protecciones[labelprot[i]].LL.EN == true)\n                    acu++;\n                if(acu>0)\n                    estadoprot.push(\"<font size = 4px><font color = green>Normal\");\n                else\n                    estadoprot.push(\"<font size = 4px><font color = gray>-----\");\n            }\n            else\n                estadoprot.push(\"<font size = 4px><font color = gray>-----\");\n        }\n        else\n            estadoprot.push(\"<font size = 4px><font color = gray>-----\");\n    }\n}\n\nfunction evalstatus(){\n    for(i=0;i<12;i++){\n        if(statusprot!=null){\n            if(estadoprot[i] == \"<font size = 4px><font color = green>Normal\"){\n                if (typeof statusprot[labelprot[i]] !='undefined'){\n                    if(statusprot[labelprot[i]].H == true)\n                        estadoprot[i] = \"<font size = 4px><font color = orange><b>Alarma H<b>\";\n                    if(statusprot[labelprot[i]].L == true)\n                        estadoprot[i] = \"<font size = 4px><font color = orange><b>Alarma L<b>\";\n                    if(statusprot[labelprot[i]].HH == true)\n                        estadoprot[i] = \"<font size = 4px><font color = red><b>Disparo HH<b>\";\n                    if(statusprot[labelprot[i]].LL == true)\n                        estadoprot[i] = \"<font size = 4px><font color = red><b>Disparo LL<b>\";\n                }\n            }\n        }\n    }\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 620,
         "y": 300,
         "wires": [
@@ -13149,7 +13170,7 @@
         "z": "43b51d90.0b47f4",
         "g": "6cdd72bc.8124cc",
         "name": "",
-        "label": "Límite mínimo",
+        "label": "Frecuencia mínima",
         "tooltip": "",
         "group": "53f5e611.7d5b48",
         "order": 2,
@@ -13159,7 +13180,7 @@
         "mode": "number",
         "delay": "100",
         "topic": "",
-        "x": 529,
+        "x": 490,
         "y": 280,
         "wires": [
             [
@@ -13173,7 +13194,7 @@
         "z": "43b51d90.0b47f4",
         "g": "6cdd72bc.8124cc",
         "name": "",
-        "label": "Límite máximo",
+        "label": "Frecuencia máxima",
         "tooltip": "",
         "group": "53f5e611.7d5b48",
         "order": 5,
@@ -13183,7 +13204,7 @@
         "mode": "number",
         "delay": "100",
         "topic": "",
-        "x": 530,
+        "x": 500,
         "y": 320,
         "wires": [
             [
@@ -45484,7 +45505,7 @@
         "width": 2,
         "height": 1,
         "passthru": false,
-        "label": "<font size = 2px>Op. Normal",
+        "label": "<font size = 2px>Principal",
         "tooltip": "",
         "color": "green",
         "bgcolor": "#d4d4cf",
@@ -48087,7 +48108,7 @@
         "width": 2,
         "height": 1,
         "passthru": false,
-        "label": "<font size = 2px>Op. Normal",
+        "label": "<font size = 2px>Principal",
         "tooltip": "",
         "color": "green",
         "bgcolor": "#d4d4cf",
@@ -61975,7 +61996,7 @@
         "height": 1,
         "name": "titulo arranque",
         "label": "",
-        "format": "<font size = 4px>Op. Normal {{msg.payload}}",
+        "format": "",
         "layout": "row-left",
         "x": 1010,
         "y": 40,
