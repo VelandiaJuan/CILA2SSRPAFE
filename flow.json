@@ -3364,8 +3364,8 @@
         },
         "nodes": [
             "76d03353.299b94",
-            "49c39e.d1336c64",
-            "f68d7eac.63fb98"
+            "f68d7eac.63fb98",
+            "49c39e.d1336c64"
         ],
         "x": 48,
         "y": 703,
@@ -4971,185 +4971,6 @@
         "h": 842
     },
     {
-        "id": "49c39e.d1336c64",
-        "type": "group",
-        "z": "7a89175c.90f6a8",
-        "g": "f167459.5f028b8",
-        "name": "Lectura y asignación",
-        "style": {
-            "fill": "#bfc7d7",
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "54c12847.319f98",
-            "6f336942.c58e1",
-            "f9b834a1.6c5a5",
-            "eb6bdff7.d5569",
-            "c20e1b92.e56e1",
-            "d17c3c2d.965de",
-            "dab82b8f.e880b",
-            "3134cc67.a5a254",
-            "af3144a8.4a3b3",
-            "31a64605.74157a",
-            "30fc350c.0aa69a",
-            "1a4ccb.26b08336",
-            "4908d8f6.97f228",
-            "ec7a14d8.fa5698",
-            "c52f7d3.c8a3",
-            "c9d88b91.5f83a8",
-            "f06a62d1.ada4d8",
-            "fc8213b0.f28cc",
-            "77508f33.45f12",
-            "5287952b.dbba9c",
-            "74448153.b8033",
-            "b4155087.d0ca4",
-            "e6312c67.27e8d",
-            "88f57863.f4af9",
-            "72a989b1.85998",
-            "45e8974.fb42ee8",
-            "44fff4a7.060ba4",
-            "baae080a.c182c8",
-            "1561ad43.605253",
-            "761da194.76fb",
-            "cb551b9a.bd13d",
-            "e046565b.c4feb",
-            "83de296d.53474",
-            "747e1688.393e4",
-            "a8ab9da7.503428",
-            "ef75c8ee.09e148",
-            "92dda540.64d698",
-            "fc2a5e3c.ff192",
-            "c8299c5c.f6ad3",
-            "aa0dd7ec.1d1e5",
-            "f18a3b7c.1aad6",
-            "95c053ae2c019985",
-            "2e2cf12086edcf86",
-            "4fe80e167740fe3b",
-            "700f09d5af266f7c",
-            "6f0d221e3a45b687",
-            "1849f3aa0476fa69",
-            "66e2a95ab2027f24",
-            "cf7f1dbc82e6cdf6",
-            "a6e1ec9e8b26c3a0",
-            "5df2ddef493d23fe",
-            "4e13729b39b53a93",
-            "7597b324654286f9",
-            "8d447a4ef7c4cb60",
-            "6f3178a650d8f715",
-            "2269e10b0b7231d8",
-            "3f9c85c8e9580550",
-            "d84e84fdd737275b",
-            "4548acf8d88fcc50",
-            "514d5ed34a685fd8",
-            "f26c7cd67e2a751d",
-            "b5ec933cfb0dbcbd",
-            "5da2941ec6653d0f",
-            "b9fd0d85469bdf62",
-            "3de787026c042847",
-            "fc9ab9803bf425e9",
-            "cd0abe2063f7e179",
-            "f3abda2e507b8187",
-            "fca9f1d2b33c8c2e",
-            "031596c77ab928a6",
-            "a724aed5969ba98e",
-            "8f47197d521272a7",
-            "4ecee57cdebe7ef9",
-            "3fa49a152e65892e",
-            "350c6611a0391867",
-            "a853aa4816675625",
-            "fce58f058803ab8c",
-            "30127a72a9e86380",
-            "201ace7033e4132b",
-            "da4c7a07f5b760bc",
-            "ec420b972b84d6ae",
-            "f441ed5865c99c7f",
-            "4f0b55e892bfb4a3",
-            "3643e1d2b5d5f9fa",
-            "46fe667e3d90053a",
-            "b82e31a7ba4b9493",
-            "6a842bb4461218eb",
-            "189c95398ca4a74d",
-            "b2ee82111ec548a3",
-            "f23e7677d613999c",
-            "04e938b98f177269",
-            "f0c4e1c284d417e4",
-            "5b71991a6e96505e",
-            "e3ef249e78603d8f",
-            "d8c71c648cf1f608",
-            "b99e04abad6045ae",
-            "19aea13c856153f6",
-            "5ab703c3e911fc3e",
-            "edb17caf37c08ee9",
-            "75922f11ac8749fb",
-            "3161bcdbdf37be16",
-            "e6c20f948495f302",
-            "3fc079948c7f2493",
-            "1e344070d99d23c3",
-            "40c06d2a5432c88f",
-            "a682a86850214d5f",
-            "c6a423374d97a37e",
-            "51b02f5772ae79a5",
-            "42cae9fbf107f110",
-            "0220f9cd260d0dcd",
-            "7250a8f6b3cf4176",
-            "307b5601f51c9d31",
-            "ecec3b9850b6eabb",
-            "563c0a8a176cfc41",
-            "fdb7ccf7f3ebf53e",
-            "ca3af6e1d9ee34fc",
-            "6433e4e81cbe5966",
-            "dc85213a17dc9013",
-            "a90a4c26744febb0",
-            "91e8a1a7b161d82c",
-            "ab3e62c25ddbc9c1",
-            "0ad35375797d0a52",
-            "018dcb63fda2f0d3",
-            "6fed0052fdfbe6ae",
-            "58b360b864d7d87f",
-            "d84a785289e598cd",
-            "6133d498b94e40b8",
-            "2ff24437b6c204db",
-            "17a07b9ae7a7861b",
-            "b5d771a24eb13652",
-            "d4b501a8a9462e2e",
-            "ab0eb95721c4a38c",
-            "b7e8c0e0211714a7",
-            "4389731b102c742f",
-            "eb879b75e4a754f9",
-            "b142564394135d0f",
-            "b8f6d05216308f2f",
-            "5b523df343832e42",
-            "7c549260263926de",
-            "a6537492cee742bb",
-            "5de1f62eeac3700c",
-            "0136783bb78db2e2",
-            "6d0c3c367c64344a",
-            "ea0a3cc6e4d6537a",
-            "33cf5bad91b4412f",
-            "86f805b5cb28bb05",
-            "bd92a3ae5f6e2f10",
-            "2aa31c125e8aa8f1",
-            "9b11a2d4e3432956",
-            "ea1cf5c958c8fbd1",
-            "ae81aa320575e993",
-            "de596228ce0351bb",
-            "fce9ca29ea26c2ca",
-            "7c2016e7007063f4",
-            "bf08332fad815da4",
-            "d7a21b76ea69a930",
-            "2dcd110a422850fa",
-            "c3df5a6a531467c2",
-            "9a42b3bc50c233d0",
-            "e2a956b347fcb43a",
-            "5a01ed73.b7a1f4"
-        ],
-        "x": 84,
-        "y": 1579,
-        "w": 1682,
-        "h": 1112
-    },
-    {
         "id": "f68d7eac.63fb98",
         "type": "group",
         "z": "7a89175c.90f6a8",
@@ -5479,6 +5300,187 @@
         ],
         "x": 1394,
         "y": 389
+    },
+    {
+        "id": "49c39e.d1336c64",
+        "type": "group",
+        "z": "7a89175c.90f6a8",
+        "g": "f167459.5f028b8",
+        "name": "Lectura y asignación",
+        "style": {
+            "fill": "#bfc7d7",
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "54c12847.319f98",
+            "6f336942.c58e1",
+            "f9b834a1.6c5a5",
+            "eb6bdff7.d5569",
+            "c20e1b92.e56e1",
+            "d17c3c2d.965de",
+            "dab82b8f.e880b",
+            "3134cc67.a5a254",
+            "af3144a8.4a3b3",
+            "31a64605.74157a",
+            "30fc350c.0aa69a",
+            "1a4ccb.26b08336",
+            "4908d8f6.97f228",
+            "ec7a14d8.fa5698",
+            "c52f7d3.c8a3",
+            "c9d88b91.5f83a8",
+            "f06a62d1.ada4d8",
+            "fc8213b0.f28cc",
+            "77508f33.45f12",
+            "5287952b.dbba9c",
+            "74448153.b8033",
+            "b4155087.d0ca4",
+            "e6312c67.27e8d",
+            "88f57863.f4af9",
+            "72a989b1.85998",
+            "45e8974.fb42ee8",
+            "44fff4a7.060ba4",
+            "baae080a.c182c8",
+            "1561ad43.605253",
+            "761da194.76fb",
+            "cb551b9a.bd13d",
+            "e046565b.c4feb",
+            "83de296d.53474",
+            "747e1688.393e4",
+            "a8ab9da7.503428",
+            "ef75c8ee.09e148",
+            "92dda540.64d698",
+            "fc2a5e3c.ff192",
+            "c8299c5c.f6ad3",
+            "aa0dd7ec.1d1e5",
+            "f18a3b7c.1aad6",
+            "95c053ae2c019985",
+            "2e2cf12086edcf86",
+            "4fe80e167740fe3b",
+            "700f09d5af266f7c",
+            "6f0d221e3a45b687",
+            "1849f3aa0476fa69",
+            "66e2a95ab2027f24",
+            "cf7f1dbc82e6cdf6",
+            "a6e1ec9e8b26c3a0",
+            "5df2ddef493d23fe",
+            "4e13729b39b53a93",
+            "7597b324654286f9",
+            "8d447a4ef7c4cb60",
+            "6f3178a650d8f715",
+            "2269e10b0b7231d8",
+            "3f9c85c8e9580550",
+            "d84e84fdd737275b",
+            "4548acf8d88fcc50",
+            "514d5ed34a685fd8",
+            "f26c7cd67e2a751d",
+            "b5ec933cfb0dbcbd",
+            "5da2941ec6653d0f",
+            "b9fd0d85469bdf62",
+            "3de787026c042847",
+            "fc9ab9803bf425e9",
+            "cd0abe2063f7e179",
+            "f3abda2e507b8187",
+            "fca9f1d2b33c8c2e",
+            "031596c77ab928a6",
+            "a724aed5969ba98e",
+            "8f47197d521272a7",
+            "4ecee57cdebe7ef9",
+            "3fa49a152e65892e",
+            "350c6611a0391867",
+            "a853aa4816675625",
+            "fce58f058803ab8c",
+            "30127a72a9e86380",
+            "201ace7033e4132b",
+            "da4c7a07f5b760bc",
+            "ec420b972b84d6ae",
+            "f441ed5865c99c7f",
+            "4f0b55e892bfb4a3",
+            "3643e1d2b5d5f9fa",
+            "46fe667e3d90053a",
+            "b82e31a7ba4b9493",
+            "6a842bb4461218eb",
+            "189c95398ca4a74d",
+            "b2ee82111ec548a3",
+            "f23e7677d613999c",
+            "04e938b98f177269",
+            "f0c4e1c284d417e4",
+            "5b71991a6e96505e",
+            "e3ef249e78603d8f",
+            "d8c71c648cf1f608",
+            "b99e04abad6045ae",
+            "19aea13c856153f6",
+            "5ab703c3e911fc3e",
+            "edb17caf37c08ee9",
+            "75922f11ac8749fb",
+            "3161bcdbdf37be16",
+            "e6c20f948495f302",
+            "3fc079948c7f2493",
+            "1e344070d99d23c3",
+            "40c06d2a5432c88f",
+            "a682a86850214d5f",
+            "c6a423374d97a37e",
+            "51b02f5772ae79a5",
+            "42cae9fbf107f110",
+            "0220f9cd260d0dcd",
+            "7250a8f6b3cf4176",
+            "307b5601f51c9d31",
+            "ecec3b9850b6eabb",
+            "563c0a8a176cfc41",
+            "fdb7ccf7f3ebf53e",
+            "ca3af6e1d9ee34fc",
+            "6433e4e81cbe5966",
+            "dc85213a17dc9013",
+            "a90a4c26744febb0",
+            "91e8a1a7b161d82c",
+            "ab3e62c25ddbc9c1",
+            "0ad35375797d0a52",
+            "018dcb63fda2f0d3",
+            "6fed0052fdfbe6ae",
+            "58b360b864d7d87f",
+            "d84a785289e598cd",
+            "6133d498b94e40b8",
+            "2ff24437b6c204db",
+            "17a07b9ae7a7861b",
+            "b5d771a24eb13652",
+            "d4b501a8a9462e2e",
+            "ab0eb95721c4a38c",
+            "b7e8c0e0211714a7",
+            "4389731b102c742f",
+            "eb879b75e4a754f9",
+            "b142564394135d0f",
+            "b8f6d05216308f2f",
+            "5b523df343832e42",
+            "7c549260263926de",
+            "a6537492cee742bb",
+            "5de1f62eeac3700c",
+            "0136783bb78db2e2",
+            "6d0c3c367c64344a",
+            "ea0a3cc6e4d6537a",
+            "33cf5bad91b4412f",
+            "86f805b5cb28bb05",
+            "bd92a3ae5f6e2f10",
+            "2aa31c125e8aa8f1",
+            "9b11a2d4e3432956",
+            "ea1cf5c958c8fbd1",
+            "ae81aa320575e993",
+            "de596228ce0351bb",
+            "fce9ca29ea26c2ca",
+            "7c2016e7007063f4",
+            "bf08332fad815da4",
+            "d7a21b76ea69a930",
+            "2dcd110a422850fa",
+            "c3df5a6a531467c2",
+            "9a42b3bc50c233d0",
+            "e2a956b347fcb43a",
+            "5a01ed73.b7a1f4",
+            "c73d51ea.999a1",
+            "38362b7a.04f554"
+        ],
+        "x": 84,
+        "y": 1579,
+        "w": 1682,
+        "h": 1112
     },
     {
         "id": "d25d405a.19cff",
@@ -28076,1145 +28078,6 @@
         ]
     },
     {
-        "id": "54c12847.319f98",
-        "type": "subflow:51296ca5.0c0cb4",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Canal 8",
-        "env": [
-            {
-                "name": "Channel",
-                "value": "8",
-                "type": "num"
-            }
-        ],
-        "x": 160,
-        "y": 1620,
-        "wires": [
-            [
-                "f9b834a1.6c5a5"
-            ]
-        ]
-    },
-    {
-        "id": "6f336942.c58e1",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Tipo Instrumento",
-        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 520,
-        "y": 1620,
-        "wires": [
-            [
-                "f26c7cd67e2a751d"
-            ]
-        ]
-    },
-    {
-        "id": "f9b834a1.6c5a5",
-        "type": "change",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Canal8",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "Config",
-                "pt": "msg",
-                "to": "ES.ED.Canal8",
-                "tot": "flow"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 330,
-        "y": 1620,
-        "wires": [
-            [
-                "6f336942.c58e1"
-            ]
-        ]
-    },
-    {
-        "id": "eb6bdff7.d5569",
-        "type": "subflow:51296ca5.0c0cb4",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Canal 9",
-        "env": [
-            {
-                "name": "Channel",
-                "value": "9",
-                "type": "num"
-            }
-        ],
-        "x": 160,
-        "y": 1670,
-        "wires": [
-            [
-                "ec7a14d8.fa5698"
-            ]
-        ]
-    },
-    {
-        "id": "c20e1b92.e56e1",
-        "type": "subflow:51296ca5.0c0cb4",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Canal 10",
-        "env": [
-            {
-                "name": "Channel",
-                "value": "10",
-                "type": "num"
-            }
-        ],
-        "x": 170,
-        "y": 1720,
-        "wires": [
-            [
-                "c52f7d3.c8a3"
-            ]
-        ]
-    },
-    {
-        "id": "d17c3c2d.965de",
-        "type": "subflow:51296ca5.0c0cb4",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Canal 11",
-        "env": [
-            {
-                "name": "Channel",
-                "value": "11",
-                "type": "num"
-            }
-        ],
-        "x": 170,
-        "y": 1770,
-        "wires": [
-            [
-                "c9d88b91.5f83a8"
-            ]
-        ]
-    },
-    {
-        "id": "dab82b8f.e880b",
-        "type": "subflow:51296ca5.0c0cb4",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Canal 12",
-        "env": [
-            {
-                "name": "Channel",
-                "value": "12",
-                "type": "num"
-            }
-        ],
-        "x": 170,
-        "y": 1820,
-        "wires": [
-            [
-                "f06a62d1.ada4d8"
-            ]
-        ]
-    },
-    {
-        "id": "3134cc67.a5a254",
-        "type": "subflow:51296ca5.0c0cb4",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Canal 13",
-        "env": [
-            {
-                "name": "Channel",
-                "value": "13",
-                "type": "num"
-            }
-        ],
-        "x": 170,
-        "y": 1870,
-        "wires": [
-            [
-                "fc8213b0.f28cc"
-            ]
-        ]
-    },
-    {
-        "id": "af3144a8.4a3b3",
-        "type": "subflow:51296ca5.0c0cb4",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Canal 14",
-        "env": [
-            {
-                "name": "Channel",
-                "value": "14",
-                "type": "num"
-            }
-        ],
-        "x": 170,
-        "y": 1920,
-        "wires": [
-            [
-                "77508f33.45f12"
-            ]
-        ]
-    },
-    {
-        "id": "31a64605.74157a",
-        "type": "subflow:51296ca5.0c0cb4",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Canal 15",
-        "env": [
-            {
-                "name": "Channel",
-                "value": "15",
-                "type": "num"
-            }
-        ],
-        "x": 170,
-        "y": 1970,
-        "wires": [
-            [
-                "5287952b.dbba9c"
-            ]
-        ]
-    },
-    {
-        "id": "30fc350c.0aa69a",
-        "type": "subflow:51296ca5.0c0cb4",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Canal 16",
-        "env": [
-            {
-                "name": "Channel",
-                "value": "16",
-                "type": "num"
-            }
-        ],
-        "x": 170,
-        "y": 2020,
-        "wires": [
-            [
-                "74448153.b8033"
-            ]
-        ]
-    },
-    {
-        "id": "1a4ccb.26b08336",
-        "type": "subflow:51296ca5.0c0cb4",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Canal 17",
-        "env": [
-            {
-                "name": "Channel",
-                "value": "17",
-                "type": "num"
-            }
-        ],
-        "x": 170,
-        "y": 2070,
-        "wires": [
-            [
-                "b4155087.d0ca4"
-            ]
-        ]
-    },
-    {
-        "id": "4908d8f6.97f228",
-        "type": "subflow:51296ca5.0c0cb4",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Canal 18",
-        "env": [
-            {
-                "name": "Channel",
-                "value": "18",
-                "type": "num"
-            }
-        ],
-        "x": 170,
-        "y": 2120,
-        "wires": [
-            [
-                "e6312c67.27e8d"
-            ]
-        ]
-    },
-    {
-        "id": "ec7a14d8.fa5698",
-        "type": "change",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Canal9",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "Config",
-                "pt": "msg",
-                "to": "ES.ED.Canal9",
-                "tot": "flow"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 330,
-        "y": 1670,
-        "wires": [
-            [
-                "95c053ae2c019985"
-            ]
-        ]
-    },
-    {
-        "id": "c52f7d3.c8a3",
-        "type": "change",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Canal10",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "Config",
-                "pt": "msg",
-                "to": "ES.ED.Canal10",
-                "tot": "flow"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 330,
-        "y": 1720,
-        "wires": [
-            [
-                "2e2cf12086edcf86"
-            ]
-        ]
-    },
-    {
-        "id": "c9d88b91.5f83a8",
-        "type": "change",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Canal11",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "Config",
-                "pt": "msg",
-                "to": "ES.ED.Canal11",
-                "tot": "flow"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 330,
-        "y": 1770,
-        "wires": [
-            [
-                "4fe80e167740fe3b"
-            ]
-        ]
-    },
-    {
-        "id": "f06a62d1.ada4d8",
-        "type": "change",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Canal12",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "Config",
-                "pt": "msg",
-                "to": "ES.ED.Canal12",
-                "tot": "flow"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 330,
-        "y": 1820,
-        "wires": [
-            [
-                "700f09d5af266f7c"
-            ]
-        ]
-    },
-    {
-        "id": "fc8213b0.f28cc",
-        "type": "change",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Canal13",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "Config",
-                "pt": "msg",
-                "to": "ES.ED.Canal13",
-                "tot": "flow"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 330,
-        "y": 1870,
-        "wires": [
-            [
-                "6f0d221e3a45b687"
-            ]
-        ]
-    },
-    {
-        "id": "77508f33.45f12",
-        "type": "change",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Canal14",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "Config",
-                "pt": "msg",
-                "to": "ES.ED.Canal14",
-                "tot": "flow"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 330,
-        "y": 1920,
-        "wires": [
-            [
-                "1849f3aa0476fa69"
-            ]
-        ]
-    },
-    {
-        "id": "5287952b.dbba9c",
-        "type": "change",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Canal15",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "Config",
-                "pt": "msg",
-                "to": "ES.ED.Canal15",
-                "tot": "flow"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 330,
-        "y": 1970,
-        "wires": [
-            [
-                "66e2a95ab2027f24"
-            ]
-        ]
-    },
-    {
-        "id": "74448153.b8033",
-        "type": "change",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Canal16",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "Config",
-                "pt": "msg",
-                "to": "ES.ED.Canal16",
-                "tot": "flow"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 330,
-        "y": 2020,
-        "wires": [
-            [
-                "cf7f1dbc82e6cdf6"
-            ]
-        ]
-    },
-    {
-        "id": "b4155087.d0ca4",
-        "type": "change",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Canal17",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "Config",
-                "pt": "msg",
-                "to": "ES.ED.Canal17",
-                "tot": "flow"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 330,
-        "y": 2070,
-        "wires": [
-            [
-                "a6e1ec9e8b26c3a0"
-            ]
-        ]
-    },
-    {
-        "id": "e6312c67.27e8d",
-        "type": "change",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Canal18",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "Config",
-                "pt": "msg",
-                "to": "ES.ED.Canal18",
-                "tot": "flow"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 330,
-        "y": 2120,
-        "wires": [
-            [
-                "5df2ddef493d23fe"
-            ]
-        ]
-    },
-    {
-        "id": "88f57863.f4af9",
-        "type": "subflow:51296ca5.0c0cb4",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Canal 19",
-        "env": [
-            {
-                "name": "Channel",
-                "value": "19",
-                "type": "num"
-            }
-        ],
-        "x": 170,
-        "y": 2170,
-        "wires": [
-            [
-                "72a989b1.85998"
-            ]
-        ]
-    },
-    {
-        "id": "72a989b1.85998",
-        "type": "change",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Canal19",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "Config",
-                "pt": "msg",
-                "to": "ES.ED.Canal19",
-                "tot": "flow"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 330,
-        "y": 2170,
-        "wires": [
-            [
-                "4e13729b39b53a93"
-            ]
-        ]
-    },
-    {
-        "id": "45e8974.fb42ee8",
-        "type": "subflow:51296ca5.0c0cb4",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Canal 21",
-        "env": [
-            {
-                "name": "Channel",
-                "value": "21",
-                "type": "num"
-            }
-        ],
-        "x": 170,
-        "y": 2270,
-        "wires": [
-            [
-                "44fff4a7.060ba4"
-            ]
-        ]
-    },
-    {
-        "id": "44fff4a7.060ba4",
-        "type": "change",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Canal21",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "Config",
-                "pt": "msg",
-                "to": "ES.ED.Canal21",
-                "tot": "flow"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 330,
-        "y": 2270,
-        "wires": [
-            [
-                "8d447a4ef7c4cb60"
-            ]
-        ]
-    },
-    {
-        "id": "baae080a.c182c8",
-        "type": "change",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Canal20",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "Config",
-                "pt": "msg",
-                "to": "ES.ED.Canal20",
-                "tot": "flow"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 330,
-        "y": 2220,
-        "wires": [
-            [
-                "7597b324654286f9"
-            ]
-        ]
-    },
-    {
-        "id": "1561ad43.605253",
-        "type": "subflow:51296ca5.0c0cb4",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Canal 20",
-        "env": [
-            {
-                "name": "Channel",
-                "value": "20",
-                "type": "num"
-            }
-        ],
-        "x": 170,
-        "y": 2220,
-        "wires": [
-            [
-                "baae080a.c182c8"
-            ]
-        ]
-    },
-    {
-        "id": "761da194.76fb",
-        "type": "subflow:51296ca5.0c0cb4",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Canal 22",
-        "env": [
-            {
-                "name": "Channel",
-                "value": "22",
-                "type": "num"
-            }
-        ],
-        "x": 170,
-        "y": 2320,
-        "wires": [
-            [
-                "cb551b9a.bd13d"
-            ]
-        ]
-    },
-    {
-        "id": "cb551b9a.bd13d",
-        "type": "change",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Canal22",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "Config",
-                "pt": "msg",
-                "to": "ES.ED.Canal22",
-                "tot": "flow"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 330,
-        "y": 2320,
-        "wires": [
-            [
-                "6f3178a650d8f715"
-            ]
-        ]
-    },
-    {
-        "id": "e046565b.c4feb",
-        "type": "subflow:51296ca5.0c0cb4",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Canal 23",
-        "env": [
-            {
-                "name": "Channel",
-                "value": "23",
-                "type": "num"
-            }
-        ],
-        "x": 170,
-        "y": 2370,
-        "wires": [
-            [
-                "83de296d.53474"
-            ]
-        ]
-    },
-    {
-        "id": "83de296d.53474",
-        "type": "change",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Canal23",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "Config",
-                "pt": "msg",
-                "to": "ES.ED.Canal23",
-                "tot": "flow"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 330,
-        "y": 2370,
-        "wires": [
-            [
-                "2269e10b0b7231d8"
-            ]
-        ]
-    },
-    {
-        "id": "747e1688.393e4",
-        "type": "subflow:51296ca5.0c0cb4",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Canal 24",
-        "env": [
-            {
-                "name": "Channel",
-                "value": "24",
-                "type": "num"
-            }
-        ],
-        "x": 170,
-        "y": 2420,
-        "wires": [
-            [
-                "fc2a5e3c.ff192"
-            ]
-        ]
-    },
-    {
-        "id": "a8ab9da7.503428",
-        "type": "subflow:51296ca5.0c0cb4",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Canal 25",
-        "env": [
-            {
-                "name": "Channel",
-                "value": "25",
-                "type": "num"
-            }
-        ],
-        "x": 170,
-        "y": 2470,
-        "wires": [
-            [
-                "c8299c5c.f6ad3"
-            ]
-        ]
-    },
-    {
-        "id": "ef75c8ee.09e148",
-        "type": "subflow:51296ca5.0c0cb4",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Canal 26",
-        "env": [
-            {
-                "name": "Channel",
-                "value": "26",
-                "type": "num"
-            }
-        ],
-        "x": 170,
-        "y": 2520,
-        "wires": [
-            [
-                "aa0dd7ec.1d1e5"
-            ]
-        ]
-    },
-    {
-        "id": "92dda540.64d698",
-        "type": "subflow:51296ca5.0c0cb4",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Canal 27",
-        "env": [
-            {
-                "name": "Channel",
-                "value": "27",
-                "type": "num"
-            }
-        ],
-        "x": 170,
-        "y": 2570,
-        "wires": [
-            [
-                "f18a3b7c.1aad6"
-            ]
-        ]
-    },
-    {
-        "id": "fc2a5e3c.ff192",
-        "type": "change",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Canal24",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "Config",
-                "pt": "msg",
-                "to": "ES.ED.Canal24",
-                "tot": "flow"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 330,
-        "y": 2420,
-        "wires": [
-            [
-                "3f9c85c8e9580550"
-            ]
-        ]
-    },
-    {
-        "id": "c8299c5c.f6ad3",
-        "type": "change",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Canal25",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "Config",
-                "pt": "msg",
-                "to": "ES.ED.Canal25",
-                "tot": "flow"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 330,
-        "y": 2470,
-        "wires": [
-            [
-                "d84e84fdd737275b"
-            ]
-        ]
-    },
-    {
-        "id": "aa0dd7ec.1d1e5",
-        "type": "change",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Canal26",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "Config",
-                "pt": "msg",
-                "to": "ES.ED.Canal26",
-                "tot": "flow"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 330,
-        "y": 2520,
-        "wires": [
-            [
-                "4548acf8d88fcc50"
-            ]
-        ]
-    },
-    {
-        "id": "f18a3b7c.1aad6",
-        "type": "change",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Canal27",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "Config",
-                "pt": "msg",
-                "to": "ES.ED.Canal27",
-                "tot": "flow"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 330,
-        "y": 2570,
-        "wires": [
-            [
-                "514d5ed34a685fd8"
-            ]
-        ]
-    },
-    {
         "id": "dd9a0d3d.ab8378",
         "type": "switch",
         "z": "7a89175c.90f6a8",
@@ -48944,906 +47807,6 @@
         ]
     },
     {
-        "id": "95c053ae2c019985",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Tipo Instrumento",
-        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 520,
-        "y": 1670,
-        "wires": [
-            [
-                "f26c7cd67e2a751d"
-            ]
-        ]
-    },
-    {
-        "id": "2e2cf12086edcf86",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Tipo Instrumento",
-        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 520,
-        "y": 1720,
-        "wires": [
-            [
-                "f26c7cd67e2a751d"
-            ]
-        ]
-    },
-    {
-        "id": "4fe80e167740fe3b",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Tipo Instrumento",
-        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 520,
-        "y": 1770,
-        "wires": [
-            [
-                "f26c7cd67e2a751d"
-            ]
-        ]
-    },
-    {
-        "id": "700f09d5af266f7c",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Tipo Instrumento",
-        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 520,
-        "y": 1820,
-        "wires": [
-            [
-                "f26c7cd67e2a751d"
-            ]
-        ]
-    },
-    {
-        "id": "6f0d221e3a45b687",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Tipo Instrumento",
-        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 520,
-        "y": 1870,
-        "wires": [
-            [
-                "f26c7cd67e2a751d"
-            ]
-        ]
-    },
-    {
-        "id": "1849f3aa0476fa69",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Tipo Instrumento",
-        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 520,
-        "y": 1920,
-        "wires": [
-            [
-                "f26c7cd67e2a751d"
-            ]
-        ]
-    },
-    {
-        "id": "66e2a95ab2027f24",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Tipo Instrumento",
-        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 520,
-        "y": 1970,
-        "wires": [
-            [
-                "f26c7cd67e2a751d"
-            ]
-        ]
-    },
-    {
-        "id": "cf7f1dbc82e6cdf6",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Tipo Instrumento",
-        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 520,
-        "y": 2020,
-        "wires": [
-            [
-                "f26c7cd67e2a751d"
-            ]
-        ]
-    },
-    {
-        "id": "a6e1ec9e8b26c3a0",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Tipo Instrumento",
-        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 520,
-        "y": 2070,
-        "wires": [
-            [
-                "f26c7cd67e2a751d"
-            ]
-        ]
-    },
-    {
-        "id": "5df2ddef493d23fe",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Tipo Instrumento",
-        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 520,
-        "y": 2120,
-        "wires": [
-            [
-                "f26c7cd67e2a751d"
-            ]
-        ]
-    },
-    {
-        "id": "4e13729b39b53a93",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Tipo Instrumento",
-        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 520,
-        "y": 2170,
-        "wires": [
-            [
-                "f26c7cd67e2a751d"
-            ]
-        ]
-    },
-    {
-        "id": "7597b324654286f9",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Tipo Instrumento",
-        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 520,
-        "y": 2220,
-        "wires": [
-            [
-                "f26c7cd67e2a751d"
-            ]
-        ]
-    },
-    {
-        "id": "8d447a4ef7c4cb60",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Tipo Instrumento",
-        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 520,
-        "y": 2270,
-        "wires": [
-            [
-                "f26c7cd67e2a751d"
-            ]
-        ]
-    },
-    {
-        "id": "6f3178a650d8f715",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Tipo Instrumento",
-        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 520,
-        "y": 2320,
-        "wires": [
-            [
-                "f26c7cd67e2a751d"
-            ]
-        ]
-    },
-    {
-        "id": "2269e10b0b7231d8",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Tipo Instrumento",
-        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 520,
-        "y": 2370,
-        "wires": [
-            [
-                "f26c7cd67e2a751d"
-            ]
-        ]
-    },
-    {
-        "id": "3f9c85c8e9580550",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Tipo Instrumento",
-        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 520,
-        "y": 2420,
-        "wires": [
-            [
-                "f26c7cd67e2a751d"
-            ]
-        ]
-    },
-    {
-        "id": "d84e84fdd737275b",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Tipo Instrumento",
-        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 520,
-        "y": 2470,
-        "wires": [
-            [
-                "f26c7cd67e2a751d"
-            ]
-        ]
-    },
-    {
-        "id": "4548acf8d88fcc50",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Tipo Instrumento",
-        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 520,
-        "y": 2520,
-        "wires": [
-            [
-                "f26c7cd67e2a751d"
-            ]
-        ]
-    },
-    {
-        "id": "514d5ed34a685fd8",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Tipo Instrumento",
-        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 520,
-        "y": 2570,
-        "wires": [
-            [
-                "f26c7cd67e2a751d"
-            ]
-        ]
-    },
-    {
-        "id": "f26c7cd67e2a751d",
-        "type": "switch",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Enrutador de funciones",
-        "property": "Config.Funcion",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "Start",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Stop",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Reset",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Stop ESD",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Disparo alto nivel de aceite SUT",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Disparo alta temperatura SUT",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Alarma alta temperatura SUT",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Alarma bajo nivel de aceite SUT",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Disparo bajo bajo nivel de aceite SUT",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Disparo válvula sobre-presión SUT",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Alarma DPS",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Disparo alta temperatura filtros",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Disparo alta presión THP",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Disparo sobre-tensión SUT",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "ESD Remoto",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Disparo puerta abierta",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Protección térmica de motor",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Monitoreo",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Disparo shutdown SCC",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Disparo baja presión en la troncal",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 20,
-        "x": 790,
-        "y": 2080,
-        "wires": [
-            [
-                "b5ec933cfb0dbcbd"
-            ],
-            [
-                "5da2941ec6653d0f"
-            ],
-            [
-                "b9fd0d85469bdf62"
-            ],
-            [
-                "3de787026c042847"
-            ],
-            [
-                "fc9ab9803bf425e9"
-            ],
-            [
-                "cd0abe2063f7e179"
-            ],
-            [
-                "f3abda2e507b8187"
-            ],
-            [
-                "fca9f1d2b33c8c2e"
-            ],
-            [
-                "031596c77ab928a6"
-            ],
-            [
-                "a724aed5969ba98e"
-            ],
-            [
-                "8f47197d521272a7"
-            ],
-            [
-                "4ecee57cdebe7ef9"
-            ],
-            [
-                "3fa49a152e65892e"
-            ],
-            [
-                "350c6611a0391867"
-            ],
-            [
-                "a853aa4816675625"
-            ],
-            [
-                "fce58f058803ab8c"
-            ],
-            [
-                "30127a72a9e86380"
-            ],
-            [
-                "5a01ed73.b7a1f4"
-            ],
-            [
-                "201ace7033e4132b"
-            ],
-            [
-                "da4c7a07f5b760bc"
-            ]
-        ]
-    },
-    {
-        "id": "b5ec933cfb0dbcbd",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Start",
-        "func": "global.set(\"IO.Functions.DI.Start\", msg.payload, 'memoryOnly');\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1050,
-        "y": 1620,
-        "wires": [
-            [
-                "ec420b972b84d6ae"
-            ]
-        ]
-    },
-    {
-        "id": "5da2941ec6653d0f",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Stop",
-        "func": "global.set(\"IO.Functions.DI.Stop\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1050,
-        "y": 1670,
-        "wires": [
-            [
-                "f23e7677d613999c"
-            ]
-        ]
-    },
-    {
-        "id": "b9fd0d85469bdf62",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Reset",
-        "func": "global.set(\"IO.Functions.DI.Reset\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1050,
-        "y": 1720,
-        "wires": [
-            [
-                "6a842bb4461218eb"
-            ]
-        ]
-    },
-    {
-        "id": "3de787026c042847",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Stop ESD",
-        "func": "global.set(\"IO.Functions.DI['Stop ESD']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1060,
-        "y": 1770,
-        "wires": [
-            [
-                "b82e31a7ba4b9493"
-            ]
-        ]
-    },
-    {
-        "id": "fc9ab9803bf425e9",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Disparo alto nivel de aceite SUT",
-        "func": "global.set(\"IO.Functions.DI['Disparo alto nivel de aceite SUT']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1130,
-        "y": 1820,
-        "wires": [
-            [
-                "f0c4e1c284d417e4"
-            ]
-        ]
-    },
-    {
-        "id": "cd0abe2063f7e179",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Disparo alta temperatura SUT",
-        "func": "global.set(\"IO.Functions.DI['Disparo alta temperatura SUT']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1130,
-        "y": 1870,
-        "wires": [
-            [
-                "e3ef249e78603d8f"
-            ]
-        ]
-    },
-    {
-        "id": "f3abda2e507b8187",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Alarma alta temperatura SUT",
-        "func": "global.set(\"IO.Functions.DI['Alarma alta temperatura SUT']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1120,
-        "y": 1920,
-        "wires": [
-            [
-                "19aea13c856153f6"
-            ]
-        ]
-    },
-    {
-        "id": "fca9f1d2b33c8c2e",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Alarma bajo nivel de aceite SUT",
-        "func": "global.set(\"IO.Functions.DI['Alarma bajo nivel de aceite SUT']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1130,
-        "y": 1970,
-        "wires": [
-            [
-                "75922f11ac8749fb"
-            ]
-        ]
-    },
-    {
-        "id": "031596c77ab928a6",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Disparo bajo bajo nivel de aceite SUT",
-        "func": "global.set(\"IO.Functions.DI['Disparo bajo bajo nivel de aceite SUT']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1150,
-        "y": 2020,
-        "wires": [
-            [
-                "3fc079948c7f2493"
-            ]
-        ]
-    },
-    {
-        "id": "a724aed5969ba98e",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Disparo válvula sobre-presión SUT",
-        "func": "global.set(\"IO.Functions.DI['Disparo válvula sobre-presión SUT']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1140,
-        "y": 2070,
-        "wires": [
-            [
-                "a682a86850214d5f"
-            ]
-        ]
-    },
-    {
-        "id": "8f47197d521272a7",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Alarma DPS",
-        "func": "global.set(\"IO.Functions.DI['Alarma DPS']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1070,
-        "y": 2120,
-        "wires": [
-            [
-                "42cae9fbf107f110"
-            ]
-        ]
-    },
-    {
-        "id": "4ecee57cdebe7ef9",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Disparo alta temperatura filtros",
-        "func": "global.set(\"IO.Functions.DI['Disparo alta temperatura filtros']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1130,
-        "y": 2170,
-        "wires": [
-            [
-                "307b5601f51c9d31"
-            ]
-        ]
-    },
-    {
-        "id": "3fa49a152e65892e",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Disparo alta presión THP",
-        "func": "global.set(\"IO.Functions.DI['Disparo alta presión THP']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1110,
-        "y": 2220,
-        "wires": [
-            [
-                "fdb7ccf7f3ebf53e"
-            ]
-        ]
-    },
-    {
-        "id": "350c6611a0391867",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Disparo sobre-tensión SUT",
-        "func": "global.set(\"IO.Functions.DI['Disparo sobre-tensión SUT']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1120,
-        "y": 2270,
-        "wires": [
-            [
-                "dc85213a17dc9013"
-            ]
-        ]
-    },
-    {
-        "id": "a853aa4816675625",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "ESD Remoto",
-        "func": "global.set(\"IO.Functions.DI['ESD Remoto']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1070,
-        "y": 2320,
-        "wires": [
-            [
-                "ab3e62c25ddbc9c1"
-            ]
-        ]
-    },
-    {
-        "id": "fce58f058803ab8c",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Disparo puerta abierta",
-        "func": "global.set(\"IO.Functions.DI['Disparo puerta abierta']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1100,
-        "y": 2370,
-        "wires": [
-            [
-                "6fed0052fdfbe6ae"
-            ]
-        ]
-    },
-    {
-        "id": "30127a72a9e86380",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Protección térmica de motor",
-        "func": "global.set(\"IO.Functions.DI['Protección térmica de motor']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1120,
-        "y": 2420,
-        "wires": [
-            [
-                "6133d498b94e40b8"
-            ]
-        ]
-    },
-    {
-        "id": "201ace7033e4132b",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Disparo shutdown SCC",
-        "func": "global.set(\"IO.Functions.DI['Disparo shutdown SCC']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1110,
-        "y": 2520,
-        "wires": [
-            [
-                "d4b501a8a9462e2e"
-            ]
-        ]
-    },
-    {
-        "id": "da4c7a07f5b760bc",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Disparo baja presión en la troncal",
-        "func": "global.set(\"IO.Functions.DI['Disparo baja presión en la troncal']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1140,
-        "y": 2570,
-        "wires": [
-            [
-                "4389731b102c742f"
-            ]
-        ]
-    },
-    {
         "id": "a2a2a85e.6d85f",
         "type": "function",
         "z": "7a89175c.90f6a8",
@@ -50491,1529 +48454,6 @@
         "outputLabels": [
             "Canal32"
         ]
-    },
-    {
-        "id": "ec420b972b84d6ae",
-        "type": "rbe",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload",
-        "x": 1370,
-        "y": 1620,
-        "wires": [
-            [
-                "f441ed5865c99c7f"
-            ]
-        ]
-    },
-    {
-        "id": "f441ed5865c99c7f",
-        "type": "switch",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "True",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1490,
-        "y": 1620,
-        "wires": [
-            [
-                "4f0b55e892bfb4a3",
-                "e2a956b347fcb43a"
-            ]
-        ]
-    },
-    {
-        "id": "4f0b55e892bfb4a3",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Evento",
-        "func": "msg.payload = \"Arranque remoto (entrada digital)\";\nmsg.topic = \"Entrada digital\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1610,
-        "y": 1620,
-        "wires": [
-            [
-                "bf08332fad815da4"
-            ]
-        ]
-    },
-    {
-        "id": "f23e7677d613999c",
-        "type": "rbe",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload",
-        "x": 1370,
-        "y": 1670,
-        "wires": [
-            [
-                "b2ee82111ec548a3"
-            ]
-        ]
-    },
-    {
-        "id": "b2ee82111ec548a3",
-        "type": "switch",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "True",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1490,
-        "y": 1670,
-        "wires": [
-            [
-                "d7a21b76ea69a930",
-                "e2a956b347fcb43a"
-            ]
-        ]
-    },
-    {
-        "id": "d7a21b76ea69a930",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Evento",
-        "func": "msg.payload = \"Parada remota (entrada digital)\";\nmsg.topic = \"Entrada digital\";\nreturn msg;\n",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1610,
-        "y": 1670,
-        "wires": [
-            [
-                "b8f6d05216308f2f"
-            ]
-        ]
-    },
-    {
-        "id": "6a842bb4461218eb",
-        "type": "rbe",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload",
-        "x": 1370,
-        "y": 1720,
-        "wires": [
-            [
-                "189c95398ca4a74d"
-            ]
-        ]
-    },
-    {
-        "id": "189c95398ca4a74d",
-        "type": "switch",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "True",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1490,
-        "y": 1720,
-        "wires": [
-            [
-                "2dcd110a422850fa",
-                "e2a956b347fcb43a"
-            ]
-        ]
-    },
-    {
-        "id": "2dcd110a422850fa",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Evento",
-        "func": "msg.payload = \"Reset remoto (entrada digital)\";\nmsg.topic = \"Entrada digital\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1610,
-        "y": 1720,
-        "wires": [
-            [
-                "5b523df343832e42"
-            ]
-        ]
-    },
-    {
-        "id": "b82e31a7ba4b9493",
-        "type": "rbe",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload",
-        "x": 1370,
-        "y": 1770,
-        "wires": [
-            [
-                "46fe667e3d90053a"
-            ]
-        ]
-    },
-    {
-        "id": "46fe667e3d90053a",
-        "type": "switch",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "True",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1490,
-        "y": 1770,
-        "wires": [
-            [
-                "3643e1d2b5d5f9fa",
-                "e2a956b347fcb43a"
-            ]
-        ]
-    },
-    {
-        "id": "3643e1d2b5d5f9fa",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Evento",
-        "func": "msg.payload = \"Parada ESD\";\nmsg.topic = \"Stop\";\nreturn msg;\n",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1610,
-        "y": 1770,
-        "wires": [
-            [
-                "7c549260263926de"
-            ]
-        ]
-    },
-    {
-        "id": "f0c4e1c284d417e4",
-        "type": "rbe",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload",
-        "x": 1370,
-        "y": 1820,
-        "wires": [
-            [
-                "04e938b98f177269"
-            ]
-        ]
-    },
-    {
-        "id": "04e938b98f177269",
-        "type": "switch",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "True",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1490,
-        "y": 1820,
-        "wires": [
-            [
-                "5b71991a6e96505e",
-                "e2a956b347fcb43a"
-            ]
-        ]
-    },
-    {
-        "id": "5b71991a6e96505e",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Evento",
-        "func": "msg.payload = \"Disparo alto nivel de aceite SUT\";\nmsg.topic =\"SUT\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1610,
-        "y": 1820,
-        "wires": [
-            [
-                "a6537492cee742bb"
-            ]
-        ]
-    },
-    {
-        "id": "e3ef249e78603d8f",
-        "type": "rbe",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload",
-        "x": 1370,
-        "y": 1870,
-        "wires": [
-            [
-                "d8c71c648cf1f608"
-            ]
-        ]
-    },
-    {
-        "id": "d8c71c648cf1f608",
-        "type": "switch",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "True",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1490,
-        "y": 1870,
-        "wires": [
-            [
-                "b99e04abad6045ae",
-                "e2a956b347fcb43a"
-            ]
-        ]
-    },
-    {
-        "id": "b99e04abad6045ae",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Evento",
-        "func": "msg.payload = \"Disparo alta temperatura SUT\";\nmsg.topic = \"SUT\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1610,
-        "y": 1870,
-        "wires": [
-            [
-                "5de1f62eeac3700c"
-            ]
-        ]
-    },
-    {
-        "id": "19aea13c856153f6",
-        "type": "rbe",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload",
-        "x": 1370,
-        "y": 1920,
-        "wires": [
-            [
-                "5ab703c3e911fc3e"
-            ]
-        ]
-    },
-    {
-        "id": "5ab703c3e911fc3e",
-        "type": "switch",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "True",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1490,
-        "y": 1920,
-        "wires": [
-            [
-                "edb17caf37c08ee9",
-                "e2a956b347fcb43a"
-            ]
-        ]
-    },
-    {
-        "id": "edb17caf37c08ee9",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Evento",
-        "func": "msg.payload =\"Alarma alta temperatura SUT\";\nmsg.topic = \"SUT\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1610,
-        "y": 1920,
-        "wires": [
-            [
-                "0136783bb78db2e2"
-            ]
-        ]
-    },
-    {
-        "id": "75922f11ac8749fb",
-        "type": "rbe",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload",
-        "x": 1370,
-        "y": 1970,
-        "wires": [
-            [
-                "3161bcdbdf37be16"
-            ]
-        ]
-    },
-    {
-        "id": "3161bcdbdf37be16",
-        "type": "switch",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "True",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1490,
-        "y": 1970,
-        "wires": [
-            [
-                "e6c20f948495f302",
-                "e2a956b347fcb43a"
-            ]
-        ]
-    },
-    {
-        "id": "e6c20f948495f302",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Evento",
-        "func": "msg.payload = \"Alarma bajo nivel de aceite SUT\";\nmsg.topic = \"SUT\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1610,
-        "y": 1970,
-        "wires": [
-            [
-                "6d0c3c367c64344a"
-            ]
-        ]
-    },
-    {
-        "id": "3fc079948c7f2493",
-        "type": "rbe",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload",
-        "x": 1370,
-        "y": 2020,
-        "wires": [
-            [
-                "1e344070d99d23c3"
-            ]
-        ]
-    },
-    {
-        "id": "1e344070d99d23c3",
-        "type": "switch",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "True",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1490,
-        "y": 2020,
-        "wires": [
-            [
-                "40c06d2a5432c88f",
-                "e2a956b347fcb43a"
-            ]
-        ]
-    },
-    {
-        "id": "40c06d2a5432c88f",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Evento",
-        "func": "msg.payload = \"Disparo bajo bajo nivel de aceite SUT\";\nmsg.topic = \"SUT\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1610,
-        "y": 2020,
-        "wires": [
-            [
-                "ea0a3cc6e4d6537a"
-            ]
-        ]
-    },
-    {
-        "id": "a682a86850214d5f",
-        "type": "rbe",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload",
-        "x": 1370,
-        "y": 2070,
-        "wires": [
-            [
-                "c6a423374d97a37e"
-            ]
-        ]
-    },
-    {
-        "id": "c6a423374d97a37e",
-        "type": "switch",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "True",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1490,
-        "y": 2070,
-        "wires": [
-            [
-                "51b02f5772ae79a5",
-                "e2a956b347fcb43a"
-            ]
-        ]
-    },
-    {
-        "id": "51b02f5772ae79a5",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Evento",
-        "func": "msg.payload = \"Disparo válvula sobre-presión SUT\";\nmsg.topic = \"SUT\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1610,
-        "y": 2070,
-        "wires": [
-            [
-                "33cf5bad91b4412f"
-            ]
-        ]
-    },
-    {
-        "id": "42cae9fbf107f110",
-        "type": "rbe",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload",
-        "x": 1370,
-        "y": 2120,
-        "wires": [
-            [
-                "0220f9cd260d0dcd"
-            ]
-        ]
-    },
-    {
-        "id": "0220f9cd260d0dcd",
-        "type": "switch",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "True",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1490,
-        "y": 2120,
-        "wires": [
-            [
-                "7250a8f6b3cf4176",
-                "e2a956b347fcb43a"
-            ]
-        ]
-    },
-    {
-        "id": "7250a8f6b3cf4176",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Evento",
-        "func": "msg.payload = \"Alarma DPS\";\nmsg.topic = \"DPS\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1610,
-        "y": 2120,
-        "wires": [
-            [
-                "86f805b5cb28bb05"
-            ]
-        ]
-    },
-    {
-        "id": "307b5601f51c9d31",
-        "type": "rbe",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload",
-        "x": 1370,
-        "y": 2170,
-        "wires": [
-            [
-                "ecec3b9850b6eabb"
-            ]
-        ]
-    },
-    {
-        "id": "ecec3b9850b6eabb",
-        "type": "switch",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "True",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1490,
-        "y": 2170,
-        "wires": [
-            [
-                "563c0a8a176cfc41",
-                "e2a956b347fcb43a"
-            ]
-        ]
-    },
-    {
-        "id": "563c0a8a176cfc41",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Evento",
-        "func": "msg.payload = \"Disparo alta temperatura filtros\";\nmsg.topic = \"Filtros\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1610,
-        "y": 2170,
-        "wires": [
-            [
-                "bd92a3ae5f6e2f10"
-            ]
-        ]
-    },
-    {
-        "id": "fdb7ccf7f3ebf53e",
-        "type": "rbe",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload",
-        "x": 1370,
-        "y": 2220,
-        "wires": [
-            [
-                "ca3af6e1d9ee34fc"
-            ]
-        ]
-    },
-    {
-        "id": "ca3af6e1d9ee34fc",
-        "type": "switch",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "True",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1490,
-        "y": 2220,
-        "wires": [
-            [
-                "6433e4e81cbe5966",
-                "e2a956b347fcb43a"
-            ]
-        ]
-    },
-    {
-        "id": "6433e4e81cbe5966",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Evento",
-        "func": "msg.payload = \"Disparo alta presión THP\";\nmsg.topic = \"Instrumentación\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1610,
-        "y": 2220,
-        "wires": [
-            [
-                "2aa31c125e8aa8f1"
-            ]
-        ]
-    },
-    {
-        "id": "dc85213a17dc9013",
-        "type": "rbe",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload",
-        "x": 1370,
-        "y": 2270,
-        "wires": [
-            [
-                "a90a4c26744febb0"
-            ]
-        ]
-    },
-    {
-        "id": "a90a4c26744febb0",
-        "type": "switch",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "True",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1490,
-        "y": 2270,
-        "wires": [
-            [
-                "91e8a1a7b161d82c",
-                "e2a956b347fcb43a"
-            ]
-        ]
-    },
-    {
-        "id": "91e8a1a7b161d82c",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Evento",
-        "func": "msg.payload = \"Disparo sobre-tensión SUT\";\nmsg.topic = \"SUT\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1610,
-        "y": 2270,
-        "wires": [
-            [
-                "9b11a2d4e3432956"
-            ]
-        ]
-    },
-    {
-        "id": "ab3e62c25ddbc9c1",
-        "type": "rbe",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload",
-        "x": 1370,
-        "y": 2320,
-        "wires": [
-            [
-                "0ad35375797d0a52"
-            ]
-        ]
-    },
-    {
-        "id": "0ad35375797d0a52",
-        "type": "switch",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "True",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1490,
-        "y": 2320,
-        "wires": [
-            [
-                "018dcb63fda2f0d3",
-                "e2a956b347fcb43a"
-            ]
-        ]
-    },
-    {
-        "id": "018dcb63fda2f0d3",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Evento",
-        "func": "msg.payload = \"ESD Remoto (entrada digital)\";\nmsg.topic = \"Entrada digital\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1610,
-        "y": 2320,
-        "wires": [
-            [
-                "ea1cf5c958c8fbd1"
-            ]
-        ]
-    },
-    {
-        "id": "6fed0052fdfbe6ae",
-        "type": "rbe",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload",
-        "x": 1370,
-        "y": 2370,
-        "wires": [
-            [
-                "58b360b864d7d87f"
-            ]
-        ]
-    },
-    {
-        "id": "58b360b864d7d87f",
-        "type": "switch",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "True",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1490,
-        "y": 2370,
-        "wires": [
-            [
-                "d84a785289e598cd",
-                "e2a956b347fcb43a"
-            ]
-        ]
-    },
-    {
-        "id": "d84a785289e598cd",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Evento",
-        "func": "msg.payload = \"Disparo puerta abierta\";\nmsg.topic = \"Seguridad\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1610,
-        "y": 2370,
-        "wires": [
-            [
-                "ae81aa320575e993"
-            ]
-        ]
-    },
-    {
-        "id": "6133d498b94e40b8",
-        "type": "rbe",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload",
-        "x": 1370,
-        "y": 2420,
-        "wires": [
-            [
-                "c3df5a6a531467c2"
-            ]
-        ]
-    },
-    {
-        "id": "c3df5a6a531467c2",
-        "type": "switch",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "True",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1490,
-        "y": 2420,
-        "wires": [
-            [
-                "9a42b3bc50c233d0",
-                "e2a956b347fcb43a"
-            ]
-        ]
-    },
-    {
-        "id": "9a42b3bc50c233d0",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Evento",
-        "func": "msg.payload = \"Protección térmica de motor\";\nmsg.topic = \"Instrumentación\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1610,
-        "y": 2420,
-        "wires": [
-            [
-                "de596228ce0351bb"
-            ]
-        ]
-    },
-    {
-        "id": "2ff24437b6c204db",
-        "type": "rbe",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload",
-        "x": 1370,
-        "y": 2470,
-        "wires": [
-            [
-                "17a07b9ae7a7861b"
-            ]
-        ]
-    },
-    {
-        "id": "17a07b9ae7a7861b",
-        "type": "switch",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "True",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1490,
-        "y": 2470,
-        "wires": [
-            [
-                "b5d771a24eb13652"
-            ]
-        ]
-    },
-    {
-        "id": "b5d771a24eb13652",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Evento",
-        "func": "msg.payload = \"Monitoreo\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1670,
-        "y": 2480,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "d4b501a8a9462e2e",
-        "type": "rbe",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload",
-        "x": 1370,
-        "y": 2520,
-        "wires": [
-            [
-                "ab0eb95721c4a38c"
-            ]
-        ]
-    },
-    {
-        "id": "ab0eb95721c4a38c",
-        "type": "switch",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "True",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1490,
-        "y": 2520,
-        "wires": [
-            [
-                "b7e8c0e0211714a7",
-                "e2a956b347fcb43a"
-            ]
-        ]
-    },
-    {
-        "id": "b7e8c0e0211714a7",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Evento",
-        "func": "msg.payload = \"Disparo shutdown SCC\";\nmsg.topic = \"SCC\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1610,
-        "y": 2520,
-        "wires": [
-            [
-                "fce9ca29ea26c2ca"
-            ]
-        ]
-    },
-    {
-        "id": "4389731b102c742f",
-        "type": "rbe",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload",
-        "x": 1370,
-        "y": 2570,
-        "wires": [
-            [
-                "eb879b75e4a754f9"
-            ]
-        ]
-    },
-    {
-        "id": "eb879b75e4a754f9",
-        "type": "switch",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "True",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1490,
-        "y": 2570,
-        "wires": [
-            [
-                "b142564394135d0f",
-                "e2a956b347fcb43a"
-            ]
-        ]
-    },
-    {
-        "id": "b142564394135d0f",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Evento",
-        "func": "msg.payload = \"Disparo baja presión en la troncal\";\nmsg.topic = \"Protección de cluster\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1610,
-        "y": 2570,
-        "wires": [
-            [
-                "7c2016e7007063f4"
-            ]
-        ]
-    },
-    {
-        "id": "b8f6d05216308f2f",
-        "type": "link out",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "links": [
-            "207ea8ce.3dea68",
-            "2da816b7.b2be9a"
-        ],
-        "x": 1695,
-        "y": 1670,
-        "wires": []
-    },
-    {
-        "id": "5b523df343832e42",
-        "type": "link out",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "links": [
-            "207ea8ce.3dea68",
-            "2da816b7.b2be9a"
-        ],
-        "x": 1695,
-        "y": 1720,
-        "wires": []
-    },
-    {
-        "id": "7c549260263926de",
-        "type": "link out",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "links": [
-            "2da816b7.b2be9a",
-            "cbbbcd1c.7180e"
-        ],
-        "x": 1695,
-        "y": 1770,
-        "wires": []
-    },
-    {
-        "id": "a6537492cee742bb",
-        "type": "link out",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "links": [
-            "2da816b7.b2be9a",
-            "cbbbcd1c.7180e"
-        ],
-        "x": 1695,
-        "y": 1820,
-        "wires": []
-    },
-    {
-        "id": "5de1f62eeac3700c",
-        "type": "link out",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "links": [
-            "2da816b7.b2be9a",
-            "cbbbcd1c.7180e"
-        ],
-        "x": 1695,
-        "y": 1870,
-        "wires": []
-    },
-    {
-        "id": "0136783bb78db2e2",
-        "type": "link out",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "links": [
-            "52f1e35a6b450a62",
-            "8eacc47.e177438"
-        ],
-        "x": 1695,
-        "y": 1920,
-        "wires": []
-    },
-    {
-        "id": "6d0c3c367c64344a",
-        "type": "link out",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "links": [
-            "52f1e35a6b450a62",
-            "8eacc47.e177438"
-        ],
-        "x": 1695,
-        "y": 1970,
-        "wires": []
-    },
-    {
-        "id": "ea0a3cc6e4d6537a",
-        "type": "link out",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "links": [
-            "2da816b7.b2be9a",
-            "cbbbcd1c.7180e"
-        ],
-        "x": 1695,
-        "y": 2020,
-        "wires": []
-    },
-    {
-        "id": "33cf5bad91b4412f",
-        "type": "link out",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "links": [
-            "2da816b7.b2be9a",
-            "cbbbcd1c.7180e"
-        ],
-        "x": 1695,
-        "y": 2070,
-        "wires": []
-    },
-    {
-        "id": "86f805b5cb28bb05",
-        "type": "link out",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "links": [
-            "52f1e35a6b450a62",
-            "8eacc47.e177438"
-        ],
-        "x": 1695,
-        "y": 2120,
-        "wires": []
-    },
-    {
-        "id": "bd92a3ae5f6e2f10",
-        "type": "link out",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "links": [
-            "2da816b7.b2be9a",
-            "cbbbcd1c.7180e"
-        ],
-        "x": 1695,
-        "y": 2170,
-        "wires": []
-    },
-    {
-        "id": "2aa31c125e8aa8f1",
-        "type": "link out",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "links": [
-            "2da816b7.b2be9a",
-            "cbbbcd1c.7180e"
-        ],
-        "x": 1695,
-        "y": 2220,
-        "wires": []
-    },
-    {
-        "id": "9b11a2d4e3432956",
-        "type": "link out",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "links": [
-            "2da816b7.b2be9a",
-            "cbbbcd1c.7180e"
-        ],
-        "x": 1695,
-        "y": 2270,
-        "wires": []
-    },
-    {
-        "id": "ea1cf5c958c8fbd1",
-        "type": "link out",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "links": [
-            "2da816b7.b2be9a",
-            "cbbbcd1c.7180e"
-        ],
-        "x": 1695,
-        "y": 2320,
-        "wires": []
-    },
-    {
-        "id": "ae81aa320575e993",
-        "type": "link out",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "links": [
-            "2da816b7.b2be9a",
-            "cbbbcd1c.7180e"
-        ],
-        "x": 1695,
-        "y": 2370,
-        "wires": []
-    },
-    {
-        "id": "de596228ce0351bb",
-        "type": "link out",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "links": [
-            "2da816b7.b2be9a",
-            "cbbbcd1c.7180e"
-        ],
-        "x": 1695,
-        "y": 2420,
-        "wires": []
-    },
-    {
-        "id": "fce9ca29ea26c2ca",
-        "type": "link out",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "links": [
-            "2da816b7.b2be9a",
-            "cbbbcd1c.7180e"
-        ],
-        "x": 1695,
-        "y": 2520,
-        "wires": []
-    },
-    {
-        "id": "7c2016e7007063f4",
-        "type": "link out",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "links": [
-            "2da816b7.b2be9a",
-            "cbbbcd1c.7180e"
-        ],
-        "x": 1695,
-        "y": 2570,
-        "wires": []
-    },
-    {
-        "id": "bf08332fad815da4",
-        "type": "link out",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "",
-        "links": [
-            "207ea8ce.3dea68",
-            "2da816b7.b2be9a"
-        ],
-        "x": 1695,
-        "y": 1620,
-        "wires": []
     },
     {
         "id": "47eecc9b022b2242",
@@ -62803,7 +59243,7 @@
         "z": "7a89175c.90f6a8",
         "g": "76d03353.299b94",
         "name": "Valor actual",
-        "func": "var Canal = flow.get(\"ED_Config.Canal\")||0;\nif(Canal !=0 ){\n    msg.payload = global.get('IO.DI.'+Canal,'memoryOnly');\n    node.status({ fill: \"green\", shape: \"dot\", text: msg.payload });\n    return msg;\n}\nelse{return;}",
+        "func": "var Canal = flow.get(\"ED_Config.Canal\")||0;\nvar Tipo = flow.get(\"ED_Config.TipoInstrumento\")||0;\nif(Canal !=0 ){\n    msg.payload = global.get('IO.DI.'+Canal,'memoryOnly');\n    if(Tipo==\"NC\")\n        msg.payload = !msg.payload;\n    node.status({ fill: \"green\", shape: \"dot\", text: msg.payload });\n    return msg;\n}\nelse{return;}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -67540,23 +63980,6 @@
         ]
     },
     {
-        "id": "e2a956b347fcb43a",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Activar falla general",
-        "func": "global.set(\"IO.Functions.DO['Falla general']\", true, 'memoryOnly');\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1650,
-        "y": 2650,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "cea28aee3bae5a4e",
         "type": "function",
         "z": "902fc438.e5d758",
@@ -68601,25 +65024,6 @@
         ]
     },
     {
-        "id": "5a01ed73.b7a1f4",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Monitoreo",
-        "func": "global.set(\"IO.Functions.DI['Monitoreo']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1060,
-        "y": 2470,
-        "wires": [
-            [
-                "2ff24437b6c204db"
-            ]
-        ]
-    },
-    {
         "id": "1061c7a2.1b0388",
         "type": "switch",
         "z": "7a89175c.90f6a8",
@@ -69595,5 +65999,3641 @@
                 "a43b5e16.f2f1c"
             ]
         ]
+    },
+    {
+        "id": "54c12847.319f98",
+        "type": "subflow:51296ca5.0c0cb4",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Canal 8",
+        "env": [
+            {
+                "name": "Channel",
+                "value": "8",
+                "type": "num"
+            }
+        ],
+        "x": 160,
+        "y": 1620,
+        "wires": [
+            [
+                "f9b834a1.6c5a5"
+            ]
+        ]
+    },
+    {
+        "id": "6f336942.c58e1",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Tipo Instrumento",
+        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 520,
+        "y": 1620,
+        "wires": [
+            [
+                "f26c7cd67e2a751d"
+            ]
+        ]
+    },
+    {
+        "id": "f9b834a1.6c5a5",
+        "type": "change",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Canal8",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "Config",
+                "pt": "msg",
+                "to": "ES.ED.Canal8",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 330,
+        "y": 1620,
+        "wires": [
+            [
+                "6f336942.c58e1"
+            ]
+        ]
+    },
+    {
+        "id": "eb6bdff7.d5569",
+        "type": "subflow:51296ca5.0c0cb4",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Canal 9",
+        "env": [
+            {
+                "name": "Channel",
+                "value": "9",
+                "type": "num"
+            }
+        ],
+        "x": 160,
+        "y": 1670,
+        "wires": [
+            [
+                "ec7a14d8.fa5698"
+            ]
+        ]
+    },
+    {
+        "id": "c20e1b92.e56e1",
+        "type": "subflow:51296ca5.0c0cb4",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Canal 10",
+        "env": [
+            {
+                "name": "Channel",
+                "value": "10",
+                "type": "num"
+            }
+        ],
+        "x": 170,
+        "y": 1720,
+        "wires": [
+            [
+                "c52f7d3.c8a3"
+            ]
+        ]
+    },
+    {
+        "id": "d17c3c2d.965de",
+        "type": "subflow:51296ca5.0c0cb4",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Canal 11",
+        "env": [
+            {
+                "name": "Channel",
+                "value": "11",
+                "type": "num"
+            }
+        ],
+        "x": 170,
+        "y": 1770,
+        "wires": [
+            [
+                "c9d88b91.5f83a8"
+            ]
+        ]
+    },
+    {
+        "id": "dab82b8f.e880b",
+        "type": "subflow:51296ca5.0c0cb4",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Canal 12",
+        "env": [
+            {
+                "name": "Channel",
+                "value": "12",
+                "type": "num"
+            }
+        ],
+        "x": 170,
+        "y": 1820,
+        "wires": [
+            [
+                "f06a62d1.ada4d8"
+            ]
+        ]
+    },
+    {
+        "id": "3134cc67.a5a254",
+        "type": "subflow:51296ca5.0c0cb4",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Canal 13",
+        "env": [
+            {
+                "name": "Channel",
+                "value": "13",
+                "type": "num"
+            }
+        ],
+        "x": 170,
+        "y": 1870,
+        "wires": [
+            [
+                "fc8213b0.f28cc"
+            ]
+        ]
+    },
+    {
+        "id": "af3144a8.4a3b3",
+        "type": "subflow:51296ca5.0c0cb4",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Canal 14",
+        "env": [
+            {
+                "name": "Channel",
+                "value": "14",
+                "type": "num"
+            }
+        ],
+        "x": 170,
+        "y": 1920,
+        "wires": [
+            [
+                "77508f33.45f12"
+            ]
+        ]
+    },
+    {
+        "id": "31a64605.74157a",
+        "type": "subflow:51296ca5.0c0cb4",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Canal 15",
+        "env": [
+            {
+                "name": "Channel",
+                "value": "15",
+                "type": "num"
+            }
+        ],
+        "x": 170,
+        "y": 1970,
+        "wires": [
+            [
+                "5287952b.dbba9c"
+            ]
+        ]
+    },
+    {
+        "id": "30fc350c.0aa69a",
+        "type": "subflow:51296ca5.0c0cb4",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Canal 16",
+        "env": [
+            {
+                "name": "Channel",
+                "value": "16",
+                "type": "num"
+            }
+        ],
+        "x": 170,
+        "y": 2020,
+        "wires": [
+            [
+                "74448153.b8033"
+            ]
+        ]
+    },
+    {
+        "id": "1a4ccb.26b08336",
+        "type": "subflow:51296ca5.0c0cb4",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Canal 17",
+        "env": [
+            {
+                "name": "Channel",
+                "value": "17",
+                "type": "num"
+            }
+        ],
+        "x": 170,
+        "y": 2070,
+        "wires": [
+            [
+                "b4155087.d0ca4"
+            ]
+        ]
+    },
+    {
+        "id": "4908d8f6.97f228",
+        "type": "subflow:51296ca5.0c0cb4",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Canal 18",
+        "env": [
+            {
+                "name": "Channel",
+                "value": "18",
+                "type": "num"
+            }
+        ],
+        "x": 170,
+        "y": 2120,
+        "wires": [
+            [
+                "e6312c67.27e8d"
+            ]
+        ]
+    },
+    {
+        "id": "ec7a14d8.fa5698",
+        "type": "change",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Canal9",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "Config",
+                "pt": "msg",
+                "to": "ES.ED.Canal9",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 330,
+        "y": 1670,
+        "wires": [
+            [
+                "95c053ae2c019985"
+            ]
+        ]
+    },
+    {
+        "id": "c52f7d3.c8a3",
+        "type": "change",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Canal10",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "Config",
+                "pt": "msg",
+                "to": "ES.ED.Canal10",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 330,
+        "y": 1720,
+        "wires": [
+            [
+                "2e2cf12086edcf86"
+            ]
+        ]
+    },
+    {
+        "id": "c9d88b91.5f83a8",
+        "type": "change",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Canal11",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "Config",
+                "pt": "msg",
+                "to": "ES.ED.Canal11",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 330,
+        "y": 1770,
+        "wires": [
+            [
+                "4fe80e167740fe3b"
+            ]
+        ]
+    },
+    {
+        "id": "f06a62d1.ada4d8",
+        "type": "change",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Canal12",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "Config",
+                "pt": "msg",
+                "to": "ES.ED.Canal12",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 330,
+        "y": 1820,
+        "wires": [
+            [
+                "700f09d5af266f7c"
+            ]
+        ]
+    },
+    {
+        "id": "fc8213b0.f28cc",
+        "type": "change",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Canal13",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "Config",
+                "pt": "msg",
+                "to": "ES.ED.Canal13",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 330,
+        "y": 1870,
+        "wires": [
+            [
+                "6f0d221e3a45b687"
+            ]
+        ]
+    },
+    {
+        "id": "77508f33.45f12",
+        "type": "change",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Canal14",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "Config",
+                "pt": "msg",
+                "to": "ES.ED.Canal14",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 330,
+        "y": 1920,
+        "wires": [
+            [
+                "1849f3aa0476fa69"
+            ]
+        ]
+    },
+    {
+        "id": "5287952b.dbba9c",
+        "type": "change",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Canal15",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "Config",
+                "pt": "msg",
+                "to": "ES.ED.Canal15",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 330,
+        "y": 1970,
+        "wires": [
+            [
+                "66e2a95ab2027f24"
+            ]
+        ]
+    },
+    {
+        "id": "74448153.b8033",
+        "type": "change",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Canal16",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "Config",
+                "pt": "msg",
+                "to": "ES.ED.Canal16",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 330,
+        "y": 2020,
+        "wires": [
+            [
+                "cf7f1dbc82e6cdf6"
+            ]
+        ]
+    },
+    {
+        "id": "b4155087.d0ca4",
+        "type": "change",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Canal17",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "Config",
+                "pt": "msg",
+                "to": "ES.ED.Canal17",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 330,
+        "y": 2070,
+        "wires": [
+            [
+                "a6e1ec9e8b26c3a0"
+            ]
+        ]
+    },
+    {
+        "id": "e6312c67.27e8d",
+        "type": "change",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Canal18",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "Config",
+                "pt": "msg",
+                "to": "ES.ED.Canal18",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 330,
+        "y": 2120,
+        "wires": [
+            [
+                "5df2ddef493d23fe"
+            ]
+        ]
+    },
+    {
+        "id": "88f57863.f4af9",
+        "type": "subflow:51296ca5.0c0cb4",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Canal 19",
+        "env": [
+            {
+                "name": "Channel",
+                "value": "19",
+                "type": "num"
+            }
+        ],
+        "x": 170,
+        "y": 2170,
+        "wires": [
+            [
+                "72a989b1.85998"
+            ]
+        ]
+    },
+    {
+        "id": "72a989b1.85998",
+        "type": "change",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Canal19",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "Config",
+                "pt": "msg",
+                "to": "ES.ED.Canal19",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 330,
+        "y": 2170,
+        "wires": [
+            [
+                "4e13729b39b53a93"
+            ]
+        ]
+    },
+    {
+        "id": "45e8974.fb42ee8",
+        "type": "subflow:51296ca5.0c0cb4",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Canal 21",
+        "env": [
+            {
+                "name": "Channel",
+                "value": "21",
+                "type": "num"
+            }
+        ],
+        "x": 170,
+        "y": 2270,
+        "wires": [
+            [
+                "44fff4a7.060ba4"
+            ]
+        ]
+    },
+    {
+        "id": "44fff4a7.060ba4",
+        "type": "change",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Canal21",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "Config",
+                "pt": "msg",
+                "to": "ES.ED.Canal21",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 330,
+        "y": 2270,
+        "wires": [
+            [
+                "8d447a4ef7c4cb60"
+            ]
+        ]
+    },
+    {
+        "id": "baae080a.c182c8",
+        "type": "change",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Canal20",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "Config",
+                "pt": "msg",
+                "to": "ES.ED.Canal20",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 330,
+        "y": 2220,
+        "wires": [
+            [
+                "7597b324654286f9"
+            ]
+        ]
+    },
+    {
+        "id": "1561ad43.605253",
+        "type": "subflow:51296ca5.0c0cb4",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Canal 20",
+        "env": [
+            {
+                "name": "Channel",
+                "value": "20",
+                "type": "num"
+            }
+        ],
+        "x": 170,
+        "y": 2220,
+        "wires": [
+            [
+                "baae080a.c182c8"
+            ]
+        ]
+    },
+    {
+        "id": "761da194.76fb",
+        "type": "subflow:51296ca5.0c0cb4",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Canal 22",
+        "env": [
+            {
+                "name": "Channel",
+                "value": "22",
+                "type": "num"
+            }
+        ],
+        "x": 170,
+        "y": 2320,
+        "wires": [
+            [
+                "cb551b9a.bd13d"
+            ]
+        ]
+    },
+    {
+        "id": "cb551b9a.bd13d",
+        "type": "change",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Canal22",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "Config",
+                "pt": "msg",
+                "to": "ES.ED.Canal22",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 330,
+        "y": 2320,
+        "wires": [
+            [
+                "6f3178a650d8f715"
+            ]
+        ]
+    },
+    {
+        "id": "e046565b.c4feb",
+        "type": "subflow:51296ca5.0c0cb4",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Canal 23",
+        "env": [
+            {
+                "name": "Channel",
+                "value": "23",
+                "type": "num"
+            }
+        ],
+        "x": 170,
+        "y": 2370,
+        "wires": [
+            [
+                "83de296d.53474"
+            ]
+        ]
+    },
+    {
+        "id": "83de296d.53474",
+        "type": "change",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Canal23",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "Config",
+                "pt": "msg",
+                "to": "ES.ED.Canal23",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 330,
+        "y": 2370,
+        "wires": [
+            [
+                "2269e10b0b7231d8"
+            ]
+        ]
+    },
+    {
+        "id": "747e1688.393e4",
+        "type": "subflow:51296ca5.0c0cb4",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Canal 24",
+        "env": [
+            {
+                "name": "Channel",
+                "value": "24",
+                "type": "num"
+            }
+        ],
+        "x": 170,
+        "y": 2420,
+        "wires": [
+            [
+                "fc2a5e3c.ff192"
+            ]
+        ]
+    },
+    {
+        "id": "a8ab9da7.503428",
+        "type": "subflow:51296ca5.0c0cb4",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Canal 25",
+        "env": [
+            {
+                "name": "Channel",
+                "value": "25",
+                "type": "num"
+            }
+        ],
+        "x": 170,
+        "y": 2470,
+        "wires": [
+            [
+                "c8299c5c.f6ad3"
+            ]
+        ]
+    },
+    {
+        "id": "ef75c8ee.09e148",
+        "type": "subflow:51296ca5.0c0cb4",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Canal 26",
+        "env": [
+            {
+                "name": "Channel",
+                "value": "26",
+                "type": "num"
+            }
+        ],
+        "x": 170,
+        "y": 2520,
+        "wires": [
+            [
+                "aa0dd7ec.1d1e5"
+            ]
+        ]
+    },
+    {
+        "id": "92dda540.64d698",
+        "type": "subflow:51296ca5.0c0cb4",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Canal 27",
+        "env": [
+            {
+                "name": "Channel",
+                "value": "27",
+                "type": "num"
+            }
+        ],
+        "x": 170,
+        "y": 2570,
+        "wires": [
+            [
+                "f18a3b7c.1aad6"
+            ]
+        ]
+    },
+    {
+        "id": "fc2a5e3c.ff192",
+        "type": "change",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Canal24",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "Config",
+                "pt": "msg",
+                "to": "ES.ED.Canal24",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 330,
+        "y": 2420,
+        "wires": [
+            [
+                "3f9c85c8e9580550"
+            ]
+        ]
+    },
+    {
+        "id": "c8299c5c.f6ad3",
+        "type": "change",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Canal25",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "Config",
+                "pt": "msg",
+                "to": "ES.ED.Canal25",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 330,
+        "y": 2470,
+        "wires": [
+            [
+                "d84e84fdd737275b"
+            ]
+        ]
+    },
+    {
+        "id": "aa0dd7ec.1d1e5",
+        "type": "change",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Canal26",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "Config",
+                "pt": "msg",
+                "to": "ES.ED.Canal26",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 330,
+        "y": 2520,
+        "wires": [
+            [
+                "4548acf8d88fcc50"
+            ]
+        ]
+    },
+    {
+        "id": "f18a3b7c.1aad6",
+        "type": "change",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Canal27",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "Config",
+                "pt": "msg",
+                "to": "ES.ED.Canal27",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 330,
+        "y": 2570,
+        "wires": [
+            [
+                "514d5ed34a685fd8"
+            ]
+        ]
+    },
+    {
+        "id": "95c053ae2c019985",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Tipo Instrumento",
+        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 520,
+        "y": 1670,
+        "wires": [
+            [
+                "f26c7cd67e2a751d"
+            ]
+        ]
+    },
+    {
+        "id": "2e2cf12086edcf86",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Tipo Instrumento",
+        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 520,
+        "y": 1720,
+        "wires": [
+            [
+                "f26c7cd67e2a751d"
+            ]
+        ]
+    },
+    {
+        "id": "4fe80e167740fe3b",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Tipo Instrumento",
+        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 520,
+        "y": 1770,
+        "wires": [
+            [
+                "f26c7cd67e2a751d"
+            ]
+        ]
+    },
+    {
+        "id": "700f09d5af266f7c",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Tipo Instrumento",
+        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 520,
+        "y": 1820,
+        "wires": [
+            [
+                "f26c7cd67e2a751d"
+            ]
+        ]
+    },
+    {
+        "id": "6f0d221e3a45b687",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Tipo Instrumento",
+        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 520,
+        "y": 1870,
+        "wires": [
+            [
+                "f26c7cd67e2a751d"
+            ]
+        ]
+    },
+    {
+        "id": "1849f3aa0476fa69",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Tipo Instrumento",
+        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 520,
+        "y": 1920,
+        "wires": [
+            [
+                "f26c7cd67e2a751d"
+            ]
+        ]
+    },
+    {
+        "id": "66e2a95ab2027f24",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Tipo Instrumento",
+        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 520,
+        "y": 1970,
+        "wires": [
+            [
+                "f26c7cd67e2a751d"
+            ]
+        ]
+    },
+    {
+        "id": "cf7f1dbc82e6cdf6",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Tipo Instrumento",
+        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 520,
+        "y": 2020,
+        "wires": [
+            [
+                "f26c7cd67e2a751d"
+            ]
+        ]
+    },
+    {
+        "id": "a6e1ec9e8b26c3a0",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Tipo Instrumento",
+        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 520,
+        "y": 2070,
+        "wires": [
+            [
+                "f26c7cd67e2a751d",
+                "38362b7a.04f554"
+            ]
+        ]
+    },
+    {
+        "id": "5df2ddef493d23fe",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Tipo Instrumento",
+        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 520,
+        "y": 2120,
+        "wires": [
+            [
+                "f26c7cd67e2a751d"
+            ]
+        ]
+    },
+    {
+        "id": "4e13729b39b53a93",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Tipo Instrumento",
+        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 520,
+        "y": 2170,
+        "wires": [
+            [
+                "f26c7cd67e2a751d"
+            ]
+        ]
+    },
+    {
+        "id": "7597b324654286f9",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Tipo Instrumento",
+        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 520,
+        "y": 2220,
+        "wires": [
+            [
+                "f26c7cd67e2a751d"
+            ]
+        ]
+    },
+    {
+        "id": "8d447a4ef7c4cb60",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Tipo Instrumento",
+        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 520,
+        "y": 2270,
+        "wires": [
+            [
+                "f26c7cd67e2a751d"
+            ]
+        ]
+    },
+    {
+        "id": "6f3178a650d8f715",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Tipo Instrumento",
+        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 520,
+        "y": 2320,
+        "wires": [
+            [
+                "f26c7cd67e2a751d"
+            ]
+        ]
+    },
+    {
+        "id": "2269e10b0b7231d8",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Tipo Instrumento",
+        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 520,
+        "y": 2370,
+        "wires": [
+            [
+                "f26c7cd67e2a751d"
+            ]
+        ]
+    },
+    {
+        "id": "3f9c85c8e9580550",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Tipo Instrumento",
+        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 520,
+        "y": 2420,
+        "wires": [
+            [
+                "f26c7cd67e2a751d"
+            ]
+        ]
+    },
+    {
+        "id": "d84e84fdd737275b",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Tipo Instrumento",
+        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 520,
+        "y": 2470,
+        "wires": [
+            [
+                "f26c7cd67e2a751d"
+            ]
+        ]
+    },
+    {
+        "id": "4548acf8d88fcc50",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Tipo Instrumento",
+        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 520,
+        "y": 2520,
+        "wires": [
+            [
+                "f26c7cd67e2a751d"
+            ]
+        ]
+    },
+    {
+        "id": "514d5ed34a685fd8",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Tipo Instrumento",
+        "func": "var config = msg.Config || null;\n\nif(config !== null){\n    if(config.Tipo == \"NC\"){\n        msg.payload = !msg.payload\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 520,
+        "y": 2570,
+        "wires": [
+            [
+                "f26c7cd67e2a751d"
+            ]
+        ]
+    },
+    {
+        "id": "f26c7cd67e2a751d",
+        "type": "switch",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Enrutador de funciones",
+        "property": "Config.Funcion",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Start",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Stop",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Reset",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Stop ESD",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Disparo alto nivel de aceite SUT",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Disparo alta temperatura SUT",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Alarma alta temperatura SUT",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Alarma bajo nivel de aceite SUT",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Disparo bajo bajo nivel de aceite SUT",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Disparo válvula sobre-presión SUT",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Alarma DPS",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Disparo alta temperatura filtros",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Disparo alta presión THP",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Disparo sobre-tensión SUT",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "ESD Remoto",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Disparo puerta abierta",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Protección térmica de motor",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Monitoreo",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Disparo shutdown SCC",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Disparo baja presión en la troncal",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 20,
+        "x": 790,
+        "y": 2080,
+        "wires": [
+            [
+                "b5ec933cfb0dbcbd"
+            ],
+            [
+                "5da2941ec6653d0f"
+            ],
+            [
+                "b9fd0d85469bdf62"
+            ],
+            [
+                "3de787026c042847"
+            ],
+            [
+                "fc9ab9803bf425e9"
+            ],
+            [
+                "cd0abe2063f7e179"
+            ],
+            [
+                "f3abda2e507b8187"
+            ],
+            [
+                "fca9f1d2b33c8c2e"
+            ],
+            [
+                "031596c77ab928a6"
+            ],
+            [
+                "a724aed5969ba98e"
+            ],
+            [
+                "8f47197d521272a7"
+            ],
+            [
+                "4ecee57cdebe7ef9"
+            ],
+            [
+                "3fa49a152e65892e"
+            ],
+            [
+                "350c6611a0391867"
+            ],
+            [
+                "a853aa4816675625"
+            ],
+            [
+                "fce58f058803ab8c"
+            ],
+            [
+                "30127a72a9e86380"
+            ],
+            [
+                "5a01ed73.b7a1f4",
+                "c73d51ea.999a1"
+            ],
+            [
+                "201ace7033e4132b"
+            ],
+            [
+                "da4c7a07f5b760bc"
+            ]
+        ]
+    },
+    {
+        "id": "b5ec933cfb0dbcbd",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Start",
+        "func": "global.set(\"IO.Functions.DI.Start\", msg.payload, 'memoryOnly');\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1050,
+        "y": 1620,
+        "wires": [
+            [
+                "ec420b972b84d6ae"
+            ]
+        ]
+    },
+    {
+        "id": "5da2941ec6653d0f",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Stop",
+        "func": "global.set(\"IO.Functions.DI.Stop\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1050,
+        "y": 1670,
+        "wires": [
+            [
+                "f23e7677d613999c"
+            ]
+        ]
+    },
+    {
+        "id": "b9fd0d85469bdf62",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Reset",
+        "func": "global.set(\"IO.Functions.DI.Reset\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1050,
+        "y": 1720,
+        "wires": [
+            [
+                "6a842bb4461218eb"
+            ]
+        ]
+    },
+    {
+        "id": "3de787026c042847",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Stop ESD",
+        "func": "global.set(\"IO.Functions.DI['Stop ESD']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1060,
+        "y": 1770,
+        "wires": [
+            [
+                "b82e31a7ba4b9493"
+            ]
+        ]
+    },
+    {
+        "id": "fc9ab9803bf425e9",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Disparo alto nivel de aceite SUT",
+        "func": "global.set(\"IO.Functions.DI['Disparo alto nivel de aceite SUT']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1130,
+        "y": 1820,
+        "wires": [
+            [
+                "f0c4e1c284d417e4"
+            ]
+        ]
+    },
+    {
+        "id": "cd0abe2063f7e179",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Disparo alta temperatura SUT",
+        "func": "global.set(\"IO.Functions.DI['Disparo alta temperatura SUT']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1130,
+        "y": 1870,
+        "wires": [
+            [
+                "e3ef249e78603d8f"
+            ]
+        ]
+    },
+    {
+        "id": "f3abda2e507b8187",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Alarma alta temperatura SUT",
+        "func": "global.set(\"IO.Functions.DI['Alarma alta temperatura SUT']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1120,
+        "y": 1920,
+        "wires": [
+            [
+                "19aea13c856153f6"
+            ]
+        ]
+    },
+    {
+        "id": "fca9f1d2b33c8c2e",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Alarma bajo nivel de aceite SUT",
+        "func": "global.set(\"IO.Functions.DI['Alarma bajo nivel de aceite SUT']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1130,
+        "y": 1970,
+        "wires": [
+            [
+                "75922f11ac8749fb"
+            ]
+        ]
+    },
+    {
+        "id": "031596c77ab928a6",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Disparo bajo bajo nivel de aceite SUT",
+        "func": "global.set(\"IO.Functions.DI['Disparo bajo bajo nivel de aceite SUT']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1150,
+        "y": 2020,
+        "wires": [
+            [
+                "3fc079948c7f2493"
+            ]
+        ]
+    },
+    {
+        "id": "a724aed5969ba98e",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Disparo válvula sobre-presión SUT",
+        "func": "global.set(\"IO.Functions.DI['Disparo válvula sobre-presión SUT']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1140,
+        "y": 2070,
+        "wires": [
+            [
+                "a682a86850214d5f"
+            ]
+        ]
+    },
+    {
+        "id": "8f47197d521272a7",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Alarma DPS",
+        "func": "global.set(\"IO.Functions.DI['Alarma DPS']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1070,
+        "y": 2120,
+        "wires": [
+            [
+                "42cae9fbf107f110"
+            ]
+        ]
+    },
+    {
+        "id": "4ecee57cdebe7ef9",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Disparo alta temperatura filtros",
+        "func": "global.set(\"IO.Functions.DI['Disparo alta temperatura filtros']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1130,
+        "y": 2170,
+        "wires": [
+            [
+                "307b5601f51c9d31"
+            ]
+        ]
+    },
+    {
+        "id": "3fa49a152e65892e",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Disparo alta presión THP",
+        "func": "global.set(\"IO.Functions.DI['Disparo alta presión THP']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1110,
+        "y": 2220,
+        "wires": [
+            [
+                "fdb7ccf7f3ebf53e"
+            ]
+        ]
+    },
+    {
+        "id": "350c6611a0391867",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Disparo sobre-tensión SUT",
+        "func": "global.set(\"IO.Functions.DI['Disparo sobre-tensión SUT']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1120,
+        "y": 2270,
+        "wires": [
+            [
+                "dc85213a17dc9013"
+            ]
+        ]
+    },
+    {
+        "id": "a853aa4816675625",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "ESD Remoto",
+        "func": "global.set(\"IO.Functions.DI['ESD Remoto']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1070,
+        "y": 2320,
+        "wires": [
+            [
+                "ab3e62c25ddbc9c1"
+            ]
+        ]
+    },
+    {
+        "id": "fce58f058803ab8c",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Disparo puerta abierta",
+        "func": "global.set(\"IO.Functions.DI['Disparo puerta abierta']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1100,
+        "y": 2370,
+        "wires": [
+            [
+                "6fed0052fdfbe6ae"
+            ]
+        ]
+    },
+    {
+        "id": "30127a72a9e86380",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Protección térmica de motor",
+        "func": "global.set(\"IO.Functions.DI['Protección térmica de motor']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1120,
+        "y": 2420,
+        "wires": [
+            [
+                "6133d498b94e40b8"
+            ]
+        ]
+    },
+    {
+        "id": "201ace7033e4132b",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Disparo shutdown SCC",
+        "func": "global.set(\"IO.Functions.DI['Disparo shutdown SCC']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1110,
+        "y": 2520,
+        "wires": [
+            [
+                "d4b501a8a9462e2e"
+            ]
+        ]
+    },
+    {
+        "id": "da4c7a07f5b760bc",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Disparo baja presión en la troncal",
+        "func": "global.set(\"IO.Functions.DI['Disparo baja presión en la troncal']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1140,
+        "y": 2570,
+        "wires": [
+            [
+                "4389731b102c742f"
+            ]
+        ]
+    },
+    {
+        "id": "ec420b972b84d6ae",
+        "type": "rbe",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 1370,
+        "y": 1620,
+        "wires": [
+            [
+                "f441ed5865c99c7f"
+            ]
+        ]
+    },
+    {
+        "id": "f441ed5865c99c7f",
+        "type": "switch",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "True",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1490,
+        "y": 1620,
+        "wires": [
+            [
+                "4f0b55e892bfb4a3",
+                "e2a956b347fcb43a"
+            ]
+        ]
+    },
+    {
+        "id": "4f0b55e892bfb4a3",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Evento",
+        "func": "msg.payload = \"Arranque remoto (entrada digital)\";\nmsg.topic = \"Entrada digital\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1610,
+        "y": 1620,
+        "wires": [
+            [
+                "bf08332fad815da4"
+            ]
+        ]
+    },
+    {
+        "id": "3643e1d2b5d5f9fa",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Evento",
+        "func": "msg.payload = \"Parada ESD\";\nmsg.topic = \"Stop\";\nreturn msg;\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1610,
+        "y": 1770,
+        "wires": [
+            [
+                "7c549260263926de"
+            ]
+        ]
+    },
+    {
+        "id": "46fe667e3d90053a",
+        "type": "switch",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "True",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1490,
+        "y": 1770,
+        "wires": [
+            [
+                "3643e1d2b5d5f9fa",
+                "e2a956b347fcb43a"
+            ]
+        ]
+    },
+    {
+        "id": "b82e31a7ba4b9493",
+        "type": "rbe",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 1370,
+        "y": 1770,
+        "wires": [
+            [
+                "46fe667e3d90053a"
+            ]
+        ]
+    },
+    {
+        "id": "6a842bb4461218eb",
+        "type": "rbe",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 1370,
+        "y": 1720,
+        "wires": [
+            [
+                "189c95398ca4a74d"
+            ]
+        ]
+    },
+    {
+        "id": "189c95398ca4a74d",
+        "type": "switch",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "True",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1490,
+        "y": 1720,
+        "wires": [
+            [
+                "2dcd110a422850fa",
+                "e2a956b347fcb43a"
+            ]
+        ]
+    },
+    {
+        "id": "b2ee82111ec548a3",
+        "type": "switch",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "True",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1490,
+        "y": 1670,
+        "wires": [
+            [
+                "d7a21b76ea69a930",
+                "e2a956b347fcb43a"
+            ]
+        ]
+    },
+    {
+        "id": "f23e7677d613999c",
+        "type": "rbe",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 1370,
+        "y": 1670,
+        "wires": [
+            [
+                "b2ee82111ec548a3"
+            ]
+        ]
+    },
+    {
+        "id": "04e938b98f177269",
+        "type": "switch",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "True",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1490,
+        "y": 1820,
+        "wires": [
+            [
+                "5b71991a6e96505e",
+                "e2a956b347fcb43a"
+            ]
+        ]
+    },
+    {
+        "id": "f0c4e1c284d417e4",
+        "type": "rbe",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 1370,
+        "y": 1820,
+        "wires": [
+            [
+                "04e938b98f177269"
+            ]
+        ]
+    },
+    {
+        "id": "5b71991a6e96505e",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Evento",
+        "func": "msg.payload = \"Disparo alto nivel de aceite SUT\";\nmsg.topic =\"SUT\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1610,
+        "y": 1820,
+        "wires": [
+            [
+                "a6537492cee742bb"
+            ]
+        ]
+    },
+    {
+        "id": "e3ef249e78603d8f",
+        "type": "rbe",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 1370,
+        "y": 1870,
+        "wires": [
+            [
+                "d8c71c648cf1f608"
+            ]
+        ]
+    },
+    {
+        "id": "d8c71c648cf1f608",
+        "type": "switch",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "True",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1490,
+        "y": 1870,
+        "wires": [
+            [
+                "b99e04abad6045ae",
+                "e2a956b347fcb43a"
+            ]
+        ]
+    },
+    {
+        "id": "b99e04abad6045ae",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Evento",
+        "func": "msg.payload = \"Disparo alta temperatura SUT\";\nmsg.topic = \"SUT\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1610,
+        "y": 1870,
+        "wires": [
+            [
+                "5de1f62eeac3700c"
+            ]
+        ]
+    },
+    {
+        "id": "19aea13c856153f6",
+        "type": "rbe",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 1370,
+        "y": 1920,
+        "wires": [
+            [
+                "5ab703c3e911fc3e"
+            ]
+        ]
+    },
+    {
+        "id": "5ab703c3e911fc3e",
+        "type": "switch",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "True",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1490,
+        "y": 1920,
+        "wires": [
+            [
+                "edb17caf37c08ee9",
+                "e2a956b347fcb43a"
+            ]
+        ]
+    },
+    {
+        "id": "edb17caf37c08ee9",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Evento",
+        "func": "msg.payload =\"Alarma alta temperatura SUT\";\nmsg.topic = \"SUT\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1610,
+        "y": 1920,
+        "wires": [
+            [
+                "0136783bb78db2e2"
+            ]
+        ]
+    },
+    {
+        "id": "75922f11ac8749fb",
+        "type": "rbe",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 1370,
+        "y": 1970,
+        "wires": [
+            [
+                "3161bcdbdf37be16"
+            ]
+        ]
+    },
+    {
+        "id": "3161bcdbdf37be16",
+        "type": "switch",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "True",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1490,
+        "y": 1970,
+        "wires": [
+            [
+                "e6c20f948495f302",
+                "e2a956b347fcb43a"
+            ]
+        ]
+    },
+    {
+        "id": "e6c20f948495f302",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Evento",
+        "func": "msg.payload = \"Alarma bajo nivel de aceite SUT\";\nmsg.topic = \"SUT\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1610,
+        "y": 1970,
+        "wires": [
+            [
+                "6d0c3c367c64344a"
+            ]
+        ]
+    },
+    {
+        "id": "3fc079948c7f2493",
+        "type": "rbe",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 1370,
+        "y": 2020,
+        "wires": [
+            [
+                "1e344070d99d23c3"
+            ]
+        ]
+    },
+    {
+        "id": "1e344070d99d23c3",
+        "type": "switch",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "True",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1490,
+        "y": 2020,
+        "wires": [
+            [
+                "40c06d2a5432c88f",
+                "e2a956b347fcb43a"
+            ]
+        ]
+    },
+    {
+        "id": "40c06d2a5432c88f",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Evento",
+        "func": "msg.payload = \"Disparo bajo bajo nivel de aceite SUT\";\nmsg.topic = \"SUT\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1610,
+        "y": 2020,
+        "wires": [
+            [
+                "ea0a3cc6e4d6537a"
+            ]
+        ]
+    },
+    {
+        "id": "a682a86850214d5f",
+        "type": "rbe",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 1370,
+        "y": 2070,
+        "wires": [
+            [
+                "c6a423374d97a37e"
+            ]
+        ]
+    },
+    {
+        "id": "c6a423374d97a37e",
+        "type": "switch",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "True",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1490,
+        "y": 2070,
+        "wires": [
+            [
+                "51b02f5772ae79a5",
+                "e2a956b347fcb43a"
+            ]
+        ]
+    },
+    {
+        "id": "51b02f5772ae79a5",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Evento",
+        "func": "msg.payload = \"Disparo válvula sobre-presión SUT\";\nmsg.topic = \"SUT\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1610,
+        "y": 2070,
+        "wires": [
+            [
+                "33cf5bad91b4412f"
+            ]
+        ]
+    },
+    {
+        "id": "42cae9fbf107f110",
+        "type": "rbe",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 1370,
+        "y": 2120,
+        "wires": [
+            [
+                "0220f9cd260d0dcd"
+            ]
+        ]
+    },
+    {
+        "id": "0220f9cd260d0dcd",
+        "type": "switch",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "True",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1490,
+        "y": 2120,
+        "wires": [
+            [
+                "7250a8f6b3cf4176",
+                "e2a956b347fcb43a"
+            ]
+        ]
+    },
+    {
+        "id": "7250a8f6b3cf4176",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Evento",
+        "func": "msg.payload = \"Alarma DPS\";\nmsg.topic = \"DPS\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1610,
+        "y": 2120,
+        "wires": [
+            [
+                "86f805b5cb28bb05"
+            ]
+        ]
+    },
+    {
+        "id": "307b5601f51c9d31",
+        "type": "rbe",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 1370,
+        "y": 2170,
+        "wires": [
+            [
+                "ecec3b9850b6eabb"
+            ]
+        ]
+    },
+    {
+        "id": "ecec3b9850b6eabb",
+        "type": "switch",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "True",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1490,
+        "y": 2170,
+        "wires": [
+            [
+                "563c0a8a176cfc41",
+                "e2a956b347fcb43a"
+            ]
+        ]
+    },
+    {
+        "id": "563c0a8a176cfc41",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Evento",
+        "func": "msg.payload = \"Disparo alta temperatura filtros\";\nmsg.topic = \"Filtros\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1610,
+        "y": 2170,
+        "wires": [
+            [
+                "bd92a3ae5f6e2f10"
+            ]
+        ]
+    },
+    {
+        "id": "fdb7ccf7f3ebf53e",
+        "type": "rbe",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 1370,
+        "y": 2220,
+        "wires": [
+            [
+                "ca3af6e1d9ee34fc"
+            ]
+        ]
+    },
+    {
+        "id": "ca3af6e1d9ee34fc",
+        "type": "switch",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "True",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1490,
+        "y": 2220,
+        "wires": [
+            [
+                "6433e4e81cbe5966",
+                "e2a956b347fcb43a"
+            ]
+        ]
+    },
+    {
+        "id": "6433e4e81cbe5966",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Evento",
+        "func": "msg.payload = \"Disparo alta presión THP\";\nmsg.topic = \"Instrumentación\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1610,
+        "y": 2220,
+        "wires": [
+            [
+                "2aa31c125e8aa8f1"
+            ]
+        ]
+    },
+    {
+        "id": "dc85213a17dc9013",
+        "type": "rbe",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 1370,
+        "y": 2270,
+        "wires": [
+            [
+                "a90a4c26744febb0"
+            ]
+        ]
+    },
+    {
+        "id": "a90a4c26744febb0",
+        "type": "switch",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "True",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1490,
+        "y": 2270,
+        "wires": [
+            [
+                "91e8a1a7b161d82c",
+                "e2a956b347fcb43a"
+            ]
+        ]
+    },
+    {
+        "id": "91e8a1a7b161d82c",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Evento",
+        "func": "msg.payload = \"Disparo sobre-tensión SUT\";\nmsg.topic = \"SUT\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1610,
+        "y": 2270,
+        "wires": [
+            [
+                "9b11a2d4e3432956"
+            ]
+        ]
+    },
+    {
+        "id": "ab3e62c25ddbc9c1",
+        "type": "rbe",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 1370,
+        "y": 2320,
+        "wires": [
+            [
+                "0ad35375797d0a52"
+            ]
+        ]
+    },
+    {
+        "id": "0ad35375797d0a52",
+        "type": "switch",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "True",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1490,
+        "y": 2320,
+        "wires": [
+            [
+                "018dcb63fda2f0d3",
+                "e2a956b347fcb43a"
+            ]
+        ]
+    },
+    {
+        "id": "018dcb63fda2f0d3",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Evento",
+        "func": "msg.payload = \"ESD Remoto (entrada digital)\";\nmsg.topic = \"Entrada digital\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1610,
+        "y": 2320,
+        "wires": [
+            [
+                "ea1cf5c958c8fbd1"
+            ]
+        ]
+    },
+    {
+        "id": "6fed0052fdfbe6ae",
+        "type": "rbe",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 1370,
+        "y": 2370,
+        "wires": [
+            [
+                "58b360b864d7d87f"
+            ]
+        ]
+    },
+    {
+        "id": "58b360b864d7d87f",
+        "type": "switch",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "True",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1490,
+        "y": 2370,
+        "wires": [
+            [
+                "d84a785289e598cd",
+                "e2a956b347fcb43a"
+            ]
+        ]
+    },
+    {
+        "id": "d84a785289e598cd",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Evento",
+        "func": "msg.payload = \"Disparo puerta abierta\";\nmsg.topic = \"Seguridad\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1610,
+        "y": 2370,
+        "wires": [
+            [
+                "ae81aa320575e993"
+            ]
+        ]
+    },
+    {
+        "id": "6133d498b94e40b8",
+        "type": "rbe",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 1370,
+        "y": 2420,
+        "wires": [
+            [
+                "c3df5a6a531467c2"
+            ]
+        ]
+    },
+    {
+        "id": "2ff24437b6c204db",
+        "type": "rbe",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 1370,
+        "y": 2470,
+        "wires": [
+            [
+                "17a07b9ae7a7861b"
+            ]
+        ]
+    },
+    {
+        "id": "17a07b9ae7a7861b",
+        "type": "switch",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "True",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1490,
+        "y": 2470,
+        "wires": [
+            [
+                "b5d771a24eb13652"
+            ]
+        ]
+    },
+    {
+        "id": "b5d771a24eb13652",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Evento",
+        "func": "msg.payload = \"Monitoreo\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1670,
+        "y": 2480,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d4b501a8a9462e2e",
+        "type": "rbe",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 1370,
+        "y": 2520,
+        "wires": [
+            [
+                "ab0eb95721c4a38c"
+            ]
+        ]
+    },
+    {
+        "id": "ab0eb95721c4a38c",
+        "type": "switch",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "True",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1490,
+        "y": 2520,
+        "wires": [
+            [
+                "b7e8c0e0211714a7",
+                "e2a956b347fcb43a"
+            ]
+        ]
+    },
+    {
+        "id": "b7e8c0e0211714a7",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Evento",
+        "func": "msg.payload = \"Disparo shutdown SCC\";\nmsg.topic = \"SCC\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1610,
+        "y": 2520,
+        "wires": [
+            [
+                "fce9ca29ea26c2ca"
+            ]
+        ]
+    },
+    {
+        "id": "4389731b102c742f",
+        "type": "rbe",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 1370,
+        "y": 2570,
+        "wires": [
+            [
+                "eb879b75e4a754f9"
+            ]
+        ]
+    },
+    {
+        "id": "eb879b75e4a754f9",
+        "type": "switch",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "True",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1490,
+        "y": 2570,
+        "wires": [
+            [
+                "b142564394135d0f",
+                "e2a956b347fcb43a"
+            ]
+        ]
+    },
+    {
+        "id": "b142564394135d0f",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Evento",
+        "func": "msg.payload = \"Disparo baja presión en la troncal\";\nmsg.topic = \"Protección de cluster\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1610,
+        "y": 2570,
+        "wires": [
+            [
+                "7c2016e7007063f4"
+            ]
+        ]
+    },
+    {
+        "id": "b8f6d05216308f2f",
+        "type": "link out",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "links": [
+            "207ea8ce.3dea68",
+            "2da816b7.b2be9a"
+        ],
+        "x": 1695,
+        "y": 1670,
+        "wires": []
+    },
+    {
+        "id": "5b523df343832e42",
+        "type": "link out",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "links": [
+            "207ea8ce.3dea68",
+            "2da816b7.b2be9a"
+        ],
+        "x": 1695,
+        "y": 1720,
+        "wires": []
+    },
+    {
+        "id": "7c549260263926de",
+        "type": "link out",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 1695,
+        "y": 1770,
+        "wires": []
+    },
+    {
+        "id": "a6537492cee742bb",
+        "type": "link out",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 1695,
+        "y": 1820,
+        "wires": []
+    },
+    {
+        "id": "5de1f62eeac3700c",
+        "type": "link out",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 1695,
+        "y": 1870,
+        "wires": []
+    },
+    {
+        "id": "0136783bb78db2e2",
+        "type": "link out",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "links": [
+            "52f1e35a6b450a62",
+            "8eacc47.e177438"
+        ],
+        "x": 1695,
+        "y": 1920,
+        "wires": []
+    },
+    {
+        "id": "6d0c3c367c64344a",
+        "type": "link out",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "links": [
+            "52f1e35a6b450a62",
+            "8eacc47.e177438"
+        ],
+        "x": 1695,
+        "y": 1970,
+        "wires": []
+    },
+    {
+        "id": "ea0a3cc6e4d6537a",
+        "type": "link out",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 1695,
+        "y": 2020,
+        "wires": []
+    },
+    {
+        "id": "33cf5bad91b4412f",
+        "type": "link out",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 1695,
+        "y": 2070,
+        "wires": []
+    },
+    {
+        "id": "86f805b5cb28bb05",
+        "type": "link out",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "links": [
+            "52f1e35a6b450a62",
+            "8eacc47.e177438"
+        ],
+        "x": 1695,
+        "y": 2120,
+        "wires": []
+    },
+    {
+        "id": "bd92a3ae5f6e2f10",
+        "type": "link out",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 1695,
+        "y": 2170,
+        "wires": []
+    },
+    {
+        "id": "2aa31c125e8aa8f1",
+        "type": "link out",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 1695,
+        "y": 2220,
+        "wires": []
+    },
+    {
+        "id": "9b11a2d4e3432956",
+        "type": "link out",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 1695,
+        "y": 2270,
+        "wires": []
+    },
+    {
+        "id": "ea1cf5c958c8fbd1",
+        "type": "link out",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 1695,
+        "y": 2320,
+        "wires": []
+    },
+    {
+        "id": "ae81aa320575e993",
+        "type": "link out",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 1695,
+        "y": 2370,
+        "wires": []
+    },
+    {
+        "id": "de596228ce0351bb",
+        "type": "link out",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 1695,
+        "y": 2420,
+        "wires": []
+    },
+    {
+        "id": "fce9ca29ea26c2ca",
+        "type": "link out",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 1695,
+        "y": 2520,
+        "wires": []
+    },
+    {
+        "id": "7c2016e7007063f4",
+        "type": "link out",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 1695,
+        "y": 2570,
+        "wires": []
+    },
+    {
+        "id": "bf08332fad815da4",
+        "type": "link out",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "links": [
+            "207ea8ce.3dea68",
+            "2da816b7.b2be9a"
+        ],
+        "x": 1695,
+        "y": 1620,
+        "wires": []
+    },
+    {
+        "id": "d7a21b76ea69a930",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Evento",
+        "func": "msg.payload = \"Parada remota (entrada digital)\";\nmsg.topic = \"Entrada digital\";\nreturn msg;\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1610,
+        "y": 1670,
+        "wires": [
+            [
+                "b8f6d05216308f2f"
+            ]
+        ]
+    },
+    {
+        "id": "2dcd110a422850fa",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Evento",
+        "func": "msg.payload = \"Reset remoto (entrada digital)\";\nmsg.topic = \"Entrada digital\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1610,
+        "y": 1720,
+        "wires": [
+            [
+                "5b523df343832e42"
+            ]
+        ]
+    },
+    {
+        "id": "c3df5a6a531467c2",
+        "type": "switch",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "True",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1490,
+        "y": 2420,
+        "wires": [
+            [
+                "9a42b3bc50c233d0",
+                "e2a956b347fcb43a"
+            ]
+        ]
+    },
+    {
+        "id": "9a42b3bc50c233d0",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Evento",
+        "func": "msg.payload = \"Protección térmica de motor\";\nmsg.topic = \"Instrumentación\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1610,
+        "y": 2420,
+        "wires": [
+            [
+                "de596228ce0351bb"
+            ]
+        ]
+    },
+    {
+        "id": "e2a956b347fcb43a",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Activar falla general",
+        "func": "global.set(\"IO.Functions.DO['Falla general']\", true, 'memoryOnly');\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1650,
+        "y": 2650,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "5a01ed73.b7a1f4",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Monitoreo",
+        "func": "global.set(\"IO.Functions.DI['Monitoreo']\", msg.payload, 'memoryOnly');\n\nmsg.payload == true ? node.status({ fill: \"green\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"red\", shape: \"dot\", text: \"FALSE\" });\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1060,
+        "y": 2470,
+        "wires": [
+            [
+                "2ff24437b6c204db"
+            ]
+        ]
+    },
+    {
+        "id": "c73d51ea.999a1",
+        "type": "debug",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": true,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "payload",
+        "statusType": "auto",
+        "x": 830,
+        "y": 2340,
+        "wires": []
+    },
+    {
+        "id": "38362b7a.04f554",
+        "type": "debug",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": true,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "payload",
+        "statusType": "auto",
+        "x": 750,
+        "y": 2260,
+        "wires": []
     }
 ]
