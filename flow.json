@@ -902,9 +902,7 @@
             "c41a251e.427c98"
         ],
         "x": -2,
-        "y": 983,
-        "w": 1564,
-        "h": 334
+        "y": 983
     },
     {
         "id": "365d864c.8c19ca",
@@ -928,9 +926,7 @@
             "e032b1f4.a8be7"
         ],
         "x": 1692,
-        "y": 217,
-        "w": 1726,
-        "h": 2556
+        "y": 217
     },
     {
         "id": "43bab036.712ca",
@@ -945,9 +941,7 @@
             "e9d2f5f0.86a518"
         ],
         "x": -2,
-        "y": 521,
-        "w": 1564,
-        "h": 456
+        "y": 521
     },
     {
         "id": "54254b6e.789ca4",
@@ -972,9 +966,7 @@
             "7fc0d455c009b47b"
         ],
         "x": 84,
-        "y": 1349,
-        "w": 682,
-        "h": 282
+        "y": 1349
     },
     {
         "id": "68e6bb30.d1fce4",
@@ -989,9 +981,7 @@
             "a7e99088.c8108"
         ],
         "x": -2,
-        "y": 133,
-        "w": 1564,
-        "h": 374
+        "y": 133
     },
     {
         "id": "8a04702.34fd29",
@@ -1008,9 +998,7 @@
             "49534500.cd9cdc"
         ],
         "x": 894,
-        "y": 1329,
-        "w": 291,
-        "h": 122
+        "y": 1329
     },
     {
         "id": "ab42d2fa.9240c",
@@ -1030,9 +1018,7 @@
             "82264d68.0b05a"
         ],
         "x": 3268,
-        "y": 1753,
-        "w": 1334,
-        "h": 624
+        "y": 1753
     },
     {
         "id": "bd17e5b9.9261f8",
@@ -1052,9 +1038,7 @@
             "aa730b91.5646d8"
         ],
         "x": 3264,
-        "y": 2389,
-        "w": 752,
-        "h": 122
+        "y": 2389
     },
     {
         "id": "ec31a094.c373c",
@@ -1074,9 +1058,7 @@
             "9f627758.670cd8"
         ],
         "x": 3268,
-        "y": 133,
-        "w": 1534,
-        "h": 1574
+        "y": 133
     },
     {
         "id": "d689e3de.7d569",
@@ -1187,7 +1169,7 @@
         ],
         "x": 1874,
         "y": 129,
-        "w": 892,
+        "w": 902,
         "h": 162
     },
     {
@@ -1575,9 +1557,7 @@
             "98ca0b1c.cda4f8"
         ],
         "x": 24,
-        "y": 29,
-        "w": 942,
-        "h": 202
+        "y": 29
     },
     {
         "id": "57eba231.4d56dc",
@@ -1597,9 +1577,7 @@
             "e9e93a2c.deeb18"
         ],
         "x": 28,
-        "y": 243,
-        "w": 374,
-        "h": 304
+        "y": 243
     },
     {
         "id": "dbdc491cb6e9eee5",
@@ -1627,12 +1605,19 @@
             "f0a7aa49a0a74635",
             "5dea5f3a2e3fb369",
             "412d39b3d6365e23",
-            "1a8c4a3f92c0ded2"
+            "1a8c4a3f92c0ded2",
+            "88548b2e943eafad",
+            "0dbb0daa3dc39314",
+            "12e8c4108bf41494",
+            "d0a28faca735a7cd",
+            "d76e4d26562180bb",
+            "d98b5b76f78e1dcf",
+            "20fa657d189a7cd8"
         ],
-        "x": 1574,
-        "y": 339,
-        "w": 832,
-        "h": 702
+        "x": 1534,
+        "y": 359,
+        "w": 1192,
+        "h": 772
     },
     {
         "id": "99671f60976b1d2a",
@@ -1653,7 +1638,8 @@
             "633f44af41940f7e",
             "198c5f953ea61b81",
             "6fb0ab0f1387a9a8",
-            "a84bce49f9e89b58"
+            "a84bce49f9e89b58",
+            "cf72a5e61eda6fa8"
         ],
         "x": 1544,
         "y": 29,
@@ -2007,9 +1993,7 @@
             "675af0d1.a9fc4"
         ],
         "x": 22,
-        "y": 27,
-        "w": 1176,
-        "h": 686
+        "y": 27
     },
     {
         "id": "3a4b00b6e7d09e3a",
@@ -2064,9 +2048,7 @@
             "deae04d3b07e573a"
         ],
         "x": 1234,
-        "y": 149,
-        "w": 1452,
-        "h": 632
+        "y": 149
     },
     {
         "id": "0382d006bf3e8547",
@@ -2173,9 +2155,7 @@
             "6625e1db09743bc3"
         ],
         "x": -2,
-        "y": 2193,
-        "w": 1504,
-        "h": 294
+        "y": 2193
     },
     {
         "id": "854dec5e.9e51d",
@@ -2461,9 +2441,7 @@
             "6f1452c6eef9db91"
         ],
         "x": 24,
-        "y": 509,
-        "w": 932,
-        "h": 432
+        "y": 509
     },
     {
         "id": "4ae0fd0ca9645309",
@@ -2490,9 +2468,7 @@
             "077d5433f197a20c"
         ],
         "x": 24,
-        "y": 19,
-        "w": 932,
-        "h": 482
+        "y": 19
     },
     {
         "id": "76bd25c71a8d7775",
@@ -2531,9 +2507,7 @@
             "3176ad7a0b3bbd81"
         ],
         "x": 24,
-        "y": 949,
-        "w": 932,
-        "h": 1132
+        "y": 949
     },
     {
         "id": "afdbbb533d628687",
@@ -2591,9 +2565,7 @@
             "b5ec8494.5a8578"
         ],
         "x": 984,
-        "y": 49,
-        "w": 1182,
-        "h": 312
+        "y": 49
     },
     {
         "id": "b079c206d161b62c",
@@ -2804,9 +2776,7 @@
             "6f6dca07.0b3994"
         ],
         "x": 894,
-        "y": 1009,
-        "w": 642,
-        "h": 282
+        "y": 1009
     },
     {
         "id": "c41a251e.427c98",
@@ -2835,9 +2805,7 @@
             "dd0739fd9e6348e6"
         ],
         "x": 24,
-        "y": 1009,
-        "w": 862,
-        "h": 202
+        "y": 1009
     },
     {
         "id": "e032b1f4.a8be7",
@@ -2858,9 +2826,7 @@
             "4a1410ce.7057a"
         ],
         "x": 1798,
-        "y": 243,
-        "w": 1594,
-        "h": 1014
+        "y": 243
     },
     {
         "id": "9bb5d411.271d48",
@@ -2881,9 +2847,7 @@
             "44ee5bb3.49b264"
         ],
         "x": 1818,
-        "y": 1273,
-        "w": 1574,
-        "h": 494
+        "y": 1273
     },
     {
         "id": "8ac2b187.14625",
@@ -2904,9 +2868,7 @@
             "efe6d3f.f10193"
         ],
         "x": 1768,
-        "y": 1783,
-        "w": 1624,
-        "h": 254
+        "y": 1783
     },
     {
         "id": "dd0fb9ab.f737f8",
@@ -2927,9 +2889,7 @@
             "de31a457.a923c8"
         ],
         "x": 1718,
-        "y": 2053,
-        "w": 1674,
-        "h": 254
+        "y": 2053
     },
     {
         "id": "dad86215.ed79c",
@@ -2950,9 +2910,7 @@
             "baaa353b.511268"
         ],
         "x": 1818,
-        "y": 2373,
-        "w": 1574,
-        "h": 374
+        "y": 2373
     },
     {
         "id": "27c43941.e9e0c6",
@@ -2990,9 +2948,7 @@
             "dc19234d7f6c1436"
         ],
         "x": 24,
-        "y": 549,
-        "w": 772,
-        "h": 322
+        "y": 549
     },
     {
         "id": "e9d2f5f0.86a518",
@@ -3025,9 +2981,7 @@
             "8307ca17.c4d5b8"
         ],
         "x": 804,
-        "y": 547,
-        "w": 732,
-        "h": 404
+        "y": 547
     },
     {
         "id": "6cdd72bc.8124cc",
@@ -3056,9 +3010,7 @@
             "4690fd613d3bc91f"
         ],
         "x": 24,
-        "y": 159,
-        "w": 752,
-        "h": 202
+        "y": 159
     },
     {
         "id": "a7e99088.c8108",
@@ -3088,9 +3040,7 @@
             "c48a9a39.50daa8"
         ],
         "x": 784,
-        "y": 159,
-        "w": 752,
-        "h": 322
+        "y": 159
     },
     {
         "id": "78a8be83.7018c",
@@ -3121,9 +3071,7 @@
             "3f3a83c71b2f5a67"
         ],
         "x": 3304,
-        "y": 1869,
-        "w": 1272,
-        "h": 482
+        "y": 1869
     },
     {
         "id": "82264d68.0b05a",
@@ -3143,9 +3091,7 @@
             "84631e96.4b794"
         ],
         "x": 3294,
-        "y": 1779,
-        "w": 682,
-        "h": 82
+        "y": 1779
     },
     {
         "id": "4af99851.bcfb28",
@@ -3214,9 +3160,7 @@
             "7b5ffe1a.15acc"
         ],
         "x": 3294,
-        "y": 159,
-        "w": 832,
-        "h": 1522
+        "y": 159
     },
     {
         "id": "9f627758.670cd8",
@@ -3288,9 +3232,7 @@
             "487147d15f5c304a"
         ],
         "x": 4134,
-        "y": 159,
-        "w": 642,
-        "h": 562
+        "y": 159
     },
     {
         "id": "71fd37.e2a532c8",
@@ -3383,7 +3325,7 @@
         ],
         "x": 48,
         "y": 703,
-        "w": 1744,
+        "w": 1714,
         "h": 2174
     },
     {
@@ -3675,9 +3617,7 @@
             "f0c186466f456fd2"
         ],
         "x": 54,
-        "y": 269,
-        "w": 322,
-        "h": 122
+        "y": 269
     },
     {
         "id": "e9e93a2c.deeb18",
@@ -3697,9 +3637,7 @@
             "37f2db57.b831c4"
         ],
         "x": 54,
-        "y": 399,
-        "w": 322,
-        "h": 122
+        "y": 399
     },
     {
         "id": "272ed76d.7cce68",
@@ -3744,9 +3682,7 @@
             "9bdf522.eba6db"
         ],
         "x": 48,
-        "y": 53,
-        "w": 1124,
-        "h": 634
+        "y": 53
     },
     {
         "id": "dad84feb.d4773",
@@ -3968,9 +3904,7 @@
             "c7ce33ac338a9db9"
         ],
         "x": 24,
-        "y": 2219,
-        "w": 1452,
-        "h": 242
+        "y": 2219
     },
     {
         "id": "c30870cb.fa25a",
@@ -4485,9 +4419,7 @@
             "3157c937b070fc59"
         ],
         "x": 1844,
-        "y": 1299,
-        "w": 872,
-        "h": 442
+        "y": 1299
     },
     {
         "id": "37d2bc6e.615114",
@@ -4516,9 +4448,7 @@
             "59ca9b2ac35f46be"
         ],
         "x": 1794,
-        "y": 1809,
-        "w": 912,
-        "h": 202
+        "y": 1809
     },
     {
         "id": "de31a457.a923c8",
@@ -4549,9 +4479,7 @@
             "cf9e216856107939"
         ],
         "x": 1744,
-        "y": 2079,
-        "w": 972,
-        "h": 202
+        "y": 2079
     },
     {
         "id": "e5ce125e.59232",
@@ -4628,9 +4556,7 @@
             "22341ae01ccb0b7c"
         ],
         "x": 2714,
-        "y": 269,
-        "w": 652,
-        "h": 642
+        "y": 269
     },
     {
         "id": "44ee5bb3.49b264",
@@ -4690,9 +4616,7 @@
             "6271ec419c9975fc"
         ],
         "x": 2714,
-        "y": 1299,
-        "w": 652,
-        "h": 442
+        "y": 1299
     },
     {
         "id": "efe6d3f.f10193",
@@ -4728,9 +4652,7 @@
             "55372f1ea71702ea"
         ],
         "x": 2714,
-        "y": 1809,
-        "w": 652,
-        "h": 202
+        "y": 1809
     },
     {
         "id": "826b087f.5615a8",
@@ -4762,9 +4684,7 @@
             "7cda2e346e20ca45"
         ],
         "x": 2714,
-        "y": 2079,
-        "w": 652,
-        "h": 162
+        "y": 2079
     },
     {
         "id": "372b998e.a167c6",
@@ -4802,9 +4722,7 @@
             "c982f81bb2232785"
         ],
         "x": 1844,
-        "y": 2399,
-        "w": 862,
-        "h": 322
+        "y": 2399
     },
     {
         "id": "baaa353b.511268",
@@ -4852,9 +4770,7 @@
             "e3c99a130078517c"
         ],
         "x": 2714,
-        "y": 2399,
-        "w": 652,
-        "h": 322
+        "y": 2399
     },
     {
         "id": "4a1410ce.7057a",
@@ -4918,9 +4834,7 @@
             "014e809185179741"
         ],
         "x": 1824,
-        "y": 269,
-        "w": 882,
-        "h": 962
+        "y": 269
     },
     {
         "id": "76d03353.299b94",
@@ -5219,9 +5133,7 @@
             "d0a19b38.893ab8"
         ],
         "x": 74,
-        "y": 79,
-        "w": 1042,
-        "h": 162
+        "y": 79
     },
     {
         "id": "9bdf522.eba6db",
@@ -5264,9 +5176,7 @@
             "8ca4e5b4ca175ad4"
         ],
         "x": 74,
-        "y": 249,
-        "w": 1072,
-        "h": 412
+        "y": 249
     },
     {
         "id": "65994a87.9d5eb4",
@@ -5490,15 +5400,14 @@
             "2dcd110a422850fa",
             "c3df5a6a531467c2",
             "9a42b3bc50c233d0",
-            "e2a956b347fcb43a",
             "5a01ed73.b7a1f4",
             "c73d51ea.999a1",
             "38362b7a.04f554"
         ],
         "x": 84,
         "y": 1579,
-        "w": 1682,
-        "h": 1112
+        "w": 1652,
+        "h": 1032
     },
     {
         "id": "d25d405a.19cff",
@@ -6965,16 +6874,6 @@
         "order": 9,
         "width": 1,
         "height": 1
-    },
-    {
-        "id": "a487b683.29f738",
-        "type": "ui_group",
-        "name": "Diagnóstico de red SWC",
-        "tab": "57cb75a3.2b4fdc",
-        "order": 3,
-        "disp": true,
-        "width": "12",
-        "collapse": false
     },
     {
         "id": "57cb75a3.2b4fdc",
@@ -41139,11 +41038,12 @@
         "type": "function",
         "z": "669c188.bd26ee8",
         "name": "Protection Function",
-        "func": "var Active = (global.get(\"C2S.Drive_Status.Active\", \"memoryOnly\") || 0) == 1 ? true : false;\nvar Accel = (global.get(\"C2S.Drive_Status.Accel\", \"memoryOnly\") || 0) == 1 ? true : false;\nvar Decel = (global.get(\"C2S.Drive_Status.Decel\", \"memoryOnly\") || 0) == 1 ? true : false;\n\n// Setpoints\nvar Prot = env.get('protection')||\"test\";\nvar querySpHH   = \"Protections.\"+Prot+\".HH.Setpoint\";\nvar querySpH    = \"Protections.\"+Prot+\".H.Setpoint\";\nvar querySpL    = \"Protections.\"+Prot+\".L.Setpoint\";\nvar querySpLL   = \"Protections.\"+Prot+\".LL.Setpoint\";\n\nvar HHSetpoint  = global.get(querySpHH)||0;\nvar HSetpoint   = global.get(querySpH)||0;\nvar LSetpoint   = global.get(querySpL)||0;\nvar LLSetpoint  = global.get(querySpLL)||0;\n\n// Enablers\nvar queryEnHH   = \"Protections.\"+Prot+\".HH.EN\";\nvar queryEnH    = \"Protections.\"+Prot+\".H.EN\";\nvar queryEnL    = \"Protections.\"+Prot+\".L.EN\";\nvar queryEnLL   = \"Protections.\"+Prot+\".LL.EN\";\n\nvar HH_EN       = global.get(queryEnHH)||false;\nvar H_EN        = global.get(queryEnH)||false;\nvar L_EN        = global.get(queryEnL)||false;\nvar LL_EN       = global.get(queryEnLL)||false;\n\n// Death times\nvar queryDtHH   = \"Protections.\"+Prot+\".HH.DT\";\nvar queryDtH    = \"Protections.\"+Prot+\".H.DT\";\nvar queryDtL    = \"Protections.\"+Prot+\".L.DT\";\nvar queryDtLL   = \"Protections.\"+Prot+\".LL.DT\";\n\nvar HHDeathTime = global.get(queryDtHH)||0;\nvar HDeathTime  = global.get(queryDtH)||0;\nvar LDeathTime  = global.get(queryDtL)||0;\nvar LLDeathTime = global.get(queryDtLL)||0;\n\n// Value\nvar CurrentValue = msg.payload;\n\nif (CurrentValue >= HHSetpoint && HH_EN === true && Active && !Accel && !Decel) {\n    msg.disp = true;\n    msg.alrm = false;\n    msg.message = \"Trigger by HH Protection\";\n    msg.delay = HHDeathTime * 1000;\n    msg.state = 4;\n}\nelse if (CurrentValue >= HSetpoint && H_EN === true) {\n    msg.disp = false;\n    msg.alrm = true;\n    msg.message = \"Alarm by H Protection\";\n    msg.delay = HDeathTime * 1000;\n    msg.state = 2;\n}\nelse if (CurrentValue <= LLSetpoint && LL_EN === true && Active && !Accel && !Decel) {\n    msg.disp = true;\n    msg.alrm = false;\n    msg.message = \"Trigger by LL Protection\"\n    msg.delay = LLDeathTime * 1000;\n    msg.state = 3;\n}\nelse if (CurrentValue <= LSetpoint && L_EN === true && Active && !Accel && !Decel) {\n    msg.disp = false;\n    msg.alrm = true;\n    msg.message = \"Alarm by L Protection\";\n    msg.delay = LDeathTime * 1000;\n    msg.state = 1;\n}\nelse {\n    msg.disp = false;\n    msg.alrm = false;\n    msg.message = \"Normal condition\";\n    msg.reset = true;\n    msg.state = 0;\n}\nreturn msg;",
+        "func": "var Active = (global.get(\"C2S.Drive_Status.Active\", \"memoryOnly\") || 0) == 1 ? true : false;\nvar Accel = (global.get(\"C2S.Drive_Status.Accel\", \"memoryOnly\") || 0) == 1 ? true : false;\nvar Decel = (global.get(\"C2S.Drive_Status.Decel\", \"memoryOnly\") || 0) == 1 ? true : false;\n\n// Setpoints\nvar Prot = env.get('protection')||\"test\";\nvar querySpHH   = \"Protections.\"+Prot+\".HH.Setpoint\";\nvar querySpH    = \"Protections.\"+Prot+\".H.Setpoint\";\nvar querySpL    = \"Protections.\"+Prot+\".L.Setpoint\";\nvar querySpLL   = \"Protections.\"+Prot+\".LL.Setpoint\";\n\nvar HHSetpoint  = global.get(querySpHH)||0;\nvar HSetpoint   = global.get(querySpH)||0;\nvar LSetpoint   = global.get(querySpL)||0;\nvar LLSetpoint  = global.get(querySpLL)||0;\n\n// Enablers\nvar queryEnHH   = \"Protections.\"+Prot+\".HH.EN\";\nvar queryEnH    = \"Protections.\"+Prot+\".H.EN\";\nvar queryEnL    = \"Protections.\"+Prot+\".L.EN\";\nvar queryEnLL   = \"Protections.\"+Prot+\".LL.EN\";\n\nvar HH_EN       = global.get(queryEnHH)||false;\nvar H_EN        = global.get(queryEnH)||false;\nvar L_EN        = global.get(queryEnL)||false;\nvar LL_EN       = global.get(queryEnLL)||false;\n\n// Death times\nvar queryDtHH   = \"Protections.\"+Prot+\".HH.DT\";\nvar queryDtH    = \"Protections.\"+Prot+\".H.DT\";\nvar queryDtL    = \"Protections.\"+Prot+\".L.DT\";\nvar queryDtLL   = \"Protections.\"+Prot+\".LL.DT\";\n\nvar HHDeathTime = global.get(queryDtHH)||0;\nvar HDeathTime  = global.get(queryDtH)||0;\nvar LDeathTime  = global.get(queryDtL)||0;\nvar LLDeathTime = global.get(queryDtLL)||0;\n\n// Value\nvar CurrentValue = msg.payload;\n\nif (CurrentValue >= HHSetpoint && HH_EN === true) {\n    msg.disp = true;\n    msg.alrm = false;\n    msg.message = \"Trigger by HH Protection\";\n    msg.delay = HHDeathTime * 1000;\n    msg.state = 4;\n}\nelse if (CurrentValue >= HSetpoint && H_EN === true) {\n    msg.disp = false;\n    msg.alrm = true;\n    msg.message = \"Alarm by H Protection\";\n    msg.delay = HDeathTime * 1000;\n    msg.state = 2;\n}\nelse if (CurrentValue <= LLSetpoint && LL_EN === true && Active && !Accel && !Decel) {\n    msg.disp = true;\n    msg.alrm = false;\n    msg.message = \"Trigger by LL Protection\"\n    msg.delay = LLDeathTime * 1000;\n    msg.state = 3;\n}\nelse if (CurrentValue <= LSetpoint && L_EN === true && Active && !Accel && !Decel) {\n    msg.disp = false;\n    msg.alrm = true;\n    msg.message = \"Alarm by L Protection\";\n    msg.delay = LDeathTime * 1000;\n    msg.state = 1;\n}\nelse {\n    msg.disp = false;\n    msg.alrm = false;\n    msg.message = \"Normal condition\";\n    msg.reset = true;\n    msg.state = 0;\n}\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 170,
         "y": 40,
         "wires": [
@@ -42216,7 +42116,7 @@
         "type": "subflow:a52b5a046f4fd02f",
         "z": "9941a439.4b17c8",
         "g": "dbdc491cb6e9eee5",
-        "name": "Voltage",
+        "name": "---------- Voltage ----------",
         "env": [
             {
                 "name": "protection",
@@ -42229,7 +42129,7 @@
                 "type": "num"
             }
         ],
-        "x": 2090,
+        "x": 2140,
         "y": 400,
         "wires": [
             [
@@ -42245,7 +42145,7 @@
         "type": "subflow:669c188.bd26ee8",
         "z": "9941a439.4b17c8",
         "g": "dbdc491cb6e9eee5",
-        "name": "Load",
+        "name": " --- Load ---",
         "env": [
             {
                 "name": "protection",
@@ -42253,7 +42153,7 @@
                 "type": "str"
             }
         ],
-        "x": 2080,
+        "x": 2240,
         "y": 450,
         "wires": [
             [
@@ -42269,7 +42169,7 @@
         "type": "subflow:a52b5a046f4fd02f",
         "z": "9941a439.4b17c8",
         "g": "dbdc491cb6e9eee5",
-        "name": "BusDC",
+        "name": "---------- BusDC ----------",
         "env": [
             {
                 "name": "protection",
@@ -42277,7 +42177,7 @@
                 "type": "str"
             }
         ],
-        "x": 2090,
+        "x": 2140,
         "y": 500,
         "wires": [
             [
@@ -42293,7 +42193,7 @@
         "type": "subflow:a52b5a046f4fd02f",
         "z": "9941a439.4b17c8",
         "g": "dbdc491cb6e9eee5",
-        "name": "VibrationGeneral",
+        "name": "--- VibrationGeneral ---",
         "env": [
             {
                 "name": "protection",
@@ -42301,7 +42201,7 @@
                 "type": "str"
             }
         ],
-        "x": 2120,
+        "x": 2140,
         "y": 650,
         "wires": [
             [
@@ -42317,7 +42217,7 @@
         "type": "subflow:a52b5a046f4fd02f",
         "z": "9941a439.4b17c8",
         "g": "dbdc491cb6e9eee5",
-        "name": "CurrentLeakage",
+        "name": "---- CurrentLeakage ----",
         "env": [
             {
                 "name": "protection",
@@ -42325,7 +42225,7 @@
                 "type": "str"
             }
         ],
-        "x": 2110,
+        "x": 2140,
         "y": 700,
         "wires": [
             [
@@ -42341,7 +42241,7 @@
         "type": "subflow:a52b5a046f4fd02f",
         "z": "9941a439.4b17c8",
         "g": "dbdc491cb6e9eee5",
-        "name": "IntakePressure",
+        "name": "---- IntakePressure ----",
         "env": [
             {
                 "name": "protection",
@@ -42349,7 +42249,7 @@
                 "type": "str"
             }
         ],
-        "x": 2110,
+        "x": 2140,
         "y": 750,
         "wires": [
             [
@@ -42365,7 +42265,7 @@
         "type": "subflow:a52b5a046f4fd02f",
         "z": "9941a439.4b17c8",
         "g": "dbdc491cb6e9eee5",
-        "name": "DischargePressure",
+        "name": "--- DischargePressure ---",
         "env": [
             {
                 "name": "protection",
@@ -42373,7 +42273,7 @@
                 "type": "str"
             }
         ],
-        "x": 2120,
+        "x": 2140,
         "y": 800,
         "wires": [
             [
@@ -42389,7 +42289,7 @@
         "type": "subflow:a52b5a046f4fd02f",
         "z": "9941a439.4b17c8",
         "g": "dbdc491cb6e9eee5",
-        "name": "IntakeTemperature",
+        "name": "--- IntakeTemperature --- ",
         "env": [
             {
                 "name": "protection",
@@ -42397,7 +42297,7 @@
                 "type": "str"
             }
         ],
-        "x": 2120,
+        "x": 2140,
         "y": 850,
         "wires": [
             [
@@ -42413,7 +42313,7 @@
         "type": "subflow:a52b5a046f4fd02f",
         "z": "9941a439.4b17c8",
         "g": "dbdc491cb6e9eee5",
-        "name": "MotorTemperature",
+        "name": "--- MotorTemperature ---",
         "env": [
             {
                 "name": "protection",
@@ -42421,7 +42321,7 @@
                 "type": "str"
             }
         ],
-        "x": 2120,
+        "x": 2140,
         "y": 900,
         "wires": [
             [
@@ -42437,7 +42337,7 @@
         "type": "subflow:a52b5a046f4fd02f",
         "z": "9941a439.4b17c8",
         "g": "dbdc491cb6e9eee5",
-        "name": "DischargeTemperature",
+        "name": "- DischargeTemperature -",
         "env": [
             {
                 "name": "protection",
@@ -42445,7 +42345,7 @@
                 "type": "str"
             }
         ],
-        "x": 2130,
+        "x": 2140,
         "y": 950,
         "wires": [
             [
@@ -42474,7 +42374,7 @@
         "topic": "",
         "payload": "true",
         "payloadType": "bool",
-        "x": 1670,
+        "x": 1630,
         "y": 680,
         "wires": [
             [
@@ -42488,11 +42388,12 @@
         "z": "9941a439.4b17c8",
         "g": "dbdc491cb6e9eee5",
         "name": "Datos protecciones",
-        "func": "// Protecciones PQA.\nvar Voltage = global.get(\"PQA.Real_Time_Parameters.Average_Line_Voltage\",'memoryOnly')||0;\nvar Selection = flow.get(\"proteccionSelec\",'memoryOnly')||\"-\";\n\n// Protecciones Variador\nvar Load = global.get(\"C2S.Implicit.Output_Current\",'memoryOnly')||0;\nvar BusDC = global.get(\"C2S.Implicit.Bus_DC_Volts\", 'memoryOnly') || 0;\n\n// Protecciones Instrumentación\nvar THP = global.get(\"Process_data.AI['Presión de cabeza THP']\",'memoryOnly')||0;\nvar THT = global.get(\"Process_data.AI['Temperatura de cabeza THT']\",'memoryOnly')||0;\n\n// Sensor de Fondo\nvar Process_data            = global.get(\"Process_data.DHS\",'memoryOnly');\nvar Vibration_X             = Process_data[\"Vibración X\"]||0;\nvar Vibration_Z             = Process_data[\"Vibración Z\"]||0;\n\n//Protecciones Fondo\nvar Vibration_Gral          = Vibration_X >= Vibration_Z ? Vibration_X : Vibration_Z;\nvar LeakageCurrent          = Process_data[\"Corriente de fuga\"]||0;\nvar IntakePressure          = Process_data[\"Presión de entrada\"]||0;\nvar DischargePressure       = Process_data[\"Presión de descarga\"]||0;\nvar IntakeTemperature       = Process_data[\"Temperatura de entrada\"]||0;\nvar MotorTemperature        = Process_data[\"Temperatura de motor\"]||0;\nvar DischargeTemperature    = Process_data[\"Temperatura de descarga\"]||0;\n\nvar CurrentValue;\nif (Selection == \"Voltage\"){CurrentValue = Voltage.toFixed(2) +\" V\";}\nelse if (Selection == \"Load\") { CurrentValue = Load.toFixed(2) + \" A\";}\nelse if (Selection == \"BusDC\") { CurrentValue = BusDC.toFixed(2) + \" V\";}\nelse if (Selection == \"THP\") { CurrentValue = THP.toFixed(2) + \" psi\";}\nelse if (Selection == \"THT\") { CurrentValue = THT.toFixed(2) + \" ºF\";}\nelse if (Selection == \"VibrationGeneral\") { CurrentValue = Vibration_Gral.toFixed(2) + \" G\";}\nelse if (Selection == \"LeakageCurrent\") { CurrentValue = LeakageCurrent.toFixed(2) + \" mA\";}\nelse if (Selection == \"IntakePressure\") { CurrentValue = IntakePressure.toFixed(2) + \" psi\";}\nelse if (Selection == \"DischargePressure\") { CurrentValue = DischargePressure.toFixed(2) + \" psi\";}\nelse if (Selection == \"IntakeTemperature\") { CurrentValue = IntakeTemperature.toFixed(2) + \" ºF\";}\nelse if (Selection == \"MotorTemperature\") { CurrentValue = MotorTemperature.toFixed(2) + \" ºF\";}\nelse if (Selection == \"DischargeTemperature\") { CurrentValue = DischargeTemperature.toFixed(2) + \" ºF\";}\nelse {CurrentValue = \"---\";}\n\nreturn [\n    { payload: DecPlacces(Voltage,1)},\n    { payload: DecPlacces(Load,1)},\n    { payload: DecPlacces(BusDC,1)},\n    { payload: DecPlacces(THP,2)},\n    { payload: DecPlacces(THT,2)},\n    { payload: DecPlacces(Vibration_Gral,3)},\n    { payload: DecPlacces(LeakageCurrent,3)},\n    { payload: DecPlacces(IntakePressure,1)},\n    { payload: DecPlacces(DischargePressure,1)},\n    { payload: DecPlacces(IntakeTemperature,1)},\n    { payload: DecPlacces(MotorTemperature,1)},\n    { payload: DecPlacces(DischargeTemperature,1)},\n    { payload: CurrentValue}\n];\n\nfunction DecPlacces(value,Places){\n    return parseFloat(value.toFixed(Places));\n}",
+        "func": "// Protecciones PQA.\nvar Voltage = global.get(\"PQA.Real_Time_Parameters.Average_Line_Voltage\",'memoryOnly')||0;\nvar Selection = flow.get(\"proteccionSelec\",'memoryOnly')||\"-\";\n\n// Protecciones Variador\nvar Load = global.get(\"C2S.Implicit.Output_Current\",'memoryOnly')||0;\nvar BusDC = global.get(\"C2S.Implicit.Bus_DC_Volts\", 'memoryOnly') || 0;\n\n// Protecciones Instrumentación\nvar THP = global.get(\"Process_data.AI['Presión de cabeza THP']\",'memoryOnly')||0;\nvar THT = global.get(\"Process_data.AI['Temperatura de cabeza THT']\",'memoryOnly')||0;\n\n// Sensor de Fondo\nvar Process_data            = global.get(\"Process_data.DHS\",'memoryOnly')|| [];\nvar Vibration_X             = Process_data[\"Vibración X\"]||0;\nvar Vibration_Z             = Process_data[\"Vibración Z\"]||0;\n\n//Protecciones Fondo\nvar Vibration_Gral          = Vibration_X >= Vibration_Z ? Vibration_X : Vibration_Z;\nvar LeakageCurrent          = Process_data[\"Corriente de fuga\"]||0;\nvar IntakePressure          = Process_data[\"Presión de entrada\"]||0;\nvar DischargePressure       = Process_data[\"Presión de descarga\"]||0;\nvar IntakeTemperature       = Process_data[\"Temperatura de entrada\"]||0;\nvar MotorTemperature        = Process_data[\"Temperatura de motor\"]||0;\nvar DischargeTemperature    = Process_data[\"Temperatura de descarga\"]||0;\n\nvar CurrentValue;\nif (Selection == \"Voltage\"){CurrentValue = Voltage.toFixed(2) +\" V\";}\nelse if (Selection == \"Load\") { CurrentValue = Load.toFixed(2) + \" A\";}\nelse if (Selection == \"BusDC\") { CurrentValue = BusDC.toFixed(2) + \" V\";}\nelse if (Selection == \"THP\") { CurrentValue = THP.toFixed(2) + \" psi\";}\nelse if (Selection == \"THT\") { CurrentValue = THT.toFixed(2) + \" ºF\";}\nelse if (Selection == \"VibrationGeneral\") { CurrentValue = Vibration_Gral.toFixed(2) + \" G\";}\nelse if (Selection == \"LeakageCurrent\") { CurrentValue = LeakageCurrent.toFixed(2) + \" mA\";}\nelse if (Selection == \"IntakePressure\") { CurrentValue = IntakePressure.toFixed(2) + \" psi\";}\nelse if (Selection == \"DischargePressure\") { CurrentValue = DischargePressure.toFixed(2) + \" psi\";}\nelse if (Selection == \"IntakeTemperature\") { CurrentValue = IntakeTemperature.toFixed(2) + \" ºF\";}\nelse if (Selection == \"MotorTemperature\") { CurrentValue = MotorTemperature.toFixed(2) + \" ºF\";}\nelse if (Selection == \"DischargeTemperature\") { CurrentValue = DischargeTemperature.toFixed(2) + \" ºF\";}\nelse {CurrentValue = \"---\";}\n\nreturn [\n    { payload: DecPlacces(Voltage,1)},\n    { payload: DecPlacces(Load,1)},\n    { payload: DecPlacces(BusDC,1)},\n    { payload: DecPlacces(THP,2)},\n    { payload: DecPlacces(THT,2)},\n    { payload: DecPlacces(Vibration_Gral,3)},\n    { payload: DecPlacces(LeakageCurrent,3)},\n    { payload: DecPlacces(IntakePressure,1)},\n    { payload: DecPlacces(DischargePressure,1)},\n    { payload: DecPlacces(IntakeTemperature,1)},\n    { payload: DecPlacces(MotorTemperature,1)},\n    { payload: DecPlacces(DischargeTemperature,1)},\n    { payload: CurrentValue}\n];\n\nfunction DecPlacces(value,Places){\n    return parseFloat(value.toFixed(Places));\n}",
         "outputs": 13,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 1830,
         "y": 680,
         "wires": [
@@ -42500,7 +42401,7 @@
                 "f8baefd81119f16d"
             ],
             [
-                "e5fc5b4881c0f9df"
+                "20fa657d189a7cd8"
             ],
             [
                 "233e4f7d69176554"
@@ -57508,8 +57409,8 @@
             "52f1e35a6b450a62",
             "8eacc47.e177438"
         ],
-        "x": 2365,
-        "y": 420,
+        "x": 2685,
+        "y": 480,
         "wires": []
     },
     {
@@ -57522,8 +57423,8 @@
             "2da816b7.b2be9a",
             "cbbbcd1c.7180e"
         ],
-        "x": 2365,
-        "y": 380,
+        "x": 2685,
+        "y": 440,
         "wires": []
     },
     {
@@ -60260,7 +60161,7 @@
         "type": "subflow:669c188.bd26ee8",
         "z": "9941a439.4b17c8",
         "g": "dbdc491cb6e9eee5",
-        "name": "THP",
+        "name": "---------- THP ----------",
         "env": [
             {
                 "name": "protection",
@@ -60268,7 +60169,7 @@
                 "type": "str"
             }
         ],
-        "x": 2080,
+        "x": 2140,
         "y": 550,
         "wires": [
             [
@@ -60284,7 +60185,7 @@
         "type": "subflow:669c188.bd26ee8",
         "z": "9941a439.4b17c8",
         "g": "dbdc491cb6e9eee5",
-        "name": "THT",
+        "name": "----------- THT -----------",
         "env": [
             {
                 "name": "protection",
@@ -60292,7 +60193,7 @@
                 "type": "str"
             }
         ],
-        "x": 2080,
+        "x": 2140,
         "y": 600,
         "wires": [
             [
@@ -63695,11 +63596,12 @@
         "z": "7a89175c.90f6a8",
         "g": "2fa4e5be63ea61ce",
         "name": "Falla general",
-        "func": "var Drive_fault    = (global.get('C2S.Drive_Status.Fault','memoryOnly') || 0) == 0? false:true;\nvar DI = global.get(\"IO.Functions.DI\", 'memoryOnly');\nvar Prot = global.get('Protections.General','memoryOnly') || false;\n// Valor lógico para detección de algún disparo en aplicación\nvar Disparos = DIFunction['Stop ESD'] ||\n    DIFunction['Disparo alto nivel de aceite SUT'] ||\n    DIFunction['Disparo alta temperatura SUT'] ||\n    DIFunction['Disparo bajo bajo nivel de aceite SUT'] ||\n    DIFunction['Disparo válvula sobre-presión SUT'] ||\n    DIFunction['Disparo alta temperatura filtros'] ||\n    DIFunction['Disparo alta presión THP'] ||\n    DIFunction['Disparo sobre-tensión SUT']||\n    DIFunction['Disparo puerta abierta']||\n    DIFunction['Disparo shutdown SCC']||\n    DIFunction['Disparo baja presión en la troncal'] ||\n    DIFunction['ESD Remoto']||false;\n\nvar FallaGral = Drive_fault || Disparos ||Prot;\n\nif (FallaGral)\n    global.set(\"IO.Functions.DO['Falla general']\", FallaGral, 'memoryOnly');\n\nmsg.payload = FallaGral;\n\nFallaGral == true ? node.status({ fill: \"red\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"green\", shape: \"dot\", text: \"FALSE\" });\n\nreturn msg;\n\n/*\n @param {string | number} IOFunction\n*/\nfunction DIFunction(IOFunction){\n    try {return DI[IOFunction];} \n    catch (error) {return false;};\n}",
+        "func": "var Drive_fault    = (global.get('C2S.Drive_Status.Fault','memoryOnly') || 0) == 0? false:true;\nvar DI = global.get(\"IO.Functions.DI\", 'memoryOnly');\nvar Prot = global.get('Protections.General','memoryOnly') || false;\n// Valor lógico para detección de algún disparo en aplicación\nvar Disparos = DIFunction['Stop ESD'] ||\n    DIFunction['Disparo alto nivel de aceite SUT'] ||\n    DIFunction['Disparo alta temperatura SUT'] ||\n    DIFunction['Disparo bajo bajo nivel de aceite SUT'] ||\n    DIFunction['Disparo válvula sobre-presión SUT'] ||\n    DIFunction['Disparo alta temperatura filtros'] ||\n    DIFunction['Disparo alta presión THP'] ||\n    DIFunction['Disparo sobre-tensión SUT']||\n    DIFunction['Disparo puerta abierta']||\n    DIFunction['Disparo shutdown SCC']||\n    DIFunction['Disparo baja presión en la troncal'] ||\n    DIFunction['ESD Remoto']||false;\n\nvar FallaGral = Drive_fault || Disparos ||Prot;\nglobal.set(\"IO.Functions.DO['Falla general']\", FallaGral, 'memoryOnly');\n\nmsg.payload = FallaGral;\n\nFallaGral == true ? node.status({ fill: \"red\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"green\", shape: \"dot\", text: \"FALSE\" });\n\nreturn msg;\n\n/*\n @param {string | number} IOFunction\n*/\nfunction DIFunction(IOFunction){\n    try {return DI[IOFunction];} \n    catch (error) {return false;};\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 1630,
         "y": 170,
         "wires": [
@@ -63986,6 +63888,7 @@
         "id": "628cd5f619b29af6",
         "type": "function",
         "z": "902fc438.e5d758",
+        "d": true,
         "g": "fcb3da61.429db8",
         "name": "apagar piloto falla gen",
         "func": "global.set(\"IO.Functions.DO['Falla general']\", false, 'memoryOnly');\nreturn msg;",
@@ -63993,6 +63896,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 1260,
         "y": 1120,
         "wires": [
@@ -68083,8 +67987,7 @@
         "y": 1620,
         "wires": [
             [
-                "4f0b55e892bfb4a3",
-                "e2a956b347fcb43a"
+                "4f0b55e892bfb4a3"
             ]
         ]
     },
@@ -68146,8 +68049,7 @@
         "y": 1770,
         "wires": [
             [
-                "3643e1d2b5d5f9fa",
-                "e2a956b347fcb43a"
+                "3643e1d2b5d5f9fa"
             ]
         ]
     },
@@ -68209,8 +68111,7 @@
         "y": 1720,
         "wires": [
             [
-                "2dcd110a422850fa",
-                "e2a956b347fcb43a"
+                "2dcd110a422850fa"
             ]
         ]
     },
@@ -68234,8 +68135,7 @@
         "y": 1670,
         "wires": [
             [
-                "d7a21b76ea69a930",
-                "e2a956b347fcb43a"
+                "d7a21b76ea69a930"
             ]
         ]
     },
@@ -68278,8 +68178,7 @@
         "y": 1820,
         "wires": [
             [
-                "5b71991a6e96505e",
-                "e2a956b347fcb43a"
+                "5b71991a6e96505e"
             ]
         ]
     },
@@ -68360,8 +68259,7 @@
         "y": 1870,
         "wires": [
             [
-                "b99e04abad6045ae",
-                "e2a956b347fcb43a"
+                "b99e04abad6045ae"
             ]
         ]
     },
@@ -68423,8 +68321,7 @@
         "y": 1920,
         "wires": [
             [
-                "edb17caf37c08ee9",
-                "e2a956b347fcb43a"
+                "edb17caf37c08ee9"
             ]
         ]
     },
@@ -68486,8 +68383,7 @@
         "y": 1970,
         "wires": [
             [
-                "e6c20f948495f302",
-                "e2a956b347fcb43a"
+                "e6c20f948495f302"
             ]
         ]
     },
@@ -68549,8 +68445,7 @@
         "y": 2020,
         "wires": [
             [
-                "40c06d2a5432c88f",
-                "e2a956b347fcb43a"
+                "40c06d2a5432c88f"
             ]
         ]
     },
@@ -68612,8 +68507,7 @@
         "y": 2070,
         "wires": [
             [
-                "51b02f5772ae79a5",
-                "e2a956b347fcb43a"
+                "51b02f5772ae79a5"
             ]
         ]
     },
@@ -68675,8 +68569,7 @@
         "y": 2120,
         "wires": [
             [
-                "7250a8f6b3cf4176",
-                "e2a956b347fcb43a"
+                "7250a8f6b3cf4176"
             ]
         ]
     },
@@ -68738,8 +68631,7 @@
         "y": 2170,
         "wires": [
             [
-                "563c0a8a176cfc41",
-                "e2a956b347fcb43a"
+                "563c0a8a176cfc41"
             ]
         ]
     },
@@ -68801,8 +68693,7 @@
         "y": 2220,
         "wires": [
             [
-                "6433e4e81cbe5966",
-                "e2a956b347fcb43a"
+                "6433e4e81cbe5966"
             ]
         ]
     },
@@ -68864,8 +68755,7 @@
         "y": 2270,
         "wires": [
             [
-                "91e8a1a7b161d82c",
-                "e2a956b347fcb43a"
+                "91e8a1a7b161d82c"
             ]
         ]
     },
@@ -68927,8 +68817,7 @@
         "y": 2320,
         "wires": [
             [
-                "018dcb63fda2f0d3",
-                "e2a956b347fcb43a"
+                "018dcb63fda2f0d3"
             ]
         ]
     },
@@ -68990,8 +68879,7 @@
         "y": 2370,
         "wires": [
             [
-                "d84a785289e598cd",
-                "e2a956b347fcb43a"
+                "d84a785289e598cd"
             ]
         ]
     },
@@ -69087,8 +68975,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1670,
-        "y": 2480,
+        "x": 1610,
+        "y": 2470,
         "wires": [
             []
         ]
@@ -69132,8 +69020,7 @@
         "y": 2520,
         "wires": [
             [
-                "b7e8c0e0211714a7",
-                "e2a956b347fcb43a"
+                "b7e8c0e0211714a7"
             ]
         ]
     },
@@ -69195,8 +69082,7 @@
         "y": 2570,
         "wires": [
             [
-                "b142564394135d0f",
-                "e2a956b347fcb43a"
+                "b142564394135d0f"
             ]
         ]
     },
@@ -69543,8 +69429,7 @@
         "y": 2420,
         "wires": [
             [
-                "9a42b3bc50c233d0",
-                "e2a956b347fcb43a"
+                "9a42b3bc50c233d0"
             ]
         ]
     },
@@ -69565,23 +69450,6 @@
             [
                 "de596228ce0351bb"
             ]
-        ]
-    },
-    {
-        "id": "e2a956b347fcb43a",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Activar falla general",
-        "func": "global.set(\"IO.Functions.DO['Falla general']\", true, 'memoryOnly');\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1650,
-        "y": 2650,
-        "wires": [
-            []
         ]
     },
     {
@@ -69905,6 +69773,201 @@
         "wires": [
             [
                 "e87d903c.fade3"
+            ]
+        ]
+    },
+    {
+        "id": "cf72a5e61eda6fa8",
+        "type": "catch",
+        "z": "9941a439.4b17c8",
+        "g": "99671f60976b1d2a",
+        "name": "",
+        "scope": [
+            "fc115c1c3c5adc56",
+            "6fb0ab0f1387a9a8"
+        ],
+        "uncaught": false,
+        "x": 1620,
+        "y": 200,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "88548b2e943eafad",
+        "type": "rbe",
+        "z": "9941a439.4b17c8",
+        "g": "dbdc491cb6e9eee5",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 1910,
+        "y": 1050,
+        "wires": [
+            [
+                "d0a28faca735a7cd"
+            ]
+        ]
+    },
+    {
+        "id": "0dbb0daa3dc39314",
+        "type": "delay",
+        "z": "9941a439.4b17c8",
+        "g": "dbdc491cb6e9eee5",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "3",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "x": 2160,
+        "y": 1050,
+        "wires": [
+            [
+                "d76e4d26562180bb"
+            ]
+        ]
+    },
+    {
+        "id": "12e8c4108bf41494",
+        "type": "inject",
+        "z": "9941a439.4b17c8",
+        "g": "dbdc491cb6e9eee5",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "0.5",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "#:(memoryOnly)::C2S.Drive_Status.Active",
+        "payloadType": "global",
+        "x": 1710,
+        "y": 1050,
+        "wires": [
+            [
+                "88548b2e943eafad"
+            ]
+        ]
+    },
+    {
+        "id": "d0a28faca735a7cd",
+        "type": "switch",
+        "z": "9941a439.4b17c8",
+        "g": "dbdc491cb6e9eee5",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 2030,
+        "y": 1050,
+        "wires": [
+            [
+                "0dbb0daa3dc39314"
+            ],
+            [
+                "d98b5b76f78e1dcf"
+            ]
+        ]
+    },
+    {
+        "id": "d76e4d26562180bb",
+        "type": "change",
+        "z": "9941a439.4b17c8",
+        "g": "dbdc491cb6e9eee5",
+        "name": "LoadFlag True",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::LoadFlag",
+                "pt": "flow",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2320,
+        "y": 1050,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d98b5b76f78e1dcf",
+        "type": "change",
+        "z": "9941a439.4b17c8",
+        "g": "dbdc491cb6e9eee5",
+        "name": "LoadFlag False",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::LoadFlag",
+                "pt": "flow",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2180,
+        "y": 1090,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "20fa657d189a7cd8",
+        "type": "switch",
+        "z": "9941a439.4b17c8",
+        "g": "dbdc491cb6e9eee5",
+        "name": "LoadFlag",
+        "property": "#:(memoryOnly)::LoadFlag",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 2090,
+        "y": 450,
+        "wires": [
+            [
+                "e5fc5b4881c0f9df"
             ]
         ]
     }
