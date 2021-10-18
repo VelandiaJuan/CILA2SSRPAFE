@@ -1609,15 +1609,15 @@
             "88548b2e943eafad",
             "0dbb0daa3dc39314",
             "12e8c4108bf41494",
-            "d0a28faca735a7cd",
             "d76e4d26562180bb",
             "d98b5b76f78e1dcf",
-            "20fa657d189a7cd8"
+            "20fa657d189a7cd8",
+            "d0a28faca735a7cd"
         ],
         "x": 1534,
         "y": 359,
         "w": 1192,
-        "h": 772
+        "h": 732
     },
     {
         "id": "99671f60976b1d2a",
@@ -1899,9 +1899,7 @@
             "9faabcc1f09b24a8"
         ],
         "x": 1394,
-        "y": 89,
-        "w": 662,
-        "h": 272
+        "y": 89
     },
     {
         "id": "fbbdc4b7.95b5c8",
@@ -1976,9 +1974,7 @@
             "8a99e2610762706f"
         ],
         "x": 34,
-        "y": 393,
-        "w": 1988,
-        "h": 848
+        "y": 393
     },
     {
         "id": "d84615.919209e8",
@@ -2441,7 +2437,9 @@
             "6f1452c6eef9db91"
         ],
         "x": 24,
-        "y": 509
+        "y": 509,
+        "w": 932,
+        "h": 432
     },
     {
         "id": "4ae0fd0ca9645309",
@@ -2468,7 +2466,9 @@
             "077d5433f197a20c"
         ],
         "x": 24,
-        "y": 19
+        "y": 19,
+        "w": 932,
+        "h": 482
     },
     {
         "id": "76bd25c71a8d7775",
@@ -2507,7 +2507,9 @@
             "3176ad7a0b3bbd81"
         ],
         "x": 24,
-        "y": 949
+        "y": 949,
+        "w": 932,
+        "h": 1132
     },
     {
         "id": "afdbbb533d628687",
@@ -2565,7 +2567,9 @@
             "b5ec8494.5a8578"
         ],
         "x": 984,
-        "y": 49
+        "y": 49,
+        "w": 1182,
+        "h": 312
     },
     {
         "id": "b079c206d161b62c",
@@ -3663,9 +3667,7 @@
             "97085297.91fc4"
         ],
         "x": 1324,
-        "y": 419,
-        "w": 672,
-        "h": 202
+        "y": 419
     },
     {
         "id": "675af0d1.a9fc4",
@@ -5047,7 +5049,8 @@
             "e944556b.827528",
             "8fdf8ee9.0bd3d",
             "0c70a5025011d1a3",
-            "8862fe04df379b4e"
+            "8862fe04df379b4e",
+            "594a5a3dcc0b18eb"
         ],
         "x": 1804,
         "y": 1219,
@@ -60380,11 +60383,12 @@
         "type": "function",
         "z": "c8b77ff3.ab501",
         "name": "Bloque de arranque por protección",
-        "func": "var Prot = global.get(\"Protections.General\",'memoryOnly');\nif (Prot && ((msg.command == \"Arranque 'Reverse'\") || (msg.command == \"Arranque 'Forward'\")) ){return;}\nelse{return msg;}",
+        "func": "var Prot = global.get(\"Protections.General\",'memoryOnly');\nvar FallaGeneral = global.get(\"IO.Functions.DO['Falla general']\",\"memoryOnly\")||false;\nif ((Prot || FallaGeneral) &&  ((msg.command == \"Arranque 'Reverse'\") || (msg.command == \"Arranque 'Forward'\")) ){return;}\nelse{return msg;}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 1520,
         "y": 150,
         "wires": [
@@ -63596,7 +63600,7 @@
         "z": "7a89175c.90f6a8",
         "g": "2fa4e5be63ea61ce",
         "name": "Falla general",
-        "func": "var Drive_fault    = (global.get('C2S.Drive_Status.Fault','memoryOnly') || 0) == 0? false:true;\nvar DI = global.get(\"IO.Functions.DI\", 'memoryOnly');\nvar Prot = global.get('Protections.General','memoryOnly') || false;\n// Valor lógico para detección de algún disparo en aplicación\nvar Disparos = DIFunction['Stop ESD'] ||\n    DIFunction['Disparo alto nivel de aceite SUT'] ||\n    DIFunction['Disparo alta temperatura SUT'] ||\n    DIFunction['Disparo bajo bajo nivel de aceite SUT'] ||\n    DIFunction['Disparo válvula sobre-presión SUT'] ||\n    DIFunction['Disparo alta temperatura filtros'] ||\n    DIFunction['Disparo alta presión THP'] ||\n    DIFunction['Disparo sobre-tensión SUT']||\n    DIFunction['Disparo puerta abierta']||\n    DIFunction['Disparo shutdown SCC']||\n    DIFunction['Disparo baja presión en la troncal'] ||\n    DIFunction['ESD Remoto']||false;\n\nvar FallaGral = Drive_fault || Disparos ||Prot;\nglobal.set(\"IO.Functions.DO['Falla general']\", FallaGral, 'memoryOnly');\n\nmsg.payload = FallaGral;\n\nFallaGral == true ? node.status({ fill: \"red\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"green\", shape: \"dot\", text: \"FALSE\" });\n\nreturn msg;\n\n/*\n @param {string | number} IOFunction\n*/\nfunction DIFunction(IOFunction){\n    try {return DI[IOFunction];} \n    catch (error) {return false;};\n}",
+        "func": "var Drive_fault    = (global.get('C2S.Drive_Status.Fault','memoryOnly') || 0) == 0? false:true;\nvar DI = global.get(\"IO.Functions.DI\", 'memoryOnly');\nvar Prot = global.get('Protections.General','memoryOnly') || false;\n// Valor lógico para detección de algún disparo en aplicación\nvar Disparos = DIFunction('Stop ESD') ||\n    DIFunction('Disparo alto nivel de aceite SUT') ||\n    DIFunction('Disparo alta temperatura SUT') ||\n    DIFunction('Disparo bajo bajo nivel de aceite SUT') ||\n    DIFunction('Disparo válvula sobre-presión SUT') ||\n    DIFunction('Disparo alta temperatura filtros') ||\n    DIFunction('Disparo alta presión THP') ||\n    DIFunction('Disparo sobre-tensión SUT')||\n    DIFunction('Disparo puerta abierta')||\n    DIFunction('Disparo shutdown SCC')||\n    DIFunction('Disparo baja presión en la troncal') ||\n    DIFunction('ESD Remoto')||false;\n\nvar FallaGral = Drive_fault || Disparos ||Prot;\nif(FallaGral){\n    global.set(\"IO.Functions.DO['Falla general']\", FallaGral, 'memoryOnly');\n}\nmsg.payload = FallaGral;\n\nFallaGral == true ? node.status({ fill: \"red\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"green\", shape: \"dot\", text: \"FALSE\" });\n\nreturn msg;\n\n/*\n @param {string | number} IOFunction\n*/\nfunction DIFunction(IOFunction){\n    try {return DI[IOFunction];} \n    catch (error) {return false;};\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -63888,7 +63892,6 @@
         "id": "628cd5f619b29af6",
         "type": "function",
         "z": "902fc438.e5d758",
-        "d": true,
         "g": "fcb3da61.429db8",
         "name": "apagar piloto falla gen",
         "func": "global.set(\"IO.Functions.DO['Falla general']\", false, 'memoryOnly');\nreturn msg;",
@@ -69831,7 +69834,7 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "x": 2160,
+        "x": 2340,
         "y": 1050,
         "wires": [
             [
@@ -69866,36 +69869,6 @@
         ]
     },
     {
-        "id": "d0a28faca735a7cd",
-        "type": "switch",
-        "z": "9941a439.4b17c8",
-        "g": "dbdc491cb6e9eee5",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            },
-            {
-                "t": "false"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 2030,
-        "y": 1050,
-        "wires": [
-            [
-                "0dbb0daa3dc39314"
-            ],
-            [
-                "d98b5b76f78e1dcf"
-            ]
-        ]
-    },
-    {
         "id": "d76e4d26562180bb",
         "type": "change",
         "z": "9941a439.4b17c8",
@@ -69915,7 +69888,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 2320,
+        "x": 2500,
         "y": 1050,
         "wires": [
             []
@@ -69932,7 +69905,7 @@
                 "t": "set",
                 "p": "#:(memoryOnly)::LoadFlag",
                 "pt": "flow",
-                "to": "true",
+                "to": "false",
                 "tot": "bool"
             }
         ],
@@ -69942,9 +69915,11 @@
         "to": "",
         "reg": false,
         "x": 2180,
-        "y": 1090,
+        "y": 1050,
         "wires": [
-            []
+            [
+                "0dbb0daa3dc39314"
+            ]
         ]
     },
     {
@@ -69968,6 +69943,63 @@
         "wires": [
             [
                 "e5fc5b4881c0f9df"
+            ]
+        ]
+    },
+    {
+        "id": "594a5a3dcc0b18eb",
+        "type": "catch",
+        "z": "7a89175c.90f6a8",
+        "g": "c4bcf1ca.3d67d",
+        "name": "",
+        "scope": [
+            "e4db17d9.6120e",
+            "18c47ba8.228914",
+            "3df4fb63.5f8cbc",
+            "cf4ce76f.283b48",
+            "3e5019c8.17d316",
+            "3854e43c.ec8264",
+            "a7252de6.c8312",
+            "88f2ffd7.25d348",
+            "55eb0949.d6d6c8",
+            "5162edc5.fd86ec",
+            "98d887d0.c0b08",
+            "a4715132.442a68",
+            "67b09cbc.c12944",
+            "5acff31a.72921c",
+            "5ae9830f.47b96c",
+            "e944556b.827528"
+        ],
+        "uncaught": false,
+        "x": 1900,
+        "y": 1670,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d0a28faca735a7cd",
+        "type": "switch",
+        "z": "9941a439.4b17c8",
+        "g": "dbdc491cb6e9eee5",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 2030,
+        "y": 1050,
+        "wires": [
+            [
+                "d98b5b76f78e1dcf"
             ]
         ]
     }
