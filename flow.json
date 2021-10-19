@@ -903,9 +903,7 @@
             "c41a251e.427c98"
         ],
         "x": -2,
-        "y": 983,
-        "w": 1564,
-        "h": 334
+        "y": 983
     },
     {
         "id": "365d864c.8c19ca",
@@ -929,9 +927,7 @@
             "e032b1f4.a8be7"
         ],
         "x": 1692,
-        "y": 217,
-        "w": 1726,
-        "h": 2556
+        "y": 217
     },
     {
         "id": "43bab036.712ca",
@@ -946,9 +942,7 @@
             "e9d2f5f0.86a518"
         ],
         "x": -2,
-        "y": 521,
-        "w": 1564,
-        "h": 456
+        "y": 521
     },
     {
         "id": "54254b6e.789ca4",
@@ -974,9 +968,7 @@
             "16c036a47724813c"
         ],
         "x": 84,
-        "y": 1349,
-        "w": 682,
-        "h": 282
+        "y": 1349
     },
     {
         "id": "68e6bb30.d1fce4",
@@ -991,9 +983,7 @@
             "a7e99088.c8108"
         ],
         "x": -2,
-        "y": 133,
-        "w": 1564,
-        "h": 374
+        "y": 133
     },
     {
         "id": "8a04702.34fd29",
@@ -1010,9 +1000,7 @@
             "49534500.cd9cdc"
         ],
         "x": 894,
-        "y": 1329,
-        "w": 293,
-        "h": 122
+        "y": 1329
     },
     {
         "id": "ab42d2fa.9240c",
@@ -1032,9 +1020,7 @@
             "82264d68.0b05a"
         ],
         "x": 3478,
-        "y": 1723,
-        "w": 1324,
-        "h": 664
+        "y": 1723
     },
     {
         "id": "bd17e5b9.9261f8",
@@ -1054,9 +1040,7 @@
             "aa730b91.5646d8"
         ],
         "x": 3484,
-        "y": 2399,
-        "w": 762,
-        "h": 122
+        "y": 2399
     },
     {
         "id": "ec31a094.c373c",
@@ -1076,9 +1060,7 @@
             "9f627758.670cd8"
         ],
         "x": 3478,
-        "y": 143,
-        "w": 1534,
-        "h": 1574
+        "y": 143
     },
     {
         "id": "d689e3de.7d569",
@@ -1340,7 +1322,9 @@
             "eb91dac5.690838"
         ],
         "x": -12,
-        "y": 13
+        "y": 13,
+        "w": 1664,
+        "h": 1200
     },
     {
         "id": "e98dc6a9.24ece8",
@@ -1446,9 +1430,7 @@
             "ead83bdf05616014"
         ],
         "x": 18,
-        "y": 23,
-        "w": 1464,
-        "h": 664
+        "y": 23
     },
     {
         "id": "48d282d70b9e72c9",
@@ -1645,9 +1627,7 @@
             "d0a28faca735a7cd"
         ],
         "x": 1534,
-        "y": 359,
-        "w": 1192,
-        "h": 732
+        "y": 359
     },
     {
         "id": "99671f60976b1d2a",
@@ -1672,9 +1652,7 @@
             "cf72a5e61eda6fa8"
         ],
         "x": 1544,
-        "y": 29,
-        "w": 992,
-        "h": 212
+        "y": 29
     },
     {
         "id": "95daead77be77494",
@@ -1721,9 +1699,7 @@
             "0990c77b15bde411"
         ],
         "x": 994,
-        "y": 649,
-        "w": 532,
-        "h": 732
+        "y": 649
     },
     {
         "id": "87fca62744442ad4",
@@ -1762,9 +1738,7 @@
             "19a66bb9.eaa504"
         ],
         "x": 44,
-        "y": 409,
-        "w": 702,
-        "h": 272
+        "y": 409
     },
     {
         "id": "a7f58aaec292b159",
@@ -1807,9 +1781,7 @@
             "30359a42be66cafb"
         ],
         "x": 44,
-        "y": 689,
-        "w": 812,
-        "h": 272
+        "y": 689
     },
     {
         "id": "37b64a70f39dda06",
@@ -1848,9 +1820,7 @@
             "e0a3fe6a.f68a1"
         ],
         "x": 44,
-        "y": 969,
-        "w": 742,
-        "h": 272
+        "y": 969
     },
     {
         "id": "ee5753bdd6eedb72",
@@ -1875,9 +1845,7 @@
             "46e32360.5940dc"
         ],
         "x": 44,
-        "y": 239,
-        "w": 912,
-        "h": 162
+        "y": 239
     },
     {
         "id": "931b0370.afc1b",
@@ -2102,12 +2070,21 @@
             "a8b5fbf8701e60ae",
             "fc0377f144e8f895",
             "19bb32e54a08128b",
-            "23fa42dfe2b133da"
+            "23fa42dfe2b133da",
+            "fcf657085006aecc",
+            "e00b590de8db65fd",
+            "c5425cfd82bb2103",
+            "8477e56e09ae2e7b",
+            "ed9d2960c3a1899a",
+            "3a55190b20498da9",
+            "add5018e9f2eda4f",
+            "c01a450b09ddfa1b",
+            "d12eb94c947d2994"
         ],
-        "x": 1334,
-        "y": 359,
-        "w": 1152,
-        "h": 232
+        "x": 1364,
+        "y": 299,
+        "w": 1822,
+        "h": 282
     },
     {
         "id": "2fa4e5be63ea61ce",
@@ -2181,9 +2158,7 @@
             "6625e1db09743bc3"
         ],
         "x": -2,
-        "y": 2193,
-        "w": 1504,
-        "h": 294
+        "y": 2193
     },
     {
         "id": "854dec5e.9e51d",
@@ -2469,9 +2444,7 @@
             "6f1452c6eef9db91"
         ],
         "x": 24,
-        "y": 509,
-        "w": 932,
-        "h": 432
+        "y": 509
     },
     {
         "id": "4ae0fd0ca9645309",
@@ -2498,9 +2471,7 @@
             "077d5433f197a20c"
         ],
         "x": 24,
-        "y": 19,
-        "w": 932,
-        "h": 482
+        "y": 19
     },
     {
         "id": "76bd25c71a8d7775",
@@ -2539,9 +2510,7 @@
             "3176ad7a0b3bbd81"
         ],
         "x": 24,
-        "y": 949,
-        "w": 932,
-        "h": 1132
+        "y": 949
     },
     {
         "id": "afdbbb533d628687",
@@ -2599,9 +2568,49 @@
             "b5ec8494.5a8578"
         ],
         "x": 984,
-        "y": 49,
-        "w": 1182,
-        "h": 312
+        "y": 49
+    },
+    {
+        "id": "ba075c8cc622876a",
+        "type": "group",
+        "z": "43b51d90.0b47f4",
+        "name": "Habilitar/Deshabilitar Escritura VSD",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "7019877e645f53d6",
+            "a8a6b4b9b11add4f",
+            "844991fd35486da5",
+            "393ff0469933e182",
+            "5c0ee20724e1bfde",
+            "8a8fcb5375e06087"
+        ],
+        "x": 14,
+        "y": 2489
+    },
+    {
+        "id": "6939ff44.377fa",
+        "type": "group",
+        "z": "43b51d90.0b47f4",
+        "name": "Notificación de inicio de lectura de parámetros VSD",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "841201c5.a181a",
+            "2a158d64.603be2",
+            "23ce03d.6cf9afc",
+            "898b50d28d329e1e",
+            "e674f6d18b55af83",
+            "acb97314c658318d",
+            "166d811565102b9a",
+            "1b972dc0d731bd9c"
+        ],
+        "x": 3484,
+        "y": 2529
     },
     {
         "id": "b079c206d161b62c",
@@ -2813,9 +2822,7 @@
             "4b2d01032ad01b5f"
         ],
         "x": 884,
-        "y": 1009,
-        "w": 652,
-        "h": 282
+        "y": 1009
     },
     {
         "id": "c41a251e.427c98",
@@ -2845,9 +2852,7 @@
             "43ef002844a8d559"
         ],
         "x": 24,
-        "y": 1009,
-        "w": 862,
-        "h": 202
+        "y": 1009
     },
     {
         "id": "e032b1f4.a8be7",
@@ -2868,9 +2873,7 @@
             "4a1410ce.7057a"
         ],
         "x": 1798,
-        "y": 243,
-        "w": 1594,
-        "h": 1014
+        "y": 243
     },
     {
         "id": "9bb5d411.271d48",
@@ -2891,9 +2894,7 @@
             "44ee5bb3.49b264"
         ],
         "x": 1818,
-        "y": 1273,
-        "w": 1574,
-        "h": 494
+        "y": 1273
     },
     {
         "id": "8ac2b187.14625",
@@ -2914,9 +2915,7 @@
             "efe6d3f.f10193"
         ],
         "x": 1768,
-        "y": 1783,
-        "w": 1624,
-        "h": 254
+        "y": 1783
     },
     {
         "id": "dd0fb9ab.f737f8",
@@ -2937,9 +2936,7 @@
             "de31a457.a923c8"
         ],
         "x": 1718,
-        "y": 2053,
-        "w": 1674,
-        "h": 254
+        "y": 2053
     },
     {
         "id": "dad86215.ed79c",
@@ -2960,9 +2957,7 @@
             "baaa353b.511268"
         ],
         "x": 1818,
-        "y": 2373,
-        "w": 1574,
-        "h": 374
+        "y": 2373
     },
     {
         "id": "27c43941.e9e0c6",
@@ -3001,9 +2996,7 @@
             "b654921e2eaadb16"
         ],
         "x": 24,
-        "y": 549,
-        "w": 772,
-        "h": 322
+        "y": 549
     },
     {
         "id": "e9d2f5f0.86a518",
@@ -3036,9 +3029,7 @@
             "8307ca17.c4d5b8"
         ],
         "x": 804,
-        "y": 547,
-        "w": 732,
-        "h": 404
+        "y": 547
     },
     {
         "id": "6cdd72bc.8124cc",
@@ -3068,9 +3059,7 @@
             "154f8bca3ba4d547"
         ],
         "x": 24,
-        "y": 159,
-        "w": 752,
-        "h": 202
+        "y": 159
     },
     {
         "id": "a7e99088.c8108",
@@ -3101,9 +3090,7 @@
             "aa882bcf32d6610f"
         ],
         "x": 784,
-        "y": 159,
-        "w": 752,
-        "h": 322
+        "y": 159
     },
     {
         "id": "78a8be83.7018c",
@@ -3134,9 +3121,7 @@
             "3f3a83c71b2f5a67"
         ],
         "x": 3504,
-        "y": 1879,
-        "w": 1272,
-        "h": 482
+        "y": 1879
     },
     {
         "id": "82264d68.0b05a",
@@ -3157,9 +3142,7 @@
             "353f1b5f0e990fc0"
         ],
         "x": 3504,
-        "y": 1749,
-        "w": 682,
-        "h": 122
+        "y": 1749
     },
     {
         "id": "4af99851.bcfb28",
@@ -3229,9 +3212,7 @@
             "2e21c9cebde6f3b5"
         ],
         "x": 3504,
-        "y": 169,
-        "w": 832,
-        "h": 1522
+        "y": 169
     },
     {
         "id": "9f627758.670cd8",
@@ -3304,9 +3285,7 @@
             "867daec35cee2f96"
         ],
         "x": 4344,
-        "y": 169,
-        "w": 642,
-        "h": 562
+        "y": 169
     },
     {
         "id": "71fd37.e2a532c8",
@@ -3500,7 +3479,9 @@
             "b045615539735b86"
         ],
         "x": 14,
-        "y": 463
+        "y": 463,
+        "w": 958,
+        "h": 724
     },
     {
         "id": "eb91dac5.690838",
@@ -3553,7 +3534,9 @@
             "12af13b195eb0935"
         ],
         "x": 44,
-        "y": 39
+        "y": 39,
+        "w": 1582,
+        "h": 402
     },
     {
         "id": "8ed62712.fe2018",
@@ -3637,9 +3620,7 @@
             "d22f737e1faaee45"
         ],
         "x": 44,
-        "y": 499,
-        "w": 412,
-        "h": 162
+        "y": 499
     },
     {
         "id": "ee01b6d1.f76f98",
@@ -3678,9 +3659,7 @@
             "43ffc14d.a3cac8"
         ],
         "x": 44,
-        "y": 49,
-        "w": 1412,
-        "h": 442
+        "y": 49
     },
     {
         "id": "e2589faa.5b6d2",
@@ -3984,9 +3963,7 @@
             "c7ce33ac338a9db9"
         ],
         "x": 24,
-        "y": 2219,
-        "w": 1452,
-        "h": 242
+        "y": 2219
     },
     {
         "id": "c30870cb.fa25a",
@@ -4502,9 +4479,7 @@
             "3562934e5b0cf017"
         ],
         "x": 1844,
-        "y": 1299,
-        "w": 862,
-        "h": 442
+        "y": 1299
     },
     {
         "id": "37d2bc6e.615114",
@@ -4534,9 +4509,7 @@
             "8dde271ff1d969fa"
         ],
         "x": 1794,
-        "y": 1809,
-        "w": 912,
-        "h": 202
+        "y": 1809
     },
     {
         "id": "de31a457.a923c8",
@@ -4568,9 +4541,7 @@
             "dde585da45828626"
         ],
         "x": 1744,
-        "y": 2079,
-        "w": 972,
-        "h": 202
+        "y": 2079
     },
     {
         "id": "e5ce125e.59232",
@@ -4648,9 +4619,7 @@
             "7f16c2134718aa10"
         ],
         "x": 2704,
-        "y": 269,
-        "w": 662,
-        "h": 642
+        "y": 269
     },
     {
         "id": "44ee5bb3.49b264",
@@ -4711,9 +4680,7 @@
             "89b7b336cfb8b746"
         ],
         "x": 2714,
-        "y": 1299,
-        "w": 652,
-        "h": 442
+        "y": 1299
     },
     {
         "id": "efe6d3f.f10193",
@@ -4750,9 +4717,7 @@
             "d5fd47a5a4155735"
         ],
         "x": 2714,
-        "y": 1809,
-        "w": 652,
-        "h": 202
+        "y": 1809
     },
     {
         "id": "826b087f.5615a8",
@@ -4785,9 +4750,7 @@
             "2a899511c5694e05"
         ],
         "x": 2714,
-        "y": 2079,
-        "w": 652,
-        "h": 182
+        "y": 2079
     },
     {
         "id": "372b998e.a167c6",
@@ -4826,9 +4789,7 @@
             "7eba7a6f755e91c4"
         ],
         "x": 1844,
-        "y": 2399,
-        "w": 862,
-        "h": 322
+        "y": 2399
     },
     {
         "id": "baaa353b.511268",
@@ -4877,9 +4838,7 @@
             "43ab53b4e42bdc3a"
         ],
         "x": 2714,
-        "y": 2399,
-        "w": 652,
-        "h": 322
+        "y": 2399
     },
     {
         "id": "4a1410ce.7057a",
@@ -4944,9 +4903,7 @@
             "c86957e47636c7a3"
         ],
         "x": 1824,
-        "y": 269,
-        "w": 882,
-        "h": 962
+        "y": 269
     },
     {
         "id": "76d03353.299b94",
@@ -5186,7 +5143,9 @@
             "ecd73acb6f9a9a0a"
         ],
         "x": 584,
-        "y": 959
+        "y": 959,
+        "w": 362,
+        "h": 202
     },
     {
         "id": "64ff74e5.f4c53c",
@@ -5206,7 +5165,9 @@
             "c1672804cba19e98"
         ],
         "x": 574,
-        "y": 489
+        "y": 489,
+        "w": 173,
+        "h": 212
     },
     {
         "id": "be55ea76.ed4478",
@@ -5227,7 +5188,9 @@
             "41b82348a8ab40a8"
         ],
         "x": 564,
-        "y": 719
+        "y": 719,
+        "w": 372,
+        "h": 202
     },
     {
         "id": "1d477816.993308",
@@ -5521,52 +5484,6 @@
         "y": 1579,
         "w": 1652,
         "h": 1032
-    },
-    {
-        "id": "ba075c8cc622876a",
-        "type": "group",
-        "z": "43b51d90.0b47f4",
-        "name": "Habilitar/Deshabilitar Escritura VSD",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "7019877e645f53d6",
-            "a8a6b4b9b11add4f",
-            "844991fd35486da5",
-            "393ff0469933e182",
-            "5c0ee20724e1bfde",
-            "8a8fcb5375e06087"
-        ],
-        "x": 14,
-        "y": 2489,
-        "w": 682,
-        "h": 122
-    },
-    {
-        "id": "6939ff44.377fa",
-        "type": "group",
-        "z": "43b51d90.0b47f4",
-        "name": "Notificación de inicio de lectura de parámetros VSD",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "841201c5.a181a",
-            "2a158d64.603be2",
-            "23ce03d.6cf9afc",
-            "898b50d28d329e1e",
-            "e674f6d18b55af83",
-            "acb97314c658318d",
-            "166d811565102b9a",
-            "1b972dc0d731bd9c"
-        ],
-        "x": 3484,
-        "y": 2529,
-        "w": 642,
-        "h": 162
     },
     {
         "id": "d25d405a.19cff",
@@ -8447,6 +8364,11 @@
             {
                 "color": "orange",
                 "value": "Falla general",
+                "valueType": "str"
+            },
+            {
+                "color": "orange",
+                "value": "Falla communicación I/O",
                 "valueType": "str"
             }
         ],
@@ -37923,7 +37845,7 @@
         "z": "dd18d94e.4b1408",
         "g": "b2f2659a.67f648",
         "name": "Status Function",
-        "func": "//Calling global variables\nvar Active  = global.get(\"C2S.Drive_Status.Active\",'memoryOnly') ||0;\nvar Alarm   = global.get(\"C2S.Drive_Status.Alarm\",'memoryOnly')  ||0;\nvar Fault   = global.get(\"C2S.Drive_Status.Fault\",'memoryOnly')  ||0;\nvar Accel   = global.get(\"C2S.Drive_Status.Accel\",'memoryOnly')  ||0;\nvar Decel   = global.get(\"C2S.Drive_Status.Decel\",'memoryOnly')  ||0;\nvar Comm    = global.get(\"C2S.Comunicacion_Drive\",'memoryOnly');\nvar Prot    = global.get(\"Protections.RFlag\",'memoryOnly');\nvar delay   = flow.get(\"Rearranque_delay\",\"memoryOnly\")||null;\nvar Enabled = global.get(\"C2S.Implicit.Digital_In_Sts\",\"memoryOnly\")||0;\nvar FallaGeneral = global.get(\"IO.Functions.DO['Falla general']\",'memoryOnly')|| false;\n\nif(!Comm){\n    msg.payload = \"Falla de comunicación\";\n}\nelse if(!Enabled){\n    msg.payload = \"Variador deshabilitado\";\n}\nelse if((delay!=null)&&(delay>0)){\n    msg.payload = \"Re-arranque en: \" + parseInt(delay/1000) + \" s\";\n    flow.set(\"Rearranque_delay\", delay-500,'memoryOnly') ;\n}\nelse if(Fault){\n    msg.payload = \"FALLA de variador!\";\n}\nelse if(Prot){\n    msg.payload = \"FALLA de protección!\";\n}\nelse if (FallaGeneral) {\n    msg.payload = \"Falla general\";\n}\nelse if (Alarm){\n    msg.payload = \"ALARMA!\";\n}\nelse if(Active){\n    if(Accel){\n        msg.payload = \"ACTIVO Acelerando\"; \n    }\n    else if(Decel){\n        msg.payload = \"ACTIVO Desacelerando\";\n    }\n    else{\n        msg.payload = \"ACTIVO\";\n    }\n}\nelse {\n    msg.payload = \"DETENIDO\";\n}\nnode.status({fill:\"green\",shape:\"dot\",text:Fault});\n\nreturn msg;",
+        "func": "//Calling global variables\nvar Active  = global.get(\"C2S.Drive_Status.Active\",'memoryOnly') ||0;\nvar Alarm   = global.get(\"C2S.Drive_Status.Alarm\",'memoryOnly')  ||0;\nvar Fault   = global.get(\"C2S.Drive_Status.Fault\",'memoryOnly')  ||0;\nvar Accel   = global.get(\"C2S.Drive_Status.Accel\",'memoryOnly')  ||0;\nvar Decel   = global.get(\"C2S.Drive_Status.Decel\",'memoryOnly')  ||0;\nvar Comm    = global.get(\"C2S.Comunicacion_Drive\",'memoryOnly');\nvar Prot    = global.get(\"Protections.RFlag\",'memoryOnly');\nvar delay   = flow.get(\"Rearranque_delay\",\"memoryOnly\")||null;\nvar Enabled = global.get(\"C2S.Implicit.Digital_In_Sts\",\"memoryOnly\")||0;\nvar FallaGeneral = global.get(\"IO.Functions.DO['Falla general']\",'memoryOnly')|| false;\nvar CommSts = global.get(\"IO.Functions.CommSts\",'memoryOnly')||false;\n\nif(!Comm){\n    msg.payload = \"Falla de comunicación\";\n}\nelse if(!Enabled){\n    msg.payload = \"Variador deshabilitado\";\n}\nelse if((delay!=null)&&(delay>0)){\n    msg.payload = \"Re-arranque en: \" + parseInt(delay/1000) + \" s\";\n    flow.set(\"Rearranque_delay\", delay-500,'memoryOnly') ;\n}\nelse if(Fault){\n    msg.payload = \"FALLA de variador!\";\n}\nelse if(Prot){\n    msg.payload = \"FALLA de protección!\";\n}\nelse if (FallaGeneral) {\n    msg.payload = \"Falla general\";\n}\nelse if(CommSts){\n    msg.payload = \"Falla communicación I/O\";\n}\nelse if (Alarm){\n    msg.payload = \"ALARMA!\";\n}\nelse if(Active){\n    if(Accel){\n        msg.payload = \"ACTIVO Acelerando\"; \n    }\n    else if(Decel){\n        msg.payload = \"ACTIVO Desacelerando\";\n    }\n    else{\n        msg.payload = \"ACTIVO\";\n    }\n}\nelse {\n    msg.payload = \"DETENIDO\";\n}\nnode.status({fill:\"green\",shape:\"dot\",text:Fault});\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -48190,8 +48112,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1820,
-        "y": 400,
+        "x": 1850,
+        "y": 380,
         "wires": [
             [
                 "61280c95aee7b192"
@@ -48209,8 +48131,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1830,
-        "y": 440,
+        "x": 1860,
+        "y": 420,
         "wires": [
             [
                 "61280c95aee7b192"
@@ -48228,8 +48150,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1840,
-        "y": 480,
+        "x": 1870,
+        "y": 460,
         "wires": [
             [
                 "61280c95aee7b192"
@@ -48251,12 +48173,13 @@
         "useIOForPayload": false,
         "emptyMsgOnFail": false,
         "keepMsgProperties": false,
-        "x": 2100,
-        "y": 400,
+        "x": 2130,
+        "y": 380,
         "wires": [
             [],
             [
-                "99a274a00b57e276"
+                "99a274a00b57e276",
+                "c5425cfd82bb2103"
             ]
         ]
     },
@@ -48271,8 +48194,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 2340,
-        "y": 400,
+        "x": 2370,
+        "y": 380,
         "wires": [
             []
         ]
@@ -48291,8 +48214,8 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 2270,
-        "y": 450,
+        "x": 2300,
+        "y": 430,
         "wires": []
     },
     {
@@ -48305,8 +48228,8 @@
             "61280c95aee7b192"
         ],
         "uncaught": false,
-        "x": 2100,
-        "y": 450,
+        "x": 2130,
+        "y": 430,
         "wires": [
             [
                 "af1cc651cc056bc8"
@@ -48331,8 +48254,8 @@
         "topic": "",
         "payload": "true",
         "payloadType": "bool",
-        "x": 1430,
-        "y": 400,
+        "x": 1460,
+        "y": 380,
         "wires": [
             [
                 "94ed97e6d2f75d45"
@@ -48353,8 +48276,8 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 2270,
-        "y": 550,
+        "x": 2300,
+        "y": 530,
         "wires": []
     },
     {
@@ -48367,8 +48290,8 @@
             "26144798845bf323"
         ],
         "uncaught": false,
-        "x": 2100,
-        "y": 550,
+        "x": 2130,
+        "y": 530,
         "wires": [
             [
                 "4f1250843d4fc966"
@@ -48386,8 +48309,8 @@
         "server": "f630cb55.8d18e8",
         "emptyMsgOnFail": false,
         "keepMsgProperties": false,
-        "x": 2300,
-        "y": 500,
+        "x": 2330,
+        "y": 480,
         "wires": [
             [],
             []
@@ -48409,8 +48332,8 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "x": 1570,
-        "y": 400,
+        "x": 1600,
+        "y": 380,
         "wires": [
             [
                 "1617c9c527c7d680",
@@ -48434,8 +48357,8 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "x": 1570,
-        "y": 440,
+        "x": 1600,
+        "y": 420,
         "wires": [
             [
                 "1052252d2e7f47ab",
@@ -48459,8 +48382,8 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "x": 1570,
-        "y": 480,
+        "x": 1600,
+        "y": 460,
         "wires": [
             [
                 "2cd6cbf135d592bb",
@@ -48484,11 +48407,12 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "x": 1570,
-        "y": 520,
+        "x": 1600,
+        "y": 500,
         "wires": [
             [
-                "19bb32e54a08128b"
+                "19bb32e54a08128b",
+                "e00b590de8db65fd"
             ]
         ]
     },
@@ -48503,8 +48427,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1820,
-        "y": 520,
+        "x": 1850,
+        "y": 500,
         "wires": [
             [
                 "23fa42dfe2b133da"
@@ -48522,8 +48446,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 2080,
-        "y": 500,
+        "x": 2110,
+        "y": 480,
         "wires": [
             [
                 "26144798845bf323"
@@ -71045,6 +70969,235 @@
         "wires": [
             [
                 "628cd5f619b29af6"
+            ]
+        ]
+    },
+    {
+        "id": "fcf657085006aecc",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "0382d006bf3e8547",
+        "name": "Comunication Fault",
+        "func": "msg.topic = 'Comunication Fault';\nmsg.payload = { \n    value: msg.payload, \n    'fc': 3, \n    'unitid': 1, \n    'address': 3031, \n    'quantity': 1   \n} \nreturn msg",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1860,
+        "y": 540,
+        "wires": [
+            [
+                "61280c95aee7b192"
+            ]
+        ]
+    },
+    {
+        "id": "e00b590de8db65fd",
+        "type": "delay",
+        "z": "7a89175c.90f6a8",
+        "g": "0382d006bf3e8547",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "100",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 1600,
+        "y": 540,
+        "wires": [
+            [
+                "fcf657085006aecc"
+            ]
+        ]
+    },
+    {
+        "id": "c5425cfd82bb2103",
+        "type": "switch",
+        "z": "7a89175c.90f6a8",
+        "g": "0382d006bf3e8547",
+        "name": "Comunication Fault",
+        "property": "topic",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Comunication Fault",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 2350,
+        "y": 340,
+        "wires": [
+            [
+                "8477e56e09ae2e7b"
+            ]
+        ]
+    },
+    {
+        "id": "8477e56e09ae2e7b",
+        "type": "rbe",
+        "z": "7a89175c.90f6a8",
+        "g": "0382d006bf3e8547",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": false,
+        "property": "payload.data[0]",
+        "topi": "topic",
+        "x": 2510,
+        "y": 340,
+        "wires": [
+            [
+                "ed9d2960c3a1899a",
+                "3a55190b20498da9"
+            ]
+        ]
+    },
+    {
+        "id": "ed9d2960c3a1899a",
+        "type": "change",
+        "z": "7a89175c.90f6a8",
+        "g": "0382d006bf3e8547",
+        "name": "Reset Fault",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::IO.Functions.CommSts",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "reset",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2650,
+        "y": 340,
+        "wires": [
+            [
+                "add5018e9f2eda4f"
+            ]
+        ]
+    },
+    {
+        "id": "3a55190b20498da9",
+        "type": "delay",
+        "z": "7a89175c.90f6a8",
+        "g": "0382d006bf3e8547",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "100",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 2650,
+        "y": 380,
+        "wires": [
+            [
+                "add5018e9f2eda4f"
+            ]
+        ]
+    },
+    {
+        "id": "add5018e9f2eda4f",
+        "type": "trigger",
+        "z": "7a89175c.90f6a8",
+        "g": "0382d006bf3e8547",
+        "name": "",
+        "op1": "0",
+        "op2": "Close",
+        "op1type": "num",
+        "op2type": "str",
+        "duration": "15",
+        "extend": false,
+        "overrideDelay": false,
+        "units": "s",
+        "reset": "reset",
+        "bytopic": "all",
+        "topic": "topic",
+        "outputs": 1,
+        "x": 2830,
+        "y": 340,
+        "wires": [
+            [
+                "d12eb94c947d2994"
+            ]
+        ]
+    },
+    {
+        "id": "c01a450b09ddfa1b",
+        "type": "change",
+        "z": "7a89175c.90f6a8",
+        "g": "0382d006bf3e8547",
+        "name": "Set Fault",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::IO.Functions.CommSts",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 3100,
+        "y": 340,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d12eb94c947d2994",
+        "type": "switch",
+        "z": "7a89175c.90f6a8",
+        "g": "0382d006bf3e8547",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Close",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 2970,
+        "y": 340,
+        "wires": [
+            [
+                "c01a450b09ddfa1b"
             ]
         ]
     }
