@@ -859,10 +859,7 @@
             "4a7db122c2dc8b89",
             "b7a03936d2600029",
             "fcfcecb7d9991531",
-            "db09e7f56c7c6542",
             "1685514ca67b1e7b",
-            "c8d7ce27507994dd",
-            "43df135fef3c7bbd",
             "f1f7bfacfe0754bf",
             "817dbbb379f02f18",
             "7632b63596549512",
@@ -874,7 +871,10 @@
             "840a159c6c18072c",
             "3484e5233d4f23d3",
             "628cd5f619b29af6",
-            "20aa1ab35334cb43"
+            "20aa1ab35334cb43",
+            "fbc4689af451cab4",
+            "7f7ba2b6b2295aa8",
+            "61c02e812fb48b72"
         ],
         "x": 24,
         "y": 609,
@@ -1425,9 +1425,7 @@
             "ead83bdf05616014"
         ],
         "x": 18,
-        "y": 23,
-        "w": 1464,
-        "h": 664
+        "y": 23
     },
     {
         "id": "48d282d70b9e72c9",
@@ -1894,7 +1892,9 @@
             "9faabcc1f09b24a8"
         ],
         "x": 1394,
-        "y": 89
+        "y": 89,
+        "w": 662,
+        "h": 272
     },
     {
         "id": "fbbdc4b7.95b5c8",
@@ -1966,10 +1966,13 @@
             "d4e730a306fe021d",
             "be360e54206710dc",
             "74f0176c837e892d",
-            "8a99e2610762706f"
+            "8a99e2610762706f",
+            "500204b3b5e576ab"
         ],
         "x": 34,
-        "y": 393
+        "y": 393,
+        "w": 1988,
+        "h": 848
     },
     {
         "id": "d84615.919209e8",
@@ -1984,7 +1987,9 @@
             "675af0d1.a9fc4"
         ],
         "x": 22,
-        "y": 27
+        "y": 27,
+        "w": 1176,
+        "h": 686
     },
     {
         "id": "3a4b00b6e7d09e3a",
@@ -2039,7 +2044,9 @@
             "deae04d3b07e573a"
         ],
         "x": 1234,
-        "y": 149
+        "y": 149,
+        "w": 1452,
+        "h": 632
     },
     {
         "id": "0382d006bf3e8547",
@@ -2133,7 +2140,9 @@
             "b9df7528.923398"
         ],
         "x": 28,
-        "y": 23
+        "y": 23,
+        "w": 2970,
+        "h": 1062
     },
     {
         "id": "83483662ea05d247",
@@ -2168,7 +2177,9 @@
             "b4d97ea9.9a1f1"
         ],
         "x": 28,
-        "y": 33
+        "y": 33,
+        "w": 2514,
+        "h": 864
     },
     {
         "id": "c2c81bf2.d0a218",
@@ -2624,6 +2635,8 @@
         ],
         "x": 574,
         "y": 21.5,
+        "w": 552,
+        "h": 217,
         "info": "# Condiciones\nSólo funciona si el nombre del proyecto es \"CILA2S-ESP-SWCPRO_AFE\""
     },
     {
@@ -2642,7 +2655,9 @@
             "5e35a538.cad0cc"
         ],
         "x": 14,
-        "y": 251.5
+        "y": 251.5,
+        "w": 432,
+        "h": 157
     },
     {
         "id": "8a437085.d2b8",
@@ -2665,6 +2680,8 @@
         ],
         "x": 14,
         "y": 21.5,
+        "w": 552,
+        "h": 217,
         "info": "# Condiciones\nSólo funciona si el nombre del proyecto es \"CILA2S-ESP-SWCPRO_AFE\""
     },
     {
@@ -3655,9 +3672,7 @@
             "d22f737e1faaee45"
         ],
         "x": 44,
-        "y": 499,
-        "w": 412,
-        "h": 162
+        "y": 499
     },
     {
         "id": "ee01b6d1.f76f98",
@@ -3696,9 +3711,7 @@
             "43ffc14d.a3cac8"
         ],
         "x": 44,
-        "y": 49,
-        "w": 1412,
-        "h": 442
+        "y": 49
     },
     {
         "id": "e2589faa.5b6d2",
@@ -3763,7 +3776,9 @@
             "97085297.91fc4"
         ],
         "x": 1324,
-        "y": 419
+        "y": 419,
+        "w": 672,
+        "h": 202
     },
     {
         "id": "675af0d1.a9fc4",
@@ -3780,7 +3795,9 @@
             "9bdf522.eba6db"
         ],
         "x": 48,
-        "y": 53
+        "y": 53,
+        "w": 1124,
+        "h": 634
     },
     {
         "id": "dad84feb.d4773",
@@ -3858,7 +3875,9 @@
             "dba5a375ebc26199"
         ],
         "x": 54,
-        "y": 359
+        "y": 359,
+        "w": 1832,
+        "h": 700
     },
     {
         "id": "7aad629d.de652c",
@@ -3923,7 +3942,9 @@
             "b4c9b17bde2f220c"
         ],
         "x": 54,
-        "y": 49
+        "y": 49,
+        "w": 2762,
+        "h": 302
     },
     {
         "id": "8f8a192b.bb2ef8",
@@ -3952,7 +3973,9 @@
             "4e19cfd4.3982f"
         ],
         "x": 1894,
-        "y": 439
+        "y": 439,
+        "w": 1062,
+        "h": 232
     },
     {
         "id": "b9df7528.923398",
@@ -3969,7 +3992,9 @@
             "65994a87.9d5eb4"
         ],
         "x": 1898,
-        "y": 683
+        "y": 683,
+        "w": 1074,
+        "h": 134
     },
     {
         "id": "6625e1db09743bc3",
@@ -4032,7 +4057,9 @@
             "aa646335.08c07"
         ],
         "x": 54,
-        "y": 59
+        "y": 59,
+        "w": 752,
+        "h": 202
     },
     {
         "id": "f3b2b1b2.a0af2",
@@ -4062,7 +4089,9 @@
             "168b6577.3e722b"
         ],
         "x": 814,
-        "y": 59
+        "y": 59,
+        "w": 892,
+        "h": 292
     },
     {
         "id": "4384031.9ff1afc",
@@ -4087,7 +4116,9 @@
             "0c30f8189e25396b"
         ],
         "x": 1714,
-        "y": 59
+        "y": 59,
+        "w": 802,
+        "h": 202
     },
     {
         "id": "b4d97ea9.9a1f1",
@@ -4151,7 +4182,9 @@
             "ad4dd5b2b0af6c29"
         ],
         "x": 54,
-        "y": 359
+        "y": 359,
+        "w": 1912,
+        "h": 512
     },
     {
         "id": "afcd8222.ca23b",
@@ -5228,7 +5261,9 @@
             "d0a19b38.893ab8"
         ],
         "x": 74,
-        "y": 79
+        "y": 79,
+        "w": 1042,
+        "h": 162
     },
     {
         "id": "9bdf522.eba6db",
@@ -5271,7 +5306,9 @@
             "8ca4e5b4ca175ad4"
         ],
         "x": 74,
-        "y": 249
+        "y": 249,
+        "w": 1072,
+        "h": 412
     },
     {
         "id": "65994a87.9d5eb4",
@@ -5291,7 +5328,9 @@
             "f4363e16.f1813"
         ],
         "x": 1924,
-        "y": 709
+        "y": 709,
+        "w": 1022,
+        "h": 82
     },
     {
         "id": "dd4ef7f.6489508",
@@ -8895,7 +8934,8 @@
         "wires": [
             [
                 "e834cca1573f4ed0",
-                "20aa1ab35334cb43"
+                "20aa1ab35334cb43",
+                "fbc4689af451cab4"
             ]
         ]
     },
@@ -43360,7 +43400,8 @@
             "b11471d1de6d950b",
             "7fc0d455c009b47b",
             "77d8136b.25bb0c",
-            "7593d9a9.ee8aa8"
+            "7593d9a9.ee8aa8",
+            "7f7ba2b6b2295aa8"
         ],
         "x": 1425,
         "y": 60,
@@ -45313,7 +45354,7 @@
         "z": "18d8f6b717fbdf76",
         "g": "fbbdc4b7.95b5c8",
         "name": "Arranque",
-        "property": "payload",
+        "property": "command",
         "propertyType": "msg",
         "rules": [
             {
@@ -46036,6 +46077,7 @@
         "links": [
             "1ef779a27f308aef",
             "6bb7cd2e.159434",
+            "7f7ba2b6b2295aa8",
             "8b72bbb3.5d5a38"
         ],
         "x": 205,
@@ -47028,11 +47070,12 @@
         "z": "bef159b0eb2cf912",
         "g": "3a4b00b6e7d09e3a",
         "name": "rampa ref prol(s)",
-        "func": "var ramp_refprol = flow.get(\"ramp_refprol\")||[0,0,0];\nmsg.payload = (ramp_refprol[0]*3600)+(ramp_refprol[1]*60)+ramp_refprol[2];\nreturn msg;",
+        "func": "var ramp_refprol1 = flow.get(\"ramp_refprol[0]\") || 0;\nvar ramp_refprol2 = flow.get(\"ramp_refprol[1]\") || 0;\nvar ramp_refprol3 = flow.get(\"ramp_refprol[2]\") || 0;\nmsg.payload = (ramp_refprol1*3600)+(ramp_refprol2*60)+ramp_refprol3;\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 2190,
         "y": 500,
         "wires": [
@@ -59009,7 +59052,8 @@
             "14c9d205.a3aa7e",
             "d864cf5d.4424a",
             "8ca4e5b4ca175ad4",
-            "55b87356.a4664c"
+            "55b87356.a4664c",
+            "500204b3b5e576ab"
         ],
         "x": 2065,
         "y": 1080,
@@ -61705,40 +61749,6 @@
         ]
     },
     {
-        "id": "db09e7f56c7c6542",
-        "type": "switch",
-        "z": "902fc438.e5d758",
-        "g": "fcb3da61.429db8",
-        "name": "direccion",
-        "property": "#:(memoryOnly)::C2S.Drive_Status.Command_dir",
-        "propertyType": "global",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "0",
-                "vt": "num"
-            },
-            {
-                "t": "eq",
-                "v": "1",
-                "vt": "num"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 1310,
-        "y": 920,
-        "wires": [
-            [
-                "c8d7ce27507994dd"
-            ],
-            [
-                "fcfcecb7d9991531"
-            ]
-        ]
-    },
-    {
         "id": "1685514ca67b1e7b",
         "type": "switch",
         "z": "902fc438.e5d758",
@@ -61770,54 +61780,13 @@
         "y": 970,
         "wires": [
             [
-                "db09e7f56c7c6542"
+                "fcfcecb7d9991531"
             ],
             [
                 "fcfcecb7d9991531"
             ],
             []
         ]
-    },
-    {
-        "id": "c8d7ce27507994dd",
-        "type": "change",
-        "z": "902fc438.e5d758",
-        "g": "fcb3da61.429db8",
-        "name": "advertencia",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "Arranque escalonado sólo en forward. Por favor invierta el sentido de giro",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1470,
-        "y": 910,
-        "wires": [
-            [
-                "43df135fef3c7bbd"
-            ]
-        ]
-    },
-    {
-        "id": "43df135fef3c7bbd",
-        "type": "link out",
-        "z": "902fc438.e5d758",
-        "g": "fcb3da61.429db8",
-        "name": "",
-        "links": [
-            "52f1e35a6b450a62"
-        ],
-        "x": 1585,
-        "y": 910,
-        "wires": []
     },
     {
         "id": "a47e5e2365e6479d",
@@ -63239,7 +63208,8 @@
         "g": "9bdf522.eba6db",
         "name": "Reset Funciones de control Link In",
         "links": [
-            "1ef779a27f308aef"
+            "1ef779a27f308aef",
+            "7f7ba2b6b2295aa8"
         ],
         "x": 875,
         "y": 480,
@@ -71688,5 +71658,96 @@
         "x": 610,
         "y": 520,
         "wires": []
+    },
+    {
+        "id": "500204b3b5e576ab",
+        "type": "link in",
+        "z": "18d8f6b717fbdf76",
+        "g": "fbbdc4b7.95b5c8",
+        "name": "Reset Funciones de control Link In",
+        "links": [
+            "1ef779a27f308aef"
+        ],
+        "x": 1035,
+        "y": 1010,
+        "wires": [
+            [
+                "864e753a.a4d358"
+            ]
+        ]
+    },
+    {
+        "id": "fbc4689af451cab4",
+        "type": "switch",
+        "z": "902fc438.e5d758",
+        "g": "fcb3da61.429db8",
+        "name": "Prolonged_Reference",
+        "property": "#:(memoryOnly)::Control_functions.ActiveCF.Prolonged_Reference",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1350,
+        "y": 910,
+        "wires": [
+            [
+                "61c02e812fb48b72"
+            ]
+        ]
+    },
+    {
+        "id": "7f7ba2b6b2295aa8",
+        "type": "link out",
+        "z": "902fc438.e5d758",
+        "g": "fcb3da61.429db8",
+        "name": "reset prolonged only",
+        "links": [
+            "207ea8ce.3dea68",
+            "51d6f5bd.7b3bac",
+            "8ca4e5b4ca175ad4"
+        ],
+        "x": 1635,
+        "y": 870,
+        "wires": []
+    },
+    {
+        "id": "61c02e812fb48b72",
+        "type": "change",
+        "z": "902fc438.e5d758",
+        "g": "fcb3da61.429db8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Referencia prolongada detenida",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "reset",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1550,
+        "y": 910,
+        "wires": [
+            [
+                "7f7ba2b6b2295aa8"
+            ]
+        ]
     }
 ]
