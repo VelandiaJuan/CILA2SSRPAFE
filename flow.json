@@ -119,6 +119,13 @@
         "info": ""
     },
     {
+        "id": "8ba0552a.e27ca8",
+        "type": "tab",
+        "label": "Librería",
+        "disabled": false,
+        "info": ""
+    },
+    {
         "id": "1ae6c379.02ea3d",
         "type": "subflow",
         "name": "VSDWrite",
@@ -417,6 +424,11 @@
                         "port": 0
                     }
                 ]
+            },
+            {
+                "x": 1520,
+                "y": 70,
+                "wires": []
             }
         ],
         "env": [],
@@ -428,151 +440,6 @@
             "wires": [
                 {
                     "id": "bfda390e.8957b8",
-                    "port": 0
-                }
-            ]
-        }
-    },
-    {
-        "id": "669c188.bd26ee8",
-        "type": "subflow",
-        "name": "Load Protection",
-        "info": "",
-        "category": "Protections",
-        "in": [
-            {
-                "x": 40,
-                "y": 40,
-                "wires": [
-                    {
-                        "id": "17ab7fc9d8bf882b"
-                    }
-                ]
-            }
-        ],
-        "out": [
-            {
-                "x": 930,
-                "y": 40,
-                "wires": [
-                    {
-                        "id": "cea7f83d8531c46a",
-                        "port": 0
-                    }
-                ]
-            },
-            {
-                "x": 930,
-                "y": 90,
-                "wires": [
-                    {
-                        "id": "a482404e80d50aee",
-                        "port": 0
-                    }
-                ]
-            }
-        ],
-        "env": [
-            {
-                "name": "protection",
-                "type": "str",
-                "value": "",
-                "ui": {
-                    "label": {
-                        "en-US": "Protection"
-                    },
-                    "type": "input",
-                    "opts": {
-                        "types": [
-                            "str"
-                        ]
-                    }
-                }
-            }
-        ],
-        "color": "#E9967A",
-        "icon": "font-awesome/fa-flash",
-        "status": {
-            "x": 470,
-            "y": 180,
-            "wires": [
-                {
-                    "id": "389b970a2172c9c6",
-                    "port": 0
-                }
-            ]
-        }
-    },
-    {
-        "id": "a52b5a046f4fd02f",
-        "type": "subflow",
-        "name": "Protection ",
-        "info": "",
-        "category": "Protections",
-        "in": [
-            {
-                "x": 40,
-                "y": 40,
-                "wires": [
-                    {
-                        "id": "521caa2fc4efa734"
-                    }
-                ]
-            }
-        ],
-        "out": [
-            {
-                "x": 930,
-                "y": 40,
-                "wires": [
-                    {
-                        "id": "d64f129a6c7d781a",
-                        "port": 0
-                    }
-                ]
-            },
-            {
-                "x": 930,
-                "y": 90,
-                "wires": [
-                    {
-                        "id": "818e472f7d541380",
-                        "port": 0
-                    }
-                ]
-            }
-        ],
-        "env": [
-            {
-                "name": "protection",
-                "type": "str",
-                "value": "",
-                "ui": {
-                    "icon": "font-awesome/fa-file-text-o",
-                    "label": {
-                        "en-US": "Protection"
-                    },
-                    "type": "input",
-                    "opts": {
-                        "types": [
-                            "str"
-                        ]
-                    }
-                }
-            }
-        ],
-        "color": "#E9967A",
-        "outputLabels": [
-            "Disparo",
-            "Alarma"
-        ],
-        "icon": "node-red/status.svg",
-        "status": {
-            "x": 470,
-            "y": 180,
-            "wires": [
-                {
-                    "id": "f6688829e74f45a1",
                     "port": 0
                 }
             ]
@@ -714,6 +581,152 @@
             "Ref"
         ],
         "icon": "node-red/db.svg"
+    },
+    {
+        "id": "669c188.bd26ee8",
+        "type": "subflow",
+        "name": "Load Protection",
+        "info": "",
+        "category": "Protections",
+        "in": [
+            {
+                "x": 40,
+                "y": 40,
+                "wires": [
+                    {
+                        "id": "17ab7fc9d8bf882b"
+                    }
+                ]
+            }
+        ],
+        "out": [
+            {
+                "x": 930,
+                "y": 40,
+                "wires": [
+                    {
+                        "id": "cea7f83d8531c46a",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 930,
+                "y": 90,
+                "wires": [
+                    {
+                        "id": "a482404e80d50aee",
+                        "port": 0
+                    }
+                ]
+            }
+        ],
+        "env": [
+            {
+                "name": "protection",
+                "type": "str",
+                "value": "",
+                "ui": {
+                    "label": {
+                        "en-US": "Protection"
+                    },
+                    "type": "input",
+                    "opts": {
+                        "types": [
+                            "str"
+                        ]
+                    }
+                }
+            }
+        ],
+        "color": "#E9967A",
+        "icon": "font-awesome/fa-flash",
+        "status": {
+            "x": 470,
+            "y": 180,
+            "wires": [
+                {
+                    "id": "389b970a2172c9c6",
+                    "port": 0
+                }
+            ]
+        }
+    },
+    {
+        "id": "a52b5a046f4fd02f",
+        "type": "subflow",
+        "name": "Protection ",
+        "info": "",
+        "category": "Protections",
+        "in": [
+            {
+                "x": 40,
+                "y": 40,
+                "wires": [
+                    {
+                        "id": "521caa2fc4efa734"
+                    }
+                ]
+            }
+        ],
+        "out": [
+            {
+                "x": 930,
+                "y": 40,
+                "wires": [
+                    {
+                        "id": "d64f129a6c7d781a",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 930,
+                "y": 90,
+                "wires": [
+                    {
+                        "id": "818e472f7d541380",
+                        "port": 0
+                    }
+                ]
+            }
+        ],
+        "env": [
+            {
+                "name": "protection",
+                "type": "str",
+                "value": "",
+                "ui": {
+                    "icon": "font-awesome/fa-file-text-o",
+                    "label": {
+                        "en-US": "Protection"
+                    },
+                    "type": "input",
+                    "opts": {
+                        "types": [
+                            "str"
+                        ]
+                    }
+                }
+            }
+        ],
+        "meta": {},
+        "color": "#E9967A",
+        "outputLabels": [
+            "Disparo",
+            "Alarma"
+        ],
+        "icon": "node-red/status.svg",
+        "status": {
+            "x": 470,
+            "y": 180,
+            "wires": [
+                {
+                    "id": "f6688829e74f45a1",
+                    "port": 0
+                }
+            ]
+        }
     },
     {
         "id": "1d0c3cb2.7129f3",
@@ -1322,9 +1335,7 @@
             "eb91dac5.690838"
         ],
         "x": -12,
-        "y": 13,
-        "w": 1664,
-        "h": 1200
+        "y": 13
     },
     {
         "id": "e98dc6a9.24ece8",
@@ -1372,12 +1383,13 @@
             "dfd54bf68767ddc1",
             "98a11684d294d791",
             "a553cb02d3dd2a37",
-            "c249c18f3081eb3e"
+            "c249c18f3081eb3e",
+            "996a9142c814ab39"
         ],
         "x": 24,
-        "y": 429,
+        "y": 421.5,
         "w": 722,
-        "h": 242
+        "h": 249.5
     },
     {
         "id": "6abd418f.d175b",
@@ -2613,6 +2625,70 @@
         "y": 2529
     },
     {
+        "id": "23c99fd.b16886",
+        "type": "group",
+        "z": "8ba0552a.e27ca8",
+        "name": "Actualizar librería PowerFlex 755",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "4486e1dc.7b1c6",
+            "17475ea4.e2c431",
+            "699f8e75.52924",
+            "f375ab1b.6713c8",
+            "d057c895.aae998",
+            "daeaa5f3.b6c508",
+            "3b8a4863.32b688",
+            "c099a844.31d128"
+        ],
+        "x": 574,
+        "y": 21.5,
+        "info": "# Condiciones\nSólo funciona si el nombre del proyecto es \"CILA2S-ESP-SWCPRO_AFE\""
+    },
+    {
+        "id": "262051d5.79c84e",
+        "type": "group",
+        "z": "8ba0552a.e27ca8",
+        "name": "Cambiar Splash",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "aa3c422d.31446",
+            "4a92f2f5.dac4fc",
+            "6b91a284.15037c",
+            "5e35a538.cad0cc"
+        ],
+        "x": 14,
+        "y": 251.5
+    },
+    {
+        "id": "8a437085.d2b8",
+        "type": "group",
+        "z": "8ba0552a.e27ca8",
+        "name": "Actualizar librería AFE",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "6f9f13ef.fb565c",
+            "73f3cb42.e412c4",
+            "b2068e1d.c9d9",
+            "bf48213c.3548c",
+            "129d922.5d7c86e",
+            "2cd9e470.7e562c",
+            "2dae23d1.de8fec",
+            "849c9546.4f8a58"
+        ],
+        "x": 14,
+        "y": 21.5,
+        "info": "# Condiciones\nSólo funciona si el nombre del proyecto es \"CILA2S-ESP-SWCPRO_AFE\""
+    },
+    {
         "id": "b079c206d161b62c",
         "type": "group",
         "z": "902fc438.e5d758",
@@ -3479,9 +3555,7 @@
             "b045615539735b86"
         ],
         "x": 14,
-        "y": 463,
-        "w": 958,
-        "h": 724
+        "y": 463
     },
     {
         "id": "eb91dac5.690838",
@@ -3534,9 +3608,7 @@
             "12af13b195eb0935"
         ],
         "x": 44,
-        "y": 39,
-        "w": 1582,
-        "h": 402
+        "y": 39
     },
     {
         "id": "8ed62712.fe2018",
@@ -4999,9 +5071,9 @@
             "dc7c0e6833d4017c"
         ],
         "x": 84,
-        "y": 2669,
+        "y": 2661.5,
         "w": 892,
-        "h": 182
+        "h": 189.5
     },
     {
         "id": "d532ac68.2d5408",
@@ -5143,9 +5215,7 @@
             "ecd73acb6f9a9a0a"
         ],
         "x": 584,
-        "y": 959,
-        "w": 362,
-        "h": 202
+        "y": 959
     },
     {
         "id": "64ff74e5.f4c53c",
@@ -5165,9 +5235,7 @@
             "c1672804cba19e98"
         ],
         "x": 574,
-        "y": 489,
-        "w": 173,
-        "h": 212
+        "y": 489
     },
     {
         "id": "be55ea76.ed4478",
@@ -5188,9 +5256,7 @@
             "41b82348a8ab40a8"
         ],
         "x": 564,
-        "y": 719,
-        "w": 372,
-        "h": 202
+        "y": 719
     },
     {
         "id": "1d477816.993308",
@@ -38370,10 +38436,13 @@
         "x": 460,
         "y": 470,
         "wires": [
-            [],
+            [
+                "996a9142c814ab39"
+            ],
             [
                 "c249c18f3081eb3e"
-            ]
+            ],
+            []
         ]
     },
     {
@@ -40696,7 +40765,7 @@
         "rules": [
             {
                 "t": "set",
-                "p": "#:(file)::C2S.Command.Reset",
+                "p": "C2S.Command.Reset",
                 "pt": "global",
                 "to": "true",
                 "tot": "bool"
@@ -40720,11 +40789,12 @@
         "type": "function",
         "z": "c8b77ff3.ab501",
         "name": "LogicCommand",
-        "func": "//Buffer\nvar buffer = [0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0];\n\n//Global variables asignations\nvar Start_Stop  = global.get(\"C2S.Command.Run\");\nvar Direction = global.get(\"C2S.Command.Direction\");\nvar Reset = global.get(\"C2S.Command.Reset\")\nvar Command     = 0;\n\n// Start/Stop\nif(Start_Stop === true){buffer[0] = 0;  buffer[1] = 1;} // Start\nelse{                   buffer[0] = 1;  buffer[1] = 0;} // Stop\n\n//Reset\n//if(Reset === true){     buffer[3] = 1;}                 // Reset\n//else{                   buffer[3] = 0;}\n\n// Direction\nif(Direction === true){buffer[4] = 0;   buffer[5] = 1;} // Reverse\nelse{                  buffer[4] = 1;   buffer[5] = 0;} // Forward \n\n//Command construction\nfor(var i=0; i<buffer.length; i++){\n    Command += buffer[i] * Math.pow(2, i);\n}\n\n//Mensaje de salida\nif(msg.payload == 'Start'){\n    if(Direction === true){\n        msg.command = \"Arranque 'Reverse'\";\n    }\n    else{\n        msg.command = \"Arranque 'Forward'\";\n    }\n}\nelse if(msg.payload == 'Stop'){\n    msg.command = \"Parada del equipo\";\n}\nelse if(msg.payload == 'Reset'){\n    msg.command = \"Reset del equipo\";\n}\nelse if(msg.payload == 'Forward'){\n    msg.command = \"Cambio sentido de giro a 'Forward'\";\n}\nelse if(msg.payload == 'Reverse'){\n    msg.command = \"Cambio sentido de giro a 'Reverse'\";\n}\n\n// Estado del nodo\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload});\n\nmsg.payload = Command;\nif (Reset === true) { msg.payload=8;}\n\nmsg.buffer  = buffer;\nreturn msg",
+        "func": "//Buffer\nvar buffer = [0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0];\n\n//Global variables asignations\nvar Start_Stop  = global.get(\"C2S.Command.Run\");\nvar Direction = global.get(\"C2S.Command.Direction\");\nvar Reset = global.get(\"C2S.Command.Reset\")\nvar Command     = 0;\n\n// Start/Stop\nif(Start_Stop === true){buffer[0] = 0;  buffer[1] = 1;} // Start\nelse{                   buffer[0] = 1;  buffer[1] = 0;} // Stop\n\n//Reset\n//if(Reset === true){     buffer[3] = 1;}                 // Reset\n//else{                   buffer[3] = 0;}\n\n// Direction\nif(Direction === true){buffer[4] = 0;   buffer[5] = 1;} // Reverse\nelse{                  buffer[4] = 1;   buffer[5] = 0;} // Forward \n\n//Command construction\nfor(var i=0; i<buffer.length; i++){\n    Command += buffer[i] * Math.pow(2, i);\n}\n\n//Mensaje de salida\nif(msg.payload == 'Start'){\n    if(Direction === true){\n        msg.command = \"Arranque 'Reverse'\";\n    }\n    else{\n        msg.command = \"Arranque 'Forward'\";\n    }\n}\nelse if(msg.payload == 'Stop'){\n    msg.command = \"Parada del equipo\";\n}\nelse if(msg.payload == 'Reset'){\n    msg.command = \"Reset del equipo\";\n}\nelse if(msg.payload == 'Forward'){\n    msg.command = \"Cambio sentido de giro a 'Forward'\";\n}\nelse if(msg.payload == 'Reverse'){\n    msg.command = \"Cambio sentido de giro a 'Reverse'\";\n}\n\n// Estado del nodo\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload});\n\nmsg.payload = Command;\nif (Reset === true) { msg.payload=8;}\n\nmsg.buffer  = buffer;\n\nmsg.Start_Stop = Start_Stop;\nmsg.Direction = Direction;\nmsg.Reset = Reset;\nmsg.Command = Command;\n\nreturn msg",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 920,
         "y": 190,
         "wires": [
@@ -40858,7 +40928,14 @@
             },
             {
                 "t": "set",
-                "p": "#:(file)::C2S.Command.Direction",
+                "p": "C2S.Command.Direction",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            },
+            {
+                "t": "set",
+                "p": "C2S.Command.Reset",
                 "pt": "global",
                 "to": "false",
                 "tot": "bool"
@@ -40892,9 +40969,16 @@
             },
             {
                 "t": "set",
-                "p": "#:(file)::C2S.Command.Direction",
+                "p": "C2S.Command.Direction",
                 "pt": "global",
                 "to": "true",
+                "tot": "bool"
+            },
+            {
+                "t": "set",
+                "p": "C2S.Command.Reset",
+                "pt": "global",
+                "to": "false",
                 "tot": "bool"
             }
         ],
@@ -41113,453 +41197,6 @@
             [
                 "cbfdace94f49381c"
             ]
-        ]
-    },
-    {
-        "id": "17ab7fc9d8bf882b",
-        "type": "function",
-        "z": "669c188.bd26ee8",
-        "name": "Protection Function",
-        "func": "var Active = (global.get(\"C2S.Drive_Status.Active\", \"memoryOnly\") || 0) == 1 ? true : false;\nvar Accel = (global.get(\"C2S.Drive_Status.Accel\", \"memoryOnly\") || 0) == 1 ? true : false;\nvar Decel = (global.get(\"C2S.Drive_Status.Decel\", \"memoryOnly\") || 0) == 1 ? true : false;\n\n// Setpoints\nvar Prot = env.get('protection')||\"test\";\nvar querySpHH   = \"Protections.\"+Prot+\".HH.Setpoint\";\nvar querySpH    = \"Protections.\"+Prot+\".H.Setpoint\";\nvar querySpL    = \"Protections.\"+Prot+\".L.Setpoint\";\nvar querySpLL   = \"Protections.\"+Prot+\".LL.Setpoint\";\n\nvar HHSetpoint  = global.get(querySpHH)||0;\nvar HSetpoint   = global.get(querySpH)||0;\nvar LSetpoint   = global.get(querySpL)||0;\nvar LLSetpoint  = global.get(querySpLL)||0;\n\n// Enablers\nvar queryEnHH   = \"Protections.\"+Prot+\".HH.EN\";\nvar queryEnH    = \"Protections.\"+Prot+\".H.EN\";\nvar queryEnL    = \"Protections.\"+Prot+\".L.EN\";\nvar queryEnLL   = \"Protections.\"+Prot+\".LL.EN\";\n\nvar HH_EN       = global.get(queryEnHH)||false;\nvar H_EN        = global.get(queryEnH)||false;\nvar L_EN        = global.get(queryEnL)||false;\nvar LL_EN       = global.get(queryEnLL)||false;\n\n// Death times\nvar queryDtHH   = \"Protections.\"+Prot+\".HH.DT\";\nvar queryDtH    = \"Protections.\"+Prot+\".H.DT\";\nvar queryDtL    = \"Protections.\"+Prot+\".L.DT\";\nvar queryDtLL   = \"Protections.\"+Prot+\".LL.DT\";\n\nvar HHDeathTime = global.get(queryDtHH)||0;\nvar HDeathTime  = global.get(queryDtH)||0;\nvar LDeathTime  = global.get(queryDtL)||0;\nvar LLDeathTime = global.get(queryDtLL)||0;\n\n// Value\nvar CurrentValue = msg.payload;\n\nif (CurrentValue >= HHSetpoint && HH_EN === true) {\n    msg.disp = true;\n    msg.alrm = false;\n    msg.message = \"Trigger by HH Protection\";\n    msg.delay = HHDeathTime * 1000;\n    msg.state = 4;\n}\nelse if (CurrentValue >= HSetpoint && H_EN === true) {\n    msg.disp = false;\n    msg.alrm = true;\n    msg.message = \"Alarm by H Protection\";\n    msg.delay = HDeathTime * 1000;\n    msg.state = 2;\n}\nelse if (CurrentValue <= LLSetpoint && LL_EN === true && Active && !Accel && !Decel) {\n    msg.disp = true;\n    msg.alrm = false;\n    msg.message = \"Trigger by LL Protection\"\n    msg.delay = LLDeathTime * 1000;\n    msg.state = 3;\n}\nelse if (CurrentValue <= LSetpoint && L_EN === true && Active && !Accel && !Decel) {\n    msg.disp = false;\n    msg.alrm = true;\n    msg.message = \"Alarm by L Protection\";\n    msg.delay = LDeathTime * 1000;\n    msg.state = 1;\n}\nelse {\n    msg.disp = false;\n    msg.alrm = false;\n    msg.message = \"Normal condition\";\n    msg.reset = true;\n    msg.state = 0;\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 170,
-        "y": 40,
-        "wires": [
-            [
-                "04d3e8fe928cb3ad",
-                "7afacdca4fc5c4bf",
-                "b323a435ab341f39",
-                "389b970a2172c9c6"
-            ]
-        ]
-    },
-    {
-        "id": "04d3e8fe928cb3ad",
-        "type": "function",
-        "z": "669c188.bd26ee8",
-        "name": "TON Disp",
-        "func": "var Act = msg.disp;\nvar Ant = context.get(\"Anterior\")||false;\nvar Output = { \n    payload: false,\n    Mensaje: msg.message\n};\n\n// Actualizar el contexto\ncontext.set(\"Anterior\", Act);\n\n//Flanco de subida\nif(Act === true && Ant === false){\n    context.set(\"RefTime\", Date.now());\n}\nelse if(Act === true && Ant === true){\n    if(Date.now() - context.get(\"RefTime\") >= msg.delay){\n        Output.payload = true;\n    }\n}\nreturn Output;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 390,
-        "y": 40,
-        "wires": [
-            [
-                "7517aa169ca0081d"
-            ]
-        ]
-    },
-    {
-        "id": "7afacdca4fc5c4bf",
-        "type": "function",
-        "z": "669c188.bd26ee8",
-        "name": "TON Alrm",
-        "func": "var Act = msg.alrm;\nvar Ant = context.get(\"Anterior\")||false;\nvar Output = { \n    payload: false,\n    Mensaje: msg.message\n};\n\n// Actualizar el contexto\ncontext.set(\"Anterior\", Act);\n\n//Flanco de subida\nif(Act === true && Ant === false){\n    context.set(\"RefTime\", Date.now());\n}\nelse if(Act === true && Ant === true){\n    if(Date.now() - context.get(\"RefTime\") >= msg.delay){\n        Output.payload = true;\n    }\n}\nreturn Output;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 390,
-        "y": 90,
-        "wires": [
-            [
-                "ab9417080d638bc6"
-            ]
-        ]
-    },
-    {
-        "id": "b323a435ab341f39",
-        "type": "change",
-        "z": "669c188.bd26ee8",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "message",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 410,
-        "y": 140,
-        "wires": [
-            [
-                "259e1dca5899716a"
-            ]
-        ]
-    },
-    {
-        "id": "259e1dca5899716a",
-        "type": "switch",
-        "z": "669c188.bd26ee8",
-        "name": "Normal condition",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "cont",
-                "v": "Normal",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 600,
-        "y": 140,
-        "wires": [
-            [
-                "06ddbe009606959b"
-            ]
-        ]
-    },
-    {
-        "id": "8142546899d599bf",
-        "type": "switch",
-        "z": "669c188.bd26ee8",
-        "name": "true",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 640,
-        "y": 90,
-        "wires": [
-            [
-                "a482404e80d50aee"
-            ]
-        ]
-    },
-    {
-        "id": "ab9417080d638bc6",
-        "type": "rbe",
-        "z": "669c188.bd26ee8",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload",
-        "x": 520,
-        "y": 90,
-        "wires": [
-            [
-                "8142546899d599bf"
-            ]
-        ]
-    },
-    {
-        "id": "7517aa169ca0081d",
-        "type": "rbe",
-        "z": "669c188.bd26ee8",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload",
-        "x": 520,
-        "y": 40,
-        "wires": [
-            [
-                "6dad03ed04433889"
-            ]
-        ]
-    },
-    {
-        "id": "6dad03ed04433889",
-        "type": "switch",
-        "z": "669c188.bd26ee8",
-        "name": "true",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 640,
-        "y": 40,
-        "wires": [
-            [
-                "cea7f83d8531c46a"
-            ]
-        ]
-    },
-    {
-        "id": "389b970a2172c9c6",
-        "type": "function",
-        "z": "669c188.bd26ee8",
-        "name": "Status",
-        "func": "msg.payload = \" Status: \" + msg.message + \", Value: \" + msg.payload;\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 380,
-        "y": 180,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "521caa2fc4efa734",
-        "type": "function",
-        "z": "a52b5a046f4fd02f",
-        "name": "Protection Function",
-        "func": "// Setpoints\nvar Prot = env.get('protection')||\"test\";\nvar querySpHH   = \"Protections.\"+Prot+\".HH.Setpoint\";\nvar querySpH    = \"Protections.\"+Prot+\".H.Setpoint\";\nvar querySpL    = \"Protections.\"+Prot+\".L.Setpoint\";\nvar querySpLL   = \"Protections.\"+Prot+\".LL.Setpoint\";\n\nvar HHSetpoint  = global.get(querySpHH)||0;\nvar HSetpoint   = global.get(querySpH)||0;\nvar LSetpoint   = global.get(querySpL)||0;\nvar LLSetpoint  = global.get(querySpLL)||0;\n\n// Enablers\nvar queryEnHH   = \"Protections.\"+Prot+\".HH.EN\";\nvar queryEnH    = \"Protections.\"+Prot+\".H.EN\";\nvar queryEnL    = \"Protections.\"+Prot+\".L.EN\";\nvar queryEnLL   = \"Protections.\"+Prot+\".LL.EN\";\n\nvar HH_EN       = global.get(queryEnHH)||false;\nvar H_EN        = global.get(queryEnH)||false;\nvar L_EN        = global.get(queryEnL)||false;\nvar LL_EN       = global.get(queryEnLL)||false;\n\n// Death times\nvar queryDtHH   = \"Protections.\"+Prot+\".HH.DT\";\nvar queryDtH    = \"Protections.\"+Prot+\".H.DT\";\nvar queryDtL    = \"Protections.\"+Prot+\".L.DT\";\nvar queryDtLL   = \"Protections.\"+Prot+\".LL.DT\";\n\nvar HHDeathTime = global.get(queryDtHH)||0;\nvar HDeathTime  = global.get(queryDtH)||0;\nvar LDeathTime  = global.get(queryDtL)||0;\nvar LLDeathTime = global.get(queryDtLL)||0;\n\n// Value\nvar CurrentValue = msg.payload;\n\nif(CurrentValue >= HHSetpoint && HH_EN === true){\n    msg.disp = true;\n    msg.alrm = false;\n    msg.message = \"Trigger by HH Protection\";\n    msg.delay = HHDeathTime * 1000;\n}\nelse if(CurrentValue >= HSetpoint && H_EN === true){\n    msg.disp = false;\n    msg.alrm = true;\n    msg.message = \"Alarm by H Protection\";\n    msg.delay = HDeathTime * 1000;\n}\nelse if(CurrentValue <= LLSetpoint && LL_EN === true){\n    msg.disp = true;\n    msg.alrm = false;\n    msg.message = \"Trigger by LL Protection\"\n    msg.delay = LLDeathTime * 1000;\n}\nelse if(CurrentValue <= LSetpoint && L_EN === true){\n    msg.disp = false;\n    msg.alrm = true;\n    msg.message = \"Alarm by L Protection\";\n    msg.delay = LDeathTime * 1000;\n}\nelse{\n    msg.disp = false;\n    msg.alrm = false;\n    msg.message = \"Normal condition\";\n    msg.reset = true;\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 170,
-        "y": 40,
-        "wires": [
-            [
-                "725c6e48ead1fe5a",
-                "d33f0d4ace6f2356",
-                "460a5e99a984d0a7",
-                "f6688829e74f45a1"
-            ]
-        ]
-    },
-    {
-        "id": "725c6e48ead1fe5a",
-        "type": "function",
-        "z": "a52b5a046f4fd02f",
-        "name": "TON Disp",
-        "func": "var Act = msg.disp;\nvar Ant = context.get(\"Anterior\")||false;\nvar Output = { \n    payload: false,\n    Mensaje: msg.message\n};\n\n// Actualizar el contexto\ncontext.set(\"Anterior\", Act);\n\n//Flanco de subida\nif(Act === true && Ant === false){\n    context.set(\"RefTime\", Date.now());\n}\nelse if(Act === true && Ant === true){\n    if(Date.now() - context.get(\"RefTime\") >= msg.delay){\n        Output.payload = true;\n    }\n}\nreturn Output;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 390,
-        "y": 40,
-        "wires": [
-            [
-                "adce111c58da3831"
-            ]
-        ]
-    },
-    {
-        "id": "d33f0d4ace6f2356",
-        "type": "function",
-        "z": "a52b5a046f4fd02f",
-        "name": "TON Alrm",
-        "func": "var Act = msg.alrm;\nvar Ant = context.get(\"Anterior\")||false;\nvar Output = { \n    payload: false,\n    Mensaje: msg.message\n};\n\n// Actualizar el contexto\ncontext.set(\"Anterior\", Act);\n\n//Flanco de subida\nif(Act === true && Ant === false){\n    context.set(\"RefTime\", Date.now());\n}\nelse if(Act === true && Ant === true){\n    if(Date.now() - context.get(\"RefTime\") >= msg.delay){\n        Output.payload = true;\n    }\n}\nreturn Output;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 390,
-        "y": 90,
-        "wires": [
-            [
-                "4b0728825dcc1a38"
-            ]
-        ]
-    },
-    {
-        "id": "460a5e99a984d0a7",
-        "type": "change",
-        "z": "a52b5a046f4fd02f",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "message",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 410,
-        "y": 140,
-        "wires": [
-            [
-                "a97a7264b55ad0b8"
-            ]
-        ]
-    },
-    {
-        "id": "a97a7264b55ad0b8",
-        "type": "switch",
-        "z": "a52b5a046f4fd02f",
-        "name": "Normal condition",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "cont",
-                "v": "Normal",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 600,
-        "y": 140,
-        "wires": [
-            [
-                "f1e9011884ce5ee9"
-            ]
-        ]
-    },
-    {
-        "id": "d64f129a6c7d781a",
-        "type": "function",
-        "z": "a52b5a046f4fd02f",
-        "name": "Protections HH/LL",
-        "func": "var Prot        = env.get('protection') || \"test\";\nvar ProtESP     = {\n    Load: \"'Corriente'\",\n    THP: \"'THP'\",\n    THT: \"'THT'\",\n    VibrationGeneral: \"'Vibración general'\",\n    CurrentLeakage: \"'Corriente de fuga'\",\n    IntakePressure: \"'Presión de entrada'\",\n    DischargePressure: \"'Presión de descarga'\",\n    IntakeTemperature: \"'Temperatura de entrada'\",\n    MotorTemperature: \"'Temperatura de motor'\",\n    Voltage:\"'Tensión de entrada'\",\n    BusDC:\"'Bus DC'\"\n}\nif (msg.Mensaje == \"Trigger by HH Protection\"){\n    var dispQuery = \"Protections.\" + Prot + \".HH\";\n    msg.payload = \"Disparo por protección \" + ProtESP[Prot]+ \" HH\";\n}\nelse if (msg.Mensaje == \"Trigger by LL Protection\"){\n    var dispQuery = \"Protections.\" + Prot + \".LL\";\n    msg.payload = \"Disparo por protección \" + ProtESP[Prot] + \" LL\";\n}\nglobal.set(dispQuery, true, \"memoryOnly\");\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 800,
-        "y": 40,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "f1e9011884ce5ee9",
-        "type": "function",
-        "z": "a52b5a046f4fd02f",
-        "name": "Protections normal",
-        "func": "var Prot        = env.get('protection') || \"test\";\n\nvar dispQuery = \"Protections.\" + Prot + \".HH\";\nglobal.set(dispQuery, false, \"memoryOnly\");\n\nvar dispQuery = \"Protections.\" + Prot + \".LL\";\nglobal.set(dispQuery, false, \"memoryOnly\");\n\nvar dispQuery = \"Protections.\" + Prot + \".H\";\nglobal.set(dispQuery, false, \"memoryOnly\");\n\nvar dispQuery = \"Protections.\" + Prot + \".L\";\nglobal.set(dispQuery, false, \"memoryOnly\");\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 800,
-        "y": 140,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "910c697ecdb1a784",
-        "type": "switch",
-        "z": "a52b5a046f4fd02f",
-        "name": "true",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 640,
-        "y": 90,
-        "wires": [
-            [
-                "818e472f7d541380"
-            ]
-        ]
-    },
-    {
-        "id": "4b0728825dcc1a38",
-        "type": "rbe",
-        "z": "a52b5a046f4fd02f",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload",
-        "x": 520,
-        "y": 90,
-        "wires": [
-            [
-                "910c697ecdb1a784"
-            ]
-        ]
-    },
-    {
-        "id": "adce111c58da3831",
-        "type": "rbe",
-        "z": "a52b5a046f4fd02f",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload",
-        "x": 520,
-        "y": 40,
-        "wires": [
-            [
-                "b1769bb892f77012"
-            ]
-        ]
-    },
-    {
-        "id": "b1769bb892f77012",
-        "type": "switch",
-        "z": "a52b5a046f4fd02f",
-        "name": "true",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 640,
-        "y": 40,
-        "wires": [
-            [
-                "d64f129a6c7d781a"
-            ]
-        ]
-    },
-    {
-        "id": "f6688829e74f45a1",
-        "type": "function",
-        "z": "a52b5a046f4fd02f",
-        "name": "Status",
-        "func": "msg.payload = \" Status: \" + msg.message + \", Value: \" + msg.payload;\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 380,
-        "y": 180,
-        "wires": [
-            []
         ]
     },
     {
@@ -42470,7 +42107,7 @@
         "z": "9941a439.4b17c8",
         "g": "dbdc491cb6e9eee5",
         "name": "Datos protecciones",
-        "func": "// Protecciones PQA.\nvar Voltage = global.get(\"PQA.Real_Time_Parameters.Average_Line_Voltage\",'memoryOnly')||0;\nvar Selection = flow.get(\"proteccionSelec\",'memoryOnly')||\"-\";\n\n// Protecciones Variador\nvar Load = global.get(\"C2S.Implicit.Output_Current\",'memoryOnly')||0;\nvar BusDC = global.get(\"C2S.Implicit.Bus_DC_Volts\", 'memoryOnly') || 0;\n\n// Protecciones Instrumentación\nvar THP = global.get(\"Process_data.AI['Presión de cabeza THP']\",'memoryOnly')||0;\nvar THT = global.get(\"Process_data.AI['Temperatura de cabeza THT']\",'memoryOnly')||0;\n\n// Sensor de Fondo\nvar Process_data            = global.get(\"Process_data.DHS\",'memoryOnly')|| [];\nvar Vibration_X             = Process_data[\"Vibración X\"]||0;\nvar Vibration_Z             = Process_data[\"Vibración Z\"]||0;\n\n//Protecciones Fondo\nvar Vibration_Gral          = Vibration_X >= Vibration_Z ? Vibration_X : Vibration_Z;\nvar LeakageCurrent          = Process_data[\"Corriente de fuga\"]||0;\nvar IntakePressure          = Process_data[\"Presión de entrada\"]||0;\nvar DischargePressure       = Process_data[\"Presión de descarga\"]||0;\nvar IntakeTemperature       = Process_data[\"Temperatura de entrada\"]||0;\nvar MotorTemperature        = Process_data[\"Temperatura de motor\"]||0;\nvar DischargeTemperature    = Process_data[\"Temperatura de descarga\"]||0;\n\nvar CurrentValue;\nif (Selection == \"Voltage\"){CurrentValue = Voltage.toFixed(2) +\" V\";}\nelse if (Selection == \"Load\") { CurrentValue = Load.toFixed(2) + \" A\";}\nelse if (Selection == \"BusDC\") { CurrentValue = BusDC.toFixed(2) + \" V\";}\nelse if (Selection == \"THP\") { CurrentValue = THP.toFixed(2) + \" psi\";}\nelse if (Selection == \"THT\") { CurrentValue = THT.toFixed(2) + \" ºF\";}\nelse if (Selection == \"VibrationGeneral\") { CurrentValue = Vibration_Gral.toFixed(2) + \" G\";}\nelse if (Selection == \"LeakageCurrent\") { CurrentValue = LeakageCurrent.toFixed(2) + \" mA\";}\nelse if (Selection == \"IntakePressure\") { CurrentValue = IntakePressure.toFixed(2) + \" psi\";}\nelse if (Selection == \"DischargePressure\") { CurrentValue = DischargePressure.toFixed(2) + \" psi\";}\nelse if (Selection == \"IntakeTemperature\") { CurrentValue = IntakeTemperature.toFixed(2) + \" ºF\";}\nelse if (Selection == \"MotorTemperature\") { CurrentValue = MotorTemperature.toFixed(2) + \" ºF\";}\nelse if (Selection == \"DischargeTemperature\") { CurrentValue = DischargeTemperature.toFixed(2) + \" ºF\";}\nelse {CurrentValue = \"---\";}\n\nreturn [\n    { payload: DecPlacces(Voltage,1)},\n    { payload: DecPlacces(Load,1)},\n    { payload: DecPlacces(BusDC,1)},\n    { payload: DecPlacces(THP,2)},\n    { payload: DecPlacces(THT,2)},\n    { payload: DecPlacces(Vibration_Gral,3)},\n    { payload: DecPlacces(LeakageCurrent,3)},\n    { payload: DecPlacces(IntakePressure,1)},\n    { payload: DecPlacces(DischargePressure,1)},\n    { payload: DecPlacces(IntakeTemperature,1)},\n    { payload: DecPlacces(MotorTemperature,1)},\n    { payload: DecPlacces(DischargeTemperature,1)},\n    { payload: CurrentValue}\n];\n\nfunction DecPlacces(value,Places){\n    return parseFloat(value.toFixed(Places));\n}",
+        "func": "// Protecciones PQA.\nvar Voltage = global.get(\"PQA.Real_Time_Parameters.Average_Line_Voltage\", 'memoryOnly') || 0;\nvar Selection = flow.get(\"proteccionSelec\", 'memoryOnly') || \"-\";\n\n// Protecciones Variador\nvar Load = global.get(\"C2S.Implicit.Output_Current\", 'memoryOnly') || 0;\nvar BusDC = global.get(\"C2S.Implicit.Bus_DC_Volts\", 'memoryOnly') || 0;\n\n// Protecciones Instrumentación\nvar THP = global.get(\"Process_data.AI['Presión de cabeza THP']\", 'memoryOnly') || 0;\nvar THT = global.get(\"Process_data.AI['Temperatura de cabeza THT']\", 'memoryOnly') || 0;\n\n// Sensor de Fondo\nvar Process_data = global.get(\"Process_data.DHS\", 'memoryOnly');\nvar Vibration_X = Process_data[\"Vibración X\"] || 0;\nvar Vibration_Z = Process_data[\"Vibración Z\"] || 0;\n\n//Protecciones Fondo\nvar Vibration_Gral = Vibration_X >= Vibration_Z ? Vibration_X : Vibration_Z;\nvar LeakageCurrent = Process_data[\"Corriente de fuga\"] || 0;\nvar IntakePressure = Process_data[\"Presión de entrada\"] || 0;\nvar DischargePressure = Process_data[\"Presión de descarga\"] || 0;\nvar IntakeTemperature = Process_data[\"Temperatura de entrada\"] || 0;\nvar MotorTemperature = Process_data[\"Temperatura de motor\"] || 0;\nvar DischargeTemperature = Process_data[\"Temperatura de descarga\"] || 0;\n\nvar CurrentValue;\nif (Selection == \"Voltage\") { CurrentValue = DecPlacces(Voltage, 2) + \" V\"; }\nelse if (Selection == \"Load\") { CurrentValue = DecPlacces(Load, 2) + \" A\"; }\nelse if (Selection == \"BusDC\") { CurrentValue = DecPlacces(BusDC, 2) + \" V\"; }\nelse if (Selection == \"THP\") { CurrentValue = DecPlacces(THP, 2) + \" psi\"; }\nelse if (Selection == \"THT\") { CurrentValue = DecPlacces(THT, 2) + \" ºF\"; }\nelse if (Selection == \"VibrationGeneral\") { CurrentValue = DecPlacces(Vibration_Gral, 2) + \" G\"; }\nelse if (Selection == \"LeakageCurrent\") { CurrentValue = DecPlacces(LeakageCurrent, 2) + \" mA\"; }\nelse if (Selection == \"IntakePressure\") { CurrentValue = DecPlacces(IntakePressure, 2) + \" psi\"; }\nelse if (Selection == \"DischargePressure\") { CurrentValue = DecPlacces(DischargePressure, 2) + \" psi\"; }\nelse if (Selection == \"IntakeTemperature\") { CurrentValue = DecPlacces(IntakeTemperature, 2) + \" ºF\"; }\nelse if (Selection == \"MotorTemperature\") { CurrentValue = DecPlacces(MotorTemperature, 2) + \" ºF\"; }\nelse if (Selection == \"DischargeTemperature\") { CurrentValue = DecPlacces(DischargeTemperature, 2) + \" ºF\"; }\nelse { CurrentValue = \"---\"; }\n\nreturn [\n    { payload: DecPlacces(Voltage, 1) },\n    { payload: DecPlacces(Load, 1) },\n    { payload: DecPlacces(BusDC, 1) },\n    { payload: DecPlacces(THP, 2) },\n    { payload: DecPlacces(THT, 2) },\n    { payload: DecPlacces(Vibration_Gral, 3) },\n    { payload: DecPlacces(LeakageCurrent, 3) },\n    { payload: DecPlacces(IntakePressure, 1) },\n    { payload: DecPlacces(DischargePressure, 1) },\n    { payload: DecPlacces(IntakeTemperature, 1) },\n    { payload: DecPlacces(MotorTemperature, 1) },\n    { payload: DecPlacces(DischargeTemperature, 1) },\n    { payload: CurrentValue }\n];\n\nfunction DecPlacces(value, Places) {\n    return Math.abs(parseFloat(value.toFixed(Places)));\n}",
         "outputs": 13,
         "noerr": 0,
         "initialize": "",
@@ -42613,7 +42250,8 @@
             [],
             [
                 "633f44af41940f7e"
-            ]
+            ],
+            []
         ]
     },
     {
@@ -43643,7 +43281,8 @@
             [],
             [
                 "d0d71887678a5547"
-            ]
+            ],
+            []
         ]
     },
     {
@@ -46267,7 +45906,8 @@
             [],
             [
                 "3024e2c5.a2abce"
-            ]
+            ],
+            []
         ]
     },
     {
@@ -47912,6 +47552,7 @@
         "y": 2710,
         "wires": [
             [],
+            [],
             []
         ]
     },
@@ -48287,7 +47928,8 @@
         "g": "0382d006bf3e8547",
         "name": "Erroes escritura Cubloc",
         "scope": [
-            "26144798845bf323"
+            "26144798845bf323",
+            "23fa42dfe2b133da"
         ],
         "uncaught": false,
         "x": 2130,
@@ -51880,6 +51522,7 @@
         "y": 780,
         "wires": [
             [],
+            [],
             []
         ]
     },
@@ -51964,6 +51607,7 @@
         "x": 1340,
         "y": 910,
         "wires": [
+            [],
             [],
             []
         ]
@@ -52074,22 +51718,6 @@
         ]
     },
     {
-        "id": "818e472f7d541380",
-        "type": "function",
-        "z": "a52b5a046f4fd02f",
-        "name": "Protections H/L",
-        "func": "var Prot        = env.get('protection') || \"test\";\nvar ProtESP = {\n    Load: \"'Corriente'\",\n    THP: \"'THP'\",\n    THT: \"'THT'\",\n    VibrationGeneral: \"'Vibración general'\",\n    CurrentLeakage: \"'Corriente de fuga'\",\n    IntakePressure: \"'Presión de entrada'\",\n    DischargePressure: \"'Presión de descarga'\",\n    IntakeTemperature: \"'Temperatura de entrada'\",\n    MotorTemperature: \"'Temperatura de motor'\",\n    Voltage: \"'Tensión de entrada'\",\n    BusDC: \"'Bus DC'\"\n}\n\nif (msg.Mensaje == \"Alarm by H Protection\"){\n    var dispQuery = \"Protections.\" + Prot + \".H\";\n    msg.payload = \"Alarma por protección \" + ProtESP[Prot] + \" H\";\n}\nelse if (msg.Mensaje == \"Alarm by L Protection\"){\n    var dispQuery = \"Protections.\" + Prot + \".L\";\n    msg.payload = \"Alarma por protección \" + ProtESP[Prot] + \" L\";\n}\nglobal.set(dispQuery, true, \"memoryOnly\");\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 790,
-        "y": 90,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "2152075deac4a89d",
         "type": "switch",
         "z": "9941a439.4b17c8",
@@ -52139,54 +51767,6 @@
             [
                 "ddfcf25.e7fe71"
             ]
-        ]
-    },
-    {
-        "id": "cea7f83d8531c46a",
-        "type": "function",
-        "z": "669c188.bd26ee8",
-        "name": "Protections HH/LL",
-        "func": "var Prot        = env.get('protection') || \"test\";\n\nvar ProtESP = {\n    Load: \"'Corriente'\",\n    THP: \"'THP'\",\n    THT: \"'THT'\",\n    VibrationGeneral: \"'Vibración general'\",\n    CurrentLeakage: \"'Corriente de fuga'\",\n    IntakePressure: \"'Presión de entrada'\",\n    DischargePressure: \"'Presión de descarga'\",\n    IntakeTemperature: \"'Temperatura de entrada'\",\n    MotorTemperature: \"'Temperatura de motor'\",\n    Voltage: \"'Tensión de entrada'\",\n    BusDC: \"'Bus DC'\"\n}\n\nif (msg.Mensaje == \"Trigger by HH Protection\"){\n    var dispQuery = \"Protections.\" + Prot + \".HH\";\n    msg.payload = \"Disparo por protección \" + ProtESP[Prot] + \" HH\";\n}\nelse if (msg.Mensaje == \"Trigger by LL Protection\"){\n    var dispQuery = \"Protections.\" + Prot + \".LL\";\n    msg.payload = \"Disparo por protección \" + ProtESP[Prot] + \" LL\";\n}\n\nglobal.set(dispQuery, true, \"memoryOnly\");\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 800,
-        "y": 40,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "a482404e80d50aee",
-        "type": "function",
-        "z": "669c188.bd26ee8",
-        "name": "Protections H/L",
-        "func": "var Prot        = env.get('protection') || \"test\";\n\nvar ProtESP = {\n    Load: \"'Corriente'\",\n    THP: \"'THP'\",\n    THT: \"'THT'\",\n    VibrationGeneral: \"'Vibración general'\",\n    CurrentLeakage: \"'Corriente de fuga'\",\n    IntakePressure: \"'Presión de entrada'\",\n    DischargePressure: \"'Presión de descarga'\",\n    IntakeTemperature: \"'Temperatura de entrada'\",\n    MotorTemperature: \"'Temperatura de motor'\",\n    Voltage: \"'Tensión de entrada'\",\n}\n\nif (msg.Mensaje == \"Alarm by H Protection\"){\n    var dispQuery = \"Protections.\" + Prot + \".H\";\n    msg.payload = \"Alarma por protección \" + ProtESP[Prot] + \" H\";\n}\nelse if (msg.Mensaje == \"Alarm by L Protection\"){\n    var dispQuery = \"Protections.\" + Prot + \".L\";\n    msg.payload = \"Alarma por protección \" + ProtESP[Prot] + \" L\";\n}\nglobal.set(dispQuery, true, \"memoryOnly\");\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 790,
-        "y": 90,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "06ddbe009606959b",
-        "type": "function",
-        "z": "669c188.bd26ee8",
-        "name": "Protections normal",
-        "func": "var Prot        = env.get('protection') || \"test\";\n\nvar dispQuery = \"Protections.\" + Prot + \".HH\";\nglobal.set(dispQuery, false, \"memoryOnly\");\n\nvar dispQuery = \"Protections.\" + Prot + \".LL\";\nglobal.set(dispQuery, false, \"memoryOnly\");\n\nvar dispQuery = \"Protections.\" + Prot + \".H\";\nglobal.set(dispQuery, false, \"memoryOnly\");\n\nvar dispQuery = \"Protections.\" + Prot + \".L\";\nglobal.set(dispQuery, false, \"memoryOnly\");\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 800,
-        "y": 140,
-        "wires": [
-            []
         ]
     },
     {
@@ -54676,7 +54256,8 @@
             [],
             [
                 "5d139b56.877384"
-            ]
+            ],
+            []
         ]
     },
     {
@@ -60474,7 +60055,7 @@
         "type": "function",
         "z": "c8b77ff3.ab501",
         "name": "Bloque de arranque por protección",
-        "func": "var Prot = global.get(\"Protections.General\",'memoryOnly');\nvar FallaGeneral = global.get(\"IO.Functions.DO['Falla general']\",\"memoryOnly\")||false;\nif ((Prot || FallaGeneral) &&  ((msg.command == \"Arranque 'Reverse'\") || (msg.command == \"Arranque 'Forward'\")) ){return;}\nelse{return msg;}",
+        "func": "var Prot = global.get(\"Protections.General\",'memoryOnly')||false;\nvar FallaGeneral = global.get(\"IO.Functions.DO['Falla general']\",\"memoryOnly\")||false;\nif ((Prot || FallaGeneral) &&  ((msg.command == \"Arranque 'Reverse'\") || (msg.command == \"Arranque 'Forward'\")) ){return;}\nelse{return msg;}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -64134,6 +63715,7 @@
         "y": 830,
         "wires": [
             [],
+            [],
             []
         ]
     },
@@ -64316,7 +63898,8 @@
             [],
             [
                 "a8a031d5.f8ce9"
-            ]
+            ],
+            []
         ]
     },
     {
@@ -71200,5 +70783,969 @@
                 "c01a450b09ddfa1b"
             ]
         ]
+    },
+    {
+        "id": "4486e1dc.7b1c6",
+        "type": "inject",
+        "z": "8ba0552a.e27ca8",
+        "g": "23c99fd.b16886",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 690,
+        "y": 70,
+        "wires": [
+            [
+                "17475ea4.e2c431"
+            ]
+        ]
+    },
+    {
+        "id": "17475ea4.e2c431",
+        "type": "exec",
+        "z": "8ba0552a.e27ca8",
+        "g": "23c99fd.b16886",
+        "command": "sudo rm ~/.node-red/node_modules/nodepccc/nodePCCC.js",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "Eliminar librería PCCC actual",
+        "x": 980,
+        "y": 70,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "699f8e75.52924",
+        "type": "complete",
+        "z": "8ba0552a.e27ca8",
+        "g": "23c99fd.b16886",
+        "name": "",
+        "scope": [
+            "17475ea4.e2c431"
+        ],
+        "uncaught": false,
+        "x": 670,
+        "y": 110,
+        "wires": [
+            [
+                "f375ab1b.6713c8"
+            ]
+        ]
+    },
+    {
+        "id": "f375ab1b.6713c8",
+        "type": "exec",
+        "z": "8ba0552a.e27ca8",
+        "g": "23c99fd.b16886",
+        "command": "sudo cp ~/Documents/PCCC/PowerFlex755/nodePCCC.js ~/.node-red/node_modules/nodepccc/nodePCCC.js",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "Reemplazar librería PowerFlex755",
+        "x": 960,
+        "y": 130,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "d057c895.aae998",
+        "type": "inject",
+        "z": "8ba0552a.e27ca8",
+        "g": "23c99fd.b16886",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 690,
+        "y": 150,
+        "wires": [
+            [
+                "f375ab1b.6713c8"
+            ]
+        ]
+    },
+    {
+        "id": "daeaa5f3.b6c508",
+        "type": "exec",
+        "z": "8ba0552a.e27ca8",
+        "g": "23c99fd.b16886",
+        "command": "sudo reboot now",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "Reiniciar controlador",
+        "x": 1000,
+        "y": 190,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "3b8a4863.32b688",
+        "type": "complete",
+        "z": "8ba0552a.e27ca8",
+        "g": "23c99fd.b16886",
+        "name": "",
+        "scope": [
+            "f375ab1b.6713c8"
+        ],
+        "uncaught": false,
+        "x": 670,
+        "y": 190,
+        "wires": [
+            [
+                "c099a844.31d128"
+            ]
+        ]
+    },
+    {
+        "id": "c099a844.31d128",
+        "type": "delay",
+        "z": "8ba0552a.e27ca8",
+        "g": "23c99fd.b16886",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 820,
+        "y": 190,
+        "wires": [
+            [
+                "daeaa5f3.b6c508"
+            ]
+        ]
+    },
+    {
+        "id": "aa3c422d.31446",
+        "type": "exec",
+        "z": "8ba0552a.e27ca8",
+        "g": "262051d5.79c84e",
+        "command": "sudo rm /usr/share/plymouth/themes/pix/splash.png",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "Remover Splash actual",
+        "x": 310,
+        "y": 300,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "4a92f2f5.dac4fc",
+        "type": "inject",
+        "z": "8ba0552a.e27ca8",
+        "g": "262051d5.79c84e",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 130,
+        "y": 300,
+        "wires": [
+            [
+                "aa3c422d.31446"
+            ]
+        ]
+    },
+    {
+        "id": "6b91a284.15037c",
+        "type": "complete",
+        "z": "8ba0552a.e27ca8",
+        "g": "262051d5.79c84e",
+        "name": "",
+        "scope": [
+            "aa3c422d.31446"
+        ],
+        "uncaught": false,
+        "x": 110,
+        "y": 360,
+        "wires": [
+            [
+                "5e35a538.cad0cc"
+            ]
+        ]
+    },
+    {
+        "id": "5e35a538.cad0cc",
+        "type": "exec",
+        "z": "8ba0552a.e27ca8",
+        "g": "262051d5.79c84e",
+        "command": "sudo cp /home/pi/Documents/splash.png /usr/share/plymouth/themes/pix/splash.png",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "Insertar Splash",
+        "x": 280,
+        "y": 360,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "6f9f13ef.fb565c",
+        "type": "inject",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 130,
+        "y": 70,
+        "wires": [
+            [
+                "73f3cb42.e412c4"
+            ]
+        ]
+    },
+    {
+        "id": "73f3cb42.e412c4",
+        "type": "exec",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "command": "sudo rm ~/.node-red/node_modules/nodepccc/nodePCCC.js",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "Eliminar librería PCCC actual",
+        "x": 420,
+        "y": 70,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "b2068e1d.c9d9",
+        "type": "complete",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "name": "",
+        "scope": [
+            "73f3cb42.e412c4"
+        ],
+        "uncaught": false,
+        "x": 110,
+        "y": 110,
+        "wires": [
+            [
+                "bf48213c.3548c"
+            ]
+        ]
+    },
+    {
+        "id": "bf48213c.3548c",
+        "type": "exec",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "command": "sudo cp ~/Documents/PCCC/PowerFlex755AFE/nodePCCC.js ~/.node-red/node_modules/nodepccc/nodePCCC.js",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "Reemplazar librería AFE",
+        "x": 430,
+        "y": 130,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "129d922.5d7c86e",
+        "type": "inject",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 130,
+        "y": 150,
+        "wires": [
+            [
+                "bf48213c.3548c"
+            ]
+        ]
+    },
+    {
+        "id": "2cd9e470.7e562c",
+        "type": "exec",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "command": "sudo reboot now",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "Reiniciar controlador",
+        "x": 440,
+        "y": 190,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "2dae23d1.de8fec",
+        "type": "complete",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "name": "",
+        "scope": [
+            "bf48213c.3548c"
+        ],
+        "uncaught": false,
+        "x": 110,
+        "y": 190,
+        "wires": [
+            [
+                "849c9546.4f8a58"
+            ]
+        ]
+    },
+    {
+        "id": "849c9546.4f8a58",
+        "type": "delay",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 260,
+        "y": 190,
+        "wires": [
+            [
+                "2cd9e470.7e562c"
+            ]
+        ]
+    },
+    {
+        "id": "17ab7fc9d8bf882b",
+        "type": "function",
+        "z": "669c188.bd26ee8",
+        "name": "Protection Function",
+        "func": "var Active = (global.get(\"C2S.Drive_Status.Active\", \"memoryOnly\") || 0) == 1 ? true : false;\nvar Accel = (global.get(\"C2S.Drive_Status.Accel\", \"memoryOnly\") || 0) == 1 ? true : false;\nvar Decel = (global.get(\"C2S.Drive_Status.Decel\", \"memoryOnly\") || 0) == 1 ? true : false;\n\n// Setpoints\nvar Prot = env.get('protection')||\"test\";\nvar querySpHH   = \"Protections.\"+Prot+\".HH.Setpoint\";\nvar querySpH    = \"Protections.\"+Prot+\".H.Setpoint\";\nvar querySpL    = \"Protections.\"+Prot+\".L.Setpoint\";\nvar querySpLL   = \"Protections.\"+Prot+\".LL.Setpoint\";\n\nvar HHSetpoint  = global.get(querySpHH)||0;\nvar HSetpoint   = global.get(querySpH)||0;\nvar LSetpoint   = global.get(querySpL)||0;\nvar LLSetpoint  = global.get(querySpLL)||0;\n\n// Enablers\nvar queryEnHH   = \"Protections.\"+Prot+\".HH.EN\";\nvar queryEnH    = \"Protections.\"+Prot+\".H.EN\";\nvar queryEnL    = \"Protections.\"+Prot+\".L.EN\";\nvar queryEnLL   = \"Protections.\"+Prot+\".LL.EN\";\n\nvar HH_EN       = global.get(queryEnHH)||false;\nvar H_EN        = global.get(queryEnH)||false;\nvar L_EN        = global.get(queryEnL)||false;\nvar LL_EN       = global.get(queryEnLL)||false;\n\n// Death times\nvar queryDtHH   = \"Protections.\"+Prot+\".HH.DT\";\nvar queryDtH    = \"Protections.\"+Prot+\".H.DT\";\nvar queryDtL    = \"Protections.\"+Prot+\".L.DT\";\nvar queryDtLL   = \"Protections.\"+Prot+\".LL.DT\";\n\nvar HHDeathTime = global.get(queryDtHH)||0;\nvar HDeathTime  = global.get(queryDtH)||0;\nvar LDeathTime  = global.get(queryDtL)||0;\nvar LLDeathTime = global.get(queryDtLL)||0;\n\n// Value\nvar CurrentValue = msg.payload;\n\nif (CurrentValue >= HHSetpoint && HH_EN === true) {\n    msg.disp = true;\n    msg.alrm = false;\n    msg.message = \"Trigger by HH Protection\";\n    msg.delay = HHDeathTime * 1000;\n    msg.state = 4;\n}\nelse if (CurrentValue >= HSetpoint && H_EN === true) {\n    msg.disp = false;\n    msg.alrm = true;\n    msg.message = \"Alarm by H Protection\";\n    msg.delay = HDeathTime * 1000;\n    msg.state = 2;\n}\nelse if (CurrentValue <= LLSetpoint && LL_EN === true && Active && !Accel && !Decel) {\n    msg.disp = true;\n    msg.alrm = false;\n    msg.message = \"Trigger by LL Protection\"\n    msg.delay = LLDeathTime * 1000;\n    msg.state = 3;\n}\nelse if (CurrentValue <= LSetpoint && L_EN === true && Active && !Accel && !Decel) {\n    msg.disp = false;\n    msg.alrm = true;\n    msg.message = \"Alarm by L Protection\";\n    msg.delay = LDeathTime * 1000;\n    msg.state = 1;\n}\nelse {\n    msg.disp = false;\n    msg.alrm = false;\n    msg.message = \"Normal condition\";\n    msg.reset = true;\n    msg.state = 0;\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 170,
+        "y": 40,
+        "wires": [
+            [
+                "04d3e8fe928cb3ad",
+                "7afacdca4fc5c4bf",
+                "b323a435ab341f39",
+                "389b970a2172c9c6"
+            ]
+        ]
+    },
+    {
+        "id": "04d3e8fe928cb3ad",
+        "type": "function",
+        "z": "669c188.bd26ee8",
+        "name": "TON Disp",
+        "func": "var Act = msg.disp;\nvar Ant = context.get(\"Anterior\")||false;\nvar Output = { \n    payload: false,\n    Mensaje: msg.message\n};\n\n// Actualizar el contexto\ncontext.set(\"Anterior\", Act);\n\n//Flanco de subida\nif(Act === true && Ant === false){\n    context.set(\"RefTime\", Date.now());\n}\nelse if(Act === true && Ant === true){\n    if(Date.now() - context.get(\"RefTime\") >= msg.delay){\n        Output.payload = true;\n    }\n}\nreturn Output;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 390,
+        "y": 40,
+        "wires": [
+            [
+                "7517aa169ca0081d"
+            ]
+        ]
+    },
+    {
+        "id": "7afacdca4fc5c4bf",
+        "type": "function",
+        "z": "669c188.bd26ee8",
+        "name": "TON Alrm",
+        "func": "var Act = msg.alrm;\nvar Ant = context.get(\"Anterior\")||false;\nvar Output = { \n    payload: false,\n    Mensaje: msg.message\n};\n\n// Actualizar el contexto\ncontext.set(\"Anterior\", Act);\n\n//Flanco de subida\nif(Act === true && Ant === false){\n    context.set(\"RefTime\", Date.now());\n}\nelse if(Act === true && Ant === true){\n    if(Date.now() - context.get(\"RefTime\") >= msg.delay){\n        Output.payload = true;\n    }\n}\nreturn Output;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 390,
+        "y": 90,
+        "wires": [
+            [
+                "ab9417080d638bc6"
+            ]
+        ]
+    },
+    {
+        "id": "b323a435ab341f39",
+        "type": "change",
+        "z": "669c188.bd26ee8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "message",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 410,
+        "y": 140,
+        "wires": [
+            [
+                "259e1dca5899716a"
+            ]
+        ]
+    },
+    {
+        "id": "259e1dca5899716a",
+        "type": "switch",
+        "z": "669c188.bd26ee8",
+        "name": "Normal condition",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "cont",
+                "v": "Normal",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 600,
+        "y": 140,
+        "wires": [
+            [
+                "06ddbe009606959b"
+            ]
+        ]
+    },
+    {
+        "id": "8142546899d599bf",
+        "type": "switch",
+        "z": "669c188.bd26ee8",
+        "name": "true",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 640,
+        "y": 90,
+        "wires": [
+            [
+                "a482404e80d50aee"
+            ]
+        ]
+    },
+    {
+        "id": "ab9417080d638bc6",
+        "type": "rbe",
+        "z": "669c188.bd26ee8",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 520,
+        "y": 90,
+        "wires": [
+            [
+                "8142546899d599bf"
+            ]
+        ]
+    },
+    {
+        "id": "7517aa169ca0081d",
+        "type": "rbe",
+        "z": "669c188.bd26ee8",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 520,
+        "y": 40,
+        "wires": [
+            [
+                "6dad03ed04433889"
+            ]
+        ]
+    },
+    {
+        "id": "6dad03ed04433889",
+        "type": "switch",
+        "z": "669c188.bd26ee8",
+        "name": "true",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 640,
+        "y": 40,
+        "wires": [
+            [
+                "cea7f83d8531c46a"
+            ]
+        ]
+    },
+    {
+        "id": "389b970a2172c9c6",
+        "type": "function",
+        "z": "669c188.bd26ee8",
+        "name": "Status",
+        "func": "msg.payload = \" Status: \" + msg.message + \", Value: \" + msg.payload;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 380,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "cea7f83d8531c46a",
+        "type": "function",
+        "z": "669c188.bd26ee8",
+        "name": "Protections HH/LL",
+        "func": "var Prot        = env.get('protection') || \"test\";\n\nvar ProtESP = {\n    Load: \"'Corriente'\",\n    THP: \"'THP'\",\n    THT: \"'THT'\",\n    VibrationGeneral: \"'Vibración general'\",\n    CurrentLeakage: \"'Corriente de fuga'\",\n    IntakePressure: \"'Presión de entrada'\",\n    DischargePressure: \"'Presión de descarga'\",\n    IntakeTemperature: \"'Temperatura de entrada'\",\n    MotorTemperature: \"'Temperatura de motor'\",\n    Voltage: \"'Tensión de entrada'\",\n    BusDC: \"'Bus DC'\"\n}\n\nif (msg.Mensaje == \"Trigger by HH Protection\"){\n    var dispQuery = \"Protections.\" + Prot + \".HH\";\n    msg.payload = \"Disparo por protección \" + ProtESP[Prot] + \" HH\";\n}\nelse if (msg.Mensaje == \"Trigger by LL Protection\"){\n    var dispQuery = \"Protections.\" + Prot + \".LL\";\n    msg.payload = \"Disparo por protección \" + ProtESP[Prot] + \" LL\";\n}\n\nglobal.set(dispQuery, true, \"memoryOnly\");\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 800,
+        "y": 40,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a482404e80d50aee",
+        "type": "function",
+        "z": "669c188.bd26ee8",
+        "name": "Protections H/L",
+        "func": "var Prot        = env.get('protection') || \"test\";\n\nvar ProtESP = {\n    Load: \"'Corriente'\",\n    THP: \"'THP'\",\n    THT: \"'THT'\",\n    VibrationGeneral: \"'Vibración general'\",\n    CurrentLeakage: \"'Corriente de fuga'\",\n    IntakePressure: \"'Presión de entrada'\",\n    DischargePressure: \"'Presión de descarga'\",\n    IntakeTemperature: \"'Temperatura de entrada'\",\n    MotorTemperature: \"'Temperatura de motor'\",\n    Voltage: \"'Tensión de entrada'\",\n}\n\nif (msg.Mensaje == \"Alarm by H Protection\"){\n    var dispQuery = \"Protections.\" + Prot + \".H\";\n    msg.payload = \"Alarma por protección \" + ProtESP[Prot] + \" H\";\n}\nelse if (msg.Mensaje == \"Alarm by L Protection\"){\n    var dispQuery = \"Protections.\" + Prot + \".L\";\n    msg.payload = \"Alarma por protección \" + ProtESP[Prot] + \" L\";\n}\nglobal.set(dispQuery, true, \"memoryOnly\");\ndispQuery = \"Protections.\" + Prot + \".HH\";\nglobal.set(dispQuery, false, \"memoryOnly\");\ndispQuery = \"Protections.\" + Prot + \".LL\";\nglobal.set(dispQuery, false, \"memoryOnly\");\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 790,
+        "y": 90,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "06ddbe009606959b",
+        "type": "function",
+        "z": "669c188.bd26ee8",
+        "name": "Protections normal",
+        "func": "var Prot        = env.get('protection') || \"test\";\n\nvar dispQuery = \"Protections.\" + Prot + \".HH\";\nglobal.set(dispQuery, false, \"memoryOnly\");\n\nvar dispQuery = \"Protections.\" + Prot + \".LL\";\nglobal.set(dispQuery, false, \"memoryOnly\");\n\nvar dispQuery = \"Protections.\" + Prot + \".H\";\nglobal.set(dispQuery, false, \"memoryOnly\");\n\nvar dispQuery = \"Protections.\" + Prot + \".L\";\nglobal.set(dispQuery, false, \"memoryOnly\");\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 800,
+        "y": 140,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "521caa2fc4efa734",
+        "type": "function",
+        "z": "a52b5a046f4fd02f",
+        "name": "Protection Function",
+        "func": "// Setpoints\nvar Prot = env.get('protection')||\"test\";\nvar querySpHH   = \"Protections.\"+Prot+\".HH.Setpoint\";\nvar querySpH    = \"Protections.\"+Prot+\".H.Setpoint\";\nvar querySpL    = \"Protections.\"+Prot+\".L.Setpoint\";\nvar querySpLL   = \"Protections.\"+Prot+\".LL.Setpoint\";\n\nvar HHSetpoint  = global.get(querySpHH)||0;\nvar HSetpoint   = global.get(querySpH)||0;\nvar LSetpoint   = global.get(querySpL)||0;\nvar LLSetpoint  = global.get(querySpLL)||0;\n\n// Enablers\nvar queryEnHH   = \"Protections.\"+Prot+\".HH.EN\";\nvar queryEnH    = \"Protections.\"+Prot+\".H.EN\";\nvar queryEnL    = \"Protections.\"+Prot+\".L.EN\";\nvar queryEnLL   = \"Protections.\"+Prot+\".LL.EN\";\n\nvar HH_EN       = global.get(queryEnHH)||false;\nvar H_EN        = global.get(queryEnH)||false;\nvar L_EN        = global.get(queryEnL)||false;\nvar LL_EN       = global.get(queryEnLL)||false;\n\n// Death times\nvar queryDtHH   = \"Protections.\"+Prot+\".HH.DT\";\nvar queryDtH    = \"Protections.\"+Prot+\".H.DT\";\nvar queryDtL    = \"Protections.\"+Prot+\".L.DT\";\nvar queryDtLL   = \"Protections.\"+Prot+\".LL.DT\";\n\nvar HHDeathTime = global.get(queryDtHH)||0;\nvar HDeathTime  = global.get(queryDtH)||0;\nvar LDeathTime  = global.get(queryDtL)||0;\nvar LLDeathTime = global.get(queryDtLL)||0;\n\n// Value\nvar CurrentValue = msg.payload;\n\nif(CurrentValue >= HHSetpoint && HH_EN === true){\n    msg.disp = true;\n    msg.alrm = false;\n    msg.message = \"Trigger by HH Protection\";\n    msg.delay = HHDeathTime * 1000;\n}\nelse if(CurrentValue >= HSetpoint && H_EN === true){\n    msg.disp = false;\n    msg.alrm = true;\n    msg.message = \"Alarm by H Protection\";\n    msg.delay = HDeathTime * 1000;\n}\nelse if(CurrentValue <= LLSetpoint && LL_EN === true){\n    msg.disp = true;\n    msg.alrm = false;\n    msg.message = \"Trigger by LL Protection\"\n    msg.delay = LLDeathTime * 1000;\n}\nelse if(CurrentValue <= LSetpoint && L_EN === true){\n    msg.disp = false;\n    msg.alrm = true;\n    msg.message = \"Alarm by L Protection\";\n    msg.delay = LDeathTime * 1000;\n}\nelse{\n    msg.disp = false;\n    msg.alrm = false;\n    msg.message = \"Normal condition\";\n    msg.reset = true;\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 170,
+        "y": 40,
+        "wires": [
+            [
+                "725c6e48ead1fe5a",
+                "d33f0d4ace6f2356",
+                "460a5e99a984d0a7",
+                "f6688829e74f45a1"
+            ]
+        ]
+    },
+    {
+        "id": "725c6e48ead1fe5a",
+        "type": "function",
+        "z": "a52b5a046f4fd02f",
+        "name": "TON Disp",
+        "func": "var Act = msg.disp;\nvar Ant = context.get(\"Anterior\")||false;\nvar Output = { \n    payload: false,\n    Mensaje: msg.message\n};\n\n// Actualizar el contexto\ncontext.set(\"Anterior\", Act);\n\n//Flanco de subida\nif(Act === true && Ant === false){\n    context.set(\"RefTime\", Date.now());\n}\nelse if(Act === true && Ant === true){\n    if(Date.now() - context.get(\"RefTime\") >= msg.delay){\n        Output.payload = true;\n    }\n}\nreturn Output;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 390,
+        "y": 40,
+        "wires": [
+            [
+                "adce111c58da3831"
+            ]
+        ]
+    },
+    {
+        "id": "d33f0d4ace6f2356",
+        "type": "function",
+        "z": "a52b5a046f4fd02f",
+        "name": "TON Alrm",
+        "func": "var Act = msg.alrm;\nvar Ant = context.get(\"Anterior\")||false;\nvar Output = { \n    payload: false,\n    Mensaje: msg.message\n};\n\n// Actualizar el contexto\ncontext.set(\"Anterior\", Act);\n\n//Flanco de subida\nif(Act === true && Ant === false){\n    context.set(\"RefTime\", Date.now());\n}\nelse if(Act === true && Ant === true){\n    if(Date.now() - context.get(\"RefTime\") >= msg.delay){\n        Output.payload = true;\n    }\n}\nreturn Output;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 390,
+        "y": 90,
+        "wires": [
+            [
+                "4b0728825dcc1a38"
+            ]
+        ]
+    },
+    {
+        "id": "460a5e99a984d0a7",
+        "type": "change",
+        "z": "a52b5a046f4fd02f",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "message",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 410,
+        "y": 140,
+        "wires": [
+            [
+                "a97a7264b55ad0b8"
+            ]
+        ]
+    },
+    {
+        "id": "a97a7264b55ad0b8",
+        "type": "switch",
+        "z": "a52b5a046f4fd02f",
+        "name": "Normal condition",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "cont",
+                "v": "Normal",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 600,
+        "y": 140,
+        "wires": [
+            [
+                "f1e9011884ce5ee9"
+            ]
+        ]
+    },
+    {
+        "id": "d64f129a6c7d781a",
+        "type": "function",
+        "z": "a52b5a046f4fd02f",
+        "name": "Protections HH/LL",
+        "func": "var Prot        = env.get('protection') || \"test\";\nvar ProtESP     = {\n    Load: \"'Corriente'\",\n    THP: \"'THP'\",\n    THT: \"'THT'\",\n    VibrationGeneral: \"'Vibración general'\",\n    CurrentLeakage: \"'Corriente de fuga'\",\n    IntakePressure: \"'Presión de entrada'\",\n    DischargePressure: \"'Presión de descarga'\",\n    IntakeTemperature: \"'Temperatura de entrada'\",\n    MotorTemperature: \"'Temperatura de motor'\",\n    Voltage:\"'Tensión de entrada'\",\n    BusDC:\"'Bus DC'\"\n}\nif (msg.Mensaje == \"Trigger by HH Protection\"){\n    var dispQuery = \"Protections.\" + Prot + \".HH\";\n    msg.payload = \"Disparo por protección \" + ProtESP[Prot]+ \" HH\";\n}\nelse if (msg.Mensaje == \"Trigger by LL Protection\"){\n    var dispQuery = \"Protections.\" + Prot + \".LL\";\n    msg.payload = \"Disparo por protección \" + ProtESP[Prot] + \" LL\";\n}\nglobal.set(dispQuery, true, \"memoryOnly\");\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 800,
+        "y": 40,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f1e9011884ce5ee9",
+        "type": "function",
+        "z": "a52b5a046f4fd02f",
+        "name": "Protections normal",
+        "func": "var Prot        = env.get('protection') || \"test\";\n\nvar dispQuery = \"Protections.\" + Prot + \".HH\";\nglobal.set(dispQuery, false, \"memoryOnly\");\n\nvar dispQuery = \"Protections.\" + Prot + \".LL\";\nglobal.set(dispQuery, false, \"memoryOnly\");\n\nvar dispQuery = \"Protections.\" + Prot + \".H\";\nglobal.set(dispQuery, false, \"memoryOnly\");\n\nvar dispQuery = \"Protections.\" + Prot + \".L\";\nglobal.set(dispQuery, false, \"memoryOnly\");\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 800,
+        "y": 140,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "910c697ecdb1a784",
+        "type": "switch",
+        "z": "a52b5a046f4fd02f",
+        "name": "true",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 640,
+        "y": 90,
+        "wires": [
+            [
+                "818e472f7d541380"
+            ]
+        ]
+    },
+    {
+        "id": "4b0728825dcc1a38",
+        "type": "rbe",
+        "z": "a52b5a046f4fd02f",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 520,
+        "y": 90,
+        "wires": [
+            [
+                "910c697ecdb1a784"
+            ]
+        ]
+    },
+    {
+        "id": "adce111c58da3831",
+        "type": "rbe",
+        "z": "a52b5a046f4fd02f",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 520,
+        "y": 40,
+        "wires": [
+            [
+                "b1769bb892f77012"
+            ]
+        ]
+    },
+    {
+        "id": "b1769bb892f77012",
+        "type": "switch",
+        "z": "a52b5a046f4fd02f",
+        "name": "true",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 640,
+        "y": 40,
+        "wires": [
+            [
+                "d64f129a6c7d781a"
+            ]
+        ]
+    },
+    {
+        "id": "f6688829e74f45a1",
+        "type": "function",
+        "z": "a52b5a046f4fd02f",
+        "name": "Status",
+        "func": "msg.payload = \" Status: \" + msg.message + \", Value: \" + msg.payload;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 380,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "818e472f7d541380",
+        "type": "function",
+        "z": "a52b5a046f4fd02f",
+        "name": "Protections H/L",
+        "func": "var Prot        = env.get('protection') || \"test\";\nvar ProtESP = {\n    Load: \"'Corriente'\",\n    THP: \"'THP'\",\n    THT: \"'THT'\",\n    VibrationGeneral: \"'Vibración general'\",\n    CurrentLeakage: \"'Corriente de fuga'\",\n    IntakePressure: \"'Presión de entrada'\",\n    DischargePressure: \"'Presión de descarga'\",\n    IntakeTemperature: \"'Temperatura de entrada'\",\n    MotorTemperature: \"'Temperatura de motor'\",\n    Voltage: \"'Tensión de entrada'\",\n    BusDC: \"'Bus DC'\"\n}\n\nif (msg.Mensaje == \"Alarm by H Protection\"){\n    var dispQuery = \"Protections.\" + Prot + \".H\";\n    msg.payload = \"Alarma por protección \" + ProtESP[Prot] + \" H\";\n}\nelse if (msg.Mensaje == \"Alarm by L Protection\"){\n    var dispQuery = \"Protections.\" + Prot + \".L\";\n    msg.payload = \"Alarma por protección \" + ProtESP[Prot] + \" L\";\n}\nglobal.set(dispQuery, true, \"memoryOnly\");\ndispQuery = \"Protections.\" + Prot + \".HH\";\nglobal.set(dispQuery, false, \"memoryOnly\");\ndispQuery = \"Protections.\" + Prot + \".LL\";\nglobal.set(dispQuery, false, \"memoryOnly\");\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 790,
+        "y": 90,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "996a9142c814ab39",
+        "type": "debug",
+        "z": "dd18d94e.4b1408",
+        "g": "3ae9fbe60d6132ea",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 610,
+        "y": 520,
+        "wires": []
     }
 ]
