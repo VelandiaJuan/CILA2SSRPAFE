@@ -1109,9 +1109,7 @@
             "566c907c.70175"
         ],
         "x": 28,
-        "y": 33,
-        "w": 1264,
-        "h": 574
+        "y": 33
     },
     {
         "id": "9132da2c.b8c6b8",
@@ -1152,10 +1150,8 @@
             "f167459.5f028b8",
             "7c55c2ad.611734"
         ],
-        "x": 22,
-        "y": 637,
-        "w": 3146,
-        "h": 2266
+        "x": 32,
+        "y": 637
     },
     {
         "id": "c3a35f81.5c82b8",
@@ -1178,9 +1174,7 @@
             "d961a2f.f52ad6"
         ],
         "x": 1874,
-        "y": 129,
-        "w": 892,
-        "h": 162
+        "y": 129
     },
     {
         "id": "9b538856.60fb38",
@@ -1225,9 +1219,7 @@
             "6b3d4586f5261369"
         ],
         "x": 24,
-        "y": 239,
-        "w": 2762,
-        "h": 279.5
+        "y": 239
     },
     {
         "id": "deaa6892.b3d988",
@@ -1243,9 +1235,7 @@
             "31895ea6.22f372"
         ],
         "x": 14,
-        "y": 13,
-        "w": 1854,
-        "h": 214
+        "y": 13
     },
     {
         "id": "1dd5b051.a95e6",
@@ -1316,9 +1306,7 @@
             "70b2c288.8683bc"
         ],
         "x": 24,
-        "y": 529,
-        "w": 2012,
-        "h": 442
+        "y": 529
     },
     {
         "id": "f7ed166d.1aa528",
@@ -1336,9 +1324,7 @@
             "eb91dac5.690838"
         ],
         "x": -12,
-        "y": 13,
-        "w": 1664,
-        "h": 1200
+        "y": 13
     },
     {
         "id": "e98dc6a9.24ece8",
@@ -1390,7 +1376,7 @@
             "996a9142c814ab39"
         ],
         "x": 24,
-        "y": 421.5
+        "y": 429
     },
     {
         "id": "6abd418f.d175b",
@@ -1578,9 +1564,7 @@
             "98ca0b1c.cda4f8"
         ],
         "x": 24,
-        "y": 29,
-        "w": 942,
-        "h": 202
+        "y": 29
     },
     {
         "id": "57eba231.4d56dc",
@@ -1600,9 +1584,7 @@
             "e9e93a2c.deeb18"
         ],
         "x": 28,
-        "y": 243,
-        "w": 374,
-        "h": 304
+        "y": 243
     },
     {
         "id": "dbdc491cb6e9eee5",
@@ -1640,7 +1622,9 @@
             "d0a28faca735a7cd"
         ],
         "x": 1534,
-        "y": 359
+        "y": 359,
+        "w": 1192,
+        "h": 732
     },
     {
         "id": "99671f60976b1d2a",
@@ -1665,7 +1649,9 @@
             "cf72a5e61eda6fa8"
         ],
         "x": 1544,
-        "y": 29
+        "y": 29,
+        "w": 992,
+        "h": 212
     },
     {
         "id": "95daead77be77494",
@@ -1712,7 +1698,9 @@
             "0990c77b15bde411"
         ],
         "x": 994,
-        "y": 649
+        "y": 649,
+        "w": 532,
+        "h": 732
     },
     {
         "id": "87fca62744442ad4",
@@ -1751,7 +1739,9 @@
             "19a66bb9.eaa504"
         ],
         "x": 44,
-        "y": 409
+        "y": 409,
+        "w": 702,
+        "h": 272
     },
     {
         "id": "a7f58aaec292b159",
@@ -1794,7 +1784,9 @@
             "30359a42be66cafb"
         ],
         "x": 44,
-        "y": 689
+        "y": 689,
+        "w": 812,
+        "h": 272
     },
     {
         "id": "37b64a70f39dda06",
@@ -1833,7 +1825,9 @@
             "e0a3fe6a.f68a1"
         ],
         "x": 44,
-        "y": 969
+        "y": 969,
+        "w": 742,
+        "h": 272
     },
     {
         "id": "ee5753bdd6eedb72",
@@ -1858,7 +1852,9 @@
             "46e32360.5940dc"
         ],
         "x": 44,
-        "y": 239
+        "y": 239,
+        "w": 912,
+        "h": 162
     },
     {
         "id": "931b0370.afc1b",
@@ -2096,9 +2092,7 @@
             "d12eb94c947d2994"
         ],
         "x": 1364,
-        "y": 299,
-        "w": 1822,
-        "h": 282
+        "y": 299
     },
     {
         "id": "2fa4e5be63ea61ce",
@@ -2117,10 +2111,8 @@
             "111712e06e9c8149",
             "da3d5f3ce168e7d3"
         ],
-        "x": 1344,
-        "y": 79,
-        "w": 482,
-        "h": 232
+        "x": 1364,
+        "y": 59
     },
     {
         "id": "2bb641e0f5f82309",
@@ -2136,9 +2128,7 @@
             "80a9920a.43161"
         ],
         "x": 42,
-        "y": 2927,
-        "w": 3020,
-        "h": 1400
+        "y": 2927
     },
     {
         "id": "e3aa057d.09fb18",
@@ -2799,9 +2789,7 @@
             "742e267a.cbc27"
         ],
         "x": 68,
-        "y": 2973,
-        "w": 1284,
-        "h": 594
+        "y": 2973
     },
     {
         "id": "80a9920a.43161",
@@ -2870,9 +2858,7 @@
             "2437732b.dd79cc"
         ],
         "x": 1368,
-        "y": 2953,
-        "w": 1668,
-        "h": 1348
+        "y": 2953
     },
     {
         "id": "1306de9a.9ba341",
@@ -3408,9 +3394,7 @@
             "868cefce.6694a"
         ],
         "x": 54,
-        "y": 59,
-        "w": 1212,
-        "h": 362
+        "y": 59
     },
     {
         "id": "566c907c.70175",
@@ -3434,9 +3418,7 @@
             "3f94e47b8b495988"
         ],
         "x": 54,
-        "y": 429,
-        "w": 1002,
-        "h": 152
+        "y": 429
     },
     {
         "id": "f167459.5f028b8",
@@ -3454,10 +3436,8 @@
             "f68d7eac.63fb98",
             "49c39e.d1336c64"
         ],
-        "x": 48,
-        "y": 703,
-        "w": 1714,
-        "h": 2174
+        "x": 58,
+        "y": 703
     },
     {
         "id": "7c55c2ad.611734",
@@ -3475,9 +3455,7 @@
             "c4bcf1ca.3d67d"
         ],
         "x": 1778,
-        "y": 663,
-        "w": 1364,
-        "h": 1121.5
+        "y": 663
     },
     {
         "id": "b1830307.ee865",
@@ -3505,9 +3483,7 @@
             "c8dda58c.1ca2c8"
         ],
         "x": 40,
-        "y": 39,
-        "w": 902,
-        "h": 162
+        "y": 39
     },
     {
         "id": "31895ea6.22f372",
@@ -3535,9 +3511,7 @@
             "c42f5649.4492d8"
         ],
         "x": 950,
-        "y": 39,
-        "w": 892,
-        "h": 162
+        "y": 39
     },
     {
         "id": "f3c2e7cf.5ed158",
@@ -3561,9 +3535,7 @@
             "b045615539735b86"
         ],
         "x": 14,
-        "y": 463,
-        "w": 958,
-        "h": 724
+        "y": 463
     },
     {
         "id": "eb91dac5.690838",
@@ -3616,9 +3588,7 @@
             "bb4f29c8.aa7e88"
         ],
         "x": 44,
-        "y": 39,
-        "w": 1582,
-        "h": 402
+        "y": 39
     },
     {
         "id": "8ed62712.fe2018",
@@ -3756,9 +3726,7 @@
             "f0c186466f456fd2"
         ],
         "x": 54,
-        "y": 269,
-        "w": 322,
-        "h": 122
+        "y": 269
     },
     {
         "id": "e9e93a2c.deeb18",
@@ -3778,9 +3746,7 @@
             "37f2db57.b831c4"
         ],
         "x": 54,
-        "y": 399,
-        "w": 322,
-        "h": 122
+        "y": 399
     },
     {
         "id": "272ed76d.7cce68",
@@ -4431,9 +4397,7 @@
             "ec7a9df336d4ffeb"
         ],
         "x": 94,
-        "y": 2999,
-        "w": 1232,
-        "h": 542
+        "y": 2999
     },
     {
         "id": "f6e2a6e0.47efb8",
@@ -4472,9 +4436,7 @@
             "b6a4e02ca271262e"
         ],
         "x": 1394,
-        "y": 2979,
-        "w": 1232,
-        "h": 322
+        "y": 2979
     },
     {
         "id": "edfe6c51.d89c68",
@@ -4511,9 +4473,7 @@
             "466d829c.38acdc"
         ],
         "x": 1394,
-        "y": 3299,
-        "w": 722,
-        "h": 442
+        "y": 3299
     },
     {
         "id": "16097ef1.129291",
@@ -5047,10 +5007,8 @@
             "b7ffb7b45a3db6bf",
             "901abd09c7f1d327"
         ],
-        "x": 74,
-        "y": 729,
-        "w": 1242,
-        "h": 842
+        "x": 84,
+        "y": 729
     },
     {
         "id": "f68d7eac.63fb98",
@@ -5080,9 +5038,7 @@
             "dc7c0e6833d4017c"
         ],
         "x": 84,
-        "y": 2669,
-        "w": 892,
-        "h": 182
+        "y": 2669
     },
     {
         "id": "d532ac68.2d5408",
@@ -5137,9 +5093,7 @@
             "b11471d1de6d950b"
         ],
         "x": 1824,
-        "y": 689,
-        "w": 1292,
-        "h": 502
+        "y": 689
     },
     {
         "id": "c4bcf1ca.3d67d",
@@ -5201,9 +5155,7 @@
             "594a5a3dcc0b18eb"
         ],
         "x": 1804,
-        "y": 1219,
-        "w": 1292,
-        "h": 539.5
+        "y": 1219
     },
     {
         "id": "a80677cf.4274c8",
@@ -5224,9 +5176,7 @@
             "ecd73acb6f9a9a0a"
         ],
         "x": 584,
-        "y": 959,
-        "w": 362,
-        "h": 202
+        "y": 959
     },
     {
         "id": "64ff74e5.f4c53c",
@@ -5246,9 +5196,7 @@
             "c1672804cba19e98"
         ],
         "x": 574,
-        "y": 489,
-        "w": 172,
-        "h": 212
+        "y": 489
     },
     {
         "id": "be55ea76.ed4478",
@@ -5269,9 +5217,7 @@
             "41b82348a8ab40a8"
         ],
         "x": 564,
-        "y": 719,
-        "w": 372,
-        "h": 202
+        "y": 719
     },
     {
         "id": "1d477816.993308",
@@ -5562,9 +5508,7 @@
             "38362b7a.04f554"
         ],
         "x": 84,
-        "y": 1579,
-        "w": 1652,
-        "h": 1032
+        "y": 1579
     },
     {
         "id": "d25d405a.19cff",
@@ -6198,7 +6142,7 @@
     {
         "id": "a3d1f2c7.5fe22",
         "type": "pccc endpoint",
-        "address": "192.168.2.10",
+        "address": "192.168.2.170",
         "port": "44818",
         "userouting": false,
         "routing": "0x01,0x00,0x01,0x00",
@@ -6384,7 +6328,7 @@
         "bufferCommands": true,
         "stateLogEnabled": false,
         "queueLogEnabled": false,
-        "tcpHost": "192.168.2.13",
+        "tcpHost": "192.168.2.173",
         "tcpPort": "502",
         "tcpType": "DEFAULT",
         "serialPort": "/dev/ttyUSB",
@@ -6394,11 +6338,11 @@
         "serialStopbits": "1",
         "serialParity": "none",
         "serialConnectionDelay": "100",
-        "unit_id": 5,
-        "commandDelay": 1,
-        "clientTimeout": 1000,
+        "unit_id": "5",
+        "commandDelay": "1",
+        "clientTimeout": "1000",
         "reconnectOnTimeout": true,
-        "reconnectTimeout": 2000,
+        "reconnectTimeout": "2000",
         "parallelUnitIdsAllowed": true
     },
     {
@@ -6512,7 +6456,7 @@
     {
         "id": "e9d237aaf9318e74",
         "type": "pccc endpoint",
-        "address": "192.168.2.10",
+        "address": "192.168.2.170",
         "port": "44818",
         "userouting": false,
         "routing": "0x01,0x00,0x01,0x00",
@@ -26190,11 +26134,12 @@
         "z": "7a89175c.90f6a8",
         "g": "566c907c.70175",
         "name": "Filtro de armónicos",
-        "func": "var Corriente = flow.get('Filtro_armonicos.Corriente_bypass')||0;\nvar payload = msg.payload;\nmsg.payload = TON(parseFloat(msg.payload) >= Corriente ? true:false,msg.delay);\nnode.status({fill:msg.payload === true? 'red':'green',shape:\"dot\",text: parseFloat(payload)+\" >= \"+Corriente });\nreturn msg;\n\nfunction TON(val,delay){\n    var Ant = context.get(\"Anterior\")||false;\n    // Actualizar el contexto\n    context.set(\"Anterior\", val);\n    //Flanco de subida\n    if(val === true && Ant === false){\n        context.set(\"RefTime\", Date.now());\n    }\n    else if(val === true && Ant === true){\n        if(Date.now() - context.get(\"RefTime\") >= delay*1000){\n            return true;\n        }\n    }\n    return false;\n}",
+        "func": "var Corriente = flow.get('Filtro_armonicos.Corriente_bypass')||0;\nvar payload = msg.payload;\nmsg.payload = TON(parseFloat(msg.payload) >= Corriente ? true:false,msg.delay);\nnode.status({fill:msg.payload === true? 'red':'green',shape:\"dot\",text: parseFloat(payload)+\" >= \"+Corriente +\"DT:\"+msg.payload});\nreturn msg;\n\nfunction TON(val,delay){\n    var Ant = context.get(\"Anterior\")||false;\n    // Actualizar el contexto\n    context.set(\"Anterior\", val);\n    //Flanco de subida\n    if(val === true && Ant === false){\n        context.set(\"RefTime\", Date.now());\n    }\n    else if(val === true && Ant === true){\n        if(Date.now() - context.get(\"RefTime\") >= delay*1000){\n            return true;\n        }\n    }\n    return false;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 410,
         "y": 490,
         "wires": [
@@ -38642,7 +38587,7 @@
                 "t": "set",
                 "p": "C2S.IP",
                 "pt": "global",
-                "to": "192.168.2.10",
+                "to": "192.168.2.170",
                 "tot": "str"
             }
         ],
@@ -47617,8 +47562,8 @@
         "topic": "",
         "payload": "true",
         "payloadType": "bool",
-        "x": 1440,
-        "y": 120,
+        "x": 1460,
+        "y": 100,
         "wires": [
             [
                 "3cca25dd292d56e4",
@@ -47639,8 +47584,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1650,
-        "y": 120,
+        "x": 1670,
+        "y": 100,
         "wires": [
             []
         ]
@@ -47656,8 +47601,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1650,
-        "y": 220,
+        "x": 1670,
+        "y": 200,
         "wires": [
             []
         ]
@@ -47673,8 +47618,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1680,
-        "y": 270,
+        "x": 1700,
+        "y": 250,
         "wires": [
             []
         ],
@@ -47861,7 +47806,7 @@
                 "p": "payload"
             }
         ],
-        "repeat": "0.7",
+        "repeat": "1",
         "crontab": "",
         "once": true,
         "onceDelay": "10",
@@ -62865,8 +62810,8 @@
             "515bf075edacdc7f"
         ],
         "uncaught": false,
-        "x": 1420,
-        "y": 190,
+        "x": 1440,
+        "y": 170,
         "wires": [
             []
         ]
@@ -63133,7 +63078,7 @@
         "once": true,
         "onceDelay": 0.1,
         "topic": "",
-        "payload": "192.168.2.13",
+        "payload": "192.168.2.173",
         "payloadType": "str",
         "x": 550,
         "y": 570,
@@ -63179,8 +63124,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1630,
-        "y": 170,
+        "x": 1650,
+        "y": 150,
         "wires": [
             []
         ],
@@ -69400,7 +69345,7 @@
         "g": "dbdc491cb6e9eee5",
         "name": "",
         "pauseType": "delay",
-        "timeout": "3",
+        "timeout": "5",
         "timeoutUnits": "seconds",
         "rate": "1",
         "nbRateUnits": "1",
