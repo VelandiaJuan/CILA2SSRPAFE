@@ -6142,7 +6142,7 @@
     {
         "id": "a3d1f2c7.5fe22",
         "type": "pccc endpoint",
-        "address": "192.168.2.170",
+        "address": "192.168.2.80",
         "port": "44818",
         "userouting": false,
         "routing": "0x01,0x00,0x01,0x00",
@@ -6328,7 +6328,7 @@
         "bufferCommands": true,
         "stateLogEnabled": false,
         "queueLogEnabled": false,
-        "tcpHost": "192.168.2.173",
+        "tcpHost": "192.168.2.83",
         "tcpPort": "502",
         "tcpType": "DEFAULT",
         "serialPort": "/dev/ttyUSB",
@@ -6456,7 +6456,7 @@
     {
         "id": "e9d237aaf9318e74",
         "type": "pccc endpoint",
-        "address": "192.168.2.170",
+        "address": "192.168.2.80",
         "port": "44818",
         "userouting": false,
         "routing": "0x01,0x00,0x01,0x00",
@@ -38587,7 +38587,7 @@
                 "t": "set",
                 "p": "C2S.IP",
                 "pt": "global",
-                "to": "192.168.2.170",
+                "to": "192.168.2.80",
                 "tot": "str"
             }
         ],
@@ -56483,11 +56483,12 @@
         "type": "function",
         "z": "9941a439.4b17c8",
         "name": "leer",
-        "func": "var leer = global.get(msg.payload)||null;\n\nif(leer != null){\n    msg. payload = leer;\n    msg.enabled = true;\n}\nelse{\n    msg.payload = null;\n    msg.enabled = true;\n}\nreturn msg;",
+        "func": "var leer = global.get(msg.payload)||false;\n\nif(leer != null){\n    msg. payload = leer;\n    msg.enabled = true;\n}\nelse{\n    msg.payload = null;\n    msg.enabled = true;\n}\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 360,
         "y": 1290,
         "wires": [
@@ -63078,7 +63079,7 @@
         "once": true,
         "onceDelay": 0.1,
         "topic": "",
-        "payload": "192.168.2.173",
+        "payload": "192.168.2.83",
         "payloadType": "str",
         "x": 550,
         "y": 570,
