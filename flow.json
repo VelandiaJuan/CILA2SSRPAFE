@@ -1219,7 +1219,9 @@
             "6b3d4586f5261369"
         ],
         "x": 24,
-        "y": 239
+        "y": 239,
+        "w": 2762,
+        "h": 279.5
     },
     {
         "id": "deaa6892.b3d988",
@@ -1235,7 +1237,9 @@
             "31895ea6.22f372"
         ],
         "x": 14,
-        "y": 13
+        "y": 13,
+        "w": 1854,
+        "h": 214
     },
     {
         "id": "1dd5b051.a95e6",
@@ -1306,7 +1310,9 @@
             "70b2c288.8683bc"
         ],
         "x": 24,
-        "y": 529
+        "y": 529,
+        "w": 2012,
+        "h": 442
     },
     {
         "id": "f7ed166d.1aa528",
@@ -1376,9 +1382,7 @@
             "996a9142c814ab39"
         ],
         "x": 24,
-        "y": 429,
-        "w": 722,
-        "h": 242
+        "y": 429
     },
     {
         "id": "6abd418f.d175b",
@@ -1393,9 +1397,7 @@
             "b2f2659a.67f648"
         ],
         "x": 18,
-        "y": 23,
-        "w": 1754,
-        "h": 394
+        "y": 23
     },
     {
         "id": "8c207e440fb46f33",
@@ -1411,9 +1413,7 @@
             "9f77b0d829ad914b"
         ],
         "x": 514,
-        "y": 769,
-        "w": 282,
-        "h": 82
+        "y": 769
     },
     {
         "id": "38940f8.c9c27f",
@@ -1431,9 +1431,7 @@
             "ead83bdf05616014"
         ],
         "x": 18,
-        "y": 23,
-        "w": 1464,
-        "h": 664
+        "y": 23
     },
     {
         "id": "48d282d70b9e72c9",
@@ -1449,7 +1447,9 @@
             "6914a9b4.85f3c"
         ],
         "x": 1884,
-        "y": 239
+        "y": 239,
+        "w": 432,
+        "h": 82
     },
     {
         "id": "9437db38.d604e",
@@ -1473,7 +1473,9 @@
             "03a3b206eac12d39"
         ],
         "x": 1884,
-        "y": 69
+        "y": 69,
+        "w": 1042,
+        "h": 162
     },
     {
         "id": "af8e6105.775618",
@@ -1495,7 +1497,9 @@
             "67ba4794.6cf57"
         ],
         "x": 164,
-        "y": 69
+        "y": 69,
+        "w": 752,
+        "h": 132
     },
     {
         "id": "d84d4fbe.ee6ce",
@@ -1514,7 +1518,9 @@
             "a7f0f525.ae1878"
         ],
         "x": 164,
-        "y": 209
+        "y": 209,
+        "w": 602,
+        "h": 122
     },
     {
         "id": "ef81d12e3dd41149",
@@ -1544,7 +1550,9 @@
             "1d797f4ca9b83896"
         ],
         "x": 924,
-        "y": 69
+        "y": 69,
+        "w": 952,
+        "h": 322
     },
     {
         "id": "e29eaee41e038edd",
@@ -1631,9 +1639,7 @@
             "5d20e6ab1b031c95"
         ],
         "x": 1534,
-        "y": 359,
-        "w": 1192,
-        "h": 732
+        "y": 359
     },
     {
         "id": "99671f60976b1d2a",
@@ -1658,9 +1664,7 @@
             "cf72a5e61eda6fa8"
         ],
         "x": 1544,
-        "y": 29,
-        "w": 992,
-        "h": 212
+        "y": 29
     },
     {
         "id": "95daead77be77494",
@@ -1707,9 +1711,7 @@
             "0990c77b15bde411"
         ],
         "x": 994,
-        "y": 649,
-        "w": 532,
-        "h": 732
+        "y": 649
     },
     {
         "id": "87fca62744442ad4",
@@ -1748,9 +1750,7 @@
             "19a66bb9.eaa504"
         ],
         "x": 44,
-        "y": 409,
-        "w": 702,
-        "h": 272
+        "y": 409
     },
     {
         "id": "a7f58aaec292b159",
@@ -1793,9 +1793,7 @@
             "30359a42be66cafb"
         ],
         "x": 44,
-        "y": 689,
-        "w": 812,
-        "h": 272
+        "y": 689
     },
     {
         "id": "37b64a70f39dda06",
@@ -1834,9 +1832,7 @@
             "e0a3fe6a.f68a1"
         ],
         "x": 44,
-        "y": 969,
-        "w": 742,
-        "h": 272
+        "y": 969
     },
     {
         "id": "ee5753bdd6eedb72",
@@ -1861,9 +1857,7 @@
             "46e32360.5940dc"
         ],
         "x": 44,
-        "y": 239,
-        "w": 912,
-        "h": 162
+        "y": 239
     },
     {
         "id": "931b0370.afc1b",
@@ -2207,7 +2201,9 @@
             "cf985e84.c7693"
         ],
         "x": 18,
-        "y": 23
+        "y": 23,
+        "w": 2064,
+        "h": 944
     },
     {
         "id": "e1e65313b5eaa836",
@@ -3500,7 +3496,9 @@
             "c8dda58c.1ca2c8"
         ],
         "x": 40,
-        "y": 39
+        "y": 39,
+        "w": 902,
+        "h": 162
     },
     {
         "id": "31895ea6.22f372",
@@ -3528,7 +3526,9 @@
             "c42f5649.4492d8"
         ],
         "x": 950,
-        "y": 39
+        "y": 39,
+        "w": 892,
+        "h": 162
     },
     {
         "id": "f3c2e7cf.5ed158",
@@ -3638,9 +3638,7 @@
             "c30439cc.4bcb68"
         ],
         "x": 44,
-        "y": 49,
-        "w": 1422,
-        "h": 212
+        "y": 49
     },
     {
         "id": "b2f2659a.67f648",
@@ -3667,9 +3665,7 @@
             "e92736fb1766d1e0"
         ],
         "x": 44,
-        "y": 269,
-        "w": 1702,
-        "h": 122
+        "y": 269
     },
     {
         "id": "70a63b74.44894c",
@@ -3689,9 +3685,7 @@
             "d22f737e1faaee45"
         ],
         "x": 44,
-        "y": 499,
-        "w": 412,
-        "h": 162
+        "y": 499
     },
     {
         "id": "ee01b6d1.f76f98",
@@ -3730,9 +3724,7 @@
             "43ffc14d.a3cac8"
         ],
         "x": 44,
-        "y": 49,
-        "w": 1412,
-        "h": 442
+        "y": 49
     },
     {
         "id": "e2589faa.5b6d2",
@@ -4217,7 +4209,9 @@
             "25037f6e145deee9"
         ],
         "x": 44,
-        "y": 649
+        "y": 649,
+        "w": 1152,
+        "h": 292
     },
     {
         "id": "cf985e84.c7693",
@@ -4289,7 +4283,9 @@
             "d6aaf343fc532b87"
         ],
         "x": 44,
-        "y": 49
+        "y": 49,
+        "w": 2012,
+        "h": 592
     },
     {
         "id": "ef45fa052227c233",
@@ -5356,7 +5352,9 @@
             "7af9ff4dabd191fb"
         ],
         "x": 1394,
-        "y": 389
+        "y": 389,
+        "w": 632,
+        "h": 222
     },
     {
         "id": "49c39e.d1336c64",
@@ -8360,8 +8358,8 @@
         "type": "ui_led",
         "z": "902fc438.e5d758",
         "g": "086b9d08c3b68939",
-        "order": 1,
         "group": "4f5b8416.cada1c",
+        "order": 1,
         "width": 5,
         "height": 1,
         "label": "C2S: {{msg.payload}}",
@@ -34358,11 +34356,12 @@
         "z": "e7088c4e.cc6b4",
         "g": "1dd5b051.a95e6",
         "name": "Creación de archivo",
-        "func": "var PQA             = global.get(\"PQA.Real_Time_Parameters\",'memoryOnly')   || null;\nvar C2S             = global.get(\"C2S.Implicit\",'memoryOnly')               || null;\nvar DownHoleData    = global.get('DownHoleData','memoryOnly')               || null;\nvar MotorV          = global.get(\"C2S.Implicit.Output_Voltage\", 'memoryOnly') || 0;\nvar MotorI          = global.get(\"C2S.Implicit.Output_Current\", 'memoryOnly') || 0;\nvar date            = new Date();\n\n// Date\nvar year            = date.getFullYear();\nvar month           = date.getMonth()+1;\nvar day             = date.getDate();\n\n//Time\nvar hours           = date.getHours();\nvar minutes         = date.getMinutes();\nvar seconds         = date.getSeconds();\n// Corriente y tensión de motor\nRtx = global.get(\"C2S.RelTx\") || 1;\nvar Voltaje_Motor   =  MotorV * Rtx;\nvar Corriente_Motor =  MotorI / Rtx;\n\n\nmsg.payload = {\n    'fecha_hora'                : year+'/'+month+'/'+day+\" \"+hours+':'+minutes+':'+seconds,\n    'Frequency'                 : PQA != null && typeof PQA.Frequency                                          != 'undefined' ? parseFloat(PQA.Frequency).toFixed(3):\"0\",\n    'Phase_1_Voltage'           : PQA != null && typeof PQA.Phase_1_Voltage                                    != 'undefined' ? parseFloat(PQA.Phase_1_Voltage).toFixed(3):\"0\",\n    'Phase_2_Voltage'           : PQA != null && typeof PQA.Phase_2_Voltage                                    != 'undefined' ? parseFloat(PQA.Phase_2_Voltage).toFixed(3):\"0\",\n    'Phase_3_Voltage'           : PQA != null && typeof PQA.Phase_3_Voltage                                    != 'undefined' ? parseFloat(PQA.Phase_3_Voltage).toFixed(3):\"0\",\n    'Average_Phase_Voltage'     : PQA != null && typeof PQA.Average_Phase_Voltage                              != 'undefined' ? parseFloat(PQA.Average_Phase_Voltage).toFixed(3):\"0\",\n    'Line_Voltage_1_2'          : PQA != null && typeof PQA.Line_Voltage_1_2                                   != 'undefined' ? parseFloat(PQA.Line_Voltage_1_2).toFixed(3):\"0\",\n    'Line_Voltage_2_3'          : PQA != null && typeof PQA.Line_Voltage_2_3                                   != 'undefined' ? parseFloat(PQA.Line_Voltage_2_3).toFixed(3):\"0\",\n    'Line_Voltage_3_1'          : PQA != null && typeof PQA.Line_Voltage_3_1                                   != 'undefined' ? parseFloat(PQA.Line_Voltage_3_1).toFixed(3):\"0\",\n    'Average_Line_Voltage'      : PQA != null && typeof PQA.Average_Line_Voltage                               != 'undefined' ? parseFloat(PQA.Average_Line_Voltage).toFixed(3):\"0\",\n    'Total_Phase_A_Current'     : PQA != null && typeof PQA.Total_Phase_A_Current                              != 'undefined' ? parseFloat(PQA.Total_Phase_A_Current).toFixed(3):\"0\",\n    'Total_Phase_B_Current'     : PQA != null && typeof PQA.Total_Phase_B_Current                              != 'undefined' ? parseFloat(PQA.Total_Phase_B_Current).toFixed(3):\"0\",\n    'Total_Phase_C_Current'     : PQA != null && typeof PQA.Total_Phase_C_Current                              != 'undefined' ? parseFloat(PQA.Total_Phase_C_Current).toFixed(3):\"0\",\n    'Neutral_Current'           : PQA != null && typeof PQA.Neutral_Current                                    != 'undefined' ? parseFloat(PQA.Neutral_Current).toFixed(3):\"0\",\n    'Phase_A_Power'             : PQA != null && typeof PQA.Phase_A_Power                                      != 'undefined' ? parseFloat(PQA.Phase_A_Power).toFixed(3):\"0\",\n    'Phase_B_Power'             : PQA != null && typeof PQA.Phase_B_Power                                      != 'undefined' ? parseFloat(PQA.Phase_B_Power).toFixed(3):\"0\",\n    'Phase_C_Power'             : PQA != null && typeof PQA.Phase_C_Power                                      != 'undefined' ? parseFloat(PQA.Phase_C_Power).toFixed(3):\"0\",\n    'Total_System_Power'        : PQA != null && typeof PQA.Total_System_Power                                 != 'undefined' ? parseFloat(PQA.Total_System_Power).toFixed(3):\"0\",\n    'Phase_A_Reactive_Power'    : PQA != null && typeof PQA.Phase_A_Reactive_Power                             != 'undefined' ? parseFloat(PQA.Phase_A_Reactive_Power).toFixed(3):\"0\",\n    'Phase_B_Reactive_Power'    : PQA != null && typeof PQA.Phase_B_Reactive_Power                             != 'undefined' ? parseFloat(PQA.Phase_B_Reactive_Power).toFixed(3):\"0\",\n    'Phase_C_Reactive_Power'    : PQA != null && typeof PQA.Phase_C_Reactive_Power                             != 'undefined' ? parseFloat(PQA.Phase_C_Reactive_Power).toFixed(3):\"0\",\n    'Phase_A_Apparent_Power'    : PQA != null && typeof PQA.Phase_A_Apparent_Power                             != 'undefined' ? parseFloat(PQA.Phase_A_Apparent_Power).toFixed(3):\"0\",\n    'Phase_B_Apparent_Power'    : PQA != null && typeof PQA.Phase_B_Apparent_Power                             != 'undefined' ? parseFloat(PQA.Phase_B_Apparent_Power).toFixed(3):\"0\",\n    'Phase_C_Apparent_Power'    : PQA != null && typeof PQA.Phase_C_Apparent_Power                             != 'undefined' ? parseFloat(PQA.Phase_C_Apparent_Power).toFixed(3):\"0\",\n    'Output_Current'            : C2S != null && typeof C2S.Output_Current                                     != 'undefined' ? parseFloat(C2S.Output_Current).toFixed(3):\"0\",\n    'Output_Voltage'            : C2S != null && typeof C2S.Output_Voltage                                     != 'undefined' ? parseFloat(C2S.Output_Voltage).toFixed(3):\"0\",\n    'Output_Power'              : C2S != null && typeof C2S.Output_Power                                       != 'undefined' ? parseFloat(C2S.Output_Power).toFixed(3):\"0\",\n    'Output_Frequency'          : C2S != null && typeof C2S.Output_Frequency                                   != 'undefined' ? parseFloat(C2S.Output_Frequency).toFixed(3):\"0\",\n    'Power_Factor'              : C2S != null && typeof C2S.Power_Factor                                       != 'undefined' ? parseFloat(C2S.Power_Factor).toFixed(3):\"0\",\n    'Bus_DC_Volts'              : C2S != null && typeof C2S.Bus_DC_Volts                                       != 'undefined' ? parseFloat(C2S.Bus_DC_Volts).toFixed(3):\"0\",\n    'Drive_Temp_C'              : C2S != null && typeof C2S.Drive_Temp_C                                       != 'undefined' ? parseFloat(C2S.Drive_Temp_C).toFixed(3):\"0\",\n    'Elapsed_Run_Time'          : C2S != null && typeof C2S.Elapsed_Run_Time                                   != 'undefined' ? parseFloat(C2S.Elapsed_Run_Time).toFixed(3):\"0\",\n    'Last_Fault_Code'           : C2S != null && typeof C2S.Last_Fault_Code                                    != 'undefined' ? parseFloat(C2S.Last_Fault_Code).toFixed(3):\"0\",\n    'Voltaje_Motor'             : Voltaje_Motor != null && typeof Voltaje_Motor                                != 'undefined' ? parseFloat(Voltaje_Motor).toFixed(3):\"0\",\n    'Corriente_Motor'           : Corriente_Motor != null && typeof Corriente_Motor                            != 'undefined' ? parseFloat(Corriente_Motor).toFixed(3):\"0\",\n    'Presión de entrada'        : DownHoleData != null && typeof DownHoleData.DHS[\"Presión de entrada\"]         != 'undefined' ? parseFloat(DownHoleData.DHS[\"Presión de entrada\"]).toFixed(3):\"0\",\n    'Presión de descarga'       : DownHoleData != null && typeof DownHoleData.DHS[\"Presión de descarga\"]        != 'undefined' ? parseFloat(DownHoleData.DHS[\"Presión de descarga\"]).toFixed(3):\"0\",\n    'Temperatura de entrada'    : DownHoleData != null && typeof DownHoleData.DHS[\"Temperatura de entrada\"]     != 'undefined' ? parseFloat(DownHoleData.DHS[\"Temperatura de entrada\"]).toFixed(3):\"0\",\n    'Temperatura de descarga'   : DownHoleData != null && typeof DownHoleData.DHS[\"Temperatura de descarga\"]    != 'undefined' ? parseFloat(DownHoleData.DHS[\"Temperatura de descarga\"]).toFixed(3):\"0\",\n    'Temperatura de motor'      : DownHoleData != null && typeof DownHoleData.DHS[\"Temperatura de motor\"]       != 'undefined' ? parseFloat(DownHoleData.DHS[\"Temperatura de motor\"]).toFixed(3):\"0\",\n    'Vibración en X'            : DownHoleData != null && typeof DownHoleData.DHS[\"Vibración X\"]                != 'undefined' ? parseFloat(DownHoleData.DHS[\"Vibración X\"]).toFixed(3):\"0\",\n    'Vibración en Z'            : DownHoleData != null && typeof DownHoleData.DHS[\"Vibración Z\"]                != 'undefined' ? parseFloat(DownHoleData.DHS[\"Vibración Z\"]).toFixed(3):\"0\",\n    'Corriente de fuga'         : DownHoleData != null && typeof DownHoleData.DHS[\"Corriente de fuga\"]          != 'undefined' ? parseFloat(DownHoleData.DHS[\"Corriente de fuga\"]).toFixed(3):\"0\"\n    \n}\n\n// Archivo\nmsg.columns = Object.keys(msg.payload).toString();\nreturn msg;",
+        "func": "var PQA             = global.get(\"PQA.Real_Time_Parameters\",'memoryOnly')   || null;\nvar C2S             = global.get(\"C2S.Implicit\",'memoryOnly')               || null;\nvar DownHoleData    = global.get('DownHoleData','memoryOnly')               || null;\nvar MotorV          = global.get(\"C2S.Implicit.Output_Voltage\", 'memoryOnly') || 0;\nvar MotorI          = global.get(\"C2S.Implicit.Output_Current\", 'memoryOnly') || 0;\nvar date            = new Date();\n\n// Date\nvar year            = date.getFullYear();\nvar month           = date.getMonth()+1;\nvar day             = date.getDate();\n\n//Time\nvar hours           = date.getHours();\nvar minutes         = date.getMinutes();\nvar seconds         = date.getSeconds();\n// Corriente y tensión de motor\nvar Rtx = global.get(\"C2S.RelTx\") || 1;\nvar Voltaje_Motor   =  MotorV * Rtx;\nvar Corriente_Motor =  MotorI / Rtx;\n\n\nmsg.payload = {\n    'fecha_hora'                : year+'/'+month+'/'+day+\" \"+hours+':'+minutes+':'+seconds,\n    'Frequency'                 : PQA != null && typeof PQA.Frequency                                          != 'undefined' ? parseFloat(PQA.Frequency).toFixed(3):\"0\",\n    'Phase_1_Voltage'           : PQA != null && typeof PQA.Phase_1_Voltage                                    != 'undefined' ? parseFloat(PQA.Phase_1_Voltage).toFixed(3):\"0\",\n    'Phase_2_Voltage'           : PQA != null && typeof PQA.Phase_2_Voltage                                    != 'undefined' ? parseFloat(PQA.Phase_2_Voltage).toFixed(3):\"0\",\n    'Phase_3_Voltage'           : PQA != null && typeof PQA.Phase_3_Voltage                                    != 'undefined' ? parseFloat(PQA.Phase_3_Voltage).toFixed(3):\"0\",\n    'Average_Phase_Voltage'     : PQA != null && typeof PQA.Average_Phase_Voltage                              != 'undefined' ? parseFloat(PQA.Average_Phase_Voltage).toFixed(3):\"0\",\n    'Line_Voltage_1_2'          : PQA != null && typeof PQA.Line_Voltage_1_2                                   != 'undefined' ? parseFloat(PQA.Line_Voltage_1_2).toFixed(3):\"0\",\n    'Line_Voltage_2_3'          : PQA != null && typeof PQA.Line_Voltage_2_3                                   != 'undefined' ? parseFloat(PQA.Line_Voltage_2_3).toFixed(3):\"0\",\n    'Line_Voltage_3_1'          : PQA != null && typeof PQA.Line_Voltage_3_1                                   != 'undefined' ? parseFloat(PQA.Line_Voltage_3_1).toFixed(3):\"0\",\n    'Average_Line_Voltage'      : PQA != null && typeof PQA.Average_Line_Voltage                               != 'undefined' ? parseFloat(PQA.Average_Line_Voltage).toFixed(3):\"0\",\n    'Total_Phase_A_Current'     : PQA != null && typeof PQA.Total_Phase_A_Current                              != 'undefined' ? parseFloat(PQA.Total_Phase_A_Current).toFixed(3):\"0\",\n    'Total_Phase_B_Current'     : PQA != null && typeof PQA.Total_Phase_B_Current                              != 'undefined' ? parseFloat(PQA.Total_Phase_B_Current).toFixed(3):\"0\",\n    'Total_Phase_C_Current'     : PQA != null && typeof PQA.Total_Phase_C_Current                              != 'undefined' ? parseFloat(PQA.Total_Phase_C_Current).toFixed(3):\"0\",\n    'Neutral_Current'           : PQA != null && typeof PQA.Neutral_Current                                    != 'undefined' ? parseFloat(PQA.Neutral_Current).toFixed(3):\"0\",\n    'Phase_A_Power'             : PQA != null && typeof PQA.Phase_A_Power                                      != 'undefined' ? parseFloat(PQA.Phase_A_Power).toFixed(3):\"0\",\n    'Phase_B_Power'             : PQA != null && typeof PQA.Phase_B_Power                                      != 'undefined' ? parseFloat(PQA.Phase_B_Power).toFixed(3):\"0\",\n    'Phase_C_Power'             : PQA != null && typeof PQA.Phase_C_Power                                      != 'undefined' ? parseFloat(PQA.Phase_C_Power).toFixed(3):\"0\",\n    'Total_System_Power'        : PQA != null && typeof PQA.Total_System_Power                                 != 'undefined' ? parseFloat(PQA.Total_System_Power).toFixed(3):\"0\",\n    'Phase_A_Reactive_Power'    : PQA != null && typeof PQA.Phase_A_Reactive_Power                             != 'undefined' ? parseFloat(PQA.Phase_A_Reactive_Power).toFixed(3):\"0\",\n    'Phase_B_Reactive_Power'    : PQA != null && typeof PQA.Phase_B_Reactive_Power                             != 'undefined' ? parseFloat(PQA.Phase_B_Reactive_Power).toFixed(3):\"0\",\n    'Phase_C_Reactive_Power'    : PQA != null && typeof PQA.Phase_C_Reactive_Power                             != 'undefined' ? parseFloat(PQA.Phase_C_Reactive_Power).toFixed(3):\"0\",\n    'Phase_A_Apparent_Power'    : PQA != null && typeof PQA.Phase_A_Apparent_Power                             != 'undefined' ? parseFloat(PQA.Phase_A_Apparent_Power).toFixed(3):\"0\",\n    'Phase_B_Apparent_Power'    : PQA != null && typeof PQA.Phase_B_Apparent_Power                             != 'undefined' ? parseFloat(PQA.Phase_B_Apparent_Power).toFixed(3):\"0\",\n    'Phase_C_Apparent_Power'    : PQA != null && typeof PQA.Phase_C_Apparent_Power                             != 'undefined' ? parseFloat(PQA.Phase_C_Apparent_Power).toFixed(3):\"0\",\n    'Output_Current'            : C2S != null && typeof C2S.Output_Current                                     != 'undefined' ? parseFloat(C2S.Output_Current).toFixed(3):\"0\",\n    'Output_Voltage'            : C2S != null && typeof C2S.Output_Voltage                                     != 'undefined' ? parseFloat(C2S.Output_Voltage).toFixed(3):\"0\",\n    'Output_Power'              : C2S != null && typeof C2S.Output_Power                                       != 'undefined' ? parseFloat(C2S.Output_Power).toFixed(3):\"0\",\n    'Output_Frequency'          : C2S != null && typeof C2S.Output_Frequency                                   != 'undefined' ? parseFloat(C2S.Output_Frequency).toFixed(3):\"0\",\n    'Power_Factor'              : C2S != null && typeof C2S.Power_Factor                                       != 'undefined' ? parseFloat(C2S.Power_Factor).toFixed(3):\"0\",\n    'Bus_DC_Volts'              : C2S != null && typeof C2S.Bus_DC_Volts                                       != 'undefined' ? parseFloat(C2S.Bus_DC_Volts).toFixed(3):\"0\",\n    'Drive_Temp_C'              : C2S != null && typeof C2S.Drive_Temp_C                                       != 'undefined' ? parseFloat(C2S.Drive_Temp_C).toFixed(3):\"0\",\n    'Elapsed_Run_Time'          : C2S != null && typeof C2S.Elapsed_Run_Time                                   != 'undefined' ? parseFloat(C2S.Elapsed_Run_Time).toFixed(3):\"0\",\n    'Last_Fault_Code'           : C2S != null && typeof C2S.Last_Fault_Code                                    != 'undefined' ? parseFloat(C2S.Last_Fault_Code).toFixed(3):\"0\",\n    'Voltaje_Motor'             : Voltaje_Motor != null && typeof Voltaje_Motor                                != 'undefined' ? parseFloat(Voltaje_Motor).toFixed(3):\"0\",\n    'Corriente_Motor'           : Corriente_Motor != null && typeof Corriente_Motor                            != 'undefined' ? parseFloat(Corriente_Motor).toFixed(3):\"0\",\n    'Presión de entrada'        : DownHoleData != null && typeof DownHoleData.DHS[\"Presión de entrada\"]         != 'undefined' ? parseFloat(DownHoleData.DHS[\"Presión de entrada\"]).toFixed(3):\"0\",\n    'Presión de descarga'       : DownHoleData != null && typeof DownHoleData.DHS[\"Presión de descarga\"]        != 'undefined' ? parseFloat(DownHoleData.DHS[\"Presión de descarga\"]).toFixed(3):\"0\",\n    'Temperatura de entrada'    : DownHoleData != null && typeof DownHoleData.DHS[\"Temperatura de entrada\"]     != 'undefined' ? parseFloat(DownHoleData.DHS[\"Temperatura de entrada\"]).toFixed(3):\"0\",\n    'Temperatura de descarga'   : DownHoleData != null && typeof DownHoleData.DHS[\"Temperatura de descarga\"]    != 'undefined' ? parseFloat(DownHoleData.DHS[\"Temperatura de descarga\"]).toFixed(3):\"0\",\n    'Temperatura de motor'      : DownHoleData != null && typeof DownHoleData.DHS[\"Temperatura de motor\"]       != 'undefined' ? parseFloat(DownHoleData.DHS[\"Temperatura de motor\"]).toFixed(3):\"0\",\n    'Vibración en X'            : DownHoleData != null && typeof DownHoleData.DHS[\"Vibración X\"]                != 'undefined' ? parseFloat(DownHoleData.DHS[\"Vibración X\"]).toFixed(3):\"0\",\n    'Vibración en Z'            : DownHoleData != null && typeof DownHoleData.DHS[\"Vibración Z\"]                != 'undefined' ? parseFloat(DownHoleData.DHS[\"Vibración Z\"]).toFixed(3):\"0\",\n    'Corriente de fuga'         : DownHoleData != null && typeof DownHoleData.DHS[\"Corriente de fuga\"]          != 'undefined' ? parseFloat(DownHoleData.DHS[\"Corriente de fuga\"]).toFixed(3):\"0\"\n    \n}\n\n// Archivo\nmsg.columns = Object.keys(msg.payload).toString();\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 1490,
         "y": 660,
         "wires": [
@@ -39771,6 +39770,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 650,
         "y": 250,
         "wires": []
@@ -39939,8 +39939,8 @@
         "type": "ui_led",
         "z": "38e901f121b52acb",
         "g": "9437db38.d604e",
-        "order": 1,
         "group": "8276e64d.c16508",
+        "order": 1,
         "width": 0,
         "height": 0,
         "label": "Estado de comunicación: {{msg.payload}}",
@@ -54922,11 +54922,12 @@
         "z": "ebaf6b5134c2a666",
         "g": "cf985e84.c7693",
         "name": "PID Config",
-        "func": "Tipo    = flow.get(\"PID.Type\")||null;\n\nif(msg.topic == \"prop_band\" ){\n    if(Tipo == \"Presion\"){\n        flow.set(\"PID.Presion.prop_band\",msg.payload);\n    }\n    else if(Tipo == \"Corriente\"){\n        flow.set(\"PID.Corriente.prop_band\",msg.payload);\n    }\n    return;\n}\nelse if(msg.topic == \"t_integral\" ){\n    if(Tipo == \"Presion\"){\n        flow.set(\"PID.Presion.t_integral\",msg.payload);\n    }\n    else if(Tipo==\"Corriente\"){\n        flow.set(\"PID.Corriente.t_integral\",msg.payload);\n    }\n    return;\n}\nelse if(msg.topic == \"t_derivative\"){\n    if(Tipo == \"Presion\"){\n        flow.set(\"PID.Presion.t_derivative\",msg.payload);\n    }\n    else if(Tipo == \"Corriente\"){\n        flow.set(\"PID.Corriente.t_derivative\",msg.payload);\n    }\n    return;    \n}\nelse if(msg.topic == \"setpoint\"){\n    if(Tipo == \"Presion\"){\n        flow.set(\"PID.Presion.setpoint\",-msg.payload);\n    }\n    else if(Tipo == \"Corriente\"){\n        flow.set(\"PID.Corriente.setpoint\",msg.payload);\n    }\n    return;\n}\n\nif(Tipo == \"Presion\"){\n    msg.prop_band       = flow.get(\"PID.Presion.prop_band\")||0;\n    msg.t_integral      = flow.get(\"PID.Presion.t_integral\")||0;\n    msg.t_derivative    = flow.get(\"PID.Presion.t_derivative\")||0;\n    msg.setpoint        = flow.get(\"PID.Presion.setpoint\")||0;\n}\nelse if(Tipo == \"Corriente\"){\n    msg.prop_band       = flow.get(\"PID.Corriente.prop_band\")||0;\n    msg.t_integral      = flow.get(\"PID.Corriente.t_integral\")||0;\n    msg.t_derivative    = flow.get(\"PID.Corriente.t_derivative\")||0;\n    msg.setpoint        = flow.get(\"PID.Corriente.setpoint\")||0;\n}\n\n//msg.enable              = flow.get(\"PID.Enable\")||false; \nnode.status({fill:\"green\",shape:\"dot\",text:\"Kp: \"+msg.prop_band+\" Ti: \"+msg.t_integral +\" Td: \"+msg.t_derivative+\" Setpoint: \"+msg.setpoint });\nreturn msg;\n",
+        "func": "var Tipo    = flow.get(\"PID.Type\")||null;\n\nif(msg.topic == \"prop_band\" ){\n    if(Tipo == \"Presion\"){\n        flow.set(\"PID.Presion.prop_band\",msg.payload);\n    }\n    else if(Tipo == \"Corriente\"){\n        flow.set(\"PID.Corriente.prop_band\",msg.payload);\n    }\n    return;\n}\nelse if(msg.topic == \"t_integral\" ){\n    if(Tipo == \"Presion\"){\n        flow.set(\"PID.Presion.t_integral\",msg.payload);\n    }\n    else if(Tipo==\"Corriente\"){\n        flow.set(\"PID.Corriente.t_integral\",msg.payload);\n    }\n    return;\n}\nelse if(msg.topic == \"t_derivative\"){\n    if(Tipo == \"Presion\"){\n        flow.set(\"PID.Presion.t_derivative\",msg.payload);\n    }\n    else if(Tipo == \"Corriente\"){\n        flow.set(\"PID.Corriente.t_derivative\",msg.payload);\n    }\n    return;    \n}\nelse if(msg.topic == \"setpoint\"){\n    if(Tipo == \"Presion\"){\n        flow.set(\"PID.Presion.setpoint\",-msg.payload);\n    }\n    else if(Tipo == \"Corriente\"){\n        flow.set(\"PID.Corriente.setpoint\",msg.payload);\n    }\n    return;\n}\n\nif(Tipo == \"Presion\"){\n    msg.prop_band       = flow.get(\"PID.Presion.prop_band\")||0;\n    msg.t_integral      = flow.get(\"PID.Presion.t_integral\")||0;\n    msg.t_derivative    = flow.get(\"PID.Presion.t_derivative\")||0;\n    msg.setpoint        = flow.get(\"PID.Presion.setpoint\")||0;\n}\nelse if(Tipo == \"Corriente\"){\n    msg.prop_band       = flow.get(\"PID.Corriente.prop_band\")||0;\n    msg.t_integral      = flow.get(\"PID.Corriente.t_integral\")||0;\n    msg.t_derivative    = flow.get(\"PID.Corriente.t_derivative\")||0;\n    msg.setpoint        = flow.get(\"PID.Corriente.setpoint\")||0;\n}\n\n//msg.enable              = flow.get(\"PID.Enable\")||false; \nnode.status({fill:\"green\",shape:\"dot\",text:\"Kp: \"+msg.prop_band+\" Ti: \"+msg.t_integral +\" Td: \"+msg.t_derivative+\" Setpoint: \"+msg.setpoint });\nreturn msg;\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 850,
         "y": 240,
         "wires": [
@@ -55082,11 +55083,12 @@
         "z": "ebaf6b5134c2a666",
         "g": "cf985e84.c7693",
         "name": "PV",
-        "func": "var Type        = flow.get(\"PID.Type\")||null;\nvar Sensor      = global.get(\"DownHoleData\",\"memoryOnly\");\nvar Pressure    = Sensor.DHS[\"Presión de entrada\"]||Sensor.AI[\"Presión de entrada\"];\nvar Current     = global.get(\"Motor.Current\",\"memoryOnly\")||0;\n\nnode.status({fill:\"green\",shape:\"dot\",text: \"Presión: \"+Pressure+\" Corriente: \"+Current});\n\nif(Type == \"Presion\"){\n    node.status({fill:\"green\",shape:\"dot\",text: \"Presión: \"+Pressure+\" Corriente: \"+Current+\" Tipo: \"+Type});\n    msg.payload = num(-Pressure);\n    return msg;\n}\nelse if(Type == \"Corriente\"){\n    node.status({fill:\"green\",shape:\"dot\",text: \"Presión: \"+Pressure+\" Corriente: \"+Current+\" Tipo: \"+Type});\n    msg.payload = num(Current);\n    return msg\n}\nelse{\n    node.status({fill:\"grey\",shape:\"dot\",text: \"Presión: \"+Pressure+\" Corriente: \"+Current+\" Tipo: Ninguno\"});\n    return; \n}\n\nfunction num(x) {\n  return parseFloat(x);\n}\n",
+        "func": "var Type        = flow.get(\"PID.Type\")||null;\nvar Sensor      = global.get(\"Process_data.DHS\",\"memoryOnly\");\nvar Pressure    = Sensor.DHS[\"Presión de entrada\"]||Sensor.AI[\"Presión de entrada\"];\nvar MotorI = global.get(\"C2S.Implicit.Output_Current\", 'memoryOnly') || 0;\nvar Rtx = global.get(\"C2S.RelTx\") || 1;\nvar Current = MotorI / Rtx;\n\n\nnode.status({fill:\"green\",shape:\"dot\",text: \"Presión: \"+Pressure+\" Corriente: \"+Current});\n\nif(Type == \"Presion\"){\n    node.status({fill:\"green\",shape:\"dot\",text: \"Presión: \"+Pressure+\" Corriente: \"+Current+\" Tipo: \"+Type});\n    msg.payload = num(-Pressure);\n    return msg;\n}\nelse if(Type == \"Corriente\"){\n    node.status({fill:\"green\",shape:\"dot\",text: \"Presión: \"+Pressure+\" Corriente: \"+Current+\" Tipo: \"+Type});\n    msg.payload = num(Current);\n    return msg\n}\nelse{\n    node.status({fill:\"grey\",shape:\"dot\",text: \"Presión: \"+Pressure+\" Corriente: \"+Current+\" Tipo: Ninguno\"});\n    return; \n}\n\nfunction num(x) {\n  return parseFloat(x);\n}\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 570,
         "y": 350,
         "wires": [
@@ -55999,11 +56001,12 @@
         "z": "ebaf6b5134c2a666",
         "g": "cf985e84.c7693",
         "name": "Banda Muerta + Reglas de activación",
-        "func": "var DHData          = global.get(\"DownHoleData\",\"memoryOnly\")||null;\nvar PIDType         = flow.get(\"PID.Type\")||\"\";\nvar DeadBand        = flow.get(\"PID.Limits.DeadBand\")||0;\n\nvar PIDEnable       = flow.get(\"PID.Enable\")||false;\nvar CEnable         = global.get(\"Protections.Load.H.Setpoint\")||0;\nvar VEnable         = global.get(\"Protections.Vibration.General.H.Setpoint\")||0;\nvar MEnable         = global.get(\"Protections.Motor.Temperature.H.Setpoint\")||0;\n\nvar CEnableLimit    = flow.get(\"PID.Activation.Current\")||0;\nvar VEnableLimit    = flow.get(\"PID.Activation.Vibration\")||0;\nvar MEnableLimit    = flow.get(\"PID.Activation.Temp\")||0;\n\n// Current\nvar Current         = global.get(\"C2S.Output_Current\")||0;\n\n// Vibration\nvar VibrationX      = DHData.DHS[\"Vibración X\"] || DHData.AI[\"Vibración X\"] || 0;\nvar VibrationZ      = DHData.DHS[\"Vibración Z\"] || DHData.AI[\"Vibración Z\"] || 0;\nvar Vibration       = VibrationX >= VibrationZ ? VibrationX:VibrationZ;\n\n// Mtr Temp\nvar MtrTemp         = DHData.DHS[\"Temperatura de motor\"] || DHData.AI[\"Temperatura de motor\"];\n\n//Rules\nvar CEnableRule     = Current   <= CEnable*CEnableLimit/100 ? true:false;\nvar VEnableRule     = Vibration <= VEnable*VEnableLimit/100 ? true:false;\nvar MtrTempRule     = MtrTemp   <= MEnable*MEnableLimit/100 ? true:false;\n\n// Activation Rule\nvar ActivationRule  = PIDEnable && CEnableRule && VEnableRule && MtrTempRule;\n\n// Dead Band Rule\nvar setpoint = 0;   var Min = 0;    var Max = 0;\n\nif(PIDType == \"Corriente\"){\n    setpoint = flow.get(\"PID.Corriente.setpoint\")||0;\n    Min = setpoint - DeadBand;\n    Max = setpoint + DeadBand;\n    if(msg.payload >= Min && msg.payload <= Max ){\n        DeadBandRule = false;\n    }\n    else{\n        DeadBandRule = true;\n    }\n}\nelse if(PIDType == \"Presion\"){\n    setpoint = flow.get(\"PID.Presion.setpoint\")||0;\n    Min = setpoint - DeadBand;\n    Max = setpoint + DeadBand;\n    if(msg.payload >= Min && msg.payload <= Max ){\n        DeadBandRule = false;\n    }\n    else{\n        DeadBandRule = true;\n    }\n}\n\n// Last asingation\nmsg.enable = ActivationRule && DeadBandRule;\nnode.status({fill:\"green\",shape:\"dot\",text:\"PID:\"+PIDEnable+\" Corriente:\"+CEnableRule+\" Vibración:\"+VEnableRule + \" Temp. Mtr:\"+MtrTempRule});\nreturn msg;",
+        "func": "var DHData          = global.get(\"DownHoleData\",\"memoryOnly\")||null;\nvar PIDType         = flow.get(\"PID.Type\")||\"\";\nvar DeadBand        = flow.get(\"PID.Limits.DeadBand\")||0;\n\nvar PIDEnable       = flow.get(\"PID.Enable\")||false;\nvar CEnable         = global.get(\"Protections.Load.H.Setpoint\")||0;\nvar VEnable         = global.get(\"Protections.Vibration.General.H.Setpoint\")||0;\nvar MEnable         = global.get(\"Protections.Motor.Temperature.H.Setpoint\")||0;\n\nvar CEnableLimit    = flow.get(\"PID.Activation.Current\")||0;\nvar VEnableLimit    = flow.get(\"PID.Activation.Vibration\")||0;\nvar MEnableLimit    = flow.get(\"PID.Activation.Temp\")||0;\n\n// Current\nvar Current         = global.get(\"C2S.Output_Current\")||0;\n\n// Vibration\nvar VibrationX      = DHData.DHS[\"Vibración X\"] || DHData.AI[\"Vibración X\"] || 0;\nvar VibrationZ      = DHData.DHS[\"Vibración Z\"] || DHData.AI[\"Vibración Z\"] || 0;\nvar Vibration       = VibrationX >= VibrationZ ? VibrationX:VibrationZ;\n\n// Mtr Temp\nvar MtrTemp         = DHData.DHS[\"Temperatura de motor\"] || DHData.AI[\"Temperatura de motor\"];\n\n//Rules\nvar CEnableRule     = Current   <= CEnable*CEnableLimit/100 ? true:false;\nvar VEnableRule     = Vibration <= VEnable*VEnableLimit/100 ? true:false;\nvar MtrTempRule     = MtrTemp   <= MEnable*MEnableLimit/100 ? true:false;\n\n// Activation Rule\nvar ActivationRule  = PIDEnable && CEnableRule && VEnableRule && MtrTempRule;\n\n// Dead Band Rule\nvar setpoint = 0;   var Min = 0;    var Max = 0;\n\nif(PIDType == \"Corriente\"){\n    setpoint = flow.get(\"PID.Corriente.setpoint\")||0;\n    Min = setpoint - DeadBand;\n    Max = setpoint + DeadBand;\n    if(msg.payload >= Min && msg.payload <= Max ){\n        var DeadBandRule = false;\n    }\n    else{\n        var DeadBandRule = true;\n    }\n}\nelse if(PIDType == \"Presion\"){\n    setpoint = flow.get(\"PID.Presion.setpoint\")||0;\n    Min = setpoint - DeadBand;\n    Max = setpoint + DeadBand;\n    if(msg.payload >= Min && msg.payload <= Max ){\n        DeadBandRule = false;\n    }\n    else{\n        DeadBandRule = true;\n    }\n}\n\n// Last asingation\nmsg.enable = ActivationRule && DeadBandRule;\nnode.status({fill:\"green\",shape:\"dot\",text:\"PID:\"+PIDEnable+\" Corriente:\"+CEnableRule+\" Vibración:\"+VEnableRule + \" Temp. Mtr:\"+MtrTempRule});\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 1170,
         "y": 240,
         "wires": [
@@ -58717,8 +58720,8 @@
         "type": "ui_led",
         "z": "7a89175c.90f6a8",
         "g": "742e267a.cbc27",
-        "order": 6,
         "group": "999747fd.0e43c8",
+        "order": 6,
         "width": 0,
         "height": 0,
         "label": "{{msg.payload}}",
@@ -58802,8 +58805,8 @@
         "type": "ui_led",
         "z": "7a89175c.90f6a8",
         "g": "76d03353.299b94",
-        "order": 6,
         "group": "9457c46f.d710c8",
+        "order": 6,
         "width": 0,
         "height": 0,
         "label": "{{msg.payload}}",
