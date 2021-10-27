@@ -911,7 +911,9 @@
             "c41a251e.427c98"
         ],
         "x": -2,
-        "y": 983
+        "y": 983,
+        "w": 1564,
+        "h": 334
     },
     {
         "id": "365d864c.8c19ca",
@@ -935,7 +937,9 @@
             "e032b1f4.a8be7"
         ],
         "x": 1692,
-        "y": 217
+        "y": 217,
+        "w": 1726,
+        "h": 2556
     },
     {
         "id": "43bab036.712ca",
@@ -950,7 +954,9 @@
             "e9d2f5f0.86a518"
         ],
         "x": -2,
-        "y": 521
+        "y": 521,
+        "w": 1564,
+        "h": 456
     },
     {
         "id": "54254b6e.789ca4",
@@ -976,7 +982,9 @@
             "16c036a47724813c"
         ],
         "x": 84,
-        "y": 1349
+        "y": 1349,
+        "w": 682,
+        "h": 282
     },
     {
         "id": "68e6bb30.d1fce4",
@@ -991,7 +999,9 @@
             "a7e99088.c8108"
         ],
         "x": -2,
-        "y": 133
+        "y": 133,
+        "w": 1564,
+        "h": 374
     },
     {
         "id": "8a04702.34fd29",
@@ -1008,7 +1018,9 @@
             "49534500.cd9cdc"
         ],
         "x": 894,
-        "y": 1329
+        "y": 1329,
+        "w": 291,
+        "h": 122
     },
     {
         "id": "ab42d2fa.9240c",
@@ -1028,7 +1040,9 @@
             "82264d68.0b05a"
         ],
         "x": 3478,
-        "y": 1723
+        "y": 1723,
+        "w": 1324,
+        "h": 664
     },
     {
         "id": "bd17e5b9.9261f8",
@@ -1048,7 +1062,9 @@
             "aa730b91.5646d8"
         ],
         "x": 3484,
-        "y": 2399
+        "y": 2399,
+        "w": 752,
+        "h": 122
     },
     {
         "id": "ec31a094.c373c",
@@ -1068,7 +1084,9 @@
             "9f627758.670cd8"
         ],
         "x": 3478,
-        "y": 143
+        "y": 143,
+        "w": 1534,
+        "h": 1574
     },
     {
         "id": "d689e3de.7d569",
@@ -1219,9 +1237,7 @@
             "6b3d4586f5261369"
         ],
         "x": 24,
-        "y": 239,
-        "w": 2762,
-        "h": 279.5
+        "y": 239
     },
     {
         "id": "deaa6892.b3d988",
@@ -1237,9 +1253,7 @@
             "31895ea6.22f372"
         ],
         "x": 14,
-        "y": 13,
-        "w": 1854,
-        "h": 214
+        "y": 13
     },
     {
         "id": "1dd5b051.a95e6",
@@ -1310,9 +1324,7 @@
             "70b2c288.8683bc"
         ],
         "x": 24,
-        "y": 529,
-        "w": 2012,
-        "h": 442
+        "y": 529
     },
     {
         "id": "f7ed166d.1aa528",
@@ -1382,7 +1394,9 @@
             "996a9142c814ab39"
         ],
         "x": 24,
-        "y": 429
+        "y": 429,
+        "w": 712,
+        "h": 242
     },
     {
         "id": "6abd418f.d175b",
@@ -1397,7 +1411,9 @@
             "b2f2659a.67f648"
         ],
         "x": 18,
-        "y": 23
+        "y": 23,
+        "w": 1754,
+        "h": 394
     },
     {
         "id": "8c207e440fb46f33",
@@ -1413,7 +1429,9 @@
             "9f77b0d829ad914b"
         ],
         "x": 514,
-        "y": 769
+        "y": 769,
+        "w": 282,
+        "h": 82
     },
     {
         "id": "38940f8.c9c27f",
@@ -1447,9 +1465,7 @@
             "6914a9b4.85f3c"
         ],
         "x": 1884,
-        "y": 239,
-        "w": 432,
-        "h": 82
+        "y": 239
     },
     {
         "id": "9437db38.d604e",
@@ -1473,9 +1489,7 @@
             "03a3b206eac12d39"
         ],
         "x": 1884,
-        "y": 69,
-        "w": 1042,
-        "h": 162
+        "y": 69
     },
     {
         "id": "af8e6105.775618",
@@ -1497,9 +1511,7 @@
             "67ba4794.6cf57"
         ],
         "x": 164,
-        "y": 69,
-        "w": 752,
-        "h": 132
+        "y": 69
     },
     {
         "id": "d84d4fbe.ee6ce",
@@ -1518,9 +1530,7 @@
             "a7f0f525.ae1878"
         ],
         "x": 164,
-        "y": 209,
-        "w": 602,
-        "h": 122
+        "y": 209
     },
     {
         "id": "ef81d12e3dd41149",
@@ -1550,9 +1560,7 @@
             "1d797f4ca9b83896"
         ],
         "x": 924,
-        "y": 69,
-        "w": 952,
-        "h": 322
+        "y": 69
     },
     {
         "id": "e29eaee41e038edd",
@@ -1909,7 +1917,9 @@
             "9faabcc1f09b24a8"
         ],
         "x": 1394,
-        "y": 89
+        "y": 89,
+        "w": 662,
+        "h": 272
     },
     {
         "id": "fbbdc4b7.95b5c8",
@@ -1985,7 +1995,9 @@
             "500204b3b5e576ab"
         ],
         "x": 34,
-        "y": 393
+        "y": 393,
+        "w": 1988,
+        "h": 848
     },
     {
         "id": "d84615.919209e8",
@@ -2165,7 +2177,9 @@
             "6625e1db09743bc3"
         ],
         "x": -2,
-        "y": 2193
+        "y": 2193,
+        "w": 1504,
+        "h": 294
     },
     {
         "id": "854dec5e.9e51d",
@@ -2453,9 +2467,7 @@
             "6f1452c6eef9db91"
         ],
         "x": 24,
-        "y": 509,
-        "w": 932,
-        "h": 432
+        "y": 509
     },
     {
         "id": "4ae0fd0ca9645309",
@@ -2482,9 +2494,7 @@
             "077d5433f197a20c"
         ],
         "x": 24,
-        "y": 19,
-        "w": 932,
-        "h": 482
+        "y": 19
     },
     {
         "id": "76bd25c71a8d7775",
@@ -2523,9 +2533,7 @@
             "3176ad7a0b3bbd81"
         ],
         "x": 24,
-        "y": 949,
-        "w": 932,
-        "h": 1132
+        "y": 949
     },
     {
         "id": "afdbbb533d628687",
@@ -2583,9 +2591,7 @@
             "b5ec8494.5a8578"
         ],
         "x": 984,
-        "y": 49,
-        "w": 1182,
-        "h": 312
+        "y": 49
     },
     {
         "id": "ba075c8cc622876a",
@@ -2605,7 +2611,9 @@
             "8a8fcb5375e06087"
         ],
         "x": 14,
-        "y": 2489
+        "y": 2489,
+        "w": 682,
+        "h": 122
     },
     {
         "id": "6939ff44.377fa",
@@ -2627,7 +2635,9 @@
             "1b972dc0d731bd9c"
         ],
         "x": 3484,
-        "y": 2529
+        "y": 2529,
+        "w": 632,
+        "h": 162
     },
     {
         "id": "23c99fd.b16886",
@@ -2899,7 +2909,9 @@
             "4b2d01032ad01b5f"
         ],
         "x": 884,
-        "y": 1009
+        "y": 1009,
+        "w": 652,
+        "h": 282
     },
     {
         "id": "c41a251e.427c98",
@@ -2929,7 +2941,9 @@
             "43ef002844a8d559"
         ],
         "x": 24,
-        "y": 1009
+        "y": 1009,
+        "w": 862,
+        "h": 202
     },
     {
         "id": "e032b1f4.a8be7",
@@ -2950,7 +2964,9 @@
             "4a1410ce.7057a"
         ],
         "x": 1798,
-        "y": 243
+        "y": 243,
+        "w": 1594,
+        "h": 1024
     },
     {
         "id": "9bb5d411.271d48",
@@ -2971,7 +2987,9 @@
             "44ee5bb3.49b264"
         ],
         "x": 1818,
-        "y": 1273
+        "y": 1273,
+        "w": 1574,
+        "h": 494
     },
     {
         "id": "8ac2b187.14625",
@@ -2992,7 +3010,9 @@
             "efe6d3f.f10193"
         ],
         "x": 1768,
-        "y": 1783
+        "y": 1783,
+        "w": 1624,
+        "h": 254
     },
     {
         "id": "dd0fb9ab.f737f8",
@@ -3013,7 +3033,9 @@
             "de31a457.a923c8"
         ],
         "x": 1718,
-        "y": 2053
+        "y": 2053,
+        "w": 1674,
+        "h": 254
     },
     {
         "id": "dad86215.ed79c",
@@ -3034,7 +3056,9 @@
             "baaa353b.511268"
         ],
         "x": 1818,
-        "y": 2373
+        "y": 2373,
+        "w": 1574,
+        "h": 374
     },
     {
         "id": "27c43941.e9e0c6",
@@ -3073,7 +3097,9 @@
             "b654921e2eaadb16"
         ],
         "x": 24,
-        "y": 549
+        "y": 549,
+        "w": 772,
+        "h": 322
     },
     {
         "id": "e9d2f5f0.86a518",
@@ -3106,7 +3132,9 @@
             "8307ca17.c4d5b8"
         ],
         "x": 804,
-        "y": 547
+        "y": 547,
+        "w": 732,
+        "h": 404
     },
     {
         "id": "6cdd72bc.8124cc",
@@ -3136,7 +3164,9 @@
             "154f8bca3ba4d547"
         ],
         "x": 24,
-        "y": 159
+        "y": 159,
+        "w": 752,
+        "h": 202
     },
     {
         "id": "a7e99088.c8108",
@@ -3167,7 +3197,9 @@
             "aa882bcf32d6610f"
         ],
         "x": 784,
-        "y": 159
+        "y": 159,
+        "w": 752,
+        "h": 322
     },
     {
         "id": "78a8be83.7018c",
@@ -3198,7 +3230,9 @@
             "3f3a83c71b2f5a67"
         ],
         "x": 3504,
-        "y": 1879
+        "y": 1879,
+        "w": 1272,
+        "h": 482
     },
     {
         "id": "82264d68.0b05a",
@@ -3219,7 +3253,9 @@
             "353f1b5f0e990fc0"
         ],
         "x": 3504,
-        "y": 1749
+        "y": 1749,
+        "w": 682,
+        "h": 122
     },
     {
         "id": "4af99851.bcfb28",
@@ -3289,7 +3325,9 @@
             "2e21c9cebde6f3b5"
         ],
         "x": 3504,
-        "y": 169
+        "y": 169,
+        "w": 832,
+        "h": 1522
     },
     {
         "id": "9f627758.670cd8",
@@ -3362,7 +3400,9 @@
             "867daec35cee2f96"
         ],
         "x": 4344,
-        "y": 169
+        "y": 169,
+        "w": 642,
+        "h": 562
     },
     {
         "id": "71fd37.e2a532c8",
@@ -3496,9 +3536,7 @@
             "c8dda58c.1ca2c8"
         ],
         "x": 40,
-        "y": 39,
-        "w": 902,
-        "h": 162
+        "y": 39
     },
     {
         "id": "31895ea6.22f372",
@@ -3526,9 +3564,7 @@
             "c42f5649.4492d8"
         ],
         "x": 950,
-        "y": 39,
-        "w": 892,
-        "h": 162
+        "y": 39
     },
     {
         "id": "f3c2e7cf.5ed158",
@@ -3638,7 +3674,9 @@
             "c30439cc.4bcb68"
         ],
         "x": 44,
-        "y": 49
+        "y": 49,
+        "w": 1422,
+        "h": 212
     },
     {
         "id": "b2f2659a.67f648",
@@ -3665,7 +3703,9 @@
             "e92736fb1766d1e0"
         ],
         "x": 44,
-        "y": 269
+        "y": 269,
+        "w": 1702,
+        "h": 122
     },
     {
         "id": "70a63b74.44894c",
@@ -3789,7 +3829,9 @@
             "97085297.91fc4"
         ],
         "x": 1324,
-        "y": 419
+        "y": 419,
+        "w": 672,
+        "h": 202
     },
     {
         "id": "675af0d1.a9fc4",
@@ -4028,7 +4070,9 @@
             "c7ce33ac338a9db9"
         ],
         "x": 24,
-        "y": 2219
+        "y": 2219,
+        "w": 1452,
+        "h": 242
     },
     {
         "id": "c30870cb.fa25a",
@@ -4543,7 +4587,9 @@
             "3562934e5b0cf017"
         ],
         "x": 1844,
-        "y": 1299
+        "y": 1299,
+        "w": 872,
+        "h": 442
     },
     {
         "id": "37d2bc6e.615114",
@@ -4573,7 +4619,9 @@
             "8dde271ff1d969fa"
         ],
         "x": 1794,
-        "y": 1809
+        "y": 1809,
+        "w": 912,
+        "h": 202
     },
     {
         "id": "de31a457.a923c8",
@@ -4605,7 +4653,9 @@
             "dde585da45828626"
         ],
         "x": 1744,
-        "y": 2079
+        "y": 2079,
+        "w": 972,
+        "h": 202
     },
     {
         "id": "e5ce125e.59232",
@@ -4682,7 +4732,9 @@
             "7f16c2134718aa10"
         ],
         "x": 2704,
-        "y": 269
+        "y": 269,
+        "w": 662,
+        "h": 642
     },
     {
         "id": "44ee5bb3.49b264",
@@ -4743,7 +4795,9 @@
             "89b7b336cfb8b746"
         ],
         "x": 2714,
-        "y": 1299
+        "y": 1299,
+        "w": 652,
+        "h": 442
     },
     {
         "id": "efe6d3f.f10193",
@@ -4780,7 +4834,9 @@
             "d5fd47a5a4155735"
         ],
         "x": 2714,
-        "y": 1809
+        "y": 1809,
+        "w": 652,
+        "h": 202
     },
     {
         "id": "826b087f.5615a8",
@@ -4813,7 +4869,9 @@
             "2a899511c5694e05"
         ],
         "x": 2714,
-        "y": 2079
+        "y": 2079,
+        "w": 652,
+        "h": 182
     },
     {
         "id": "372b998e.a167c6",
@@ -4852,7 +4910,9 @@
             "7eba7a6f755e91c4"
         ],
         "x": 1844,
-        "y": 2399
+        "y": 2399,
+        "w": 862,
+        "h": 322
     },
     {
         "id": "baaa353b.511268",
@@ -4901,7 +4961,9 @@
             "43ab53b4e42bdc3a"
         ],
         "x": 2714,
-        "y": 2399
+        "y": 2399,
+        "w": 652,
+        "h": 322
     },
     {
         "id": "4a1410ce.7057a",
@@ -4966,7 +5028,9 @@
             "c86957e47636c7a3"
         ],
         "x": 1824,
-        "y": 269
+        "y": 269,
+        "w": 882,
+        "h": 972
     },
     {
         "id": "76d03353.299b94",
@@ -38612,7 +38676,7 @@
                 "t": "set",
                 "p": "C2S.IP",
                 "pt": "global",
-                "to": "192.168.2.100",
+                "to": "192.168.2.10",
                 "tot": "str"
             }
         ],
@@ -54901,11 +54965,12 @@
         "z": "ebaf6b5134c2a666",
         "g": "cf985e84.c7693",
         "name": "Escala y Límites",
-        "func": "var max         = global.get(\"Speed_Control.MaxLimit\")||60;\nvar URef        = global.get(\"Ultima_Referencia\")||0;\nvar DeltaMax    = flow.get(\"PID.Limits.Delta_Hz_Max\")||1;\nvar DeltaMin    = flow.get(\"PID.Limits.Delta_Hz_Min\")||1;\n\nvar MaxHz       = (URef+DeltaMax)*10000;\nvar MinHz       = (URef-DeltaMin)*10000;\n\n//Escala Control PID\nb = [0,max];\nmsg.payload = Escalizar(b,msg.payload)*10000;\n\n//Limites\nif(msg.payload > MaxHz){\n    msg.payload = MaxHz;\n}\nelse if(msg.payload < MinHz){\n    msg.payload = MinHz;\n}\n\nmsg.MaxHz = MaxHz/10000;\nmsg.MinHz = MinHz/10000;\n\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload});\nreturn msg;\n\nfunction Escalizar(b,value){\n    a = [0,1];\n    // Mapeo\n    if(b !== null && typeof b[0] == 'number' && typeof b[1] == 'number' ){\n        var t = b[0] + ((value - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseFloat(t.toFixed(2));\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}\n\n//Fuente: https://rosettacode.org/wiki/Map_range",
+        "func": "var max         = global.get(\"C2S.Speed_Control.MaxLimit\")||60;\nvar URef        = global.get(\"C2S.Last_Reference.Value\")||0;\nvar DeltaMax    = flow.get(\"PID.Limits.Delta_Hz_Max\")||1;\nvar DeltaMin    = flow.get(\"PID.Limits.Delta_Hz_Min\")||1;\n\nvar MaxHz       = (URef+DeltaMax)*10000;\nvar MinHz       = (URef-DeltaMin)*10000;\n\n//Escala Control PID\nvar b = [0,max];\nmsg.payload = Escalizar(b,msg.payload)*10000;\n\n//Limites\nif(msg.payload > MaxHz){\n    msg.payload = MaxHz;\n}\nelse if(msg.payload < MinHz){\n    msg.payload = MinHz;\n}\n\nmsg.MaxHz = MaxHz/10000;\nmsg.MinHz = MinHz/10000;\n\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload});\nreturn msg;\n\nfunction Escalizar(b,value){\n    var a = [0,1];\n    // Mapeo\n    if(b !== null && typeof b[0] == 'number' && typeof b[1] == 'number' ){\n        var t = b[0] + ((value - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseFloat(t.toFixed(2));\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}\n\n//Fuente: https://rosettacode.org/wiki/Map_range",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 1540,
         "y": 240,
         "wires": [
@@ -56001,7 +56066,7 @@
         "z": "ebaf6b5134c2a666",
         "g": "cf985e84.c7693",
         "name": "Banda Muerta + Reglas de activación",
-        "func": "var DHData          = global.get(\"DownHoleData\",\"memoryOnly\")||null;\nvar PIDType         = flow.get(\"PID.Type\")||\"\";\nvar DeadBand        = flow.get(\"PID.Limits.DeadBand\")||0;\n\nvar PIDEnable       = flow.get(\"PID.Enable\")||false;\nvar CEnable         = global.get(\"Protections.Load.H.Setpoint\")||0;\nvar VEnable         = global.get(\"Protections.Vibration.General.H.Setpoint\")||0;\nvar MEnable         = global.get(\"Protections.Motor.Temperature.H.Setpoint\")||0;\n\nvar CEnableLimit    = flow.get(\"PID.Activation.Current\")||0;\nvar VEnableLimit    = flow.get(\"PID.Activation.Vibration\")||0;\nvar MEnableLimit    = flow.get(\"PID.Activation.Temp\")||0;\n\n// Current\nvar Current         = global.get(\"C2S.Output_Current\")||0;\n\n// Vibration\nvar VibrationX      = DHData.DHS[\"Vibración X\"] || DHData.AI[\"Vibración X\"] || 0;\nvar VibrationZ      = DHData.DHS[\"Vibración Z\"] || DHData.AI[\"Vibración Z\"] || 0;\nvar Vibration       = VibrationX >= VibrationZ ? VibrationX:VibrationZ;\n\n// Mtr Temp\nvar MtrTemp         = DHData.DHS[\"Temperatura de motor\"] || DHData.AI[\"Temperatura de motor\"];\n\n//Rules\nvar CEnableRule     = Current   <= CEnable*CEnableLimit/100 ? true:false;\nvar VEnableRule     = Vibration <= VEnable*VEnableLimit/100 ? true:false;\nvar MtrTempRule     = MtrTemp   <= MEnable*MEnableLimit/100 ? true:false;\n\n// Activation Rule\nvar ActivationRule  = PIDEnable && CEnableRule && VEnableRule && MtrTempRule;\n\n// Dead Band Rule\nvar setpoint = 0;   var Min = 0;    var Max = 0;\n\nif(PIDType == \"Corriente\"){\n    setpoint = flow.get(\"PID.Corriente.setpoint\")||0;\n    Min = setpoint - DeadBand;\n    Max = setpoint + DeadBand;\n    if(msg.payload >= Min && msg.payload <= Max ){\n        var DeadBandRule = false;\n    }\n    else{\n        var DeadBandRule = true;\n    }\n}\nelse if(PIDType == \"Presion\"){\n    setpoint = flow.get(\"PID.Presion.setpoint\")||0;\n    Min = setpoint - DeadBand;\n    Max = setpoint + DeadBand;\n    if(msg.payload >= Min && msg.payload <= Max ){\n        DeadBandRule = false;\n    }\n    else{\n        DeadBandRule = true;\n    }\n}\n\n// Last asingation\nmsg.enable = ActivationRule && DeadBandRule;\nnode.status({fill:\"green\",shape:\"dot\",text:\"PID:\"+PIDEnable+\" Corriente:\"+CEnableRule+\" Vibración:\"+VEnableRule + \" Temp. Mtr:\"+MtrTempRule});\nreturn msg;",
+        "func": "var DHData          = global.get(\"Process_data.DHS\",\"memoryOnly\")||null;\nvar PIDType         = flow.get(\"PID.Type\")||\"\";\nvar DeadBand        = flow.get(\"PID.Limits.DeadBand\")||0;\n\nvar PIDEnable       = flow.get(\"PID.Enable\")||false;\nvar CEnable         = global.get(\"Protections.Load.H.Setpoint\")||0;\nvar VEnable         = global.get(\"Protections.Vibration.General.H.Setpoint\")||0;\nvar MEnable         = global.get(\"Protections.Motor.Temperature.H.Setpoint\")||0;\n\nvar CEnableLimit    = flow.get(\"PID.Activation.Current\")||0;\nvar VEnableLimit    = flow.get(\"PID.Activation.Vibration\")||0;\nvar MEnableLimit    = flow.get(\"PID.Activation.Temp\")||0;\n\n// Current\nvar Current = global.get(\"C2S.Implicit.Output_Current\",\"memoryOnly\")||0;\n\n// Vibration\nvar VibrationX      = DHData.DHS[\"Vibración X\"] || DHData.AI[\"Vibración X\"] || 0;\nvar VibrationZ      = DHData.DHS[\"Vibración Z\"] || DHData.AI[\"Vibración Z\"] || 0;\nvar Vibration       = VibrationX >= VibrationZ ? VibrationX:VibrationZ;\n\n// Mtr Temp\nvar MtrTemp         = DHData.DHS[\"Temperatura de motor\"] || DHData.AI[\"Temperatura de motor\"];\n\n//Rules\nvar CEnableRule     = Current   <= CEnable*CEnableLimit/100 ? true:false;\nvar VEnableRule     = Vibration <= VEnable*VEnableLimit/100 ? true:false;\nvar MtrTempRule     = MtrTemp   <= MEnable*MEnableLimit/100 ? true:false;\n\n// Activation Rule\nvar ActivationRule  = PIDEnable && CEnableRule && VEnableRule && MtrTempRule;\n\n// Dead Band Rule\nvar setpoint = 0;   var Min = 0;    var Max = 0;\n\nif(PIDType == \"Corriente\"){\n    setpoint = flow.get(\"PID.Corriente.setpoint\")||0;\n    Min = setpoint - DeadBand;\n    Max = setpoint + DeadBand;\n    if(msg.payload >= Min && msg.payload <= Max ){\n        var DeadBandRule = false;\n    }\n    else{\n        var DeadBandRule = true;\n    }\n}\nelse if(PIDType == \"Presion\"){\n    setpoint = flow.get(\"PID.Presion.setpoint\")||0;\n    Min = setpoint - DeadBand;\n    Max = setpoint + DeadBand;\n    if(msg.payload >= Min && msg.payload <= Max ){\n        DeadBandRule = false;\n    }\n    else{\n        DeadBandRule = true;\n    }\n}\n\n// Last asingation\nmsg.enable = ActivationRule && DeadBandRule;\nnode.status({fill:\"green\",shape:\"dot\",text:\"PID:\"+PIDEnable+\" Corriente:\"+CEnableRule+\" Vibración:\"+VEnableRule + \" Temp. Mtr:\"+MtrTempRule});\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -56237,11 +56302,12 @@
         "z": "ebaf6b5134c2a666",
         "g": "cf985e84.c7693",
         "name": "U. Ref.",
-        "func": "msg.payload = msg.payload/10000;\nglobal.set(\"Ultima_Referencia\",msg.payload);\nreturn msg;",
+        "func": "msg.payload = msg.payload/10000;\nglobal.set(\"C2S.Last_Reference.Value\",msg.payload);\nreturn msg;",
         "outputs": 0,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 1860,
         "y": 330,
         "wires": []
