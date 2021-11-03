@@ -877,7 +877,9 @@
             "61c02e812fb48b72"
         ],
         "x": 24,
-        "y": 609
+        "y": 609,
+        "w": 2632,
+        "h": 552
     },
     {
         "id": "3cb51855.a66038",
@@ -892,7 +894,9 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169
+        "y": 1169,
+        "w": 232,
+        "h": 82
     },
     {
         "id": "27a0641a.d154dc",
@@ -1105,7 +1109,9 @@
             "566c907c.70175"
         ],
         "x": 28,
-        "y": 33
+        "y": 33,
+        "w": 1264,
+        "h": 574
     },
     {
         "id": "9132da2c.b8c6b8",
@@ -1147,7 +1153,9 @@
             "7c55c2ad.611734"
         ],
         "x": 22,
-        "y": 637
+        "y": 637,
+        "w": 3146,
+        "h": 2266
     },
     {
         "id": "c3a35f81.5c82b8",
@@ -1170,7 +1178,9 @@
             "d961a2f.f52ad6"
         ],
         "x": 1874,
-        "y": 129
+        "y": 129,
+        "w": 902,
+        "h": 162
     },
     {
         "id": "9b538856.60fb38",
@@ -1215,9 +1225,7 @@
             "6b3d4586f5261369"
         ],
         "x": 24,
-        "y": 239,
-        "w": 2762,
-        "h": 279.5
+        "y": 239
     },
     {
         "id": "deaa6892.b3d988",
@@ -1233,9 +1241,7 @@
             "31895ea6.22f372"
         ],
         "x": 24,
-        "y": 13,
-        "w": 1844,
-        "h": 214
+        "y": 13
     },
     {
         "id": "1dd5b051.a95e6",
@@ -1306,9 +1312,7 @@
             "70b2c288.8683bc"
         ],
         "x": 24,
-        "y": 529,
-        "w": 2012,
-        "h": 442
+        "y": 529
     },
     {
         "id": "f7ed166d.1aa528",
@@ -1449,7 +1453,9 @@
             "6914a9b4.85f3c"
         ],
         "x": 1884,
-        "y": 239
+        "y": 239,
+        "w": 432,
+        "h": 82
     },
     {
         "id": "9437db38.d604e",
@@ -1473,7 +1479,9 @@
             "03a3b206eac12d39"
         ],
         "x": 1884,
-        "y": 69
+        "y": 69,
+        "w": 1042,
+        "h": 162
     },
     {
         "id": "af8e6105.775618",
@@ -1495,7 +1503,9 @@
             "67ba4794.6cf57"
         ],
         "x": 164,
-        "y": 69
+        "y": 69,
+        "w": 752,
+        "h": 132
     },
     {
         "id": "d84d4fbe.ee6ce",
@@ -1514,7 +1524,9 @@
             "a7f0f525.ae1878"
         ],
         "x": 164,
-        "y": 209
+        "y": 209,
+        "w": 602,
+        "h": 122
     },
     {
         "id": "ef81d12e3dd41149",
@@ -1544,7 +1556,9 @@
             "1d797f4ca9b83896"
         ],
         "x": 924,
-        "y": 69
+        "y": 69,
+        "w": 952,
+        "h": 322
     },
     {
         "id": "e29eaee41e038edd",
@@ -2087,7 +2101,9 @@
             "d12eb94c947d2994"
         ],
         "x": 1364,
-        "y": 299
+        "y": 299,
+        "w": 1822,
+        "h": 282
     },
     {
         "id": "2fa4e5be63ea61ce",
@@ -2107,7 +2123,9 @@
             "da3d5f3ce168e7d3"
         ],
         "x": 1364,
-        "y": 59
+        "y": 59,
+        "w": 482,
+        "h": 232
     },
     {
         "id": "2bb641e0f5f82309",
@@ -2123,7 +2141,9 @@
             "80a9920a.43161"
         ],
         "x": 42,
-        "y": 2927
+        "y": 2927,
+        "w": 3020,
+        "h": 1400
     },
     {
         "id": "e3aa057d.09fb18",
@@ -2234,7 +2254,9 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269
+        "y": 1269,
+        "w": 352,
+        "h": 82
     },
     {
         "id": "6202107f.ed9aa",
@@ -2309,7 +2331,9 @@
             "6a4b869a.479368"
         ],
         "x": 44,
-        "y": -1
+        "y": -1,
+        "w": 1992,
+        "h": 602
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -2328,7 +2352,9 @@
             "f401446baabcbb6e"
         ],
         "x": 3224,
-        "y": 3
+        "y": 3,
+        "w": 1284,
+        "h": 1554
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -2349,7 +2375,9 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169
+        "y": 1169,
+        "w": 782,
+        "h": 182
     },
     {
         "id": "086b9d08c3b68939",
@@ -2379,7 +2407,9 @@
             "43dcdfeaddbb3ac6"
         ],
         "x": 24,
-        "y": 1359
+        "y": 1359,
+        "w": 1022,
+        "h": 292
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -2405,7 +2435,9 @@
             "03894c480a20a7a9"
         ],
         "x": 24,
-        "y": 1679
+        "y": 1679,
+        "w": 1222,
+        "h": 202
     },
     {
         "id": "15680a1387d655eb",
@@ -2512,7 +2544,9 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679
+        "y": 1679,
+        "w": 332,
+        "h": 82
     },
     {
         "id": "69ad07e.039c4f8",
@@ -2661,6 +2695,28 @@
         "info": "# Condiciones\nSólo funciona si el nombre del proyecto es \"CILA2S-ESP-SWCPRO_AFE\""
     },
     {
+        "id": "99f852c5119b5b53",
+        "type": "group",
+        "z": "dd18d94e.4b1408",
+        "name": "Evento falla de variador",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "94fc99927ef7085f",
+            "ffed335e3fd9654d",
+            "0f34dc8bf4cd0346",
+            "44ebb6ba7fe3b218",
+            "b49871ebcefa0a84",
+            "b88575ca75fdb4f5"
+        ],
+        "x": 754,
+        "y": 429,
+        "w": 922,
+        "h": 82
+    },
+    {
         "id": "b079c206d161b62c",
         "type": "group",
         "z": "902fc438.e5d758",
@@ -2683,7 +2739,9 @@
             "8d6f8e22ed531a56"
         ],
         "x": 3434,
-        "y": 29
+        "y": 29,
+        "w": 492,
+        "h": 402
     },
     {
         "id": "f7709059ebe5ad7b",
@@ -2699,7 +2757,9 @@
             "aafad2ba.dcc8b"
         ],
         "x": 3428,
-        "y": 443
+        "y": 443,
+        "w": 1054,
+        "h": 634
     },
     {
         "id": "c483d44b5f6def10",
@@ -2725,7 +2785,9 @@
             "45aad8d3129156ca"
         ],
         "x": 3424,
-        "y": 1089
+        "y": 1089,
+        "w": 472,
+        "h": 442
     },
     {
         "id": "77dcd918.f8c298",
@@ -2763,7 +2825,9 @@
             "742e267a.cbc27"
         ],
         "x": 68,
-        "y": 2973
+        "y": 2973,
+        "w": 1284,
+        "h": 594
     },
     {
         "id": "80a9920a.43161",
@@ -2832,7 +2896,9 @@
             "2437732b.dd79cc"
         ],
         "x": 1368,
-        "y": 2953
+        "y": 2953,
+        "w": 1668,
+        "h": 1348
     },
     {
         "id": "1306de9a.9ba341",
@@ -3368,7 +3434,9 @@
             "868cefce.6694a"
         ],
         "x": 54,
-        "y": 59
+        "y": 59,
+        "w": 1212,
+        "h": 362
     },
     {
         "id": "566c907c.70175",
@@ -3392,7 +3460,9 @@
             "3f94e47b8b495988"
         ],
         "x": 54,
-        "y": 429
+        "y": 429,
+        "w": 1002,
+        "h": 152
     },
     {
         "id": "f167459.5f028b8",
@@ -3411,7 +3481,9 @@
             "49c39e.d1336c64"
         ],
         "x": 48,
-        "y": 703
+        "y": 703,
+        "w": 1714,
+        "h": 2174
     },
     {
         "id": "7c55c2ad.611734",
@@ -3429,7 +3501,9 @@
             "c4bcf1ca.3d67d"
         ],
         "x": 1778,
-        "y": 663
+        "y": 663,
+        "w": 1364,
+        "h": 1121.5
     },
     {
         "id": "b1830307.ee865",
@@ -3457,9 +3531,7 @@
             "c8dda58c.1ca2c8"
         ],
         "x": 50,
-        "y": 39,
-        "w": 892,
-        "h": 162
+        "y": 39
     },
     {
         "id": "31895ea6.22f372",
@@ -3487,9 +3559,7 @@
             "c42f5649.4492d8"
         ],
         "x": 950,
-        "y": 39,
-        "w": 892,
-        "h": 162
+        "y": 39
     },
     {
         "id": "f3c2e7cf.5ed158",
@@ -3625,7 +3695,8 @@
             "0215c9c0562ad541",
             "ebf423611202c084",
             "d2bf0a88cc35bf5f",
-            "e92736fb1766d1e0"
+            "e92736fb1766d1e0",
+            "de16ee9e71fc7646"
         ],
         "x": 44,
         "y": 269,
@@ -4262,7 +4333,9 @@
             "bab4ea5e8e01f9aa"
         ],
         "x": 194,
-        "y": 399
+        "y": 399,
+        "w": 852,
+        "h": 82
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -4290,7 +4363,9 @@
             "1f3630da2492d4f9"
         ],
         "x": 3454,
-        "y": 839
+        "y": 839,
+        "w": 1002,
+        "h": 212
     },
     {
         "id": "36fa9c99094e8f47",
@@ -4314,7 +4389,9 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 469
+        "y": 469,
+        "w": 402,
+        "h": 362
     },
     {
         "id": "742e267a.cbc27",
@@ -4370,7 +4447,9 @@
             "ec7a9df336d4ffeb"
         ],
         "x": 94,
-        "y": 2999
+        "y": 2999,
+        "w": 1232,
+        "h": 542
     },
     {
         "id": "f6e2a6e0.47efb8",
@@ -4409,7 +4488,9 @@
             "b6a4e02ca271262e"
         ],
         "x": 1394,
-        "y": 2979
+        "y": 2979,
+        "w": 1232,
+        "h": 322
     },
     {
         "id": "edfe6c51.d89c68",
@@ -4446,7 +4527,9 @@
             "466d829c.38acdc"
         ],
         "x": 1394,
-        "y": 3299
+        "y": 3299,
+        "w": 722,
+        "h": 442
     },
     {
         "id": "16097ef1.129291",
@@ -4981,7 +5064,9 @@
             "901abd09c7f1d327"
         ],
         "x": 74,
-        "y": 729
+        "y": 729,
+        "w": 1242,
+        "h": 842
     },
     {
         "id": "f68d7eac.63fb98",
@@ -5011,7 +5096,9 @@
             "dc7c0e6833d4017c"
         ],
         "x": 84,
-        "y": 2669
+        "y": 2669,
+        "w": 892,
+        "h": 182
     },
     {
         "id": "d532ac68.2d5408",
@@ -5066,7 +5153,9 @@
             "b11471d1de6d950b"
         ],
         "x": 1824,
-        "y": 689
+        "y": 689,
+        "w": 1292,
+        "h": 502
     },
     {
         "id": "c4bcf1ca.3d67d",
@@ -5128,7 +5217,9 @@
             "594a5a3dcc0b18eb"
         ],
         "x": 1804,
-        "y": 1219
+        "y": 1219,
+        "w": 1292,
+        "h": 539.5
     },
     {
         "id": "a80677cf.4274c8",
@@ -5480,28 +5571,74 @@
             "38362b7a.04f554"
         ],
         "x": 84,
-        "y": 1579
+        "y": 1579,
+        "w": 1652,
+        "h": 1032
     },
     {
-        "id": "99f852c5119b5b53",
+        "id": "d175fb986dc9e991",
         "type": "group",
         "z": "dd18d94e.4b1408",
-        "name": "Evento falla de variador",
+        "name": "Evento fall de comunicación variador",
         "style": {
             "label": true,
             "color": "#000000"
         },
         "nodes": [
-            "94fc99927ef7085f",
-            "ffed335e3fd9654d",
-            "0f34dc8bf4cd0346",
-            "44ebb6ba7fe3b218",
-            "b49871ebcefa0a84",
-            "b88575ca75fdb4f5"
+            "ea439131b129c5a9",
+            "bc544a78433690f9",
+            "821b4474f56a4e2b",
+            "b91663a01c07d6d6",
+            "33c1f1be24c94e75",
+            "36c70d85dac8cd26"
         ],
         "x": 754,
-        "y": 429,
+        "y": 519,
         "w": 922,
+        "h": 82
+    },
+    {
+        "id": "62fac95632266b01",
+        "type": "group",
+        "z": "38e901f121b52acb",
+        "name": "Evento fall de comunicación Sensor de fondo",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "0f0573bfc77396d5",
+            "d6ed5fb294847658",
+            "6ef36a66a2f5f9eb",
+            "f84b1d2c053bb108",
+            "e4284fa872b282d4",
+            "97b2eb182dd8a393"
+        ],
+        "x": 1884,
+        "y": 329,
+        "w": 922,
+        "h": 82
+    },
+    {
+        "id": "3870a1febf5ca6cd",
+        "type": "group",
+        "z": "7a89175c.90f6a8",
+        "name": "Evento fall de comunicación Cubloc",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "263139143d9816a4",
+            "b27809489ed779af",
+            "07fc4efe04c3c3b6",
+            "8c336a7303babc6b",
+            "f47e603b7bfb8ccf",
+            "4d36e0c084ccff5d"
+        ],
+        "x": 1874,
+        "y": 39,
+        "w": 902,
         "h": 82
     },
     {
@@ -10736,7 +10873,7 @@
         "order": 4,
         "width": 3,
         "height": "3",
-        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n</head>\n\n<body>\n    <div class=\"container align-self-center\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col\">\n                <img src=\"http://localhost:1880/swcpro-images/hlogo.png\" style=\"width:75%;\">\n            </div>\n        </div>\n    </div>\n    <div class=\"container align-self-center\">\n        <div class=\"row justify-content-center\">\n            <h5><span class=\"badge badge-secondary\">Versión: RB 1.7.3</span></h5>\n        </div>\n    </div>\n</body>\n\n<script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n<script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n<script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script>\n\n<style>\n    .disable-select {\n        user-select: none;\n        /* supported by Chrome and Opera */\n        -webkit-user-select: none;\n        /* Safari */\n        -khtml-user-select: none;\n        /* Konqueror HTML */\n        -moz-user-select: none;\n        /* Firefox */\n        -ms-user-select: none;\n        /* Internet Explorer/Edge */\n    }\n\n    .imagen {\n        height: 90px;\n        background-image: url(http://localhost:1880/swcpro-images/hlogo.png);\n        background-size: contain;\n        background-repeat: no-repeat;\n        background-position: center center;\n    }\n</style>\n\n</html>",
+        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n</head>\n\n<body>\n    <div class=\"container align-self-center\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col\">\n                <img src=\"http://localhost:1880/swcpro-images/hlogo.png\" style=\"width:75%;\">\n            </div>\n        </div>\n    </div>\n    <div class=\"container align-self-center\">\n        <div class=\"row justify-content-center\">\n            <h5><span class=\"badge badge-secondary\">Versión: RB 1.7.4</span></h5>\n        </div>\n    </div>\n</body>\n\n<script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n<script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n<script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script>\n\n<style>\n    .disable-select {\n        user-select: none;\n        /* supported by Chrome and Opera */\n        -webkit-user-select: none;\n        /* Safari */\n        -khtml-user-select: none;\n        /* Konqueror HTML */\n        -moz-user-select: none;\n        /* Firefox */\n        -ms-user-select: none;\n        /* Internet Explorer/Edge */\n    }\n\n    .imagen {\n        height: 90px;\n        background-image: url(http://localhost:1880/swcpro-images/hlogo.png);\n        background-size: contain;\n        background-repeat: no-repeat;\n        background-position: center center;\n    }\n</style>\n\n</html>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
@@ -60168,7 +60305,7 @@
         "op2": "Close",
         "op1type": "num",
         "op2type": "str",
-        "duration": "15",
+        "duration": "10",
         "extend": false,
         "overrideDelay": false,
         "units": "s",
@@ -61002,7 +61139,10 @@
             "77d8136b.25bb0c",
             "7593d9a9.ee8aa8",
             "c39d873c.423c08",
-            "b88575ca75fdb4f5"
+            "b88575ca75fdb4f5",
+            "36c70d85dac8cd26",
+            "97b2eb182dd8a393",
+            "4d36e0c084ccff5d"
         ],
         "x": 381,
         "y": 80,
@@ -66086,7 +66226,10 @@
             "906f6c90b95e81f4",
             "7db3bb55.d16324",
             "c39d873c.423c08",
-            "b88575ca75fdb4f5"
+            "b88575ca75fdb4f5",
+            "36c70d85dac8cd26",
+            "97b2eb182dd8a393",
+            "4d36e0c084ccff5d"
         ],
         "x": 1425,
         "y": 110,
@@ -72130,5 +72273,421 @@
         "x": 1635,
         "y": 470,
         "wires": []
+    },
+    {
+        "id": "ea439131b129c5a9",
+        "type": "inject",
+        "z": "dd18d94e.4b1408",
+        "g": "d175fb986dc9e991",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "5",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "30",
+        "topic": "",
+        "payload": "#:(memoryOnly)::C2S.Comunicacion_Drive",
+        "payloadType": "global",
+        "x": 940,
+        "y": 560,
+        "wires": [
+            [
+                "bc544a78433690f9"
+            ]
+        ]
+    },
+    {
+        "id": "bc544a78433690f9",
+        "type": "rbe",
+        "z": "dd18d94e.4b1408",
+        "g": "d175fb986dc9e991",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 1150,
+        "y": 560,
+        "wires": [
+            [
+                "821b4474f56a4e2b"
+            ]
+        ]
+    },
+    {
+        "id": "821b4474f56a4e2b",
+        "type": "switch",
+        "z": "dd18d94e.4b1408",
+        "g": "d175fb986dc9e991",
+        "name": "False",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1270,
+        "y": 560,
+        "wires": [
+            [
+                "b91663a01c07d6d6"
+            ]
+        ]
+    },
+    {
+        "id": "b91663a01c07d6d6",
+        "type": "delay",
+        "z": "dd18d94e.4b1408",
+        "g": "d175fb986dc9e991",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "1",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "x": 1400,
+        "y": 560,
+        "wires": [
+            [
+                "33c1f1be24c94e75"
+            ]
+        ]
+    },
+    {
+        "id": "33c1f1be24c94e75",
+        "type": "function",
+        "z": "dd18d94e.4b1408",
+        "g": "d175fb986dc9e991",
+        "name": "",
+        "func": "msg.payload = \"Falla de comunicación Drive\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1540,
+        "y": 560,
+        "wires": [
+            [
+                "36c70d85dac8cd26"
+            ]
+        ]
+    },
+    {
+        "id": "36c70d85dac8cd26",
+        "type": "link out",
+        "z": "dd18d94e.4b1408",
+        "g": "d175fb986dc9e991",
+        "name": "",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 1635,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "0f0573bfc77396d5",
+        "type": "inject",
+        "z": "38e901f121b52acb",
+        "g": "62fac95632266b01",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "5",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "30",
+        "topic": "",
+        "payload": "#:(memoryOnly)::Process_data.DHS.Comm",
+        "payloadType": "global",
+        "x": 2070,
+        "y": 370,
+        "wires": [
+            [
+                "d6ed5fb294847658"
+            ]
+        ]
+    },
+    {
+        "id": "d6ed5fb294847658",
+        "type": "rbe",
+        "z": "38e901f121b52acb",
+        "g": "62fac95632266b01",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 2280,
+        "y": 370,
+        "wires": [
+            [
+                "6ef36a66a2f5f9eb"
+            ]
+        ]
+    },
+    {
+        "id": "6ef36a66a2f5f9eb",
+        "type": "switch",
+        "z": "38e901f121b52acb",
+        "g": "62fac95632266b01",
+        "name": "False",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 2400,
+        "y": 370,
+        "wires": [
+            [
+                "f84b1d2c053bb108"
+            ]
+        ]
+    },
+    {
+        "id": "f84b1d2c053bb108",
+        "type": "delay",
+        "z": "38e901f121b52acb",
+        "g": "62fac95632266b01",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "1",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "x": 2530,
+        "y": 370,
+        "wires": [
+            [
+                "e4284fa872b282d4"
+            ]
+        ]
+    },
+    {
+        "id": "e4284fa872b282d4",
+        "type": "function",
+        "z": "38e901f121b52acb",
+        "g": "62fac95632266b01",
+        "name": "",
+        "func": "msg.payload = \"Falla de comunicación con sensor de fondo\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2670,
+        "y": 370,
+        "wires": [
+            [
+                "97b2eb182dd8a393"
+            ]
+        ]
+    },
+    {
+        "id": "97b2eb182dd8a393",
+        "type": "link out",
+        "z": "38e901f121b52acb",
+        "g": "62fac95632266b01",
+        "name": "",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 2765,
+        "y": 370,
+        "wires": []
+    },
+    {
+        "id": "263139143d9816a4",
+        "type": "inject",
+        "z": "7a89175c.90f6a8",
+        "g": "3870a1febf5ca6cd",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "5",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "30",
+        "topic": "",
+        "payload": "#:(memoryOnly)::IO.Functions.CommSts",
+        "payloadType": "global",
+        "x": 2050,
+        "y": 80,
+        "wires": [
+            [
+                "b27809489ed779af"
+            ]
+        ]
+    },
+    {
+        "id": "b27809489ed779af",
+        "type": "rbe",
+        "z": "7a89175c.90f6a8",
+        "g": "3870a1febf5ca6cd",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 2250,
+        "y": 80,
+        "wires": [
+            [
+                "07fc4efe04c3c3b6"
+            ]
+        ]
+    },
+    {
+        "id": "07fc4efe04c3c3b6",
+        "type": "switch",
+        "z": "7a89175c.90f6a8",
+        "g": "3870a1febf5ca6cd",
+        "name": "True",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 2370,
+        "y": 80,
+        "wires": [
+            [
+                "8c336a7303babc6b"
+            ]
+        ]
+    },
+    {
+        "id": "8c336a7303babc6b",
+        "type": "delay",
+        "z": "7a89175c.90f6a8",
+        "g": "3870a1febf5ca6cd",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "1",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "x": 2500,
+        "y": 80,
+        "wires": [
+            [
+                "f47e603b7bfb8ccf"
+            ]
+        ]
+    },
+    {
+        "id": "f47e603b7bfb8ccf",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "3870a1febf5ca6cd",
+        "name": "",
+        "func": "msg.payload = \"Falla de comunicación módulo I/O\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2640,
+        "y": 80,
+        "wires": [
+            [
+                "4d36e0c084ccff5d"
+            ]
+        ]
+    },
+    {
+        "id": "4d36e0c084ccff5d",
+        "type": "link out",
+        "z": "7a89175c.90f6a8",
+        "g": "3870a1febf5ca6cd",
+        "name": "",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 2735,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "de16ee9e71fc7646",
+        "type": "inject",
+        "z": "dd18d94e.4b1408",
+        "g": "b2f2659a.67f648",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "5",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 1020,
+        "y": 350,
+        "wires": [
+            [
+                "838adacf.15be18"
+            ]
+        ]
     }
 ]
