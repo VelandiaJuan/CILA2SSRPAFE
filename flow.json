@@ -1376,7 +1376,9 @@
             "996a9142c814ab39"
         ],
         "x": 24,
-        "y": 429
+        "y": 429,
+        "w": 722,
+        "h": 242
     },
     {
         "id": "6abd418f.d175b",
@@ -1391,7 +1393,9 @@
             "b2f2659a.67f648"
         ],
         "x": 18,
-        "y": 23
+        "y": 23,
+        "w": 1754,
+        "h": 394
     },
     {
         "id": "8c207e440fb46f33",
@@ -1407,7 +1411,9 @@
             "9f77b0d829ad914b"
         ],
         "x": 514,
-        "y": 769
+        "y": 769,
+        "w": 282,
+        "h": 82
     },
     {
         "id": "38940f8.c9c27f",
@@ -2462,12 +2468,14 @@
             "faab275c7aa0a7a2",
             "dedfbc119ada69c5",
             "b74b5df1b950a0b1",
-            "4266fdbd3c0860fc"
+            "4266fdbd3c0860fc",
+            "6aef1d64837e110f",
+            "9babc6836bff31e8"
         ],
         "x": 24,
         "y": 69,
         "w": 932,
-        "h": 482
+        "h": 582
     },
     {
         "id": "76bd25c71a8d7775",
@@ -2706,7 +2714,9 @@
             "b88575ca75fdb4f5"
         ],
         "x": 754,
-        "y": 429
+        "y": 429,
+        "w": 922,
+        "h": 82
     },
     {
         "id": "d175fb986dc9e991",
@@ -2726,7 +2736,9 @@
             "36c70d85dac8cd26"
         ],
         "x": 754,
-        "y": 519
+        "y": 519,
+        "w": 922,
+        "h": 82
     },
     {
         "id": "62fac95632266b01",
@@ -3709,7 +3721,9 @@
             "c30439cc.4bcb68"
         ],
         "x": 44,
-        "y": 49
+        "y": 49,
+        "w": 1422,
+        "h": 212
     },
     {
         "id": "b2f2659a.67f648",
@@ -3737,7 +3751,9 @@
             "de16ee9e71fc7646"
         ],
         "x": 44,
-        "y": 269
+        "y": 269,
+        "w": 1702,
+        "h": 122
     },
     {
         "id": "70a63b74.44894c",
@@ -5596,6 +5612,25 @@
         "y": 1579
     },
     {
+        "id": "96c458bbaaf91d88",
+        "type": "group",
+        "z": "b33f2007a2776232",
+        "name": "Bandera de comunicación SCADA",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "6f7cc7d3838975ae",
+            "dc303a812b9ad280",
+            "fc4e6ab74ebe7635"
+        ],
+        "x": 2994,
+        "y": 459,
+        "w": 652,
+        "h": 82
+    },
+    {
         "id": "d25d405a.19cff",
         "type": "ui_base",
         "theme": {
@@ -7300,6 +7335,9 @@
                 },
                 "DATA_CL11.ESTADOS.General": {
                     "type": "INT"
+                },
+                "DATA_CL11.ESTADOS.Status_Comm_CM": {
+                    "type": "INT"
                 }
             }
         }
@@ -7803,6 +7841,12 @@
                     "type": "REAL"
                 },
                 "DATA_CL11.DATOS_SENSOR.Corriente_FugaMot": {
+                    "type": "REAL"
+                },
+                "CLUSTER2.W01.INST.THP_PIT_PV": {
+                    "type": "REAL"
+                },
+                "CLUSTER2.W01.INST.THT_TIT_PV": {
                     "type": "REAL"
                 }
             }
@@ -70123,8 +70167,8 @@
         "z": "b33f2007a2776232",
         "g": "4ae0fd0ca9645309",
         "name": "DHS",
-        "func": "// Switch basado en propiedades\nvar InPressure      = {\"payload\":typeof msg.payload[\"Presión de entrada\"]       !== 'undefined' ? parseFloat(msg.payload[\"Presión de entrada\"])         :0};\nvar OutPressure     = {\"payload\":typeof msg.payload[\"Presión de descarga\"]      !== 'undefined' ? parseFloat(msg.payload[\"Presión de descarga\"])        :0};\nvar InTemperature   = {\"payload\":typeof msg.payload[\"Temperatura de entrada\"]   !== 'undefined' ? parseFloat(msg.payload[\"Temperatura de entrada\"])     :0};\nvar OutTemperature  = {\"payload\":typeof msg.payload[\"Temperatura de descarga\"]  !== 'undefined' ? parseFloat(msg.payload[\"Temperatura de descarga\"])    :0};\nvar MtrTemperature  = {\"payload\":typeof msg.payload[\"Temperatura de motor\"]     !== 'undefined' ? parseFloat(msg.payload[\"Temperatura de motor\"])       :0};\nvar XVibration      = {\"payload\":typeof msg.payload[\"Vibración X\"]              !== 'undefined' ? parseFloat(msg.payload[\"Vibración X\"])                :0};\nvar ZVibration      = {\"payload\":typeof msg.payload[\"Vibración Z\"]              !== 'undefined' ? parseFloat(msg.payload[\"Vibración Z\"])                :0};\nvar LeakageCurrent  = {\"payload\":typeof msg.payload[\"Corriente de fuga\"]        !== 'undefined' ? parseFloat(msg.payload[\"Corriente de fuga\"])          :0};\nvar DHS             = global.get(\"Process_data.DHS\")||[];\nvar dhsNumber       = {\"payload\":typeof DHS[\"Number\"]                           !== 'undefined' ? parseFloat(DHS[\"Number\"])                             :5};\nvar Comm            = {\"payload\":typeof msg.payload[\"Comm\"]                     !== 'undefined' ? msg.payload[\"Comm\"]                                   :false};\nvar GVibration    = XVibration > ZVibration ? XVibration:ZVibration;\n\nnode.status({fill:\"green\",shape:\"dot\",text:\"DHS Com.: \"+ Comm.payload});\n\n\nreturn [\n    InPressure,\n    OutPressure,\n    InTemperature,\n    OutTemperature,\n    MtrTemperature,\n    GVibration,\n    LeakageCurrent,\n    dhsNumber,\n    Comm\n];",
-        "outputs": 9,
+        "func": "// Switch basado en propiedades\nvar InPressure      = {\"payload\":typeof msg.payload[\"Presión de entrada\"]       !== 'undefined' ? parseFloat(msg.payload[\"Presión de entrada\"])         :0};\nvar OutPressure     = {\"payload\":typeof msg.payload[\"Presión de descarga\"]      !== 'undefined' ? parseFloat(msg.payload[\"Presión de descarga\"])        :0};\nvar InTemperature   = {\"payload\":typeof msg.payload[\"Temperatura de entrada\"]   !== 'undefined' ? parseFloat(msg.payload[\"Temperatura de entrada\"])     :0};\nvar OutTemperature  = {\"payload\":typeof msg.payload[\"Temperatura de descarga\"]  !== 'undefined' ? parseFloat(msg.payload[\"Temperatura de descarga\"])    :0};\nvar MtrTemperature  = {\"payload\":typeof msg.payload[\"Temperatura de motor\"]     !== 'undefined' ? parseFloat(msg.payload[\"Temperatura de motor\"])       :0};\nvar XVibration      = {\"payload\":typeof msg.payload[\"Vibración X\"]              !== 'undefined' ? parseFloat(msg.payload[\"Vibración X\"])                :0};\nvar ZVibration      = {\"payload\":typeof msg.payload[\"Vibración Z\"]              !== 'undefined' ? parseFloat(msg.payload[\"Vibración Z\"])                :0};\nvar LeakageCurrent  = {\"payload\":typeof msg.payload[\"Corriente de fuga\"]        !== 'undefined' ? parseFloat(msg.payload[\"Corriente de fuga\"])          :0};\nvar DHS             = global.get(\"Process_data.DHS\")||[];\nvar dhsNumber       = {\"payload\":typeof DHS[\"Number\"]                           !== 'undefined' ? parseFloat(DHS[\"Number\"])                             :5};\nvar Comm            = {\"payload\":typeof msg.payload[\"Comm\"]                     !== 'undefined' ? msg.payload[\"Comm\"]                                   :false};\nvar GVibration      = XVibration > ZVibration ? XVibration:ZVibration;\nvar THP = { \"payload\": typeof global.get(\"Process_data.AI['Presión de cabeza THP']\", 'memoryOnly') !== 'undefined' ? global.get(\"Process_data.AI['Presión de cabeza THP']\",'memoryOnly'):0};\nvar THT = { \"payload\": typeof global.get(\"Process_data.AI['Temperatura de cabeza THT']\", 'memoryOnly') !== 'undefined' ? global.get(\"Process_data.AI['Temperatura de cabeza THT']\",'memoryOnly'):0};\nnode.status({fill:\"green\",shape:\"dot\",text:\"DHS Com.: \"+ Comm.payload});\n\nreturn [\n    InPressure,\n    OutPressure,\n    InTemperature,\n    OutTemperature,\n    MtrTemperature,\n    GVibration,\n    LeakageCurrent,\n    dhsNumber,\n    Comm,\n    THP,\n    THT\n];",
+        "outputs": 11,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -70158,6 +70202,12 @@
             ],
             [
                 "4266fdbd3c0860fc"
+            ],
+            [
+                "6aef1d64837e110f"
+            ],
+            [
+                "9babc6836bff31e8"
             ]
         ],
         "outputLabels": [
@@ -70169,7 +70219,9 @@
             "Vibración general",
             "Corriente de fuga",
             "Numero de sensor",
-            "Estado de comunicación"
+            "Estado de comunicación",
+            "THP",
+            "THT"
         ]
     },
     {
@@ -70233,7 +70285,7 @@
         "z": "b33f2007a2776232",
         "g": "15680a1387d655eb",
         "name": "VSD",
-        "func": "// Estados de variador\nvar ready                   = global.get(\"C2S.Drive_Status.Run_Ready\",'memoryOnly')||0;\nvar active                  = global.get(\"C2S.Drive_Status.Active\",'memoryOnly')||0;\nvar alarm                   = global.get(\"C2S.Drive_Status.Alarm\",'memoryOnly')||0;\nvar fault                   = global.get(\"C2S.Drive_Status.Fault\",'memoryOnly')||0;\nvar comm                    = (global.get(\"C2S.Comunicacion_Drive\",'memoryOnly')||false)==true?1:0;\nvar off                     = 0; //to do: incluir estado apagado.\n\nvar Rtx = global.get(\"C2S.RelTx\") || 1;\n\nnode.status({ fill: \"green\", shape: \"dot\", text: \"Estado: \" + status() });\n\n// Datos de variador\nvar Corriente_VSD           = global.get(\"C2S.Implicit.Output_Current\",'memoryOnly')||0;\nvar Corriente_Motor         = Corriente_VSD/Rtx;\nvar Voltaje_VSD             = global.get(\"C2S.Implicit.Output_Voltage\",'memoryOnly')||0;\nvar Voltaje_Motor           = Voltaje_VSD*Rtx;\nvar Potencia_Actual         = global.get(\"C2S.Implicit.Output_Power\",'memoryOnly')||0;\nvar Frecuencia              = global.get(\"C2S.Implicit.Output_Frequency\",'memoryOnly')||0;\nvar Referencia_Frecuencia   = global.get(\"C2S.Implicit.Commanded_SpdRef\",'memoryOnly')||0;\nvar Voltaje_Bus_DC          = global.get(\"C2S.Implicit.Bus_DC_Volts\",'memoryOnly')||0;\n\nreturn [\n    toMsg(ready),\n    toMsg(active),\n    toMsg(status()),\n    toMsg(Corriente_VSD),\n    toMsg(Corriente_Motor),\n    toMsg(Voltaje_VSD),\n    toMsg(Voltaje_Motor),\n    toMsg(Potencia_Actual),\n    toMsg(Frecuencia),\n    toMsg(Referencia_Frecuencia),\n    toMsg(Voltaje_Bus_DC)\n];\n\nfunction status(){\n    var sts=0;\n    if(off){sts             = 5;}\n    else if(!comm){sts      = 4;}\n    else if(fault){sts      = 3;}\n    else if(alarm){sts      = 2;}\n    else if(!active){sts    = 1;}\n    return sts;\n}\nfunction toMsg(x){\n    return {payload: x };\n}\n",
+        "func": "// Estados de variador\nvar ready                   = global.get(\"C2S.Drive_Status.Run_Ready\",'memoryOnly')||0;\nvar active                  = global.get(\"C2S.Drive_Status.Active\",'memoryOnly')||0;\nvar alarm                   = global.get(\"C2S.Drive_Status.Alarm\",'memoryOnly')||0;\nvar fault                   = global.get(\"C2S.Drive_Status.Fault\",'memoryOnly')||0;\nvar comm                    = (global.get(\"C2S.Comunicacion_Drive\",'memoryOnly')||false)==true?1:0;\nvar off                     = 0; //to do: incluir estado apagado.\nvar CommSts                 = global.get(\"IO.Functions.CommSts\", 'memoryOnly') || false;\n\nvar Rtx = global.get(\"C2S.RelTx\") || 1;\n\nnode.status({ fill: \"green\", shape: \"dot\", text: \"Estado: \" + status() });\n\n// Datos de variador\nvar Corriente_VSD           = global.get(\"C2S.Implicit.Output_Current\",'memoryOnly')||0;\nvar Corriente_Motor         = Corriente_VSD/Rtx;\nvar Voltaje_VSD             = global.get(\"C2S.Implicit.Output_Voltage\",'memoryOnly')||0;\nvar Voltaje_Motor           = Voltaje_VSD*Rtx;\nvar Potencia_Actual         = global.get(\"C2S.Implicit.Output_Power\",'memoryOnly')||0;\nvar Frecuencia              = global.get(\"C2S.Implicit.Output_Frequency\",'memoryOnly')||0;\nvar Referencia_Frecuencia   = global.get(\"C2S.Implicit.Commanded_SpdRef\",'memoryOnly')||0;\nvar Voltaje_Bus_DC          = global.get(\"C2S.Implicit.Bus_DC_Volts\",'memoryOnly')||0;\n\nreturn [\n    toMsg(ready),\n    toMsg(active),\n    toMsg(status()),\n    toMsg(Corriente_VSD),\n    toMsg(Corriente_Motor),\n    toMsg(Voltaje_VSD),\n    toMsg(Voltaje_Motor),\n    toMsg(Potencia_Actual),\n    toMsg(Frecuencia),\n    toMsg(Referencia_Frecuencia),\n    toMsg(Voltaje_Bus_DC)\n];\n\nfunction status(){\n    var sts=0;\n    if(off){                    sts = 5;}\n    else if (!comm || CommSts){ sts = 4;}\n    else if(fault){             sts = 3;}\n    else if(alarm){             sts = 2;}\n    else if(!active){           sts = 1;}\n    return sts;\n}\nfunction toMsg(x){\n    return {payload: x };\n}\n",
         "outputs": 11,
         "noerr": 0,
         "initialize": "",
@@ -71004,7 +71056,8 @@
         "wires": [
             [
                 "7c79e959.82da18",
-                "55705b3b4e6bd77f"
+                "55705b3b4e6bd77f",
+                "7dab1bf5f9169096"
             ]
         ]
     },
@@ -72848,5 +72901,131 @@
                 "f5656c8d.91d4"
             ]
         ]
+    },
+    {
+        "id": "5dd673244f5f4b00",
+        "type": "function",
+        "z": "b33f2007a2776232",
+        "name": "apagar piloto falla gen",
+        "func": "global.set(\"IO.Functions.DO['Falla general']\", false, 'memoryOnly');\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3990,
+        "y": 320,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7dab1bf5f9169096",
+        "type": "delay",
+        "z": "b33f2007a2776232",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "0.5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "x": 3790,
+        "y": 320,
+        "wires": [
+            [
+                "5dd673244f5f4b00"
+            ]
+        ]
+    },
+    {
+        "id": "6aef1d64837e110f",
+        "type": "eth-ip out",
+        "z": "b33f2007a2776232",
+        "g": "4ae0fd0ca9645309",
+        "endpoint": "74cdb96df4da1788",
+        "variable": "CLUSTER2.W01.INST.THP_PIT_PV",
+        "program": "",
+        "name": "",
+        "x": 670,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "9babc6836bff31e8",
+        "type": "eth-ip out",
+        "z": "b33f2007a2776232",
+        "g": "4ae0fd0ca9645309",
+        "endpoint": "74cdb96df4da1788",
+        "variable": "CLUSTER2.W01.INST.THT_TIT_PV",
+        "program": "",
+        "name": "",
+        "x": 670,
+        "y": 610,
+        "wires": []
+    },
+    {
+        "id": "fc4e6ab74ebe7635",
+        "type": "inject",
+        "z": "b33f2007a2776232",
+        "g": "96c458bbaaf91d88",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "2",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 3090,
+        "y": 500,
+        "wires": [
+            [
+                "dc303a812b9ad280"
+            ]
+        ]
+    },
+    {
+        "id": "dc303a812b9ad280",
+        "type": "function",
+        "z": "b33f2007a2776232",
+        "g": "96c458bbaaf91d88",
+        "name": "",
+        "func": "var flag = context.get(\"flag\",'memoryOnly');\nif(flag){context.set(\"flag\",false,'memoryOnly');}\nelse{context.set(\"flag\", true, 'memoryOnly');}\n\nmsg.payload = flag;\nnode.status({ fill: \"green\", shape: \"dot\", text: \"Bandera: \" + msg.payload });\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3220,
+        "y": 500,
+        "wires": [
+            [
+                "6f7cc7d3838975ae"
+            ]
+        ]
+    },
+    {
+        "id": "6f7cc7d3838975ae",
+        "type": "eth-ip out",
+        "z": "b33f2007a2776232",
+        "g": "96c458bbaaf91d88",
+        "endpoint": "4658687c43f2aa21",
+        "variable": "DATA_CL11.ESTADOS.Status_Comm_CM",
+        "program": "",
+        "name": "",
+        "x": 3460,
+        "y": 500,
+        "wires": []
     }
 ]
