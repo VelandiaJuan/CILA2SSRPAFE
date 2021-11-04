@@ -115,7 +115,7 @@
         "id": "b33f2007a2776232",
         "type": "tab",
         "label": "AIC",
-        "disabled": true,
+        "disabled": false,
         "info": ""
     },
     {
@@ -549,7 +549,7 @@
         "category": "AIC",
         "in": [
             {
-                "x": 50,
+                "x": 160,
                 "y": 100,
                 "wires": [
                     {
@@ -1109,9 +1109,7 @@
             "566c907c.70175"
         ],
         "x": 28,
-        "y": 33,
-        "w": 1264,
-        "h": 574
+        "y": 33
     },
     {
         "id": "9132da2c.b8c6b8",
@@ -1153,9 +1151,7 @@
             "7c55c2ad.611734"
         ],
         "x": 22,
-        "y": 637,
-        "w": 3146,
-        "h": 2266
+        "y": 637
     },
     {
         "id": "c3a35f81.5c82b8",
@@ -1178,9 +1174,7 @@
             "d961a2f.f52ad6"
         ],
         "x": 1874,
-        "y": 129,
-        "w": 902,
-        "h": 162
+        "y": 129
     },
     {
         "id": "9b538856.60fb38",
@@ -2085,9 +2079,7 @@
             "d12eb94c947d2994"
         ],
         "x": 1364,
-        "y": 299,
-        "w": 1822,
-        "h": 282
+        "y": 299
     },
     {
         "id": "2fa4e5be63ea61ce",
@@ -2107,9 +2099,7 @@
             "da3d5f3ce168e7d3"
         ],
         "x": 1364,
-        "y": 59,
-        "w": 482,
-        "h": 232
+        "y": 59
     },
     {
         "id": "2bb641e0f5f82309",
@@ -2125,9 +2115,7 @@
             "80a9920a.43161"
         ],
         "x": 42,
-        "y": 2927,
-        "w": 3020,
-        "h": 1400
+        "y": 2927
     },
     {
         "id": "e3aa057d.09fb18",
@@ -2144,9 +2132,7 @@
             "b9df7528.923398"
         ],
         "x": 28,
-        "y": 23,
-        "w": 2970,
-        "h": 1062
+        "y": 23
     },
     {
         "id": "83483662ea05d247",
@@ -2445,10 +2431,14 @@
             "21807caa870a5121",
             "8d89aaf86a97c2da",
             "a032b831f4fd54c8",
-            "6f1452c6eef9db91"
+            "6f1452c6eef9db91",
+            "996ed27d8118a79c",
+            "7891beb136b84093"
         ],
-        "x": 24,
-        "y": 509
+        "x": 964,
+        "y": 69,
+        "w": 932,
+        "h": 482
     },
     {
         "id": "4ae0fd0ca9645309",
@@ -2461,21 +2451,23 @@
             "fill": "#ffefbf"
         },
         "nodes": [
-            "4266fdbd3c0860fc",
-            "b74b5df1b950a0b1",
-            "4df09c0f95991bb8",
+            "7d023d55f1d54da4",
+            "596bc65d68e2fbaf",
+            "077d5433f197a20c",
+            "83583a2db526ba6c",
             "62bd0fbf41d1facb",
             "0fa03715801bdcac",
             "9ce29aa70caecdda",
             "0bdfad886acdfdeb",
             "faab275c7aa0a7a2",
             "dedfbc119ada69c5",
-            "7d023d55f1d54da4",
-            "596bc65d68e2fbaf",
-            "077d5433f197a20c"
+            "b74b5df1b950a0b1",
+            "4266fdbd3c0860fc"
         ],
         "x": 24,
-        "y": 19
+        "y": 69,
+        "w": 932,
+        "h": 482
     },
     {
         "id": "76bd25c71a8d7775",
@@ -2513,8 +2505,10 @@
             "74be4c29fcc5cda7",
             "3176ad7a0b3bbd81"
         ],
-        "x": 24,
-        "y": 949
+        "x": 1904,
+        "y": 69,
+        "w": 932,
+        "h": 1132
     },
     {
         "id": "afdbbb533d628687",
@@ -2540,7 +2534,8 @@
         "z": "b33f2007a2776232",
         "name": "Control Remoto",
         "style": {
-            "label": true
+            "label": true,
+            "color": "#000000"
         },
         "nodes": [
             "700d9f6b585da9f5",
@@ -2569,10 +2564,23 @@
             "820e3e68.7e695",
             "1fc923e8.884e6c",
             "f0807ea4.3dea5",
-            "b5ec8494.5a8578"
+            "b5ec8494.5a8578",
+            "237a8b3a7faef157",
+            "dfe7804f5e4d00a6",
+            "d63991d6eea522dc",
+            "37cff3488860a20f",
+            "6b7e7d98998ae2bf",
+            "b10ae4a0b9ebc8c3",
+            "a3eceada3eccdfee",
+            "ef739a22c2d4f791",
+            "8952cf25192b7668",
+            "55705b3b4e6bd77f",
+            "5a8b47f509c8f014"
         ],
-        "x": 984,
-        "y": 49
+        "x": 2994,
+        "y": 79,
+        "w": 1872,
+        "h": 372
     },
     {
         "id": "ba075c8cc622876a",
@@ -2758,9 +2766,7 @@
             "4d36e0c084ccff5d"
         ],
         "x": 1874,
-        "y": 39,
-        "w": 902,
-        "h": 82
+        "y": 39
     },
     {
         "id": "b079c206d161b62c",
@@ -2871,9 +2877,7 @@
             "742e267a.cbc27"
         ],
         "x": 68,
-        "y": 2973,
-        "w": 1284,
-        "h": 594
+        "y": 2973
     },
     {
         "id": "80a9920a.43161",
@@ -2942,9 +2946,7 @@
             "2437732b.dd79cc"
         ],
         "x": 1368,
-        "y": 2953,
-        "w": 1668,
-        "h": 1348
+        "y": 2953
     },
     {
         "id": "1306de9a.9ba341",
@@ -3480,9 +3482,7 @@
             "868cefce.6694a"
         ],
         "x": 54,
-        "y": 59,
-        "w": 1212,
-        "h": 362
+        "y": 59
     },
     {
         "id": "566c907c.70175",
@@ -3506,9 +3506,7 @@
             "3f94e47b8b495988"
         ],
         "x": 54,
-        "y": 429,
-        "w": 1002,
-        "h": 152
+        "y": 429
     },
     {
         "id": "f167459.5f028b8",
@@ -3527,9 +3525,7 @@
             "49c39e.d1336c64"
         ],
         "x": 48,
-        "y": 703,
-        "w": 1714,
-        "h": 2174
+        "y": 703
     },
     {
         "id": "7c55c2ad.611734",
@@ -3547,9 +3543,7 @@
             "c4bcf1ca.3d67d"
         ],
         "x": 1778,
-        "y": 663,
-        "w": 1364,
-        "h": 1121.5
+        "y": 663
     },
     {
         "id": "b1830307.ee865",
@@ -3961,9 +3955,7 @@
             "dba5a375ebc26199"
         ],
         "x": 54,
-        "y": 359,
-        "w": 1832,
-        "h": 700
+        "y": 359
     },
     {
         "id": "7aad629d.de652c",
@@ -4027,9 +4019,7 @@
             "b4c9b17bde2f220c"
         ],
         "x": 54,
-        "y": 49,
-        "w": 2772,
-        "h": 302
+        "y": 49
     },
     {
         "id": "8f8a192b.bb2ef8",
@@ -4057,9 +4047,7 @@
             "4e19cfd4.3982f"
         ],
         "x": 1894,
-        "y": 439,
-        "w": 1062,
-        "h": 232
+        "y": 439
     },
     {
         "id": "b9df7528.923398",
@@ -4075,9 +4063,7 @@
             "65994a87.9d5eb4"
         ],
         "x": 1898,
-        "y": 683,
-        "w": 1074,
-        "h": 134
+        "y": 683
     },
     {
         "id": "6625e1db09743bc3",
@@ -4497,9 +4483,7 @@
             "ec7a9df336d4ffeb"
         ],
         "x": 94,
-        "y": 2999,
-        "w": 1232,
-        "h": 542
+        "y": 2999
     },
     {
         "id": "f6e2a6e0.47efb8",
@@ -4538,9 +4522,7 @@
             "b6a4e02ca271262e"
         ],
         "x": 1394,
-        "y": 2979,
-        "w": 1232,
-        "h": 322
+        "y": 2979
     },
     {
         "id": "edfe6c51.d89c68",
@@ -4577,9 +4559,7 @@
             "466d829c.38acdc"
         ],
         "x": 1394,
-        "y": 3299,
-        "w": 722,
-        "h": 442
+        "y": 3299
     },
     {
         "id": "16097ef1.129291",
@@ -5114,9 +5094,7 @@
             "901abd09c7f1d327"
         ],
         "x": 74,
-        "y": 729,
-        "w": 1242,
-        "h": 842
+        "y": 729
     },
     {
         "id": "f68d7eac.63fb98",
@@ -5146,9 +5124,7 @@
             "dc7c0e6833d4017c"
         ],
         "x": 84,
-        "y": 2669,
-        "w": 892,
-        "h": 182
+        "y": 2669
     },
     {
         "id": "d532ac68.2d5408",
@@ -5203,9 +5179,7 @@
             "b11471d1de6d950b"
         ],
         "x": 1824,
-        "y": 689,
-        "w": 1292,
-        "h": 502
+        "y": 689
     },
     {
         "id": "c4bcf1ca.3d67d",
@@ -5267,9 +5241,7 @@
             "594a5a3dcc0b18eb"
         ],
         "x": 1804,
-        "y": 1219,
-        "w": 1292,
-        "h": 539.5
+        "y": 1219
     },
     {
         "id": "a80677cf.4274c8",
@@ -5412,9 +5384,7 @@
             "f4363e16.f1813"
         ],
         "x": 1924,
-        "y": 709,
-        "w": 1022,
-        "h": 82
+        "y": 709
     },
     {
         "id": "dd4ef7f.6489508",
@@ -5623,9 +5593,7 @@
             "38362b7a.04f554"
         ],
         "x": 84,
-        "y": 1579,
-        "w": 1652,
-        "h": 1032
+        "y": 1579
     },
     {
         "id": "d25d405a.19cff",
@@ -7060,131 +7028,130 @@
     {
         "id": "bbcad83f03315844",
         "type": "eth-ip endpoint",
-        "d": true,
-        "address": "192.168.2.9",
+        "address": "192.168.2.4",
         "slot": "0",
         "cycletime": "500",
         "name": "PQM SCP1",
         "vartable": {
             "": {
-                "DATA_CL1.DATOS_PM3K.Voltaje_L_L_Pro": {
+                "DATA_CL11.DATOS_PM3K.Voltaje_L_L_Pro": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.Voltaje_L1_L2": {
+                "DATA_CL11.DATOS_PM3K.Voltaje_L1_L2": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.Voltaje_L2_L3": {
+                "DATA_CL11.DATOS_PM3K.Voltaje_L2_L3": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.Voltaje_L1_L3": {
+                "DATA_CL11.DATOS_PM3K.Voltaje_L1_L3": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.Voltaje_L_N_Pro": {
+                "DATA_CL11.DATOS_PM3K.Voltaje_L_N_Pro": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.Voltaje_L1_N": {
+                "DATA_CL11.DATOS_PM3K.Voltaje_L1_N": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.Voltaje_L2_N": {
+                "DATA_CL11.DATOS_PM3K.Voltaje_L2_N": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.Voltaje_L3_N": {
+                "DATA_CL11.DATOS_PM3K.Voltaje_L3_N": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.Amp_Pro": {
+                "DATA_CL11.DATOS_PM3K.Amp_Pro": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.Amp_L1": {
+                "DATA_CL11.DATOS_PM3K.Amp_L1": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.Amp_L2": {
+                "DATA_CL11.DATOS_PM3K.Amp_L2": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.Amp_L3": {
+                "DATA_CL11.DATOS_PM3K.Amp_L3": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.HZ_Act_Pro": {
+                "DATA_CL11.DATOS_PM3K.HZ_Act_Pro": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.HZ_Act_L1": {
+                "DATA_CL11.DATOS_PM3K.HZ_Act_L1": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.HZ_Act_L2": {
+                "DATA_CL11.DATOS_PM3K.HZ_Act_L2": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.HZ_Act_L3": {
+                "DATA_CL11.DATOS_PM3K.HZ_Act_L3": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.KWATT_Act_Pro": {
+                "DATA_CL11.DATOS_PM3K.KWATT_Act_Pro": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.KWATT_Act_L1": {
+                "DATA_CL11.DATOS_PM3K.KWATT_Act_L1": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.KWATT_Act_L2": {
+                "DATA_CL11.DATOS_PM3K.KWATT_Act_L2": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.KWATT_Act_L3": {
+                "DATA_CL11.DATOS_PM3K.KWATT_Act_L3": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.KVA_Act_Pro": {
+                "DATA_CL11.DATOS_PM3K.KVA_Act_Pro": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.KVA_Act_L1": {
+                "DATA_CL11.DATOS_PM3K.KVA_Act_L1": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.KVA_Act_L2": {
+                "DATA_CL11.DATOS_PM3K.KVA_Act_L2": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.KVA_Act_L3": {
+                "DATA_CL11.DATOS_PM3K.KVA_Act_L3": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.KVAr_Act_Pro": {
+                "DATA_CL11.DATOS_PM3K.KVAr_Act_Pro": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.KVAr_Act_L1": {
+                "DATA_CL11.DATOS_PM3K.KVAr_Act_L1": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.KVAr_Act_L2": {
+                "DATA_CL11.DATOS_PM3K.KVAr_Act_L2": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.KVAr_Act_L3": {
+                "DATA_CL11.DATOS_PM3K.KVAr_Act_L3": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.FP_Pro": {
+                "DATA_CL11.DATOS_PM3K.FP_Pro": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.FP_L1": {
+                "DATA_CL11.DATOS_PM3K.FP_L1": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.FP_L2": {
+                "DATA_CL11.DATOS_PM3K.FP_L2": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.FP_L3": {
+                "DATA_CL11.DATOS_PM3K.FP_L3": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.THD_I_Pro": {
+                "DATA_CL11.DATOS_PM3K.THD_I_Pro": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.THD_I_L1": {
+                "DATA_CL11.DATOS_PM3K.THD_I_L1": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.THD_I_L2": {
+                "DATA_CL11.DATOS_PM3K.THD_I_L2": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.THD_I_L3": {
+                "DATA_CL11.DATOS_PM3K.THD_I_L3": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.THD_V_Pro": {
+                "DATA_CL11.DATOS_PM3K.THD_V_Pro": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.THD_V_L1": {
+                "DATA_CL11.DATOS_PM3K.THD_V_L1": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.THD_V_L2": {
+                "DATA_CL11.DATOS_PM3K.THD_V_L2": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_PM3K.THD_V_L3": {
+                "DATA_CL11.DATOS_PM3K.THD_V_L3": {
                     "type": "REAL"
                 }
             }
@@ -7193,23 +7160,22 @@
     {
         "id": "334149985a144b7e",
         "type": "eth-ip endpoint",
-        "d": true,
-        "address": "192.168.2.9",
+        "address": "192.168.2.4",
         "slot": "0",
         "cycletime": "500",
-        "name": "DHS SCP1",
+        "name": "VSD Commad",
         "vartable": {
             "": {
-                "CLUSTER.W01.VSD.Arranque_Remoto_PD": {
+                "CLUSTER2.W01.VSD.Arranque_Remoto_PD": {
                     "type": "BOOL"
                 },
-                "CLUSTER.W01.VSD.Parada_Remota_PD": {
+                "CLUSTER2.W01.VSD.Parada_Remota_PD": {
                     "type": "BOOL"
                 },
-                "CLUSTER.W01.VSD.Reset_Remoto_PD": {
+                "CLUSTER2.W01.VSD.Reset_Remoto_PD": {
                     "type": "BOOL"
                 },
-                "CLUSTER.W01.VSD.Referencia_Frecuencia_Remota_PD": {
+                "CLUSTER2.W01.VSD.Referencia_Frecuencia_Remota_PD": {
                     "type": "REAL"
                 }
             }
@@ -7218,215 +7184,122 @@
     {
         "id": "4658687c43f2aa21",
         "type": "eth-ip endpoint",
-        "d": true,
-        "address": "192.168.2.9",
+        "address": "192.168.2.4",
         "slot": "0",
         "cycletime": "500",
         "name": "Operative Data SCP1",
         "vartable": {
             "": {
-                "DATA_CL1.DATOS_OPERA.Arranque_Escal_Ejec": {
+                "DATA_CL11.DATOS_OPERA.Arranque_Escal_Ejec": {
                     "type": "BOOL"
                 },
-                "DATA_CL1.DATOS_OPERA.SENTIDO_GIRO": {
+                "DATA_CL11.DATOS_OPERA.SENTIDO_GIRO": {
                     "type": "BOOL"
                 },
-                "DATA_CL1.DATOS_OPERA.Tiempo_Rearran_min": {
+                "DATA_CL11.DATOS_OPERA.Tiempo_Rearran_min": {
                     "type": "INT"
                 },
-                "DATA_CL1.DATOS_OPERA.Tiempo_Rearran_Resta_Min": {
+                "DATA_CL11.DATOS_OPERA.Tiempo_Rearran_Resta_Min": {
                     "type": "INT"
                 },
-                "DATA_CL1.DATOS_OPERA.Tiempo_Rearran_Resta_Seg": {
+                "DATA_CL11.DATOS_OPERA.Tiempo_Rearran_Resta_Seg": {
                     "type": "INT"
                 },
-                "DATA_CL1.DATOS_OPERA.Operacion_Continua_Horas": {
+                "DATA_CL11.DATOS_OPERA.Operacion_Continua_Horas": {
                     "type": "INT"
                 },
-                "DATA_CL1.DATOS_OPERA.Operacion_Continua_MIN": {
+                "DATA_CL11.DATOS_OPERA.Operacion_Continua_MIN": {
                     "type": "INT"
                 },
-                "DATA_CL1.DATOS_OPERA.Operacion_Acumulada_Dias": {
+                "DATA_CL11.DATOS_OPERA.Operacion_Acumulada_Dias": {
                     "type": "INT"
                 },
-                "DATA_CL1.DATOS_OPERA.Operacion_Acumulada_Horas": {
+                "DATA_CL11.DATOS_OPERA.Operacion_Acumulada_Horas": {
                     "type": "INT"
                 },
-                "DATA_CL1.DATOS_OPERA.Operacion_Acumulada_MIN": {
+                "DATA_CL11.DATOS_OPERA.Operacion_Acumulada_MIN": {
                     "type": "INT"
                 },
-                "DATA_CL1.DATOS_OPERA.VOLT_480_Act": {
+                "DATA_CL11.DATOS_OPERA.VOLT_480_Act": {
                     "type": "DINT"
                 },
-                "DATA_CL1.DATOS_OPERA.VOLT_TX_Act": {
+                "DATA_CL11.DATOS_OPERA.VOLT_TX_Act": {
                     "type": "DINT"
                 },
-                "DATA_CL1.DATOS_OPERA.VOLT_BUSDC_Act": {
+                "DATA_CL11.DATOS_OPERA.VOLT_BUSDC_Act": {
                     "type": "DINT"
                 },
-                "DATA_CL1.DATOS_OPERA.HZ_Inicial": {
+                "DATA_CL11.DATOS_OPERA.HZ_Inicial": {
                     "type": "DINT"
                 },
-                "DATA_CL1.DATOS_OPERA.KW_Act": {
+                "DATA_CL11.DATOS_OPERA.KW_Act": {
                     "type": "DINT"
                 },
-                "DATA_CL1.DATOS_OPERA.Operacion_Continua_Dias": {
+                "DATA_CL11.DATOS_OPERA.Operacion_Continua_Dias": {
                     "type": "DINT"
                 },
-                "DATA_CL1.DATOS_OPERA.LBft_Actual": {
+                "DATA_CL11.DATOS_OPERA.LBft_Actual": {
                     "type": "DINT"
                 },
-                "DATA_CL1.DATOS_OPERA.LBft_Nominal": {
+                "DATA_CL11.DATOS_OPERA.LBft_Nominal": {
                     "type": "DINT"
                 },
-                "DATA_CL1.DATOS_OPERA.LBft_Control_Alto": {
+                "DATA_CL11.DATOS_OPERA.LBft_Control_Alto": {
                     "type": "DINT"
                 },
-                "DATA_CL1.DATOS_OPERA.LBft_Control_Bajo": {
+                "DATA_CL11.DATOS_OPERA.LBft_Control_Bajo": {
                     "type": "DINT"
                 },
-                "DATA_CL1.DATOS_OPERA.LBft_Disparo_Alto": {
+                "DATA_CL11.DATOS_OPERA.LBft_Disparo_Alto": {
                     "type": "DINT"
                 },
-                "DATA_CL1.DATOS_OPERA.LBft_Disparo_Bajo": {
+                "DATA_CL11.DATOS_OPERA.LBft_Disparo_Bajo": {
                     "type": "DINT"
                 },
-                "DATA_CL1.DATOS_OPERA.RPM_Actual": {
+                "DATA_CL11.DATOS_OPERA.RPM_Actual": {
                     "type": "DINT"
                 },
-                "DATA_CL1.DATOS_OPERA.RPM_Referencia_Respal": {
+                "DATA_CL11.DATOS_OPERA.RPM_Referencia_Respal": {
                     "type": "DINT"
                 },
-                "DATA_CL1.DATOS_OPERA.VOLT_Salida": {
+                "DATA_CL11.DATOS_OPERA.VOLT_Salida": {
                     "type": "DINT"
                 },
-                "DATA_CL1.DATOS_OPERA.Relacion_Caja": {
+                "DATA_CL11.DATOS_OPERA.Relacion_Caja": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_OPERA.AMP_Actual": {
+                "DATA_CL11.DATOS_OPERA.AMP_Actual": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_OPERA.HZ_Salida": {
+                "DATA_CL11.DATOS_OPERA.HZ_Salida": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_OPERA.RELACION_TX": {
+                "DATA_CL11.DATOS_OPERA.RELACION_TX": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_OPERA.AMP_480_Act": {
+                "DATA_CL11.DATOS_OPERA.AMP_480_Act": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_OPERA.AMP_TX_Act": {
+                "DATA_CL11.DATOS_OPERA.AMP_TX_Act": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_OPERA.HZ_Referencia": {
+                "DATA_CL11.DATOS_OPERA.HZ_Referencia": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_OPERA.HZ_Referencia_Resp": {
+                "DATA_CL11.DATOS_OPERA.HZ_Referencia_Resp": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_OPERA.HZ_Act": {
+                "DATA_CL11.DATOS_OPERA.HZ_Act": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_OPERA.FP_Modulo_Act": {
+                "DATA_CL11.DATOS_OPERA.FP_Modulo_Act": {
                     "type": "REAL"
                 },
-                "DATA_CL1.DATOS_OPERA.TEMP_PowerFlex": {
+                "DATA_CL11.DATOS_OPERA.TEMP_PowerFlex": {
                     "type": "REAL"
-                }
-            }
-        }
-    },
-    {
-        "id": "22923d59c109b82b",
-        "type": "eth-ip endpoint",
-        "z": "b33f2007a2776232",
-        "d": true,
-        "address": "192.168.2.9",
-        "slot": "0",
-        "cycletime": "500",
-        "name": "Comandos SCP1-9",
-        "vartable": {
-            "": {
-                "CLUSTER.W01.VSD.Arranque_Remoto_PD": {
-                    "type": "BOOL"
                 },
-                "CLUSTER.W01.VSD.Parada_Remota_PD": {
-                    "type": "BOOL"
-                },
-                "CLUSTER.W01.VSD.Reset_Remoto_PD": {
-                    "type": "BOOL"
-                },
-                "CLUSTER.W02.VSD.Arranque_Remoto_PD": {
-                    "type": "BOOL"
-                },
-                "CLUSTER.W02.VSD.Parada_Remota_PD": {
-                    "type": "BOOL"
-                },
-                "CLUSTER.W02.VSD.Reset_Remoto_PD": {
-                    "type": "BOOL"
-                },
-                "CLUSTER.W03.VSD.Arranque_Remoto_PD": {
-                    "type": "BOOL"
-                },
-                "CLUSTER.W03.VSD.Parada_Remota_PD": {
-                    "type": "BOOL"
-                },
-                "CLUSTER.W03.VSD.Reset_Remoto_PD": {
-                    "type": "BOOL"
-                },
-                "CLUSTER.W04.VSD.Arranque_Remoto_PD": {
-                    "type": "BOOL"
-                },
-                "CLUSTER.W04.VSD.Parada_Remota_PD": {
-                    "type": "BOOL"
-                },
-                "CLUSTER.W04.VSD.Reset_Remoto_PD": {
-                    "type": "BOOL"
-                },
-                "CLUSTER.W05.VSD.Arranque_Remoto_PD": {
-                    "type": "BOOL"
-                },
-                "CLUSTER.W05.VSD.Parada_Remota_PD": {
-                    "type": "BOOL"
-                },
-                "CLUSTER.W05.VSD.Reset_Remoto_PD": {
-                    "type": "BOOL"
-                },
-                "CLUSTER.W06.VSD.Arranque_Remoto_PD": {
-                    "type": "BOOL"
-                },
-                "CLUSTER.W06.VSD.Parada_Remota_PD": {
-                    "type": "BOOL"
-                },
-                "CLUSTER.W06.VSD.Reset_Remoto_PD": {
-                    "type": "BOOL"
-                },
-                "CLUSTER.W07.VSD.Arranque_Remoto_PD": {
-                    "type": "BOOL"
-                },
-                "CLUSTER.W07.VSD.Parada_Remota_PD": {
-                    "type": "BOOL"
-                },
-                "CLUSTER.W07.VSD.Reset_Remoto_PD": {
-                    "type": "BOOL"
-                },
-                "CLUSTER.W08.VSD.Arranque_Remoto_PD": {
-                    "type": "BOOL"
-                },
-                "CLUSTER.W08.VSD.Parada_Remota_PD": {
-                    "type": "BOOL"
-                },
-                "CLUSTER.W08.VSD.Reset_Remoto_PD": {
-                    "type": "BOOL"
-                },
-                "CLUSTER.W09.VSD.Arranque_Remoto_PD": {
-                    "type": "BOOL"
-                },
-                "CLUSTER.W09.VSD.Parada_Remota_PD": {
-                    "type": "BOOL"
-                },
-                "CLUSTER.W09.VSD.Reset_Remoto_PD": {
-                    "type": "BOOL"
+                "DATA_CL11.ESTADOS.General": {
+                    "type": "INT"
                 }
             }
         }
@@ -7828,47 +7701,6 @@
         "height": "0"
     },
     {
-        "id": "c533e2045e44e279",
-        "type": "eth-ip endpoint",
-        "z": "b33f2007a2776232",
-        "d": true,
-        "address": "192.168.2.9",
-        "slot": "0",
-        "cycletime": "500",
-        "name": "Referencia SCP1-9",
-        "vartable": {
-            "": {
-                "CLUSTER.W01.VSD.Referencia_Frecuencia_Remota_PD": {
-                    "type": "REAL"
-                },
-                "CLUSTER.W02.VSD.Referencia_Frecuencia_Remota_PD": {
-                    "type": "REAL"
-                },
-                "CLUSTER.W03.VSD.Referencia_Frecuencia_Remota_PD": {
-                    "type": "REAL"
-                },
-                "CLUSTER.W04.VSD.Referencia_Frecuencia_Remota_PD": {
-                    "type": "REAL"
-                },
-                "CLUSTER.W05.VSD.Referencia_Frecuencia_Remota_PD": {
-                    "type": "REAL"
-                },
-                "CLUSTER.W06.VSD.Referencia_Frecuencia_Remota_PD": {
-                    "type": "REAL"
-                },
-                "CLUSTER.W07.VSD.Referencia_Frecuencia_Remota_PD": {
-                    "type": "REAL"
-                },
-                "CLUSTER.W08.VSD.Referencia_Frecuencia_Remota_PD": {
-                    "type": "REAL"
-                },
-                "CLUSTER.W09.VSD.Referencia_Frecuencia_Remota_PD": {
-                    "type": "REAL"
-                }
-            }
-        }
-    },
-    {
         "id": "6adea93ec0a12db3",
         "type": "ui_spacer",
         "name": "spacer",
@@ -7936,6 +7768,45 @@
         "order": 9,
         "width": 1,
         "height": 1
+    },
+    {
+        "id": "74cdb96df4da1788",
+        "type": "eth-ip endpoint",
+        "address": "192.168.2.4",
+        "slot": "0",
+        "cycletime": "500",
+        "name": "DHS SCP11",
+        "vartable": {
+            "": {
+                "DATA_CL11.DATOS_SENSOR.Status_Comm_SF": {
+                    "type": "BOOL"
+                },
+                "DATA_CL11.DATOS_SENSOR.Selec_DHS": {
+                    "type": "INT"
+                },
+                "DATA_CL11.DATOS_SENSOR.Presion_Entrada": {
+                    "type": "REAL"
+                },
+                "DATA_CL11.DATOS_SENSOR.Presion_Descarga": {
+                    "type": "REAL"
+                },
+                "DATA_CL11.DATOS_SENSOR.Temperatura_Entrada": {
+                    "type": "REAL"
+                },
+                "DATA_CL11.DATOS_SENSOR.Temperatura_MOTOR": {
+                    "type": "REAL"
+                },
+                "DATA_CL11.DATOS_SENSOR.Temperatura_descarga": {
+                    "type": "REAL"
+                },
+                "DATA_CL11.DATOS_SENSOR.Vibracion_Gral": {
+                    "type": "REAL"
+                },
+                "DATA_CL11.DATOS_SENSOR.Corriente_FugaMot": {
+                    "type": "REAL"
+                }
+            }
+        }
     },
     {
         "id": "8c24ec8f.cf43c",
@@ -9273,7 +9144,7 @@
         "variable": "",
         "program": "",
         "name": "",
-        "x": 130,
+        "x": 180,
         "y": 90,
         "wires": [
             [
@@ -9286,11 +9157,12 @@
         "type": "function",
         "z": "c5aadb46aa743252",
         "name": "Extraer comandos",
-        "func": "var SCP         = \"SCP1\";\nvar keys        = Object.keys(msg.payload);\nvar values      = Object.values(msg.payload);\nvar arranque;\nvar parada;\nvar reset;\n\n        arranque    = values[keys.indexOf(\"CLUSTER.W01.VSD.Arranque_Remoto_PD\")];\n        parada      = values[keys.indexOf(\"CLUSTER.W01.VSD.Parada_Remota_PD\")];\n        reset       = values[keys.indexOf(\"CLUSTER.W01.VSD.Reset_Remoto_PD\")];\n\nreturn [{payload:arranque},{payload:parada},{payload:reset}];",
+        "func": "var SCP         = \"SCP1\";\nvar keys        = Object.keys(msg.payload);\nvar values      = Object.values(msg.payload);\nvar arranque;\nvar parada;\nvar reset;\n\n        arranque    = values[keys.indexOf(\"CLUSTER2.W01.VSD.Arranque_Remoto_PD\")];\n        parada      = values[keys.indexOf(\"CLUSTER2.W01.VSD.Parada_Remota_PD\")];\n        reset       = values[keys.indexOf(\"CLUSTER2.W01.VSD.Reset_Remoto_PD\")];\n\nreturn [{payload:arranque},{payload:parada},{payload:reset}];",
         "outputs": 3,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 360,
         "y": 90,
         "wires": [
@@ -9433,10 +9305,10 @@
         "z": "7eb4390f8f10273f",
         "endpoint": "334149985a144b7e",
         "mode": "all",
-        "variable": "CLUSTER.W01.VSD.Referencia_Frecuencia_Remota_PD",
+        "variable": "",
         "program": "",
         "name": "",
-        "x": 250,
+        "x": 210,
         "y": 50,
         "wires": [
             [
@@ -9449,12 +9321,13 @@
         "type": "function",
         "z": "7eb4390f8f10273f",
         "name": "Extraer Referencia",
-        "func": "var SCP     = \"SCP1\";\nvar keys    = Object.keys(msg.payload);\nvar values  = Object.values(msg.payload);\n\n        msg.payload = values[keys.indexOf(\"CLUSTER.W01.VSD.Referencia_Frecuencia_Remota_PD\")];\n\nreturn msg;",
+        "func": "var SCP     = \"SCP1\";\nvar keys    = Object.keys(msg.payload);\nvar values  = Object.values(msg.payload);\n\n        msg.payload = values[keys.indexOf(\"CLUSTER2.W01.VSD.Referencia_Frecuencia_Remota_PD\")];\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 420,
+        "libs": [],
+        "x": 430,
         "y": 50,
         "wires": [
             []
@@ -9465,7 +9338,7 @@
         "type": "eth-ip out",
         "z": "7eb4390f8f10273f",
         "endpoint": "334149985a144b7e",
-        "variable": "CLUSTER.W01.VSD.Referencia_Frecuencia_Remota_PD",
+        "variable": "CLUSTER2.W01.VSD.Referencia_Frecuencia_Remota_PD",
         "program": "",
         "name": "",
         "x": 410,
@@ -10859,7 +10732,7 @@
         "order": 4,
         "width": 3,
         "height": "3",
-        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n</head>\n\n<body>\n    <div class=\"container align-self-center\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col\">\n                <img src=\"http://localhost:1880/swcpro-images/hlogo.png\" style=\"width:75%;\">\n            </div>\n        </div>\n    </div>\n    <div class=\"container align-self-center\">\n        <div class=\"row justify-content-center\">\n            <h5><span class=\"badge badge-secondary\">Versión: RB 1.7.7</span></h5>\n        </div>\n    </div>\n</body>\n\n<script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n<script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n<script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script>\n\n<style>\n    .disable-select {\n        user-select: none;\n        /* supported by Chrome and Opera */\n        -webkit-user-select: none;\n        /* Safari */\n        -khtml-user-select: none;\n        /* Konqueror HTML */\n        -moz-user-select: none;\n        /* Firefox */\n        -ms-user-select: none;\n        /* Internet Explorer/Edge */\n    }\n\n    .imagen {\n        height: 90px;\n        background-image: url(http://localhost:1880/swcpro-images/hlogo.png);\n        background-size: contain;\n        background-repeat: no-repeat;\n        background-position: center center;\n    }\n</style>\n\n</html>",
+        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n</head>\n\n<body>\n    <div class=\"container align-self-center\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col\">\n                <img src=\"http://localhost:1880/swcpro-images/hlogo.png\" style=\"width:75%;\">\n            </div>\n        </div>\n    </div>\n    <div class=\"container align-self-center\">\n        <div class=\"row justify-content-center\">\n            <h5><span class=\"badge badge-secondary\">Versión: RB 1.8.0</span></h5>\n        </div>\n    </div>\n</body>\n\n<script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n<script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n<script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script>\n\n<style>\n    .disable-select {\n        user-select: none;\n        /* supported by Chrome and Opera */\n        -webkit-user-select: none;\n        /* Safari */\n        -khtml-user-select: none;\n        /* Konqueror HTML */\n        -moz-user-select: none;\n        /* Firefox */\n        -ms-user-select: none;\n        /* Internet Explorer/Edge */\n    }\n\n    .imagen {\n        height: 90px;\n        background-image: url(http://localhost:1880/swcpro-images/hlogo.png);\n        background-size: contain;\n        background-repeat: no-repeat;\n        background-position: center center;\n    }\n</style>\n\n</html>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
@@ -69097,11 +68970,12 @@
         "z": "38e901f121b52acb",
         "g": "48d282d70b9e72c9",
         "name": "Modbus sensor Number",
-        "func": "\nif      (msg.payload == 'Zenith')                   {msg.payload = 3;}\nelse if (msg.payload == 'Schlumberger')             {msg.payload = 1;}\nelse if (msg.payload == \"GRC Scout\")                {msg.payload = 4;}\nelse if (msg.payload == 'Novomet')                  {msg.payload = 6;}\nelse if (msg.payload == 'Borets')                   {msg.payload = 7;}\nelse if (msg.payload == \"Borets Spy-Pro-SPS-1500\")  {msg.payload = 8;}\nelse                                                {msg.payload = 5;}\n\nglobal.set(\"Process_data.DHS.Number\",msg.payload);\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload});\nreturn msg;",
+        "func": "var brand = global.get(\"Process_data.DHS.Brand_DHS\")||\"\";\nmsg.payload = brand;\n\nif      (msg.payload == 'Zenith')                   {msg.payload = 3;}\nelse if (msg.payload == 'Schlumberger')             {msg.payload = 1;}\nelse if (msg.payload == \"GRC Scout\")                {msg.payload = 4;}\nelse if (msg.payload == 'Novomet')                  {msg.payload = 6;}\nelse if (msg.payload == 'Borets')                   {msg.payload = 7;}\nelse if (msg.payload == \"Borets Spy-Pro-SPS-1500\")  {msg.payload = 8;}\nelse                                                {msg.payload = 5;}\n\nglobal.set(\"Process_data.DHS.Number\",msg.payload);\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload});\nreturn msg;",
         "outputs": 0,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 2180,
         "y": 280,
         "wires": []
@@ -70236,128 +70110,11 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL1.DATOS_PM3K.Voltaje_L_L_Pro",
+        "variable": "DATA_CL11.DATOS_PM3K.Voltaje_L_L_Pro",
         "program": "",
         "name": "",
-        "x": 760,
-        "y": 990,
-        "wires": []
-    },
-    {
-        "id": "4266fdbd3c0860fc",
-        "type": "eth-ip out",
-        "z": "b33f2007a2776232",
-        "g": "4ae0fd0ca9645309",
-        "endpoint": "334149985a144b7e",
-        "variable": "DATA_CL1.DATOS_SENSOR.Status_Comm_SF",
-        "program": "",
-        "name": "",
-        "x": 710,
-        "y": 460,
-        "wires": []
-    },
-    {
-        "id": "b74b5df1b950a0b1",
-        "type": "eth-ip out",
-        "z": "b33f2007a2776232",
-        "g": "4ae0fd0ca9645309",
-        "endpoint": "334149985a144b7e",
-        "variable": "DATA_CL1.DATOS_SENSOR.Selec_DHS",
-        "program": "",
-        "name": "",
-        "x": 690,
-        "y": 410,
-        "wires": []
-    },
-    {
-        "id": "4df09c0f95991bb8",
-        "type": "eth-ip out",
-        "z": "b33f2007a2776232",
-        "g": "4ae0fd0ca9645309",
-        "endpoint": "334149985a144b7e",
-        "variable": "DATA_CL1.DATOS_SENSOR.Presion_Entrada",
-        "program": "",
-        "name": "",
-        "x": 710,
-        "y": 60,
-        "wires": []
-    },
-    {
-        "id": "62bd0fbf41d1facb",
-        "type": "eth-ip out",
-        "z": "b33f2007a2776232",
-        "g": "4ae0fd0ca9645309",
-        "endpoint": "334149985a144b7e",
-        "variable": "DATA_CL1.DATOS_SENSOR.Presion_Descarga",
-        "program": "",
-        "name": "",
-        "x": 710,
+        "x": 2640,
         "y": 110,
-        "wires": []
-    },
-    {
-        "id": "0fa03715801bdcac",
-        "type": "eth-ip out",
-        "z": "b33f2007a2776232",
-        "g": "4ae0fd0ca9645309",
-        "endpoint": "334149985a144b7e",
-        "variable": "DATA_CL1.DATOS_SENSOR.Temperatura_Entrada",
-        "program": "",
-        "name": "",
-        "x": 720,
-        "y": 160,
-        "wires": []
-    },
-    {
-        "id": "9ce29aa70caecdda",
-        "type": "eth-ip out",
-        "z": "b33f2007a2776232",
-        "g": "4ae0fd0ca9645309",
-        "endpoint": "334149985a144b7e",
-        "variable": "DATA_CL1.DATOS_SENSOR.Temperatura_descarga",
-        "program": "",
-        "name": "",
-        "x": 730,
-        "y": 210,
-        "wires": []
-    },
-    {
-        "id": "0bdfad886acdfdeb",
-        "type": "eth-ip out",
-        "z": "b33f2007a2776232",
-        "g": "4ae0fd0ca9645309",
-        "endpoint": "334149985a144b7e",
-        "variable": "DATA_CL1.DATOS_SENSOR.Temperatura_MOTOR",
-        "program": "",
-        "name": "",
-        "x": 720,
-        "y": 260,
-        "wires": []
-    },
-    {
-        "id": "faab275c7aa0a7a2",
-        "type": "eth-ip out",
-        "z": "b33f2007a2776232",
-        "g": "4ae0fd0ca9645309",
-        "endpoint": "334149985a144b7e",
-        "variable": "DATA_CL1.DATOS_SENSOR.Vibracion_Gral",
-        "program": "",
-        "name": "",
-        "x": 700,
-        "y": 310,
-        "wires": []
-    },
-    {
-        "id": "dedfbc119ada69c5",
-        "type": "eth-ip out",
-        "z": "b33f2007a2776232",
-        "g": "4ae0fd0ca9645309",
-        "endpoint": "334149985a144b7e",
-        "variable": "DATA_CL1.DATOS_SENSOR.Corriente_FugaMot",
-        "program": "",
-        "name": "",
-        "x": 720,
-        "y": 360,
         "wires": []
     },
     {
@@ -70366,16 +70123,17 @@
         "z": "b33f2007a2776232",
         "g": "4ae0fd0ca9645309",
         "name": "DHS",
-        "func": "// Switch basado en propiedades\nvar InPressure      = {\"payload\":typeof msg.payload[\"Presión de entrada\"]       !== 'undefined' ? parseFloat(msg.payload[\"Presión de entrada\"])         :0};\nvar OutPressure     = {\"payload\":typeof msg.payload[\"Presión de descarga\"]      !== 'undefined' ? parseFloat(msg.payload[\"Presión de descarga\"])        :0};\nvar InTemperature   = {\"payload\":typeof msg.payload[\"Temperatura de entrada\"]   !== 'undefined' ? parseFloat(msg.payload[\"Temperatura de entrada\"])     :0};\nvar OutTemperature  = {\"payload\":typeof msg.payload[\"Temperatura de descarga\"]  !== 'undefined' ? parseFloat(msg.payload[\"Temperatura de descarga\"])    :0};\nvar MtrTemperature  = {\"payload\":typeof msg.payload[\"Temperatura de motor\"]     !== 'undefined' ? parseFloat(msg.payload[\"Temperatura de motor\"])       :0};\nvar XVibration      = {\"payload\":typeof msg.payload[\"Vibración X\"]              !== 'undefined' ? parseFloat(msg.payload[\"Vibración X\"])                :0};\nvar ZVibration      = {\"payload\":typeof msg.payload[\"Vibración Z\"]              !== 'undefined' ? parseFloat(msg.payload[\"Vibración Z\"])                :0};\nvar LeakageCurrent  = {\"payload\":typeof msg.payload[\"Corriente de fuga\"]        !== 'undefined' ? parseFloat(msg.payload[\"Corriente de fuga\"])          :0};\nvar dhsNumber       = {\"payload\":typeof msg.payload[\"Number\"]                   !== 'undefined' ? parseFloat(msg.payload[\"Number\"])                     :5};\nvar Comm            = {\"payload\":typeof msg.payload[\"Comm\"]                     !== 'undefined' ? msg.payload[\"Comm\"]                                   :false};\nvar GVibration    = XVibration > ZVibration ? XVibration:ZVibration;\n\nnode.status({fill:\"green\",shape:\"dot\",text:\"DHS Com.: \"+ Comm.payload});\n\n\nreturn [\n    InPressure,\n    OutPressure,\n    InTemperature,\n    OutTemperature,\n    MtrTemperature,\n    GVibration,\n    LeakageCurrent,\n    dhsNumber,\n    Comm\n];",
+        "func": "// Switch basado en propiedades\nvar InPressure      = {\"payload\":typeof msg.payload[\"Presión de entrada\"]       !== 'undefined' ? parseFloat(msg.payload[\"Presión de entrada\"])         :0};\nvar OutPressure     = {\"payload\":typeof msg.payload[\"Presión de descarga\"]      !== 'undefined' ? parseFloat(msg.payload[\"Presión de descarga\"])        :0};\nvar InTemperature   = {\"payload\":typeof msg.payload[\"Temperatura de entrada\"]   !== 'undefined' ? parseFloat(msg.payload[\"Temperatura de entrada\"])     :0};\nvar OutTemperature  = {\"payload\":typeof msg.payload[\"Temperatura de descarga\"]  !== 'undefined' ? parseFloat(msg.payload[\"Temperatura de descarga\"])    :0};\nvar MtrTemperature  = {\"payload\":typeof msg.payload[\"Temperatura de motor\"]     !== 'undefined' ? parseFloat(msg.payload[\"Temperatura de motor\"])       :0};\nvar XVibration      = {\"payload\":typeof msg.payload[\"Vibración X\"]              !== 'undefined' ? parseFloat(msg.payload[\"Vibración X\"])                :0};\nvar ZVibration      = {\"payload\":typeof msg.payload[\"Vibración Z\"]              !== 'undefined' ? parseFloat(msg.payload[\"Vibración Z\"])                :0};\nvar LeakageCurrent  = {\"payload\":typeof msg.payload[\"Corriente de fuga\"]        !== 'undefined' ? parseFloat(msg.payload[\"Corriente de fuga\"])          :0};\nvar DHS             = global.get(\"Process_data.DHS\")||[];\nvar dhsNumber       = {\"payload\":typeof DHS[\"Number\"]                           !== 'undefined' ? parseFloat(DHS[\"Number\"])                             :5};\nvar Comm            = {\"payload\":typeof msg.payload[\"Comm\"]                     !== 'undefined' ? msg.payload[\"Comm\"]                                   :false};\nvar GVibration    = XVibration > ZVibration ? XVibration:ZVibration;\n\nnode.status({fill:\"green\",shape:\"dot\",text:\"DHS Com.: \"+ Comm.payload});\n\n\nreturn [\n    InPressure,\n    OutPressure,\n    InTemperature,\n    OutTemperature,\n    MtrTemperature,\n    GVibration,\n    LeakageCurrent,\n    dhsNumber,\n    Comm\n];",
         "outputs": 9,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 380,
-        "y": 260,
+        "y": 310,
         "wires": [
             [
-                "4df09c0f95991bb8"
+                "83583a2db526ba6c"
             ],
             [
                 "62bd0fbf41d1facb"
@@ -70433,11 +70191,10 @@
         "payload": "#:(memoryOnly)::Process_data.DHS",
         "payloadType": "global",
         "x": 190,
-        "y": 260,
+        "y": 310,
         "wires": [
             [
-                "7d023d55f1d54da4",
-                "6f1452c6eef9db91"
+                "7d023d55f1d54da4"
             ]
         ]
     },
@@ -70452,7 +70209,7 @@
         ],
         "uncaught": false,
         "x": 220,
-        "y": 300,
+        "y": 350,
         "wires": [
             []
         ]
@@ -70463,11 +70220,11 @@
         "z": "b33f2007a2776232",
         "g": "15680a1387d655eb",
         "endpoint": "4658687c43f2aa21",
-        "variable": "DATA_CL1.DATOS_OPERA.AMP_Actual",
+        "variable": "DATA_CL11.DATOS_OPERA.AMP_Actual",
         "program": "",
         "name": "",
-        "x": 730,
-        "y": 550,
+        "x": 1670,
+        "y": 160,
         "wires": []
     },
     {
@@ -70476,17 +70233,20 @@
         "z": "b33f2007a2776232",
         "g": "15680a1387d655eb",
         "name": "VSD",
-        "func": "// Estados de variador\nvar ready                   = global.get(\"C2S.Drive_Status.Run_Ready\",'memoryOnly')||0;\nvar active                  = global.get(\"C2S.Drive_Status.Active\",'memoryOnly')||0;\nvar alarm                   = global.get(\"C2S.Drive_Status.Alarm\",'memoryOnly')||0;\nvar fault                   = global.get(\"C2S.Drive_Status.Fault\",'memoryOnly')||0;\nvar comm                    = (global.get(\"C2S.Comunicacion_Drive\",'memoryOnly')||false)==true?1:0;\nvar off                     = 0; //to do: incluir estado apagado.\n\n\nvar Rtx = global.get(\"C2S.RelTx\") || 1;\n\n// Datos de variador\nvar Corriente_VSD           = global.get(\"C2S.Implicit.Output_Current\",'memoryOnly')||0;\nvar Corriente_Motor         = Corriente_VSD/Rtx;\nvar Voltaje_VSD             = global.get(\"C2S.Implicit.Output_Voltage\",'memoryOnly')||0;\nvar Voltaje_Motor           = Voltaje_VSD*Rtx;\nvar Potencia_Actual         = global.get(\"C2S.Implicit.Output_Power\",'memoryOnly')||0;\nvar Frecuencia              = global.get(\"C2S.Implicit.Output_Frecuency\",'memoryOnly')||0;\nvar Referencia_Frecuencia   = global.get(\"C2S.Implicit.Commanded_SpdRef\",'memoryOnly')||0;\nvar Voltaje_Bus_DC          = global.get(\"C2S.Implicit.Bus_DC_Volts\",'memoryOnly')||0;\n\nreturn [\n    toMsg(ready),\n    toMsg(active),\n    toMsg(status()),\n    toMsg(Corriente_VSD),\n    toMsg(Corriente_Motor),\n    toMsg(Voltaje_VSD),\n    toMsg(Voltaje_Motor),\n    toMsg(Potencia_Actual),\n    toMsg(Frecuencia),\n    toMsg(Referencia_Frecuencia),\n    toMsg(Voltaje_Bus_DC)\n];\n\nfunction status(){\n    var sts=0;\n    if(off){sts             = 5;}\n    else if(comm){sts       = 4;}\n    else if(fault){sts      = 3;}\n    else if(alarm){sts      = 2;}\n    else if(!active){sts    = 1;}\n    return sts;\n}\nfunction toMsg(x){\n    return {payload: x };\n}\n",
+        "func": "// Estados de variador\nvar ready                   = global.get(\"C2S.Drive_Status.Run_Ready\",'memoryOnly')||0;\nvar active                  = global.get(\"C2S.Drive_Status.Active\",'memoryOnly')||0;\nvar alarm                   = global.get(\"C2S.Drive_Status.Alarm\",'memoryOnly')||0;\nvar fault                   = global.get(\"C2S.Drive_Status.Fault\",'memoryOnly')||0;\nvar comm                    = (global.get(\"C2S.Comunicacion_Drive\",'memoryOnly')||false)==true?1:0;\nvar off                     = 0; //to do: incluir estado apagado.\n\nvar Rtx = global.get(\"C2S.RelTx\") || 1;\n\nnode.status({ fill: \"green\", shape: \"dot\", text: \"Estado: \" + status() });\n\n// Datos de variador\nvar Corriente_VSD           = global.get(\"C2S.Implicit.Output_Current\",'memoryOnly')||0;\nvar Corriente_Motor         = Corriente_VSD/Rtx;\nvar Voltaje_VSD             = global.get(\"C2S.Implicit.Output_Voltage\",'memoryOnly')||0;\nvar Voltaje_Motor           = Voltaje_VSD*Rtx;\nvar Potencia_Actual         = global.get(\"C2S.Implicit.Output_Power\",'memoryOnly')||0;\nvar Frecuencia              = global.get(\"C2S.Implicit.Output_Frequency\",'memoryOnly')||0;\nvar Referencia_Frecuencia   = global.get(\"C2S.Implicit.Commanded_SpdRef\",'memoryOnly')||0;\nvar Voltaje_Bus_DC          = global.get(\"C2S.Implicit.Bus_DC_Volts\",'memoryOnly')||0;\n\nreturn [\n    toMsg(ready),\n    toMsg(active),\n    toMsg(status()),\n    toMsg(Corriente_VSD),\n    toMsg(Corriente_Motor),\n    toMsg(Voltaje_VSD),\n    toMsg(Voltaje_Motor),\n    toMsg(Potencia_Actual),\n    toMsg(Frecuencia),\n    toMsg(Referencia_Frecuencia),\n    toMsg(Voltaje_Bus_DC)\n];\n\nfunction status(){\n    var sts=0;\n    if(off){sts             = 5;}\n    else if(!comm){sts      = 4;}\n    else if(fault){sts      = 3;}\n    else if(alarm){sts      = 2;}\n    else if(!active){sts    = 1;}\n    return sts;\n}\nfunction toMsg(x){\n    return {payload: x };\n}\n",
         "outputs": 11,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 380,
-        "y": 690,
+        "libs": [],
+        "x": 1320,
+        "y": 300,
         "wires": [
             [],
             [],
-            [],
+            [
+                "7891beb136b84093"
+            ],
             [
                 "0b4f62f7083be73d"
             ],
@@ -70535,11 +70295,11 @@
         "z": "b33f2007a2776232",
         "g": "15680a1387d655eb",
         "endpoint": "4658687c43f2aa21",
-        "variable": "DATA_CL1.DATOS_OPERA.AMP_480_Act",
+        "variable": "DATA_CL11.DATOS_OPERA.AMP_480_Act",
         "program": "",
         "name": "",
-        "x": 730,
-        "y": 600,
+        "x": 1680,
+        "y": 210,
         "wires": []
     },
     {
@@ -70548,11 +70308,11 @@
         "z": "b33f2007a2776232",
         "g": "15680a1387d655eb",
         "endpoint": "4658687c43f2aa21",
-        "variable": "DATA_CL1.DATOS_OPERA.VOLT_480_Act",
+        "variable": "DATA_CL11.DATOS_OPERA.VOLT_480_Act",
         "program": "",
         "name": "",
-        "x": 740,
-        "y": 650,
+        "x": 1680,
+        "y": 260,
         "wires": []
     },
     {
@@ -70561,11 +70321,11 @@
         "z": "b33f2007a2776232",
         "g": "15680a1387d655eb",
         "endpoint": "4658687c43f2aa21",
-        "variable": "DATA_CL1.DATOS_OPERA.VOLT_TX_Act",
+        "variable": "DATA_CL11.DATOS_OPERA.VOLT_TX_Act",
         "program": "",
         "name": "",
-        "x": 730,
-        "y": 700,
+        "x": 1680,
+        "y": 310,
         "wires": []
     },
     {
@@ -70574,11 +70334,11 @@
         "z": "b33f2007a2776232",
         "g": "15680a1387d655eb",
         "endpoint": "4658687c43f2aa21",
-        "variable": "DATA_CL1.DATOS_OPERA.KW_Act",
+        "variable": "DATA_CL11.DATOS_OPERA.KW_Act",
         "program": "",
         "name": "",
-        "x": 720,
-        "y": 750,
+        "x": 1660,
+        "y": 360,
         "wires": []
     },
     {
@@ -70587,11 +70347,11 @@
         "z": "b33f2007a2776232",
         "g": "15680a1387d655eb",
         "endpoint": "4658687c43f2aa21",
-        "variable": "DATA_CL1.DATOS_OPERA.HZ_Act",
+        "variable": "DATA_CL11.DATOS_OPERA.HZ_Act",
         "program": "",
         "name": "",
-        "x": 710,
-        "y": 800,
+        "x": 1660,
+        "y": 410,
         "wires": []
     },
     {
@@ -70600,11 +70360,11 @@
         "z": "b33f2007a2776232",
         "g": "15680a1387d655eb",
         "endpoint": "4658687c43f2aa21",
-        "variable": "DATA_CL1.DATOS_OPERA.HZ_Referencia",
+        "variable": "DATA_CL11.DATOS_OPERA.HZ_Referencia",
         "program": "",
         "name": "",
-        "x": 740,
-        "y": 850,
+        "x": 1680,
+        "y": 460,
         "wires": []
     },
     {
@@ -70613,11 +70373,11 @@
         "z": "b33f2007a2776232",
         "g": "15680a1387d655eb",
         "endpoint": "4658687c43f2aa21",
-        "variable": "DATA_CL1.DATOS_OPERA.VOLT_BUSDC_Act",
+        "variable": "DATA_CL11.DATOS_OPERA.VOLT_BUSDC_Act",
         "program": "",
         "name": "",
-        "x": 750,
-        "y": 900,
+        "x": 1690,
+        "y": 510,
         "wires": []
     },
     {
@@ -70626,13 +70386,14 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "name": "PM3K",
-        "func": "var Voltaje_L_L_Pro     = global.get(\"PQA.Real_Time_Parameters.Average_Line_Voltage\",'memoryOnly')||0;\nvar Voltaje_L1_L2       = global.get(\"PQA.Real_Time_Parameters.Line_Voltage_1_2\",'memoryOnly')||0;\nvar Voltaje_L2_L3       = global.get(\"PQA.Real_Time_Parameters.Line_Voltage_2_3\",'memoryOnly')||0;\nvar Voltaje_L1_L3       = global.get(\"PQA.Real_Time_Parameters.Line_Voltage_3_1\",'memoryOnly')||0;\nvar Voltaje_L_N_Pro     = global.get(\"PQA.Real_Time_Parameters.Average_Phase_Voltage\",'memoryOnly')||0;\nvar Voltaje_L1_N        = global.get(\"PQA.Real_Time_Parameters.Phase_1_Voltage\",'memoryOnly')||0;\nvar Voltaje_L2_N        = global.get(\"PQA.Real_Time_Parameters.Phase_2_Voltage\",'memoryOnly')||0;\nvar Voltaje_L3_N        = global.get(\"PQA.Real_Time_Parameters.Phase_3_Voltage\",'memoryOnly')||0;\nvar Amp_Pro             = global.get(\"PQA.Real_Time_Parameters.Average_Phase_Current\",'memoryOnly')||0;\nvar Amp_L1              = global.get(\"PQA.Real_Time_Parameters.Total_Phase_A_Current\",'memoryOnly')||0;\nvar Amp_L2              = global.get(\"PQA.Real_Time_Parameters.Total_Phase_B_Current\",'memoryOnly')||0;\nvar Amp_L3              = global.get(\"PQA.Real_Time_Parameters.Total_Phase_C_Current\",'memoryOnly')||0;\nvar HZ_Act_Pro          = global.get(\"PQA.Real_Time_Parameters.Frequency\",'memoryOnly')||0;\nvar KWATT_Act_Pro       = global.get(\"PQA.Real_Time_Parameters.Total_System_Power\",'memoryOnly')||0;\nvar KWATT_Act_L1        = global.get(\"PQA.Real_Time_Parameters.Phase_A_Power\",'memoryOnly')||0;\nvar KWATT_Act_L2        = global.get(\"PQA.Real_Time_Parameters.Phase_B_Power\",'memoryOnly')||0;\nvar KWATT_Act_L3        = global.get(\"PQA.Real_Time_Parameters.Phase_C_Power\",'memoryOnly')||0;\nvar KVA_Act_Pro         = global.get(\"PQA.Real_Time_Parameters.Total_Apparent_Power\",'memoryOnly')||0;\nvar KVAr_Act_Pro        = global.get(\"PQA.Real_Time_Parameters.Total_Reactive_Power\",'memoryOnly')||0;\nvar FP_Pro              = global.get(\"PQA.Real_Time_Parameters.Total_Power_Factor\",'memoryOnly')||0;\nvar THD_I_Pro           = global.get(\"PQA.Harmonics.Power_Quality.THD_Iavg\",'memoryOnly')||0;\nvar THD_V_Pro           = global.get(\"PQA.Harmonics.Power_Quality.THD_avg\",'memoryOnly')||0;\n\nreturn [\n    toMsg(Voltaje_L_L_Pro),\n    toMsg(Voltaje_L1_L2),\n    toMsg(Voltaje_L2_L3),\n    toMsg(Voltaje_L1_L3),\n    toMsg(Voltaje_L_N_Pro),\n    toMsg(Voltaje_L1_N),\n    toMsg(Voltaje_L2_N),\n    toMsg(Voltaje_L3_N),\n    toMsg(Amp_Pro),\n    toMsg(Amp_L1),\n    toMsg(Amp_L2),\n    toMsg(Amp_L3),\n    toMsg(HZ_Act_Pro),\n    toMsg(KWATT_Act_L1),\n    toMsg(KWATT_Act_L2),\n    toMsg(KWATT_Act_L3),\n    toMsg(KVA_Act_Pro),\n    toMsg(KVAr_Act_Pro),\n    toMsg(FP_Pro),\n    toMsg(FP_Pro),\n    toMsg(THD_I_Pro),\n    toMsg(THD_V_Pro)\n];\n\nfunction toMsg(x){\n    return {payload: x };\n}\nreturn msg;\n/*/ Output Message\n\nPQA.Harmonics.Power_Quality\n\nmsg.payload = {\n    \"THD_V1global.get(V12)\"   : msg.payload[0]/100,\n    \"THD_V2global.get(V31)\"   : msg.payload[1]/100,\n    \"THD_V3global.get(V23)\"   : msg.payload[2]/100,\n    \"THD_avg\"       : msg.payload[3]/100,\n    \"THD_I1\"        : msg.payload[4]/100,\n    \"THD_I2\"        : msg.payload[5]/100,\n    \"THD_I3\"        : msg.payload[6]/100,\n    \"THD_Iavg\"      : msg.payload[7]/100\n}\n\n\nmsg.payload = {\n    \"Frequency\"                 : Frequency,\n    \"Phase_1_Voltage\"           : Phase_1_Voltage,\n    \"Phase_2_Voltage\"           : Phase_2_Voltage,\n    \"Phase_3_Voltage\"           : Phase_3_Voltage,\n    \"Average_Phase_Voltage\"     : Average_Phase_Voltage,\n    \"Line_Voltage_1_2\"          : Line_Voltage_1_2,\n    \"Line_Voltage_2_3\"          : Line_Voltage_2_3,\n    \"Line_Voltage_3_1\"          : Line_Voltage_3_1,\n    \"Average_Line_Voltage\"      : Average_Line_Voltage,\n    \"Total_Phase_A_Current\"     : RelCT * Total_Phase_A_Current,\n    \"Total_Phase_B_Current\"     : RelCT * Total_Phase_B_Current,\n    \"Total_Phase_C_Current\"     : RelCT * Total_Phase_C_Current,\n    \"Average_Phase_Current\"     : RelCT * Average_Phase_Current,\n    \"Neutral_Current\"           : Neutral_Current,\n    \"Phase_A_Power\"             : RelCT * Phase_A_Power/1000,\n    \"Phase_B_Power\"             : RelCT * Phase_B_Power/1000,\n    \"Phase_C_Power\"             : RelCT * Phase_C_Power/1000,\n    \"Total_System_Power\"        : RelCT * Total_System_Power/1000,\n    \"Phase_A_Reactive_Power\"    : RelCT * Phase_A_Reactive_Power/1000,\n    \"Phase_B_Reactive_Power\"    : RelCT * Phase_B_Reactive_Power/1000,\n    \"Phase_C_Reactive_Power\"    : RelCT * Phase_C_Reactive_Power/1000,\n    \"Total_Reactive_Power\"      : RelCT * Total_Reactive_Power/1000,\n    \"Phase_A_Apparent_Power\"    : RelCT * Phase_A_Apparent_Power/1000,\n    \"Phase_B_Apparent_Power\"    : RelCT * Phase_B_Apparent_Power/1000,\n    \"Phase_C_Apparent_Power\"    : RelCT * Phase_C_Apparent_Power/1000,\n    \"Total_Apparent_Power\"      : RelCT * Total_Apparent_Power/1000,\n    \"Phase_A_Power_Factor\"      : Phase_A_Power_Factor,\n    \"Phase_B_Power_Factor\"      : Phase_B_Power_Factor,\n    \"Phase_C_Power_Factor\"      : Phase_C_Power_Factor,\n    \"Total_Power_Factor\"        : Total_Power_Factor\n}\n*/",
+        "func": "var Voltaje_L_L_Pro     = global.get(\"PQA.Real_Time_Parameters.Average_Line_Voltage\",'memoryOnly')||0;\nvar Voltaje_L1_L2       = global.get(\"PQA.Real_Time_Parameters.Line_Voltage_1_2\",'memoryOnly')||0;\nvar Voltaje_L2_L3       = global.get(\"PQA.Real_Time_Parameters.Line_Voltage_2_3\",'memoryOnly')||0;\nvar Voltaje_L1_L3       = global.get(\"PQA.Real_Time_Parameters.Line_Voltage_3_1\",'memoryOnly')||0;\nvar Voltaje_L_N_Pro     = global.get(\"PQA.Real_Time_Parameters.Average_Phase_Voltage\",'memoryOnly')||0;\nvar Voltaje_L1_N        = global.get(\"PQA.Real_Time_Parameters.Phase_1_Voltage\",'memoryOnly')||0;\nvar Voltaje_L2_N        = global.get(\"PQA.Real_Time_Parameters.Phase_2_Voltage\",'memoryOnly')||0;\nvar Voltaje_L3_N        = global.get(\"PQA.Real_Time_Parameters.Phase_3_Voltage\",'memoryOnly')||0;\nvar Amp_Pro             = global.get(\"PQA.Real_Time_Parameters.Average_Phase_Current\",'memoryOnly')||0;\nvar Amp_L1              = global.get(\"PQA.Real_Time_Parameters.Total_Phase_A_Current\",'memoryOnly')||0;\nvar Amp_L2              = global.get(\"PQA.Real_Time_Parameters.Total_Phase_B_Current\",'memoryOnly')||0;\nvar Amp_L3              = global.get(\"PQA.Real_Time_Parameters.Total_Phase_C_Current\",'memoryOnly')||0;\nvar HZ_Act_Pro          = global.get(\"PQA.Real_Time_Parameters.Frequency\",'memoryOnly')||0;\nvar KWATT_Act_Pro       = global.get(\"PQA.Real_Time_Parameters.Total_System_Power\",'memoryOnly')||0;\nvar KWATT_Act_L1        = global.get(\"PQA.Real_Time_Parameters.Phase_A_Power\",'memoryOnly')||0;\nvar KWATT_Act_L2        = global.get(\"PQA.Real_Time_Parameters.Phase_B_Power\",'memoryOnly')||0;\nvar KWATT_Act_L3        = global.get(\"PQA.Real_Time_Parameters.Phase_C_Power\",'memoryOnly')||0;\nvar KVA_Act_Pro         = global.get(\"PQA.Real_Time_Parameters.Total_Apparent_Power\",'memoryOnly')||0;\nvar KVAr_Act_Pro        = global.get(\"PQA.Real_Time_Parameters.Total_Reactive_Power\",'memoryOnly')||0;\nvar FP_Pro              = global.get(\"PQA.Real_Time_Parameters.Total_Power_Factor\",'memoryOnly')||0;\nvar THD_I_Pro           = global.get(\"PQA.Harmonics.Power_Quality.THD_Iavg\",'memoryOnly')||0;\nvar THD_V_Pro           = global.get(\"PQA.Harmonics.Power_Quality.THD_avg\",'memoryOnly')||0;\n\nreturn [\n    toMsg(Voltaje_L_L_Pro),\n    toMsg(Voltaje_L1_L2),\n    toMsg(Voltaje_L2_L3),\n    toMsg(Voltaje_L1_L3),\n    toMsg(Voltaje_L_N_Pro),\n    toMsg(Voltaje_L1_N),\n    toMsg(Voltaje_L2_N),\n    toMsg(Voltaje_L3_N),\n    toMsg(Amp_Pro),\n    toMsg(Amp_L1),\n    toMsg(Amp_L2),\n    toMsg(Amp_L3),\n    toMsg(HZ_Act_Pro),\n    toMsg(KWATT_Act_L1),\n    toMsg(KWATT_Act_L2),\n    toMsg(KWATT_Act_L3),\n    toMsg(KVA_Act_Pro),\n    toMsg(KVAr_Act_Pro),\n    toMsg(FP_Pro),\n    toMsg(FP_Pro),\n    toMsg(THD_I_Pro),\n    toMsg(THD_V_Pro)\n];\n\nfunction toMsg(x){\n    return {payload: x };\n}",
         "outputs": 22,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 320,
-        "y": 1580,
+        "libs": [],
+        "x": 2200,
+        "y": 700,
         "wires": [
             [
                 "32af0db76f3d8e50"
@@ -70732,11 +70493,11 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL1.DATOS_PM3K.Voltaje_L1_L2",
+        "variable": "DATA_CL11.DATOS_PM3K.Voltaje_L1_L2",
         "program": "",
         "name": "",
-        "x": 750,
-        "y": 1040,
+        "x": 2630,
+        "y": 160,
         "wires": []
     },
     {
@@ -70745,11 +70506,11 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL1.DATOS_PM3K.Voltaje_L2_L3",
+        "variable": "DATA_CL11.DATOS_PM3K.Voltaje_L2_L3",
         "program": "",
         "name": "",
-        "x": 750,
-        "y": 1090,
+        "x": 2630,
+        "y": 210,
         "wires": []
     },
     {
@@ -70758,11 +70519,11 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL1.DATOS_PM3K.Voltaje_L1_L3",
+        "variable": "DATA_CL11.DATOS_PM3K.Voltaje_L1_L3",
         "program": "",
         "name": "",
-        "x": 750,
-        "y": 1140,
+        "x": 2630,
+        "y": 260,
         "wires": []
     },
     {
@@ -70771,11 +70532,11 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL1.DATOS_PM3K.Voltaje_L_N_Pro",
+        "variable": "DATA_CL11.DATOS_PM3K.Voltaje_L_N_Pro",
         "program": "",
         "name": "",
-        "x": 760,
-        "y": 1190,
+        "x": 2640,
+        "y": 310,
         "wires": []
     },
     {
@@ -70784,11 +70545,11 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL1.DATOS_PM3K.Voltaje_L1_N",
+        "variable": "DATA_CL11.DATOS_PM3K.Voltaje_L1_N",
         "program": "",
         "name": "",
-        "x": 750,
-        "y": 1240,
+        "x": 2630,
+        "y": 360,
         "wires": []
     },
     {
@@ -70797,11 +70558,11 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL1.DATOS_PM3K.Voltaje_L2_N",
+        "variable": "DATA_CL11.DATOS_PM3K.Voltaje_L2_N",
         "program": "",
         "name": "",
-        "x": 750,
-        "y": 1290,
+        "x": 2630,
+        "y": 410,
         "wires": []
     },
     {
@@ -70810,11 +70571,11 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL1.DATOS_PM3K.Voltaje_L3_N",
+        "variable": "DATA_CL11.DATOS_PM3K.Voltaje_L3_N",
         "program": "",
         "name": "",
-        "x": 750,
-        "y": 1340,
+        "x": 2630,
+        "y": 460,
         "wires": []
     },
     {
@@ -70823,11 +70584,11 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL1.DATOS_PM3K.Amp_Pro",
+        "variable": "DATA_CL11.DATOS_PM3K.Amp_Pro",
         "program": "",
         "name": "",
-        "x": 730,
-        "y": 1390,
+        "x": 2620,
+        "y": 510,
         "wires": []
     },
     {
@@ -70836,11 +70597,11 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL1.DATOS_PM3K.Amp_L1",
+        "variable": "DATA_CL11.DATOS_PM3K.Amp_L1",
         "program": "",
         "name": "",
-        "x": 730,
-        "y": 1440,
+        "x": 2620,
+        "y": 560,
         "wires": []
     },
     {
@@ -70849,11 +70610,11 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL1.DATOS_PM3K.FP_Pro",
+        "variable": "DATA_CL11.DATOS_PM3K.FP_Pro",
         "program": "",
         "name": "",
-        "x": 730,
-        "y": 1940,
+        "x": 2610,
+        "y": 1060,
         "wires": []
     },
     {
@@ -70862,11 +70623,11 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL1.DATOS_PM3K.KVAr_Act_Pro",
+        "variable": "DATA_CL11.DATOS_PM3K.KVAr_Act_Pro",
         "program": "",
         "name": "",
-        "x": 750,
-        "y": 1890,
+        "x": 2630,
+        "y": 1010,
         "wires": []
     },
     {
@@ -70875,11 +70636,11 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL1.DATOS_PM3K.KVA_Act_Pro",
+        "variable": "DATA_CL11.DATOS_PM3K.KVA_Act_Pro",
         "program": "",
         "name": "",
-        "x": 750,
-        "y": 1840,
+        "x": 2630,
+        "y": 960,
         "wires": []
     },
     {
@@ -70888,11 +70649,11 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL1.DATOS_PM3K.KWATT_Act_L3",
+        "variable": "DATA_CL11.DATOS_PM3K.KWATT_Act_L3",
         "program": "",
         "name": "",
-        "x": 750,
-        "y": 1790,
+        "x": 2640,
+        "y": 910,
         "wires": []
     },
     {
@@ -70901,11 +70662,11 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL1.DATOS_PM3K.KWATT_Act_L2",
+        "variable": "DATA_CL11.DATOS_PM3K.KWATT_Act_L2",
         "program": "",
         "name": "",
-        "x": 750,
-        "y": 1740,
+        "x": 2640,
+        "y": 860,
         "wires": []
     },
     {
@@ -70914,11 +70675,11 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL1.DATOS_PM3K.KWATT_Act_L1",
+        "variable": "DATA_CL11.DATOS_PM3K.KWATT_Act_L1",
         "program": "",
         "name": "",
-        "x": 750,
-        "y": 1690,
+        "x": 2640,
+        "y": 810,
         "wires": []
     },
     {
@@ -70927,11 +70688,11 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL1.DATOS_PM3K.KWATT_Act_Pro",
+        "variable": "DATA_CL11.DATOS_PM3K.KWATT_Act_Pro",
         "program": "",
         "name": "",
-        "x": 760,
-        "y": 1640,
+        "x": 2640,
+        "y": 760,
         "wires": []
     },
     {
@@ -70940,11 +70701,11 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL1.DATOS_PM3K.HZ_Act_Pro",
+        "variable": "DATA_CL11.DATOS_PM3K.HZ_Act_Pro",
         "program": "",
         "name": "",
-        "x": 740,
-        "y": 1590,
+        "x": 2630,
+        "y": 710,
         "wires": []
     },
     {
@@ -70953,11 +70714,11 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL1.DATOS_PM3K.Amp_L3",
+        "variable": "DATA_CL11.DATOS_PM3K.Amp_L3",
         "program": "",
         "name": "",
-        "x": 730,
-        "y": 1540,
+        "x": 2620,
+        "y": 660,
         "wires": []
     },
     {
@@ -70966,11 +70727,11 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL1.DATOS_PM3K.Amp_L2",
+        "variable": "DATA_CL11.DATOS_PM3K.Amp_L2",
         "program": "",
         "name": "",
-        "x": 730,
-        "y": 1490,
+        "x": 2620,
+        "y": 610,
         "wires": []
     },
     {
@@ -70979,11 +70740,11 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL1.DATOS_PM3K.THD_V_Pro",
+        "variable": "DATA_CL11.DATOS_PM3K.THD_V_Pro",
         "program": "",
         "name": "",
-        "x": 740,
-        "y": 2040,
+        "x": 2630,
+        "y": 1160,
         "wires": []
     },
     {
@@ -70992,11 +70753,11 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL1.DATOS_PM3K.THD_I_Pro",
+        "variable": "DATA_CL11.DATOS_PM3K.THD_I_Pro",
         "program": "",
         "name": "",
-        "x": 740,
-        "y": 1990,
+        "x": 2620,
+        "y": 1110,
         "wires": []
     },
     {
@@ -71006,8 +70767,8 @@
         "g": "69ad07e.039c4f8",
         "name": "",
         "env": [],
-        "x": 1090,
-        "y": 130,
+        "x": 3100,
+        "y": 200,
         "wires": [
             [
                 "1fc923e8.884e6c"
@@ -71025,14 +70786,13 @@
         "type": "subflow:7eb4390f8f10273f",
         "z": "b33f2007a2776232",
         "g": "69ad07e.039c4f8",
-        "name": "Referencia SCP1-9",
+        "name": "Referencia SCP11",
         "env": [],
-        "x": 1170,
-        "y": 300,
+        "x": 3300,
+        "y": 390,
         "wires": [
             [
-                "d0b7f7bd.74b728",
-                "f5656c8d.91d4"
+                "237a8b3a7faef157"
             ]
         ]
     },
@@ -71052,8 +70812,8 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "x": 120,
-        "y": 690,
+        "x": 1060,
+        "y": 300,
         "wires": [
             [
                 "b265c5c698b670b8",
@@ -71077,8 +70837,8 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "x": 120,
-        "y": 1580,
+        "x": 2000,
+        "y": 700,
         "wires": [
             [
                 "6ff34333c941d6e9"
@@ -71096,8 +70856,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1430,
-        "y": 130,
+        "x": 3440,
+        "y": 200,
         "wires": [
             [
                 "e95755e7.c61788"
@@ -71115,8 +70875,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1440,
-        "y": 90,
+        "x": 3450,
+        "y": 150,
         "wires": [
             [
                 "e237ee4a.30518"
@@ -71134,8 +70894,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1430,
-        "y": 170,
+        "x": 3440,
+        "y": 250,
         "wires": [
             [
                 "f714c50.2d4dd38"
@@ -71169,8 +70929,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1590,
-        "y": 90,
+        "x": 3600,
+        "y": 150,
         "wires": [
             [
                 "7c79e959.82da18"
@@ -71204,8 +70964,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1590,
-        "y": 130,
+        "x": 3600,
+        "y": 200,
         "wires": [
             [
                 "7c79e959.82da18"
@@ -71239,11 +70999,12 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1590,
-        "y": 170,
+        "x": 3600,
+        "y": 250,
         "wires": [
             [
-                "7c79e959.82da18"
+                "7c79e959.82da18",
+                "55705b3b4e6bd77f"
             ]
         ]
     },
@@ -71254,8 +71015,8 @@
         "g": "69ad07e.039c4f8",
         "name": "",
         "env": [],
-        "x": 1730,
-        "y": 130,
+        "x": 3740,
+        "y": 200,
         "wires": [
             [],
             [
@@ -71286,8 +71047,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 1870,
-        "y": 130,
+        "x": 3880,
+        "y": 200,
         "wires": [
             [
                 "68315b7a.69a204"
@@ -71335,11 +71096,12 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 2030,
-        "y": 110,
+        "x": 4040,
+        "y": 180,
         "wires": [
             [
-                "77d8136b.25bb0c"
+                "77d8136b.25bb0c",
+                "8952cf25192b7668"
             ]
         ]
     },
@@ -71374,8 +71136,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 2020,
-        "y": 150,
+        "x": 4030,
+        "y": 220,
         "wires": [
             [
                 "7db3bb55.d16324"
@@ -71392,8 +71154,8 @@
             "2da816b7.b2be9a",
             "cbbbcd1c.7180e"
         ],
-        "x": 2125,
-        "y": 150,
+        "x": 4135,
+        "y": 220,
         "wires": []
     },
     {
@@ -71406,8 +71168,8 @@
             "207ea8ce.3dea68",
             "2da816b7.b2be9a"
         ],
-        "x": 2125,
-        "y": 110,
+        "x": 4135,
+        "y": 180,
         "wires": []
     },
     {
@@ -71421,8 +71183,8 @@
             "f3663616.7f0888",
             "ae172e07.4eb89"
         ],
-        "x": 1035,
-        "y": 300,
+        "x": 3175,
+        "y": 390,
         "wires": [
             [
                 "5d824a0ec3984852"
@@ -71436,8 +71198,8 @@
         "g": "69ad07e.039c4f8",
         "name": "",
         "env": [],
-        "x": 1410,
-        "y": 320,
+        "x": 3640,
+        "y": 410,
         "wires": [
             []
         ]
@@ -71458,8 +71220,8 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "x": 1390,
-        "y": 280,
+        "x": 3750,
+        "y": 370,
         "wires": [
             [
                 "106c366c.6d12da"
@@ -71477,8 +71239,9 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1530,
-        "y": 280,
+        "libs": [],
+        "x": 3900,
+        "y": 370,
         "wires": [
             [
                 "e5539400.d02528"
@@ -71508,8 +71271,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 1680,
-        "y": 280,
+        "x": 4040,
+        "y": 370,
         "wires": [
             [
                 "280c9c89.bc3c34",
@@ -71531,8 +71294,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1830,
-        "y": 310,
+        "x": 4190,
+        "y": 400,
         "wires": [
             [
                 "c39d873c.423c08"
@@ -71550,8 +71313,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1830,
-        "y": 230,
+        "x": 4190,
+        "y": 320,
         "wires": [
             [
                 "7593d9a9.ee8aa8"
@@ -71569,8 +71332,8 @@
             "207ea8ce.3dea68",
             "2da816b7.b2be9a"
         ],
-        "x": 1925,
-        "y": 230,
+        "x": 4285,
+        "y": 320,
         "wires": []
     },
     {
@@ -71584,8 +71347,8 @@
             "cbbbcd1c.7180e",
             "204c251e.8264ca"
         ],
-        "x": 1925,
-        "y": 310,
+        "x": 4285,
+        "y": 400,
         "wires": []
     },
     {
@@ -71615,8 +71378,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1860,
-        "y": 270,
+        "x": 4220,
+        "y": 360,
         "wires": [
             []
         ]
@@ -71639,8 +71402,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 1270,
-        "y": 90,
+        "x": 3280,
+        "y": 150,
         "wires": [
             [
                 "2679ef434f4fc799"
@@ -71665,8 +71428,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 1270,
-        "y": 130,
+        "x": 3280,
+        "y": 200,
         "wires": [
             [
                 "322f337a.986754"
@@ -71691,8 +71454,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 1270,
-        "y": 170,
+        "x": 3280,
+        "y": 250,
         "wires": [
             [
                 "4668f244329a8730"
@@ -72672,6 +72435,417 @@
         "wires": [
             [
                 "838adacf.15be18"
+            ]
+        ]
+    },
+    {
+        "id": "996ed27d8118a79c",
+        "type": "inject",
+        "z": "b33f2007a2776232",
+        "g": "15680a1387d655eb",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "2",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 1080,
+        "y": 260,
+        "wires": [
+            [
+                "6f1452c6eef9db91"
+            ]
+        ]
+    },
+    {
+        "id": "7891beb136b84093",
+        "type": "eth-ip out",
+        "z": "b33f2007a2776232",
+        "g": "15680a1387d655eb",
+        "endpoint": "4658687c43f2aa21",
+        "variable": "DATA_CL11.ESTADOS.General",
+        "program": "",
+        "name": "",
+        "x": 1640,
+        "y": 110,
+        "wires": []
+    },
+    {
+        "id": "83583a2db526ba6c",
+        "type": "eth-ip out",
+        "z": "b33f2007a2776232",
+        "g": "4ae0fd0ca9645309",
+        "endpoint": "74cdb96df4da1788",
+        "variable": "DATA_CL11.DATOS_SENSOR.Presion_Entrada",
+        "program": "",
+        "name": "",
+        "x": 710,
+        "y": 110,
+        "wires": []
+    },
+    {
+        "id": "62bd0fbf41d1facb",
+        "type": "eth-ip out",
+        "z": "b33f2007a2776232",
+        "g": "4ae0fd0ca9645309",
+        "endpoint": "74cdb96df4da1788",
+        "variable": "DATA_CL11.DATOS_SENSOR.Presion_Descarga",
+        "program": "",
+        "name": "",
+        "x": 720,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "0fa03715801bdcac",
+        "type": "eth-ip out",
+        "z": "b33f2007a2776232",
+        "g": "4ae0fd0ca9645309",
+        "endpoint": "74cdb96df4da1788",
+        "variable": "DATA_CL11.DATOS_SENSOR.Temperatura_Entrada",
+        "program": "",
+        "name": "",
+        "x": 730,
+        "y": 210,
+        "wires": []
+    },
+    {
+        "id": "9ce29aa70caecdda",
+        "type": "eth-ip out",
+        "z": "b33f2007a2776232",
+        "g": "4ae0fd0ca9645309",
+        "endpoint": "74cdb96df4da1788",
+        "variable": "DATA_CL11.DATOS_SENSOR.Temperatura_descarga",
+        "program": "",
+        "name": "",
+        "x": 730,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "0bdfad886acdfdeb",
+        "type": "eth-ip out",
+        "z": "b33f2007a2776232",
+        "g": "4ae0fd0ca9645309",
+        "endpoint": "74cdb96df4da1788",
+        "variable": "DATA_CL11.DATOS_SENSOR.Temperatura_MOTOR",
+        "program": "",
+        "name": "",
+        "x": 730,
+        "y": 310,
+        "wires": []
+    },
+    {
+        "id": "faab275c7aa0a7a2",
+        "type": "eth-ip out",
+        "z": "b33f2007a2776232",
+        "g": "4ae0fd0ca9645309",
+        "endpoint": "74cdb96df4da1788",
+        "variable": "DATA_CL11.DATOS_SENSOR.Vibracion_Gral",
+        "program": "",
+        "name": "",
+        "x": 700,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "dedfbc119ada69c5",
+        "type": "eth-ip out",
+        "z": "b33f2007a2776232",
+        "g": "4ae0fd0ca9645309",
+        "endpoint": "74cdb96df4da1788",
+        "variable": "DATA_CL11.DATOS_SENSOR.Corriente_FugaMot",
+        "program": "",
+        "name": "",
+        "x": 720,
+        "y": 410,
+        "wires": []
+    },
+    {
+        "id": "b74b5df1b950a0b1",
+        "type": "eth-ip out",
+        "z": "b33f2007a2776232",
+        "g": "4ae0fd0ca9645309",
+        "endpoint": "74cdb96df4da1788",
+        "variable": "DATA_CL11.DATOS_SENSOR.Selec_DHS",
+        "program": "",
+        "name": "",
+        "x": 690,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "4266fdbd3c0860fc",
+        "type": "eth-ip out",
+        "z": "b33f2007a2776232",
+        "g": "4ae0fd0ca9645309",
+        "endpoint": "74cdb96df4da1788",
+        "variable": "DATA_CL11.DATOS_SENSOR.Status_Comm_SF",
+        "program": "",
+        "name": "",
+        "x": 720,
+        "y": 510,
+        "wires": []
+    },
+    {
+        "id": "237a8b3a7faef157",
+        "type": "switch",
+        "z": "b33f2007a2776232",
+        "g": "69ad07e.039c4f8",
+        "name": "Remoto?",
+        "property": "Input.Operation.ControlMode",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Remoto",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 3470,
+        "y": 390,
+        "wires": [
+            [
+                "d0b7f7bd.74b728",
+                "5a8b47f509c8f014"
+            ]
+        ]
+    },
+    {
+        "id": "dfe7804f5e4d00a6",
+        "type": "eth-ip out",
+        "z": "b33f2007a2776232",
+        "g": "69ad07e.039c4f8",
+        "endpoint": "334149985a144b7e",
+        "variable": "CLUSTER2.W01.VSD.Arranque_Remoto_PD",
+        "program": "",
+        "name": "",
+        "x": 4670,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "d63991d6eea522dc",
+        "type": "eth-ip out",
+        "z": "b33f2007a2776232",
+        "g": "69ad07e.039c4f8",
+        "endpoint": "334149985a144b7e",
+        "variable": "CLUSTER2.W01.VSD.Parada_Remota_PD",
+        "program": "",
+        "name": "",
+        "x": 4670,
+        "y": 170,
+        "wires": []
+    },
+    {
+        "id": "37cff3488860a20f",
+        "type": "eth-ip out",
+        "z": "b33f2007a2776232",
+        "g": "69ad07e.039c4f8",
+        "endpoint": "334149985a144b7e",
+        "variable": "CLUSTER2.W01.VSD.Reset_Remoto_PD",
+        "program": "",
+        "name": "",
+        "x": 4140,
+        "y": 270,
+        "wires": []
+    },
+    {
+        "id": "6b7e7d98998ae2bf",
+        "type": "change",
+        "z": "b33f2007a2776232",
+        "g": "69ad07e.039c4f8",
+        "name": "0",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "0",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 4430,
+        "y": 120,
+        "wires": [
+            [
+                "dfe7804f5e4d00a6"
+            ]
+        ]
+    },
+    {
+        "id": "b10ae4a0b9ebc8c3",
+        "type": "change",
+        "z": "b33f2007a2776232",
+        "g": "69ad07e.039c4f8",
+        "name": "0",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "0",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 4430,
+        "y": 170,
+        "wires": [
+            [
+                "d63991d6eea522dc"
+            ]
+        ]
+    },
+    {
+        "id": "a3eceada3eccdfee",
+        "type": "change",
+        "z": "b33f2007a2776232",
+        "g": "69ad07e.039c4f8",
+        "name": "0",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "0",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 3910,
+        "y": 270,
+        "wires": [
+            [
+                "37cff3488860a20f"
+            ]
+        ]
+    },
+    {
+        "id": "ef739a22c2d4f791",
+        "type": "switch",
+        "z": "b33f2007a2776232",
+        "g": "69ad07e.039c4f8",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "cont",
+                "v": "Arranque",
+                "vt": "str"
+            },
+            {
+                "t": "cont",
+                "v": "Parada",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 4310,
+        "y": 140,
+        "wires": [
+            [
+                "6b7e7d98998ae2bf"
+            ],
+            [
+                "b10ae4a0b9ebc8c3"
+            ]
+        ]
+    },
+    {
+        "id": "8952cf25192b7668",
+        "type": "delay",
+        "z": "b33f2007a2776232",
+        "g": "69ad07e.039c4f8",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "1",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "x": 4180,
+        "y": 140,
+        "wires": [
+            [
+                "ef739a22c2d4f791"
+            ]
+        ]
+    },
+    {
+        "id": "55705b3b4e6bd77f",
+        "type": "delay",
+        "z": "b33f2007a2776232",
+        "g": "69ad07e.039c4f8",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "1",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "x": 3780,
+        "y": 270,
+        "wires": [
+            [
+                "a3eceada3eccdfee"
+            ]
+        ]
+    },
+    {
+        "id": "5a8b47f509c8f014",
+        "type": "rbe",
+        "z": "b33f2007a2776232",
+        "g": "69ad07e.039c4f8",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 3610,
+        "y": 370,
+        "wires": [
+            [
+                "f5656c8d.91d4"
             ]
         ]
     }
