@@ -911,7 +911,9 @@
             "c41a251e.427c98"
         ],
         "x": -2,
-        "y": 983
+        "y": 983,
+        "w": 1564,
+        "h": 334
     },
     {
         "id": "365d864c.8c19ca",
@@ -935,7 +937,9 @@
             "e032b1f4.a8be7"
         ],
         "x": 1692,
-        "y": 217
+        "y": 217,
+        "w": 1726,
+        "h": 2556
     },
     {
         "id": "43bab036.712ca",
@@ -950,7 +954,9 @@
             "e9d2f5f0.86a518"
         ],
         "x": -2,
-        "y": 521
+        "y": 521,
+        "w": 1564,
+        "h": 456
     },
     {
         "id": "54254b6e.789ca4",
@@ -976,7 +982,9 @@
             "16c036a47724813c"
         ],
         "x": 84,
-        "y": 1349
+        "y": 1349,
+        "w": 682,
+        "h": 282
     },
     {
         "id": "68e6bb30.d1fce4",
@@ -991,7 +999,9 @@
             "a7e99088.c8108"
         ],
         "x": -2,
-        "y": 133
+        "y": 133,
+        "w": 1564,
+        "h": 374
     },
     {
         "id": "8a04702.34fd29",
@@ -1008,7 +1018,9 @@
             "49534500.cd9cdc"
         ],
         "x": 894,
-        "y": 1329
+        "y": 1329,
+        "w": 290,
+        "h": 122
     },
     {
         "id": "ab42d2fa.9240c",
@@ -1028,7 +1040,9 @@
             "82264d68.0b05a"
         ],
         "x": 3478,
-        "y": 1723
+        "y": 1723,
+        "w": 1324,
+        "h": 664
     },
     {
         "id": "bd17e5b9.9261f8",
@@ -1048,7 +1062,9 @@
             "aa730b91.5646d8"
         ],
         "x": 3484,
-        "y": 2399
+        "y": 2399,
+        "w": 752,
+        "h": 122
     },
     {
         "id": "ec31a094.c373c",
@@ -1068,7 +1084,9 @@
             "9f627758.670cd8"
         ],
         "x": 3478,
-        "y": 143
+        "y": 143,
+        "w": 1534,
+        "h": 1574
     },
     {
         "id": "d689e3de.7d569",
@@ -1376,9 +1394,7 @@
             "996a9142c814ab39"
         ],
         "x": 24,
-        "y": 429,
-        "w": 722,
-        "h": 242
+        "y": 429
     },
     {
         "id": "6abd418f.d175b",
@@ -1393,9 +1409,7 @@
             "b2f2659a.67f648"
         ],
         "x": 18,
-        "y": 23,
-        "w": 1754,
-        "h": 394
+        "y": 23
     },
     {
         "id": "8c207e440fb46f33",
@@ -1411,9 +1425,7 @@
             "9f77b0d829ad914b"
         ],
         "x": 514,
-        "y": 769,
-        "w": 282,
-        "h": 82
+        "y": 769
     },
     {
         "id": "38940f8.c9c27f",
@@ -2154,7 +2166,9 @@
             "6625e1db09743bc3"
         ],
         "x": -2,
-        "y": 2193
+        "y": 2193,
+        "w": 1504,
+        "h": 294
     },
     {
         "id": "854dec5e.9e51d",
@@ -2442,9 +2456,7 @@
             "7891beb136b84093"
         ],
         "x": 964,
-        "y": 69,
-        "w": 932,
-        "h": 482
+        "y": 69
     },
     {
         "id": "4ae0fd0ca9645309",
@@ -2473,9 +2485,7 @@
             "9babc6836bff31e8"
         ],
         "x": 24,
-        "y": 69,
-        "w": 932,
-        "h": 582
+        "y": 69
     },
     {
         "id": "76bd25c71a8d7775",
@@ -2514,9 +2524,7 @@
             "3176ad7a0b3bbd81"
         ],
         "x": 1904,
-        "y": 69,
-        "w": 932,
-        "h": 1132
+        "y": 69
     },
     {
         "id": "afdbbb533d628687",
@@ -2586,9 +2594,7 @@
             "5a8b47f509c8f014"
         ],
         "x": 2994,
-        "y": 79,
-        "w": 1872,
-        "h": 372
+        "y": 79
     },
     {
         "id": "ba075c8cc622876a",
@@ -2608,7 +2614,9 @@
             "8a8fcb5375e06087"
         ],
         "x": 14,
-        "y": 2489
+        "y": 2489,
+        "w": 682,
+        "h": 122
     },
     {
         "id": "6939ff44.377fa",
@@ -2630,7 +2638,9 @@
             "1b972dc0d731bd9c"
         ],
         "x": 3484,
-        "y": 2529
+        "y": 2529,
+        "w": 632,
+        "h": 162
     },
     {
         "id": "23c99fd.b16886",
@@ -2714,9 +2724,7 @@
             "b88575ca75fdb4f5"
         ],
         "x": 754,
-        "y": 429,
-        "w": 922,
-        "h": 82
+        "y": 429
     },
     {
         "id": "d175fb986dc9e991",
@@ -2736,9 +2744,7 @@
             "36c70d85dac8cd26"
         ],
         "x": 754,
-        "y": 519,
-        "w": 922,
-        "h": 82
+        "y": 519
     },
     {
         "id": "62fac95632266b01",
@@ -2779,6 +2785,23 @@
         ],
         "x": 1874,
         "y": 39
+    },
+    {
+        "id": "96c458bbaaf91d88",
+        "type": "group",
+        "z": "b33f2007a2776232",
+        "name": "Bandera de comunicación SCADA",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "6f7cc7d3838975ae",
+            "dc303a812b9ad280",
+            "fc4e6ab74ebe7635"
+        ],
+        "x": 2994,
+        "y": 459
     },
     {
         "id": "b079c206d161b62c",
@@ -2986,7 +3009,9 @@
             "4b2d01032ad01b5f"
         ],
         "x": 884,
-        "y": 1009
+        "y": 1009,
+        "w": 652,
+        "h": 282
     },
     {
         "id": "c41a251e.427c98",
@@ -3016,7 +3041,9 @@
             "43ef002844a8d559"
         ],
         "x": 24,
-        "y": 1009
+        "y": 1009,
+        "w": 862,
+        "h": 202
     },
     {
         "id": "e032b1f4.a8be7",
@@ -3037,7 +3064,9 @@
             "4a1410ce.7057a"
         ],
         "x": 1798,
-        "y": 243
+        "y": 243,
+        "w": 1594,
+        "h": 1024
     },
     {
         "id": "9bb5d411.271d48",
@@ -3058,7 +3087,9 @@
             "44ee5bb3.49b264"
         ],
         "x": 1818,
-        "y": 1273
+        "y": 1273,
+        "w": 1574,
+        "h": 494
     },
     {
         "id": "8ac2b187.14625",
@@ -3079,7 +3110,9 @@
             "efe6d3f.f10193"
         ],
         "x": 1768,
-        "y": 1783
+        "y": 1783,
+        "w": 1624,
+        "h": 254
     },
     {
         "id": "dd0fb9ab.f737f8",
@@ -3100,7 +3133,9 @@
             "de31a457.a923c8"
         ],
         "x": 1718,
-        "y": 2053
+        "y": 2053,
+        "w": 1674,
+        "h": 254
     },
     {
         "id": "dad86215.ed79c",
@@ -3121,7 +3156,9 @@
             "baaa353b.511268"
         ],
         "x": 1818,
-        "y": 2373
+        "y": 2373,
+        "w": 1574,
+        "h": 374
     },
     {
         "id": "27c43941.e9e0c6",
@@ -3160,7 +3197,9 @@
             "b654921e2eaadb16"
         ],
         "x": 24,
-        "y": 549
+        "y": 549,
+        "w": 772,
+        "h": 322
     },
     {
         "id": "e9d2f5f0.86a518",
@@ -3193,7 +3232,9 @@
             "8307ca17.c4d5b8"
         ],
         "x": 804,
-        "y": 547
+        "y": 547,
+        "w": 732,
+        "h": 404
     },
     {
         "id": "6cdd72bc.8124cc",
@@ -3223,7 +3264,9 @@
             "154f8bca3ba4d547"
         ],
         "x": 24,
-        "y": 159
+        "y": 159,
+        "w": 752,
+        "h": 202
     },
     {
         "id": "a7e99088.c8108",
@@ -3254,7 +3297,9 @@
             "aa882bcf32d6610f"
         ],
         "x": 784,
-        "y": 159
+        "y": 159,
+        "w": 752,
+        "h": 322
     },
     {
         "id": "78a8be83.7018c",
@@ -3285,7 +3330,9 @@
             "3f3a83c71b2f5a67"
         ],
         "x": 3504,
-        "y": 1879
+        "y": 1879,
+        "w": 1272,
+        "h": 482
     },
     {
         "id": "82264d68.0b05a",
@@ -3306,7 +3353,9 @@
             "353f1b5f0e990fc0"
         ],
         "x": 3504,
-        "y": 1749
+        "y": 1749,
+        "w": 682,
+        "h": 122
     },
     {
         "id": "4af99851.bcfb28",
@@ -3376,7 +3425,9 @@
             "2e21c9cebde6f3b5"
         ],
         "x": 3504,
-        "y": 169
+        "y": 169,
+        "w": 832,
+        "h": 1522
     },
     {
         "id": "9f627758.670cd8",
@@ -3449,7 +3500,9 @@
             "867daec35cee2f96"
         ],
         "x": 4344,
-        "y": 169
+        "y": 169,
+        "w": 642,
+        "h": 562
     },
     {
         "id": "71fd37.e2a532c8",
@@ -3721,9 +3774,7 @@
             "c30439cc.4bcb68"
         ],
         "x": 44,
-        "y": 49,
-        "w": 1422,
-        "h": 212
+        "y": 49
     },
     {
         "id": "b2f2659a.67f648",
@@ -3751,9 +3802,7 @@
             "de16ee9e71fc7646"
         ],
         "x": 44,
-        "y": 269,
-        "w": 1702,
-        "h": 122
+        "y": 269
     },
     {
         "id": "70a63b74.44894c",
@@ -4112,7 +4161,9 @@
             "c7ce33ac338a9db9"
         ],
         "x": 24,
-        "y": 2219
+        "y": 2219,
+        "w": 1452,
+        "h": 242
     },
     {
         "id": "c30870cb.fa25a",
@@ -4623,7 +4674,9 @@
             "3562934e5b0cf017"
         ],
         "x": 1844,
-        "y": 1299
+        "y": 1299,
+        "w": 872,
+        "h": 442
     },
     {
         "id": "37d2bc6e.615114",
@@ -4653,7 +4706,9 @@
             "8dde271ff1d969fa"
         ],
         "x": 1794,
-        "y": 1809
+        "y": 1809,
+        "w": 912,
+        "h": 202
     },
     {
         "id": "de31a457.a923c8",
@@ -4685,7 +4740,9 @@
             "dde585da45828626"
         ],
         "x": 1744,
-        "y": 2079
+        "y": 2079,
+        "w": 972,
+        "h": 202
     },
     {
         "id": "e5ce125e.59232",
@@ -4762,7 +4819,9 @@
             "7f16c2134718aa10"
         ],
         "x": 2704,
-        "y": 269
+        "y": 269,
+        "w": 662,
+        "h": 642
     },
     {
         "id": "44ee5bb3.49b264",
@@ -4823,7 +4882,9 @@
             "89b7b336cfb8b746"
         ],
         "x": 2714,
-        "y": 1299
+        "y": 1299,
+        "w": 652,
+        "h": 442
     },
     {
         "id": "efe6d3f.f10193",
@@ -4860,7 +4921,9 @@
             "d5fd47a5a4155735"
         ],
         "x": 2714,
-        "y": 1809
+        "y": 1809,
+        "w": 652,
+        "h": 202
     },
     {
         "id": "826b087f.5615a8",
@@ -4893,7 +4956,9 @@
             "2a899511c5694e05"
         ],
         "x": 2714,
-        "y": 2079
+        "y": 2079,
+        "w": 652,
+        "h": 182
     },
     {
         "id": "372b998e.a167c6",
@@ -4932,7 +4997,9 @@
             "7eba7a6f755e91c4"
         ],
         "x": 1844,
-        "y": 2399
+        "y": 2399,
+        "w": 862,
+        "h": 322
     },
     {
         "id": "baaa353b.511268",
@@ -4981,7 +5048,9 @@
             "43ab53b4e42bdc3a"
         ],
         "x": 2714,
-        "y": 2399
+        "y": 2399,
+        "w": 652,
+        "h": 322
     },
     {
         "id": "4a1410ce.7057a",
@@ -5046,7 +5115,9 @@
             "c86957e47636c7a3"
         ],
         "x": 1824,
-        "y": 269
+        "y": 269,
+        "w": 882,
+        "h": 972
     },
     {
         "id": "76d03353.299b94",
@@ -5610,25 +5681,6 @@
         ],
         "x": 84,
         "y": 1579
-    },
-    {
-        "id": "96c458bbaaf91d88",
-        "type": "group",
-        "z": "b33f2007a2776232",
-        "name": "Bandera de comunicación SCADA",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "6f7cc7d3838975ae",
-            "dc303a812b9ad280",
-            "fc4e6ab74ebe7635"
-        ],
-        "x": 2994,
-        "y": 459,
-        "w": 652,
-        "h": 82
     },
     {
         "id": "d25d405a.19cff",
@@ -8048,11 +8100,12 @@
         "type": "function",
         "z": "2657da37.013b66",
         "name": "Login Autentication",
-        "func": "//Get user data from flow context\nvar user            = flow.get(\"user\")|| \"null\";\nvar password        = flow.get(\"password\")||\"null\";\n\n//User status\nvar UserStatus = global.get(\"UserStatus\",\"memoryOnly\")||0;\n\n// Admin user\nvar AdminUser       = \"slacol\";\nvar AdminPassword   = \"1278\";\n\n// Operator user\nvar OperUser        = \"Oper\";\nvar OperPassword    = \"5321\";\n\n// root user\nvar rootUser = \"root\";\nvar rootPassword = \"1009\";\n\nif(!UserStatus){\n    \n    // Acceso Nivel 1\n    if(user == AdminUser && password == AdminPassword){\n        global.set(\"UserStatus\", 2,\"memoryOnly\");\n        msg.name = \"Admin\";\n        msg.userstatus = \"Sesión iniciada\"\n    }\n    // Acceso Nivel 2\n    else if(user == OperUser && password == OperPassword){\n        global.set(\"UserStatus\", 1,\"memoryOnly\");\n        msg.name = \"Operator\";\n        msg.userstatus = \"Sesión iniciada\"\n    }\n    // Acceso Nivel root\n    else if (user == rootUser && password == rootPassword) {\n        global.set(\"UserStatus\", 3, \"memoryOnly\");\n        msg.name = \"root\";\n        msg.userstatus = \"Sesión iniciada\"\n    }\n    else{\n        msg.error = \"Usuario o contraseña incorrectos: Por favor llene los campos nuevamente\";\n    }\n}\nelse{\n    msg.error = \"Usuario activo, por favor cierre sesión primero\";\n}\n\nmsg.payload = global.get(\"UserStatus\",\"memoryOnly\")\n\nreturn msg;",
+        "func": "//Get user data from flow context\nvar user            = flow.get(\"user\")|| \"null\";\nvar password        = flow.get(\"password\")||\"null\";\n\n//User status\nvar UserStatus = global.get(\"UserStatus\",\"memoryOnly\")||0;\n\n// Admin user\nvar AdminUser       = \"slacol\";\nvar AdminPassword   = \"1278\";\n\n// Operator user\nvar OperUser        = \"Oper\";\nvar OperPassword    = \"5321\";\n\n// Operator user\nvar MantUser        = \"mant\";\nvar MantPassword    = \"6152\";\n\n// root user\nvar rootUser = \"root\";\nvar rootPassword = \"1009\";\n\nif(!UserStatus){\n    \n    // Acceso Nivel 1\n    if(user == AdminUser && password == AdminPassword){\n        global.set(\"UserStatus\", 2,\"memoryOnly\");\n        msg.name = \"Admin\";\n        msg.userstatus = \"Sesión iniciada\"\n    }\n    // Acceso Nivel 2\n    else if((user == OperUser && password == OperPassword)||(user == MantUser && password == MantPassword)){\n        global.set(\"UserStatus\", 1,\"memoryOnly\");\n        msg.name = \"Operator\";\n        msg.userstatus = \"Sesión iniciada\"\n    }\n    // Acceso Nivel root\n    else if (user == rootUser && password == rootPassword) {\n        global.set(\"UserStatus\", 3, \"memoryOnly\");\n        msg.name = \"root\";\n        msg.userstatus = \"Sesión iniciada\"\n    }\n    else{\n        msg.error = \"Usuario o contraseña incorrectos: Por favor llene los campos nuevamente\";\n    }\n}\nelse{\n    msg.error = \"Usuario activo, por favor cierre sesión primero\";\n}\n\nmsg.payload = global.get(\"UserStatus\",\"memoryOnly\")\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 310,
         "y": 110,
         "wires": [
@@ -9912,8 +9965,8 @@
         "type": "ui_led",
         "z": "902fc438.e5d758",
         "g": "086b9d08c3b68939",
-        "group": "4f5b8416.cada1c",
         "order": 1,
+        "group": "4f5b8416.cada1c",
         "width": 5,
         "height": 1,
         "label": "C2S: {{msg.payload}}",
@@ -10776,7 +10829,7 @@
         "order": 4,
         "width": 3,
         "height": "3",
-        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n</head>\n\n<body>\n    <div class=\"container align-self-center\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col\">\n                <img src=\"http://localhost:1880/swcpro-images/hlogo.png\" style=\"width:75%;\">\n            </div>\n        </div>\n    </div>\n    <div class=\"container align-self-center\">\n        <div class=\"row justify-content-center\">\n            <h5><span class=\"badge badge-secondary\">Versión: RB 1.8.0</span></h5>\n        </div>\n    </div>\n</body>\n\n<script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n<script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n<script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script>\n\n<style>\n    .disable-select {\n        user-select: none;\n        /* supported by Chrome and Opera */\n        -webkit-user-select: none;\n        /* Safari */\n        -khtml-user-select: none;\n        /* Konqueror HTML */\n        -moz-user-select: none;\n        /* Firefox */\n        -ms-user-select: none;\n        /* Internet Explorer/Edge */\n    }\n\n    .imagen {\n        height: 90px;\n        background-image: url(http://localhost:1880/swcpro-images/hlogo.png);\n        background-size: contain;\n        background-repeat: no-repeat;\n        background-position: center center;\n    }\n</style>\n\n</html>",
+        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n</head>\n\n<body>\n    <div class=\"container align-self-center\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col\">\n                <img src=\"http://localhost:1880/swcpro-images/hlogo.png\" style=\"width:75%;\">\n            </div>\n        </div>\n    </div>\n    <div class=\"container align-self-center\">\n        <div class=\"row justify-content-center\">\n            <h5><span class=\"badge badge-secondary\">Versión: RB 1.8.1</span></h5>\n        </div>\n    </div>\n</body>\n\n<script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n<script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n<script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script>\n\n<style>\n    .disable-select {\n        user-select: none;\n        /* supported by Chrome and Opera */\n        -webkit-user-select: none;\n        /* Safari */\n        -khtml-user-select: none;\n        /* Konqueror HTML */\n        -moz-user-select: none;\n        /* Firefox */\n        -ms-user-select: none;\n        /* Internet Explorer/Edge */\n    }\n\n    .imagen {\n        height: 90px;\n        background-image: url(http://localhost:1880/swcpro-images/hlogo.png);\n        background-size: contain;\n        background-repeat: no-repeat;\n        background-position: center center;\n    }\n</style>\n\n</html>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
@@ -54423,8 +54476,8 @@
         "type": "ui_led",
         "z": "7a89175c.90f6a8",
         "g": "742e267a.cbc27",
-        "group": "999747fd.0e43c8",
         "order": 6,
+        "group": "999747fd.0e43c8",
         "width": 0,
         "height": 0,
         "label": "{{msg.payload}}",
@@ -54508,8 +54561,8 @@
         "type": "ui_led",
         "z": "7a89175c.90f6a8",
         "g": "76d03353.299b94",
-        "group": "9457c46f.d710c8",
         "order": 6,
+        "group": "9457c46f.d710c8",
         "width": 0,
         "height": 0,
         "label": "{{msg.payload}}",
@@ -68859,8 +68912,8 @@
         "type": "ui_led",
         "z": "38e901f121b52acb",
         "g": "9437db38.d604e",
-        "group": "8276e64d.c16508",
         "order": 1,
+        "group": "8276e64d.c16508",
         "width": 0,
         "height": 0,
         "label": "Estado de comunicación: {{msg.payload}}",
@@ -69322,7 +69375,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "[{\"No\":1,\"Descripción\":\"Presión de entrada\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":38,\"Multiplicador\":0.1,\"Unidades\":\"psi\"},{\"No\":2,\"Descripción\":\"Presión de descarga\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":40,\"Multiplicador\":0.1,\"Unidades\":\"psi\"},{\"No\":3,\"Descripción\":\"Temperatura de entrada\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":37,\"Multiplicador\":0.1,\"Unidades\":\"ºC\"},{\"No\":4,\"Descripción\":\"Temperatura de descarga\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":39,\"Multiplicador\":0.1,\"Unidades\":\"ºC\"},{\"No\":5,\"Descripción\":\"Temperatura de motor\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":41,\"Multiplicador\":0.1,\"Unidades\":\"ºC\"}]",
+                "to": "[{\"No\":1,\"Descripción\":\"Presión de entrada\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":1800,\"Multiplicador\":0.1,\"Unidades\":\"psi\"},{\"No\":2,\"Descripción\":\"Presión de descarga\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":1801,\"Multiplicador\":0.1,\"Unidades\":\"psi\"},{\"No\":3,\"Descripción\":\"Temperatura de entrada\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":1803,\"Multiplicador\":0.01,\"Unidades\":\"°C\"},{\"No\":4,\"Descripción\":\"Temperatura de descarga\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":1805,\"Multiplicador\":0.01,\"Unidades\":\"°C\"},{\"No\":5,\"Descripción\":\"Temperatura de motor\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":1804,\"Multiplicador\":0.01,\"Unidades\":\"°C\"},{\"No\":6,\"Descripción\":\"Vibración X\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":52,\"Multiplicador\":0.01,\"Unidades\":\"G\"},{\"No\":7,\"Descripción\":\"Vibración Z\",\"Tipo de dato\":\"INT\",\"Tipo de registro\":\"HR\",\"Registro\":53,\"Multiplicador\":0.01,\"Unidades\":\"G\"}]",
                 "tot": "json"
             }
         ],
