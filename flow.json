@@ -502,7 +502,7 @@
         "in": [],
         "out": [
             {
-                "x": 750,
+                "x": 650,
                 "y": 40,
                 "wires": [
                     {
@@ -512,7 +512,7 @@
                 ]
             },
             {
-                "x": 750,
+                "x": 650,
                 "y": 90,
                 "wires": [
                     {
@@ -522,7 +522,7 @@
                 ]
             },
             {
-                "x": 750,
+                "x": 650,
                 "y": 140,
                 "wires": [
                     {
@@ -911,9 +911,7 @@
             "c41a251e.427c98"
         ],
         "x": -2,
-        "y": 983,
-        "w": 1564,
-        "h": 334
+        "y": 983
     },
     {
         "id": "365d864c.8c19ca",
@@ -937,9 +935,7 @@
             "e032b1f4.a8be7"
         ],
         "x": 1692,
-        "y": 217,
-        "w": 1726,
-        "h": 2556
+        "y": 217
     },
     {
         "id": "43bab036.712ca",
@@ -954,9 +950,7 @@
             "e9d2f5f0.86a518"
         ],
         "x": -2,
-        "y": 521,
-        "w": 1564,
-        "h": 456
+        "y": 521
     },
     {
         "id": "54254b6e.789ca4",
@@ -982,9 +976,7 @@
             "16c036a47724813c"
         ],
         "x": 84,
-        "y": 1349,
-        "w": 682,
-        "h": 282
+        "y": 1349
     },
     {
         "id": "68e6bb30.d1fce4",
@@ -999,9 +991,7 @@
             "a7e99088.c8108"
         ],
         "x": -2,
-        "y": 133,
-        "w": 1564,
-        "h": 374
+        "y": 133
     },
     {
         "id": "8a04702.34fd29",
@@ -1018,9 +1008,7 @@
             "49534500.cd9cdc"
         ],
         "x": 894,
-        "y": 1329,
-        "w": 293,
-        "h": 122
+        "y": 1329
     },
     {
         "id": "ab42d2fa.9240c",
@@ -1040,9 +1028,7 @@
             "82264d68.0b05a"
         ],
         "x": 3478,
-        "y": 1723,
-        "w": 1324,
-        "h": 664
+        "y": 1723
     },
     {
         "id": "bd17e5b9.9261f8",
@@ -1062,9 +1048,7 @@
             "aa730b91.5646d8"
         ],
         "x": 3484,
-        "y": 2399,
-        "w": 762,
-        "h": 122
+        "y": 2399
     },
     {
         "id": "ec31a094.c373c",
@@ -1084,9 +1068,7 @@
             "9f627758.670cd8"
         ],
         "x": 3478,
-        "y": 143,
-        "w": 1534,
-        "h": 1574
+        "y": 143
     },
     {
         "id": "d689e3de.7d569",
@@ -1582,9 +1564,7 @@
             "98ca0b1c.cda4f8"
         ],
         "x": 24,
-        "y": 29,
-        "w": 942,
-        "h": 202
+        "y": 29
     },
     {
         "id": "57eba231.4d56dc",
@@ -1604,9 +1584,7 @@
             "e9e93a2c.deeb18"
         ],
         "x": 28,
-        "y": 243,
-        "w": 374,
-        "h": 304
+        "y": 243
     },
     {
         "id": "dbdc491cb6e9eee5",
@@ -2175,9 +2153,7 @@
             "6625e1db09743bc3"
         ],
         "x": -2,
-        "y": 2193,
-        "w": 1504,
-        "h": 294
+        "y": 2193
     },
     {
         "id": "854dec5e.9e51d",
@@ -2464,8 +2440,10 @@
             "996ed27d8118a79c",
             "7891beb136b84093"
         ],
-        "x": 964,
-        "y": 69
+        "x": 984,
+        "y": 69,
+        "w": 912,
+        "h": 482
     },
     {
         "id": "4ae0fd0ca9645309",
@@ -2493,8 +2471,10 @@
             "6aef1d64837e110f",
             "9babc6836bff31e8"
         ],
-        "x": 24,
-        "y": 69
+        "x": 44,
+        "y": 69,
+        "w": 932,
+        "h": 582
     },
     {
         "id": "76bd25c71a8d7775",
@@ -2533,7 +2513,9 @@
             "3176ad7a0b3bbd81"
         ],
         "x": 1904,
-        "y": 69
+        "y": 69,
+        "w": 932,
+        "h": 1132
     },
     {
         "id": "afdbbb533d628687",
@@ -2603,7 +2585,9 @@
             "5a8b47f509c8f014"
         ],
         "x": 2994,
-        "y": 79
+        "y": 79,
+        "w": 1872,
+        "h": 372
     },
     {
         "id": "ba075c8cc622876a",
@@ -2623,9 +2607,7 @@
             "8a8fcb5375e06087"
         ],
         "x": 14,
-        "y": 2489,
-        "w": 682,
-        "h": 122
+        "y": 2489
     },
     {
         "id": "6939ff44.377fa",
@@ -2647,9 +2629,7 @@
             "1b972dc0d731bd9c"
         ],
         "x": 3484,
-        "y": 2529,
-        "w": 642,
-        "h": 162
+        "y": 2529
     },
     {
         "id": "23c99fd.b16886",
@@ -2810,7 +2790,25 @@
             "fc4e6ab74ebe7635"
         ],
         "x": 2994,
-        "y": 459
+        "y": 459,
+        "w": 652,
+        "h": 82
+    },
+    {
+        "id": "6cf3af62bb707c4c",
+        "type": "group",
+        "z": "43b51d90.0b47f4",
+        "name": "No funciona?",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "9cba57eb85267c36",
+            "76b9897f91e30e18"
+        ],
+        "x": 144,
+        "y": 1619
     },
     {
         "id": "b079c206d161b62c",
@@ -3018,9 +3016,7 @@
             "4b2d01032ad01b5f"
         ],
         "x": 884,
-        "y": 1009,
-        "w": 652,
-        "h": 282
+        "y": 1009
     },
     {
         "id": "c41a251e.427c98",
@@ -3050,9 +3046,7 @@
             "43ef002844a8d559"
         ],
         "x": 24,
-        "y": 1009,
-        "w": 862,
-        "h": 202
+        "y": 1009
     },
     {
         "id": "e032b1f4.a8be7",
@@ -3073,9 +3067,7 @@
             "4a1410ce.7057a"
         ],
         "x": 1798,
-        "y": 243,
-        "w": 1594,
-        "h": 1024
+        "y": 243
     },
     {
         "id": "9bb5d411.271d48",
@@ -3096,9 +3088,7 @@
             "44ee5bb3.49b264"
         ],
         "x": 1818,
-        "y": 1273,
-        "w": 1574,
-        "h": 494
+        "y": 1273
     },
     {
         "id": "8ac2b187.14625",
@@ -3119,9 +3109,7 @@
             "efe6d3f.f10193"
         ],
         "x": 1768,
-        "y": 1783,
-        "w": 1624,
-        "h": 254
+        "y": 1783
     },
     {
         "id": "dd0fb9ab.f737f8",
@@ -3142,9 +3130,7 @@
             "de31a457.a923c8"
         ],
         "x": 1718,
-        "y": 2053,
-        "w": 1674,
-        "h": 254
+        "y": 2053
     },
     {
         "id": "dad86215.ed79c",
@@ -3165,9 +3151,7 @@
             "baaa353b.511268"
         ],
         "x": 1818,
-        "y": 2373,
-        "w": 1574,
-        "h": 374
+        "y": 2373
     },
     {
         "id": "27c43941.e9e0c6",
@@ -3206,9 +3190,7 @@
             "b654921e2eaadb16"
         ],
         "x": 24,
-        "y": 549,
-        "w": 772,
-        "h": 322
+        "y": 549
     },
     {
         "id": "e9d2f5f0.86a518",
@@ -3241,9 +3223,7 @@
             "8307ca17.c4d5b8"
         ],
         "x": 804,
-        "y": 547,
-        "w": 732,
-        "h": 404
+        "y": 547
     },
     {
         "id": "6cdd72bc.8124cc",
@@ -3273,9 +3253,7 @@
             "154f8bca3ba4d547"
         ],
         "x": 24,
-        "y": 159,
-        "w": 752,
-        "h": 202
+        "y": 159
     },
     {
         "id": "a7e99088.c8108",
@@ -3306,9 +3284,7 @@
             "aa882bcf32d6610f"
         ],
         "x": 784,
-        "y": 159,
-        "w": 752,
-        "h": 322
+        "y": 159
     },
     {
         "id": "78a8be83.7018c",
@@ -3339,9 +3315,7 @@
             "3f3a83c71b2f5a67"
         ],
         "x": 3504,
-        "y": 1879,
-        "w": 1272,
-        "h": 482
+        "y": 1879
     },
     {
         "id": "82264d68.0b05a",
@@ -3362,9 +3336,7 @@
             "353f1b5f0e990fc0"
         ],
         "x": 3504,
-        "y": 1749,
-        "w": 682,
-        "h": 122
+        "y": 1749
     },
     {
         "id": "4af99851.bcfb28",
@@ -3434,9 +3406,7 @@
             "2e21c9cebde6f3b5"
         ],
         "x": 3504,
-        "y": 169,
-        "w": 832,
-        "h": 1522
+        "y": 169
     },
     {
         "id": "9f627758.670cd8",
@@ -3509,9 +3479,7 @@
             "867daec35cee2f96"
         ],
         "x": 4344,
-        "y": 169,
-        "w": 642,
-        "h": 562
+        "y": 169
     },
     {
         "id": "71fd37.e2a532c8",
@@ -3889,9 +3857,7 @@
             "f0c186466f456fd2"
         ],
         "x": 54,
-        "y": 269,
-        "w": 322,
-        "h": 122
+        "y": 269
     },
     {
         "id": "e9e93a2c.deeb18",
@@ -3911,9 +3877,7 @@
             "37f2db57.b831c4"
         ],
         "x": 54,
-        "y": 399,
-        "w": 322,
-        "h": 122
+        "y": 399
     },
     {
         "id": "272ed76d.7cce68",
@@ -4174,9 +4138,7 @@
             "c7ce33ac338a9db9"
         ],
         "x": 24,
-        "y": 2219,
-        "w": 1452,
-        "h": 242
+        "y": 2219
     },
     {
         "id": "c30870cb.fa25a",
@@ -4687,9 +4649,7 @@
             "3562934e5b0cf017"
         ],
         "x": 1844,
-        "y": 1299,
-        "w": 862,
-        "h": 442
+        "y": 1299
     },
     {
         "id": "37d2bc6e.615114",
@@ -4719,9 +4679,7 @@
             "8dde271ff1d969fa"
         ],
         "x": 1794,
-        "y": 1809,
-        "w": 912,
-        "h": 202
+        "y": 1809
     },
     {
         "id": "de31a457.a923c8",
@@ -4753,9 +4711,7 @@
             "dde585da45828626"
         ],
         "x": 1744,
-        "y": 2079,
-        "w": 972,
-        "h": 202
+        "y": 2079
     },
     {
         "id": "e5ce125e.59232",
@@ -4832,9 +4788,7 @@
             "7f16c2134718aa10"
         ],
         "x": 2704,
-        "y": 269,
-        "w": 662,
-        "h": 642
+        "y": 269
     },
     {
         "id": "44ee5bb3.49b264",
@@ -4895,9 +4849,7 @@
             "89b7b336cfb8b746"
         ],
         "x": 2714,
-        "y": 1299,
-        "w": 652,
-        "h": 442
+        "y": 1299
     },
     {
         "id": "efe6d3f.f10193",
@@ -4934,9 +4886,7 @@
             "d5fd47a5a4155735"
         ],
         "x": 2714,
-        "y": 1809,
-        "w": 652,
-        "h": 202
+        "y": 1809
     },
     {
         "id": "826b087f.5615a8",
@@ -4969,9 +4919,7 @@
             "2a899511c5694e05"
         ],
         "x": 2714,
-        "y": 2079,
-        "w": 652,
-        "h": 182
+        "y": 2079
     },
     {
         "id": "372b998e.a167c6",
@@ -5010,9 +4958,7 @@
             "7eba7a6f755e91c4"
         ],
         "x": 1844,
-        "y": 2399,
-        "w": 862,
-        "h": 322
+        "y": 2399
     },
     {
         "id": "baaa353b.511268",
@@ -5061,9 +5007,7 @@
             "43ab53b4e42bdc3a"
         ],
         "x": 2714,
-        "y": 2399,
-        "w": 652,
-        "h": 322
+        "y": 2399
     },
     {
         "id": "4a1410ce.7057a",
@@ -5128,9 +5072,7 @@
             "c86957e47636c7a3"
         ],
         "x": 1824,
-        "y": 269,
-        "w": 882,
-        "h": 972
+        "y": 269
     },
     {
         "id": "76d03353.299b94",
@@ -5694,24 +5636,6 @@
         ],
         "x": 84,
         "y": 1579
-    },
-    {
-        "id": "6cf3af62bb707c4c",
-        "type": "group",
-        "z": "43b51d90.0b47f4",
-        "name": "No funciona?",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "9cba57eb85267c36",
-            "76b9897f91e30e18"
-        ],
-        "x": 144,
-        "y": 1619,
-        "w": 362,
-        "h": 82
     },
     {
         "id": "d25d405a.19cff",
@@ -7150,127 +7074,127 @@
         "address": "192.168.2.4",
         "slot": "0",
         "cycletime": "500",
-        "name": "PQM SCP1",
+        "name": "PQM SCP",
         "vartable": {
             "": {
-                "DATA_CL4.DATOS_PM3K.Voltaje_L_L_Pro": {
+                "DATA_CL13.DATOS_PM3K.Voltaje_L_L_Pro": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.Voltaje_L1_L2": {
+                "DATA_CL13.DATOS_PM3K.Voltaje_L1_L2": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.Voltaje_L2_L3": {
+                "DATA_CL13.DATOS_PM3K.Voltaje_L2_L3": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.Voltaje_L1_L3": {
+                "DATA_CL13.DATOS_PM3K.Voltaje_L1_L3": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.Voltaje_L_N_Pro": {
+                "DATA_CL13.DATOS_PM3K.Voltaje_L_N_Pro": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.Voltaje_L1_N": {
+                "DATA_CL13.DATOS_PM3K.Voltaje_L1_N": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.Voltaje_L2_N": {
+                "DATA_CL13.DATOS_PM3K.Voltaje_L2_N": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.Voltaje_L3_N": {
+                "DATA_CL13.DATOS_PM3K.Voltaje_L3_N": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.Amp_Pro": {
+                "DATA_CL13.DATOS_PM3K.Amp_Pro": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.Amp_L1": {
+                "DATA_CL13.DATOS_PM3K.Amp_L1": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.Amp_L2": {
+                "DATA_CL13.DATOS_PM3K.Amp_L2": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.Amp_L3": {
+                "DATA_CL13.DATOS_PM3K.Amp_L3": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.HZ_Act_Pro": {
+                "DATA_CL13.DATOS_PM3K.HZ_Act_Pro": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.HZ_Act_L1": {
+                "DATA_CL13.DATOS_PM3K.HZ_Act_L1": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.HZ_Act_L2": {
+                "DATA_CL13.DATOS_PM3K.HZ_Act_L2": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.HZ_Act_L3": {
+                "DATA_CL13.DATOS_PM3K.HZ_Act_L3": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.KWATT_Act_Pro": {
+                "DATA_CL13.DATOS_PM3K.KWATT_Act_Pro": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.KWATT_Act_L1": {
+                "DATA_CL13.DATOS_PM3K.KWATT_Act_L1": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.KWATT_Act_L2": {
+                "DATA_CL13.DATOS_PM3K.KWATT_Act_L2": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.KWATT_Act_L3": {
+                "DATA_CL13.DATOS_PM3K.KWATT_Act_L3": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.KVA_Act_Pro": {
+                "DATA_CL13.DATOS_PM3K.KVA_Act_Pro": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.KVA_Act_L1": {
+                "DATA_CL13.DATOS_PM3K.KVA_Act_L1": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.KVA_Act_L2": {
+                "DATA_CL13.DATOS_PM3K.KVA_Act_L2": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.KVA_Act_L3": {
+                "DATA_CL13.DATOS_PM3K.KVA_Act_L3": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.KVAr_Act_Pro": {
+                "DATA_CL13.DATOS_PM3K.KVAr_Act_Pro": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.KVAr_Act_L1": {
+                "DATA_CL13.DATOS_PM3K.KVAr_Act_L1": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.KVAr_Act_L2": {
+                "DATA_CL13.DATOS_PM3K.KVAr_Act_L2": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.KVAr_Act_L3": {
+                "DATA_CL13.DATOS_PM3K.KVAr_Act_L3": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.FP_Pro": {
+                "DATA_CL13.DATOS_PM3K.FP_Pro": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.FP_L1": {
+                "DATA_CL13.DATOS_PM3K.FP_L1": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.FP_L2": {
+                "DATA_CL13.DATOS_PM3K.FP_L2": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.FP_L3": {
+                "DATA_CL13.DATOS_PM3K.FP_L3": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.THD_I_Pro": {
+                "DATA_CL13.DATOS_PM3K.THD_I_Pro": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.THD_I_L1": {
+                "DATA_CL13.DATOS_PM3K.THD_I_L1": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.THD_I_L2": {
+                "DATA_CL13.DATOS_PM3K.THD_I_L2": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.THD_I_L3": {
+                "DATA_CL13.DATOS_PM3K.THD_I_L3": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.THD_V_Pro": {
+                "DATA_CL13.DATOS_PM3K.THD_V_Pro": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.THD_V_L1": {
+                "DATA_CL13.DATOS_PM3K.THD_V_L1": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.THD_V_L2": {
+                "DATA_CL13.DATOS_PM3K.THD_V_L2": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_PM3K.THD_V_L3": {
+                "DATA_CL13.DATOS_PM3K.THD_V_L3": {
                     "type": "REAL"
                 }
             }
@@ -7285,16 +7209,16 @@
         "name": "VSD Commad",
         "vartable": {
             "": {
-                "CLUSTER.W04.VSD.Arranque_Remoto_PD": {
+                "CLUSTER2.W03.VSD.Arranque_Remoto_PD": {
                     "type": "BOOL"
                 },
-                "CLUSTER.W04.VSD.Parada_Remota_PD": {
+                "CLUSTER2.W03.VSD.Parada_Remota_PD": {
                     "type": "BOOL"
                 },
-                "CLUSTER.W04.VSD.Reset_Remoto_PD": {
+                "CLUSTER2.W03.VSD.Reset_Remoto_PD": {
                     "type": "BOOL"
                 },
-                "CLUSTER.W04.VSD.Referencia_Frecuencia_Remota_PD": {
+                "CLUSTER2.W03.VSD.Referencia_Frecuencia_Remota_PD": {
                     "type": "REAL"
                 }
             }
@@ -7306,121 +7230,121 @@
         "address": "192.168.2.4",
         "slot": "0",
         "cycletime": "500",
-        "name": "Operative Data SCP1",
+        "name": "Operative Data SCP",
         "vartable": {
             "": {
-                "DATA_CL4.DATOS_OPERA.Arranque_Escal_Ejec": {
+                "DATA_CL13.DATOS_OPERA.Arranque_Escal_Ejec": {
                     "type": "BOOL"
                 },
-                "DATA_CL4.DATOS_OPERA.SENTIDO_GIRO": {
+                "DATA_CL13.DATOS_OPERA.SENTIDO_GIRO": {
                     "type": "BOOL"
                 },
-                "DATA_CL4.DATOS_OPERA.Tiempo_Rearran_min": {
+                "DATA_CL13.DATOS_OPERA.Tiempo_Rearran_min": {
                     "type": "INT"
                 },
-                "DATA_CL4.DATOS_OPERA.Tiempo_Rearran_Resta_Min": {
+                "DATA_CL13.DATOS_OPERA.Tiempo_Rearran_Resta_Min": {
                     "type": "INT"
                 },
-                "DATA_CL4.DATOS_OPERA.Tiempo_Rearran_Resta_Seg": {
+                "DATA_CL13.DATOS_OPERA.Tiempo_Rearran_Resta_Seg": {
                     "type": "INT"
                 },
-                "DATA_CL4.DATOS_OPERA.Operacion_Continua_Horas": {
+                "DATA_CL13.DATOS_OPERA.Operacion_Continua_Horas": {
                     "type": "INT"
                 },
-                "DATA_CL4.DATOS_OPERA.Operacion_Continua_MIN": {
+                "DATA_CL13.DATOS_OPERA.Operacion_Continua_MIN": {
                     "type": "INT"
                 },
-                "DATA_CL4.DATOS_OPERA.Operacion_Acumulada_Dias": {
+                "DATA_CL13.DATOS_OPERA.Operacion_Acumulada_Dias": {
                     "type": "INT"
                 },
-                "DATA_CL4.DATOS_OPERA.Operacion_Acumulada_Horas": {
+                "DATA_CL13.DATOS_OPERA.Operacion_Acumulada_Horas": {
                     "type": "INT"
                 },
-                "DATA_CL4.DATOS_OPERA.Operacion_Acumulada_MIN": {
+                "DATA_CL13.DATOS_OPERA.Operacion_Acumulada_MIN": {
                     "type": "INT"
                 },
-                "DATA_CL4.DATOS_OPERA.VOLT_480_Act": {
+                "DATA_CL13.DATOS_OPERA.VOLT_480_Act": {
                     "type": "DINT"
                 },
-                "DATA_CL4.DATOS_OPERA.VOLT_TX_Act": {
+                "DATA_CL13.DATOS_OPERA.VOLT_TX_Act": {
                     "type": "DINT"
                 },
-                "DATA_CL4.DATOS_OPERA.VOLT_BUSDC_Act": {
+                "DATA_CL13.DATOS_OPERA.VOLT_BUSDC_Act": {
                     "type": "DINT"
                 },
-                "DATA_CL4.DATOS_OPERA.HZ_Inicial": {
+                "DATA_CL13.DATOS_OPERA.HZ_Inicial": {
                     "type": "DINT"
                 },
-                "DATA_CL4.DATOS_OPERA.KW_Act": {
+                "DATA_CL13.DATOS_OPERA.KW_Act": {
                     "type": "DINT"
                 },
-                "DATA_CL4.DATOS_OPERA.Operacion_Continua_Dias": {
+                "DATA_CL13.DATOS_OPERA.Operacion_Continua_Dias": {
                     "type": "DINT"
                 },
-                "DATA_CL4.DATOS_OPERA.LBft_Actual": {
+                "DATA_CL13.DATOS_OPERA.LBft_Actual": {
                     "type": "DINT"
                 },
-                "DATA_CL4.DATOS_OPERA.LBft_Nominal": {
+                "DATA_CL13.DATOS_OPERA.LBft_Nominal": {
                     "type": "DINT"
                 },
-                "DATA_CL4.DATOS_OPERA.LBft_Control_Alto": {
+                "DATA_CL13.DATOS_OPERA.LBft_Control_Alto": {
                     "type": "DINT"
                 },
-                "DATA_CL4.DATOS_OPERA.LBft_Control_Bajo": {
+                "DATA_CL13.DATOS_OPERA.LBft_Control_Bajo": {
                     "type": "DINT"
                 },
-                "DATA_CL4.DATOS_OPERA.LBft_Disparo_Alto": {
+                "DATA_CL13.DATOS_OPERA.LBft_Disparo_Alto": {
                     "type": "DINT"
                 },
-                "DATA_CL4.DATOS_OPERA.LBft_Disparo_Bajo": {
+                "DATA_CL13.DATOS_OPERA.LBft_Disparo_Bajo": {
                     "type": "DINT"
                 },
-                "DATA_CL4.DATOS_OPERA.RPM_Actual": {
+                "DATA_CL13.DATOS_OPERA.RPM_Actual": {
                     "type": "DINT"
                 },
-                "DATA_CL4.DATOS_OPERA.RPM_Referencia_Respal": {
+                "DATA_CL13.DATOS_OPERA.RPM_Referencia_Respal": {
                     "type": "DINT"
                 },
-                "DATA_CL4.DATOS_OPERA.VOLT_Salida": {
+                "DATA_CL13.DATOS_OPERA.VOLT_Salida": {
                     "type": "DINT"
                 },
-                "DATA_CL4.DATOS_OPERA.Relacion_Caja": {
+                "DATA_CL13.DATOS_OPERA.Relacion_Caja": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_OPERA.AMP_Actual": {
+                "DATA_CL13.DATOS_OPERA.AMP_Actual": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_OPERA.HZ_Salida": {
+                "DATA_CL13.DATOS_OPERA.HZ_Salida": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_OPERA.RELACION_TX": {
+                "DATA_CL13.DATOS_OPERA.RELACION_TX": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_OPERA.AMP_480_Act": {
+                "DATA_CL13.DATOS_OPERA.AMP_480_Act": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_OPERA.AMP_TX_Act": {
+                "DATA_CL13.DATOS_OPERA.AMP_TX_Act": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_OPERA.HZ_Referencia": {
+                "DATA_CL13.DATOS_OPERA.HZ_Referencia": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_OPERA.HZ_Referencia_Resp": {
+                "DATA_CL13.DATOS_OPERA.HZ_Referencia_Resp": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_OPERA.HZ_Act": {
+                "DATA_CL13.DATOS_OPERA.HZ_Act": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_OPERA.FP_Modulo_Act": {
+                "DATA_CL13.DATOS_OPERA.FP_Modulo_Act": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_OPERA.TEMP_PowerFlex": {
+                "DATA_CL13.DATOS_OPERA.TEMP_PowerFlex": {
                     "type": "REAL"
                 },
-                "DATA_CL4.ESTADOS.General": {
+                "DATA_CL13.ESTADOS.General": {
                     "type": "INT"
                 },
-                "DATA_CL4.ESTADOS.Status_Comm_CM": {
+                "DATA_CL13.ESTADOS.Status_Comm_CM": {
                     "type": "INT"
                 }
             }
@@ -7897,40 +7821,40 @@
         "address": "192.168.2.4",
         "slot": "0",
         "cycletime": "500",
-        "name": "DHS SCP11",
+        "name": "DHS SCP",
         "vartable": {
             "": {
-                "DATA_CL4.DATOS_SENSOR.Status_Comm_SF": {
+                "DATA_CL13.DATOS_SENSOR.Status_Comm_SF": {
                     "type": "BOOL"
                 },
-                "DATA_CL4.DATOS_SENSOR.Selec_DHS": {
+                "DATA_CL13.DATOS_SENSOR.Selec_DHS": {
                     "type": "INT"
                 },
-                "DATA_CL4.DATOS_SENSOR.Presion_Entrada": {
+                "DATA_CL13.DATOS_SENSOR.Presion_Entrada": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_SENSOR.Presion_Descarga": {
+                "DATA_CL13.DATOS_SENSOR.Presion_Descarga": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_SENSOR.Temperatura_Entrada": {
+                "DATA_CL13.DATOS_SENSOR.Temperatura_Entrada": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_SENSOR.Temperatura_MOTOR": {
+                "DATA_CL13.DATOS_SENSOR.Temperatura_MOTOR": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_SENSOR.Temperatura_descarga": {
+                "DATA_CL13.DATOS_SENSOR.Temperatura_descarga": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_SENSOR.Vibracion_Gral": {
+                "DATA_CL13.DATOS_SENSOR.Vibracion_Gral": {
                     "type": "REAL"
                 },
-                "DATA_CL4.DATOS_SENSOR.Corriente_FugaMot": {
+                "DATA_CL13.DATOS_SENSOR.Corriente_FugaMot": {
                     "type": "REAL"
                 },
-                "CLUSTER.W04.INST.THP_PIT_PV": {
+                "CLUSTER2.W03.INST.THP_PIT_PV": {
                     "type": "REAL"
                 },
-                "CLUSTER.W04.INST.THT_TIT_PV": {
+                "CLUSTER2.W03.INST.THT_TIT_PV": {
                     "type": "REAL"
                 }
             }
@@ -9270,46 +9194,16 @@
         "type": "eth-ip in",
         "z": "c5aadb46aa743252",
         "endpoint": "334149985a144b7e",
-        "mode": "all",
-        "variable": "",
+        "mode": "single",
+        "variable": "CLUSTER2.W03.VSD.Arranque_Remoto_PD",
         "program": "",
         "name": "",
-        "x": 180,
-        "y": 90,
-        "wires": [
-            [
-                "bd6271b589874c38"
-            ]
-        ]
-    },
-    {
-        "id": "bd6271b589874c38",
-        "type": "function",
-        "z": "c5aadb46aa743252",
-        "name": "Extraer comandos",
-        "func": "var SCP         = \"SCP1\";\nvar keys        = Object.keys(msg.payload);\nvar values      = Object.values(msg.payload);\nvar arranque;\nvar parada;\nvar reset;\n\n        arranque    = values[keys.indexOf(\"CLUSTER.W04.VSD.Arranque_Remoto_PD\")];\n        parada      = values[keys.indexOf(\"CLUSTER.W04.VSD.Parada_Remota_PD\")];\n        reset       = values[keys.indexOf(\"CLUSTER.W04.VSD.Reset_Remoto_PD\")];\n\nreturn [{payload:arranque},{payload:parada},{payload:reset}];",
-        "outputs": 3,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 360,
-        "y": 90,
+        "x": 200,
+        "y": 50,
         "wires": [
             [
                 "f1c2959338e01b66"
-            ],
-            [
-                "9a2628ee444cee38"
-            ],
-            [
-                "06512b7bf905e1e0"
             ]
-        ],
-        "outputLabels": [
-            "Arranque",
-            "Parada",
-            "Reset"
         ]
     },
     {
@@ -9322,7 +9216,7 @@
         "start": "",
         "inout": "out",
         "property": "payload",
-        "x": 540,
+        "x": 440,
         "y": 50,
         "wires": [
             [
@@ -9340,7 +9234,7 @@
         "start": "",
         "inout": "out",
         "property": "payload",
-        "x": 540,
+        "x": 440,
         "y": 90,
         "wires": [
             [
@@ -9358,7 +9252,7 @@
         "start": "",
         "inout": "out",
         "property": "payload",
-        "x": 540,
+        "x": 440,
         "y": 130,
         "wires": [
             [
@@ -9381,7 +9275,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 660,
+        "x": 560,
         "y": 50,
         "wires": [
             []
@@ -9402,7 +9296,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 660,
+        "x": 560,
         "y": 90,
         "wires": [
             []
@@ -9423,7 +9317,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 660,
+        "x": 560,
         "y": 130,
         "wires": [
             []
@@ -70229,7 +70123,7 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL4.DATOS_PM3K.Voltaje_L_L_Pro",
+        "variable": "DATA_CL13.DATOS_PM3K.Voltaje_L_L_Pro",
         "program": "",
         "name": "",
         "x": 2640,
@@ -70248,7 +70142,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 380,
+        "x": 400,
         "y": 310,
         "wires": [
             [
@@ -70317,7 +70211,7 @@
         "topic": "",
         "payload": "#:(memoryOnly)::Process_data.DHS",
         "payloadType": "global",
-        "x": 190,
+        "x": 210,
         "y": 310,
         "wires": [
             [
@@ -70335,7 +70229,7 @@
             "7d023d55f1d54da4"
         ],
         "uncaught": false,
-        "x": 220,
+        "x": 240,
         "y": 350,
         "wires": [
             []
@@ -70347,7 +70241,7 @@
         "z": "b33f2007a2776232",
         "g": "15680a1387d655eb",
         "endpoint": "4658687c43f2aa21",
-        "variable": "DATA_CL4.DATOS_OPERA.AMP_Actual",
+        "variable": "DATA_CL13.DATOS_OPERA.AMP_Actual",
         "program": "",
         "name": "",
         "x": 1670,
@@ -70422,10 +70316,10 @@
         "z": "b33f2007a2776232",
         "g": "15680a1387d655eb",
         "endpoint": "4658687c43f2aa21",
-        "variable": "DATA_CL4.DATOS_OPERA.AMP_480_Act",
+        "variable": "DATA_CL13.DATOS_OPERA.AMP_480_Act",
         "program": "",
         "name": "",
-        "x": 1670,
+        "x": 1680,
         "y": 210,
         "wires": []
     },
@@ -70435,7 +70329,7 @@
         "z": "b33f2007a2776232",
         "g": "15680a1387d655eb",
         "endpoint": "4658687c43f2aa21",
-        "variable": "DATA_CL4.DATOS_OPERA.VOLT_480_Act",
+        "variable": "DATA_CL13.DATOS_OPERA.VOLT_480_Act",
         "program": "",
         "name": "",
         "x": 1680,
@@ -70448,10 +70342,10 @@
         "z": "b33f2007a2776232",
         "g": "15680a1387d655eb",
         "endpoint": "4658687c43f2aa21",
-        "variable": "DATA_CL4.DATOS_OPERA.VOLT_TX_Act",
+        "variable": "DATA_CL13.DATOS_OPERA.VOLT_TX_Act",
         "program": "",
         "name": "",
-        "x": 1670,
+        "x": 1680,
         "y": 310,
         "wires": []
     },
@@ -70461,7 +70355,7 @@
         "z": "b33f2007a2776232",
         "g": "15680a1387d655eb",
         "endpoint": "4658687c43f2aa21",
-        "variable": "DATA_CL4.DATOS_OPERA.KW_Act",
+        "variable": "DATA_CL13.DATOS_OPERA.KW_Act",
         "program": "",
         "name": "",
         "x": 1660,
@@ -70474,10 +70368,10 @@
         "z": "b33f2007a2776232",
         "g": "15680a1387d655eb",
         "endpoint": "4658687c43f2aa21",
-        "variable": "DATA_CL4.DATOS_OPERA.HZ_Act",
+        "variable": "DATA_CL13.DATOS_OPERA.HZ_Act",
         "program": "",
         "name": "",
-        "x": 1650,
+        "x": 1660,
         "y": 410,
         "wires": []
     },
@@ -70487,7 +70381,7 @@
         "z": "b33f2007a2776232",
         "g": "15680a1387d655eb",
         "endpoint": "4658687c43f2aa21",
-        "variable": "DATA_CL4.DATOS_OPERA.HZ_Referencia",
+        "variable": "DATA_CL13.DATOS_OPERA.HZ_Referencia",
         "program": "",
         "name": "",
         "x": 1680,
@@ -70500,7 +70394,7 @@
         "z": "b33f2007a2776232",
         "g": "15680a1387d655eb",
         "endpoint": "4658687c43f2aa21",
-        "variable": "DATA_CL4.DATOS_OPERA.VOLT_BUSDC_Act",
+        "variable": "DATA_CL13.DATOS_OPERA.VOLT_BUSDC_Act",
         "program": "",
         "name": "",
         "x": 1690,
@@ -70620,7 +70514,7 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL4.DATOS_PM3K.Voltaje_L1_L2",
+        "variable": "DATA_CL13.DATOS_PM3K.Voltaje_L1_L2",
         "program": "",
         "name": "",
         "x": 2630,
@@ -70633,7 +70527,7 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL4.DATOS_PM3K.Voltaje_L2_L3",
+        "variable": "DATA_CL13.DATOS_PM3K.Voltaje_L2_L3",
         "program": "",
         "name": "",
         "x": 2630,
@@ -70646,7 +70540,7 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL4.DATOS_PM3K.Voltaje_L1_L3",
+        "variable": "DATA_CL13.DATOS_PM3K.Voltaje_L1_L3",
         "program": "",
         "name": "",
         "x": 2630,
@@ -70659,7 +70553,7 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL4.DATOS_PM3K.Voltaje_L_N_Pro",
+        "variable": "DATA_CL13.DATOS_PM3K.Voltaje_L_N_Pro",
         "program": "",
         "name": "",
         "x": 2640,
@@ -70672,7 +70566,7 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL4.DATOS_PM3K.Voltaje_L1_N",
+        "variable": "DATA_CL13.DATOS_PM3K.Voltaje_L1_N",
         "program": "",
         "name": "",
         "x": 2630,
@@ -70685,7 +70579,7 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL4.DATOS_PM3K.Voltaje_L2_N",
+        "variable": "DATA_CL13.DATOS_PM3K.Voltaje_L2_N",
         "program": "",
         "name": "",
         "x": 2630,
@@ -70698,7 +70592,7 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL4.DATOS_PM3K.Voltaje_L3_N",
+        "variable": "DATA_CL13.DATOS_PM3K.Voltaje_L3_N",
         "program": "",
         "name": "",
         "x": 2630,
@@ -70711,10 +70605,10 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL4.DATOS_PM3K.Amp_Pro",
+        "variable": "DATA_CL13.DATOS_PM3K.Amp_Pro",
         "program": "",
         "name": "",
-        "x": 2610,
+        "x": 2620,
         "y": 510,
         "wires": []
     },
@@ -70724,10 +70618,10 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL4.DATOS_PM3K.Amp_L1",
+        "variable": "DATA_CL13.DATOS_PM3K.Amp_L1",
         "program": "",
         "name": "",
-        "x": 2610,
+        "x": 2620,
         "y": 560,
         "wires": []
     },
@@ -70737,7 +70631,7 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL4.DATOS_PM3K.FP_Pro",
+        "variable": "DATA_CL13.DATOS_PM3K.FP_Pro",
         "program": "",
         "name": "",
         "x": 2610,
@@ -70750,7 +70644,7 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL4.DATOS_PM3K.KVAr_Act_Pro",
+        "variable": "DATA_CL13.DATOS_PM3K.KVAr_Act_Pro",
         "program": "",
         "name": "",
         "x": 2630,
@@ -70763,7 +70657,7 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL4.DATOS_PM3K.KVA_Act_Pro",
+        "variable": "DATA_CL13.DATOS_PM3K.KVA_Act_Pro",
         "program": "",
         "name": "",
         "x": 2630,
@@ -70776,10 +70670,10 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL4.DATOS_PM3K.KWATT_Act_L3",
+        "variable": "DATA_CL13.DATOS_PM3K.KWATT_Act_L3",
         "program": "",
         "name": "",
-        "x": 2630,
+        "x": 2640,
         "y": 910,
         "wires": []
     },
@@ -70789,10 +70683,10 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL4.DATOS_PM3K.KWATT_Act_L2",
+        "variable": "DATA_CL13.DATOS_PM3K.KWATT_Act_L2",
         "program": "",
         "name": "",
-        "x": 2630,
+        "x": 2640,
         "y": 860,
         "wires": []
     },
@@ -70802,10 +70696,10 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL4.DATOS_PM3K.KWATT_Act_L1",
+        "variable": "DATA_CL13.DATOS_PM3K.KWATT_Act_L1",
         "program": "",
         "name": "",
-        "x": 2630,
+        "x": 2640,
         "y": 810,
         "wires": []
     },
@@ -70815,7 +70709,7 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL4.DATOS_PM3K.KWATT_Act_Pro",
+        "variable": "DATA_CL13.DATOS_PM3K.KWATT_Act_Pro",
         "program": "",
         "name": "",
         "x": 2640,
@@ -70828,10 +70722,10 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL4.DATOS_PM3K.HZ_Act_Pro",
+        "variable": "DATA_CL13.DATOS_PM3K.HZ_Act_Pro",
         "program": "",
         "name": "",
-        "x": 2620,
+        "x": 2630,
         "y": 710,
         "wires": []
     },
@@ -70841,10 +70735,10 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL4.DATOS_PM3K.Amp_L3",
+        "variable": "DATA_CL13.DATOS_PM3K.Amp_L3",
         "program": "",
         "name": "",
-        "x": 2610,
+        "x": 2620,
         "y": 660,
         "wires": []
     },
@@ -70854,10 +70748,10 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL4.DATOS_PM3K.Amp_L2",
+        "variable": "DATA_CL13.DATOS_PM3K.Amp_L2",
         "program": "",
         "name": "",
-        "x": 2610,
+        "x": 2620,
         "y": 610,
         "wires": []
     },
@@ -70867,10 +70761,10 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL4.DATOS_PM3K.THD_V_Pro",
+        "variable": "DATA_CL13.DATOS_PM3K.THD_V_Pro",
         "program": "",
         "name": "",
-        "x": 2620,
+        "x": 2630,
         "y": 1160,
         "wires": []
     },
@@ -70880,7 +70774,7 @@
         "z": "b33f2007a2776232",
         "g": "76bd25c71a8d7775",
         "endpoint": "bbcad83f03315844",
-        "variable": "DATA_CL4.DATOS_PM3K.THD_I_Pro",
+        "variable": "DATA_CL13.DATOS_PM3K.THD_I_Pro",
         "program": "",
         "name": "",
         "x": 2620,
@@ -70939,7 +70833,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "x": 1060,
+        "x": 1100,
         "y": 300,
         "wires": [
             [
@@ -72598,7 +72492,7 @@
         "z": "b33f2007a2776232",
         "g": "15680a1387d655eb",
         "endpoint": "4658687c43f2aa21",
-        "variable": "DATA_CL4.ESTADOS.General",
+        "variable": "DATA_CL13.ESTADOS.General",
         "program": "",
         "name": "",
         "x": 1640,
@@ -72611,10 +72505,10 @@
         "z": "b33f2007a2776232",
         "g": "4ae0fd0ca9645309",
         "endpoint": "74cdb96df4da1788",
-        "variable": "DATA_CL4.DATOS_SENSOR.Presion_Entrada",
+        "variable": "DATA_CL13.DATOS_SENSOR.Presion_Entrada",
         "program": "",
         "name": "",
-        "x": 710,
+        "x": 730,
         "y": 110,
         "wires": []
     },
@@ -72624,10 +72518,10 @@
         "z": "b33f2007a2776232",
         "g": "4ae0fd0ca9645309",
         "endpoint": "74cdb96df4da1788",
-        "variable": "DATA_CL4.DATOS_SENSOR.Presion_Descarga",
+        "variable": "DATA_CL13.DATOS_SENSOR.Presion_Descarga",
         "program": "",
         "name": "",
-        "x": 710,
+        "x": 740,
         "y": 160,
         "wires": []
     },
@@ -72637,10 +72531,10 @@
         "z": "b33f2007a2776232",
         "g": "4ae0fd0ca9645309",
         "endpoint": "74cdb96df4da1788",
-        "variable": "DATA_CL4.DATOS_SENSOR.Temperatura_Entrada",
+        "variable": "DATA_CL13.DATOS_SENSOR.Temperatura_Entrada",
         "program": "",
         "name": "",
-        "x": 720,
+        "x": 750,
         "y": 210,
         "wires": []
     },
@@ -72650,10 +72544,10 @@
         "z": "b33f2007a2776232",
         "g": "4ae0fd0ca9645309",
         "endpoint": "74cdb96df4da1788",
-        "variable": "DATA_CL4.DATOS_SENSOR.Temperatura_descarga",
+        "variable": "DATA_CL13.DATOS_SENSOR.Temperatura_descarga",
         "program": "",
         "name": "",
-        "x": 730,
+        "x": 750,
         "y": 260,
         "wires": []
     },
@@ -72663,10 +72557,10 @@
         "z": "b33f2007a2776232",
         "g": "4ae0fd0ca9645309",
         "endpoint": "74cdb96df4da1788",
-        "variable": "DATA_CL4.DATOS_SENSOR.Temperatura_MOTOR",
+        "variable": "DATA_CL13.DATOS_SENSOR.Temperatura_MOTOR",
         "program": "",
         "name": "",
-        "x": 720,
+        "x": 750,
         "y": 310,
         "wires": []
     },
@@ -72676,10 +72570,10 @@
         "z": "b33f2007a2776232",
         "g": "4ae0fd0ca9645309",
         "endpoint": "74cdb96df4da1788",
-        "variable": "DATA_CL4.DATOS_SENSOR.Vibracion_Gral",
+        "variable": "DATA_CL13.DATOS_SENSOR.Vibracion_Gral",
         "program": "",
         "name": "",
-        "x": 700,
+        "x": 720,
         "y": 360,
         "wires": []
     },
@@ -72689,10 +72583,10 @@
         "z": "b33f2007a2776232",
         "g": "4ae0fd0ca9645309",
         "endpoint": "74cdb96df4da1788",
-        "variable": "DATA_CL4.DATOS_SENSOR.Corriente_FugaMot",
+        "variable": "DATA_CL13.DATOS_SENSOR.Corriente_FugaMot",
         "program": "",
         "name": "",
-        "x": 720,
+        "x": 740,
         "y": 410,
         "wires": []
     },
@@ -72702,10 +72596,10 @@
         "z": "b33f2007a2776232",
         "g": "4ae0fd0ca9645309",
         "endpoint": "74cdb96df4da1788",
-        "variable": "DATA_CL4.DATOS_SENSOR.Selec_DHS",
+        "variable": "DATA_CL13.DATOS_SENSOR.Selec_DHS",
         "program": "",
         "name": "",
-        "x": 690,
+        "x": 710,
         "y": 460,
         "wires": []
     },
@@ -72715,10 +72609,10 @@
         "z": "b33f2007a2776232",
         "g": "4ae0fd0ca9645309",
         "endpoint": "74cdb96df4da1788",
-        "variable": "DATA_CL4.DATOS_SENSOR.Status_Comm_SF",
+        "variable": "DATA_CL13.DATOS_SENSOR.Status_Comm_SF",
         "program": "",
         "name": "",
-        "x": 710,
+        "x": 740,
         "y": 510,
         "wires": []
     },
@@ -72755,7 +72649,7 @@
         "z": "b33f2007a2776232",
         "g": "69ad07e.039c4f8",
         "endpoint": "334149985a144b7e",
-        "variable": "CLUSTER2.W01.VSD.Arranque_Remoto_PD",
+        "variable": "CLUSTER2.W03.VSD.Arranque_Remoto_PD",
         "program": "",
         "name": "",
         "x": 4670,
@@ -72768,7 +72662,7 @@
         "z": "b33f2007a2776232",
         "g": "69ad07e.039c4f8",
         "endpoint": "334149985a144b7e",
-        "variable": "CLUSTER2.W01.VSD.Parada_Remota_PD",
+        "variable": "CLUSTER2.W03.VSD.Parada_Remota_PD",
         "program": "",
         "name": "",
         "x": 4670,
@@ -72781,7 +72675,7 @@
         "z": "b33f2007a2776232",
         "g": "69ad07e.039c4f8",
         "endpoint": "334149985a144b7e",
-        "variable": "CLUSTER2.W01.VSD.Reset_Remoto_PD",
+        "variable": "CLUSTER2.W03.VSD.Reset_Remoto_PD",
         "program": "",
         "name": "",
         "x": 4140,
@@ -73024,10 +72918,10 @@
         "z": "b33f2007a2776232",
         "g": "4ae0fd0ca9645309",
         "endpoint": "74cdb96df4da1788",
-        "variable": "CLUSTER.W04.INST.THP_PIT_PV",
+        "variable": "CLUSTER2.W03.INST.THP_PIT_PV",
         "program": "",
         "name": "",
-        "x": 670,
+        "x": 690,
         "y": 560,
         "wires": []
     },
@@ -73037,10 +72931,10 @@
         "z": "b33f2007a2776232",
         "g": "4ae0fd0ca9645309",
         "endpoint": "74cdb96df4da1788",
-        "variable": "CLUSTER.W04.INST.THT_TIT_PV",
+        "variable": "CLUSTER2.W03.INST.THT_TIT_PV",
         "program": "",
         "name": "",
-        "x": 670,
+        "x": 690,
         "y": 610,
         "wires": []
     },
@@ -73096,7 +72990,7 @@
         "z": "b33f2007a2776232",
         "g": "96c458bbaaf91d88",
         "endpoint": "4658687c43f2aa21",
-        "variable": "DATA_CL4.ESTADOS.Status_Comm_CM",
+        "variable": "DATA_CL13.ESTADOS.Status_Comm_CM",
         "program": "",
         "name": "",
         "x": 3460,
@@ -73268,6 +73162,40 @@
         "wires": [
             [
                 "106ca9e625394352"
+            ]
+        ]
+    },
+    {
+        "id": "c1d18d47e9777a3e",
+        "type": "eth-ip in",
+        "z": "c5aadb46aa743252",
+        "endpoint": "334149985a144b7e",
+        "mode": "single",
+        "variable": "CLUSTER2.W03.VSD.Parada_Remota_PD",
+        "program": "",
+        "name": "",
+        "x": 190,
+        "y": 90,
+        "wires": [
+            [
+                "9a2628ee444cee38"
+            ]
+        ]
+    },
+    {
+        "id": "5af29fed2d1bd14a",
+        "type": "eth-ip in",
+        "z": "c5aadb46aa743252",
+        "endpoint": "334149985a144b7e",
+        "mode": "single",
+        "variable": "CLUSTER2.W03.VSD.Reset_Remoto_PD",
+        "program": "",
+        "name": "",
+        "x": 190,
+        "y": 130,
+        "wires": [
+            [
+                "06512b7bf905e1e0"
             ]
         ]
     }
