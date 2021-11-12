@@ -2305,7 +2305,8 @@
             "4c5106ac0c8ffe0e",
             "376f5c48cd8fe028",
             "6ca75ec1.b729e",
-            "6a4b869a.479368"
+            "6a4b869a.479368",
+            "28f9623a0f710b9d"
         ],
         "x": 44,
         "y": -1,
@@ -2441,9 +2442,7 @@
             "7891beb136b84093"
         ],
         "x": 984,
-        "y": 69,
-        "w": 912,
-        "h": 482
+        "y": 69
     },
     {
         "id": "4ae0fd0ca9645309",
@@ -2472,9 +2471,7 @@
             "9babc6836bff31e8"
         ],
         "x": 44,
-        "y": 69,
-        "w": 932,
-        "h": 582
+        "y": 69
     },
     {
         "id": "76bd25c71a8d7775",
@@ -2513,9 +2510,7 @@
             "3176ad7a0b3bbd81"
         ],
         "x": 1904,
-        "y": 69,
-        "w": 932,
-        "h": 1132
+        "y": 69
     },
     {
         "id": "afdbbb533d628687",
@@ -2585,9 +2580,7 @@
             "5a8b47f509c8f014"
         ],
         "x": 2994,
-        "y": 79,
-        "w": 1872,
-        "h": 372
+        "y": 79
     },
     {
         "id": "ba075c8cc622876a",
@@ -2790,9 +2783,7 @@
             "fc4e6ab74ebe7635"
         ],
         "x": 2994,
-        "y": 459,
-        "w": 652,
-        "h": 82
+        "y": 459
     },
     {
         "id": "6cf3af62bb707c4c",
@@ -8851,6 +8842,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 1090,
         "y": 110,
         "wires": [
@@ -8901,6 +8893,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 1640,
         "y": 190,
         "wires": [
@@ -9117,6 +9110,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 1710,
         "y": 230,
         "wires": [
@@ -9321,6 +9315,40 @@
         "y": 130,
         "wires": [
             []
+        ]
+    },
+    {
+        "id": "c1d18d47e9777a3e",
+        "type": "eth-ip in",
+        "z": "c5aadb46aa743252",
+        "endpoint": "334149985a144b7e",
+        "mode": "single",
+        "variable": "CLUSTER2.W03.VSD.Parada_Remota_PD",
+        "program": "",
+        "name": "",
+        "x": 190,
+        "y": 90,
+        "wires": [
+            [
+                "9a2628ee444cee38"
+            ]
+        ]
+    },
+    {
+        "id": "5af29fed2d1bd14a",
+        "type": "eth-ip in",
+        "z": "c5aadb46aa743252",
+        "endpoint": "334149985a144b7e",
+        "mode": "single",
+        "variable": "CLUSTER2.W03.VSD.Reset_Remoto_PD",
+        "program": "",
+        "name": "",
+        "x": 190,
+        "y": 130,
+        "wires": [
+            [
+                "06512b7bf905e1e0"
+            ]
         ]
     },
     {
@@ -9873,8 +9901,8 @@
         "type": "ui_led",
         "z": "902fc438.e5d758",
         "g": "086b9d08c3b68939",
-        "order": 1,
         "group": "4f5b8416.cada1c",
+        "order": 1,
         "width": 5,
         "height": 1,
         "label": "C2S: {{msg.payload}}",
@@ -10663,6 +10691,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 1500,
         "y": 700,
         "wires": [
@@ -10687,6 +10716,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 1500,
         "y": 740,
         "wires": [
@@ -12525,6 +12555,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 1200,
         "y": 160,
         "wires": [
@@ -15301,6 +15332,7 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
+        "outputs": 1,
         "x": 1240,
         "y": 1120,
         "wires": [
@@ -15397,6 +15429,32 @@
         "y": 970,
         "wires": [
             []
+        ]
+    },
+    {
+        "id": "28f9623a0f710b9d",
+        "type": "inject",
+        "z": "902fc438.e5d758",
+        "g": "6202107f.ed9aa",
+        "name": "Referencia Drive",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "56",
+        "payloadType": "num",
+        "x": 1670,
+        "y": 60,
+        "wires": [
+            [
+                "5fe807f47d2920cc"
+            ]
         ]
     },
     {
@@ -16560,6 +16618,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 720,
         "y": 830,
         "wires": [
@@ -16632,6 +16691,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 730,
         "y": 880,
         "wires": [
@@ -16820,6 +16880,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 720,
         "y": 1040,
         "wires": [
@@ -17531,6 +17592,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 970,
         "y": 1060,
         "wires": [
@@ -18444,6 +18506,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 430,
         "y": 380,
         "wires": [
@@ -18703,6 +18766,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 800,
         "y": 540,
         "wires": [
@@ -20202,6 +20266,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 720,
         "y": 710,
         "wires": [
@@ -20747,6 +20812,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 600,
         "y": 1008,
         "wires": [
@@ -20977,6 +21043,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 650,
         "y": 870,
         "wires": [
@@ -21001,6 +21068,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 170,
         "y": 540,
         "wires": [
@@ -21059,6 +21127,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 1540,
         "y": 970,
         "wires": [
@@ -21124,6 +21193,7 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
+        "outputs": 1,
         "x": 650,
         "y": 930,
         "wires": [
@@ -24769,6 +24839,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 1510,
         "y": 670,
         "wires": [
@@ -24845,6 +24916,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 1510,
         "y": 710,
         "wires": [
@@ -25195,6 +25267,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 1820,
         "y": 500,
         "wires": [
@@ -31361,6 +31434,7 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
+        "outputs": 1,
         "x": 2340,
         "y": 1050,
         "wires": [
@@ -31511,6 +31585,131 @@
         "y": 800,
         "wires": [
             []
+        ]
+    },
+    {
+        "id": "47e3f2c89dc80ae1",
+        "type": "link out",
+        "z": "9941a439.4b17c8",
+        "g": "99671f60976b1d2a",
+        "name": "Reset FSM",
+        "links": [
+            "bf6826f1.1eaf58",
+            "51d6f5bd.7b3bac",
+            "14c9d205.a3aa7e",
+            "d864cf5d.4424a",
+            "8ca4e5b4ca175ad4",
+            "55b87356.a4664c",
+            "500204b3b5e576ab"
+        ],
+        "x": 2985,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "ec7c25ccf9e39473",
+        "type": "change",
+        "z": "9941a439.4b17c8",
+        "g": "99671f60976b1d2a",
+        "name": "Reset FC && Reset Bandera arranque automático",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "reset",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "C2S.FlagStatus",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2760,
+        "y": 160,
+        "wires": [
+            [
+                "47e3f2c89dc80ae1"
+            ]
+        ]
+    },
+    {
+        "id": "d67c206d0cb631a4",
+        "type": "inject",
+        "z": "9941a439.4b17c8",
+        "g": "99671f60976b1d2a",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "3",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "#:(memoryOnly)::Protections.General",
+        "payloadType": "global",
+        "x": 2190,
+        "y": 160,
+        "wires": [
+            [
+                "20d1c1e42b1398d9"
+            ]
+        ]
+    },
+    {
+        "id": "20d1c1e42b1398d9",
+        "type": "rbe",
+        "z": "9941a439.4b17c8",
+        "g": "99671f60976b1d2a",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 2380,
+        "y": 160,
+        "wires": [
+            [
+                "6b948e2cdef9c2ad"
+            ]
+        ]
+    },
+    {
+        "id": "6b948e2cdef9c2ad",
+        "type": "switch",
+        "z": "9941a439.4b17c8",
+        "g": "99671f60976b1d2a",
+        "name": "True",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 2500,
+        "y": 160,
+        "wires": [
+            [
+                "ec7c25ccf9e39473"
+            ]
         ]
     },
     {
@@ -40313,6 +40512,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 3650,
         "y": 2480,
         "wires": [
@@ -46461,6 +46661,49 @@
         "wires": []
     },
     {
+        "id": "3ce715046fc9e875",
+        "type": "link in",
+        "z": "43b51d90.0b47f4",
+        "name": "",
+        "links": [
+            "97407954.a004c8"
+        ],
+        "x": 115,
+        "y": 1810,
+        "wires": [
+            [
+                "a1d087d7c629f3ca"
+            ]
+        ]
+    },
+    {
+        "id": "a1d087d7c629f3ca",
+        "type": "change",
+        "z": "43b51d90.0b47f4",
+        "name": "Motor Type",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "C2S.Motor_Control.Type",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 220,
+        "y": 1810,
+        "wires": [
+            [
+                "106ca9e625394352"
+            ]
+        ]
+    },
+    {
         "id": "ec341205.42507",
         "type": "ui_text_input",
         "z": "7a89175c.90f6a8",
@@ -48821,6 +49064,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 610,
         "y": 1190,
         "wires": [
@@ -49932,6 +50176,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 2480,
         "y": 1010,
         "wires": [
@@ -52084,6 +52329,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 670,
         "y": 3350,
         "wires": [
@@ -54225,6 +54471,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 1600,
         "y": 380,
         "wires": [
@@ -54250,6 +54497,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 1600,
         "y": 420,
         "wires": [
@@ -54275,6 +54523,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 1600,
         "y": 460,
         "wires": [
@@ -54300,6 +54549,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 1600,
         "y": 500,
         "wires": [
@@ -54392,8 +54642,8 @@
         "type": "ui_led",
         "z": "7a89175c.90f6a8",
         "g": "742e267a.cbc27",
-        "order": 6,
         "group": "999747fd.0e43c8",
+        "order": 6,
         "width": 0,
         "height": 0,
         "label": "{{msg.payload}}",
@@ -54477,8 +54727,8 @@
         "type": "ui_led",
         "z": "7a89175c.90f6a8",
         "g": "76d03353.299b94",
-        "order": 6,
         "group": "9457c46f.d710c8",
+        "order": 6,
         "width": 0,
         "height": 0,
         "label": "{{msg.payload}}",
@@ -60051,6 +60301,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 1600,
         "y": 540,
         "wires": [
@@ -60158,6 +60409,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 2650,
         "y": 380,
         "wires": [
@@ -60243,6 +60495,137 @@
                 "c01a450b09ddfa1b"
             ]
         ]
+    },
+    {
+        "id": "263139143d9816a4",
+        "type": "inject",
+        "z": "7a89175c.90f6a8",
+        "g": "3870a1febf5ca6cd",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "5",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "30",
+        "topic": "",
+        "payload": "#:(memoryOnly)::IO.Functions.CommSts",
+        "payloadType": "global",
+        "x": 2050,
+        "y": 80,
+        "wires": [
+            [
+                "b27809489ed779af"
+            ]
+        ]
+    },
+    {
+        "id": "b27809489ed779af",
+        "type": "rbe",
+        "z": "7a89175c.90f6a8",
+        "g": "3870a1febf5ca6cd",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 2250,
+        "y": 80,
+        "wires": [
+            [
+                "07fc4efe04c3c3b6"
+            ]
+        ]
+    },
+    {
+        "id": "07fc4efe04c3c3b6",
+        "type": "switch",
+        "z": "7a89175c.90f6a8",
+        "g": "3870a1febf5ca6cd",
+        "name": "True",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 2370,
+        "y": 80,
+        "wires": [
+            [
+                "8c336a7303babc6b"
+            ]
+        ]
+    },
+    {
+        "id": "8c336a7303babc6b",
+        "type": "delay",
+        "z": "7a89175c.90f6a8",
+        "g": "3870a1febf5ca6cd",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "1",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 2500,
+        "y": 80,
+        "wires": [
+            [
+                "f47e603b7bfb8ccf"
+            ]
+        ]
+    },
+    {
+        "id": "f47e603b7bfb8ccf",
+        "type": "function",
+        "z": "7a89175c.90f6a8",
+        "g": "3870a1febf5ca6cd",
+        "name": "",
+        "func": "msg.payload = \"Falla de comunicación módulo I/O\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2640,
+        "y": 80,
+        "wires": [
+            [
+                "4d36e0c084ccff5d"
+            ]
+        ]
+    },
+    {
+        "id": "4d36e0c084ccff5d",
+        "type": "link out",
+        "z": "7a89175c.90f6a8",
+        "g": "3870a1febf5ca6cd",
+        "name": "",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 2735,
+        "y": 80,
+        "wires": []
     },
     {
         "id": "de8f2e2a.cab36",
@@ -63610,6 +63993,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 200,
         "y": 220,
         "wires": [
@@ -64143,6 +64527,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 730,
         "y": 270,
         "wires": [
@@ -64169,6 +64554,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 730,
         "y": 400,
         "wires": [
@@ -65083,6 +65469,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 120,
         "y": 120,
         "wires": [
@@ -66734,6 +67121,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 940,
         "y": 90,
         "wires": [
@@ -66814,6 +67202,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 820,
         "y": 170,
         "wires": [
@@ -67020,6 +67409,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 1080,
         "y": 180,
         "wires": [
@@ -67592,6 +67982,296 @@
         "x": 610,
         "y": 520,
         "wires": []
+    },
+    {
+        "id": "94fc99927ef7085f",
+        "type": "inject",
+        "z": "dd18d94e.4b1408",
+        "g": "99f852c5119b5b53",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "#:(memoryOnly)::C2S.Drive_Status.Fault",
+        "payloadType": "global",
+        "x": 930,
+        "y": 470,
+        "wires": [
+            [
+                "ffed335e3fd9654d"
+            ]
+        ]
+    },
+    {
+        "id": "ffed335e3fd9654d",
+        "type": "rbe",
+        "z": "dd18d94e.4b1408",
+        "g": "99f852c5119b5b53",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 1130,
+        "y": 470,
+        "wires": [
+            [
+                "0f34dc8bf4cd0346"
+            ]
+        ]
+    },
+    {
+        "id": "0f34dc8bf4cd0346",
+        "type": "switch",
+        "z": "dd18d94e.4b1408",
+        "g": "99f852c5119b5b53",
+        "name": "1 (True)",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1260,
+        "y": 470,
+        "wires": [
+            [
+                "b49871ebcefa0a84"
+            ]
+        ]
+    },
+    {
+        "id": "44ebb6ba7fe3b218",
+        "type": "function",
+        "z": "dd18d94e.4b1408",
+        "g": "99f852c5119b5b53",
+        "name": "",
+        "func": "var falla = global.get(\"C2S.Implicit.Last_Fault_Code\",'memoryOnly');\nmsg.payload = \"Falla del C2S código: \"+falla;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1540,
+        "y": 470,
+        "wires": [
+            [
+                "b88575ca75fdb4f5"
+            ]
+        ]
+    },
+    {
+        "id": "b49871ebcefa0a84",
+        "type": "delay",
+        "z": "dd18d94e.4b1408",
+        "g": "99f852c5119b5b53",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "1",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1400,
+        "y": 470,
+        "wires": [
+            [
+                "44ebb6ba7fe3b218"
+            ]
+        ]
+    },
+    {
+        "id": "b88575ca75fdb4f5",
+        "type": "link out",
+        "z": "dd18d94e.4b1408",
+        "g": "99f852c5119b5b53",
+        "name": "",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 1635,
+        "y": 470,
+        "wires": []
+    },
+    {
+        "id": "ea439131b129c5a9",
+        "type": "inject",
+        "z": "dd18d94e.4b1408",
+        "g": "d175fb986dc9e991",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "5",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "30",
+        "topic": "",
+        "payload": "#:(memoryOnly)::C2S.Comunicacion_Drive",
+        "payloadType": "global",
+        "x": 940,
+        "y": 560,
+        "wires": [
+            [
+                "bc544a78433690f9"
+            ]
+        ]
+    },
+    {
+        "id": "bc544a78433690f9",
+        "type": "rbe",
+        "z": "dd18d94e.4b1408",
+        "g": "d175fb986dc9e991",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 1150,
+        "y": 560,
+        "wires": [
+            [
+                "821b4474f56a4e2b"
+            ]
+        ]
+    },
+    {
+        "id": "821b4474f56a4e2b",
+        "type": "switch",
+        "z": "dd18d94e.4b1408",
+        "g": "d175fb986dc9e991",
+        "name": "False",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1270,
+        "y": 560,
+        "wires": [
+            [
+                "b91663a01c07d6d6"
+            ]
+        ]
+    },
+    {
+        "id": "b91663a01c07d6d6",
+        "type": "delay",
+        "z": "dd18d94e.4b1408",
+        "g": "d175fb986dc9e991",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "1",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1400,
+        "y": 560,
+        "wires": [
+            [
+                "33c1f1be24c94e75"
+            ]
+        ]
+    },
+    {
+        "id": "33c1f1be24c94e75",
+        "type": "function",
+        "z": "dd18d94e.4b1408",
+        "g": "d175fb986dc9e991",
+        "name": "",
+        "func": "msg.payload = \"Falla de comunicación Drive\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1540,
+        "y": 560,
+        "wires": [
+            [
+                "36c70d85dac8cd26"
+            ]
+        ]
+    },
+    {
+        "id": "36c70d85dac8cd26",
+        "type": "link out",
+        "z": "dd18d94e.4b1408",
+        "g": "d175fb986dc9e991",
+        "name": "",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 1635,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "de16ee9e71fc7646",
+        "type": "inject",
+        "z": "dd18d94e.4b1408",
+        "g": "b2f2659a.67f648",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "5",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 1020,
+        "y": 350,
+        "wires": [
+            [
+                "838adacf.15be18"
+            ]
+        ]
     },
     {
         "id": "5c5b638c.a8f91c",
@@ -68828,8 +69508,8 @@
         "type": "ui_led",
         "z": "38e901f121b52acb",
         "g": "9437db38.d604e",
-        "order": 1,
         "group": "8276e64d.c16508",
+        "order": 1,
         "width": 0,
         "height": 0,
         "label": "Estado de comunicación: {{msg.payload}}",
@@ -69489,6 +70169,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 1030,
         "y": 150,
         "wires": [
@@ -69523,6 +70204,137 @@
                 "efaec9be.df9588"
             ]
         ]
+    },
+    {
+        "id": "0f0573bfc77396d5",
+        "type": "inject",
+        "z": "38e901f121b52acb",
+        "g": "62fac95632266b01",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "5",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "30",
+        "topic": "",
+        "payload": "#:(memoryOnly)::Process_data.DHS.Comm",
+        "payloadType": "global",
+        "x": 2070,
+        "y": 370,
+        "wires": [
+            [
+                "d6ed5fb294847658"
+            ]
+        ]
+    },
+    {
+        "id": "d6ed5fb294847658",
+        "type": "rbe",
+        "z": "38e901f121b52acb",
+        "g": "62fac95632266b01",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 2280,
+        "y": 370,
+        "wires": [
+            [
+                "6ef36a66a2f5f9eb"
+            ]
+        ]
+    },
+    {
+        "id": "6ef36a66a2f5f9eb",
+        "type": "switch",
+        "z": "38e901f121b52acb",
+        "g": "62fac95632266b01",
+        "name": "False",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 2400,
+        "y": 370,
+        "wires": [
+            [
+                "f84b1d2c053bb108"
+            ]
+        ]
+    },
+    {
+        "id": "f84b1d2c053bb108",
+        "type": "delay",
+        "z": "38e901f121b52acb",
+        "g": "62fac95632266b01",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "1",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 2530,
+        "y": 370,
+        "wires": [
+            [
+                "e4284fa872b282d4"
+            ]
+        ]
+    },
+    {
+        "id": "e4284fa872b282d4",
+        "type": "function",
+        "z": "38e901f121b52acb",
+        "g": "62fac95632266b01",
+        "name": "",
+        "func": "msg.payload = \"Falla de comunicación con sensor de fondo\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2670,
+        "y": 370,
+        "wires": [
+            [
+                "97b2eb182dd8a393"
+            ]
+        ]
+    },
+    {
+        "id": "97b2eb182dd8a393",
+        "type": "link out",
+        "z": "38e901f121b52acb",
+        "g": "62fac95632266b01",
+        "name": "",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 2765,
+        "y": 370,
+        "wires": []
     },
     {
         "id": "798ac169.6edda",
@@ -70833,6 +71645,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 1100,
         "y": 300,
         "wires": [
@@ -70858,6 +71671,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 2000,
         "y": 700,
         "wires": [
@@ -71242,6 +72056,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "outputs": 1,
         "x": 3750,
         "y": 370,
         "wires": [
@@ -71481,982 +72296,6 @@
         "wires": [
             [
                 "4668f244329a8730"
-            ]
-        ]
-    },
-    {
-        "id": "4486e1dc.7b1c6",
-        "type": "inject",
-        "z": "8ba0552a.e27ca8",
-        "g": "23c99fd.b16886",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "true",
-        "payloadType": "bool",
-        "x": 690,
-        "y": 70,
-        "wires": [
-            [
-                "17475ea4.e2c431"
-            ]
-        ]
-    },
-    {
-        "id": "17475ea4.e2c431",
-        "type": "exec",
-        "z": "8ba0552a.e27ca8",
-        "g": "23c99fd.b16886",
-        "command": "sudo rm ~/.node-red/node_modules/nodepccc/nodePCCC.js",
-        "addpay": false,
-        "append": "",
-        "useSpawn": "false",
-        "timer": "",
-        "oldrc": false,
-        "name": "Eliminar librería PCCC actual",
-        "x": 980,
-        "y": 70,
-        "wires": [
-            [],
-            [],
-            []
-        ]
-    },
-    {
-        "id": "699f8e75.52924",
-        "type": "complete",
-        "z": "8ba0552a.e27ca8",
-        "g": "23c99fd.b16886",
-        "name": "",
-        "scope": [
-            "17475ea4.e2c431"
-        ],
-        "uncaught": false,
-        "x": 670,
-        "y": 110,
-        "wires": [
-            [
-                "f375ab1b.6713c8"
-            ]
-        ]
-    },
-    {
-        "id": "f375ab1b.6713c8",
-        "type": "exec",
-        "z": "8ba0552a.e27ca8",
-        "g": "23c99fd.b16886",
-        "command": "sudo cp ~/Documents/PCCC/PowerFlex755/nodePCCC.js ~/.node-red/node_modules/nodepccc/nodePCCC.js",
-        "addpay": false,
-        "append": "",
-        "useSpawn": "false",
-        "timer": "",
-        "oldrc": false,
-        "name": "Reemplazar librería PowerFlex755",
-        "x": 960,
-        "y": 130,
-        "wires": [
-            [],
-            [],
-            []
-        ]
-    },
-    {
-        "id": "d057c895.aae998",
-        "type": "inject",
-        "z": "8ba0552a.e27ca8",
-        "g": "23c99fd.b16886",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "true",
-        "payloadType": "bool",
-        "x": 690,
-        "y": 150,
-        "wires": [
-            [
-                "f375ab1b.6713c8"
-            ]
-        ]
-    },
-    {
-        "id": "daeaa5f3.b6c508",
-        "type": "exec",
-        "z": "8ba0552a.e27ca8",
-        "g": "23c99fd.b16886",
-        "command": "sudo reboot now",
-        "addpay": false,
-        "append": "",
-        "useSpawn": "false",
-        "timer": "",
-        "oldrc": false,
-        "name": "Reiniciar controlador",
-        "x": 1000,
-        "y": 190,
-        "wires": [
-            [],
-            [],
-            []
-        ]
-    },
-    {
-        "id": "3b8a4863.32b688",
-        "type": "complete",
-        "z": "8ba0552a.e27ca8",
-        "g": "23c99fd.b16886",
-        "name": "",
-        "scope": [
-            "f375ab1b.6713c8"
-        ],
-        "uncaught": false,
-        "x": 670,
-        "y": 190,
-        "wires": [
-            [
-                "c099a844.31d128"
-            ]
-        ]
-    },
-    {
-        "id": "c099a844.31d128",
-        "type": "delay",
-        "z": "8ba0552a.e27ca8",
-        "g": "23c99fd.b16886",
-        "name": "",
-        "pauseType": "delay",
-        "timeout": "5",
-        "timeoutUnits": "seconds",
-        "rate": "1",
-        "nbRateUnits": "1",
-        "rateUnits": "second",
-        "randomFirst": "1",
-        "randomLast": "5",
-        "randomUnits": "seconds",
-        "drop": false,
-        "x": 820,
-        "y": 190,
-        "wires": [
-            [
-                "daeaa5f3.b6c508"
-            ]
-        ]
-    },
-    {
-        "id": "aa3c422d.31446",
-        "type": "exec",
-        "z": "8ba0552a.e27ca8",
-        "g": "262051d5.79c84e",
-        "command": "sudo rm /usr/share/plymouth/themes/pix/splash.png",
-        "addpay": false,
-        "append": "",
-        "useSpawn": "false",
-        "timer": "",
-        "oldrc": false,
-        "name": "Remover Splash actual",
-        "x": 310,
-        "y": 300,
-        "wires": [
-            [],
-            [],
-            []
-        ]
-    },
-    {
-        "id": "4a92f2f5.dac4fc",
-        "type": "inject",
-        "z": "8ba0552a.e27ca8",
-        "g": "262051d5.79c84e",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "true",
-        "payloadType": "bool",
-        "x": 130,
-        "y": 300,
-        "wires": [
-            [
-                "aa3c422d.31446"
-            ]
-        ]
-    },
-    {
-        "id": "6b91a284.15037c",
-        "type": "complete",
-        "z": "8ba0552a.e27ca8",
-        "g": "262051d5.79c84e",
-        "name": "",
-        "scope": [
-            "aa3c422d.31446"
-        ],
-        "uncaught": false,
-        "x": 110,
-        "y": 360,
-        "wires": [
-            [
-                "5e35a538.cad0cc"
-            ]
-        ]
-    },
-    {
-        "id": "5e35a538.cad0cc",
-        "type": "exec",
-        "z": "8ba0552a.e27ca8",
-        "g": "262051d5.79c84e",
-        "command": "sudo cp /home/pi/Documents/splash.png /usr/share/plymouth/themes/pix/splash.png",
-        "addpay": false,
-        "append": "",
-        "useSpawn": "false",
-        "timer": "",
-        "oldrc": false,
-        "name": "Insertar Splash",
-        "x": 280,
-        "y": 360,
-        "wires": [
-            [],
-            [],
-            []
-        ]
-    },
-    {
-        "id": "6f9f13ef.fb565c",
-        "type": "inject",
-        "z": "8ba0552a.e27ca8",
-        "g": "8a437085.d2b8",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "true",
-        "payloadType": "bool",
-        "x": 130,
-        "y": 70,
-        "wires": [
-            [
-                "73f3cb42.e412c4"
-            ]
-        ]
-    },
-    {
-        "id": "73f3cb42.e412c4",
-        "type": "exec",
-        "z": "8ba0552a.e27ca8",
-        "g": "8a437085.d2b8",
-        "command": "sudo rm ~/.node-red/node_modules/nodepccc/nodePCCC.js",
-        "addpay": false,
-        "append": "",
-        "useSpawn": "false",
-        "timer": "",
-        "oldrc": false,
-        "name": "Eliminar librería PCCC actual",
-        "x": 420,
-        "y": 70,
-        "wires": [
-            [],
-            [],
-            []
-        ]
-    },
-    {
-        "id": "b2068e1d.c9d9",
-        "type": "complete",
-        "z": "8ba0552a.e27ca8",
-        "g": "8a437085.d2b8",
-        "name": "",
-        "scope": [
-            "73f3cb42.e412c4"
-        ],
-        "uncaught": false,
-        "x": 110,
-        "y": 110,
-        "wires": [
-            [
-                "bf48213c.3548c"
-            ]
-        ]
-    },
-    {
-        "id": "bf48213c.3548c",
-        "type": "exec",
-        "z": "8ba0552a.e27ca8",
-        "g": "8a437085.d2b8",
-        "command": "sudo cp ~/Documents/PCCC/PowerFlex755AFE/nodePCCC.js ~/.node-red/node_modules/nodepccc/nodePCCC.js",
-        "addpay": false,
-        "append": "",
-        "useSpawn": "false",
-        "timer": "",
-        "oldrc": false,
-        "name": "Reemplazar librería AFE",
-        "x": 430,
-        "y": 130,
-        "wires": [
-            [],
-            [],
-            []
-        ]
-    },
-    {
-        "id": "129d922.5d7c86e",
-        "type": "inject",
-        "z": "8ba0552a.e27ca8",
-        "g": "8a437085.d2b8",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "true",
-        "payloadType": "bool",
-        "x": 130,
-        "y": 150,
-        "wires": [
-            [
-                "bf48213c.3548c"
-            ]
-        ]
-    },
-    {
-        "id": "2cd9e470.7e562c",
-        "type": "exec",
-        "z": "8ba0552a.e27ca8",
-        "g": "8a437085.d2b8",
-        "command": "sudo reboot now",
-        "addpay": false,
-        "append": "",
-        "useSpawn": "false",
-        "timer": "",
-        "oldrc": false,
-        "name": "Reiniciar controlador",
-        "x": 440,
-        "y": 190,
-        "wires": [
-            [],
-            [],
-            []
-        ]
-    },
-    {
-        "id": "2dae23d1.de8fec",
-        "type": "complete",
-        "z": "8ba0552a.e27ca8",
-        "g": "8a437085.d2b8",
-        "name": "",
-        "scope": [
-            "bf48213c.3548c"
-        ],
-        "uncaught": false,
-        "x": 110,
-        "y": 190,
-        "wires": [
-            [
-                "849c9546.4f8a58"
-            ]
-        ]
-    },
-    {
-        "id": "849c9546.4f8a58",
-        "type": "delay",
-        "z": "8ba0552a.e27ca8",
-        "g": "8a437085.d2b8",
-        "name": "",
-        "pauseType": "delay",
-        "timeout": "5",
-        "timeoutUnits": "seconds",
-        "rate": "1",
-        "nbRateUnits": "1",
-        "rateUnits": "second",
-        "randomFirst": "1",
-        "randomLast": "5",
-        "randomUnits": "seconds",
-        "drop": false,
-        "x": 260,
-        "y": 190,
-        "wires": [
-            [
-                "2cd9e470.7e562c"
-            ]
-        ]
-    },
-    {
-        "id": "94fc99927ef7085f",
-        "type": "inject",
-        "z": "dd18d94e.4b1408",
-        "g": "99f852c5119b5b53",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "1",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "#:(memoryOnly)::C2S.Drive_Status.Fault",
-        "payloadType": "global",
-        "x": 930,
-        "y": 470,
-        "wires": [
-            [
-                "ffed335e3fd9654d"
-            ]
-        ]
-    },
-    {
-        "id": "ffed335e3fd9654d",
-        "type": "rbe",
-        "z": "dd18d94e.4b1408",
-        "g": "99f852c5119b5b53",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "septopics": true,
-        "property": "payload",
-        "topi": "topic",
-        "x": 1130,
-        "y": 470,
-        "wires": [
-            [
-                "0f34dc8bf4cd0346"
-            ]
-        ]
-    },
-    {
-        "id": "0f34dc8bf4cd0346",
-        "type": "switch",
-        "z": "dd18d94e.4b1408",
-        "g": "99f852c5119b5b53",
-        "name": "1 (True)",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "1",
-                "vt": "num"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1260,
-        "y": 470,
-        "wires": [
-            [
-                "b49871ebcefa0a84"
-            ]
-        ]
-    },
-    {
-        "id": "44ebb6ba7fe3b218",
-        "type": "function",
-        "z": "dd18d94e.4b1408",
-        "g": "99f852c5119b5b53",
-        "name": "",
-        "func": "var falla = global.get(\"C2S.Implicit.Last_Fault_Code\",'memoryOnly');\nmsg.payload = \"Falla del C2S código: \"+falla;\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1540,
-        "y": 470,
-        "wires": [
-            [
-                "b88575ca75fdb4f5"
-            ]
-        ]
-    },
-    {
-        "id": "b49871ebcefa0a84",
-        "type": "delay",
-        "z": "dd18d94e.4b1408",
-        "g": "99f852c5119b5b53",
-        "name": "",
-        "pauseType": "delay",
-        "timeout": "1",
-        "timeoutUnits": "seconds",
-        "rate": "1",
-        "nbRateUnits": "1",
-        "rateUnits": "second",
-        "randomFirst": "1",
-        "randomLast": "5",
-        "randomUnits": "seconds",
-        "drop": false,
-        "allowrate": false,
-        "x": 1400,
-        "y": 470,
-        "wires": [
-            [
-                "44ebb6ba7fe3b218"
-            ]
-        ]
-    },
-    {
-        "id": "b88575ca75fdb4f5",
-        "type": "link out",
-        "z": "dd18d94e.4b1408",
-        "g": "99f852c5119b5b53",
-        "name": "",
-        "links": [
-            "2da816b7.b2be9a",
-            "cbbbcd1c.7180e"
-        ],
-        "x": 1635,
-        "y": 470,
-        "wires": []
-    },
-    {
-        "id": "ea439131b129c5a9",
-        "type": "inject",
-        "z": "dd18d94e.4b1408",
-        "g": "d175fb986dc9e991",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "5",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "30",
-        "topic": "",
-        "payload": "#:(memoryOnly)::C2S.Comunicacion_Drive",
-        "payloadType": "global",
-        "x": 940,
-        "y": 560,
-        "wires": [
-            [
-                "bc544a78433690f9"
-            ]
-        ]
-    },
-    {
-        "id": "bc544a78433690f9",
-        "type": "rbe",
-        "z": "dd18d94e.4b1408",
-        "g": "d175fb986dc9e991",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "septopics": true,
-        "property": "payload",
-        "topi": "topic",
-        "x": 1150,
-        "y": 560,
-        "wires": [
-            [
-                "821b4474f56a4e2b"
-            ]
-        ]
-    },
-    {
-        "id": "821b4474f56a4e2b",
-        "type": "switch",
-        "z": "dd18d94e.4b1408",
-        "g": "d175fb986dc9e991",
-        "name": "False",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "false"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1270,
-        "y": 560,
-        "wires": [
-            [
-                "b91663a01c07d6d6"
-            ]
-        ]
-    },
-    {
-        "id": "b91663a01c07d6d6",
-        "type": "delay",
-        "z": "dd18d94e.4b1408",
-        "g": "d175fb986dc9e991",
-        "name": "",
-        "pauseType": "delay",
-        "timeout": "1",
-        "timeoutUnits": "seconds",
-        "rate": "1",
-        "nbRateUnits": "1",
-        "rateUnits": "second",
-        "randomFirst": "1",
-        "randomLast": "5",
-        "randomUnits": "seconds",
-        "drop": false,
-        "allowrate": false,
-        "x": 1400,
-        "y": 560,
-        "wires": [
-            [
-                "33c1f1be24c94e75"
-            ]
-        ]
-    },
-    {
-        "id": "33c1f1be24c94e75",
-        "type": "function",
-        "z": "dd18d94e.4b1408",
-        "g": "d175fb986dc9e991",
-        "name": "",
-        "func": "msg.payload = \"Falla de comunicación Drive\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1540,
-        "y": 560,
-        "wires": [
-            [
-                "36c70d85dac8cd26"
-            ]
-        ]
-    },
-    {
-        "id": "36c70d85dac8cd26",
-        "type": "link out",
-        "z": "dd18d94e.4b1408",
-        "g": "d175fb986dc9e991",
-        "name": "",
-        "links": [
-            "2da816b7.b2be9a",
-            "cbbbcd1c.7180e"
-        ],
-        "x": 1635,
-        "y": 560,
-        "wires": []
-    },
-    {
-        "id": "0f0573bfc77396d5",
-        "type": "inject",
-        "z": "38e901f121b52acb",
-        "g": "62fac95632266b01",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "5",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "30",
-        "topic": "",
-        "payload": "#:(memoryOnly)::Process_data.DHS.Comm",
-        "payloadType": "global",
-        "x": 2070,
-        "y": 370,
-        "wires": [
-            [
-                "d6ed5fb294847658"
-            ]
-        ]
-    },
-    {
-        "id": "d6ed5fb294847658",
-        "type": "rbe",
-        "z": "38e901f121b52acb",
-        "g": "62fac95632266b01",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "septopics": true,
-        "property": "payload",
-        "topi": "topic",
-        "x": 2280,
-        "y": 370,
-        "wires": [
-            [
-                "6ef36a66a2f5f9eb"
-            ]
-        ]
-    },
-    {
-        "id": "6ef36a66a2f5f9eb",
-        "type": "switch",
-        "z": "38e901f121b52acb",
-        "g": "62fac95632266b01",
-        "name": "False",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "false"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 2400,
-        "y": 370,
-        "wires": [
-            [
-                "f84b1d2c053bb108"
-            ]
-        ]
-    },
-    {
-        "id": "f84b1d2c053bb108",
-        "type": "delay",
-        "z": "38e901f121b52acb",
-        "g": "62fac95632266b01",
-        "name": "",
-        "pauseType": "delay",
-        "timeout": "1",
-        "timeoutUnits": "seconds",
-        "rate": "1",
-        "nbRateUnits": "1",
-        "rateUnits": "second",
-        "randomFirst": "1",
-        "randomLast": "5",
-        "randomUnits": "seconds",
-        "drop": false,
-        "allowrate": false,
-        "x": 2530,
-        "y": 370,
-        "wires": [
-            [
-                "e4284fa872b282d4"
-            ]
-        ]
-    },
-    {
-        "id": "e4284fa872b282d4",
-        "type": "function",
-        "z": "38e901f121b52acb",
-        "g": "62fac95632266b01",
-        "name": "",
-        "func": "msg.payload = \"Falla de comunicación con sensor de fondo\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 2670,
-        "y": 370,
-        "wires": [
-            [
-                "97b2eb182dd8a393"
-            ]
-        ]
-    },
-    {
-        "id": "97b2eb182dd8a393",
-        "type": "link out",
-        "z": "38e901f121b52acb",
-        "g": "62fac95632266b01",
-        "name": "",
-        "links": [
-            "2da816b7.b2be9a",
-            "cbbbcd1c.7180e"
-        ],
-        "x": 2765,
-        "y": 370,
-        "wires": []
-    },
-    {
-        "id": "263139143d9816a4",
-        "type": "inject",
-        "z": "7a89175c.90f6a8",
-        "g": "3870a1febf5ca6cd",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "5",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "30",
-        "topic": "",
-        "payload": "#:(memoryOnly)::IO.Functions.CommSts",
-        "payloadType": "global",
-        "x": 2050,
-        "y": 80,
-        "wires": [
-            [
-                "b27809489ed779af"
-            ]
-        ]
-    },
-    {
-        "id": "b27809489ed779af",
-        "type": "rbe",
-        "z": "7a89175c.90f6a8",
-        "g": "3870a1febf5ca6cd",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "septopics": true,
-        "property": "payload",
-        "topi": "topic",
-        "x": 2250,
-        "y": 80,
-        "wires": [
-            [
-                "07fc4efe04c3c3b6"
-            ]
-        ]
-    },
-    {
-        "id": "07fc4efe04c3c3b6",
-        "type": "switch",
-        "z": "7a89175c.90f6a8",
-        "g": "3870a1febf5ca6cd",
-        "name": "True",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 2370,
-        "y": 80,
-        "wires": [
-            [
-                "8c336a7303babc6b"
-            ]
-        ]
-    },
-    {
-        "id": "8c336a7303babc6b",
-        "type": "delay",
-        "z": "7a89175c.90f6a8",
-        "g": "3870a1febf5ca6cd",
-        "name": "",
-        "pauseType": "delay",
-        "timeout": "1",
-        "timeoutUnits": "seconds",
-        "rate": "1",
-        "nbRateUnits": "1",
-        "rateUnits": "second",
-        "randomFirst": "1",
-        "randomLast": "5",
-        "randomUnits": "seconds",
-        "drop": false,
-        "allowrate": false,
-        "x": 2500,
-        "y": 80,
-        "wires": [
-            [
-                "f47e603b7bfb8ccf"
-            ]
-        ]
-    },
-    {
-        "id": "f47e603b7bfb8ccf",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "g": "3870a1febf5ca6cd",
-        "name": "",
-        "func": "msg.payload = \"Falla de comunicación módulo I/O\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 2640,
-        "y": 80,
-        "wires": [
-            [
-                "4d36e0c084ccff5d"
-            ]
-        ]
-    },
-    {
-        "id": "4d36e0c084ccff5d",
-        "type": "link out",
-        "z": "7a89175c.90f6a8",
-        "g": "3870a1febf5ca6cd",
-        "name": "",
-        "links": [
-            "2da816b7.b2be9a",
-            "cbbbcd1c.7180e"
-        ],
-        "x": 2735,
-        "y": 80,
-        "wires": []
-    },
-    {
-        "id": "de16ee9e71fc7646",
-        "type": "inject",
-        "z": "dd18d94e.4b1408",
-        "g": "b2f2659a.67f648",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "5",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "true",
-        "payloadType": "bool",
-        "x": 1020,
-        "y": 350,
-        "wires": [
-            [
-                "838adacf.15be18"
             ]
         ]
     },
@@ -72817,6 +72656,7 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
+        "outputs": 1,
         "x": 4180,
         "y": 140,
         "wires": [
@@ -72842,6 +72682,7 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
+        "outputs": 1,
         "x": 3780,
         "y": 270,
         "wires": [
@@ -72904,6 +72745,7 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
+        "outputs": 1,
         "x": 3790,
         "y": 320,
         "wires": [
@@ -72998,204 +72840,432 @@
         "wires": []
     },
     {
-        "id": "47e3f2c89dc80ae1",
-        "type": "link out",
-        "z": "9941a439.4b17c8",
-        "g": "99671f60976b1d2a",
-        "name": "Reset FSM",
-        "links": [
-            "bf6826f1.1eaf58",
-            "51d6f5bd.7b3bac",
-            "14c9d205.a3aa7e",
-            "d864cf5d.4424a",
-            "8ca4e5b4ca175ad4",
-            "55b87356.a4664c",
-            "500204b3b5e576ab"
-        ],
-        "x": 2985,
-        "y": 160,
-        "wires": []
-    },
-    {
-        "id": "ec7c25ccf9e39473",
-        "type": "change",
-        "z": "9941a439.4b17c8",
-        "g": "99671f60976b1d2a",
-        "name": "Reset FC && Reset Bandera arranque automático",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "reset",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "C2S.FlagStatus",
-                "pt": "global",
-                "to": "false",
-                "tot": "bool"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 2760,
-        "y": 160,
-        "wires": [
-            [
-                "47e3f2c89dc80ae1"
-            ]
-        ]
-    },
-    {
-        "id": "d67c206d0cb631a4",
+        "id": "4486e1dc.7b1c6",
         "type": "inject",
-        "z": "9941a439.4b17c8",
-        "g": "99671f60976b1d2a",
+        "z": "8ba0552a.e27ca8",
+        "g": "23c99fd.b16886",
         "name": "",
         "props": [
             {
                 "p": "payload"
             }
         ],
-        "repeat": "3",
+        "repeat": "",
         "crontab": "",
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
-        "payload": "#:(memoryOnly)::Protections.General",
-        "payloadType": "global",
-        "x": 2190,
-        "y": 160,
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 690,
+        "y": 70,
         "wires": [
             [
-                "20d1c1e42b1398d9"
+                "17475ea4.e2c431"
             ]
         ]
     },
     {
-        "id": "20d1c1e42b1398d9",
-        "type": "rbe",
-        "z": "9941a439.4b17c8",
-        "g": "99671f60976b1d2a",
+        "id": "17475ea4.e2c431",
+        "type": "exec",
+        "z": "8ba0552a.e27ca8",
+        "g": "23c99fd.b16886",
+        "command": "sudo rm ~/.node-red/node_modules/nodepccc/nodePCCC.js",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "Eliminar librería PCCC actual",
+        "x": 980,
+        "y": 70,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "699f8e75.52924",
+        "type": "complete",
+        "z": "8ba0552a.e27ca8",
+        "g": "23c99fd.b16886",
         "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "septopics": true,
-        "property": "payload",
-        "topi": "topic",
-        "x": 2380,
-        "y": 160,
-        "wires": [
-            [
-                "6b948e2cdef9c2ad"
-            ]
-        ]
-    },
-    {
-        "id": "6b948e2cdef9c2ad",
-        "type": "switch",
-        "z": "9941a439.4b17c8",
-        "g": "99671f60976b1d2a",
-        "name": "True",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            }
+        "scope": [
+            "17475ea4.e2c431"
         ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 2500,
-        "y": 160,
+        "uncaught": false,
+        "x": 670,
+        "y": 110,
         "wires": [
             [
-                "ec7c25ccf9e39473"
+                "f375ab1b.6713c8"
             ]
         ]
     },
     {
-        "id": "3ce715046fc9e875",
-        "type": "link in",
-        "z": "43b51d90.0b47f4",
-        "name": "",
-        "links": [
-            "97407954.a004c8"
-        ],
-        "x": 115,
-        "y": 1810,
-        "wires": [
-            [
-                "a1d087d7c629f3ca"
-            ]
-        ]
-    },
-    {
-        "id": "a1d087d7c629f3ca",
-        "type": "change",
-        "z": "43b51d90.0b47f4",
-        "name": "Motor Type",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "C2S.Motor_Control.Type",
-                "tot": "global"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 220,
-        "y": 1810,
-        "wires": [
-            [
-                "106ca9e625394352"
-            ]
-        ]
-    },
-    {
-        "id": "c1d18d47e9777a3e",
-        "type": "eth-ip in",
-        "z": "c5aadb46aa743252",
-        "endpoint": "334149985a144b7e",
-        "mode": "single",
-        "variable": "CLUSTER2.W03.VSD.Parada_Remota_PD",
-        "program": "",
-        "name": "",
-        "x": 190,
-        "y": 90,
-        "wires": [
-            [
-                "9a2628ee444cee38"
-            ]
-        ]
-    },
-    {
-        "id": "5af29fed2d1bd14a",
-        "type": "eth-ip in",
-        "z": "c5aadb46aa743252",
-        "endpoint": "334149985a144b7e",
-        "mode": "single",
-        "variable": "CLUSTER2.W03.VSD.Reset_Remoto_PD",
-        "program": "",
-        "name": "",
-        "x": 190,
+        "id": "f375ab1b.6713c8",
+        "type": "exec",
+        "z": "8ba0552a.e27ca8",
+        "g": "23c99fd.b16886",
+        "command": "sudo cp ~/Documents/PCCC/PowerFlex755/nodePCCC.js ~/.node-red/node_modules/nodepccc/nodePCCC.js",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "Reemplazar librería PowerFlex755",
+        "x": 960,
         "y": 130,
         "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "d057c895.aae998",
+        "type": "inject",
+        "z": "8ba0552a.e27ca8",
+        "g": "23c99fd.b16886",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 690,
+        "y": 150,
+        "wires": [
             [
-                "06512b7bf905e1e0"
+                "f375ab1b.6713c8"
+            ]
+        ]
+    },
+    {
+        "id": "daeaa5f3.b6c508",
+        "type": "exec",
+        "z": "8ba0552a.e27ca8",
+        "g": "23c99fd.b16886",
+        "command": "sudo reboot now",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "Reiniciar controlador",
+        "x": 1000,
+        "y": 190,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "3b8a4863.32b688",
+        "type": "complete",
+        "z": "8ba0552a.e27ca8",
+        "g": "23c99fd.b16886",
+        "name": "",
+        "scope": [
+            "f375ab1b.6713c8"
+        ],
+        "uncaught": false,
+        "x": 670,
+        "y": 190,
+        "wires": [
+            [
+                "c099a844.31d128"
+            ]
+        ]
+    },
+    {
+        "id": "c099a844.31d128",
+        "type": "delay",
+        "z": "8ba0552a.e27ca8",
+        "g": "23c99fd.b16886",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "outputs": 1,
+        "x": 820,
+        "y": 190,
+        "wires": [
+            [
+                "daeaa5f3.b6c508"
+            ]
+        ]
+    },
+    {
+        "id": "aa3c422d.31446",
+        "type": "exec",
+        "z": "8ba0552a.e27ca8",
+        "g": "262051d5.79c84e",
+        "command": "sudo rm /usr/share/plymouth/themes/pix/splash.png",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "Remover Splash actual",
+        "x": 310,
+        "y": 300,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "4a92f2f5.dac4fc",
+        "type": "inject",
+        "z": "8ba0552a.e27ca8",
+        "g": "262051d5.79c84e",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 130,
+        "y": 300,
+        "wires": [
+            [
+                "aa3c422d.31446"
+            ]
+        ]
+    },
+    {
+        "id": "6b91a284.15037c",
+        "type": "complete",
+        "z": "8ba0552a.e27ca8",
+        "g": "262051d5.79c84e",
+        "name": "",
+        "scope": [
+            "aa3c422d.31446"
+        ],
+        "uncaught": false,
+        "x": 110,
+        "y": 360,
+        "wires": [
+            [
+                "5e35a538.cad0cc"
+            ]
+        ]
+    },
+    {
+        "id": "5e35a538.cad0cc",
+        "type": "exec",
+        "z": "8ba0552a.e27ca8",
+        "g": "262051d5.79c84e",
+        "command": "sudo cp /home/pi/Documents/splash.png /usr/share/plymouth/themes/pix/splash.png",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "Insertar Splash",
+        "x": 280,
+        "y": 360,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "6f9f13ef.fb565c",
+        "type": "inject",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 130,
+        "y": 70,
+        "wires": [
+            [
+                "73f3cb42.e412c4"
+            ]
+        ]
+    },
+    {
+        "id": "73f3cb42.e412c4",
+        "type": "exec",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "command": "sudo rm ~/.node-red/node_modules/nodepccc/nodePCCC.js",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "Eliminar librería PCCC actual",
+        "x": 420,
+        "y": 70,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "b2068e1d.c9d9",
+        "type": "complete",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "name": "",
+        "scope": [
+            "73f3cb42.e412c4"
+        ],
+        "uncaught": false,
+        "x": 110,
+        "y": 110,
+        "wires": [
+            [
+                "bf48213c.3548c"
+            ]
+        ]
+    },
+    {
+        "id": "bf48213c.3548c",
+        "type": "exec",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "command": "sudo cp ~/Documents/PCCC/PowerFlex755AFE/nodePCCC.js ~/.node-red/node_modules/nodepccc/nodePCCC.js",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "Reemplazar librería AFE",
+        "x": 430,
+        "y": 130,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "129d922.5d7c86e",
+        "type": "inject",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 130,
+        "y": 150,
+        "wires": [
+            [
+                "bf48213c.3548c"
+            ]
+        ]
+    },
+    {
+        "id": "2cd9e470.7e562c",
+        "type": "exec",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "command": "sudo reboot now",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "Reiniciar controlador",
+        "x": 440,
+        "y": 190,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "2dae23d1.de8fec",
+        "type": "complete",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "name": "",
+        "scope": [
+            "bf48213c.3548c"
+        ],
+        "uncaught": false,
+        "x": 110,
+        "y": 190,
+        "wires": [
+            [
+                "849c9546.4f8a58"
+            ]
+        ]
+    },
+    {
+        "id": "849c9546.4f8a58",
+        "type": "delay",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "outputs": 1,
+        "x": 260,
+        "y": 190,
+        "wires": [
+            [
+                "2cd9e470.7e562c"
             ]
         ]
     }
