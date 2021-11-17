@@ -876,7 +876,9 @@
             "61c02e812fb48b72"
         ],
         "x": 24,
-        "y": 609
+        "y": 609,
+        "w": 2632,
+        "h": 552
     },
     {
         "id": "3cb51855.a66038",
@@ -891,7 +893,9 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169
+        "y": 1169,
+        "w": 232,
+        "h": 82
     },
     {
         "id": "27a0641a.d154dc",
@@ -1371,9 +1375,7 @@
             "996a9142c814ab39"
         ],
         "x": 24,
-        "y": 429,
-        "w": 722,
-        "h": 242
+        "y": 429
     },
     {
         "id": "6abd418f.d175b",
@@ -1388,9 +1390,7 @@
             "b2f2659a.67f648"
         ],
         "x": 18,
-        "y": 23,
-        "w": 1754,
-        "h": 394
+        "y": 23
     },
     {
         "id": "8c207e440fb46f33",
@@ -1406,9 +1406,7 @@
             "9f77b0d829ad914b"
         ],
         "x": 514,
-        "y": 769,
-        "w": 282,
-        "h": 82
+        "y": 769
     },
     {
         "id": "38940f8.c9c27f",
@@ -1426,9 +1424,7 @@
             "ead83bdf05616014"
         ],
         "x": 18,
-        "y": 23,
-        "w": 1464,
-        "h": 664
+        "y": 23
     },
     {
         "id": "48d282d70b9e72c9",
@@ -1444,7 +1440,9 @@
             "6914a9b4.85f3c"
         ],
         "x": 1884,
-        "y": 239
+        "y": 239,
+        "w": 432,
+        "h": 82
     },
     {
         "id": "9437db38.d604e",
@@ -1468,7 +1466,9 @@
             "03a3b206eac12d39"
         ],
         "x": 1884,
-        "y": 69
+        "y": 69,
+        "w": 1042,
+        "h": 162
     },
     {
         "id": "af8e6105.775618",
@@ -1490,7 +1490,9 @@
             "67ba4794.6cf57"
         ],
         "x": 164,
-        "y": 69
+        "y": 69,
+        "w": 752,
+        "h": 132
     },
     {
         "id": "d84d4fbe.ee6ce",
@@ -1509,7 +1511,9 @@
             "a7f0f525.ae1878"
         ],
         "x": 164,
-        "y": 209
+        "y": 209,
+        "w": 602,
+        "h": 122
     },
     {
         "id": "ef81d12e3dd41149",
@@ -1539,7 +1543,9 @@
             "1d797f4ca9b83896"
         ],
         "x": 924,
-        "y": 69
+        "y": 69,
+        "w": 952,
+        "h": 322
     },
     {
         "id": "e29eaee41e038edd",
@@ -2238,7 +2244,9 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269
+        "y": 1269,
+        "w": 352,
+        "h": 82
     },
     {
         "id": "6202107f.ed9aa",
@@ -2314,7 +2322,9 @@
             "28f9623a0f710b9d"
         ],
         "x": 44,
-        "y": -1
+        "y": -1,
+        "w": 1992,
+        "h": 602
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -2333,7 +2343,9 @@
             "f401446baabcbb6e"
         ],
         "x": 3224,
-        "y": 3
+        "y": 3,
+        "w": 1284,
+        "h": 1554
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -2354,7 +2366,9 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169
+        "y": 1169,
+        "w": 782,
+        "h": 182
     },
     {
         "id": "086b9d08c3b68939",
@@ -2384,7 +2398,9 @@
             "43dcdfeaddbb3ac6"
         ],
         "x": 24,
-        "y": 1359
+        "y": 1359,
+        "w": 1022,
+        "h": 292
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -2410,7 +2426,9 @@
             "03894c480a20a7a9"
         ],
         "x": 24,
-        "y": 1679
+        "y": 1679,
+        "w": 1222,
+        "h": 202
     },
     {
         "id": "15680a1387d655eb",
@@ -2521,7 +2539,9 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679
+        "y": 1679,
+        "w": 332,
+        "h": 82
     },
     {
         "id": "69ad07e.039c4f8",
@@ -2638,8 +2658,6 @@
         ],
         "x": 574,
         "y": 21.5,
-        "w": 552,
-        "h": 217,
         "info": "# Condiciones\nSólo funciona si el nombre del proyecto es \"CILA2S-ESP-SWCPRO_AFE\""
     },
     {
@@ -2658,9 +2676,7 @@
             "5e35a538.cad0cc"
         ],
         "x": 14,
-        "y": 251.5,
-        "w": 432,
-        "h": 157
+        "y": 251.5
     },
     {
         "id": "8a437085.d2b8",
@@ -2683,8 +2699,6 @@
         ],
         "x": 14,
         "y": 21.5,
-        "w": 552,
-        "h": 217,
         "info": "# Condiciones\nSólo funciona si el nombre del proyecto es \"CILA2S-ESP-SWCPRO_AFE\""
     },
     {
@@ -2705,9 +2719,7 @@
             "b88575ca75fdb4f5"
         ],
         "x": 754,
-        "y": 429,
-        "w": 922,
-        "h": 82
+        "y": 429
     },
     {
         "id": "d175fb986dc9e991",
@@ -2727,9 +2739,7 @@
             "36c70d85dac8cd26"
         ],
         "x": 754,
-        "y": 519,
-        "w": 922,
-        "h": 82
+        "y": 519
     },
     {
         "id": "62fac95632266b01",
@@ -2749,7 +2759,9 @@
             "97b2eb182dd8a393"
         ],
         "x": 1884,
-        "y": 329
+        "y": 329,
+        "w": 922,
+        "h": 82
     },
     {
         "id": "3870a1febf5ca6cd",
@@ -2827,7 +2839,9 @@
             "8d6f8e22ed531a56"
         ],
         "x": 3434,
-        "y": 29
+        "y": 29,
+        "w": 492,
+        "h": 402
     },
     {
         "id": "f7709059ebe5ad7b",
@@ -2843,7 +2857,9 @@
             "aafad2ba.dcc8b"
         ],
         "x": 3428,
-        "y": 443
+        "y": 443,
+        "w": 1054,
+        "h": 634
     },
     {
         "id": "c483d44b5f6def10",
@@ -2869,7 +2885,9 @@
             "45aad8d3129156ca"
         ],
         "x": 3424,
-        "y": 1089
+        "y": 1089,
+        "w": 472,
+        "h": 442
     },
     {
         "id": "77dcd918.f8c298",
@@ -3739,9 +3757,7 @@
             "c30439cc.4bcb68"
         ],
         "x": 44,
-        "y": 49,
-        "w": 1422,
-        "h": 212
+        "y": 49
     },
     {
         "id": "b2f2659a.67f648",
@@ -3769,9 +3785,7 @@
             "de16ee9e71fc7646"
         ],
         "x": 44,
-        "y": 269,
-        "w": 1702,
-        "h": 122
+        "y": 269
     },
     {
         "id": "70a63b74.44894c",
@@ -3791,9 +3805,7 @@
             "d22f737e1faaee45"
         ],
         "x": 44,
-        "y": 499,
-        "w": 412,
-        "h": 162
+        "y": 499
     },
     {
         "id": "ee01b6d1.f76f98",
@@ -3832,9 +3844,7 @@
             "43ffc14d.a3cac8"
         ],
         "x": 44,
-        "y": 49,
-        "w": 1412,
-        "h": 442
+        "y": 49
     },
     {
         "id": "e2589faa.5b6d2",
@@ -4409,7 +4419,9 @@
             "bab4ea5e8e01f9aa"
         ],
         "x": 194,
-        "y": 399
+        "y": 399,
+        "w": 852,
+        "h": 82
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -4437,7 +4449,9 @@
             "1f3630da2492d4f9"
         ],
         "x": 3454,
-        "y": 839
+        "y": 839,
+        "w": 1002,
+        "h": 212
     },
     {
         "id": "36fa9c99094e8f47",
@@ -4461,7 +4475,9 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 469
+        "y": 469,
+        "w": 402,
+        "h": 362
     },
     {
         "id": "742e267a.cbc27",
@@ -5398,7 +5414,8 @@
             "1f7d62ca91f7e3e7",
             "ac5fafb8e9a1c47a",
             "322a4e38e5d36710",
-            "8ca4e5b4ca175ad4"
+            "8ca4e5b4ca175ad4",
+            "c6631e95.4452d"
         ],
         "x": 74,
         "y": 249,
@@ -6524,9 +6541,9 @@
         "serialConnectionDelay": "100",
         "unit_id": "1",
         "commandDelay": "1",
-        "clientTimeout": "1000",
+        "clientTimeout": "3000",
         "reconnectOnTimeout": true,
-        "reconnectTimeout": "2000",
+        "reconnectTimeout": "5000",
         "parallelUnitIdsAllowed": true
     },
     {
@@ -18461,8 +18478,8 @@
         "wires": [
             [],
             [
-                "825a8d81.e5826",
-                "1f7d62ca91f7e3e7"
+                "1f7d62ca91f7e3e7",
+                "c6631e95.4452d"
             ],
             [
                 "39b139ed.19f7a6"
@@ -18475,7 +18492,7 @@
         "z": "bef159b0eb2cf912",
         "g": "9bdf522.eba6db",
         "name": "",
-        "pauseType": "delay",
+        "pauseType": "delayv",
         "timeout": "10",
         "timeoutUnits": "minutes",
         "rate": "1",
@@ -18485,7 +18502,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "x": 440,
+        "x": 580,
         "y": 380,
         "wires": [
             [
@@ -18519,12 +18536,12 @@
         "z": "bef159b0eb2cf912",
         "g": "9bdf522.eba6db",
         "name": "VSD_Ref",
-        "func": "// Definitions\nvar PR          = global.get(\"Control_functions.Prolonged_Reference\")||null;\nvar Mtr_Speed   = global.get('C2S.Implicit.Output_Frequency','memoryOnly')||0;\nMtr_Speed       = Math.abs(Mtr_Speed);\nvar URef        = global.get(\"C2S.Last_Reference.Value\");\nvar Sts         = global.get(\"C2S.Drive_Status.Active\",\"memoryOnly\")||0;\nvar ant,act,resp;\n\nif(Math.abs(PR.Hz - Mtr_Speed) < 0.005){\n    msg.payload = PR.Hz;\n    msg.code = 0;\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" = \"+(PR.Hz).toFixed(2)+\" = \"+(msg.payload).toFixed(2)+\" \"+(Math.abs(PR.Hz - Mtr_Speed)/(PR.Hz>Mtr_Speed ? PR.Hz:Mtr_Speed))});\n}\nelse if(PR.Hz < Mtr_Speed){\n    ant = context.get(\"ant\")||0;\n    act = parseFloat(Mtr_Speed);\n    resp = act < ant? act:ant;\n    \n    msg.payload = parseFloat(Mtr_Speed) - PR.dHz;\n    msg.payload = msg.payload - PR.dHz < PR.Hz ? PR.Hz : msg.payload;\n    msg.code = 1;\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" - \"+(PR.dHz).toFixed(2)+\" = \"+(msg.payload).toFixed(2)});\n}\nelse if(PR.Hz > Mtr_Speed){\n    ant = context.get(\"ant\")||0;\n    act = parseFloat(Mtr_Speed);\n    resp = act > ant? act:ant;\n    \n    msg.payload = resp + PR.dHz;\n    msg.payload = msg.payload + PR.dHz > PR.Hz ? PR.Hz : msg.payload;\n    msg.payload.code = 1;\n    context.set(\"ant\",act);\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" + \"+(PR.dHz).toFixed(2)+\" = \"+(msg.payload).toFixed(2)});\n}\nelse{\n    msg.payload = Mtr_Speed;\n    msg.code = 0;\n    context.set(\"ant\",0);\n}\nif(Sts == 0){\n    msg.payload = URef;\n}\nmsg.payload = msg.payload * 1;\nreturn msg;",
+        "func": "// Definitions\nvar PR          = global.get(\"Control_functions.Prolonged_Reference\")||null;\nvar Mtr_Speed   = global.get('C2S.Implicit.Output_Frequency','memoryOnly')||0;\nMtr_Speed       = Math.abs(Mtr_Speed);\nvar URef        = global.get(\"C2S.Last_Reference.Value\");\nvar Sts         = global.get(\"C2S.Drive_Status.Active\",\"memoryOnly\")||0;\nvar ant,act,resp;\n\nif(Math.abs(PR.Hz - Mtr_Speed) < 0.005){\n    msg.payload = PR.Hz;\n    msg.code = 0;\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" = \"+(PR.Hz).toFixed(2)+\" = \"+(msg.payload).toFixed(2)+\" \"+(Math.abs(PR.Hz - Mtr_Speed)/(PR.Hz>Mtr_Speed ? PR.Hz:Mtr_Speed))});\n}\nelse if(PR.Hz < Mtr_Speed){\n    ant = context.get(\"ant\") || parseFloat(Mtr_Speed);\n    act = parseFloat(Mtr_Speed);\n    resp = act < ant? act:ant;\n    \n    msg.payload = resp - PR.dHz;\n    msg.payload = msg.payload - PR.dHz < PR.Hz ? PR.Hz : msg.payload;\n    msg.code = 1;\n    context.set(\"ant\",act);\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" - \"+(PR.dHz).toFixed(2)+\" = \"+(msg.payload).toFixed(2)});\n}\nelse if(PR.Hz > Mtr_Speed){\n    ant = context.get(\"ant\") || parseFloat(Mtr_Speed);\n    act = parseFloat(Mtr_Speed);\n    resp = act > ant? act:ant;\n    \n    msg.payload = resp + PR.dHz;\n    msg.payload = msg.payload + PR.dHz > PR.Hz ? PR.Hz : msg.payload;\n    msg.payload.code = 1;\n    context.set(\"ant\",act);\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" + \"+(PR.dHz).toFixed(2)+\" = \"+(msg.payload).toFixed(2)});\n}\nelse{\n    msg.payload = Mtr_Speed;\n    msg.code = 0;\n    context.set(\"ant\",0);\n}\nif(Sts == 0){\n    msg.payload = URef;\n}\nmsg.payload = msg.payload * 1;\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 590,
+        "x": 750,
         "y": 380,
         "wires": [
             [
@@ -19375,7 +19392,7 @@
         "z": "bef159b0eb2cf912",
         "g": "3a4b00b6e7d09e3a",
         "name": "rampa ref prol(s)",
-        "func": "var ramp_refprol1 = flow.get(\"ramp_refprol[0]\") || 0;\nvar ramp_refprol2 = flow.get(\"ramp_refprol[1]\") || 0;\nvar ramp_refprol3 = flow.get(\"ramp_refprol[2]\") || 0;\nmsg.payload = (ramp_refprol1*3600)+(ramp_refprol2*60)+ramp_refprol3;\nreturn msg;",
+        "func": "var ramp_refprol1 = flow.get(\"ramp_refprol[0]\") || 0;\nvar ramp_refprol2 = flow.get(\"ramp_refprol[1]\") || 0;\nvar ramp_refprol3 = flow.get(\"ramp_refprol[2]\") || 0;\nvar timer;\nmsg.payload = (ramp_refprol1*3600)+(ramp_refprol2*60)+ramp_refprol3;\nif(msg.payload>345600)\n timer = 3600;\nelse if(msg.payload>259200)\n timer = 2400;\nelse if (msg.payload>172800)\n timer = 1800;\nelse if (msg.payload>86400)\n timer = 1200;\nelse if (msg.payload>43200)\n timer = 600;\nelse if (msg.payload>21600)\n timer = 300;\nelse if (msg.payload>10800)\n timer = 120;\nelse if (msg.payload>5400)\n timer = 60;\nelse if (msg.payload>2700)\n timer = 30;\nelse if (msg.payload>1800)\n timer = 15;\nelse\n    timer = 10;\n\nmsg. timer = timer;\nflow.set(\"delay\",timer*1000,\"memoryOnly\");\n\nnode.status({fill:\"green\",shape:\"dot\",text:\"Timer : \"+ msg.timer + \" Seg\"});\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -19504,7 +19521,7 @@
         "z": "bef159b0eb2cf912",
         "g": "3a4b00b6e7d09e3a",
         "name": "Delta Hz",
-        "func": "// Definitions\nvar PRef = global.get(\"Control_functions.Prolonged_Reference\");\nvar Commanded_SpdRef = global.get(\"C2S.Implicit.Commanded_SpdRef\",'memoryOnly')||0;\nvar Hz      = PRef.Hz;\n\nvar Time = msg.payload;  \nPRef.dHz = 10 * 60 * (Math.abs(Hz - Math.abs(Commanded_SpdRef) )/Time);\n\nnode.status({fill:\"green\",shape:\"dot\",text:\"Delta Hz : \"+ PRef.dHz});\nglobal.set(\"Control_functions.Prolonged_Reference\",PRef);\nmsg.payload = PRef.dHz;\nreturn msg;",
+        "func": "// Definitions\nvar PRef = global.get(\"Control_functions.Prolonged_Reference\");\nvar Commanded_SpdRef = global.get(\"C2S.Implicit.Commanded_SpdRef\",'memoryOnly')||0;\nvar Hz      = PRef.Hz;\n\nvar Time = msg.payload;  \nPRef.dHz = msg.timer * (Math.abs(Hz - Math.abs(Commanded_SpdRef) )/Time);\n\nnode.status({fill:\"green\",shape:\"dot\",text:\"Delta Hz : \"+ PRef.dHz});\nglobal.set(\"Control_functions.Prolonged_Reference\",PRef);\nmsg.payload = PRef.dHz;\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -19587,7 +19604,7 @@
         "to": "",
         "reg": false,
         "x": 2180,
-        "y": 630,
+        "y": 640,
         "wires": [
             [
                 "aeb76c9ced35d9f4"
@@ -19604,7 +19621,7 @@
             "52f1e35a6b450a62"
         ],
         "x": 2295,
-        "y": 630,
+        "y": 640,
         "wires": []
     },
     {
@@ -19628,7 +19645,7 @@
         "to": "",
         "reg": false,
         "x": 2320,
-        "y": 580,
+        "y": 590,
         "wires": [
             []
         ]
@@ -19681,7 +19698,7 @@
         "initialize": "",
         "finalize": "",
         "x": 2160,
-        "y": 580,
+        "y": 590,
         "wires": [
             [
                 "9c5515f79c0d3921"
@@ -19847,7 +19864,7 @@
         "to": "",
         "reg": false,
         "x": 2180,
-        "y": 540,
+        "y": 550,
         "wires": [
             []
         ]
@@ -19873,7 +19890,7 @@
         "to": "",
         "reg": false,
         "x": 2190,
-        "y": 670,
+        "y": 680,
         "wires": [
             []
         ]
@@ -73141,6 +73158,25 @@
         "wires": [
             [
                 "2cd9e470.7e562c"
+            ]
+        ]
+    },
+    {
+        "id": "c6631e95.4452d",
+        "type": "function",
+        "z": "bef159b0eb2cf912",
+        "g": "9bdf522.eba6db",
+        "name": "delay",
+        "func": "var delay = flow.get(\"delay\",\"memoryOnly\")||10000;\nmsg.delay = delay;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 430,
+        "y": 380,
+        "wires": [
+            [
+                "825a8d81.e5826"
             ]
         ]
     }
