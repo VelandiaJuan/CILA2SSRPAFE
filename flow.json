@@ -876,9 +876,7 @@
             "61c02e812fb48b72"
         ],
         "x": 24,
-        "y": 609,
-        "w": 2632,
-        "h": 552
+        "y": 609
     },
     {
         "id": "3cb51855.a66038",
@@ -893,9 +891,7 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169,
-        "w": 232,
-        "h": 82
+        "y": 1169
     },
     {
         "id": "27a0641a.d154dc",
@@ -1440,9 +1436,7 @@
             "6914a9b4.85f3c"
         ],
         "x": 1884,
-        "y": 239,
-        "w": 432,
-        "h": 82
+        "y": 239
     },
     {
         "id": "9437db38.d604e",
@@ -1463,12 +1457,13 @@
             "a6bc5916.f91728",
             "5b339a75.df7174",
             "ee057353c5c82042",
-            "03a3b206eac12d39"
+            "03a3b206eac12d39",
+            "f198a750.0dc288",
+            "2ef0e8e6.2d3508",
+            "49f6872d.f357e8"
         ],
         "x": 1884,
-        "y": 69,
-        "w": 1042,
-        "h": 162
+        "y": 69
     },
     {
         "id": "af8e6105.775618",
@@ -1490,9 +1485,7 @@
             "67ba4794.6cf57"
         ],
         "x": 164,
-        "y": 69,
-        "w": 752,
-        "h": 132
+        "y": 69
     },
     {
         "id": "d84d4fbe.ee6ce",
@@ -1511,9 +1504,7 @@
             "a7f0f525.ae1878"
         ],
         "x": 164,
-        "y": 209,
-        "w": 602,
-        "h": 122
+        "y": 209
     },
     {
         "id": "ef81d12e3dd41149",
@@ -1543,9 +1534,7 @@
             "1d797f4ca9b83896"
         ],
         "x": 924,
-        "y": 69,
-        "w": 952,
-        "h": 322
+        "y": 69
     },
     {
         "id": "e29eaee41e038edd",
@@ -1998,9 +1987,7 @@
             "675af0d1.a9fc4"
         ],
         "x": 22,
-        "y": 27,
-        "w": 1176,
-        "h": 686
+        "y": 27
     },
     {
         "id": "3a4b00b6e7d09e3a",
@@ -2055,9 +2042,7 @@
             "deae04d3b07e573a"
         ],
         "x": 1234,
-        "y": 149,
-        "w": 1452,
-        "h": 632
+        "y": 149
     },
     {
         "id": "0382d006bf3e8547",
@@ -2202,7 +2187,9 @@
             "cf985e84.c7693"
         ],
         "x": 18,
-        "y": 23
+        "y": 23,
+        "w": 2064,
+        "h": 1014
     },
     {
         "id": "e1e65313b5eaa836",
@@ -2244,9 +2231,7 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269,
-        "w": 352,
-        "h": 82
+        "y": 1269
     },
     {
         "id": "6202107f.ed9aa",
@@ -2322,9 +2307,7 @@
             "28f9623a0f710b9d"
         ],
         "x": 44,
-        "y": -1,
-        "w": 1992,
-        "h": 602
+        "y": -1
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -2343,9 +2326,7 @@
             "f401446baabcbb6e"
         ],
         "x": 3224,
-        "y": 3,
-        "w": 1284,
-        "h": 1554
+        "y": 3
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -2366,9 +2347,7 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169,
-        "w": 782,
-        "h": 182
+        "y": 1169
     },
     {
         "id": "086b9d08c3b68939",
@@ -2398,9 +2377,7 @@
             "43dcdfeaddbb3ac6"
         ],
         "x": 24,
-        "y": 1359,
-        "w": 1022,
-        "h": 292
+        "y": 1359
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -2426,9 +2403,7 @@
             "03894c480a20a7a9"
         ],
         "x": 24,
-        "y": 1679,
-        "w": 1222,
-        "h": 202
+        "y": 1679
     },
     {
         "id": "15680a1387d655eb",
@@ -2539,9 +2514,7 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679,
-        "w": 332,
-        "h": 82
+        "y": 1679
     },
     {
         "id": "69ad07e.039c4f8",
@@ -2759,9 +2732,7 @@
             "97b2eb182dd8a393"
         ],
         "x": 1884,
-        "y": 329,
-        "w": 922,
-        "h": 82
+        "y": 329
     },
     {
         "id": "3870a1febf5ca6cd",
@@ -2839,9 +2810,7 @@
             "8d6f8e22ed531a56"
         ],
         "x": 3434,
-        "y": 29,
-        "w": 492,
-        "h": 402
+        "y": 29
     },
     {
         "id": "f7709059ebe5ad7b",
@@ -2857,9 +2826,7 @@
             "aafad2ba.dcc8b"
         ],
         "x": 3428,
-        "y": 443,
-        "w": 1054,
-        "h": 634
+        "y": 443
     },
     {
         "id": "c483d44b5f6def10",
@@ -2885,9 +2852,7 @@
             "45aad8d3129156ca"
         ],
         "x": 3424,
-        "y": 1089,
-        "w": 472,
-        "h": 442
+        "y": 1089
     },
     {
         "id": "77dcd918.f8c298",
@@ -3926,9 +3891,7 @@
             "9bdf522.eba6db"
         ],
         "x": 48,
-        "y": 53,
-        "w": 1124,
-        "h": 634
+        "y": 53
     },
     {
         "id": "dad84feb.d4773",
@@ -4327,7 +4290,9 @@
             "25037f6e145deee9"
         ],
         "x": 44,
-        "y": 649
+        "y": 649,
+        "w": 1152,
+        "h": 292
     },
     {
         "id": "cf985e84.c7693",
@@ -4396,10 +4361,15 @@
             "51d0b33e.8369fc",
             "d97ed6bd.e7ad18",
             "0cb5e56ab0b31d03",
-            "d6aaf343fc532b87"
+            "d6aaf343fc532b87",
+            "40acf2ee.4ee9dc",
+            "58b12e1b.3b9df",
+            "3e50826c.d0363e"
         ],
         "x": 44,
-        "y": 49
+        "y": 49,
+        "w": 2012,
+        "h": 962
     },
     {
         "id": "ef45fa052227c233",
@@ -4419,9 +4389,7 @@
             "bab4ea5e8e01f9aa"
         ],
         "x": 194,
-        "y": 399,
-        "w": 852,
-        "h": 82
+        "y": 399
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -4449,9 +4417,7 @@
             "1f3630da2492d4f9"
         ],
         "x": 3454,
-        "y": 839,
-        "w": 1002,
-        "h": 212
+        "y": 839
     },
     {
         "id": "36fa9c99094e8f47",
@@ -4475,9 +4441,7 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 469,
-        "w": 402,
-        "h": 362
+        "y": 469
     },
     {
         "id": "742e267a.cbc27",
@@ -5372,9 +5336,7 @@
             "d0a19b38.893ab8"
         ],
         "x": 74,
-        "y": 79,
-        "w": 1042,
-        "h": 162
+        "y": 79
     },
     {
         "id": "9bdf522.eba6db",
@@ -5418,9 +5380,7 @@
             "c6631e95.4452d"
         ],
         "x": 74,
-        "y": 249,
-        "w": 1072,
-        "h": 412
+        "y": 249
     },
     {
         "id": "65994a87.9d5eb4",
@@ -5470,7 +5430,9 @@
             "7af9ff4dabd191fb"
         ],
         "x": 1394,
-        "y": 389
+        "y": 389,
+        "w": 632,
+        "h": 222
     },
     {
         "id": "49c39e.d1336c64",
@@ -18536,7 +18498,7 @@
         "z": "bef159b0eb2cf912",
         "g": "9bdf522.eba6db",
         "name": "VSD_Ref",
-        "func": "// Definitions\nvar PR          = global.get(\"Control_functions.Prolonged_Reference\")||null;\nvar Mtr_Speed   = global.get('C2S.Implicit.Output_Frequency','memoryOnly')||0;\nMtr_Speed       = Math.abs(Mtr_Speed);\nvar URef        = global.get(\"C2S.Last_Reference.Value\");\nvar Sts         = global.get(\"C2S.Drive_Status.Active\",\"memoryOnly\")||0;\nvar ant,act,resp;\n\nif(Math.abs(PR.Hz - Mtr_Speed) < 0.005){\n    msg.payload = PR.Hz;\n    msg.code = 0;\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" = \"+(PR.Hz).toFixed(2)+\" = \"+(msg.payload).toFixed(2)+\" \"+(Math.abs(PR.Hz - Mtr_Speed)/(PR.Hz>Mtr_Speed ? PR.Hz:Mtr_Speed))});\n}\nelse if(PR.Hz < Mtr_Speed){\n    ant = context.get(\"ant\") || parseFloat(Mtr_Speed);\n    act = parseFloat(Mtr_Speed);\n    resp = act < ant? act:ant;\n    \n    msg.payload = resp - PR.dHz;\n    msg.payload = msg.payload - PR.dHz < PR.Hz ? PR.Hz : msg.payload;\n    msg.code = 1;\n    context.set(\"ant\",act);\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" - \"+(PR.dHz).toFixed(2)+\" = \"+(msg.payload).toFixed(2)});\n}\nelse if(PR.Hz > Mtr_Speed){\n    ant = context.get(\"ant\") || parseFloat(Mtr_Speed);\n    act = parseFloat(Mtr_Speed);\n    resp = act > ant? act:ant;\n    \n    msg.payload = resp + PR.dHz;\n    msg.payload = msg.payload + PR.dHz > PR.Hz ? PR.Hz : msg.payload;\n    msg.payload.code = 1;\n    context.set(\"ant\",act);\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" + \"+(PR.dHz).toFixed(2)+\" = \"+(msg.payload).toFixed(2)});\n}\nelse{\n    msg.payload = Mtr_Speed;\n    msg.code = 0;\n    context.set(\"ant\",0);\n}\nif(Sts == 0){\n    msg.payload = URef;\n}\nmsg.payload = msg.payload * 1;\nreturn msg;",
+        "func": "// Definitions\nvar PR          = global.get(\"Control_functions.Prolonged_Reference\")||null;\nvar Mtr_Speed   = global.get('C2S.Implicit.Output_Frequency','memoryOnly')||0;\nMtr_Speed       = Math.abs(Mtr_Speed);\nvar URef        = global.get(\"C2S.Last_Reference.Value\");\nvar Sts         = global.get(\"C2S.Drive_Status.Active\",\"memoryOnly\")||0;\nvar ant,act,resp;\n\nif(Math.abs(PR.Hz - Mtr_Speed) < 0.005){\n    msg.payload = PR.Hz;\n    msg.code = 0;\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" = \"+(PR.Hz).toFixed(2)+\" = \"+(msg.payload).toFixed(2)+\" \"+(Math.abs(PR.Hz - Mtr_Speed)/(PR.Hz>Mtr_Speed ? PR.Hz:Mtr_Speed))});\n}\nelse if(PR.Hz < Mtr_Speed){\n    ant = context.get(\"ant\") || parseFloat(Mtr_Speed);\n    act = parseFloat(Mtr_Speed);\n    resp = act < ant? act:ant;\n    \n    msg.payload = resp - PR.dHz;\n    msg.payload = msg.payload - PR.dHz < PR.Hz ? PR.Hz : msg.payload;\n    msg.code = 1;\n    context.set(\"ant\",act);\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" - \"+(PR.dHz).toFixed(2)+\" = \"+(msg.payload).toFixed(2)});\n}\nelse if(PR.Hz > Mtr_Speed){\n    ant = context.get(\"ant\") || parseFloat(Mtr_Speed);\n    act = parseFloat(Mtr_Speed);\n    resp = act > ant? act:ant;\n    \n    msg.payload = resp + PR.dHz;\n    msg.payload = msg.payload + PR.dHz > PR.Hz ? PR.Hz : msg.payload;\n    msg.payload.code = 1;\n    context.set(\"ant\",act);\n    node.status({fill:\"green\",shape:\"dot\",text: Mtr_Speed+ \" + \"+(PR.dHz).toFixed(2)+\" = \"+(msg.payload).toFixed(2)});\n}\nelse{\n    msg.payload = Mtr_Speed;\n    msg.code = 0;\n    context.set(\"ant\",0);\n}\nif(Sts == 0){\n    msg.payload = URef;\n}\nmsg.payload = msg.payload * 1;\nflow.set(\"RefActual\",msg.payload,'memoryOnly');\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -19673,7 +19635,7 @@
         "z": "bef159b0eb2cf912",
         "g": "3a4b00b6e7d09e3a",
         "name": "",
-        "func": "var refinal = global.get(\"Control_functions.Prolonged_Reference.Hz\")||0;\nvar inicial = flow.get(\"RefInicial\",\"memoryOnly\") || 0;\nvar velactual = global.get(\"C2S.Implicit.Output_Frequency\",\"memoryOnly\") || 0;\n\nif (refinal!=0 && inicial!=0 && velactual !=0){\n    msg.payload = Math.abs(100 - ((Math.abs(refinal) - Math.abs(velactual)) / (Math.abs(refinal) - Math.abs(inicial)))*100).toFixed(6);\nreturn msg;\n}",
+        "func": "var refinal = global.get(\"Control_functions.Prolonged_Reference.Hz\")||0;\nvar inicial = flow.get(\"RefInicial\",\"memoryOnly\") || 0;\nvar velactual = flow.get(\"RefActual\",'memoryOnly')||0; //global.get(\"C2S.Implicit.Output_Frequency\",\"memoryOnly\") || 0;\n\nif (refinal!=0 && inicial!=0 && velactual !=0){\n    msg.payload = Math.abs(100 - ((Math.abs(refinal) - Math.abs(velactual)) / (Math.abs(refinal) - Math.abs(inicial)))*100).toFixed(6);\n    if(msg.payload < 0 || msg.payload > 100){\n        msg.payload = 0;\n    }\nreturn msg;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -26487,7 +26449,7 @@
         "z": "ebaf6b5134c2a666",
         "g": "cf985e84.c7693",
         "name": "",
-        "label": "Límite en la protección por corriente (H) [%]",
+        "label": "Límite en la protección por corriente de VSD (H) [%]",
         "tooltip": "",
         "group": "534dbcbb.5aad64",
         "order": 1,
@@ -26497,7 +26459,7 @@
         "mode": "number",
         "delay": "1",
         "topic": "",
-        "x": 640,
+        "x": 670,
         "y": 480,
         "wires": [
             [
@@ -26679,7 +26641,7 @@
         "z": "ebaf6b5134c2a666",
         "g": "dd4ef7f.6489508",
         "name": "PV Chart",
-        "func": "var Type        = flow.get(\"PID.Type\")||null;\nvar Sensor      = global.get(\"DownHoleData\",\"memoryOnly\");\nvar Pressure    = Sensor.DHS[\"Presión de entrada\"]||Sensor.AI[\"Presión de entrada\"];\nvar Current     = global.get(\"Motor.Current\",\"memoryOnly\")||0;\nvar Psetpoint   = Math.abs(flow.get(\"PID.Presion.setpoint\"))||0;\nvar Csetpoint   = flow.get(\"PID.Corriente.setpoint\")||0;\n\nvar PV = { payload:0 };\nvar setpoint = { payload:0 };\n\nvar Timestamp = Date.now();\n\nnode.status({fill:\"green\",shape:\"dot\",text: \"Presión: \"+Pressure+\" Corriente: \"+Current});\n\nif(Type == \"Presion\"){\n    node.status({fill:\"green\",shape:\"dot\",text: \"Presión: \"+Pressure+\" Corriente: \"+Current+\" Tipo: \"+Type});\n    PV.payload          = num(-Pressure);\n    PV.topic            = \"Presión\";\n    PV.timestamp        = Timestamp;\n    setpoint.payload    = Psetpoint;\n    setpoint.topic      = \"Setpoint de presión\";\n    setpoint.timestamp  = Timestamp;\n    return [PV,setpoint];\n}\nelse if(Type == \"Corriente\"){\n    node.status({fill:\"green\",shape:\"dot\",text: \"Presión: \"+Pressure+\" Corriente: \"+Current+\" Tipo: \"+Type});\n    PV.payload          = num(Current);\n    PV.topic            = \"Corriente\";\n    PV.timestamp        = Timestamp;\n    setpoint.payload    = Csetpoint;\n    setpoint.topic      = \"Setpoint de corriente\";\n    setpoint.timestamp  = Timestamp;\n    return [PV,setpoint];\n}\nelse{\n    node.status({fill:\"grey\",shape:\"dot\",text: \"Presión: \"+Pressure+\" Corriente: \"+Current+\" Tipo: Ninguno\"});\n    return; \n}\n\nfunction num(x) {\n  return parseFloat(x);\n}\n",
+        "func": "var Type        = flow.get(\"PID.Type\")||null;\nvar Sensor      = global.get(\"Process_data\",\"memoryOnly\");\nvar Pressure    = Math.abs(Sensor.DHS[\"Presión de entrada\"]||Sensor.AI[\"Presión de entrada\"]);\nvar Currentvsd  = global.get(\"C2S.Implicit.Output_Current\",\"memoryOnly\")||0;\nvar Reltx       = global.get(\"C2S.RelTx\")||1;\nvar Current = Currentvsd/Reltx;\nvar Psetpoint   = Math.abs(flow.get(\"PID.Presion.setpoint\"))||0;\nvar Csetpoint   = flow.get(\"PID.Corriente.setpoint\")||0;\n\nvar PV = { payload:0 };\nvar setpoint = { payload:0 };\n\nvar Timestamp = Date.now();\n\nnode.status({fill:\"green\",shape:\"dot\",text: \"Presión: \"+Pressure+\" Corriente: \"+Current});\n\nif(Type == \"Presion\"){\n    node.status({fill:\"green\",shape:\"dot\",text: \"Presión: \"+Pressure+\" Corriente: \"+Current+\" Tipo: \"+Type});\n    PV.payload          = num(Pressure);\n    PV.topic            = \"Presión\";\n    PV.timestamp        = Timestamp;\n    setpoint.payload    = Psetpoint;\n    setpoint.topic      = \"Setpoint de presión\";\n    setpoint.timestamp  = Timestamp;\n    return [PV,setpoint];\n}\nelse if(Type == \"Corriente\"){\n    node.status({fill:\"green\",shape:\"dot\",text: \"Presión: \"+Pressure+\" Corriente: \"+Current+\" Tipo: \"+Type});\n    PV.payload          = num(Current);\n    PV.topic            = \"Corriente\";\n    PV.timestamp        = Timestamp;\n    setpoint.payload    = Csetpoint;\n    setpoint.topic      = \"Setpoint de corriente\";\n    setpoint.timestamp  = Timestamp;\n    return [PV,setpoint];\n}\nelse{\n    node.status({fill:\"grey\",shape:\"dot\",text: \"Presión: \"+Pressure+\" Corriente: \"+Current+\" Tipo: Ninguno\"});\n    return; \n}\n\nfunction num(x) {\n  return parseFloat(x);\n}\n",
         "outputs": 2,
         "noerr": 0,
         "initialize": "",
@@ -26740,7 +26702,7 @@
         "interpolate": "linear",
         "nodata": "",
         "dot": false,
-        "ymin": "",
+        "ymin": "0",
         "ymax": "",
         "removeOlder": "5",
         "removeOlderPoints": "300",
@@ -27045,7 +27007,7 @@
         "z": "ebaf6b5134c2a666",
         "g": "cf985e84.c7693",
         "name": "Banda Muerta + Reglas de activación",
-        "func": "var DHData          = global.get(\"Process_data.DHS\",\"memoryOnly\")||null;\nvar PIDType         = flow.get(\"PID.Type\")||\"\";\nvar DeadBand        = flow.get(\"PID.Limits.DeadBand\")||0;\n\nvar PIDEnable       = flow.get(\"PID.Enable\")||false;\nvar CEnable         = global.get(\"Protections.Load.H.Setpoint\")||0;\nvar VEnable         = global.get(\"Protections.VibrationGeneral.H.Setpoint\")||0;\nvar MEnable         = global.get(\"Protections.MotorTemperature.H.Setpoint\")||0;\n\nvar CEnableLimit    = flow.get(\"PID.Activation.Current\")||0;\nvar VEnableLimit    = flow.get(\"PID.Activation.Vibration\")||0;\nvar MEnableLimit    = flow.get(\"PID.Activation.Temp\")||0;\n\n// Current\nvar Current = global.get(\"C2S.Implicit.Output_Current\",\"memoryOnly\")||0;\n\n// Vibration\nvar VibrationX      = DHData[\"Vibración X\"] || DHData.AI[\"Vibración X\"] || 0;\nvar VibrationZ      = DHData[\"Vibración Z\"] || DHData.AI[\"Vibración Z\"] || 0;\nvar Vibration       = VibrationX >= VibrationZ ? VibrationX:VibrationZ;\n\n// Mtr Temp\nvar MtrTemp         = DHData[\"Temperatura de motor\"] || DHData.AI[\"Temperatura de motor\"];\n\n//Rules\nvar CEnableRule     = Current   <= CEnable*CEnableLimit/100 ? true:false;\nvar VEnableRule     = Vibration <= VEnable*VEnableLimit/100 ? true:false;\nvar MtrTempRule     = MtrTemp   <= MEnable*MEnableLimit/100 ? true:false;\n\n// Activation Rule\nvar ActivationRule  = PIDEnable && CEnableRule && VEnableRule && MtrTempRule;\n\n// Dead Band Rule\nvar setpoint = 0;   var Min = 0;    var Max = 0;\n\nif(PIDType == \"Corriente\"){\n    setpoint = flow.get(\"PID.Corriente.setpoint\")||0;\n    Min = setpoint - DeadBand;\n    Max = setpoint + DeadBand;\n    if(msg.payload >= Min && msg.payload <= Max ){\n        var DeadBandRule = false;\n    }\n    else{\n        var DeadBandRule = true;\n    }\n}\nelse if(PIDType == \"Presion\"){\n    setpoint = flow.get(\"PID.Presion.setpoint\")||0;\n    Min = setpoint - DeadBand;\n    Max = setpoint + DeadBand;\n    if(msg.payload >= Min && msg.payload <= Max ){\n        DeadBandRule = false;\n    }\n    else{\n        DeadBandRule = true;\n    }\n}\n\n// Last asingation\nmsg.enable = (ActivationRule && DeadBandRule);\nnode.status({fill:\"green\",shape:\"dot\",text:\"PID:\"+PIDEnable+\" Corriente:\"+CEnableRule+\" Vibración:\"+VEnableRule + \" Temp. Mtr:\"+MtrTempRule});\nreturn msg;",
+        "func": "var DHData          = global.get(\"Process_data.DHS\",\"memoryOnly\")||null;\nvar PIDType         = flow.get(\"PID.Type\")||\"\";\nvar DeadBand        = flow.get(\"PID.Limits.DeadBand\")||0;\n\nvar PIDEnable       = flow.get(\"PID.Enable\")||false;\nvar CEnable         = global.get(\"Protections.Load.H.Setpoint\")||0;\nvar VEnable         = global.get(\"Protections.VibrationGeneral.H.Setpoint\")||0;\nvar MEnable         = global.get(\"Protections.MotorTemperature.H.Setpoint\")||0;\n\nvar CEnableLimit    = flow.get(\"PID.Activation.Current\")||0;\nvar VEnableLimit    = flow.get(\"PID.Activation.Vibration\")||0;\nvar MEnableLimit    = flow.get(\"PID.Activation.Temp\")||0;\n\n// Current\nvar Current = global.get(\"C2S.Implicit.Output_Current\",\"memoryOnly\")||0;\n\n// Vibration\nvar VibrationX      = DHData[\"Vibración X\"] || DHData.AI[\"Vibración X\"] || 0;\nvar VibrationZ      = DHData[\"Vibración Z\"] || DHData.AI[\"Vibración Z\"] || 0;\nvar Vibration       = VibrationX >= VibrationZ ? VibrationX:VibrationZ;\n\n// Mtr Temp\nvar MtrTemp         = DHData[\"Temperatura de motor\"] || DHData.AI[\"Temperatura de motor\"];\n\n//Rules\nvar CEnableRule     = Current   <= CEnable*CEnableLimit/100 ? true:false;\nvar VEnableRule     = true;//Vibration <= VEnable*VEnableLimit/100 ? true:false;\nvar MtrTempRule     = true;//MtrTemp   <= MEnable*MEnableLimit/100 ? true:false;\n\n// Activation Rule\nvar ActivationRule  = PIDEnable && CEnableRule && VEnableRule && MtrTempRule;\n\n// Dead Band Rule\nvar setpoint = 0;   var Min = 0;    var Max = 0;\n\nif(PIDType == \"Corriente\"){\n    setpoint = flow.get(\"PID.Corriente.setpoint\")||0;\n    Min = setpoint - DeadBand;\n    Max = setpoint + DeadBand;\n    if(msg.payload >= Min && msg.payload <= Max ){\n        var DeadBandRule = false;\n    }\n    else{\n        var DeadBandRule = true;\n    }\n}\nelse if(PIDType == \"Presion\"){\n    setpoint = flow.get(\"PID.Presion.setpoint\")||0;\n    Min = setpoint - DeadBand;\n    Max = setpoint + DeadBand;\n    if(msg.payload >= Min && msg.payload <= Max ){\n        DeadBandRule = false;\n    }\n    else{\n        DeadBandRule = true;\n    }\n}\n\n// Last asingation\nmsg.enable = (ActivationRule && DeadBandRule);\nnode.status({fill:\"green\",shape:\"dot\",text:\"PID:\"+PIDEnable+\" Corriente:\"+CEnableRule+\" Vibración:\"+VEnableRule + \" Temp. Mtr:\"+MtrTempRule});\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -27458,7 +27420,7 @@
         ],
         "uncaught": false,
         "x": 840,
-        "y": 280,
+        "y": 290,
         "wires": [
             [
                 "d6aaf343fc532b87"
@@ -27480,7 +27442,7 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 970,
-        "y": 280,
+        "y": 290,
         "wires": []
     },
     {
@@ -27503,9 +27465,7 @@
         "x": 890,
         "y": 1050,
         "wires": [
-            [
-                "1b31a99d3142bc16"
-            ]
+            []
         ]
     },
     {
@@ -27527,33 +27487,6 @@
         "payloadType": "num",
         "x": 890,
         "y": 1090,
-        "wires": [
-            [
-                "1b31a99d3142bc16"
-            ]
-        ]
-    },
-    {
-        "id": "1b31a99d3142bc16",
-        "type": "change",
-        "z": "ebaf6b5134c2a666",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "#:(memoryOnly)::Process_data.DHS[\"Presión de entrada\"]",
-                "pt": "global",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1160,
-        "y": 1050,
         "wires": [
             []
         ]
@@ -66763,7 +66696,7 @@
         "order": 1,
         "width": 0,
         "height": 0,
-        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n\n</head>\n\n<body>\n    <!-- Navigation bar -->\n    <nav>\n        <div class=\"nav nav-pills nav-fill\" id=\"nav-tab\" role=\"tablist\">\n            <a class=\"nav-item nav-link active\" id=\"nav-SintonizacionLimitesOper-tab\" data-toggle=\"tab\"\n                href=\"#nav-SintonizacionLimitesOper\" role=\"tab\" aria-controls=\"nav-SintonizacionLimitesOper\"\n                aria-selected=\"true\" ng-click=\"send({payload:SintonizacionLimitesOper()})\">Sintonización y límites</a>\n            <a class=\"nav-item nav-link\" id=\"nav-ReglasActivacion-tab\" data-toggle=\"tab\" href=\"#nav-ReglasActivacion\"\n                role=\"tab\" aria-controls=\"nav-ReglasActivacion\" aria-selected=\"false\"\n                ng-click=\"send({payload:ReglasActivacion()})\">Reglas de activación</a>\n            <!-- <a class=\"nav-item nav-link\" id=\"nav-Tendencia-tab\" data-toggle=\"tab\" href=\"#nav-Tendencia\" role=\"tab\"\n                aria-controls=\"nav-Tendencia\" aria-selected=\"false\" ng-click=\"send({payload:Tendencia()})\">Tendencia</a> -->\n\n        </div>\n    </nav>\n\n    <script>\n        this.scope.SintonizacionLimitesOper = function() { return \"SintonizacionLimitesOper\"; };\n        this.scope.ReglasActivacion = function() { return \"ReglasActivacion\"; };\n        this.scope.Tendencia = function() { return \"Tendencia\"; };\n        \n    </script>\n\n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n    <script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n    <script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n    <script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script>\n</body>\n\n</html>",
+        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n\n</head>\n\n<body>\n    <!-- Navigation bar -->\n    <nav>\n        <div class=\"nav nav-pills nav-fill\" id=\"nav-tab\" role=\"tablist\">\n            <a class=\"nav-item nav-link active\" id=\"nav-SintonizacionLimitesOper-tab\" data-toggle=\"tab\"\n                href=\"#nav-SintonizacionLimitesOper\" role=\"tab\" aria-controls=\"nav-SintonizacionLimitesOper\"\n                aria-selected=\"true\" ng-click=\"send({payload:SintonizacionLimitesOper()})\">Sintonización y límites</a>\n            <a class=\"nav-item nav-link\" id=\"nav-ReglasActivacion-tab\" data-toggle=\"tab\" href=\"#nav-ReglasActivacion\"\n                role=\"tab\" aria-controls=\"nav-ReglasActivacion\" aria-selected=\"false\"\n                ng-click=\"send({payload:ReglasActivacion()})\">Reglas de activación</a>\n            <a class=\"nav-item nav-link\" id=\"nav-Tendencia-tab\" data-toggle=\"tab\" href=\"#nav-Tendencia\" role=\"tab\"\n                aria-controls=\"nav-Tendencia\" aria-selected=\"false\" ng-click=\"send({payload:Tendencia()})\">Tendencia</a>\n\n        </div>\n    </nav>\n\n    <script>\n        this.scope.SintonizacionLimitesOper = function() { return \"SintonizacionLimitesOper\"; };\n        this.scope.ReglasActivacion = function() { return \"ReglasActivacion\"; };\n        this.scope.Tendencia = function() { return \"Tendencia\"; };\n        \n    </script>\n\n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n    <script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n    <script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n    <script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script>\n</body>\n\n</html>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
@@ -69414,10 +69347,11 @@
         "y": 170,
         "wires": [
             [
-                "a6bc5916.f91728"
+                "a6bc5916.f91728",
+                "f198a750.0dc288"
             ],
             [
-                "5b339a75.df7174"
+                "2ef0e8e6.2d3508"
             ]
         ]
     },
@@ -69447,7 +69381,7 @@
         ],
         "allowColorForValueInMessage": false,
         "name": "",
-        "x": 2850,
+        "x": 2920,
         "y": 150,
         "wires": []
     },
@@ -69478,7 +69412,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 2700,
+        "x": 2750,
         "y": 150,
         "wires": [
             [
@@ -69513,8 +69447,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 2700,
-        "y": 190,
+        "x": 3100,
+        "y": 200,
         "wires": [
             [
                 "5fde841b.216d14"
@@ -73178,6 +73112,149 @@
             [
                 "825a8d81.e5826"
             ]
+        ]
+    },
+    {
+        "id": "f198a750.0dc288",
+        "type": "change",
+        "z": "38e901f121b52acb",
+        "g": "9437db38.d604e",
+        "name": "Reset",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "reset",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2780,
+        "y": 190,
+        "wires": [
+            [
+                "49f6872d.f357e8"
+            ]
+        ]
+    },
+    {
+        "id": "2ef0e8e6.2d3508",
+        "type": "delay",
+        "z": "38e901f121b52acb",
+        "g": "9437db38.d604e",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "100",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 2760,
+        "y": 230,
+        "wires": [
+            [
+                "49f6872d.f357e8"
+            ]
+        ]
+    },
+    {
+        "id": "49f6872d.f357e8",
+        "type": "trigger",
+        "z": "38e901f121b52acb",
+        "g": "9437db38.d604e",
+        "name": "",
+        "op1": "0",
+        "op2": "reset",
+        "op1type": "num",
+        "op2type": "str",
+        "duration": "10",
+        "extend": false,
+        "overrideDelay": false,
+        "units": "s",
+        "reset": "reset",
+        "bytopic": "all",
+        "topic": "topic",
+        "outputs": 1,
+        "x": 2930,
+        "y": 200,
+        "wires": [
+            [
+                "5b339a75.df7174"
+            ]
+        ]
+    },
+    {
+        "id": "40acf2ee.4ee9dc",
+        "type": "udp in",
+        "z": "ebaf6b5134c2a666",
+        "g": "cf985e84.c7693",
+        "name": "",
+        "iface": "",
+        "port": "3074",
+        "ipv": "udp4",
+        "multicast": "false",
+        "group": "",
+        "datatype": "utf8",
+        "x": 860,
+        "y": 970,
+        "wires": [
+            [
+                "58b12e1b.3b9df"
+            ]
+        ]
+    },
+    {
+        "id": "58b12e1b.3b9df",
+        "type": "function",
+        "z": "ebaf6b5134c2a666",
+        "g": "cf985e84.c7693",
+        "name": "str2float",
+        "func": "msg.payload = parseFloat(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 860,
+        "y": 930,
+        "wires": [
+            [
+                "3e50826c.d0363e"
+            ]
+        ]
+    },
+    {
+        "id": "3e50826c.d0363e",
+        "type": "change",
+        "z": "ebaf6b5134c2a666",
+        "g": "cf985e84.c7693",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Process_data.DHS[\"Presión de entrada\"]",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1150,
+        "y": 930,
+        "wires": [
+            []
         ]
     }
 ]
