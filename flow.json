@@ -115,7 +115,7 @@
         "id": "b33f2007a2776232",
         "type": "tab",
         "label": "AIC",
-        "disabled": false,
+        "disabled": true,
         "info": ""
     },
     {
@@ -1109,7 +1109,9 @@
             "566c907c.70175"
         ],
         "x": 28,
-        "y": 33
+        "y": 33,
+        "w": 1264,
+        "h": 574
     },
     {
         "id": "9132da2c.b8c6b8",
@@ -1151,7 +1153,9 @@
             "7c55c2ad.611734"
         ],
         "x": 22,
-        "y": 637
+        "y": 637,
+        "w": 3146,
+        "h": 2266
     },
     {
         "id": "c3a35f81.5c82b8",
@@ -1174,7 +1178,9 @@
             "d961a2f.f52ad6"
         ],
         "x": 1874,
-        "y": 129
+        "y": 129,
+        "w": 902,
+        "h": 162
     },
     {
         "id": "9b538856.60fb38",
@@ -2087,7 +2093,9 @@
             "d12eb94c947d2994"
         ],
         "x": 1364,
-        "y": 299
+        "y": 299,
+        "w": 1822,
+        "h": 282
     },
     {
         "id": "2fa4e5be63ea61ce",
@@ -2107,7 +2115,9 @@
             "da3d5f3ce168e7d3"
         ],
         "x": 1364,
-        "y": 59
+        "y": 59,
+        "w": 482,
+        "h": 232
     },
     {
         "id": "2bb641e0f5f82309",
@@ -2123,7 +2133,9 @@
             "80a9920a.43161"
         ],
         "x": 42,
-        "y": 2927
+        "y": 2927,
+        "w": 3020,
+        "h": 1400
     },
     {
         "id": "e3aa057d.09fb18",
@@ -2140,9 +2152,7 @@
             "b9df7528.923398"
         ],
         "x": 28,
-        "y": 23,
-        "w": 2970,
-        "h": 1062
+        "y": 23
     },
     {
         "id": "83483662ea05d247",
@@ -2449,7 +2459,9 @@
             "7891beb136b84093"
         ],
         "x": 984,
-        "y": 69
+        "y": 69,
+        "w": 912,
+        "h": 482
     },
     {
         "id": "4ae0fd0ca9645309",
@@ -2478,7 +2490,9 @@
             "9babc6836bff31e8"
         ],
         "x": 44,
-        "y": 69
+        "y": 69,
+        "w": 932,
+        "h": 582
     },
     {
         "id": "76bd25c71a8d7775",
@@ -2517,7 +2531,9 @@
             "3176ad7a0b3bbd81"
         ],
         "x": 1904,
-        "y": 69
+        "y": 69,
+        "w": 932,
+        "h": 1132
     },
     {
         "id": "afdbbb533d628687",
@@ -2587,7 +2603,9 @@
             "5a8b47f509c8f014"
         ],
         "x": 2994,
-        "y": 79
+        "y": 79,
+        "w": 1872,
+        "h": 372
     },
     {
         "id": "ba075c8cc622876a",
@@ -2773,7 +2791,9 @@
             "4d36e0c084ccff5d"
         ],
         "x": 1874,
-        "y": 39
+        "y": 39,
+        "w": 902,
+        "h": 82
     },
     {
         "id": "96c458bbaaf91d88",
@@ -2790,7 +2810,9 @@
             "fc4e6ab74ebe7635"
         ],
         "x": 2994,
-        "y": 459
+        "y": 459,
+        "w": 652,
+        "h": 82
     },
     {
         "id": "6cf3af62bb707c4c",
@@ -2917,7 +2939,9 @@
             "742e267a.cbc27"
         ],
         "x": 68,
-        "y": 2973
+        "y": 2973,
+        "w": 1284,
+        "h": 594
     },
     {
         "id": "80a9920a.43161",
@@ -2986,7 +3010,9 @@
             "2437732b.dd79cc"
         ],
         "x": 1368,
-        "y": 2953
+        "y": 2953,
+        "w": 1668,
+        "h": 1348
     },
     {
         "id": "1306de9a.9ba341",
@@ -3522,7 +3548,9 @@
             "868cefce.6694a"
         ],
         "x": 54,
-        "y": 59
+        "y": 59,
+        "w": 1212,
+        "h": 362
     },
     {
         "id": "566c907c.70175",
@@ -3546,7 +3574,9 @@
             "3f94e47b8b495988"
         ],
         "x": 54,
-        "y": 429
+        "y": 429,
+        "w": 1002,
+        "h": 152
     },
     {
         "id": "f167459.5f028b8",
@@ -3565,7 +3595,9 @@
             "49c39e.d1336c64"
         ],
         "x": 48,
-        "y": 703
+        "y": 703,
+        "w": 1714,
+        "h": 2174
     },
     {
         "id": "7c55c2ad.611734",
@@ -3583,7 +3615,9 @@
             "c4bcf1ca.3d67d"
         ],
         "x": 1778,
-        "y": 663
+        "y": 663,
+        "w": 1364,
+        "h": 1121.5
     },
     {
         "id": "b1830307.ee865",
@@ -3995,9 +4029,7 @@
             "dba5a375ebc26199"
         ],
         "x": 54,
-        "y": 359,
-        "w": 1832,
-        "h": 700
+        "y": 359
     },
     {
         "id": "7aad629d.de652c",
@@ -4061,9 +4093,7 @@
             "b4c9b17bde2f220c"
         ],
         "x": 54,
-        "y": 49,
-        "w": 2762,
-        "h": 302
+        "y": 49
     },
     {
         "id": "8f8a192b.bb2ef8",
@@ -4091,9 +4121,7 @@
             "4e19cfd4.3982f"
         ],
         "x": 1894,
-        "y": 439,
-        "w": 1062,
-        "h": 232
+        "y": 439
     },
     {
         "id": "b9df7528.923398",
@@ -4109,9 +4137,7 @@
             "65994a87.9d5eb4"
         ],
         "x": 1898,
-        "y": 683,
-        "w": 1074,
-        "h": 134
+        "y": 683
     },
     {
         "id": "6625e1db09743bc3",
@@ -4549,7 +4575,9 @@
             "ec7a9df336d4ffeb"
         ],
         "x": 94,
-        "y": 2999
+        "y": 2999,
+        "w": 1232,
+        "h": 542
     },
     {
         "id": "f6e2a6e0.47efb8",
@@ -4588,7 +4616,9 @@
             "b6a4e02ca271262e"
         ],
         "x": 1394,
-        "y": 2979
+        "y": 2979,
+        "w": 1232,
+        "h": 322
     },
     {
         "id": "edfe6c51.d89c68",
@@ -4618,14 +4648,19 @@
             "4a46db90.05ea4c",
             "23ebaedc.4ea2ba",
             "10966509.4f25e3",
-            "eed2c392.531d68",
             "ac5611e0.f1126",
             "6f5153fc.5881dc",
             "31dcbe69.82dd92",
-            "466d829c.38acdc"
+            "466d829c.38acdc",
+            "349c4ae9.917026",
+            "b073836b.5af",
+            "b5fe3dd.b57e9c",
+            "bded5dfe.fdd52"
         ],
         "x": 1394,
-        "y": 3299
+        "y": 3299,
+        "w": 722,
+        "h": 442
     },
     {
         "id": "16097ef1.129291",
@@ -5160,7 +5195,9 @@
             "901abd09c7f1d327"
         ],
         "x": 74,
-        "y": 729
+        "y": 729,
+        "w": 1242,
+        "h": 842
     },
     {
         "id": "f68d7eac.63fb98",
@@ -5190,7 +5227,9 @@
             "dc7c0e6833d4017c"
         ],
         "x": 84,
-        "y": 2669
+        "y": 2669,
+        "w": 892,
+        "h": 182
     },
     {
         "id": "d532ac68.2d5408",
@@ -5245,7 +5284,9 @@
             "b11471d1de6d950b"
         ],
         "x": 1824,
-        "y": 689
+        "y": 689,
+        "w": 1292,
+        "h": 502
     },
     {
         "id": "c4bcf1ca.3d67d",
@@ -5307,7 +5348,9 @@
             "594a5a3dcc0b18eb"
         ],
         "x": 1804,
-        "y": 1219
+        "y": 1219,
+        "w": 1292,
+        "h": 539.5
     },
     {
         "id": "a80677cf.4274c8",
@@ -5451,9 +5494,7 @@
             "f4363e16.f1813"
         ],
         "x": 1924,
-        "y": 709,
-        "w": 1022,
-        "h": 82
+        "y": 709
     },
     {
         "id": "dd4ef7f.6489508",
@@ -5664,7 +5705,9 @@
             "38362b7a.04f554"
         ],
         "x": 84,
-        "y": 1579
+        "y": 1579,
+        "w": 1652,
+        "h": 1032
     },
     {
         "id": "d25d405a.19cff",
@@ -7027,6 +7070,7 @@
     {
         "id": "bbcad83f03315844",
         "type": "eth-ip endpoint",
+        "d": true,
         "address": "192.168.2.4",
         "slot": "0",
         "cycletime": "500",
@@ -7159,6 +7203,7 @@
     {
         "id": "334149985a144b7e",
         "type": "eth-ip endpoint",
+        "d": true,
         "address": "192.168.2.4",
         "slot": "0",
         "cycletime": "500",
@@ -7183,6 +7228,7 @@
     {
         "id": "4658687c43f2aa21",
         "type": "eth-ip endpoint",
+        "d": true,
         "address": "192.168.2.4",
         "slot": "0",
         "cycletime": "500",
@@ -7765,6 +7811,7 @@
     {
         "id": "74cdb96df4da1788",
         "type": "eth-ip endpoint",
+        "d": true,
         "address": "192.168.2.4",
         "slot": "0",
         "cycletime": "500",
@@ -53121,7 +53168,7 @@
         "z": "7a89175c.90f6a8",
         "g": "edfe6c51.d89c68",
         "name": "AO4",
-        "func": "var AO  = flow.get('ES.SA.AO4')||null;\nvar C2S = global.get('C2S','memoryOnly')||null;\nvar Mtr = global.get('Motor_Control','memoryOnly');\n\n//valores de simulación\nvar boton = flow.get(\"SA_Config.SimulacionBoton4\",\"memoryOnly\")||false;\nvar valor = flow.get(\"SA_Config.SimulacionValor4\",\"memoryOnly\")||4;\n\nif(boton == true){\n    msg.payload = parseInt(valor)*10000;\n    return msg;\n}else{\n    //Objeto con las funciones del CILA2S\n    var FuncionC2S = {\n        \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frecuency:0,\n        \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n        \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n        \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0,\n        \"Tensión de motor\":             Mtr != null ? Mtr.Voltage:0,\n        \"Referencia de velocidad\":      C2S != null ? C2S.Commanded_SpdRef:0\n    }\n    if(typeof AO!= 'undefined' && AO!= null){\n        msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*10000);\n        node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n    }\n    else{\n        node.status({fill:\"gray\",shape:\"dot\",text:\"--\"});\n        msg.payload = 0;\n    \n    }\n    return msg;\n    \n}\n\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return t;\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
+        "func": "var AO  = flow.get('ES.SA.AO4')||null;\nvar C2S = global.get('C2S.Implicit','memoryOnly')||null;\nvar RelTx = global.get(\"C2S.RelTx\")||1;\n\n//valores de simulación\nvar boton = flow.get(\"SA_Config.SimulacionBoton4\",\"memoryOnly\")||false;\nvar valor = flow.get(\"SA_Config.SimulacionValor4\",\"memoryOnly\")||4;\n\nif(boton == true){\n    msg.payload = parseInt(valor)*10000;\n    return msg;\n}else{\n    //Objeto con las funciones del CILA2S\n    var FuncionC2S = {\n        \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frecuency:0,\n        \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n        \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n        \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0,\n        \"Tensión de motor\":             C2S != null ? C2S.Output_Voltage*RelTx:0,\n        \"Referencia de velocidad\":      C2S != null ? C2S.Commanded_SpdRef:0\n    }\n    if(typeof AO!= 'undefined' && AO!= null){\n        msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*10000);\n        node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n    }\n    else{\n        node.status({fill:\"gray\",shape:\"dot\",text:\"--\"});\n        msg.payload = 0;\n    \n    }\n    return msg;\n    \n}\n\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return t;\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -53131,7 +53178,7 @@
         "wires": [
             [
                 "5cb767da.98178",
-                "466d829c.38acdc"
+                "bded5dfe.fdd52"
             ]
         ],
         "inputLabels": [
@@ -53147,7 +53194,7 @@
         "z": "7a89175c.90f6a8",
         "g": "edfe6c51.d89c68",
         "name": "AO3",
-        "func": "var AO  = flow.get('ES.SA.AO3')||null;\nvar C2S = global.get('C2S','memoryOnly')||null;\nvar Mtr = global.get('Motor_Control','memoryOnly');\n//valores de simulación\nvar boton = flow.get(\"SA_Config.SimulacionBoton3\",\"memoryOnly\")||false;\nvar valor = flow.get(\"SA_Config.SimulacionValor3\",\"memoryOnly\")||4;\n\nif(boton == true){\n    msg.payload = parseInt(valor)*10000;\n    return msg;\n}else{\n    \n    //Objeto con las funciones del CILA2S\n    var FuncionC2S = {\n        \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frecuency:0,\n        \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n        \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n        \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0,\n        \"Tensión de motor\":             Mtr != null ? Mtr.Voltage:0,\n        \"Referencia de velocidad\":      C2S != null ? C2S.Commanded_SpdRef:0\n    }\n    if(typeof AO!= 'undefined' && AO!= null){\n        msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*10000);\n        node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n    }\n    else{\n        node.status({fill:\"gray\",shape:\"dot\",text:\"--\"});\n        msg.payload = 0;\n    \n    }\n    return msg;\n}\n\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return t;\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
+        "func": "var AO  = flow.get('ES.SA.AO3')||null;\nvar C2S = global.get('C2S.Implicit','memoryOnly')||null;\nvar RelTx = global.get(\"C2S.RelTx\")||1;\n\n//valores de simulación\nvar boton = flow.get(\"SA_Config.SimulacionBoton3\",\"memoryOnly\")||false;\nvar valor = flow.get(\"SA_Config.SimulacionValor3\",\"memoryOnly\")||4;\n\nif(boton == true){\n    msg.payload = parseInt(valor)*10000;\n    return msg;\n}else{\n    \n    //Objeto con las funciones del CILA2S\n    var FuncionC2S = {\n        \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frecuency:0,\n        \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n        \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n        \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0,\n        \"Tensión de motor\":             C2S != null ? C2S.Output_Voltage*RelTx:0,\n        \"Referencia de velocidad\":      C2S != null ? C2S.Commanded_SpdRef:0\n    }\n    if(typeof AO!= 'undefined' && AO!= null){\n        msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*10000);\n        node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n    }\n    else{\n        node.status({fill:\"gray\",shape:\"dot\",text:\"--\"});\n        msg.payload = 0;\n    \n    }\n    return msg;\n}\n\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return t;\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -53157,7 +53204,7 @@
         "wires": [
             [
                 "bc63c380.fb7a78",
-                "31dcbe69.82dd92"
+                "b5fe3dd.b57e9c"
             ]
         ],
         "inputLabels": [
@@ -53173,7 +53220,7 @@
         "z": "7a89175c.90f6a8",
         "g": "edfe6c51.d89c68",
         "name": "AO2",
-        "func": "var AO  = flow.get('ES.SA.AO2')||null;\nvar C2S = global.get('C2S','memoryOnly')||null;\nvar Mtr = global.get('Motor_Control','memoryOnly');\n\n//valores de simulación\nvar boton = flow.get(\"SA_Config.SimulacionBoton2\",\"memoryOnly\")||false;\nvar valor = flow.get(\"SA_Config.SimulacionValor2\",\"memoryOnly\")||4;\n\nif(boton == true){\n    msg.payload = parseInt(valor)*10000;\n    return msg;\n}else{\n    //Objeto con las funciones del CILA2S\n    var FuncionC2S = {\n        \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frecuency:0,\n        \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n        \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n        \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0,\n        \"Tensión de motor\":             Mtr != null ? Mtr.Voltage:0,\n        \"Referencia de velocidad\":      C2S != null ? C2S.Commanded_SpdRef:0\n    }\n    if(typeof AO!= 'undefined' && AO!= null){\n        msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*10000);\n        node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n    }\n    else{\n        node.status({fill:\"gray\",shape:\"dot\",text:\"--\"});\n        msg.payload = 0;\n    \n    }\n    return msg;\n}\n\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return t;\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
+        "func": "var AO  = flow.get('ES.SA.AO2')||null;\nvar C2S = global.get('C2S.Implicit','memoryOnly')||null;\nvar RelTx = global.get(\"C2S.RelTx\")||1;\n\n//valores de simulación\nvar boton = flow.get(\"SA_Config.SimulacionBoton2\",\"memoryOnly\")||false;\nvar valor = flow.get(\"SA_Config.SimulacionValor2\",\"memoryOnly\")||4;\n\nif(boton == true){\n    msg.payload = parseInt(valor)*10000;\n    return msg;\n}else{\n    //Objeto con las funciones del CILA2S\n    var FuncionC2S = {\n        \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frecuency:0,\n        \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n        \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n        \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0,\n        \"Tensión de motor\":             C2S != null ? C2S.Output_Voltage*RelTx:0,\n        \"Referencia de velocidad\":      C2S != null ? C2S.Commanded_SpdRef:0\n    }\n    if(typeof AO!= 'undefined' && AO!= null){\n        msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*10000);\n        node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n    }\n    else{\n        node.status({fill:\"gray\",shape:\"dot\",text:\"--\"});\n        msg.payload = 0;\n    \n    }\n    return msg;\n}\n\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return t;\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -53183,7 +53230,7 @@
         "wires": [
             [
                 "e105d502.4aeb1",
-                "6f5153fc.5881dc"
+                "b073836b.5af"
             ]
         ],
         "inputLabels": [
@@ -53199,7 +53246,7 @@
         "z": "7a89175c.90f6a8",
         "g": "edfe6c51.d89c68",
         "name": "AO1",
-        "func": "var AO  = flow.get('ES.SA.AO1')||null;\nvar C2S = global.get('C2S','memoryOnly')||null;\nvar Mtr = global.get('Motor_Control','memoryOnly');\n//valores de simulación\nvar boton = flow.get(\"SA_Config.SimulacionBoton1\",\"memoryOnly\")||false;\nvar valor = flow.get(\"SA_Config.SimulacionValor1\",\"memoryOnly\")||4;\n//SA_Config.SimulacionValor1\nif(boton == true){\n    msg.payload = parseInt(valor)*10000;\n    return msg;\n}else{\n    //Objeto con las funciones del CILA2S\n    var FuncionC2S = {\n        \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frecuency:0,\n        \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n        \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n        \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0,\n        \"Tensión de motor\":             Mtr != null ? Mtr.Voltage:0,\n        \"Referencia de velocidad\":      C2S != null ? C2S.Commanded_SpdRef:0\n    }\n    if(typeof AO!= 'undefined' && AO!= null){\n        msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*10000);\n        node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n    }\n    else{\n        node.status({fill:\"gray\",shape:\"dot\",text:\"--\"});\n        msg.payload = 0;\n    \n    }\n    return msg;\n}\n\n\n\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return t;\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
+        "func": "var AO  = flow.get('ES.SA.AO1')||null;\nvar C2S = global.get('C2S.Implicit','memoryOnly')||null;\nvar RelTx = global.get(\"C2S.RelTx\")||1;\n\n//valores de simulación\nvar boton = flow.get(\"SA_Config.SimulacionBoton1\",\"memoryOnly\")||false;\nvar valor = flow.get(\"SA_Config.SimulacionValor1\",\"memoryOnly\")||4;\n//SA_Config.SimulacionValor1\nif(boton == true){\n    msg.payload = parseInt(valor)*10000;\n    return msg;\n}else{\n    //Objeto con las funciones del CILA2S\n    var FuncionC2S = {\n        \"Frecuencia de salida C2S\":     C2S != null ? C2S.Output_Frequency:0,\n        \"Corriente de salida\":          C2S != null ? C2S.Output_Current:0, \n        \"Tensión de salida\":            C2S != null ? C2S.Output_Voltage:0,\n        \"Potencia de salida\":           C2S != null ? C2S.Output_Power:0,\n        \"Tensión de motor\":             C2S != null ? C2S.Output_Voltage*RelTx:0,\n        \"Referencia de velocidad\":      C2S != null ? C2S.Commanded_SpdRef:0\n    }\n    if(typeof AO!= 'undefined' && AO!= null){\n        msg.payload = parseInt(Escalizar([AO.Rango_Min,AO.Rango_Max],FuncionC2S[AO.Funcion])*10000);\n        node.status({fill:\"green\",shape:\"dot\",text:[AO.Rango_Min,AO.Rango_Max]+\" \"+FuncionC2S[AO.Funcion] +\" \"+msg.payload});\n    }\n    else{\n        node.status({fill:\"gray\",shape:\"dot\",text:\"--\"});\n        msg.payload = 0;\n    \n    }\n    return msg;\n}\n\n\n\n\nfunction Escalizar(a,value){\n    b = [4,20];\n    // Mapeo\n    if(b !== null && typeof a[0] == 'number' && typeof a[1] == 'number' ){\n        var t = b[0] + ((Math.abs(value) - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return t;\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -53209,7 +53256,7 @@
         "wires": [
             [
                 "f4e358da.4d49",
-                "ac5611e0.f1126"
+                "349c4ae9.917026"
             ]
         ],
         "inputLabels": [
@@ -53241,10 +53288,7 @@
         "y": 3380,
         "wires": [
             [
-                "bbf3ce81.a5335",
-                "f3e2dee0.b212f",
-                "b5293ad6.80a578",
-                "2713f52d.0666ea"
+                "bbf3ce81.a5335"
             ]
         ]
     },
@@ -53306,24 +53350,6 @@
         "wires": []
     },
     {
-        "id": "eed2c392.531d68",
-        "type": "debug",
-        "z": "7a89175c.90f6a8",
-        "g": "edfe6c51.d89c68",
-        "name": "",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": true,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "payload",
-        "statusType": "auto",
-        "x": 1950,
-        "y": 3390,
-        "wires": []
-    },
-    {
         "id": "ac5611e0.f1126",
         "type": "pccc out",
         "z": "7a89175c.90f6a8",
@@ -53331,7 +53357,7 @@
         "endpoint": "e9d237aaf9318e74",
         "variable": "AO1",
         "name": "",
-        "x": 1790,
+        "x": 1960,
         "y": 3380,
         "wires": []
     },
@@ -53343,7 +53369,7 @@
         "endpoint": "e9d237aaf9318e74",
         "variable": "AO2",
         "name": "",
-        "x": 1790,
+        "x": 1960,
         "y": 3470,
         "wires": []
     },
@@ -56163,7 +56189,7 @@
         "endpoint": "e9d237aaf9318e74",
         "variable": "AO3",
         "name": "",
-        "x": 1800,
+        "x": 1960,
         "y": 3560,
         "wires": []
     },
@@ -56175,8 +56201,8 @@
         "endpoint": "e9d237aaf9318e74",
         "variable": "AO4",
         "name": "",
-        "x": 1800,
-        "y": 3660,
+        "x": 1960,
+        "y": 3650,
         "wires": []
     },
     {
@@ -73643,6 +73669,105 @@
         "wires": [
             [
                 "d5c3f10c.5e2e1"
+            ]
+        ]
+    },
+    {
+        "id": "349c4ae9.917026",
+        "type": "delay",
+        "z": "7a89175c.90f6a8",
+        "g": "edfe6c51.d89c68",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "100",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 1820,
+        "y": 3380,
+        "wires": [
+            [
+                "ac5611e0.f1126",
+                "f3e2dee0.b212f"
+            ]
+        ]
+    },
+    {
+        "id": "b073836b.5af",
+        "type": "delay",
+        "z": "7a89175c.90f6a8",
+        "g": "edfe6c51.d89c68",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "100",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 1820,
+        "y": 3470,
+        "wires": [
+            [
+                "6f5153fc.5881dc",
+                "b5293ad6.80a578"
+            ]
+        ]
+    },
+    {
+        "id": "b5fe3dd.b57e9c",
+        "type": "delay",
+        "z": "7a89175c.90f6a8",
+        "g": "edfe6c51.d89c68",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "100",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 1820,
+        "y": 3560,
+        "wires": [
+            [
+                "31dcbe69.82dd92",
+                "2713f52d.0666ea"
+            ]
+        ]
+    },
+    {
+        "id": "bded5dfe.fdd52",
+        "type": "delay",
+        "z": "7a89175c.90f6a8",
+        "g": "edfe6c51.d89c68",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "100",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 1820,
+        "y": 3650,
+        "wires": [
+            [
+                "466d829c.38acdc"
             ]
         ]
     }
