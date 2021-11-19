@@ -2192,7 +2192,9 @@
             "cf985e84.c7693"
         ],
         "x": 18,
-        "y": 23
+        "y": 23,
+        "w": 2204,
+        "h": 1014
     },
     {
         "id": "e1e65313b5eaa836",
@@ -4314,7 +4316,9 @@
             "25037f6e145deee9"
         ],
         "x": 44,
-        "y": 649
+        "y": 649,
+        "w": 1152,
+        "h": 292
     },
     {
         "id": "cf985e84.c7693",
@@ -4406,10 +4410,14 @@
             "51ec3e53.feab2",
             "18af7d43.439f33",
             "659c35ff.e1291c",
-            "92b6d7ac.198a68"
+            "92b6d7ac.198a68",
+            "65e9bd38.989f24",
+            "aa741b22.4cb5c8"
         ],
         "x": 44,
-        "y": 49
+        "y": 49,
+        "w": 2152,
+        "h": 962
     },
     {
         "id": "ef45fa052227c233",
@@ -5479,7 +5487,9 @@
             "7af9ff4dabd191fb"
         ],
         "x": 1394,
-        "y": 389
+        "y": 389,
+        "w": 632,
+        "h": 222
     },
     {
         "id": "49c39e.d1336c64",
@@ -10284,7 +10294,8 @@
             "9cc8b89eee5fff72",
             "9e6212a088a3de43",
             "ad037575e738b405",
-            "dd3279e.534be88"
+            "dd3279e.534be88",
+            "65e9bd38.989f24"
         ],
         "x": 1265,
         "y": 1210,
@@ -25840,9 +25851,7 @@
         "y": 240,
         "wires": [
             [
-                "d4218cf0.530c9",
-                "84515fce.0be5a",
-                "5e68509d.103b9"
+                "d4218cf0.530c9"
             ]
         ]
     },
@@ -73672,6 +73681,43 @@
         "y": 490,
         "wires": [
             []
+        ]
+    },
+    {
+        "id": "65e9bd38.989f24",
+        "type": "link in",
+        "z": "ebaf6b5134c2a666",
+        "g": "cf985e84.c7693",
+        "name": "",
+        "links": [
+            "ecf98f3f.4a704"
+        ],
+        "x": 1585,
+        "y": 200,
+        "wires": [
+            [
+                "aa741b22.4cb5c8"
+            ]
+        ]
+    },
+    {
+        "id": "aa741b22.4cb5c8",
+        "type": "function",
+        "z": "ebaf6b5134c2a666",
+        "g": "cf985e84.c7693",
+        "name": "lims PID",
+        "func": "var max         = global.get(\"C2S.Speed_Control.MaxLimit\")||60;\nvar URef        = global.get(\"C2S.Last_Reference.Value\")||0;\nvar DeltaMax    = flow.get(\"PID.Limits.Delta_Hz_Max\")||1;\nvar DeltaMin    = flow.get(\"PID.Limits.Delta_Hz_Min\")||1;\n\nvar MaxHz       = (URef+DeltaMax);\nvar MinHz       = (URef-DeltaMin);\n\nmsg.MaxHz = MaxHz;\nmsg.MinHz = MinHz;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1690,
+        "y": 200,
+        "wires": [
+            [
+                "5e68509d.103b9",
+                "84515fce.0be5a"
+            ]
         ]
     }
 ]
