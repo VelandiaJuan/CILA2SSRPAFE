@@ -73698,7 +73698,7 @@
         "z": "ebaf6b5134c2a666",
         "g": "cf985e84.c7693",
         "name": "Data",
-        "func": "var tipo = flow.get(\"PID.Type\")||\"Presion\";\nmsg.payload = tipo == \"Presion\"?global.get(\"Process_data.DHS['Presión de entrada']\")||0:global.get(\"C2S.Implicit.Output_Current\")||0;\nmsg.units = tipo == \"Presion\"? \"psi\":\"A\";\nmsg.variable = tipo == \"Presion\"? \"Presión actual\":\"Corriente actual\";\nreturn msg;",
+        "func": "var tipo = flow.get(\"PID.Type\")||\"Presion\";\nmsg.payload = tipo == \"Presion\"?(global.get(\"Process_data.DHS['Presión de entrada']\",\"memoryOnly\")||0):(global.get(\"C2S.Implicit.Output_Current\",\"memoryOnly\")||0);\nmsg.units = tipo == \"Presion\"? \"psi\":\"A\";\nmsg.variable = tipo == \"Presion\"? \"Presión actual\":\"Corriente actual\";\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
