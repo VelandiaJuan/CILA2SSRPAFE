@@ -877,7 +877,9 @@
             "dd63ba6d.b10768"
         ],
         "x": 24,
-        "y": 609
+        "y": 609,
+        "w": 2632,
+        "h": 552
     },
     {
         "id": "3cb51855.a66038",
@@ -892,7 +894,9 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169
+        "y": 1169,
+        "w": 232,
+        "h": 82
     },
     {
         "id": "27a0641a.d154dc",
@@ -2238,7 +2242,9 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269
+        "y": 1269,
+        "w": 352,
+        "h": 82
     },
     {
         "id": "6202107f.ed9aa",
@@ -2314,7 +2320,9 @@
             "28f9623a0f710b9d"
         ],
         "x": 44,
-        "y": -1
+        "y": -1,
+        "w": 1992,
+        "h": 602
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -2333,7 +2341,9 @@
             "f401446baabcbb6e"
         ],
         "x": 3224,
-        "y": 3
+        "y": 3,
+        "w": 1284,
+        "h": 1554
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -2354,7 +2364,9 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169
+        "y": 1169,
+        "w": 782,
+        "h": 182
     },
     {
         "id": "086b9d08c3b68939",
@@ -2384,7 +2396,9 @@
             "43dcdfeaddbb3ac6"
         ],
         "x": 24,
-        "y": 1359
+        "y": 1359,
+        "w": 1022,
+        "h": 292
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -2410,7 +2424,9 @@
             "03894c480a20a7a9"
         ],
         "x": 24,
-        "y": 1679
+        "y": 1679,
+        "w": 1222,
+        "h": 202
     },
     {
         "id": "15680a1387d655eb",
@@ -2521,7 +2537,9 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679
+        "y": 1679,
+        "w": 332,
+        "h": 82
     },
     {
         "id": "69ad07e.039c4f8",
@@ -2817,7 +2835,9 @@
             "8d6f8e22ed531a56"
         ],
         "x": 3434,
-        "y": 29
+        "y": 29,
+        "w": 492,
+        "h": 402
     },
     {
         "id": "f7709059ebe5ad7b",
@@ -2833,7 +2853,9 @@
             "aafad2ba.dcc8b"
         ],
         "x": 3428,
-        "y": 443
+        "y": 443,
+        "w": 1054,
+        "h": 634
     },
     {
         "id": "c483d44b5f6def10",
@@ -2859,7 +2881,9 @@
             "45aad8d3129156ca"
         ],
         "x": 3424,
-        "y": 1089
+        "y": 1089,
+        "w": 472,
+        "h": 442
     },
     {
         "id": "77dcd918.f8c298",
@@ -4397,7 +4421,14 @@
             "decb725e.fc487",
             "d91f2728.58e308",
             "8a1b8fa8.1f3b2",
-            "a4d48e9d.89b09"
+            "a4d48e9d.89b09",
+            "ebca0701.bab008",
+            "81ae77f6.5fd3c8",
+            "dd3279e.534be88",
+            "51ec3e53.feab2",
+            "18af7d43.439f33",
+            "659c35ff.e1291c",
+            "92b6d7ac.198a68"
         ],
         "x": 44,
         "y": 49,
@@ -4422,7 +4453,9 @@
             "bab4ea5e8e01f9aa"
         ],
         "x": 194,
-        "y": 399
+        "y": 399,
+        "w": 852,
+        "h": 82
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -4450,7 +4483,9 @@
             "1f3630da2492d4f9"
         ],
         "x": 3454,
-        "y": 839
+        "y": 839,
+        "w": 1002,
+        "h": 212
     },
     {
         "id": "36fa9c99094e8f47",
@@ -4474,7 +4509,9 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 469
+        "y": 469,
+        "w": 402,
+        "h": 362
     },
     {
         "id": "742e267a.cbc27",
@@ -10274,7 +10311,8 @@
             "95a9452fed1bcc46",
             "9cc8b89eee5fff72",
             "9e6212a088a3de43",
-            "ad037575e738b405"
+            "ad037575e738b405",
+            "dd3279e.534be88"
         ],
         "x": 1265,
         "y": 1210,
@@ -73533,6 +73571,143 @@
                 "decb725e.fc487",
                 "d91f2728.58e308",
                 "8a1b8fa8.1f3b2"
+            ]
+        ]
+    },
+    {
+        "id": "ebca0701.bab008",
+        "type": "ui_text",
+        "z": "ebaf6b5134c2a666",
+        "g": "cf985e84.c7693",
+        "group": "ec4c58e3.d4cd78",
+        "order": 6,
+        "width": 3,
+        "height": 1,
+        "name": "Presion",
+        "label": "{{msg.variable}}",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "x": 2040,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "81ae77f6.5fd3c8",
+        "type": "ui_text",
+        "z": "ebaf6b5134c2a666",
+        "g": "cf985e84.c7693",
+        "group": "ec4c58e3.d4cd78",
+        "order": 5,
+        "width": 3,
+        "height": 1,
+        "name": "Frec",
+        "label": "Frecuencia actual",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "x": 2030,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "dd3279e.534be88",
+        "type": "link in",
+        "z": "ebaf6b5134c2a666",
+        "g": "cf985e84.c7693",
+        "name": "retroalim referencia",
+        "links": [
+            "ecf98f3f.4a704"
+        ],
+        "x": 1635,
+        "y": 100,
+        "wires": [
+            [
+                "18af7d43.439f33",
+                "92b6d7ac.198a68"
+            ]
+        ]
+    },
+    {
+        "id": "51ec3e53.feab2",
+        "type": "function",
+        "z": "ebaf6b5134c2a666",
+        "g": "cf985e84.c7693",
+        "name": "Data show",
+        "func": "var numdec = 1;\nvar unidad = msg.units\nif(typeof msg.payload == 'number' ){\n    msg.payload = parseFloat(msg.payload.toFixed(numdec)) + \" \" + unidad;\n    return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1880,
+        "y": 100,
+        "wires": [
+            [
+                "ebca0701.bab008"
+            ]
+        ]
+    },
+    {
+        "id": "18af7d43.439f33",
+        "type": "change",
+        "z": "ebaf6b5134c2a666",
+        "g": "cf985e84.c7693",
+        "name": "Freq",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "#:(memoryOnly)::C2S.Implicit.Output_Frequency",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1720,
+        "y": 140,
+        "wires": [
+            [
+                "659c35ff.e1291c"
+            ]
+        ]
+    },
+    {
+        "id": "659c35ff.e1291c",
+        "type": "function",
+        "z": "ebaf6b5134c2a666",
+        "g": "cf985e84.c7693",
+        "name": "Data show",
+        "func": "var numdec = 1;\nvar unidad = \"Hz\";\nif(typeof msg.payload == 'number' ){\n    msg.payload = parseFloat(msg.payload.toFixed(numdec)) + \" \" + unidad;\n    return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1880,
+        "y": 140,
+        "wires": [
+            [
+                "81ae77f6.5fd3c8"
+            ]
+        ]
+    },
+    {
+        "id": "92b6d7ac.198a68",
+        "type": "function",
+        "z": "ebaf6b5134c2a666",
+        "g": "cf985e84.c7693",
+        "name": "Data",
+        "func": "var tipo = flow.get(\"PID.Type\")||\"Presion\";\nmsg.payload = tipo == \"Presion\"?global.get(\"Process_data.DHS['Presión de entrada']\")||0:global.get(\"C2S.Implicit.Output_Current\")||0;\nmsg.units = tipo == \"Presion\"? \"psi\":\"A\";\nmsg.variable = tipo == \"Presion\"? \"Presión actual\":\"Corriente actual\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1740,
+        "y": 100,
+        "wires": [
+            [
+                "51ec3e53.feab2"
             ]
         ]
     }
