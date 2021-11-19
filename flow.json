@@ -1563,7 +1563,9 @@
             "98ca0b1c.cda4f8"
         ],
         "x": 24,
-        "y": 29
+        "y": 29,
+        "w": 942,
+        "h": 202
     },
     {
         "id": "57eba231.4d56dc",
@@ -1583,7 +1585,9 @@
             "e9e93a2c.deeb18"
         ],
         "x": 28,
-        "y": 243
+        "y": 243,
+        "w": 374,
+        "h": 304
     },
     {
         "id": "dbdc491cb6e9eee5",
@@ -3831,7 +3835,9 @@
             "f0c186466f456fd2"
         ],
         "x": 54,
-        "y": 269
+        "y": 269,
+        "w": 322,
+        "h": 122
     },
     {
         "id": "e9e93a2c.deeb18",
@@ -3851,7 +3857,9 @@
             "37f2db57.b831c4"
         ],
         "x": 54,
-        "y": 399
+        "y": 399,
+        "w": 322,
+        "h": 122
     },
     {
         "id": "272ed76d.7cce68",
@@ -4366,10 +4374,7 @@
             "4c971bbf.6a51f4",
             "bb6b8bf2.f42718",
             "39b2bc9d.88ad84",
-            "24dc3a66.92b236",
-            "1191e655.99fb9a",
             "ba9a49de.2a6e68",
-            "51d0b33e.8369fc",
             "d97ed6bd.e7ad18",
             "0cb5e56ab0b31d03",
             "d6aaf343fc532b87",
@@ -4388,7 +4393,11 @@
             "6f73b47b.2b635c",
             "72ffcab6.7fb4d4",
             "e678be60.ba5b7",
-            "129c6a9a.aae9c5"
+            "129c6a9a.aae9c5",
+            "decb725e.fc487",
+            "d91f2728.58e308",
+            "8a1b8fa8.1f3b2",
+            "a4d48e9d.89b09"
         ],
         "x": 44,
         "y": 49,
@@ -26436,7 +26445,7 @@
         "tooltip": "",
         "group": "534dbcbb.5aad64",
         "order": 1,
-        "width": 8,
+        "width": "7",
         "height": 1,
         "passthru": true,
         "mode": "number",
@@ -26460,7 +26469,7 @@
         "tooltip": "",
         "group": "534dbcbb.5aad64",
         "order": 4,
-        "width": 8,
+        "width": "7",
         "height": 1,
         "passthru": true,
         "mode": "number",
@@ -26484,7 +26493,7 @@
         "tooltip": "",
         "group": "534dbcbb.5aad64",
         "order": 7,
-        "width": 8,
+        "width": "7",
         "height": 1,
         "passthru": true,
         "mode": "number",
@@ -27237,9 +27246,9 @@
         "y": 350,
         "wires": [
             [
-                "24dc3a66.92b236",
-                "1191e655.99fb9a",
-                "51d0b33e.8369fc"
+                "decb725e.fc487",
+                "d91f2728.58e308",
+                "8a1b8fa8.1f3b2"
             ]
         ]
     },
@@ -27250,71 +27259,15 @@
         "g": "cf985e84.c7693",
         "group": "534dbcbb.5aad64",
         "order": 3,
-        "width": 2,
+        "width": "3",
         "height": 1,
         "name": "H Corriente",
-        "label": "",
-        "format": "{{msg.payload}} A",
-        "layout": "row-spread",
-        "x": 1290,
+        "label": "valor H / %",
+        "format": "{{msg.payload}} ",
+        "layout": "col-center",
+        "x": 1310,
         "y": 350,
         "wires": []
-    },
-    {
-        "id": "24dc3a66.92b236",
-        "type": "change",
-        "z": "ebaf6b5134c2a666",
-        "g": "cf985e84.c7693",
-        "name": "H Corriente",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "Protections.Load.H.Setpoint",
-                "tot": "global"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1130,
-        "y": 350,
-        "wires": [
-            [
-                "39b2bc9d.88ad84"
-            ]
-        ]
-    },
-    {
-        "id": "1191e655.99fb9a",
-        "type": "change",
-        "z": "ebaf6b5134c2a666",
-        "g": "cf985e84.c7693",
-        "name": "H Corriente",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "Protections.Vibration.General.H.Setpoint",
-                "tot": "global"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1130,
-        "y": 390,
-        "wires": [
-            [
-                "ba9a49de.2a6e68"
-            ]
-        ]
     },
     {
         "id": "ba9a49de.2a6e68",
@@ -27323,43 +27276,15 @@
         "g": "cf985e84.c7693",
         "group": "534dbcbb.5aad64",
         "order": 6,
-        "width": 2,
+        "width": "3",
         "height": 1,
         "name": "H Vibración",
-        "label": "",
+        "label": "valor H / %",
         "format": "{{msg.payload}} G",
-        "layout": "row-spread",
-        "x": 1290,
+        "layout": "col-center",
+        "x": 1310,
         "y": 390,
         "wires": []
-    },
-    {
-        "id": "51d0b33e.8369fc",
-        "type": "change",
-        "z": "ebaf6b5134c2a666",
-        "g": "cf985e84.c7693",
-        "name": "H Corriente",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "Protections.Motor.Temperature.H.Setpoint",
-                "tot": "global"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1130,
-        "y": 430,
-        "wires": [
-            [
-                "d97ed6bd.e7ad18"
-            ]
-        ]
     },
     {
         "id": "d97ed6bd.e7ad18",
@@ -27368,13 +27293,13 @@
         "g": "cf985e84.c7693",
         "group": "534dbcbb.5aad64",
         "order": 9,
-        "width": 2,
+        "width": "3",
         "height": 1,
         "name": "H Temp",
-        "label": "",
+        "label": "valor H / %",
         "format": "{{msg.payload}} ºF",
-        "layout": "row-spread",
-        "x": 1280,
+        "layout": "col-center",
+        "x": 1300,
         "y": 430,
         "wires": []
     },
@@ -64713,7 +64638,8 @@
             "8862fe04df379b4e",
             "b0ad660b4a9c1425",
             "2f2a2b11810b4fbe",
-            "c48498c4.de5a68"
+            "c48498c4.de5a68",
+            "a4d48e9d.89b09"
         ],
         "x": 705,
         "y": 70,
@@ -73531,6 +73457,82 @@
         "wires": [
             [
                 "14170dd0.bdfb02"
+            ]
+        ]
+    },
+    {
+        "id": "decb725e.fc487",
+        "type": "function",
+        "z": "ebaf6b5134c2a666",
+        "g": "cf985e84.c7693",
+        "name": "print values",
+        "func": "var prot =global.get(\"Protections.Load.H.Setpoint\")||0;\nvar porc =flow.get(\"PID.Activation.Current\")||0;\nmsg.payload = prot + \"A / \" + (prot*porc/100).toFixed(2) +\"A\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1140,
+        "y": 350,
+        "wires": [
+            [
+                "39b2bc9d.88ad84"
+            ]
+        ]
+    },
+    {
+        "id": "d91f2728.58e308",
+        "type": "function",
+        "z": "ebaf6b5134c2a666",
+        "g": "cf985e84.c7693",
+        "name": "print values",
+        "func": "var prot =global.get(\"Protections.VibrationGeneral.H.Setpoint\")||0;\nvar porc =flow.get(\"PID.Activation.Vibration\")||0;\nmsg.payload = prot + \"A / \" + (prot*porc/100).toFixed(2) +\"A\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1140,
+        "y": 390,
+        "wires": [
+            [
+                "ba9a49de.2a6e68"
+            ]
+        ]
+    },
+    {
+        "id": "8a1b8fa8.1f3b2",
+        "type": "function",
+        "z": "ebaf6b5134c2a666",
+        "g": "cf985e84.c7693",
+        "name": "print values",
+        "func": "var prot =global.get(\"Protections.MotorTemperature.H.Setpoint\")||0;\nvar porc =flow.get(\"PID.Activation.Temp\")||0;\nmsg.payload = prot + \"A / \" + (prot*porc/100).toFixed(2) +\"A\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1140,
+        "y": 430,
+        "wires": [
+            [
+                "d97ed6bd.e7ad18"
+            ]
+        ]
+    },
+    {
+        "id": "a4d48e9d.89b09",
+        "type": "link in",
+        "z": "ebaf6b5134c2a666",
+        "g": "cf985e84.c7693",
+        "name": "",
+        "links": [
+            "4372d5a0.d338dc"
+        ],
+        "x": 1085,
+        "y": 300,
+        "wires": [
+            [
+                "decb725e.fc487",
+                "d91f2728.58e308",
+                "8a1b8fa8.1f3b2"
             ]
         ]
     }
