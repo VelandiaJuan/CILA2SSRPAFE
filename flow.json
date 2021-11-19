@@ -877,9 +877,7 @@
             "dd63ba6d.b10768"
         ],
         "x": 24,
-        "y": 609,
-        "w": 2632,
-        "h": 552
+        "y": 609
     },
     {
         "id": "3cb51855.a66038",
@@ -894,9 +892,7 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169,
-        "w": 232,
-        "h": 82
+        "y": 1169
     },
     {
         "id": "27a0641a.d154dc",
@@ -2140,7 +2136,9 @@
             "b9df7528.923398"
         ],
         "x": 28,
-        "y": 23
+        "y": 23,
+        "w": 2970,
+        "h": 1062
     },
     {
         "id": "83483662ea05d247",
@@ -2192,7 +2190,9 @@
             "cf985e84.c7693"
         ],
         "x": 18,
-        "y": 23
+        "y": 23,
+        "w": 2204,
+        "h": 1014
     },
     {
         "id": "e1e65313b5eaa836",
@@ -2234,9 +2234,7 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269,
-        "w": 352,
-        "h": 82
+        "y": 1269
     },
     {
         "id": "6202107f.ed9aa",
@@ -2312,9 +2310,7 @@
             "28f9623a0f710b9d"
         ],
         "x": 44,
-        "y": -1,
-        "w": 1992,
-        "h": 602
+        "y": -1
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -2333,9 +2329,7 @@
             "f401446baabcbb6e"
         ],
         "x": 3224,
-        "y": 3,
-        "w": 1284,
-        "h": 1554
+        "y": 3
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -2356,9 +2350,7 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169,
-        "w": 782,
-        "h": 182
+        "y": 1169
     },
     {
         "id": "086b9d08c3b68939",
@@ -2388,9 +2380,7 @@
             "43dcdfeaddbb3ac6"
         ],
         "x": 24,
-        "y": 1359,
-        "w": 1022,
-        "h": 292
+        "y": 1359
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -2416,9 +2406,7 @@
             "03894c480a20a7a9"
         ],
         "x": 24,
-        "y": 1679,
-        "w": 1222,
-        "h": 202
+        "y": 1679
     },
     {
         "id": "15680a1387d655eb",
@@ -2529,9 +2517,7 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679,
-        "w": 332,
-        "h": 82
+        "y": 1679
     },
     {
         "id": "69ad07e.039c4f8",
@@ -2827,9 +2813,7 @@
             "8d6f8e22ed531a56"
         ],
         "x": 3434,
-        "y": 29,
-        "w": 492,
-        "h": 402
+        "y": 29
     },
     {
         "id": "f7709059ebe5ad7b",
@@ -2845,9 +2829,7 @@
             "aafad2ba.dcc8b"
         ],
         "x": 3428,
-        "y": 443,
-        "w": 1054,
-        "h": 634
+        "y": 443
     },
     {
         "id": "c483d44b5f6def10",
@@ -2873,9 +2855,7 @@
             "45aad8d3129156ca"
         ],
         "x": 3424,
-        "y": 1089,
-        "w": 472,
-        "h": 442
+        "y": 1089
     },
     {
         "id": "77dcd918.f8c298",
@@ -3988,10 +3968,13 @@
             "677759898efe0053",
             "8a259519ac32d6f7",
             "64c862c08b3c181c",
-            "dba5a375ebc26199"
+            "dba5a375ebc26199",
+            "a5e1205e8fe1feed"
         ],
         "x": 54,
-        "y": 359
+        "y": 359,
+        "w": 1832,
+        "h": 700
     },
     {
         "id": "7aad629d.de652c",
@@ -4055,7 +4038,9 @@
             "b4c9b17bde2f220c"
         ],
         "x": 54,
-        "y": 49
+        "y": 49,
+        "w": 2762,
+        "h": 302
     },
     {
         "id": "8f8a192b.bb2ef8",
@@ -4083,7 +4068,9 @@
             "4e19cfd4.3982f"
         ],
         "x": 1894,
-        "y": 439
+        "y": 439,
+        "w": 1062,
+        "h": 232
     },
     {
         "id": "b9df7528.923398",
@@ -4099,7 +4086,9 @@
             "65994a87.9d5eb4"
         ],
         "x": 1898,
-        "y": 683
+        "y": 683,
+        "w": 1074,
+        "h": 134
     },
     {
         "id": "6625e1db09743bc3",
@@ -4313,7 +4302,9 @@
             "25037f6e145deee9"
         ],
         "x": 44,
-        "y": 649
+        "y": 649,
+        "w": 1152,
+        "h": 292
     },
     {
         "id": "cf985e84.c7693",
@@ -4373,7 +4364,6 @@
             "70d72abf.382ff4",
             "63f1e3c6.d2a68c",
             "4c971bbf.6a51f4",
-            "2b5d1711.b6f638",
             "bb6b8bf2.f42718",
             "39b2bc9d.88ad84",
             "24dc3a66.92b236",
@@ -4396,10 +4386,14 @@
             "f171af22.95924",
             "61bc8156.3d3b5",
             "6f73b47b.2b635c",
-            "72ffcab6.7fb4d4"
+            "72ffcab6.7fb4d4",
+            "e678be60.ba5b7",
+            "129c6a9a.aae9c5"
         ],
         "x": 44,
-        "y": 49
+        "y": 49,
+        "w": 2152,
+        "h": 962
     },
     {
         "id": "ef45fa052227c233",
@@ -4419,9 +4413,7 @@
             "bab4ea5e8e01f9aa"
         ],
         "x": 194,
-        "y": 399,
-        "w": 852,
-        "h": 82
+        "y": 399
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -4449,9 +4441,7 @@
             "1f3630da2492d4f9"
         ],
         "x": 3454,
-        "y": 839,
-        "w": 1002,
-        "h": 212
+        "y": 839
     },
     {
         "id": "36fa9c99094e8f47",
@@ -4475,9 +4465,7 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 469,
-        "w": 402,
-        "h": 362
+        "y": 469
     },
     {
         "id": "742e267a.cbc27",
@@ -5438,7 +5426,9 @@
             "f4363e16.f1813"
         ],
         "x": 1924,
-        "y": 709
+        "y": 709,
+        "w": 1022,
+        "h": 82
     },
     {
         "id": "dd4ef7f.6489508",
@@ -5469,7 +5459,9 @@
             "7af9ff4dabd191fb"
         ],
         "x": 1394,
-        "y": 389
+        "y": 389,
+        "w": 632,
+        "h": 222
     },
     {
         "id": "49c39e.d1336c64",
@@ -20102,7 +20094,7 @@
         "sendInitialState": true,
         "sendStateWithoutChange": true,
         "showTransitionErrors": false,
-        "x": 830,
+        "x": 1170,
         "y": 500,
         "wires": [
             [
@@ -20127,7 +20119,7 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "reset",
-        "x": 380,
+        "x": 720,
         "y": 500,
         "wires": [
             [
@@ -20271,7 +20263,7 @@
         "links": [
             "40db7d54.6eda64"
         ],
-        "x": 975,
+        "x": 1315,
         "y": 520,
         "wires": []
     },
@@ -20412,7 +20404,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 520,
+        "x": 860,
         "y": 540,
         "wires": [
             [
@@ -20858,7 +20850,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 340,
+        "x": 680,
         "y": 540,
         "wires": [
             [
@@ -20962,7 +20954,7 @@
         "topic": "",
         "payload": "false",
         "payloadType": "bool",
-        "x": 380,
+        "x": 720,
         "y": 580,
         "wires": [
             [
@@ -21010,11 +21002,11 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "x": 170,
+        "x": 280,
         "y": 540,
         "wires": [
             [
-                "14170dd0.bdfb02"
+                "a5e1205e8fe1feed"
             ]
         ]
     },
@@ -25889,7 +25881,7 @@
         "y": 240,
         "wires": [
             [
-                "73d662e7.047d5c"
+                "129c6a9a.aae9c5"
             ]
         ]
     },
@@ -25899,12 +25891,12 @@
         "z": "ebaf6b5134c2a666",
         "g": "cf985e84.c7693",
         "name": "Escala y Límites",
-        "func": "var max         = global.get(\"C2S.Speed_Control.MaxLimit\")||60;\nvar URef        = global.get(\"C2S.Last_Reference.Value\")||0;\nvar DeltaMax    = flow.get(\"PID.Limits.Delta_Hz_Max\")||1;\nvar DeltaMin    = flow.get(\"PID.Limits.Delta_Hz_Min\")||1;\n\nvar MaxHz       = (URef+DeltaMax)*10000;\nvar MinHz       = (URef-DeltaMin)*10000;\n\n//Escala Control PID\nvar b = [0,max];\nmsg.payload = Escalizar(b,msg.payload)*10000;\n\n//Limites\nif(msg.payload > MaxHz){\n    msg.payload = MaxHz;\n}\nelse if(msg.payload < MinHz){\n    msg.payload = MinHz;\n}\n\nmsg.MaxHz = MaxHz/10000;\nmsg.MinHz = MinHz/10000;\n\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload});\nreturn msg;\n\nfunction Escalizar(b,value){\n    var a = [0,1];\n    // Mapeo\n    if(b !== null && typeof b[0] == 'number' && typeof b[1] == 'number' ){\n        var t = b[0] + ((value - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseFloat(t.toFixed(2));\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}\n\n//Fuente: https://rosettacode.org/wiki/Map_range",
+        "func": "var max         = global.get(\"C2S.Speed_Control.MaxLimit\")||60;\nvar URef        = global.get(\"C2S.Last_Reference.Value\")||0;\nvar DeltaMax    = flow.get(\"PID.Limits.Delta_Hz_Max\")||1;\nvar DeltaMin    = flow.get(\"PID.Limits.Delta_Hz_Min\")||1;\n\nvar MaxHz       = (URef+DeltaMax)*10000;\nvar MinHz       = (URef-DeltaMin)*10000;\n\n//Escala Control PID\nvar b = [0,max];\nmsg.payload = Escalizar(b,msg.payload)*10000;\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload});\n\n//Limites\nif(msg.payload > MaxHz){\n    msg.payload = MaxHz;\n}\nelse if(msg.payload < MinHz){\n    msg.payload = MinHz;\n}\n\nmsg.MaxHz = MaxHz/10000;\nmsg.MinHz = MinHz/10000;\n\nreturn msg;\n\nfunction Escalizar(b,value){\n    var a = [0,1];\n    // Mapeo\n    if(b !== null && typeof b[0] == 'number' && typeof b[1] == 'number' ){\n        var t = b[0] + ((value - a[0])*(b[1] - b[0])) / (a[1]-a[0]);\n        // Saturación\n        if(t > b[1]){    \n            t = b[1];\n        }\n        else if(t < b[0]){ \n            t = b[0];\n        }\n        // Asignar payload\n        return parseFloat(t.toFixed(2));\n    }\n    else {\n        // Asignar payload\n        return 0;\n    }\n}\n\n//Fuente: https://rosettacode.org/wiki/Map_range",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1540,
+        "x": 1680,
         "y": 240,
         "wires": [
             [
@@ -26160,12 +26152,11 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 1720,
+        "x": 1860,
         "y": 280,
         "wires": [
             [
-                "1cdca418.1a28ac",
-                "2b5d1711.b6f638"
+                "1cdca418.1a28ac"
             ]
         ]
     },
@@ -26177,7 +26168,7 @@
         "endpoint": "e9d237aaf9318e74",
         "variable": "PF755T_SpeedReference",
         "name": "Referencia de velocidad",
-        "x": 1920,
+        "x": 2060,
         "y": 280,
         "wires": []
     },
@@ -26414,7 +26405,7 @@
         "label": "",
         "format": "{{msg.payload}} Hz",
         "layout": "row-spread",
-        "x": 1840,
+        "x": 2000,
         "y": 200,
         "wires": []
     },
@@ -26431,7 +26422,7 @@
         "label": "",
         "format": "{{msg.payload}} Hz",
         "layout": "row-spread",
-        "x": 1840,
+        "x": 2000,
         "y": 240,
         "wires": []
     },
@@ -26957,7 +26948,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1710,
+        "x": 1850,
         "y": 200,
         "wires": [
             [
@@ -26985,7 +26976,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1700,
+        "x": 1840,
         "y": 240,
         "wires": [
             [
@@ -26999,7 +26990,7 @@
         "z": "ebaf6b5134c2a666",
         "g": "cf985e84.c7693",
         "name": "Banda Muerta + Reglas de activación",
-        "func": "var DHData          = global.get(\"Process_data.DHS\",\"memoryOnly\")||null;\nvar PIDType         = flow.get(\"PID.Type\")||\"\";\nvar DeadBand        = flow.get(\"PID.Limits.DeadBand\")||0;\n\nvar PIDEnable       = flow.get(\"PID.Enable\")||false;\nvar CEnable         = global.get(\"Protections.Load.H.Setpoint\")||0;\nvar VEnable         = global.get(\"Protections.VibrationGeneral.H.Setpoint\")||0;\nvar MEnable         = global.get(\"Protections.MotorTemperature.H.Setpoint\")||0;\n\nvar CEnableLimit    = flow.get(\"PID.Activation.Current\")||0;\nvar VEnableLimit    = flow.get(\"PID.Activation.Vibration\")||0;\nvar MEnableLimit    = flow.get(\"PID.Activation.Temp\")||0;\n\n// Current\nvar Current = global.get(\"C2S.Implicit.Output_Current\",\"memoryOnly\")||0;\n\n// Vibration\nvar VibrationX      = DHData[\"Vibración X\"] || DHData.AI[\"Vibración X\"] || 0;\nvar VibrationZ      = DHData[\"Vibración Z\"] || DHData.AI[\"Vibración Z\"] || 0;\nvar Vibration       = VibrationX >= VibrationZ ? VibrationX:VibrationZ;\n\n// Mtr Temp\nvar MtrTemp         = DHData[\"Temperatura de motor\"] || DHData.AI[\"Temperatura de motor\"];\n\nvar CurrentActivation   = flow.get(\"PID.Activation.Rules[0]\")||false;\nvar VibrationActivation = flow.get(\"PID.Activation.Rules[1]\")||false;\nvar MotorTempActivation = flow.get(\"PID.Activation.Rules[2]\")||false;\n\n//Rules\nvar CEnableRule     = CurrentActivation     == true ? (Current   <= CEnable*CEnableLimit/100 ? true:false)  :true;\nvar VEnableRule     = VibrationActivation   == true ? (Vibration <= VEnable*VEnableLimit/100 ? true:false)  :true;\nvar MtrTempRule     = MotorTempActivation   == true ? (MtrTemp   <= MEnable*MEnableLimit/100 ? true:false)  :true;\n\n// Activation Rule\nvar ActivationRule  = PIDEnable && CEnableRule && VEnableRule && MtrTempRule;\n\n// Dead Band Rule\nvar setpoint = 0;   var Min = 0;    var Max = 0;\n\nif(PIDType == \"Corriente\"){\n    setpoint = flow.get(\"PID.Corriente.setpoint\")||0;\n    Min = setpoint - DeadBand;\n    Max = setpoint + DeadBand;\n    if(msg.payload >= Min && msg.payload <= Max ){\n        var DeadBandRule = false;\n    }\n    else{\n        var DeadBandRule = true;\n    }\n}\nelse if(PIDType == \"Presion\"){\n    setpoint = flow.get(\"PID.Presion.setpoint\")||0;\n    Min = setpoint - DeadBand;\n    Max = setpoint + DeadBand;\n    if(msg.payload >= Min && msg.payload <= Max ){\n        DeadBandRule = false;\n    }\n    else{\n        DeadBandRule = true;\n    }\n}\n\n// Last asingation\nmsg.enable = (ActivationRule && DeadBandRule);\nnode.status({fill:\"green\",shape:\"dot\",text:\"PID:\"+PIDEnable+\" Corriente:\"+CEnableRule+\" Vibración:\"+VEnableRule + \" Temp. Mtr:\"+MtrTempRule});\nreturn msg;",
+        "func": "var DHData          = global.get(\"Process_data.DHS\",\"memoryOnly\")||[];\nvar PIDType         = flow.get(\"PID.Type\")||\"\";\nvar DeadBand        = flow.get(\"PID.Limits.DeadBand\")||0;\n\nvar PIDEnable       = flow.get(\"PID.Enable\")||false;\nvar CEnable         = global.get(\"Protections.Load.H.Setpoint\")||0;\nvar VEnable         = global.get(\"Protections.VibrationGeneral.H.Setpoint\")||0;\nvar MEnable         = global.get(\"Protections.MotorTemperature.H.Setpoint\")||0;\n\nvar CEnableLimit    = flow.get(\"PID.Activation.Current\")||0;\nvar VEnableLimit    = flow.get(\"PID.Activation.Vibration\")||0;\nvar MEnableLimit    = flow.get(\"PID.Activation.Temp\")||0;\n\n// Current\nvar Current = global.get(\"C2S.Implicit.Output_Current\",\"memoryOnly\")||0;\n\n// Vibration\nvar VibrationX      = DHData[\"Vibración X\"]|| 0;\nvar VibrationZ      = DHData[\"Vibración Z\"]|| 0;\nvar Vibration       = VibrationX >= VibrationZ ? VibrationX:VibrationZ;\n\n// Mtr Temp\nvar MtrTemp         = DHData[\"Temperatura de motor\"]||0;\n\nvar CurrentActivation   = flow.get(\"PID.Activation.Rules[0]\")||false;\nvar VibrationActivation = flow.get(\"PID.Activation.Rules[1]\")||false;\nvar MotorTempActivation = flow.get(\"PID.Activation.Rules[2]\")||false;\n\n//Rules\nvar CEnableRule     = CurrentActivation     == true ? (Current   <= CEnable*CEnableLimit/100 ? true:false)  :true;\nvar VEnableRule     = VibrationActivation   == true ? (Vibration <= VEnable*VEnableLimit/100 ? true:false)  :true;\nvar MtrTempRule     = MotorTempActivation   == true ? (MtrTemp   <= MEnable*MEnableLimit/100 ? true:false)  :true;\n\n// Activation Rule\nvar ActivationRule  = PIDEnable && CEnableRule && VEnableRule && MtrTempRule;\n\n// Dead Band Rule\nvar setpoint = 0;   var Min = 0;    var Max = 0;\n\nif(PIDType == \"Corriente\"){\n    setpoint = flow.get(\"PID.Corriente.setpoint\")||0;\n    Min = setpoint - DeadBand;\n    Max = setpoint + DeadBand;\n    if(msg.payload >= Min && msg.payload <= Max ){\n        var DeadBandRule = false;\n    }\n    else{\n        var DeadBandRule = true;\n    }\n}\nelse if(PIDType == \"Presion\"){\n    setpoint = flow.get(\"PID.Presion.setpoint\")||0;\n    Min = setpoint - DeadBand;\n    Max = setpoint + DeadBand;\n    if(msg.payload >= Min && msg.payload <= Max ){\n        DeadBandRule = false;\n    }\n    else{\n        DeadBandRule = true;\n    }\n}\n\n// Last asingation\nmsg.enable = (ActivationRule && DeadBandRule);\nflow.set(\"PID.enable\",msg.enable,\"memoryOnly\");\nnode.status({fill:\"green\",shape:\"dot\",text:\"PID:\"+PIDEnable+\" Corriente:\"+CEnableRule+\" Vibración:\"+VEnableRule + \" Temp. Mtr:\"+MtrTempRule});\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -27008,7 +26999,8 @@
         "y": 240,
         "wires": [
             [
-                "766ff7ed.aba428"
+                "766ff7ed.aba428",
+                "e678be60.ba5b7"
             ]
         ]
     },
@@ -27229,21 +27221,6 @@
         ]
     },
     {
-        "id": "2b5d1711.b6f638",
-        "type": "function",
-        "z": "ebaf6b5134c2a666",
-        "g": "cf985e84.c7693",
-        "name": "U. Ref.",
-        "func": "msg.payload = msg.payload/10000;\nglobal.set(\"C2S.Last_Reference.Value\",msg.payload);\nreturn msg;",
-        "outputs": 0,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1860,
-        "y": 330,
-        "wires": []
-    },
-    {
         "id": "bb6b8bf2.f42718",
         "type": "complete",
         "z": "ebaf6b5134c2a666",
@@ -27436,228 +27413,6 @@
         "x": 970,
         "y": 290,
         "wires": []
-    },
-    {
-        "id": "2c10edf7a2c56efe",
-        "type": "inject",
-        "z": "ebaf6b5134c2a666",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "120",
-        "payloadType": "num",
-        "x": 890,
-        "y": 1050,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "fd2fc0abd6ed9c0b",
-        "type": "inject",
-        "z": "ebaf6b5134c2a666",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "50",
-        "payloadType": "num",
-        "x": 890,
-        "y": 1090,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "3ad03655be8ffa27",
-        "type": "change",
-        "z": "ebaf6b5134c2a666",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "#:(memoryOnly)::C2S.Implicit.Output_Current",
-                "pt": "global",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1140,
-        "y": 1300,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "a115bed2e8a20ce7",
-        "type": "inject",
-        "z": "ebaf6b5134c2a666",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "50",
-        "payloadType": "num",
-        "x": 900,
-        "y": 1300,
-        "wires": [
-            [
-                "3ad03655be8ffa27"
-            ]
-        ]
-    },
-    {
-        "id": "e7eb621d39b0a6f1",
-        "type": "change",
-        "z": "ebaf6b5134c2a666",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "#:(memoryOnly)::Process_data.DHS[\"Vibración X\"]",
-                "pt": "global",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1140,
-        "y": 1150,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "b03047fac972798e",
-        "type": "inject",
-        "z": "ebaf6b5134c2a666",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "2",
-        "payloadType": "num",
-        "x": 890,
-        "y": 1150,
-        "wires": [
-            [
-                "e7eb621d39b0a6f1",
-                "e2c8555deff54ef0"
-            ]
-        ]
-    },
-    {
-        "id": "d86af94203306325",
-        "type": "change",
-        "z": "ebaf6b5134c2a666",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "#:(memoryOnly)::Process_data.DHS[\"Temperatura de motor\"]",
-                "pt": "global",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1170,
-        "y": 1200,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "f6f8cff678635d03",
-        "type": "inject",
-        "z": "ebaf6b5134c2a666",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "50",
-        "payloadType": "num",
-        "x": 880,
-        "y": 1200,
-        "wires": [
-            [
-                "d86af94203306325"
-            ]
-        ]
-    },
-    {
-        "id": "e2c8555deff54ef0",
-        "type": "change",
-        "z": "ebaf6b5134c2a666",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "#:(memoryOnly)::Process_data.DHS[\"Vibración Z\"]",
-                "pt": "global",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1140,
-        "y": 1110,
-        "wires": [
-            []
-        ]
     },
     {
         "id": "4c77f9bc.81feb8",
@@ -73708,6 +73463,74 @@
         "wires": [
             [
                 "466d829c.38acdc"
+            ]
+        ]
+    },
+    {
+        "id": "e678be60.ba5b7",
+        "type": "debug",
+        "z": "ebaf6b5134c2a666",
+        "g": "cf985e84.c7693",
+        "name": "",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1400,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "129c6a9a.aae9c5",
+        "type": "switch",
+        "z": "ebaf6b5134c2a666",
+        "g": "cf985e84.c7693",
+        "name": "enabled?",
+        "property": "#:(memoryOnly)::PID.enable",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1520,
+        "y": 240,
+        "wires": [
+            [
+                "73d662e7.047d5c"
+            ]
+        ]
+    },
+    {
+        "id": "a5e1205e8fe1feed",
+        "type": "switch",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "!=Active",
+        "property": "#:(memoryOnly)::C2S.Drive_Status.Active",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "neq",
+                "v": "1",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 430,
+        "y": 540,
+        "wires": [
+            [
+                "14170dd0.bdfb02"
             ]
         ]
     }
