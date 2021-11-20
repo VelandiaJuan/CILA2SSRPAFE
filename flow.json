@@ -2192,9 +2192,7 @@
             "cf985e84.c7693"
         ],
         "x": 18,
-        "y": 23,
-        "w": 2204,
-        "h": 1014
+        "y": 23
     },
     {
         "id": "e1e65313b5eaa836",
@@ -4316,9 +4314,7 @@
             "25037f6e145deee9"
         ],
         "x": 44,
-        "y": 649,
-        "w": 1152,
-        "h": 292
+        "y": 649
     },
     {
         "id": "cf985e84.c7693",
@@ -4415,9 +4411,7 @@
             "aa741b22.4cb5c8"
         ],
         "x": 44,
-        "y": 49,
-        "w": 2152,
-        "h": 962
+        "y": 49
     },
     {
         "id": "ef45fa052227c233",
@@ -4434,7 +4428,8 @@
             "bab4ea5e8e01f9aa",
             "eb7ab466.6a90b8",
             "9bd1e11d.4da77",
-            "890cac9f.ef77"
+            "890cac9f.ef77",
+            "1a666ca6835d2d34"
         ],
         "x": 74,
         "y": 399,
@@ -5487,9 +5482,7 @@
             "7af9ff4dabd191fb"
         ],
         "x": 1394,
-        "y": 389,
-        "w": 632,
-        "h": 222
+        "y": 389
     },
     {
         "id": "49c39e.d1336c64",
@@ -6301,7 +6294,7 @@
     {
         "id": "a3d1f2c7.5fe22",
         "type": "pccc endpoint",
-        "address": "192.168.2.10",
+        "address": "192.168.2.150",
         "port": "44818",
         "userouting": false,
         "routing": "0x01,0x00,0x01,0x00",
@@ -6487,7 +6480,7 @@
         "bufferCommands": true,
         "stateLogEnabled": false,
         "queueLogEnabled": false,
-        "tcpHost": "192.168.2.13",
+        "tcpHost": "192.168.2.153",
         "tcpPort": "502",
         "tcpType": "DEFAULT",
         "serialPort": "/dev/ttyUSB",
@@ -6615,7 +6608,7 @@
     {
         "id": "e9d237aaf9318e74",
         "type": "pccc endpoint",
-        "address": "192.168.2.10",
+        "address": "192.168.2.150",
         "port": "44818",
         "userouting": false,
         "routing": "0x01,0x00,0x01,0x00",
@@ -9878,8 +9871,8 @@
         "type": "ui_led",
         "z": "902fc438.e5d758",
         "g": "086b9d08c3b68939",
-        "group": "4f5b8416.cada1c",
         "order": 1,
+        "group": "4f5b8416.cada1c",
         "width": 5,
         "height": 1,
         "label": "C2S: {{msg.payload}}",
@@ -13414,7 +13407,8 @@
         "y": 440,
         "wires": [
             [
-                "eb7ab466.6a90b8"
+                "eb7ab466.6a90b8",
+                "1a666ca6835d2d34"
             ]
         ]
     },
@@ -54118,8 +54112,8 @@
         "type": "ui_led",
         "z": "7a89175c.90f6a8",
         "g": "742e267a.cbc27",
-        "group": "999747fd.0e43c8",
         "order": 6,
+        "group": "999747fd.0e43c8",
         "width": 0,
         "height": 0,
         "label": "{{msg.payload}}",
@@ -54203,8 +54197,8 @@
         "type": "ui_led",
         "z": "7a89175c.90f6a8",
         "g": "76d03353.299b94",
-        "group": "9457c46f.d710c8",
         "order": 6,
+        "group": "9457c46f.d710c8",
         "width": 0,
         "height": 0,
         "label": "{{msg.payload}}",
@@ -67141,7 +67135,7 @@
                 "t": "set",
                 "p": "C2S.IP",
                 "pt": "global",
-                "to": "192.168.2.10",
+                "to": "192.168.2.150",
                 "tot": "str"
             }
         ],
@@ -68480,7 +68474,7 @@
         "once": true,
         "onceDelay": 0.1,
         "topic": "",
-        "payload": "192.168.2.13",
+        "payload": "192.168.2.153",
         "payloadType": "str",
         "x": 550,
         "y": 570,
@@ -68952,8 +68946,8 @@
         "type": "ui_led",
         "z": "38e901f121b52acb",
         "g": "9437db38.d604e",
-        "group": "8276e64d.c16508",
         "order": 1,
+        "group": "8276e64d.c16508",
         "width": 0,
         "height": 0,
         "label": "Estado de comunicación: {{msg.payload}}",
@@ -73677,6 +73671,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 730,
         "y": 490,
         "wires": [
@@ -73718,6 +73713,24 @@
                 "5e68509d.103b9",
                 "84515fce.0be5a"
             ]
+        ]
+    },
+    {
+        "id": "1a666ca6835d2d34",
+        "type": "function",
+        "z": "902fc438.e5d758",
+        "g": "ef45fa052227c233",
+        "name": "falla com",
+        "func": "var faultcom = global.get(\"C2S.Comunicacion_Drive\",\"memoryOnly\")||false;\nif (faultcom)flow.set(\"lastRefFlag\",false,'memoryOnly'); \nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 390,
+        "y": 490,
+        "wires": [
+            []
         ]
     }
 ]
