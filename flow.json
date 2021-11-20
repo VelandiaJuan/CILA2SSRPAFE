@@ -1992,7 +1992,9 @@
             "675af0d1.a9fc4"
         ],
         "x": 22,
-        "y": 27
+        "y": 27,
+        "w": 1176,
+        "h": 686
     },
     {
         "id": "3a4b00b6e7d09e3a",
@@ -2047,7 +2049,9 @@
             "deae04d3b07e573a"
         ],
         "x": 1234,
-        "y": 149
+        "y": 149,
+        "w": 1452,
+        "h": 632
     },
     {
         "id": "0382d006bf3e8547",
@@ -3914,7 +3918,9 @@
             "9bdf522.eba6db"
         ],
         "x": 48,
-        "y": 53
+        "y": 53,
+        "w": 1124,
+        "h": 634
     },
     {
         "id": "dad84feb.d4773",
@@ -5388,7 +5394,9 @@
             "d0a19b38.893ab8"
         ],
         "x": 74,
-        "y": 79
+        "y": 79,
+        "w": 1042,
+        "h": 162
     },
     {
         "id": "9bdf522.eba6db",
@@ -5432,7 +5440,9 @@
             "c6631e95.4452d"
         ],
         "x": 74,
-        "y": 249
+        "y": 249,
+        "w": 1072,
+        "h": 412
     },
     {
         "id": "65994a87.9d5eb4",
@@ -73721,7 +73731,7 @@
         "z": "902fc438.e5d758",
         "g": "ef45fa052227c233",
         "name": "falla com",
-        "func": "var faultcom = global.get(\"C2S.Comunicacion_Drive\",\"memoryOnly\")||false;\nif (faultcom)flow.set(\"lastRefFlag\",false,'memoryOnly'); \nreturn msg;",
+        "func": "var faultcom = global.get(\"C2S.Comunicacion_Drive\",\"memoryOnly\")||false;\nif (!faultcom)flow.set(\"lastRefFlag\",false,'memoryOnly'); \nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
