@@ -1425,7 +1425,9 @@
             "ead83bdf05616014"
         ],
         "x": 18,
-        "y": 23
+        "y": 23,
+        "w": 1464,
+        "h": 664
     },
     {
         "id": "48d282d70b9e72c9",
@@ -1992,9 +1994,7 @@
             "675af0d1.a9fc4"
         ],
         "x": 22,
-        "y": 27,
-        "w": 1176,
-        "h": 686
+        "y": 27
     },
     {
         "id": "3a4b00b6e7d09e3a",
@@ -2049,9 +2049,7 @@
             "deae04d3b07e573a"
         ],
         "x": 1234,
-        "y": 149,
-        "w": 1452,
-        "h": 632
+        "y": 149
     },
     {
         "id": "0382d006bf3e8547",
@@ -2196,7 +2194,9 @@
             "cf985e84.c7693"
         ],
         "x": 18,
-        "y": 23
+        "y": 23,
+        "w": 2204,
+        "h": 1014
     },
     {
         "id": "e1e65313b5eaa836",
@@ -3797,7 +3797,9 @@
             "d22f737e1faaee45"
         ],
         "x": 44,
-        "y": 499
+        "y": 499,
+        "w": 412,
+        "h": 162
     },
     {
         "id": "ee01b6d1.f76f98",
@@ -3836,7 +3838,9 @@
             "43ffc14d.a3cac8"
         ],
         "x": 44,
-        "y": 49
+        "y": 49,
+        "w": 1412,
+        "h": 442
     },
     {
         "id": "e2589faa.5b6d2",
@@ -3918,9 +3922,7 @@
             "9bdf522.eba6db"
         ],
         "x": 48,
-        "y": 53,
-        "w": 1124,
-        "h": 634
+        "y": 53
     },
     {
         "id": "dad84feb.d4773",
@@ -4320,7 +4322,9 @@
             "25037f6e145deee9"
         ],
         "x": 44,
-        "y": 649
+        "y": 649,
+        "w": 1152,
+        "h": 292
     },
     {
         "id": "cf985e84.c7693",
@@ -4417,7 +4421,9 @@
             "aa741b22.4cb5c8"
         ],
         "x": 44,
-        "y": 49
+        "y": 49,
+        "w": 2152,
+        "h": 962
     },
     {
         "id": "ef45fa052227c233",
@@ -5394,9 +5400,7 @@
             "d0a19b38.893ab8"
         ],
         "x": 74,
-        "y": 79,
-        "w": 1042,
-        "h": 162
+        "y": 79
     },
     {
         "id": "9bdf522.eba6db",
@@ -5440,9 +5444,7 @@
             "c6631e95.4452d"
         ],
         "x": 74,
-        "y": 249,
-        "w": 1072,
-        "h": 412
+        "y": 249
     },
     {
         "id": "65994a87.9d5eb4",
@@ -5492,7 +5494,9 @@
             "7af9ff4dabd191fb"
         ],
         "x": 1394,
-        "y": 389
+        "y": 389,
+        "w": 632,
+        "h": 222
     },
     {
         "id": "49c39e.d1336c64",
@@ -73429,11 +73433,12 @@
         "z": "ebaf6b5134c2a666",
         "g": "cf985e84.c7693",
         "name": "print values",
-        "func": "var prot =global.get(\"Protections.VibrationGeneral.H.Setpoint\")||0;\nvar porc =flow.get(\"PID.Activation.Vibration\")||0;\nmsg.payload = prot + \"A / \" + (prot*porc/100).toFixed(2) +\"A\";\n\nreturn msg;",
+        "func": "var prot =global.get(\"Protections.VibrationGeneral.H.Setpoint\")||0;\nvar porc =flow.get(\"PID.Activation.Vibration\")||0;\nmsg.payload = prot + \"G / \" + (prot*porc/100).toFixed(2) +\"A\";\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 1140,
         "y": 390,
         "wires": [
@@ -73448,11 +73453,12 @@
         "z": "ebaf6b5134c2a666",
         "g": "cf985e84.c7693",
         "name": "print values",
-        "func": "var prot =global.get(\"Protections.MotorTemperature.H.Setpoint\")||0;\nvar porc =flow.get(\"PID.Activation.Temp\")||0;\nmsg.payload = prot + \"A / \" + (prot*porc/100).toFixed(2) +\"A\";\n\nreturn msg;",
+        "func": "var prot =global.get(\"Protections.MotorTemperature.H.Setpoint\")||0;\nvar porc =flow.get(\"PID.Activation.Temp\")||0;\nmsg.payload = prot + \"°F / \" + (prot*porc/100).toFixed(2) +\"A\";\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 1140,
         "y": 430,
         "wires": [
