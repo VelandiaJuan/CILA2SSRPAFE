@@ -2080,7 +2080,8 @@
             "2226fe0dc49a5933",
             "fc1ec03d8b0117fa",
             "2dcc35895060c95b",
-            "deae04d3b07e573a"
+            "deae04d3b07e573a",
+            "7c0eb170.c43d1"
         ],
         "x": 1234,
         "y": 149,
@@ -19093,7 +19094,8 @@
         "y": 510,
         "wires": [
             [
-                "6943549b680dd673"
+                "6943549b680dd673",
+                "7c0eb170.c43d1"
             ]
         ]
     },
@@ -73897,6 +73899,32 @@
             [
                 "e63d7c218dfa3131"
             ]
+        ]
+    },
+    {
+        "id": "7c0eb170.c43d1",
+        "type": "change",
+        "z": "bef159b0eb2cf912",
+        "g": "3a4b00b6e7d09e3a",
+        "name": "Refactual",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::RefActual",
+                "pt": "flow",
+                "to": "#:(memoryOnly)::C2S.Implicit.Commanded_SpdRef",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2000,
+        "y": 560,
+        "wires": [
+            []
         ]
     }
 ]
