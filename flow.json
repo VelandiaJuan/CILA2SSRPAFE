@@ -1377,7 +1377,7 @@
         ],
         "x": 24,
         "y": 429,
-        "w": 722,
+        "w": 712,
         "h": 242
     },
     {
@@ -1431,9 +1431,7 @@
             "ead83bdf05616014"
         ],
         "x": 18,
-        "y": 23,
-        "w": 1464,
-        "h": 664
+        "y": 23
     },
     {
         "id": "48d282d70b9e72c9",
@@ -2000,7 +1998,9 @@
             "675af0d1.a9fc4"
         ],
         "x": 22,
-        "y": 27
+        "y": 27,
+        "w": 1176,
+        "h": 686
     },
     {
         "id": "3a4b00b6e7d09e3a",
@@ -2055,7 +2055,9 @@
             "deae04d3b07e573a"
         ],
         "x": 1234,
-        "y": 149
+        "y": 149,
+        "w": 1452,
+        "h": 632
     },
     {
         "id": "0382d006bf3e8547",
@@ -2656,8 +2658,6 @@
         ],
         "x": 574,
         "y": 21.5,
-        "w": 552,
-        "h": 217,
         "info": "# Condiciones\nSólo funciona si el nombre del proyecto es \"CILA2S-ESP-SWCPRO_AFE\""
     },
     {
@@ -2676,9 +2676,7 @@
             "5e35a538.cad0cc"
         ],
         "x": 14,
-        "y": 251.5,
-        "w": 432,
-        "h": 157
+        "y": 251.5
     },
     {
         "id": "8a437085.d2b8",
@@ -2701,8 +2699,6 @@
         ],
         "x": 14,
         "y": 21.5,
-        "w": 552,
-        "h": 217,
         "info": "# Condiciones\nSólo funciona si el nombre del proyecto es \"CILA2S-ESP-SWCPRO_AFE\""
     },
     {
@@ -3815,9 +3811,7 @@
             "d22f737e1faaee45"
         ],
         "x": 44,
-        "y": 499,
-        "w": 412,
-        "h": 162
+        "y": 499
     },
     {
         "id": "ee01b6d1.f76f98",
@@ -3856,9 +3850,7 @@
             "43ffc14d.a3cac8"
         ],
         "x": 44,
-        "y": 49,
-        "w": 1412,
-        "h": 442
+        "y": 49
     },
     {
         "id": "e2589faa.5b6d2",
@@ -3940,7 +3932,9 @@
             "9bdf522.eba6db"
         ],
         "x": 48,
-        "y": 53
+        "y": 53,
+        "w": 1124,
+        "h": 634
     },
     {
         "id": "dad84feb.d4773",
@@ -5414,7 +5408,9 @@
             "d0a19b38.893ab8"
         ],
         "x": 74,
-        "y": 79
+        "y": 79,
+        "w": 1042,
+        "h": 162
     },
     {
         "id": "9bdf522.eba6db",
@@ -5458,7 +5454,9 @@
             "c6631e95.4452d"
         ],
         "x": 74,
-        "y": 249
+        "y": 249,
+        "w": 1072,
+        "h": 412
     },
     {
         "id": "65994a87.9d5eb4",
@@ -9897,8 +9895,8 @@
         "type": "ui_led",
         "z": "902fc438.e5d758",
         "g": "086b9d08c3b68939",
-        "order": 1,
         "group": "4f5b8416.cada1c",
+        "order": 1,
         "width": 5,
         "height": 1,
         "label": "C2S: {{msg.payload}}",
@@ -18431,7 +18429,7 @@
         "z": "bef159b0eb2cf912",
         "g": "9bdf522.eba6db",
         "name": "VSD_Ref",
-        "func": "// Definitions\nvar PR          = global.get(\"Control_functions.Prolonged_Reference\")||null;\nvar Mtr_Speed   = global.get('C2S.Implicit.Output_Frequency','memoryOnly');\nMtr_Speed       = Math.abs(Mtr_Speed);\n\nif(PR.Hz == parseFloat(Mtr_Speed.toFixed(6))){\n    msg.topic = \"Ref Reached\";\n    node.status({fill:\"green\",shape:\"dot\",text:Mtr_Speed});\n}\nelse{\n    msg.topic = \"Ref Not Reached yet\";\n}\nnode.status({ fill: \"green\", shape: \"dot\", text: \"Hz:\" + PR.Hz + \" MtrSpeed:\" + Mtr_Speed });\n\nreturn msg;",
+        "func": "// Definitions\nvar PR          = global.get(\"Control_functions.Prolonged_Reference\")||null;\nvar Mtr_Speed   = global.get('C2S.Implicit.Output_Frequency','memoryOnly');\nvar commanded   = global.get('C2S.Implicit.Commanded_SpdRef','memoryOnly');\nMtr_Speed       = Math.abs(Mtr_Speed);\n\nif(PR.Hz == parseFloat(Mtr_Speed.toFixed(6))){\n    msg.topic = \"Ref Reached\";\n    node.status({fill:\"green\",shape:\"dot\",text:Mtr_Speed});\n}\nelse{\n    msg.topic = \"Ref Not Reached yet\";\n}\nif((Mtr_Speed>0.999999*PR.Hz)&&(commanded==PR.Hz)){\n    msg.topic = \"Ref Reached\";\n    node.status({fill:\"green\",shape:\"dot\",text:Mtr_Speed});\n}\nnode.status({ fill: \"green\", shape: \"dot\", text: \"Hz:\" + PR.Hz + \" MtrSpeed:\" + Mtr_Speed });\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -54138,8 +54136,8 @@
         "type": "ui_led",
         "z": "7a89175c.90f6a8",
         "g": "742e267a.cbc27",
-        "order": 6,
         "group": "999747fd.0e43c8",
+        "order": 6,
         "width": 0,
         "height": 0,
         "label": "{{msg.payload}}",
@@ -54223,8 +54221,8 @@
         "type": "ui_led",
         "z": "7a89175c.90f6a8",
         "g": "76d03353.299b94",
-        "order": 6,
         "group": "9457c46f.d710c8",
+        "order": 6,
         "width": 0,
         "height": 0,
         "label": "{{msg.payload}}",
@@ -68972,8 +68970,8 @@
         "type": "ui_led",
         "z": "38e901f121b52acb",
         "g": "9437db38.d604e",
-        "order": 1,
         "group": "8276e64d.c16508",
+        "order": 1,
         "width": 0,
         "height": 0,
         "label": "Estado de comunicación: {{msg.payload}}",
@@ -73450,7 +73448,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1140,
         "y": 390,
         "wires": [
@@ -73470,7 +73467,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1140,
         "y": 430,
         "wires": [
@@ -73699,7 +73695,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 730,
         "y": 490,
         "wires": [
@@ -73754,7 +73749,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 390,
         "y": 490,
         "wires": [
