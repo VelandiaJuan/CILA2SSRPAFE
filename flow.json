@@ -6356,7 +6356,7 @@
     {
         "id": "a3d1f2c7.5fe22",
         "type": "pccc endpoint",
-        "address": "192.168.2.110",
+        "address": "192.168.2.10",
         "port": "44818",
         "userouting": false,
         "routing": "0x01,0x00,0x01,0x00",
@@ -6670,7 +6670,7 @@
     {
         "id": "e9d237aaf9318e74",
         "type": "pccc endpoint",
-        "address": "192.168.2.110",
+        "address": "192.168.2.10",
         "port": "44818",
         "userouting": false,
         "routing": "0x01,0x00,0x01,0x00",
@@ -19624,7 +19624,7 @@
         "z": "bef159b0eb2cf912",
         "g": "3a4b00b6e7d09e3a",
         "name": "",
-        "func": "var refinal = global.get(\"Control_functions.Prolonged_Reference.Hz\")||0;\nvar inicial = flow.get(\"RefInicial\",\"memoryOnly\") || 0;\nvar velactual = flow.get(\"RefActual\",'memoryOnly')||0; //global.get(\"C2S.Implicit.Output_Frequency\",\"memoryOnly\") || 0;\n\nif (refinal!=0 && inicial!=0 && velactual !=0){\n    msg.payload = Math.abs(100 - ((Math.abs(refinal) - Math.abs(velactual)) / (Math.abs(refinal) - Math.abs(inicial)))*100).toFixed(6);\n    if(msg.payload < 0 || msg.payload > 100){\n        msg.payload = 0;\n    }\nreturn msg;\n}",
+        "func": "var refinal = global.get(\"Control_functions.Prolonged_Reference.Hz\")||0;\nvar borrar= global.get(\"Control_functions.ActiveCF.Prolonged_Reference\",\"memoryOnly\")||false;\nvar inicial = flow.get(\"RefInicial\",\"memoryOnly\") || 0;\nvar velactual = flow.get(\"RefActual\",'memoryOnly')||0; //global.get(\"C2S.Implicit.Output_Frequency\",\"memoryOnly\") || 0;\n\nif (refinal!=0 && inicial!=0 && velactual !=0){\n    msg.payload = Math.abs(100 - ((Math.abs(refinal) - Math.abs(velactual)) / (Math.abs(refinal) - Math.abs(inicial)))*100).toFixed(6);\n    if(msg.payload < 0 || msg.payload > 100){\n        msg.payload = 0;\n    }\nif (!borrar) msg.payload = \"\";\nreturn msg;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -67197,7 +67197,7 @@
                 "t": "set",
                 "p": "C2S.IP",
                 "pt": "global",
-                "to": "192.168.2.110",
+                "to": "192.168.2.10",
                 "tot": "str"
             }
         ],
