@@ -1447,9 +1447,7 @@
             "6914a9b4.85f3c"
         ],
         "x": 1884,
-        "y": 289,
-        "w": 432,
-        "h": 82
+        "y": 289
     },
     {
         "id": "9437db38.d604e",
@@ -1478,9 +1476,7 @@
             "9599bd03.2a1a5"
         ],
         "x": 1884,
-        "y": 69,
-        "w": 1322,
-        "h": 212
+        "y": 69
     },
     {
         "id": "af8e6105.775618",
@@ -1502,9 +1498,7 @@
             "67ba4794.6cf57"
         ],
         "x": 164,
-        "y": 69,
-        "w": 752,
-        "h": 132
+        "y": 69
     },
     {
         "id": "d84d4fbe.ee6ce",
@@ -1523,9 +1517,7 @@
             "a7f0f525.ae1878"
         ],
         "x": 164,
-        "y": 209,
-        "w": 602,
-        "h": 122
+        "y": 209
     },
     {
         "id": "ef81d12e3dd41149",
@@ -1555,9 +1547,7 @@
             "1d797f4ca9b83896"
         ],
         "x": 924,
-        "y": 69,
-        "w": 952,
-        "h": 322
+        "y": 69
     },
     {
         "id": "e29eaee41e038edd",
@@ -1646,9 +1636,7 @@
             "8978c0c9.4411"
         ],
         "x": 1534,
-        "y": 359,
-        "w": 1192,
-        "h": 732
+        "y": 359
     },
     {
         "id": "99671f60976b1d2a",
@@ -1678,9 +1666,7 @@
             "6b948e2cdef9c2ad"
         ],
         "x": 1544,
-        "y": 29,
-        "w": 1482,
-        "h": 212
+        "y": 29
     },
     {
         "id": "95daead77be77494",
@@ -1727,9 +1713,7 @@
             "0990c77b15bde411"
         ],
         "x": 994,
-        "y": 649,
-        "w": 532,
-        "h": 732
+        "y": 649
     },
     {
         "id": "87fca62744442ad4",
@@ -1768,9 +1752,7 @@
             "19a66bb9.eaa504"
         ],
         "x": 44,
-        "y": 409,
-        "w": 702,
-        "h": 272
+        "y": 409
     },
     {
         "id": "a7f58aaec292b159",
@@ -1813,9 +1795,7 @@
             "30359a42be66cafb"
         ],
         "x": 44,
-        "y": 689,
-        "w": 812,
-        "h": 272
+        "y": 689
     },
     {
         "id": "37b64a70f39dda06",
@@ -1854,9 +1834,7 @@
             "e0a3fe6a.f68a1"
         ],
         "x": 44,
-        "y": 969,
-        "w": 742,
-        "h": 272
+        "y": 969
     },
     {
         "id": "ee5753bdd6eedb72",
@@ -1881,9 +1859,7 @@
             "46e32360.5940dc"
         ],
         "x": 44,
-        "y": 239,
-        "w": 912,
-        "h": 162
+        "y": 239
     },
     {
         "id": "931b0370.afc1b",
@@ -2231,9 +2207,7 @@
             "cf985e84.c7693"
         ],
         "x": 18,
-        "y": 23,
-        "w": 2204,
-        "h": 1014
+        "y": 23
     },
     {
         "id": "e1e65313b5eaa836",
@@ -2794,9 +2768,7 @@
             "97b2eb182dd8a393"
         ],
         "x": 1884,
-        "y": 379,
-        "w": 922,
-        "h": 82
+        "y": 379
     },
     {
         "id": "3870a1febf5ca6cd",
@@ -4367,9 +4339,7 @@
             "25037f6e145deee9"
         ],
         "x": 44,
-        "y": 649,
-        "w": 1152,
-        "h": 292
+        "y": 649
     },
     {
         "id": "cf985e84.c7693",
@@ -4466,9 +4436,7 @@
             "aa741b22.4cb5c8"
         ],
         "x": 44,
-        "y": 49,
-        "w": 2152,
-        "h": 962
+        "y": 49
     },
     {
         "id": "ef45fa052227c233",
@@ -5543,9 +5511,7 @@
             "7af9ff4dabd191fb"
         ],
         "x": 1394,
-        "y": 389,
-        "w": 632,
-        "h": 222
+        "y": 389
     },
     {
         "id": "49c39e.d1336c64",
@@ -6357,7 +6323,7 @@
     {
         "id": "a3d1f2c7.5fe22",
         "type": "pccc endpoint",
-        "address": "192.168.2.10",
+        "address": "192.168.2.110",
         "port": "44818",
         "userouting": false,
         "routing": "0x01,0x00,0x01,0x00",
@@ -6671,7 +6637,7 @@
     {
         "id": "e9d237aaf9318e74",
         "type": "pccc endpoint",
-        "address": "192.168.2.10",
+        "address": "192.168.2.110",
         "port": "44818",
         "userouting": false,
         "routing": "0x01,0x00,0x01,0x00",
@@ -10800,7 +10766,7 @@
         "order": 4,
         "width": 3,
         "height": "3",
-        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n</head>\n\n<body>\n    <div class=\"container align-self-center\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col\">\n                <img src=\"http://localhost:1880/swcpro-images/hlogo.png\" style=\"width:75%;\">\n            </div>\n        </div>\n    </div>\n    <div class=\"container align-self-center\">\n        <div class=\"row justify-content-center\">\n            <h5><span class=\"badge badge-secondary\">Versión: RB 1.8.2</span></h5>\n        </div>\n    </div>\n</body>\n\n<script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n<script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n<script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script>\n\n<style>\n    .disable-select {\n        user-select: none;\n        /* supported by Chrome and Opera */\n        -webkit-user-select: none;\n        /* Safari */\n        -khtml-user-select: none;\n        /* Konqueror HTML */\n        -moz-user-select: none;\n        /* Firefox */\n        -ms-user-select: none;\n        /* Internet Explorer/Edge */\n    }\n\n    .imagen {\n        height: 90px;\n        background-image: url(http://localhost:1880/swcpro-images/hlogo.png);\n        background-size: contain;\n        background-repeat: no-repeat;\n        background-position: center center;\n    }\n</style>\n\n</html>",
+        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n</head>\n\n<body>\n    <div class=\"container align-self-center\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col\">\n                <img src=\"http://localhost:1880/swcpro-images/hlogo.png\" style=\"width:75%;\">\n            </div>\n        </div>\n    </div>\n    <div class=\"container align-self-center\">\n        <div class=\"row justify-content-center\">\n            <h5><span class=\"badge badge-secondary\">Versión: RB 1.8.3</span></h5>\n        </div>\n    </div>\n</body>\n\n<script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n<script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n<script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script>\n\n<style>\n    .disable-select {\n        user-select: none;\n        /* supported by Chrome and Opera */\n        -webkit-user-select: none;\n        /* Safari */\n        -khtml-user-select: none;\n        /* Konqueror HTML */\n        -moz-user-select: none;\n        /* Firefox */\n        -ms-user-select: none;\n        /* Internet Explorer/Edge */\n    }\n\n    .imagen {\n        height: 90px;\n        background-image: url(http://localhost:1880/swcpro-images/hlogo.png);\n        background-size: contain;\n        background-repeat: no-repeat;\n        background-position: center center;\n    }\n</style>\n\n</html>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
@@ -67199,7 +67165,7 @@
                 "t": "set",
                 "p": "C2S.IP",
                 "pt": "global",
-                "to": "192.168.2.10",
+                "to": "192.168.2.110",
                 "tot": "str"
             }
         ],
