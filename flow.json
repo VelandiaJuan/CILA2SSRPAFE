@@ -2230,7 +2230,9 @@
             "cf985e84.c7693"
         ],
         "x": 18,
-        "y": 23
+        "y": 23,
+        "w": 2204,
+        "h": 1014
     },
     {
         "id": "e1e65313b5eaa836",
@@ -4364,7 +4366,9 @@
             "25037f6e145deee9"
         ],
         "x": 44,
-        "y": 649
+        "y": 649,
+        "w": 1152,
+        "h": 292
     },
     {
         "id": "cf985e84.c7693",
@@ -4461,7 +4465,9 @@
             "aa741b22.4cb5c8"
         ],
         "x": 44,
-        "y": 49
+        "y": 49,
+        "w": 2152,
+        "h": 962
     },
     {
         "id": "ef45fa052227c233",
@@ -5536,7 +5542,9 @@
             "7af9ff4dabd191fb"
         ],
         "x": 1394,
-        "y": 389
+        "y": 389,
+        "w": 632,
+        "h": 222
     },
     {
         "id": "49c39e.d1336c64",
@@ -26070,7 +26078,7 @@
         "z": "ebaf6b5134c2a666",
         "g": "cf985e84.c7693",
         "name": "PV",
-        "func": "var Type        = flow.get(\"PID.Type\")||null;\nvar Sensor      = global.get(\"Process_data.DHS\",\"memoryOnly\");\nvar Pressure    = Sensor[\"Presión de entrada\"]||Sensor.AI[\"Presión de entrada\"];\nvar MotorI = global.get(\"C2S.Implicit.Output_Current\", 'memoryOnly') || 0;\nvar Rtx = global.get(\"C2S.RelTx\") || 1;\nvar Current = MotorI / Rtx;\n\n\nnode.status({fill:\"green\",shape:\"dot\",text: \"Presión: \"+Pressure+\" Corriente: \"+Current});\n\nif(Type == \"Presion\"){\n    node.status({fill:\"green\",shape:\"dot\",text: \"Presión: \"+Pressure+\" Corriente: \"+Current+\" Tipo: \"+Type});\n    msg.payload = num(-Pressure);\n    return msg;\n}\nelse if(Type == \"Corriente\"){\n    node.status({fill:\"green\",shape:\"dot\",text: \"Presión: \"+Pressure+\" Corriente: \"+Current+\" Tipo: \"+Type});\n    msg.payload = num(Current);\n    return msg\n}\nelse{\n    node.status({fill:\"grey\",shape:\"dot\",text: \"Presión: \"+Pressure+\" Corriente: \"+Current+\" Tipo: Ninguno\"});\n    return; \n}\n\nfunction num(x) {\n  return parseFloat(x);\n}\n",
+        "func": "var Type        = flow.get(\"PID.Type\")||null;\nvar Sensor      = global.get(\"Process_data.DHS\",\"memoryOnly\");\nvar Pressure    = Sensor[\"Presión de entrada\"]||Sensor.AI[\"Presión de entrada\"];\nvar MotorI = global.get(\"C2S.Implicit.Output_Current\", 'memoryOnly') || 0;\nvar Rtx = global.get(\"C2S.RelTx\") || 1;\nvar Current = MotorI / Rtx;\n\n\nnode.status({fill:\"green\",shape:\"dot\",text: \"Presión: \"+Pressure+\" Corriente: \"+Current});\n\nif(Type == \"Presion\"){\n    if(Pressure==0)flow.set(\"PID.enable\",false,\"memoryOnly\");\n    node.status({fill:\"green\",shape:\"dot\",text: \"Presión: \"+Pressure+\" Corriente: \"+Current+\" Tipo: \"+Type});\n    msg.payload = num(-Pressure);\n    return msg;\n}\nelse if(Type == \"Corriente\"){\n    node.status({fill:\"green\",shape:\"dot\",text: \"Presión: \"+Pressure+\" Corriente: \"+Current+\" Tipo: \"+Type});\n    msg.payload = num(Current);\n    return msg\n}\nelse{\n    node.status({fill:\"grey\",shape:\"dot\",text: \"Presión: \"+Pressure+\" Corriente: \"+Current+\" Tipo: Ninguno\"});\n    return; \n}\n\nfunction num(x) {\n  return parseFloat(x);\n}\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
