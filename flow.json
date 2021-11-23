@@ -57431,7 +57431,7 @@
         "format": "{{msg.payload}}",
         "layout": "col-center",
         "x": 540,
-        "y": 310,
+        "y": 320,
         "wires": []
     },
     {
@@ -57475,7 +57475,7 @@
         "timer": "",
         "oldrc": false,
         "name": "",
-        "x": 330,
+        "x": 310,
         "y": 370,
         "wires": [
             [],
@@ -57502,7 +57502,7 @@
         "payload": "",
         "payloadType": "str",
         "topic": "",
-        "x": 140,
+        "x": 130,
         "y": 470,
         "wires": [
             [
@@ -57515,14 +57515,15 @@
         "type": "exec",
         "z": "e7088c4e.cc6b4",
         "g": "9b538856.60fb38",
-        "command": "sudo eject /dev/sda1/",
+        "command": "echo Slacol1234 | sudo -S sudo eject /dev/sdb1/",
         "addpay": false,
         "append": "",
         "useSpawn": "false",
         "timer": "",
+        "winHide": false,
         "oldrc": false,
         "name": "",
-        "x": 360,
+        "x": 430,
         "y": 470,
         "wires": [
             [],
@@ -57550,7 +57551,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 360,
+        "x": 340,
         "y": 420,
         "wires": [
             []
@@ -57561,11 +57562,12 @@
         "type": "exec",
         "z": "e7088c4e.cc6b4",
         "g": "9b538856.60fb38",
-        "command": "cd /media/pi && ls",
+        "command": "cd /media/bcpgrp && ls",
         "addpay": false,
         "append": "",
         "useSpawn": "false",
         "timer": "",
+        "winHide": false,
         "oldrc": false,
         "name": "",
         "x": 350,
@@ -57634,7 +57636,7 @@
         "repair": false,
         "outputs": 1,
         "x": 540,
-        "y": 350,
+        "y": 360,
         "wires": [
             [
                 "96e2b8dbe394949c"
@@ -57659,8 +57661,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 530,
-        "y": 450,
+        "x": 540,
+        "y": 280,
         "wires": [
             [
                 "bd43bd09.9aab9"
@@ -57694,8 +57696,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 660,
-        "y": 450,
+        "x": 670,
+        "y": 280,
         "wires": [
             [
                 "f8f6d7e7.a66d88"
@@ -57717,8 +57719,8 @@
         "raw": false,
         "topic": "",
         "name": "USB Expulsada",
-        "x": 820,
-        "y": 450,
+        "x": 830,
+        "y": 280,
         "wires": [
             []
         ]
@@ -57873,8 +57875,8 @@
         "links": [
             "c42f5649.4492d8"
         ],
-        "x": 1785,
-        "y": 390,
+        "x": 1755,
+        "y": 290,
         "wires": []
     },
     {
@@ -57998,7 +58000,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "+++/Datalogger",
+                "to": "echo Slacol1234 | sudo -S sudo cp -R /home/bcpgrp/Documents/Datalogger +++/Datalogger",
                 "tot": "str"
             },
             {
