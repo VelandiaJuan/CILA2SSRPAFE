@@ -5316,7 +5316,6 @@
             "d84e84fdd737275b",
             "4548acf8d88fcc50",
             "514d5ed34a685fd8",
-            "f26c7cd67e2a751d",
             "b5ec933cfb0dbcbd",
             "5da2941ec6653d0f",
             "b9fd0d85469bdf62",
@@ -5436,7 +5435,8 @@
             "cf0d14fea6b9e64f",
             "6185c0b9975e6347",
             "dd87238377025ddb",
-            "2bc7378684d1b902"
+            "2bc7378684d1b902",
+            "0ca09a756d9ead6f"
         ],
         "x": 84,
         "y": 1579,
@@ -53233,7 +53233,7 @@
         "y": 1620,
         "wires": [
             [
-                "f26c7cd67e2a751d"
+                "0ca09a756d9ead6f"
             ]
         ]
     },
@@ -54351,7 +54351,7 @@
         "y": 1670,
         "wires": [
             [
-                "f26c7cd67e2a751d"
+                "0ca09a756d9ead6f"
             ]
         ]
     },
@@ -54370,7 +54370,7 @@
         "y": 1720,
         "wires": [
             [
-                "f26c7cd67e2a751d"
+                "0ca09a756d9ead6f"
             ]
         ]
     },
@@ -54389,7 +54389,7 @@
         "y": 1770,
         "wires": [
             [
-                "f26c7cd67e2a751d"
+                "0ca09a756d9ead6f"
             ]
         ]
     },
@@ -54408,7 +54408,7 @@
         "y": 1820,
         "wires": [
             [
-                "f26c7cd67e2a751d"
+                "0ca09a756d9ead6f"
             ]
         ]
     },
@@ -54427,7 +54427,7 @@
         "y": 1870,
         "wires": [
             [
-                "f26c7cd67e2a751d"
+                "0ca09a756d9ead6f"
             ]
         ]
     },
@@ -54446,7 +54446,7 @@
         "y": 1920,
         "wires": [
             [
-                "f26c7cd67e2a751d"
+                "0ca09a756d9ead6f"
             ]
         ]
     },
@@ -54465,7 +54465,7 @@
         "y": 1970,
         "wires": [
             [
-                "f26c7cd67e2a751d"
+                "0ca09a756d9ead6f"
             ]
         ]
     },
@@ -54484,7 +54484,7 @@
         "y": 2020,
         "wires": [
             [
-                "f26c7cd67e2a751d"
+                "0ca09a756d9ead6f"
             ]
         ]
     },
@@ -54503,7 +54503,7 @@
         "y": 2070,
         "wires": [
             [
-                "f26c7cd67e2a751d"
+                "0ca09a756d9ead6f"
             ]
         ]
     },
@@ -54522,7 +54522,7 @@
         "y": 2120,
         "wires": [
             [
-                "f26c7cd67e2a751d"
+                "0ca09a756d9ead6f"
             ]
         ]
     },
@@ -54541,7 +54541,7 @@
         "y": 2170,
         "wires": [
             [
-                "f26c7cd67e2a751d"
+                "0ca09a756d9ead6f"
             ]
         ]
     },
@@ -54560,7 +54560,7 @@
         "y": 2220,
         "wires": [
             [
-                "f26c7cd67e2a751d"
+                "0ca09a756d9ead6f"
             ]
         ]
     },
@@ -54579,7 +54579,7 @@
         "y": 2270,
         "wires": [
             [
-                "f26c7cd67e2a751d"
+                "0ca09a756d9ead6f"
             ]
         ]
     },
@@ -54598,7 +54598,7 @@
         "y": 2320,
         "wires": [
             [
-                "f26c7cd67e2a751d"
+                "0ca09a756d9ead6f"
             ]
         ]
     },
@@ -54617,7 +54617,7 @@
         "y": 2370,
         "wires": [
             [
-                "f26c7cd67e2a751d"
+                "0ca09a756d9ead6f"
             ]
         ]
     },
@@ -54636,7 +54636,7 @@
         "y": 2420,
         "wires": [
             [
-                "f26c7cd67e2a751d"
+                "0ca09a756d9ead6f"
             ]
         ]
     },
@@ -54655,7 +54655,7 @@
         "y": 2470,
         "wires": [
             [
-                "f26c7cd67e2a751d"
+                "0ca09a756d9ead6f"
             ]
         ]
     },
@@ -54674,7 +54674,7 @@
         "y": 2520,
         "wires": [
             [
-                "f26c7cd67e2a751d"
+                "0ca09a756d9ead6f"
             ]
         ]
     },
@@ -54693,185 +54693,7 @@
         "y": 2570,
         "wires": [
             [
-                "f26c7cd67e2a751d"
-            ]
-        ]
-    },
-    {
-        "id": "f26c7cd67e2a751d",
-        "type": "switch",
-        "z": "7a89175c.90f6a8",
-        "g": "49c39e.d1336c64",
-        "name": "Enrutador de funciones",
-        "property": "Config.Funcion",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "Start",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Stop",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Reset",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Stop ESD",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Disparo alto nivel de aceite SUT",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Disparo alta temperatura SUT",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Alarma alta temperatura SUT",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Alarma bajo nivel de aceite SUT",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Disparo bajo bajo nivel de aceite SUT",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Disparo válvula sobre-presión SUT",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Alarma DPS",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Disparo alta temperatura filtros",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Disparo alta presión THP",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Disparo sobre-tensión SUT",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "ESD Remoto",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Disparo puerta abierta",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Protección térmica de motor",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Monitoreo",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Disparo shutdown SCC",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Disparo baja presión en la troncal",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 20,
-        "x": 790,
-        "y": 2080,
-        "wires": [
-            [
-                "b5ec933cfb0dbcbd"
-            ],
-            [
-                "5da2941ec6653d0f"
-            ],
-            [
-                "b9fd0d85469bdf62"
-            ],
-            [
-                "3de787026c042847"
-            ],
-            [
-                "fc9ab9803bf425e9"
-            ],
-            [
-                "cd0abe2063f7e179"
-            ],
-            [
-                "f3abda2e507b8187"
-            ],
-            [
-                "fca9f1d2b33c8c2e"
-            ],
-            [
-                "031596c77ab928a6"
-            ],
-            [
-                "a724aed5969ba98e"
-            ],
-            [
-                "8f47197d521272a7"
-            ],
-            [
-                "4ecee57cdebe7ef9"
-            ],
-            [
-                "3fa49a152e65892e"
-            ],
-            [
-                "350c6611a0391867"
-            ],
-            [
-                "a853aa4816675625"
-            ],
-            [
-                "fce58f058803ab8c"
-            ],
-            [
-                "30127a72a9e86380"
-            ],
-            [
-                "5a01ed73.b7a1f4"
-            ],
-            [
-                "201ace7033e4132b"
-            ],
-            [
-                "da4c7a07f5b760bc"
+                "0ca09a756d9ead6f"
             ]
         ]
     },
@@ -71996,6 +71818,232 @@
         "wires": [
             [
                 "ddbe4eddb99064e8"
+            ]
+        ]
+    },
+    {
+        "id": "0ca09a756d9ead6f",
+        "type": "switch",
+        "z": "7a89175c.90f6a8",
+        "g": "49c39e.d1336c64",
+        "name": "Enrutador de funciones",
+        "property": "Config.Funcion",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Start",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Stop",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Reset",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Stop ESD",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Disparo alto nivel de aceite SUT",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Disparo alta temperatura SUT",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Alarma alta temperatura SUT",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Alarma bajo nivel de aceite SUT",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Disparo bajo bajo nivel de aceite SUT",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Disparo válvula sobre-presión SUT",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Alarma DPS",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Disparo alta temperatura filtros",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Disparo alta presión THP",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Disparo sobre-tensión SUT",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "ESD Remoto",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Disparo puerta abierta",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Protección térmica de motor",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Monitoreo",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Disparo shutdown SCC",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Disparo baja presión en la troncal",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Alarma bajo nivel de aceite SDT",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Disparo bajo bajo nivel de aceite SDT",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Alarma alta temperatura SDT",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Disparo alta temperatura SDT",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Disparo Valvula sobrepresión SDT",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Estado motorizado SDT",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 26,
+        "x": 810,
+        "y": 2180,
+        "wires": [
+            [
+                "b5ec933cfb0dbcbd"
+            ],
+            [
+                "5da2941ec6653d0f"
+            ],
+            [
+                "b9fd0d85469bdf62"
+            ],
+            [
+                "3de787026c042847"
+            ],
+            [
+                "fc9ab9803bf425e9"
+            ],
+            [
+                "cd0abe2063f7e179"
+            ],
+            [
+                "f3abda2e507b8187"
+            ],
+            [
+                "fca9f1d2b33c8c2e"
+            ],
+            [
+                "031596c77ab928a6"
+            ],
+            [
+                "a724aed5969ba98e"
+            ],
+            [
+                "8f47197d521272a7"
+            ],
+            [
+                "4ecee57cdebe7ef9"
+            ],
+            [
+                "3fa49a152e65892e"
+            ],
+            [
+                "350c6611a0391867"
+            ],
+            [
+                "a853aa4816675625"
+            ],
+            [
+                "fce58f058803ab8c"
+            ],
+            [
+                "30127a72a9e86380"
+            ],
+            [
+                "5a01ed73.b7a1f4"
+            ],
+            [
+                "201ace7033e4132b"
+            ],
+            [
+                "da4c7a07f5b760bc"
+            ],
+            [
+                "e992afbc36ba6596"
+            ],
+            [
+                "2bc7378684d1b902"
+            ],
+            [
+                "dd87238377025ddb"
+            ],
+            [
+                "6185c0b9975e6347"
+            ],
+            [
+                "cf0d14fea6b9e64f"
+            ],
+            [
+                "a621b85701bb3f07"
             ]
         ]
     }
