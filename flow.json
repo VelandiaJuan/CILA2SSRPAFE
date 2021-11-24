@@ -1064,32 +1064,7 @@
         "x": 22,
         "y": 637,
         "w": 3146,
-        "h": 2536
-    },
-    {
-        "id": "c3a35f81.5c82b8",
-        "type": "group",
-        "z": "7a89175c.90f6a8",
-        "name": "Eventos I/O",
-        "style": {
-            "fill": "#3f5787",
-            "label": true,
-            "color": "#ffffff"
-        },
-        "nodes": [
-            "be76cad1.f1e3b",
-            "df7735a0.634e88",
-            "7be16303.8b0014",
-            "ed46ce54.bd6008",
-            "f15168f6.b5e92",
-            "bc2fc8ee.76b728",
-            "5301b37e.77d264",
-            "d961a2f.f52ad6"
-        ],
-        "x": 1874,
-        "y": 129,
-        "w": 892,
-        "h": 162
+        "h": 2576
     },
     {
         "id": "9b538856.60fb38",
@@ -1239,7 +1214,9 @@
             "eb91dac5.690838"
         ],
         "x": -12,
-        "y": 13
+        "y": 13,
+        "w": 1664,
+        "h": 1200
     },
     {
         "id": "e98dc6a9.24ece8",
@@ -1545,7 +1522,9 @@
             "8978c0c9.4411"
         ],
         "x": 1534,
-        "y": 359
+        "y": 359,
+        "w": 1192,
+        "h": 732
     },
     {
         "id": "99671f60976b1d2a",
@@ -1575,7 +1554,9 @@
             "6b948e2cdef9c2ad"
         ],
         "x": 1544,
-        "y": 29
+        "y": 29,
+        "w": 1482,
+        "h": 212
     },
     {
         "id": "95daead77be77494",
@@ -1622,7 +1603,9 @@
             "0990c77b15bde411"
         ],
         "x": 994,
-        "y": 649
+        "y": 649,
+        "w": 532,
+        "h": 732
     },
     {
         "id": "87fca62744442ad4",
@@ -1661,7 +1644,9 @@
             "19a66bb9.eaa504"
         ],
         "x": 44,
-        "y": 409
+        "y": 409,
+        "w": 702,
+        "h": 272
     },
     {
         "id": "a7f58aaec292b159",
@@ -1704,7 +1689,9 @@
             "30359a42be66cafb"
         ],
         "x": 44,
-        "y": 689
+        "y": 689,
+        "w": 812,
+        "h": 272
     },
     {
         "id": "37b64a70f39dda06",
@@ -1743,7 +1730,9 @@
             "e0a3fe6a.f68a1"
         ],
         "x": 44,
-        "y": 969
+        "y": 969,
+        "w": 742,
+        "h": 272
     },
     {
         "id": "ee5753bdd6eedb72",
@@ -1763,13 +1752,14 @@
             "a61b19cd.790608",
             "89112155.2a218",
             "e469fa2b.b205e8",
-            "5bf2a7aa.f590f8",
             "65b175f6.1549bc",
             "4d01b0d2da9bdc2f",
-            "01a49381c485b1bd"
+            "ddc7c55f2c0f73c9"
         ],
         "x": 44,
-        "y": 239
+        "y": 219,
+        "w": 812,
+        "h": 182
     },
     {
         "id": "931b0370.afc1b",
@@ -3336,7 +3326,7 @@
         "x": 48,
         "y": 703,
         "w": 1714,
-        "h": 2444
+        "h": 2484
     },
     {
         "id": "7c55c2ad.611734",
@@ -3436,7 +3426,9 @@
             "b045615539735b86"
         ],
         "x": 14,
-        "y": 463
+        "y": 463,
+        "w": 958,
+        "h": 724
     },
     {
         "id": "eb91dac5.690838",
@@ -3489,7 +3481,9 @@
             "bb4f29c8.aa7e88"
         ],
         "x": 44,
-        "y": 39
+        "y": 39,
+        "w": 1582,
+        "h": 402
     },
     {
         "id": "8ed62712.fe2018",
@@ -4976,7 +4970,7 @@
             "dc7c0e6833d4017c"
         ],
         "x": 84,
-        "y": 2939,
+        "y": 2979,
         "w": 892,
         "h": 182
     },
@@ -5119,7 +5113,9 @@
             "ecd73acb6f9a9a0a"
         ],
         "x": 584,
-        "y": 959
+        "y": 959,
+        "w": 362,
+        "h": 202
     },
     {
         "id": "64ff74e5.f4c53c",
@@ -5139,7 +5135,9 @@
             "c1672804cba19e98"
         ],
         "x": 574,
-        "y": 489
+        "y": 489,
+        "w": 172,
+        "h": 212
     },
     {
         "id": "be55ea76.ed4478",
@@ -5160,7 +5158,9 @@
             "41b82348a8ab40a8"
         ],
         "x": 564,
-        "y": 719
+        "y": 719,
+        "w": 372,
+        "h": 202
     },
     {
         "id": "1d477816.993308",
@@ -24770,7 +24770,7 @@
         ],
         "outputs": 0,
         "cts": false,
-        "x": 880,
+        "x": 770,
         "y": 300,
         "wires": []
     },
@@ -25162,7 +25162,7 @@
         "wires": [
             [
                 "4d01b0d2da9bdc2f",
-                "01a49381c485b1bd"
+                "f82abc70.f86b"
             ]
         ]
     },
@@ -27246,23 +27246,6 @@
         ]
     },
     {
-        "id": "5bf2a7aa.f590f8",
-        "type": "link in",
-        "z": "9941a439.4b17c8",
-        "g": "ee5753bdd6eedb72",
-        "name": "",
-        "links": [
-            "ecf98f3f.4a704"
-        ],
-        "x": 335,
-        "y": 280,
-        "wires": [
-            [
-                "65b175f6.1549bc"
-            ]
-        ]
-    },
-    {
         "id": "65b175f6.1549bc",
         "type": "switch",
         "z": "9941a439.4b17c8",
@@ -27280,8 +27263,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 440,
-        "y": 280,
+        "x": 470,
+        "y": 260,
         "wires": [
             [
                 "cc3a2f05.7f208"
@@ -46024,7 +46007,7 @@
         "repair": false,
         "outputs": 1,
         "x": 590,
-        "y": 2980,
+        "y": 3020,
         "wires": [
             [
                 "737d9189cedc73ed"
@@ -46048,7 +46031,7 @@
         "repair": false,
         "outputs": 1,
         "x": 590,
-        "y": 3030,
+        "y": 3070,
         "wires": [
             [
                 "079b06c4d753c468"
@@ -46072,7 +46055,7 @@
         "repair": false,
         "outputs": 1,
         "x": 590,
-        "y": 3080,
+        "y": 3120,
         "wires": [
             [
                 "dc7c0e6833d4017c"
@@ -46091,7 +46074,7 @@
         "inout": "out",
         "property": "payload",
         "x": 470,
-        "y": 3080,
+        "y": 3120,
         "wires": [
             [
                 "27a840fd.42a858"
@@ -46110,7 +46093,7 @@
         "inout": "out",
         "property": "payload",
         "x": 470,
-        "y": 3030,
+        "y": 3070,
         "wires": [
             [
                 "28e01967.4859fe"
@@ -46129,7 +46112,7 @@
         "inout": "out",
         "property": "payload",
         "x": 470,
-        "y": 2980,
+        "y": 3020,
         "wires": [
             [
                 "dd9a0d3d.ab8378"
@@ -46155,7 +46138,7 @@
         "payload": "true",
         "payloadType": "bool",
         "x": 180,
-        "y": 2980,
+        "y": 3020,
         "wires": [
             [
                 "a2a2a85e.6d85f",
@@ -47064,7 +47047,7 @@
         "z": "7a89175c.90f6a8",
         "g": "d532ac68.2d5408",
         "name": "EA",
-        "func": "var Canal   = flow.get('ES')||[];\nvar IO      = global.get('IO','memoryOnly')||[];\n\nvar Funciones   = [];\nvar Minimo      = [];\nvar Maximo      = [];\n\n// Entradas Analogicas\nvar otro = [0,1,2,3];\n\nfor(var i = 0; i<otro.length; i++){\n    var index= 'AN'+otro[i];\n    try { var CanalIndex = Canal.EA[index]; }\n    catch (error) { };\n    if (typeof CanalIndex != 'undefined'){\n        Funciones.push(Canal.EA[index].Funcion);\n        Minimo.push(Canal.EA[index].Rango_Min);\n        Maximo.push(Canal.EA[index].Rango_Max);\n    }\n    else{\n        Funciones.push('Ninguno');\n        Minimo.push('--');\n        Maximo.push('--');\n    }\n}\nvar data    = {};\nmsg.payload = [];\nfor(var j = 0; j<otro.length; j++){\n    data = {\n        'Canales'   : otro[j], \n        'Funciones' : Funciones[j],\n        'Minimos'   : Minimo[j],\n        'Maximos'   : Maximo[j]  \n    }\n    msg.payload.push(data);\n}\nnode.status({ fill: \"green\", shape: \"dot\", text: Date.now() });\nreturn msg;",
+        "func": "var Canal = flow.get('ES');\nvar IO = global.get('IO', 'memoryOnly');\n\nvar Funciones = [];\nvar Minimo = [];\nvar Maximo = [];\n\n// Entradas Analogicas\nvar otro = [1, 2, 3, 4];\n\nfor (var i = 0; i < otro.length; i++) {\n    var index = 'AN' + (otro[i] - 1);\n    if (typeof Canal.EA[index] != 'undefined') {\n        Funciones.push(Canal.EA[index].Funcion);\n        Minimo.push(Canal.EA[index].Rango_Min);\n        Maximo.push(Canal.EA[index].Rango_Max);\n    }\n    else {\n        Funciones.push('Ninguno');\n        Minimo.push('--');\n        Maximo.push('--');\n    }\n}\nvar data = {};\nmsg.payload = [];\nfor (var j = 0; j < otro.length; j++) {\n    data = {\n        'Canales': otro[j],\n        'Funciones': Funciones[j],\n        'Minimos': Minimo[j],\n        'Maximos': Maximo[j]\n    }\n    msg.payload.push(data);\n}\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -48896,10 +48879,22 @@
                 "label": "Simulación",
                 "value": "Simulación",
                 "type": "str"
+            },
+            {
+                "label": "Apertura motorizado SDT",
+                "value": "Apertura motorizado SDT",
+                "type": "str"
+            },
+            {
+                "label": "Cierre motorizado SDT",
+                "value": "Cierre motorizado SDT",
+                "type": "str"
             }
         ],
         "payload": "",
         "topic": "",
+        "topicType": "str",
+        "className": "",
         "x": 740,
         "y": 3390,
         "wires": [
@@ -48925,18 +48920,20 @@
         "multiple": false,
         "options": [
             {
-                "label": "Activa en bajo",
+                "label": "NO",
                 "value": "NC",
                 "type": "str"
             },
             {
-                "label": "Activa en alto",
+                "label": "NC",
                 "value": "NO",
                 "type": "str"
             }
         ],
         "payload": "",
         "topic": "",
+        "topicType": "str",
+        "className": "",
         "x": 720,
         "y": 3440,
         "wires": [
@@ -49054,48 +49051,50 @@
         "multiple": false,
         "options": [
             {
-                "label": "32",
+                "label": "1",
                 "value": 32,
                 "type": "num"
             },
             {
-                "label": "33",
+                "label": "2",
                 "value": 33,
                 "type": "num"
             },
             {
-                "label": "34",
+                "label": "3",
                 "value": 34,
                 "type": "num"
             },
             {
-                "label": "35",
+                "label": "4",
                 "value": 35,
                 "type": "num"
             },
             {
-                "label": "36",
+                "label": "5",
                 "value": 36,
                 "type": "num"
             },
             {
-                "label": "37",
+                "label": "6",
                 "value": 37,
                 "type": "num"
             },
             {
-                "label": "38",
+                "label": "7",
                 "value": 38,
                 "type": "num"
             },
             {
-                "label": "39",
+                "label": "8",
                 "value": 39,
                 "type": "num"
             }
         ],
         "payload": "",
         "topic": "",
+        "topicType": "str",
+        "className": "",
         "x": 750,
         "y": 3340,
         "wires": [
@@ -49216,11 +49215,12 @@
         "z": "7a89175c.90f6a8",
         "g": "742e267a.cbc27",
         "name": "DO",
-        "func": "var Canal   = flow.get('ES');\nvar IO      = global.get('IO','memoryOnly');\n\nvar Funciones   = [];\nvar TipoIO      = [];\nvar Values      = [];\n\n// Entradas Digitales\nvar otro = [32,33,34,35,36,37,38,39];\n\nfor(var i = 0; i<otro.length; i++){\n    var index= 'Canal'+otro[i];\n    if(typeof Canal.SD[index] != 'undefined'){\n        Funciones.push(Canal.SD[index].Funcion);\n        TipoIO.push(Canal.SD[index].Tipo);\n\n    }\n    else{\n        Funciones.push('Ninguno');\n        TipoIO.push('--');\n    }\n}\nvar data    = {};\nmsg.payload   = [];\nfor(var j = 0; j<otro.length; j++){\n    if (TipoIO[j] == 'NC') { TipoIO[j]='Act. Bajo';}\n    else if (TipoIO[j] == 'NO') { TipoIO[j]='Act. Alto';}\n    data = {\n        'Canales': otro[j], \n        'Funciones':Funciones[j],\n        'Tipo': TipoIO[j]\n    }\n    msg.payload.push(data);\n}\nreturn msg;",
+        "func": "var Canal = flow.get('ES');\nvar IO = global.get('IO', 'memoryOnly');\n\nvar Funciones = [];\nvar TipoIO = [];\nvar Values = [];\n\n// Entradas Digitales\nvar otro = [1, 2, 3, 4, 5, 6, 7, 8];\n\nfor (var i = 0; i < otro.length; i++) {\n    var index = 'Canal' + (otro[i] + 31);\n    if (typeof Canal.SD[index] != 'undefined') {\n        Funciones.push(Canal.SD[index].Funcion);\n        TipoIO.push(Canal.SD[index].Tipo);\n\n    }\n    else {\n        Funciones.push('Ninguno');\n        TipoIO.push('--');\n    }\n}\nvar data = {};\nmsg.payload = [];\nfor (var j = 0; j < otro.length; j++) {\n    if (TipoIO[j] == 'NC') { TipoIO[j] = 'Act. Bajo'; }\n    else if (TipoIO[j] == 'NO') { TipoIO[j] = 'Act. Alto'; }\n    data = {\n        'Canales': otro[j],\n        'Funciones': Funciones[j],\n        'Tipo': TipoIO[j]\n    }\n    msg.payload.push(data);\n}\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 780,
         "y": 3650,
         "wires": [
@@ -50642,173 +50642,6 @@
         "wires": []
     },
     {
-        "id": "be76cad1.f1e3b",
-        "type": "inject",
-        "z": "7a89175c.90f6a8",
-        "g": "c3a35f81.5c82b8",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "1",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "30",
-        "topic": "",
-        "payload": "#:(memoryOnly)::ActFunctions",
-        "payloadType": "flow",
-        "x": 2010,
-        "y": 170,
-        "wires": [
-            [
-                "df7735a0.634e88"
-            ]
-        ]
-    },
-    {
-        "id": "df7735a0.634e88",
-        "type": "function",
-        "z": "7a89175c.90f6a8",
-        "d": true,
-        "g": "c3a35f81.5c82b8",
-        "name": "Eventos I/O",
-        "func": "for(var i=0; i<msg.payload.length; i++){\n    if(msg.payload[i].Estado === true){\n        msg.payload = msg.payload[i].Funcion;\n        return msg;\n    }\n}\nmsg.payload = \"\";\nreturn msg;\n",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 2190,
-        "y": 170,
-        "wires": [
-            [
-                "ed46ce54.bd6008"
-            ]
-        ]
-    },
-    {
-        "id": "7be16303.8b0014",
-        "type": "ui_toast",
-        "z": "7a89175c.90f6a8",
-        "g": "c3a35f81.5c82b8",
-        "position": "top right",
-        "displayTime": "3",
-        "highlight": "",
-        "sendall": true,
-        "outputs": 0,
-        "ok": "OK",
-        "cancel": "",
-        "raw": false,
-        "topic": "",
-        "name": "",
-        "x": 2660,
-        "y": 170,
-        "wires": []
-    },
-    {
-        "id": "ed46ce54.bd6008",
-        "type": "rbe",
-        "z": "7a89175c.90f6a8",
-        "g": "c3a35f81.5c82b8",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload",
-        "x": 2330,
-        "y": 170,
-        "wires": [
-            [
-                "f15168f6.b5e92"
-            ]
-        ]
-    },
-    {
-        "id": "f15168f6.b5e92",
-        "type": "switch",
-        "z": "7a89175c.90f6a8",
-        "g": "c3a35f81.5c82b8",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "nempty"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 2450,
-        "y": 170,
-        "wires": [
-            [
-                "7be16303.8b0014",
-                "bc2fc8ee.76b728"
-            ]
-        ]
-    },
-    {
-        "id": "bc2fc8ee.76b728",
-        "type": "switch",
-        "z": "7a89175c.90f6a8",
-        "g": "c3a35f81.5c82b8",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "cont",
-                "v": "Alarma",
-                "vt": "str"
-            },
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 2620,
-        "y": 230,
-        "wires": [
-            [
-                "d961a2f.f52ad6"
-            ],
-            [
-                "5301b37e.77d264"
-            ]
-        ]
-    },
-    {
-        "id": "5301b37e.77d264",
-        "type": "link out",
-        "z": "7a89175c.90f6a8",
-        "g": "c3a35f81.5c82b8",
-        "name": "",
-        "links": [
-            "59e817c2.295b38"
-        ],
-        "x": 2715,
-        "y": 250,
-        "wires": []
-    },
-    {
-        "id": "d961a2f.f52ad6",
-        "type": "link out",
-        "z": "7a89175c.90f6a8",
-        "g": "c3a35f81.5c82b8",
-        "name": "",
-        "links": [
-            "33f2aa3c.6c08f6"
-        ],
-        "x": 2715,
-        "y": 210,
-        "wires": []
-    },
-    {
         "id": "7e42111d.6ffa3",
         "type": "ui_text",
         "z": "7a89175c.90f6a8",
@@ -50853,7 +50686,7 @@
         "initialize": "",
         "finalize": "",
         "x": 350,
-        "y": 2980,
+        "y": 3020,
         "wires": [
             [
                 "a08074ff.25fb48"
@@ -50872,7 +50705,7 @@
         "initialize": "",
         "finalize": "",
         "x": 350,
-        "y": 3030,
+        "y": 3070,
         "wires": [
             [
                 "ef425222.75e11"
@@ -50891,7 +50724,7 @@
         "initialize": "",
         "finalize": "",
         "x": 350,
-        "y": 3080,
+        "y": 3120,
         "wires": [
             [
                 "ac563b4d.79d9b8"
@@ -50926,7 +50759,7 @@
         "to": "",
         "reg": false,
         "x": 710,
-        "y": 2980,
+        "y": 3020,
         "wires": [
             [
                 "81f602598a6222c1"
@@ -50941,7 +50774,7 @@
         "name": "",
         "env": [],
         "x": 890,
-        "y": 2980,
+        "y": 3020,
         "wires": [
             [],
             []
@@ -50975,7 +50808,7 @@
         "to": "",
         "reg": false,
         "x": 710,
-        "y": 3030,
+        "y": 3070,
         "wires": [
             [
                 "81f602598a6222c1"
@@ -51010,7 +50843,7 @@
         "to": "",
         "reg": false,
         "x": 710,
-        "y": 3080,
+        "y": 3120,
         "wires": [
             [
                 "81f602598a6222c1"
@@ -71240,27 +71073,6 @@
         "wires": []
     },
     {
-        "id": "01a49381c485b1bd",
-        "type": "rbe",
-        "z": "9941a439.4b17c8",
-        "g": "ee5753bdd6eedb72",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "septopics": true,
-        "property": "payload",
-        "topi": "topic",
-        "x": 760,
-        "y": 300,
-        "wires": [
-            [
-                "f82abc70.f86b"
-            ]
-        ]
-    },
-    {
         "id": "ddbe4eddb99064e8",
         "type": "rbe",
         "z": "7a89175c.90f6a8",
@@ -72044,6 +71856,32 @@
             ],
             [
                 "a621b85701bb3f07"
+            ]
+        ]
+    },
+    {
+        "id": "ddc7c55f2c0f73c9",
+        "type": "inject",
+        "z": "9941a439.4b17c8",
+        "g": "ee5753bdd6eedb72",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "2",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 330,
+        "y": 260,
+        "wires": [
+            [
+                "65b175f6.1549bc"
             ]
         ]
     }
