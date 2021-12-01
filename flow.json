@@ -919,6 +919,45 @@
         "color": "#DDAA99"
     },
     {
+        "id": "df521596.125698",
+        "type": "subflow",
+        "name": "Persistence Helper",
+        "info": "",
+        "in": [
+            {
+                "x": 45.5,
+                "y": 85,
+                "wires": [
+                    {
+                        "id": "37028a91.0b1ffe"
+                    }
+                ]
+            }
+        ],
+        "out": [
+            {
+                "x": 749.5,
+                "y": 53,
+                "wires": [
+                    {
+                        "id": "230dfeb6.8ba792",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 755,
+                "y": 169,
+                "wires": [
+                    {
+                        "id": "856afee0.348098",
+                        "port": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "id": "1d0c3cb2.7129f3",
         "type": "group",
         "z": "2e27dea6.c4c362",
@@ -1042,9 +1081,7 @@
             "a6a55c6001e65244"
         ],
         "x": 24,
-        "y": 609,
-        "w": 2632,
-        "h": 552
+        "y": 609
     },
     {
         "id": "3cb51855.a66038",
@@ -1059,9 +1096,7 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169,
-        "w": 232,
-        "h": 82
+        "y": 1169
     },
     {
         "id": "27a0641a.d154dc",
@@ -2046,9 +2081,7 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269,
-        "w": 352,
-        "h": 82
+        "y": 1269
     },
     {
         "id": "6202107f.ed9aa",
@@ -2124,9 +2157,7 @@
             "28f9623a0f710b9d"
         ],
         "x": 44,
-        "y": -1,
-        "w": 1992,
-        "h": 602
+        "y": -1
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -2146,9 +2177,7 @@
             "7a9362a4e974c10e"
         ],
         "x": 3224,
-        "y": 3,
-        "w": 1284,
-        "h": 1554
+        "y": 3
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -2169,9 +2198,7 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169,
-        "w": 782,
-        "h": 182
+        "y": 1169
     },
     {
         "id": "086b9d08c3b68939",
@@ -2201,9 +2228,7 @@
             "43dcdfeaddbb3ac6"
         ],
         "x": 24,
-        "y": 1359,
-        "w": 1022,
-        "h": 292
+        "y": 1359
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -2229,9 +2254,7 @@
             "6e75b5f5657d3a7e"
         ],
         "x": 24,
-        "y": 1679,
-        "w": 1132,
-        "h": 202
+        "y": 1679
     },
     {
         "id": "afdbbb533d628687",
@@ -2247,9 +2270,7 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679,
-        "w": 332,
-        "h": 82
+        "y": 1679
     },
     {
         "id": "ba075c8cc622876a",
@@ -2929,7 +2950,9 @@
             "766cfa87ec44f683"
         ],
         "x": 1394,
-        "y": 89
+        "y": 89,
+        "w": 662,
+        "h": 272
     },
     {
         "id": "f2ce71497366a377",
@@ -3007,7 +3030,98 @@
             "84a9ae90398dbd2d"
         ],
         "x": 34,
-        "y": 393
+        "y": 393,
+        "w": 1988,
+        "h": 848
+    },
+    {
+        "id": "99b24e0896cf0f0c",
+        "type": "group",
+        "z": "a84e803f031d5b6d",
+        "name": "Multi Chart ",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "360dcafc238d706c",
+            "825a31a31582b84f",
+            "c13408918a8f486c",
+            "61c190c7fd4e2816",
+            "f55bcf1b9afa8eaa",
+            "1c4e319074fb108b"
+        ],
+        "x": 74,
+        "y": 59,
+        "w": 532,
+        "h": 142
+    },
+    {
+        "id": "3eef0648b30eb8a8",
+        "type": "group",
+        "z": "a84e803f031d5b6d",
+        "name": "Amperimetrica ",
+        "style": {
+            "fill": "#ffffbf",
+            "label": true
+        },
+        "nodes": [
+            "f19dc115b1968a08",
+            "0bb0170666219efb",
+            "d29005ef0c8cdd95",
+            "2d0504e861301f46",
+            "3ce2e0a3f668f29f"
+        ],
+        "x": 114,
+        "y": 219,
+        "w": 772,
+        "h": 142
+    },
+    {
+        "id": "03502219e91ec6ae",
+        "type": "group",
+        "z": "2e27dea6.c4c362",
+        "name": "Menú Tendencias",
+        "style": {
+            "label": true,
+            "fill": "#7f8faf",
+            "color": "#ffffff"
+        },
+        "nodes": [
+            "69c710341e16f1c8",
+            "2374c015c774bd88",
+            "d102580abfe69cc1",
+            "2b8a14029ac6ca46",
+            "c235801e1e43a816",
+            "f73ead70d8ac40f2",
+            "0e7729f7643eb73e",
+            "0d38acc234ba861f"
+        ],
+        "x": 794,
+        "y": 479
+    },
+    {
+        "id": "ca0533739c948120",
+        "type": "group",
+        "z": "a84e803f031d5b6d",
+        "name": "Gráfica IPR",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "a8255c5d16d754c5",
+            "c3b346abb490ca68",
+            "8d58577795074220",
+            "aaa79c68a4768792",
+            "e1466402c3b6ff75",
+            "610abe9bb034463d",
+            "4cc0a658f4dba598",
+            "f8f18ac4d264c97b"
+        ],
+        "x": 64,
+        "y": 399,
+        "w": 882,
+        "h": 162
     },
     {
         "id": "b079c206d161b62c",
@@ -3032,9 +3146,7 @@
             "8d6f8e22ed531a56"
         ],
         "x": 3434,
-        "y": 29,
-        "w": 492,
-        "h": 402
+        "y": 29
     },
     {
         "id": "f7709059ebe5ad7b",
@@ -3050,9 +3162,7 @@
             "aafad2ba.dcc8b"
         ],
         "x": 3428,
-        "y": 443,
-        "w": 1054,
-        "h": 634
+        "y": 443
     },
     {
         "id": "c483d44b5f6def10",
@@ -3078,9 +3188,7 @@
             "45aad8d3129156ca"
         ],
         "x": 3424,
-        "y": 1089,
-        "w": 472,
-        "h": 442
+        "y": 1089
     },
     {
         "id": "77dcd918.f8c298",
@@ -3816,9 +3924,7 @@
             "1a666ca6835d2d34"
         ],
         "x": 74,
-        "y": 399,
-        "w": 762,
-        "h": 132
+        "y": 399
     },
     {
         "id": "cf985e84.c7693",
@@ -4899,7 +5005,9 @@
             "b3215b121cbfbf66"
         ],
         "x": 1324,
-        "y": 419
+        "y": 419,
+        "w": 672,
+        "h": 202
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -4927,9 +5035,7 @@
             "1f3630da2492d4f9"
         ],
         "x": 3454,
-        "y": 839,
-        "w": 1002,
-        "h": 212
+        "y": 839
     },
     {
         "id": "36fa9c99094e8f47",
@@ -4953,9 +5059,7 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 469,
-        "w": 402,
-        "h": 362
+        "y": 469
     },
     {
         "id": "a80677cf.4274c8",
@@ -5077,9 +5181,13 @@
             "ac5fafb8e9a1c47a",
             "322a4e38e5d36710",
             "8ca4e5b4ca175ad4",
-            "c6631e95.4452d"
+            "c6631e95.4452d",
+            "9a77d8151219104a",
+            "9f324830.9da0c8",
+            "ae172e07.4eb89",
+            "0a4336ec53039171"
         ],
-        "x": 74,
+        "x": 114,
         "y": 249
     },
     {
@@ -6299,13 +6407,13 @@
             },
             "themeState": {
                 "base-color": {
-                    "default": "#4B7930",
+                    "default": "#e6e6e6",
                     "value": "#324a9d",
                     "edited": true
                 },
                 "page-titlebar-backgroundColor": {
                     "value": "#324a9d",
-                    "edited": false
+                    "edited": true
                 },
                 "page-backgroundColor": {
                     "value": "#e7e9e8",
@@ -6333,7 +6441,7 @@
                 },
                 "widget-backgroundColor": {
                     "value": "#324a9d",
-                    "edited": false
+                    "edited": true
                 },
                 "widget-borderColor": {
                     "value": "#e7e9e8",
@@ -6433,7 +6541,7 @@
         "type": "ui_group",
         "name": "Status_Bar",
         "tab": "1ecc5089.33b77f",
-        "order": 11,
+        "order": 10,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -8132,9 +8240,9 @@
     {
         "id": "94e450d3bce1686e",
         "type": "ui_group",
-        "name": "Trends",
+        "name": "Trends_Multi",
         "tab": "f946bef3fe503852",
-        "order": 1,
+        "order": 2,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -8246,6 +8354,136 @@
         "order": 16,
         "width": 2,
         "height": 1
+    },
+    {
+        "id": "0216d7311c6659cd",
+        "type": "ui_group",
+        "name": "Chart1",
+        "tab": "",
+        "order": 1,
+        "disp": true,
+        "width": 14,
+        "collapse": false
+    },
+    {
+        "id": "ed1d5d5f.dc5c58",
+        "type": "ui_group",
+        "name": "Start / Stop",
+        "tab": "f65c9267.a2ce5",
+        "order": 1,
+        "disp": true,
+        "width": "6"
+    },
+    {
+        "id": "1bb2d88d.8be177",
+        "type": "ui_group",
+        "name": "ESP8266 Sensors",
+        "tab": "",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "5c2f5188.6d47f8",
+        "type": "ui_group",
+        "name": "Pie Chart Examples",
+        "tab": "642c5bf0.321384",
+        "order": 2,
+        "disp": true,
+        "width": "12",
+        "collapse": false
+    },
+    {
+        "id": "642c5bf0.321384",
+        "type": "ui_tab",
+        "name": "Chart Examples",
+        "icon": "fa-area-chart",
+        "order": 1
+    },
+    {
+        "id": "da69ae5c8f93d111",
+        "type": "ui_tab",
+        "name": "Node-Red Dashboard",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "a0e246d1b4737443",
+        "type": "ui_group",
+        "name": " Signal-Generator",
+        "tab": "da69ae5c8f93d111",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "feabd600.f71b28",
+        "type": "ui_group",
+        "name": "Default",
+        "tab": "fb98fdb9.b193a",
+        "order": 1,
+        "disp": false,
+        "width": "24",
+        "collapse": false
+    },
+    {
+        "id": "fb98fdb9.b193a",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard"
+    },
+    {
+        "id": "f5471725db0f8d14",
+        "type": "ui_group",
+        "name": "Amperimetrica",
+        "tab": "f946bef3fe503852",
+        "order": 3,
+        "disp": false,
+        "width": "12",
+        "collapse": false
+    },
+    {
+        "id": "f3d0a5e943dad2b3",
+        "type": "ui_group",
+        "name": "NavBar Trent",
+        "tab": "f946bef3fe503852",
+        "order": 1,
+        "disp": false,
+        "width": "12",
+        "collapse": false
+    },
+    {
+        "id": "58d04dfc.842d54",
+        "type": "ui_group",
+        "name": "Gráfica IPR",
+        "tab": "f1008a66.cfa988",
+        "order": 2,
+        "disp": true,
+        "width": "14",
+        "collapse": false
+    },
+    {
+        "id": "f1008a66.cfa988",
+        "type": "ui_tab",
+        "name": "Monitoreo-AVAS-IPR",
+        "icon": "dashboard",
+        "order": 45,
+        "disabled": false,
+        "hidden": false,
+        "info": "# Página 43"
+    },
+    {
+        "id": "df8934f2a1ce6562",
+        "type": "ui_group",
+        "name": "IPR_Trend",
+        "tab": "f946bef3fe503852",
+        "order": 4,
+        "disp": true,
+        "width": "12",
+        "collapse": false
     },
     {
         "id": "8c24ec8f.cf43c",
@@ -13638,6 +13876,13 @@
                 "pt": "global",
                 "to": "true",
                 "tot": "bool"
+            },
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Protections",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
             }
         ],
         "action": "",
@@ -15446,6 +15691,13 @@
                 "pt": "msg",
                 "to": "reset",
                 "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "Stop_VSD",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
             }
         ],
         "action": "",
@@ -15597,11 +15849,11 @@
             "8b72bbb3.5d5a38",
             "47e3f2c89dc80ae1"
         ],
-        "x": 205,
-        "y": 330,
+        "x": 155,
+        "y": 380,
         "wires": [
             [
-                "406ea535.518d9c"
+                "0a4336ec53039171"
             ]
         ]
     },
@@ -15614,8 +15866,8 @@
         "links": [
             "cfde9e34.955e5"
         ],
-        "x": 205,
-        "y": 420,
+        "x": 215,
+        "y": 560,
         "wires": [
             [
                 "67f2d064.1098c"
@@ -15628,7 +15880,7 @@
         "z": "bef159b0eb2cf912",
         "g": "9bdf522.eba6db",
         "name": "Prolonged Reference",
-        "fsmDefinition": "{\"state\":{\"status\":\"E0\"},\"transitions\":{\"E0\":{\"Start\":\"E1\"},\"E1\":{\"Ref Done\":\"E2\",\"Error\":\"E1\"},\"E2\":{\"Ref Reached\":\"E0\",\"Ref Not Reached yet\":\"E1\"}}}",
+        "fsmDefinition": "{\"state\":{\"status\":\"E0\"},\"transitions\":{\"E0\":{\"Start\":\"E1\"},\"E1\":{\"Ref Done\":\"E2\",\"Error\":\"E1\",\"Stop\":\"E0\"},\"E2\":{\"Ref Reached\":\"E0\",\"Ref Not Reached yet\":\"E1\"}}}",
         "sendInitialState": true,
         "sendStateWithoutChange": true,
         "showTransitionErrors": false,
@@ -15668,8 +15920,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 3,
-        "x": 290,
-        "y": 420,
+        "x": 300,
+        "y": 560,
         "wires": [
             [],
             [
@@ -15698,7 +15950,7 @@
         "randomUnits": "seconds",
         "drop": false,
         "x": 580,
-        "y": 380,
+        "y": 520,
         "wires": [
             [
                 "76e5042d.a8799c"
@@ -15716,8 +15968,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 430,
-        "y": 470,
+        "x": 440,
+        "y": 610,
         "wires": [
             [
                 "8b72bbb3.5d5a38",
@@ -15737,7 +15989,7 @@
         "initialize": "",
         "finalize": "",
         "x": 750,
-        "y": 380,
+        "y": 520,
         "wires": [
             [
                 "24beaaedb233cc7c",
@@ -15766,7 +16018,7 @@
         "to": "",
         "reg": false,
         "x": 910,
-        "y": 380,
+        "y": 520,
         "wires": [
             [
                 "6bb7cd2e.159434"
@@ -15796,7 +16048,7 @@
             "51d6f5bd.7b3bac"
         ],
         "x": 1005,
-        "y": 380,
+        "y": 520,
         "wires": []
     },
     {
@@ -15808,8 +16060,8 @@
         "links": [
             "51d6f5bd.7b3bac"
         ],
-        "x": 595,
-        "y": 470,
+        "x": 605,
+        "y": 610,
         "wires": []
     },
     {
@@ -15830,8 +16082,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 650,
-        "y": 550,
+        "x": 660,
+        "y": 690,
         "wires": [
             [
                 "ea102947.4ba5a8",
@@ -15861,8 +16113,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 890,
-        "y": 580,
+        "x": 900,
+        "y": 720,
         "wires": [
             []
         ]
@@ -15932,8 +16184,8 @@
         "onceDelay": 0.1,
         "topic": "reset",
         "payloadType": "str",
-        "x": 170,
-        "y": 370,
+        "x": 230,
+        "y": 340,
         "wires": [
             [
                 "406ea535.518d9c"
@@ -15956,8 +16208,8 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "x": 800,
-        "y": 540,
+        "x": 810,
+        "y": 680,
         "wires": [
             [
                 "307aeb59e0085dd0"
@@ -15974,8 +16226,8 @@
             "ef5411651fcbbcce",
             "3205efce2e9e6943"
         ],
-        "x": 745,
-        "y": 500,
+        "x": 755,
+        "y": 640,
         "wires": []
     },
     {
@@ -15987,8 +16239,8 @@
         "links": [
             "0f2870f227221b2d"
         ],
-        "x": 285,
-        "y": 570,
+        "x": 295,
+        "y": 710,
         "wires": [
             [
                 "db3fdb908ecb466b"
@@ -16054,8 +16306,8 @@
         "g": "9bdf522.eba6db",
         "name": "",
         "env": [],
-        "x": 930,
-        "y": 330,
+        "x": 940,
+        "y": 460,
         "wires": [
             []
         ]
@@ -17031,8 +17283,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 410,
-        "y": 570,
+        "x": 420,
+        "y": 710,
         "wires": [
             [
                 "9f324830.9da0c8"
@@ -17135,8 +17387,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1000,
-        "y": 540,
+        "x": 1010,
+        "y": 680,
         "wires": [
             []
         ]
@@ -17161,8 +17413,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 490,
-        "y": 430,
+        "x": 500,
+        "y": 570,
         "wires": [
             []
         ]
@@ -17192,8 +17444,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 810,
-        "y": 620,
+        "x": 820,
+        "y": 760,
         "wires": [
             [
                 "322a4e38e5d36710"
@@ -17211,8 +17463,8 @@
             "2da816b7.b2be9a",
             "deae04d3b07e573a"
         ],
-        "x": 925,
-        "y": 620,
+        "x": 935,
+        "y": 760,
         "wires": []
     },
     {
@@ -17288,8 +17540,8 @@
             "7f7ba2b6b2295aa8",
             "47e3f2c89dc80ae1"
         ],
-        "x": 875,
-        "y": 480,
+        "x": 885,
+        "y": 620,
         "wires": [
             [
                 "307aeb59e0085dd0"
@@ -17300,6 +17552,7 @@
         "id": "9f324830.9da0c8",
         "type": "change",
         "z": "bef159b0eb2cf912",
+        "g": "9bdf522.eba6db",
         "name": "Tracking Reference",
         "rules": [
             {
@@ -17315,8 +17568,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 410,
-        "y": 620,
+        "x": 400,
+        "y": 780,
         "wires": [
             [
                 "ae172e07.4eb89"
@@ -17327,13 +17580,14 @@
         "id": "ae172e07.4eb89",
         "type": "link out",
         "z": "bef159b0eb2cf912",
+        "g": "9bdf522.eba6db",
         "name": "",
         "links": [
             "7067612a.ef2d",
             "366220da.4ea"
         ],
-        "x": 535,
-        "y": 620,
+        "x": 515,
+        "y": 780,
         "wires": []
     },
     {
@@ -20823,7 +21077,8 @@
         "y": 770,
         "wires": [
             [
-                "4c2d321d.01398c"
+                "4c2d321d.01398c",
+                "576cb12908cdc619"
             ]
         ]
     },
@@ -26898,7 +27153,8 @@
         "links": [
             "c8b332bad477e957",
             "37e10dd1.2d4812",
-            "d84564ddc8ed83bf"
+            "d84564ddc8ed83bf",
+            "7b3b61fdbec47ffc"
         ],
         "x": 1045,
         "y": 1660,
@@ -32869,7 +33125,9 @@
             "6b3d4586f5261369",
             "eb0d147d1d43c8ac",
             "ee04fb23cd98f8de",
-            "99ae975a33b3d452"
+            "99ae975a33b3d452",
+            "6b495075ed9f6eae",
+            "0e7729f7643eb73e"
         ],
         "x": 525,
         "y": 60,
@@ -32912,7 +33170,8 @@
             "c48498c4.de5a68",
             "a4d48e9d.89b09",
             "8fb979f10c31390f",
-            "b141244ac7f126bb"
+            "b141244ac7f126bb",
+            "0d38acc234ba861f"
         ],
         "x": 985,
         "y": 60,
@@ -38227,7 +38486,8 @@
             "61e7fdf2ae5b9c9e",
             "376f5c48cd8fe028",
             "8298f2d2.50093",
-            "2437732b.dd79cc"
+            "2437732b.dd79cc",
+            "610abe9bb034463d"
         ],
         "x": 335,
         "y": 320,
@@ -38279,7 +38539,10 @@
             "fd328934.0ddd18",
             "ffb8c84.3759b38",
             "3ce715046fc9e875",
-            "11a5dcd.037cc23"
+            "11a5dcd.037cc23",
+            "0d38acc234ba861f",
+            "eeb74e26.02437",
+            "c3b346abb490ca68"
         ],
         "x": 335,
         "y": 450,
@@ -38313,7 +38576,9 @@
             "1b6d3ebacefe3d37",
             "f95e46ccd8ac066d",
             "3cbd8b298714a327",
-            "bbac1abcf840bd8f"
+            "bbac1abcf840bd8f",
+            "6b495075ed9f6eae",
+            "0e7729f7643eb73e"
         ],
         "x": 95,
         "y": 450,
@@ -38821,7 +39086,7 @@
         "initialize": "",
         "finalize": "",
         "x": 430,
-        "y": 380,
+        "y": 520,
         "wires": [
             [
                 "825a8d81.e5826"
@@ -74761,11 +75026,12 @@
         "type": "function",
         "z": "4cb9744f548ca642",
         "name": "habilitarBotonesSDT",
-        "func": "var estadoMotorizado = flow.get(\"estadoMotorizado\",\"memoryOnly\")||0;\nvar estadoMotorizado = flow.get(\"estadoMotorizado\",\"memoryOnly\")||0;\nvar CloseSDT = flow.get(\"CloseSDT\",\"memoryOnly\")||0;\nif(estadoMotorizado != \"Estado falla\"&&CloseSDT == true){\n    msg.enabled = true;\n}else{\n    msg.enabled = false;\n}\nreturn msg;",
+        "func": "var estadoMotorizado = flow.get(\"estadoMotorizado\",\"memoryOnly\")||0;\nvar estadoMotorizado = flow.get(\"estadoMotorizado\",\"memoryOnly\")||0;\nvar CloseSDT = flow.get(\"CloseSDT\",\"memoryOnly\")||0;\nvar R_start = flow.get(\"Reset.Start\")||0;\nif(estadoMotorizado != \"Estado falla\" && R_start==0){\n    \n    msg.enabled = (CloseSDT==false)?false:true;\n\n}\nelse{\n    msg.enabled = false;\n    flow.set(\"Reset.Start\",1);\n}\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 340,
         "y": 180,
         "wires": [
@@ -74779,11 +75045,12 @@
         "type": "function",
         "z": "4cb9744f548ca642",
         "name": "habilitarBotonesSDT",
-        "func": "var estadoMotorizado = flow.get(\"estadoMotorizado\",\"memoryOnly\")||0;\nvar OpenSDT = flow.get(\"OpenSDT\",\"memoryOnly\")||0;\nif(estadoMotorizado != \"Estado falla\"&&OpenSDT == true){\n    msg.enabled = true;\n}else{\n    msg.enabled = false;\n}\nreturn msg;",
+        "func": "var estadoMotorizado = flow.get(\"estadoMotorizado\",\"memoryOnly\")||0;\nvar OpenSDT = flow.get(\"OpenSDT\",\"memoryOnly\")||0;\nvar R_stop  = flow.get(\"Reset.Stop\")||0;\n\nif(estadoMotorizado != \"Estado falla\" && R_stop==0){\n\n    msg.enabled = (OpenSDT == false) ? false : true;\n\n}\n\nelse{\n\n    msg.enabled = false;\n    flow.set(\"Reset.Stop\", 1);\n\n}\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 340,
         "y": 220,
         "wires": [
@@ -74797,7 +75064,7 @@
         "type": "function",
         "z": "4cb9744f548ca642",
         "name": "Disparo por bajo nivel de aceite SDT",
-        "func": "var IOdata = global.get(\"IO\",\"memoryOnly\")||0;\nvar data = Object.values(IOdata.Functions.DI);\nvar tipoEntrada =  Object.keys(IOdata.Functions.DI);\ncontext.set(\"IOData\",IOdata,\"memoryOnly\");\ncontext.set(\"data\", data,\"memoryOnly\");\ncontext.set(\"tipoEntrada\", tipoEntrada,\"memoryOnly\");\ncontext.set(\"tamaño\", tipoEntrada.length,\"memoryOnly\");\n\nif(tipoEntrada.length>0){//si esta configurada la entrada\n    for (let i = 0; i < tipoEntrada.length; i++) {\n        if (tipoEntrada[i] == \"Disparo bajo bajo nivel de aceite SDT\"){\n            msg.payload = data[i];\n            if(msg.payload == true){\n                node.status({ fill: \"green\", shape: \"dot\", text: msg.payload });\n            }else{\n                node.status({ fill: \"red\", shape: \"dot\", text: msg.payload });\n            }\n            break;\n        }else{\n            msg.payload = \"noConfigurado\";\n            node.status({ fill: \"blue\", shape: \"dot\", text: msg.payload });\n        }\n    }\n}else{\n    msg.payload = \"noConfigurado\";\n    node.status({ fill: \"blue\", shape: \"dot\", text: msg.payload });\n}\n// visualizacion del estado\n\nreturn msg;",
+        "func": "var IOdata = global.get(\"IO\", \"memoryOnly\") || 0;\nvar data = Object.values(IOdata.Functions.DI);\nvar tipoEntrada = Object.keys(IOdata.Functions.DI);\nif (data.length > 0) {\n    for (var i = 0; i < data.length; i++) {\n        if (tipoEntrada[i] == \"Disparo bajo bajo nivel de aceite SDT\") {\n            msg.payload = data[i];\n            //terminar secuencia for\n            flow.set(\"bajoNivelAceiteSDT\", data[i], \"memoryOnly\");\n            break;\n        } else {\n            msg.payload = \"NoDefinido\";\n        }\n    }\n} else {\n    msg.payload = \"NoDefinido\";\n}\n//variables contexto para visualizar las variables\ncontext.set(\"IOdata\", IOdata, \"memoryOnly\");\ncontext.set(\"data\", data, \"memoryOnly\");\ncontext.set(\"tipoEntrada\", tipoEntrada, \"memoryOnly\");\ncontext.set(\"tamañoVector\", data.length, \"memoryOnly\");\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -74816,7 +75083,7 @@
         "type": "function",
         "z": "4cb9744f548ca642",
         "name": "Disparto alta temperatura SDT",
-        "func": "var IOdata = global.get(\"IO\", \"memoryOnly\") || 0;\nvar data = Object.values(IOdata.Functions.DI);\nvar tipoEntrada = Object.keys(IOdata.Functions.DI);\ncontext.set(\"IOData\", IOdata, \"memoryOnly\");\ncontext.set(\"data\", data, \"memoryOnly\");\ncontext.set(\"tipoEntrada\", tipoEntrada, \"memoryOnly\");\ncontext.set(\"tamaño\", tipoEntrada.length, \"memoryOnly\");\n\nif (tipoEntrada.length > 0) {//si esta configurada la entrada\n    for (let i = 0; i < tipoEntrada.length; i++) {\n        if (tipoEntrada[i] == \"Disparo alta temperatura SDT\") {\n            msg.payload = data[i];\n            if (msg.payload == true) {\n                node.status({ fill: \"green\", shape: \"dot\", text: msg.payload });\n            } else {\n                node.status({ fill: \"red\", shape: \"dot\", text: msg.payload });\n            }\n            break;\n        } else {\n            msg.payload = \"noConfigurado\";\n            node.status({ fill: \"blue\", shape: \"dot\", text: msg.payload });\n        }\n    }\n} else {\n    msg.payload = \"noConfigurado\";\n    node.status({ fill: \"blue\", shape: \"dot\", text: msg.payload });\n}\n// visualizacion del estado\n\nreturn msg;",
+        "func": "var IOdata = global.get(\"IO\", \"memoryOnly\") || 0;\nvar data = Object.values(IOdata.Functions.DI);\nvar tipoEntrada = Object.keys(IOdata.Functions.DI);\nif (data.length > 0) {\n    for (var i = 0; i < data.length; i++) {\n        if (tipoEntrada[i] == \"Disparo alta temperatura SDT\") {\n            msg.payload = data[i];\n            //terminar secuencia for\n            flow.set(\"DisparoAltaTemperaturaSDT\", data[i], \"memoryOnly\");\n            break;\n        } else {\n            msg.payload = \"NoDefinido\";\n        }\n    }\n} else {\n    msg.payload = \"NoDefinido\";\n}\n//variables contexto para visualizar las variables\ncontext.set(\"IOdata\", IOdata, \"memoryOnly\");\ncontext.set(\"data\", data, \"memoryOnly\");\ncontext.set(\"tipoEntrada\", tipoEntrada, \"memoryOnly\");\ncontext.set(\"tamañoVector\", data.length, \"memoryOnly\");\ncontext.set(\"mensaje\", msg.payload, \"memoryOnly\");\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -74835,7 +75102,7 @@
         "type": "function",
         "z": "4cb9744f548ca642",
         "name": "Disparo valvula de sobrepresión SDT",
-        "func": "var IOdata = global.get(\"IO\", \"memoryOnly\") || 0;\nvar data = Object.values(IOdata.Functions.DI);\nvar tipoEntrada = Object.keys(IOdata.Functions.DI);\ncontext.set(\"IOData\", IOdata, \"memoryOnly\");\ncontext.set(\"data\", data, \"memoryOnly\");\ncontext.set(\"tipoEntrada\", tipoEntrada, \"memoryOnly\");\ncontext.set(\"tamaño\", tipoEntrada.length, \"memoryOnly\");\n\nif (tipoEntrada.length > 0) {//si esta configurada la entrada\n    for (let i = 0; i < tipoEntrada.length; i++) {\n        if (tipoEntrada[i] == \"Disparo Valvula sobrepresión SDT\") {\n            msg.payload = data[i];\n            if (msg.payload == true) {\n                node.status({ fill: \"green\", shape: \"dot\", text: msg.payload });\n            } else {\n                node.status({ fill: \"red\", shape: \"dot\", text: msg.payload });\n            }\n            break;\n        } else {\n            msg.payload = \"noConfigurado\";\n            node.status({ fill: \"blue\", shape: \"dot\", text: msg.payload });\n        }\n    }\n} else {\n    msg.payload = \"noConfigurado\";\n    node.status({ fill: \"blue\", shape: \"dot\", text: msg.payload });\n}\n// visualizacion del estado\n\nreturn msg;",
+        "func": "var IOdata = global.get(\"IO\", \"memoryOnly\") || 0;\nvar data = Object.values(IOdata.Functions.DI);\nvar tipoEntrada = Object.keys(IOdata.Functions.DI);\nif (data.length > 0) {\n    for (var i = 0; i < data.length; i++) {\n        if (tipoEntrada[i] == \"Disparo Valvula sobrepresión SDT\") {\n            msg.payload = data[i];\n            //terminar secuencia for\n            flow.set(\"ValvulaSobrepresionSDT\", data[i], \"memoryOnly\");\n            break;\n        } else {\n            msg.payload = \"NoDefinido\";\n        }\n    }\n} else {\n    msg.payload = \"NoDefinido\";\n}\n//variables contexto para visualizar las variables\ncontext.set(\"IOdata\", IOdata, \"memoryOnly\");\ncontext.set(\"data\", data, \"memoryOnly\");\ncontext.set(\"tipoEntrada\", tipoEntrada, \"memoryOnly\");\ncontext.set(\"tamañoVector\", data.length, \"memoryOnly\");\ncontext.set(\"mensaje\", msg.payload, \"memoryOnly\");\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -74854,7 +75121,7 @@
         "type": "function",
         "z": "4cb9744f548ca642",
         "name": "showEstadoMotorizado",
-        "func": "var IOdata = global.get(\"IO\", \"memoryOnly\") || 0;\nvar data = Object.values(IOdata.Functions.DI);\nvar tipoEntrada = Object.keys(IOdata.Functions.DI);\ncontext.set(\"IOData\", IOdata, \"memoryOnly\");\ncontext.set(\"data\", data, \"memoryOnly\");\ncontext.set(\"tipoEntrada\", tipoEntrada, \"memoryOnly\");\ncontext.set(\"tamaño\", tipoEntrada.length, \"memoryOnly\");\n\nif (tipoEntrada.length > 0) {//si esta configurada la entrada\n    for (let i = 0; i < tipoEntrada.length; i++) {\n        if (tipoEntrada[i] == \"Estado motorizado SDT\") {\n            msg.payload = data[i];\n            if (msg.payload == true) {\n                node.status({ fill: \"green\", shape: \"dot\", text: msg.payload });\n            } else {\n                node.status({ fill: \"red\", shape: \"dot\", text: msg.payload });\n            }\n            break;\n        } else {\n            msg.payload = \"noConfigurado\";\n            node.status({ fill: \"blue\", shape: \"dot\", text: msg.payload });\n        }\n    }\n} else {\n    msg.payload = \"noConfigurado\";\n    node.status({ fill: \"blue\", shape: \"dot\", text: msg.payload });\n}\n// visualizacion del estado\n\nreturn msg;",
+        "func": "var IOdata = global.get(\"IO\", \"memoryOnly\") || 0;\nvar ValvulaSobrepresionSDT = flow.get(\"ValvulaSobrepresionSDT\", \"memoryOnly\") || 0;\nvar bajoNivelAceiteSDT = flow.get(\"bajoNivelAceiteSDT\", \"memoryOnly\") || 0;\nvar DisparoAltaTemperaturaSDT = flow.get(\"DisparoAltaTemperaturaSDT\", \"memoryOnly\") || 0;\nvar flagfallaSDT = flow.get(\"flagfallaSDT\") || 0;\nvar data = Object.values(IOdata.Functions.DI);\nvar tipoEntrada = Object.keys(IOdata.Functions.DI);\nif (flagfallaSDT == true) {\n    msg.payload = \"Estado falla\";\n} else {\n    if (data.length > 0) {\n        for (var i = 0; i < data.length; i++) {\n            if ((ValvulaSobrepresionSDT == true) || (bajoNivelAceiteSDT == true) || (DisparoAltaTemperaturaSDT == true)) {\n                //true o false de entrada digital\n                msg.payload = \"Estado falla\";\n                break;\n            } else if (tipoEntrada[i] == \"Estado motorizado SDT\") {\n                msg.payload = data[i];\n                break;\n            }\n            else {\n                //msg.payload = \"NoDefinido\";\n            }\n        }\n    }\n    else {\n        msg.payload = \"NoDefinido\";\n    }\n}\n//variables de flujo a utilizar\nflow.set(\"estadoMotorizado\", msg.payload, \"memoryOnly\");\n\n\n//variables contexto para visualizar las variables\ncontext.set(\"IOdata\", IOdata, \"memoryOnly\");\ncontext.set(\"data\", data, \"memoryOnly\");\ncontext.set(\"tipoEntrada\", tipoEntrada, \"memoryOnly\");\ncontext.set(\"tamañoVector\", data.length, \"memoryOnly\");\ncontext.set(\"mensaje\", msg.payload, \"memoryOnly\");\ncontext.set(\"ValvulaSobrepresionSDT\", ValvulaSobrepresionSDT, \"memoryOnly\");\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -74864,7 +75131,8 @@
         "y": 420,
         "wires": [
             [
-                "2a03014fd8858162"
+                "2a03014fd8858162",
+                "f2151941f294ab0a"
             ]
         ]
     },
@@ -74913,7 +75181,7 @@
         "type": "function",
         "z": "4cb9744f548ca642",
         "name": "setCierreSDTFoult",
-        "func": "var CloseSDT = false;\nvar flagfallaSDT = flow.get(\"flagfallaSDT\") || false;\ncontext.set(\"flagfallaSDT\", flagfallaSDT,\"memoryOnly\");\nif(flagfallaSDT == true){\n    global.set(\"IO.Functions.DO['Cierre motorizado SDT']\",CloseSDT,'memoryOnly');\n    return msg;\n}\n\n",
+        "func": "var CloseSDT = false;\nvar flagfallaSDT = flow.get(\"flagfallaSDT\") || false;\ncontext.set(\"flagfallaSDT\", flagfallaSDT, \"memoryOnly\");\nif (flagfallaSDT == true) {\n    global.set(\"IO.Functions.DO['Cierre motorizado SDT']\", CloseSDT, 'memoryOnly');\n    return msg;\n}\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -75151,6 +75419,20 @@
                 "pt": "flow",
                 "to": "true",
                 "tot": "bool"
+            },
+            {
+                "t": "set",
+                "p": "Reset.Stop",
+                "pt": "flow",
+                "to": "0",
+                "tot": "num"
+            },
+            {
+                "t": "set",
+                "p": "Reset.Start",
+                "pt": "flow",
+                "to": "0",
+                "tot": "num"
             }
         ],
         "action": "",
@@ -75355,7 +75637,7 @@
             },
             {
                 "color": "#0000ff",
-                "value": "noConfigurado",
+                "value": "NoDefinido",
                 "valueType": "str"
             }
         ],
@@ -75388,6 +75670,11 @@
                 "color": "#008000",
                 "value": "false",
                 "valueType": "bool"
+            },
+            {
+                "color": "#0000ff",
+                "value": "NoDefinido",
+                "valueType": "str"
             }
         ],
         "allowColorForValueInMessage": false,
@@ -75419,6 +75706,11 @@
                 "color": "#008000",
                 "value": "false",
                 "valueType": "bool"
+            },
+            {
+                "color": "#008000",
+                "value": "NoDefinido",
+                "valueType": "str"
             }
         ],
         "allowColorForValueInMessage": false,
@@ -75450,6 +75742,16 @@
                 "color": "#008000",
                 "value": "false",
                 "valueType": "bool"
+            },
+            {
+                "color": "#ffff00",
+                "value": "Estado falla",
+                "valueType": "str"
+            },
+            {
+                "color": "#0000ff",
+                "value": "NoDefinido",
+                "valueType": "str"
             }
         ],
         "allowColorForValueInMessage": false,
@@ -76240,7 +76542,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"show\":[ \"Principal_Menu_Bar\",\t                \"Principal_Control_SDT\",\t                \"Principal_Status_Bar\"\t       ],\t       \"hide\":[ \"Principal_C2S_Data\",\t                \"Principal_Downhole_Data\",\t                \"Principal_Commando_Arranque_Normal\",\t                \"Principal_Commando_Arranque_Escalonado\",\t                \"Principal_Commando_Referencia_Prolongada\",\t                \"Principal_comandos_Marcha\"\t       ]\t   }\t}",
+                "to": "{\t   \"group\":{\t       \"show\":[ \"Principal_Menu_Bar\",\t                \"Principal_Control_SDT\",\t                \"Principal_Status_Bar\"\t       ],\t       \"hide\":[ \"Principal_C2S_Data\",\t                \"Principal_Downhole_Data\",\t                \"Principal_Commando_Arranque_Normal\",\t                \"Principal_Commando_Arranque_Escalonado\",\t                \"Principal_Commando_Referencia_Prolongada\",\t                \"Principal_comandos_Marcha\",\t                \"Principal_Electric_Data\"\t       ]\t   }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -79810,6 +80112,7 @@
         "id": "360dcafc238d706c",
         "type": "inject",
         "z": "a84e803f031d5b6d",
+        "g": "99b24e0896cf0f0c",
         "name": "",
         "props": [
             {
@@ -79826,8 +80129,8 @@
         "onceDelay": 0.1,
         "topic": "",
         "payloadType": "date",
-        "x": 210,
-        "y": 340,
+        "x": 190,
+        "y": 160,
         "wires": [
             [
                 "825a31a31582b84f"
@@ -79838,6 +80141,7 @@
         "id": "825a31a31582b84f",
         "type": "function",
         "z": "a84e803f031d5b6d",
+        "g": "99b24e0896cf0f0c",
         "name": "Trends",
         "func": "var requestTrend = flow.get(\"trends\", \"memoryOnly\") || {};\nvar C2S = global.get(\"C2S\", \"memoryOnly\") || {};\nvar time = msg.payload;\n\nvar datos = context.get(\"trend\", \"memoryOnly\") || null;\n\nif (datos == null) {\n    datos = {   //Datos de suministro de agua\n        'Output_Frequency': [{ \"x\": time, \"y\": C2S.Implicit.Output_Frequency || 0 }],\n        'Output_Current': [{ \"x\": time, \"y\": C2S.Implicit.Output_Current || 0 }],\n        \n    };\n}\nelse {\n    if (datos.Output_Frequency.length > 59) {\n        datos.Output_Frequency.shift();\n        datos.Output_Current.shift();\n        \n    }\n\n\n    datos.Output_Frequency.push({ \"x\": time, \"y\": C2S.Implicit.Output_Frequency || 0 });\n    datos.Output_Current.push({ \"x\": time, \"y\": C2S.Implicit.Output_Current || 0 });\n   \n}\n\ncontext.set(\"trend\", datos, \"memoryOnly\");\n\nvar series = [];\n\nif (requestTrend.Output_Frequency == true) series.push(\"Frequency (Hz)\");\nif (requestTrend.Output_Current == true) series.push(\"Current (A)\");\n\n\n\nvar data = [];\n\nif (requestTrend.Output_Frequency == true) data.push(datos.Output_Frequency);\nif (requestTrend.Output_Current == true) data.push(datos.Output_Current);\n\nvar chart = [{\n    \"series\": series,\n    \"data\": data,\n    \"labels\": [\"\"]\n}];\n\nif (data.length != 0)\n    msg.payload = chart;\nelse\n    msg.payload = [];\n\nreturn msg;",
         "outputs": 1,
@@ -79845,8 +80149,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 360,
-        "y": 340,
+        "x": 330,
+        "y": 160,
         "wires": [
             [
                 "c13408918a8f486c"
@@ -79857,6 +80161,7 @@
         "id": "c13408918a8f486c",
         "type": "ui_chart",
         "z": "a84e803f031d5b6d",
+        "g": "99b24e0896cf0f0c",
         "name": "",
         "group": "94e450d3bce1686e",
         "order": 2,
@@ -79889,8 +80194,8 @@
             "#8ad098"
         ],
         "outputs": 1,
-        "x": 500,
-        "y": 340,
+        "x": 470,
+        "y": 160,
         "wires": [
             []
         ]
@@ -79899,6 +80204,7 @@
         "id": "61c190c7fd4e2816",
         "type": "ui_dropdown",
         "z": "a84e803f031d5b6d",
+        "g": "99b24e0896cf0f0c",
         "name": "",
         "label": "",
         "tooltip": "",
@@ -79955,6 +80261,7 @@
         "id": "f55bcf1b9afa8eaa",
         "type": "change",
         "z": "a84e803f031d5b6d",
+        "g": "99b24e0896cf0f0c",
         "name": "",
         "rules": [
             {
@@ -79970,7 +80277,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 520,
+        "x": 500,
         "y": 100,
         "wires": [
             []
@@ -79980,6 +80287,7 @@
         "id": "1c4e319074fb108b",
         "type": "function",
         "z": "a84e803f031d5b6d",
+        "g": "99b24e0896cf0f0c",
         "name": "request",
         "func": "var i,request={};\nfor (i = 0; i < msg.payload.length ;i++){\n    if (msg.payload[i] == \"Output_Frequency\") request.Output_Frequency=true;\n    if (msg.payload[i] == \"Output_Current\") request.Output_Current=true;\n    if (msg.payload[i] == \"Bus_DC_Volts\") request.Bus_DC_Volts = true;\n    if (msg.payload[i] == \"Power_Factor\") request.Power_Factor = true;\n    if (msg.payload[i] == \"Output_Power\") request.Output_Power = true;\n    if (msg.payload[i] == \"Output_Voltage\") request.Output_Voltage = true;\n\n\n}\nmsg.payload = request;\nreturn msg;",
         "outputs": 1,
@@ -83996,6 +84304,743 @@
             [
                 "855da641f72134a2"
             ]
+        ]
+    },
+    {
+        "id": "230dfeb6.8ba792",
+        "type": "change",
+        "z": "df521596.125698",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "action",
+                "pt": "msg",
+                "to": "restore",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 589.5,
+        "y": 53,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "37028a91.0b1ffe",
+        "type": "json",
+        "z": "df521596.125698",
+        "name": "",
+        "x": 175.5,
+        "y": 85,
+        "wires": [
+            [
+                "230dfeb6.8ba792"
+            ]
+        ]
+    },
+    {
+        "id": "b78fb72d.ec3d78",
+        "type": "catch",
+        "z": "df521596.125698",
+        "name": "",
+        "scope": [
+            "37028a91.0b1ffe"
+        ],
+        "x": 183.5,
+        "y": 117,
+        "wires": [
+            [
+                "c7f43b1c.b7b5d8"
+            ]
+        ]
+    },
+    {
+        "id": "c7f43b1c.b7b5d8",
+        "type": "change",
+        "z": "df521596.125698",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "[]",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 354.5,
+        "y": 116,
+        "wires": [
+            [
+                "230dfeb6.8ba792"
+            ]
+        ]
+    },
+    {
+        "id": "856afee0.348098",
+        "type": "inject",
+        "z": "df521596.125698",
+        "name": "Trigger restore",
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 618.5,
+        "y": 169,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f19dc115b1968a08",
+        "type": "ui_chart",
+        "z": "a84e803f031d5b6d",
+        "g": "3eef0648b30eb8a8",
+        "name": "",
+        "group": "f5471725db0f8d14",
+        "order": 4,
+        "width": "11",
+        "height": "12",
+        "label": "Amperimetric Chart (A)",
+        "chartType": "radar",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#498500",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "x": 760,
+        "y": 260,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0bb0170666219efb",
+        "type": "inject",
+        "z": "a84e803f031d5b6d",
+        "g": "3eef0648b30eb8a8",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "0.1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payloadType": "date",
+        "x": 230,
+        "y": 280,
+        "wires": [
+            [
+                "3ce2e0a3f668f29f"
+            ]
+        ]
+    },
+    {
+        "id": "f965a78a34dbf850",
+        "type": "ui_template",
+        "z": "a84e803f031d5b6d",
+        "group": "feabd600.f71b28",
+        "name": "Logo / Clock",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "format": "<script id=\"clockScript1\" type=\"text/javascript\">\n    var clockInterval;\n    $(function () {\n        if (clockInterval) return;\n\n        //add logo\n        var div1 = $('<div/>');\n        var logo = new Image();\n\n        logo.src = 'http://localhost:1880/swcpro-images/hlogo.png'\n        logo.height = 45;\n        div1[0].style.margin = '10px auto';\n\n        div1.append(logo);\n        \n        //add clock\n        var div2 = $('<div/>');\n        var p = $('<p/>');\n\n        div2.append(p);\n        div2[0].style.margin = '5px';\n\n        function displayTime() {\n            p.text(new Date().toLocaleString());\n        }\n        \n        clockInterval = setInterval(displayTime, 1000);\n\n        //add to toolbar when it's available\n        var addToToolbarTimer;\n        \n        function addToToolbar() {\n            var toolbar = $('.md-toolbar-tools');\n            \n            if(!toolbar.length) return;\n            \n            toolbar.append(div1);\n            toolbar.append(div2);\n            clearInterval(addToToolbarTimer);\n        }\n        addToToolbarTimer = setInterval(addToToolbar, 100);\n    });\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": false,
+        "templateScope": "global",
+        "x": 430,
+        "y": 620,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9a77d8151219104a",
+        "type": "switch",
+        "z": "bef159b0eb2cf912",
+        "g": "9bdf522.eba6db",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 250,
+        "y": 660,
+        "wires": [
+            [],
+            []
+        ]
+    },
+    {
+        "id": "69c710341e16f1c8",
+        "type": "switch",
+        "z": "2e27dea6.c4c362",
+        "g": "03502219e91ec6ae",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Trends_Multi",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Amperimetrica",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "IPR",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 3,
+        "x": 1050,
+        "y": 580,
+        "wires": [
+            [
+                "d102580abfe69cc1"
+            ],
+            [
+                "2b8a14029ac6ca46"
+            ],
+            [
+                "c235801e1e43a816"
+            ]
+        ]
+    },
+    {
+        "id": "2374c015c774bd88",
+        "type": "ui_template",
+        "z": "2e27dea6.c4c362",
+        "g": "03502219e91ec6ae",
+        "group": "f3d0a5e943dad2b3",
+        "name": "Menu Trents",
+        "order": 1,
+        "width": 12,
+        "height": 1,
+        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n\n</head>\n\n<body>\n    <!-- Navigation bar -->\n    <nav>\n        <div class=\"nav nav-pills nav-fill\" id=\"nav-tab\" role=\"tablist\">\n            <a class=\"nav-item nav-link active\" id=\"nav-Trends_Multi-tab\" data-toggle=\"tab\"\n                href=\"#nav-Trends_Multi\" role=\"tab\" aria-controls=\"nav-Trends_Multi\" aria-selected=\"true\"\n                ng-click=\"send({payload:Trends_Multi()})\">Tendencias.</a>\n            <a class=\"nav-item nav-link\" id=\"nav-Amperimetrica-tab\" data-toggle=\"tab\"\n                href=\"#nav-Amperimetrica\" role=\"tab\" aria-controls=\"nav-Amperimetrica\" aria-selected=\"false\"\n                ng-click=\"send({payload:Amperimetrica()})\">Amperimetrica.</a>\n            <a class=\"nav-item nav-link\" id=\"nav-IPR-tab\" data-toggle=\"tab\" href=\"#nav-IPR\"\n                role=\"tab\" aria-controls=\"nav-IPR\" aria-selected=\"false\"\n                ng-click=\"send({payload:IPR()})\">IPR.</a>\n        </div>\n    </nav>\n\n    <script>\n        this.scope.Trends_Multi = function() { return \"Trends_Multi\"; };\n        this.scope.Amperimetrica = function() { return \"Amperimetrica\"; };\n        this.scope.IPR = function() { return \"IPR\"; };\n    </script>\n\n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n</body>\n\n</html>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 890,
+        "y": 580,
+        "wires": [
+            [
+                "69c710341e16f1c8"
+            ]
+        ]
+    },
+    {
+        "id": "d102580abfe69cc1",
+        "type": "change",
+        "z": "2e27dea6.c4c362",
+        "g": "03502219e91ec6ae",
+        "name": "Trends_Multi",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Trends_Amperimetrica\"],\t       \"show\":[ \"Trends_NavBar_Trend\",\t                \"Trends_Trends_Multi\"]\t   }\t}",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1200,
+        "y": 520,
+        "wires": [
+            [
+                "0e7729f7643eb73e"
+            ]
+        ]
+    },
+    {
+        "id": "2b8a14029ac6ca46",
+        "type": "change",
+        "z": "2e27dea6.c4c362",
+        "g": "03502219e91ec6ae",
+        "name": "Entradas analógicas",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Trends_Trends_Multi\"],\t       \"show\":[ \"Trends_NavBar_Trend\",\t                \"Trends_Amperimetrica\"]\t   }\t}",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1230,
+        "y": 560,
+        "wires": [
+            [
+                "0e7729f7643eb73e"
+            ]
+        ]
+    },
+    {
+        "id": "c235801e1e43a816",
+        "type": "change",
+        "z": "2e27dea6.c4c362",
+        "g": "03502219e91ec6ae",
+        "name": "Salidas digitales",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Trends_Trends_Multi\",\t                \"Trends_NavBar_Trend\",\t                \"Trends_Amperimetrica\"],\t       \"show\":[\"\"]\t   }\t}",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1210,
+        "y": 600,
+        "wires": [
+            [
+                "0e7729f7643eb73e"
+            ]
+        ]
+    },
+    {
+        "id": "f73ead70d8ac40f2",
+        "type": "switch",
+        "z": "2e27dea6.c4c362",
+        "g": "03502219e91ec6ae",
+        "name": "",
+        "property": "#:(memoryOnly)::Navegación.Pantalla",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Entradas y Salidas",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 990,
+        "y": 520,
+        "wires": [
+            [
+                "d102580abfe69cc1"
+            ]
+        ]
+    },
+    {
+        "id": "0e7729f7643eb73e",
+        "type": "link out",
+        "z": "2e27dea6.c4c362",
+        "g": "03502219e91ec6ae",
+        "name": "Menú Entradas/Salidas SWCPRO",
+        "links": [
+            "8a17d991.081178",
+            "805762db.d27b7"
+        ],
+        "x": 1395,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "0d38acc234ba861f",
+        "type": "link in",
+        "z": "2e27dea6.c4c362",
+        "g": "03502219e91ec6ae",
+        "name": "Menú Tendencias SWCPRO",
+        "links": [
+            "4372d5a0.d338dc",
+            "97407954.a004c8"
+        ],
+        "x": 875,
+        "y": 520,
+        "wires": [
+            [
+                "f73ead70d8ac40f2"
+            ]
+        ]
+    },
+    {
+        "id": "0a4336ec53039171",
+        "type": "subflow:777220ba7e70bcf9",
+        "z": "bef159b0eb2cf912",
+        "g": "9bdf522.eba6db",
+        "name": "",
+        "x": 280,
+        "y": 380,
+        "wires": [
+            [
+                "406ea535.518d9c"
+            ]
+        ]
+    },
+    {
+        "id": "a8255c5d16d754c5",
+        "type": "ui_template",
+        "z": "a84e803f031d5b6d",
+        "g": "ca0533739c948120",
+        "group": "df8934f2a1ce6562",
+        "name": "",
+        "order": 1,
+        "width": "6",
+        "height": "8",
+        "format": "<div ng-bind-html=\"msg.payload | trusted\"></div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 860,
+        "y": 480,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c3b346abb490ca68",
+        "type": "link in",
+        "z": "a84e803f031d5b6d",
+        "g": "ca0533739c948120",
+        "name": "Grafica IPR Link In",
+        "links": [
+            "97407954.a004c8"
+        ],
+        "x": 105,
+        "y": 480,
+        "wires": [
+            [
+                "8d58577795074220"
+            ]
+        ]
+    },
+    {
+        "id": "8d58577795074220",
+        "type": "switch",
+        "z": "a84e803f031d5b6d",
+        "g": "ca0533739c948120",
+        "name": "Monitoreo-AVAS-IPR",
+        "property": "#:(memoryOnly)::Pantalla",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Menu",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 240,
+        "y": 480,
+        "wires": [
+            [
+                "4cc0a658f4dba598"
+            ]
+        ]
+    },
+    {
+        "id": "aaa79c68a4768792",
+        "type": "inject",
+        "z": "a84e803f031d5b6d",
+        "g": "ca0533739c948120",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 270,
+        "y": 520,
+        "wires": [
+            [
+                "4cc0a658f4dba598"
+            ]
+        ]
+    },
+    {
+        "id": "e1466402c3b6ff75",
+        "type": "template",
+        "z": "a84e803f031d5b6d",
+        "g": "ca0533739c948120",
+        "name": "Bootstrap",
+        "field": "template",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n    \n  </head>\n  <body>\n    <div class=\"disable-select\">\n        <div class=\"container\">\n            <div class=\"row justify-content-center\" style=\"background-color:#fcfcfc;\">\n                <div class=\"co-12\">{{{chart}}}</div>\n            </div>\n        </div>\n    </div>\n  </body>\n  <script src=\"http://localhost:1880/apexcharts/dist/apexcharts.js\"></script>\n  <style>\n    .disable-select {\n        user-select: none; /* supported by Chrome and Opera /\n        -webkit-user-select: none; / Safari /\n       -khtml-user-select: none; / Konqueror HTML /\n       -moz-user-select: none; / Firefox /\n       -ms-user-select: none; / Internet Explorer/Edge */\n    }\n  </style>\n</html>",
+        "output": "str",
+        "x": 720,
+        "y": 480,
+        "wires": [
+            [
+                "a8255c5d16d754c5"
+            ]
+        ]
+    },
+    {
+        "id": "610abe9bb034463d",
+        "type": "link in",
+        "z": "a84e803f031d5b6d",
+        "g": "ca0533739c948120",
+        "name": "Inicio",
+        "links": [
+            "ad87cee4.7dbb5"
+        ],
+        "x": 325,
+        "y": 440,
+        "wires": [
+            [
+                "4cc0a658f4dba598"
+            ]
+        ]
+    },
+    {
+        "id": "4cc0a658f4dba598",
+        "type": "function",
+        "z": "a84e803f031d5b6d",
+        "g": "ca0533739c948120",
+        "name": "",
+        "func": "/* Declaración de datos \nAPI         = 30;   \nPy          = 3000; //psi\nPb          = 1200;  //psi\nPcrit       = 1050; // psi\nPwf_P       = 750;  //psi \nQ_p         = 2300; //BPD\nBSW         = 98;   //%\nT_fluido    = 160;  // °F\nDens_Agua   = 8.33; //ppg \nProf_Intake = 4000; //ft\nProf_Sensor = 4030; //ft\nPMP         = 4500; //FT\nPIP_Sensor  = 750; //psi\nPCasing     = 0;   //psi\n*/\nvar Analog = global.get(\"DownHoleData\",\"memoryOnly\")||[];\n\n// ESTADO MECANICO\nvar PMP             = global.get(\"IWOC.ESTADO_MECANICO.PMP\")||4500;\nvar Prof_Discharge  = global.get(\"IWOC.ESTADO_MECANICO.Profundidad_de_descarga\")||0;\nvar Prof_Sensor     = global.get(\"IWOC.ESTADO_MECANICO.Prof_Sensor\")||4030;\nvar Prof_Intake     = global.get(\"IWOC.ESTADO_MECANICO.Profundidad_de_entrada\")||4000;\n\n// PROPIEDADES DE FLUIDO\nvar API             = global.get(\"IWOC.PROPIEDADES_DE_FLUIDO.API\")||30;\nvar T_fluido        = global.get(\"IWOC.PROPIEDADES_DE_FLUIDO.Temperatura_de_fondo\")||160;\nvar Dens_Agua       = global.get(\"IWOC.PROPIEDADES_DE_FLUIDO.Densidad_del_agua\")||8.33;\n\n// PRUEBA DE PRODUCCION\nvar Pwf_P           = global.get(\"IWOC.PRUEBA_DE_PRODUCCION.PWF_Prueba\")||750;\nvar BSW             = global.get(\"IWOC.PRUEBA_DE_PRODUCCION.BSW_Prueba\")||98;\nvar Q_p             = global.get(\"IWOC.PRUEBA_DE_PRODUCCION.Q_Prueba\")||2300;\nvar Vel_P           = global.get(\"IWOC.PRUEBA_DE_PRODUCCION.Velociad_de_prueba\")||0;\n\n// DATOS PARA IPR\nvar Py              = global.get(\"IWOC.DATOS_PARA_IPR.Presion_de_yacimiento\")||2500;\nvar Pcrit           = global.get(\"IWOC.DATOS_PARA_IPR.PWF_Critica\")||1050;\nvar Pb              = global.get(\"IWOC.DATOS_PARA_IPR.Presion_de_burbuja\")||1200;\n\n//var PIP_Sensor      = Analog.DHS[\"Presión de entrada\"]||Analog.AI[\"Presión de entrada\"];\nvar PIP_Sensor = 750; //psi\n\nvar PCasing         = 0;\n\nnode.status({fill:\"green\",shape:\"dot\",text:PIP_Sensor});\n\nvar AxisX = [];\nvar AxisY = [];\n/\n    Paso No. 1: Se halla Gradiente de Presión corregido por \n    temperatura y %BSW a partir de la Gravedad Específica (GE)\n    del crudo usando gravedad API del crudo.\n/\n\nvar GE = 141.5/(131.5 + API);\n\n/\n    Paso No. 2: Hallar valores de alfa y beta según la gravedad \n    específica (GE) siguiendo lo que indica la tabla abajo:\n/\n\nif(GE<0.63){\n    var Alfa = 0.00097;\n    var Beta = -0.0000004;\n}\nelse if((GE<0.78) && (GE>=0.63)){\n    var Alfa = (0.00097+(GE-0.63))((0.00075-0.00097)/(0.78-0.63));\n    var Beta = (0.0000004 + (GE-0.63))(0.0000004/(0.78-0.63));\n}\nelse if((GE<0.85)&&(GE>=0.78)){\n    var Alfa = (0.00075+(GE-0.75))((0.00068-0.00075)/(0.85-0.78));\n    var Beta = (0 + (GE-0.75))(0.0000001/(0.85-0.78));\n}\nelse if((GE<0.95)&&(GE>=0.85)){\n    var Alfa = (0.00068+(GE-0.85))((0.00066-0.00068)/(0.95-0.85));\n    var Beta = (0.0000001 + (GE-0.85))((0.0000001-0.0000003)/(0.95-0.85));\n}   \nelse if(GE>=0.95){\n    var Alfa = 0.00066;\n    var Beta = -0.0000003;\n}\nvar Grv_TFondo      = GE - (Alfa*(T_fluido-15.556))+(Beta*Math.pow((T_fluido-15.556), 2));\nvar Grv_TFondoBSW   = (((100-BSW)/100)Grv_TFondo) + ((BSW/100)(Dens_Agua/8.345))\n\n/\n    Paso No. 3: Hallar el Gradiente de presión corregido\n/\n\nvar VP = 0.433*Grv_TFondoBSW\n\n/\n    Paso No. 4: Cálculo de PIP en iWOC según tres escenarios\n    \n    •\tEscenario No. 1: Cálculo de Variables en Función del Sensor de Fondo\n\n        Cálculo de PIP, PWF y Sumergencia líquida cuando la Fuente de Medición es un sensor de fondo.\n/\n\nvar PIP_real    = PIP_Sensor + ((Prof_Intake - Prof_Sensor)VP);\nvar Pwf         = PIP_Sensor + ((PMP - Prof_Sensor)*VP);\nvar Sum_Liq     = (PIP_real- PCasing)/ VP;\n\n/\n    Paso No. 5: Cálculo de Caudales\n*/    \n/* Yacimiento Subsaturado*/\nif(Py>Pb){\n    if(Pwf>Pb){\n        var IP = Q_p/(Py-Pwf_P);\n        //node.send()\n    }\n    else{\n        IP = Q_p/(Py - Pb + (Pb/1.8)(1-(0.2(Pwf/Pb))-0.8*(Math.pow((Pwf/Pb),2))))\n    }\n    \n    var Qb      = IP * (Py - Pb);\n    var Qmax    = Qb + (IP*Pb/1.8);\n    var N       = 80;\n    \n    for (var i = 80; i >= 0;i--){\n        var Pwf_G = (Py*i/N);\n        if(Pwf_G>Pb){\n            var Qg = IP (Py- Pwf_G);\n        }\n        else{       \n            Qg = Qb + (Qmax - Qb) * (1 - (0.2 * (Pwf_G / Pb)) - (0.8 * ((Pwf_G / Pb) * (Pwf_G / Pb))));\n        }\n        AxisX.push(Qg);\n        AxisY.push(Pwf_G);\n    }\n    /\n        Cálculo Caudal actual Qo\n    */\n    if(Pwf>Pb){\n        var Q0 = IP *(Py- Pwf);    \n    }\n    else{       \n        var Q0 = Qb + (Qmax - Qb) * (1 - (0.2 * (Pwf / Pb)) - (0.8 * ((Pwf / Pb) * (Pwf / Pb))));\n    }\n}\n\nmsg.payload = {\n    'AxisX' : AxisX,\n    'AxisY' : AxisY,\n    'Pcrit' : Pcrit,\n    'Q0'    : Q0,\n    'Pwf'   : Pwf\n};\n\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 440,
+        "y": 480,
+        "wires": [
+            [
+                "f8f18ac4d264c97b"
+            ]
+        ]
+    },
+    {
+        "id": "f8f18ac4d264c97b",
+        "type": "template",
+        "z": "a84e803f031d5b6d",
+        "g": "ca0533739c948120",
+        "name": "IPR Chart",
+        "field": "chart",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<div id=\"chart\"></div>\n<script>\n    var options = {\n            series:[{\n                name: \"Presión de fondo fluyente (PWF)\",\n                data: [{{payload.AxisY}}]\n            }],\n            chart:{\n                height: 330,\n                width: 720,\n                type: 'line',\n                id: 'areachart-2',\n                toolbar:{\n                    show: false\n                },\n                animations:{\n                    enabled: false\n                }\n            },\n            annotations:{\n                yaxis:[\n                    {\n                        y: {{payload.Pcrit}},\n                        borderColor: '#c71e1e',\n                        label:{\n                            borderColor:'#c71e1e',\n                            position: 'left',\n                            position: 'top',\n                            offsetX: 90,\n                            offsetY: 0,                        \n                            style: {\n                                color:'#fff',\n                                background:'#000000',\n                                fontSize: '14px',\n                            },\n                            text:'Pc: ' + ({{payload.Pcrit}}).toFixed(2) + ' psi',\n                        }\n                    }, \n                    {\n                        y: {{payload.Pwf}},\n                        borderColor: '#c71e1e',\n                        label: {\n                            borderColor: '#c71e1e',\n                            offsetX: 0,\n                            offsetY: 15,\n                            style:{\n                                color: '#fff',\n                                background: '#000000',\n                                fontSize: '14px',\n                            },\n                            text: 'Pwf: ' + ({{payload.Pwf}}).toFixed(2) + ' psi',\n                        }\n                    }\n                ],\n                xaxis:[\n                    {\n                        x: {{payload.Q0}},\n                        strokeDashArray: 0,\n                        borderColor: '#775DD0',\n                        label:{\n                            borderColor: '#775DD0',\n                            style:{\n                                color: '#fff',\n                                background: '#775DD0',\n                                fontSize: '14px',\n                            },\n                            text: 'Caudal: ' + ({{payload.Q0}}).toFixed(0) + ' BPD' \n                        }\n                    }\n                ],\n                points:[{\n                    x: {{payload.Q0}},\n                    y: {{payload.Pwf}},\n                    marker: {\n                        size: 5,\n                        fillColor: '#32499d',\n                        strokeColor: '#2b2b2b',\n                        radius: 2,\n                        cssClass: 'apexcharts-custom-class'\n                    },\n                    label:{\n                        borderColor: '#2b2b2b',\n                        offsetX: -17,\n                        offsetY: 40,                        \n                        style:{\n                            color: '#fff',\n                            background: '#2b2b2b',\n                            fontSize: '14px',\n                        },\n                        text: 'Q'\n                    }\n                }]\n            },\n            tooltip:{\n                enabled: true\n            },\n            dataLabels:{\n                enabled: false\n            },\n            stroke:{\n                curve: 'straight',\n                width: [3]\n            },\n            grid:{\n                padding:{\n                    right: 30,\n                    left: 20\n                }\n            },\n            //title:{\n            //    text: 'Gráfica IPR',\n            //    align: 'center'\n            //},\n            colors: [\"#c71e1e\"],\n            xaxis:{\n                type: 'numeric',\n                show: true,\n                categories: [{{payload.AxisX}}],\n                title:{\n                    text:\"Caudal [BPD]\",\n                    style: {\n                        color: \"#000000\",\n                        fontSize: '14px',\n                        fontFamily: 'Helvetica, Arial, sans-serif',\n                        fontWeight: 600\n                    },\n                }\n            },\n            yaxis:{\n                title: {\n                    text: \"Presión [psi]\",\n                    style: {\n                        color: \"#000000\",\n                        fontSize: '14px',\n                        fontFamily: 'Helvetica, Arial, sans-serif',\n                        fontWeight: 600\n                    },\n                },\n            }            \n    };\n    \n    var chart = new ApexCharts(document.querySelector(\"#chart\"), options);\n    chart.render();\n</script>\n",
+        "output": "str",
+        "x": 580,
+        "y": 480,
+        "wires": [
+            [
+                "e1466402c3b6ff75"
+            ]
+        ]
+    },
+    {
+        "id": "576cb12908cdc619",
+        "type": "debug",
+        "z": "9941a439.4b17c8",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 860,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "d29005ef0c8cdd95",
+        "type": "inject",
+        "z": "a84e803f031d5b6d",
+        "g": "3eef0648b30eb8a8",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payloadType": "date",
+        "x": 230,
+        "y": 320,
+        "wires": [
+            [
+                "2d0504e861301f46"
+            ]
+        ]
+    },
+    {
+        "id": "2d0504e861301f46",
+        "type": "function",
+        "z": "a84e803f031d5b6d",
+        "g": "3eef0648b30eb8a8",
+        "name": "",
+        "func": "var DT = new Date();\n// Time\nvar hours = DT.getHours()*60;\nvar minutes = DT.getMinutes()+hours;\nmsg.payload = Math.round(minutes/5);\nflow.set(\"Amperimetrica.Lst_Start\", msg.payload, \"file\");\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 400,
+        "y": 320,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3ce2e0a3f668f29f",
+        "type": "function",
+        "z": "a84e803f031d5b6d",
+        "g": "3eef0648b30eb8a8",
+        "name": "Fill Pie Chart Array",
+        "func": "var amperimetrica = msg.payload;\nvar size    = 288;\nvar labels  = [];\nvar series  = [];\n\n\nvar datas       = global.get(\"Amperimetrica.datas_pro\") || [];\nvar counter     = global.get(\"Amperimetrica.Lst_Start\") || 0;\nvar c_hora      = global.get(\"c_hora_pro\") || 0;\n\nfor (var i = 0; i < size; i+=1){\n    labels[i]   = \"\";   \n    series[i]   = \"\";\n}\n\nfor (let k = 0; k < size; k += 12) {\n    labels[k] = c_hora + \":00\";\n    var c_hora = (c_hora >= size) ? 0 : c_hora + 1;\n}\n\ndatas[counter]  = amperimetrica;\n\n\nvar l_Data=datas.length;\nvar pie = {\n    \"labels\": labels,\n    \"series\": series,\n    \"data\"  : [datas]\n};\n\nvar counter = (counter >= size) ? 0 : counter+1;\nnode.status({ fill: \"red\", shape: \"ring\", text: counter });\n\nglobal.set(\"Amperimetrica.datas_pro\", datas);\nglobal.set(\"Amperimetrica.Lst_Start\",counter);\nglobal.set(\"Amperimetrica.series_pro\", labels);\n\nmsg.payload = [pie];\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 450,
+        "y": 260,
+        "wires": [
+            [
+                "f19dc115b1968a08"
+            ]
+        ]
+    },
+    {
+        "id": "f2151941f294ab0a",
+        "type": "switch",
+        "z": "4cb9744f548ca642",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Estado falla",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 630,
+        "y": 540,
+        "wires": [
+            [
+                "d8fbb8d18ea5aa8f"
+            ]
+        ]
+    },
+    {
+        "id": "d8fbb8d18ea5aa8f",
+        "type": "change",
+        "z": "4cb9744f548ca642",
+        "name": "saveButtonSDT",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::flagfallaSDT",
+                "pt": "flow",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 790,
+        "y": 540,
+        "wires": [
+            []
         ]
     }
 ]
