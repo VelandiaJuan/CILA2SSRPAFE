@@ -1085,7 +1085,9 @@
             "a6a55c6001e65244"
         ],
         "x": 24,
-        "y": 609
+        "y": 609,
+        "w": 2632,
+        "h": 552
     },
     {
         "id": "3cb51855.a66038",
@@ -1100,7 +1102,9 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169
+        "y": 1169,
+        "w": 232,
+        "h": 82
     },
     {
         "id": "27a0641a.d154dc",
@@ -2102,7 +2106,9 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269
+        "y": 1269,
+        "w": 352,
+        "h": 82
     },
     {
         "id": "6202107f.ed9aa",
@@ -2178,7 +2184,9 @@
             "28f9623a0f710b9d"
         ],
         "x": 44,
-        "y": -1
+        "y": -1,
+        "w": 1992,
+        "h": 602
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -2198,7 +2206,9 @@
             "7a9362a4e974c10e"
         ],
         "x": 3224,
-        "y": 3
+        "y": 3,
+        "w": 1284,
+        "h": 1554
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -2219,7 +2229,9 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169
+        "y": 1169,
+        "w": 782,
+        "h": 182
     },
     {
         "id": "086b9d08c3b68939",
@@ -2250,7 +2262,9 @@
             "5bd4c7b34ec6fe9c"
         ],
         "x": 24,
-        "y": 1359
+        "y": 1359,
+        "w": 1022,
+        "h": 292
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -2276,7 +2290,9 @@
             "6e75b5f5657d3a7e"
         ],
         "x": 24,
-        "y": 1679
+        "y": 1679,
+        "w": 1132,
+        "h": 202
     },
     {
         "id": "afdbbb533d628687",
@@ -2292,7 +2308,9 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679
+        "y": 1679,
+        "w": 332,
+        "h": 82
     },
     {
         "id": "ba075c8cc622876a",
@@ -2469,9 +2487,7 @@
             "22b2f935e069825d"
         ],
         "x": 2398,
-        "y": 133,
-        "w": 1344,
-        "h": 714
+        "y": 133
     },
     {
         "id": "ef342a4a7f2984c3",
@@ -2489,9 +2505,7 @@
             "ce0884f8ad42bd03"
         ],
         "x": 34,
-        "y": 1019,
-        "w": 332,
-        "h": 122
+        "y": 1019
     },
     {
         "id": "c09ce75a93685feb",
@@ -2509,9 +2523,7 @@
             "6ef714d5a2569e8a"
         ],
         "x": 8,
-        "y": 133,
-        "w": 2234,
-        "h": 854
+        "y": 133
     },
     {
         "id": "23a61c692dd8e203",
@@ -2726,9 +2738,7 @@
             "ca1808e9c0cebc54"
         ],
         "x": 52,
-        "y": 1017,
-        "w": 3176,
-        "h": 2556
+        "y": 1017
     },
     {
         "id": "30bf9bf9f58a95d5",
@@ -2745,9 +2755,7 @@
             "043b7d2efd6242c1"
         ],
         "x": 78,
-        "y": 73,
-        "w": 1264,
-        "h": 574
+        "y": 73
     },
     {
         "id": "3d603bc8c80c2124",
@@ -2767,9 +2775,7 @@
             "8f311859e2329cb0"
         ],
         "x": 1364,
-        "y": 369,
-        "w": 902,
-        "h": 82
+        "y": 369
     },
     {
         "id": "4c1b2fd5bfa8819c",
@@ -2785,9 +2791,7 @@
             "af436d3d4e5d33de"
         ],
         "x": 42,
-        "y": 3587,
-        "w": 3010,
-        "h": 1400
+        "y": 3587
     },
     {
         "id": "600556d8bd2ccda4",
@@ -2852,9 +2856,7 @@
             "72c298a02ef42417"
         ],
         "x": 1364,
-        "y": 469,
-        "w": 2342,
-        "h": 532
+        "y": 469
     },
     {
         "id": "a9988da34f9622ff",
@@ -2881,9 +2883,7 @@
             "03552a6ae2d7be66"
         ],
         "x": 1364,
-        "y": 19,
-        "w": 1032,
-        "h": 322
+        "y": 19
     },
     {
         "id": "82fde41a.c6f8d8",
@@ -3088,8 +3088,10 @@
             "f55bcf1b9afa8eaa",
             "1c4e319074fb108b"
         ],
-        "x": 74,
-        "y": 59
+        "x": 34,
+        "y": 59,
+        "w": 592,
+        "h": 142
     },
     {
         "id": "03502219e91ec6ae",
@@ -3136,7 +3138,9 @@
             "f8f18ac4d264c97b"
         ],
         "x": 64,
-        "y": 399
+        "y": 399,
+        "w": 882,
+        "h": 162
     },
     {
         "id": "610861a3f96d22bd",
@@ -3161,7 +3165,9 @@
             "391bfdae0921e15a"
         ],
         "x": 634,
-        "y": 59
+        "y": 59,
+        "w": 672,
+        "h": 222
     },
     {
         "id": "b079c206d161b62c",
@@ -3186,7 +3192,9 @@
             "8d6f8e22ed531a56"
         ],
         "x": 3434,
-        "y": 29
+        "y": 29,
+        "w": 492,
+        "h": 402
     },
     {
         "id": "f7709059ebe5ad7b",
@@ -3202,7 +3210,9 @@
             "aafad2ba.dcc8b"
         ],
         "x": 3428,
-        "y": 443
+        "y": 443,
+        "w": 1054,
+        "h": 634
     },
     {
         "id": "c483d44b5f6def10",
@@ -3228,7 +3238,9 @@
             "45aad8d3129156ca"
         ],
         "x": 3424,
-        "y": 1089
+        "y": 1089,
+        "w": 472,
+        "h": 442
     },
     {
         "id": "77dcd918.f8c298",
@@ -3969,7 +3981,9 @@
             "1a666ca6835d2d34"
         ],
         "x": 74,
-        "y": 399
+        "y": 399,
+        "w": 852,
+        "h": 132
     },
     {
         "id": "cf985e84.c7693",
@@ -4149,9 +4163,7 @@
             "4fb76cafe519048c"
         ],
         "x": 2424,
-        "y": 159,
-        "w": 1292,
-        "h": 532
+        "y": 159
     },
     {
         "id": "22b2f935e069825d",
@@ -4172,9 +4184,7 @@
             "e74da3e6e268b270"
         ],
         "x": 2424,
-        "y": 699,
-        "w": 832,
-        "h": 122
+        "y": 699
     },
     {
         "id": "53bb1752a9e0b623",
@@ -4214,9 +4224,7 @@
             "d0e124dd8c37802a"
         ],
         "x": 64,
-        "y": 159,
-        "w": 2092,
-        "h": 262
+        "y": 159
     },
     {
         "id": "103cd2dbe76e1fc5",
@@ -4240,9 +4248,7 @@
             "2a531a19f520cae6"
         ],
         "x": 64,
-        "y": 429,
-        "w": 952,
-        "h": 132
+        "y": 429
     },
     {
         "id": "6ef714d5a2569e8a",
@@ -4277,9 +4283,7 @@
             "075186ebd79ef2c7"
         ],
         "x": 1044,
-        "y": 439,
-        "w": 1172,
-        "h": 252
+        "y": 439
     },
     {
         "id": "c40108170a37478f",
@@ -4318,9 +4322,7 @@
             "2d8469fec0420fb6"
         ],
         "x": 34,
-        "y": 719,
-        "w": 1672,
-        "h": 242
+        "y": 719
     },
     {
         "id": "4af99851.bcfb28",
@@ -4675,9 +4677,7 @@
             "0d3271d48cdd3dc2"
         ],
         "x": 78,
-        "y": 1053,
-        "w": 1724,
-        "h": 2494
+        "y": 1053
     },
     {
         "id": "ca1808e9c0cebc54",
@@ -4695,9 +4695,7 @@
             "acf6618644660324"
         ],
         "x": 1828,
-        "y": 1043,
-        "w": 1374,
-        "h": 1511.5
+        "y": 1043
     },
     {
         "id": "3305d8d35ba0e514",
@@ -4742,9 +4740,7 @@
             "e913dcf6680dfc81"
         ],
         "x": 104,
-        "y": 99,
-        "w": 1212,
-        "h": 362
+        "y": 99
     },
     {
         "id": "043b7d2efd6242c1",
@@ -4768,9 +4764,7 @@
             "64e79399f67005ea"
         ],
         "x": 104,
-        "y": 469,
-        "w": 1002,
-        "h": 152
+        "y": 469
     },
     {
         "id": "eae7b72d553551bc",
@@ -4787,9 +4781,7 @@
             "7d3d6fba6fb45cf5"
         ],
         "x": 68,
-        "y": 3673,
-        "w": 1284,
-        "h": 739
+        "y": 3673
     },
     {
         "id": "af436d3d4e5d33de",
@@ -4866,9 +4858,7 @@
             "9f7b833ed93f0cc5"
         ],
         "x": 1358,
-        "y": 3613,
-        "w": 1668,
-        "h": 1348
+        "y": 3613
     },
     {
         "id": "b1830307.ee865",
@@ -5107,7 +5097,9 @@
             "1f3630da2492d4f9"
         ],
         "x": 3454,
-        "y": 839
+        "y": 839,
+        "w": 1002,
+        "h": 212
     },
     {
         "id": "36fa9c99094e8f47",
@@ -5131,7 +5123,9 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 469
+        "y": 469,
+        "w": 402,
+        "h": 362
     },
     {
         "id": "a80677cf.4274c8",
@@ -5955,9 +5949,7 @@
             "5da923b060b7d724"
         ],
         "x": 104,
-        "y": 1079,
-        "w": 1242,
-        "h": 862
+        "y": 1079
     },
     {
         "id": "b670eeac81e3a4e1",
@@ -5987,9 +5979,7 @@
             "6b6e6135b877d85a"
         ],
         "x": 124,
-        "y": 3339,
-        "w": 862,
-        "h": 182
+        "y": 3339
     },
     {
         "id": "404043e2f2ac38f5",
@@ -6044,9 +6034,7 @@
             "152f2e6794c7d506"
         ],
         "x": 1854,
-        "y": 1069,
-        "w": 1292,
-        "h": 502
+        "y": 1069
     },
     {
         "id": "acf6618644660324",
@@ -6107,9 +6095,7 @@
             "1db2dfd67adbd3b4"
         ],
         "x": 1884,
-        "y": 1989,
-        "w": 1292,
-        "h": 539.5
+        "y": 1989
     },
     {
         "id": "0d3271d48cdd3dc2",
@@ -6316,9 +6302,7 @@
             "42bb07ced8a868c3"
         ],
         "x": 114,
-        "y": 1959,
-        "w": 1662,
-        "h": 1322
+        "y": 1959
     },
     {
         "id": "7d3d6fba6fb45cf5",
@@ -6381,9 +6365,7 @@
             "abc01cdd43776442"
         ],
         "x": 94,
-        "y": 3699,
-        "w": 1232,
-        "h": 687
+        "y": 3699
     },
     {
         "id": "01d2b2ec2f34b6be",
@@ -6422,9 +6404,7 @@
             "d4e43509215bf215"
         ],
         "x": 1384,
-        "y": 3639,
-        "w": 1232,
-        "h": 322
+        "y": 3639
     },
     {
         "id": "b4a46197db30977b",
@@ -6464,9 +6444,7 @@
             "592f8a1403a12574"
         ],
         "x": 1384,
-        "y": 3959,
-        "w": 722,
-        "h": 442
+        "y": 3959
     },
     {
         "id": "d25d405a.19cff",
@@ -80249,7 +80227,7 @@
         "onceDelay": 0.1,
         "topic": "",
         "payloadType": "date",
-        "x": 190,
+        "x": 150,
         "y": 160,
         "wires": [
             [
@@ -80269,7 +80247,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 330,
+        "x": 290,
         "y": 160,
         "wires": [
             [
@@ -80287,7 +80265,7 @@
         "order": 2,
         "width": "12",
         "height": 10,
-        "label": "Trends",
+        "label": "Tendencias Multivariables",
         "chartType": "line",
         "legend": "true",
         "xformat": "HH:mm:ss",
@@ -80314,7 +80292,7 @@
             "#8ad098"
         ],
         "outputs": 1,
-        "x": 470,
+        "x": 490,
         "y": 160,
         "wires": [
             []
@@ -80369,7 +80347,7 @@
         ],
         "payload": "",
         "topic": "",
-        "x": 180,
+        "x": 140,
         "y": 100,
         "wires": [
             [
@@ -80397,7 +80375,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 500,
+        "x": 460,
         "y": 100,
         "wires": [
             []
@@ -80415,7 +80393,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 340,
+        "x": 300,
         "y": 100,
         "wires": [
             [
@@ -84665,7 +84643,7 @@
         "order": 1,
         "width": 12,
         "height": 1,
-        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n\n</head>\n\n<body>\n    <!-- Navigation bar -->\n    <nav>\n        <div class=\"nav nav-pills nav-fill\" id=\"nav-tab\" role=\"tablist\">\n            <a class=\"nav-item nav-link active\" id=\"nav-Trends_Multi-tab\" data-toggle=\"tab\"\n                href=\"#nav-Trends_Multi\" role=\"tab\" aria-controls=\"nav-Trends_Multi\" aria-selected=\"true\"\n                ng-click=\"send({payload:Trends_Multi()})\">Tendencias.</a>\n            <a class=\"nav-item nav-link\" id=\"nav-Amperimetrica-tab\" data-toggle=\"tab\"\n                href=\"#nav-Amperimetrica\" role=\"tab\" aria-controls=\"nav-Amperimetrica\" aria-selected=\"false\"\n                ng-click=\"send({payload:Amperimetrica()})\">Amperimetrica.</a>\n            <a class=\"nav-item nav-link\" id=\"nav-IPR-tab\" data-toggle=\"tab\" href=\"#nav-IPR\"\n                role=\"tab\" aria-controls=\"nav-IPR\" aria-selected=\"false\"\n                ng-click=\"send({payload:IPR()})\">IPR.</a>\n        </div>\n    </nav>\n\n    <script>\n        this.scope.Trends_Multi = function() { return \"Trends_Multi\"; };\n        this.scope.Amperimetrica = function() { return \"Amperimetrica\"; };\n        this.scope.IPR = function() { return \"IPR\"; };\n    </script>\n\n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n</body>\n\n</html>",
+        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n\n</head>\n\n<body>\n    <!-- Navigation bar -->\n    <nav>\n        <div class=\"nav nav-pills nav-fill\" id=\"nav-tab\" role=\"tablist\">\n            <a class=\"nav-item nav-link active\" id=\"nav-Trends_Multi-tab\" data-toggle=\"tab\"\n                href=\"#nav-Trends_Multi\" role=\"tab\" aria-controls=\"nav-Trends_Multi\" aria-selected=\"true\"\n                ng-click=\"send({payload:Trends_Multi()})\">Tendencias Multivariables</a>\n            <a class=\"nav-item nav-link\" id=\"nav-Amperimetrica-tab\" data-toggle=\"tab\"\n                href=\"#nav-Amperimetrica\" role=\"tab\" aria-controls=\"nav-Amperimetrica\" aria-selected=\"false\"\n                ng-click=\"send({payload:Amperimetrica()})\">Carta Amperimetrica.</a>\n            <a class=\"nav-item nav-link\" id=\"nav-IPR-tab\" data-toggle=\"tab\" href=\"#nav-IPR\"\n                role=\"tab\" aria-controls=\"nav-IPR\" aria-selected=\"false\"\n                ng-click=\"send({payload:IPR()})\">Gráfica IPR</a>\n        </div>\n    </nav>\n\n    <script>\n        this.scope.Trends_Multi = function() { return \"Trends_Multi\"; };\n        this.scope.Amperimetrica = function() { return \"Amperimetrica\"; };\n        this.scope.IPR = function() { return \"IPR\"; };\n    </script>\n\n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n</body>\n\n</html>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
@@ -84683,7 +84661,7 @@
         "type": "change",
         "z": "2e27dea6.c4c362",
         "g": "03502219e91ec6ae",
-        "name": "Trends_Multi",
+        "name": "Tendencias multivariables",
         "rules": [
             {
                 "t": "set",
@@ -84698,7 +84676,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1200,
+        "x": 1240,
         "y": 520,
         "wires": [
             [
@@ -84711,7 +84689,7 @@
         "type": "change",
         "z": "2e27dea6.c4c362",
         "g": "03502219e91ec6ae",
-        "name": "Entradas analógicas",
+        "name": "Carta amperimétrica",
         "rules": [
             {
                 "t": "set",
