@@ -1283,9 +1283,7 @@
             "4dc2e0cc6857b0e1"
         ],
         "x": 24,
-        "y": 289,
-        "w": 2762,
-        "h": 279.5
+        "y": 289
     },
     {
         "id": "deaa6892.b3d988",
@@ -1301,9 +1299,7 @@
             "b1830307.ee865"
         ],
         "x": 8,
-        "y": 13,
-        "w": 1860,
-        "h": 244
+        "y": 13
     },
     {
         "id": "1dd5b051.a95e6",
@@ -1374,9 +1370,7 @@
             "70b2c288.8683bc"
         ],
         "x": 14,
-        "y": 589,
-        "w": 2012,
-        "h": 442
+        "y": 589
     },
     {
         "id": "f7ed166d.1aa528",
@@ -1446,9 +1440,7 @@
             "996a9142c814ab39"
         ],
         "x": 24,
-        "y": 429,
-        "w": 712,
-        "h": 242
+        "y": 429
     },
     {
         "id": "6abd418f.d175b",
@@ -1463,9 +1455,7 @@
             "b2f2659a.67f648"
         ],
         "x": 18,
-        "y": 23,
-        "w": 1754,
-        "h": 404
+        "y": 23
     },
     {
         "id": "8c207e440fb46f33",
@@ -1481,9 +1471,7 @@
             "9f77b0d829ad914b"
         ],
         "x": 514,
-        "y": 769,
-        "w": 282,
-        "h": 82
+        "y": 769
     },
     {
         "id": "38940f8.c9c27f",
@@ -1967,9 +1955,7 @@
             "675af0d1.a9fc4"
         ],
         "x": 22,
-        "y": 27,
-        "w": 1186,
-        "h": 846
+        "y": 27
     },
     {
         "id": "3a4b00b6e7d09e3a",
@@ -2025,9 +2011,7 @@
             "7c0eb170.c43d1"
         ],
         "x": 1234,
-        "y": 149,
-        "w": 1452,
-        "h": 632
+        "y": 149
     },
     {
         "id": "e3aa057d.09fb18",
@@ -2044,9 +2028,7 @@
             "b9df7528.923398"
         ],
         "x": 28,
-        "y": 23,
-        "w": 2970,
-        "h": 1062
+        "y": 23
     },
     {
         "id": "83483662ea05d247",
@@ -2412,9 +2394,7 @@
             "b88575ca75fdb4f5"
         ],
         "x": 754,
-        "y": 429,
-        "w": 922,
-        "h": 82
+        "y": 429
     },
     {
         "id": "d175fb986dc9e991",
@@ -2434,9 +2414,7 @@
             "36c70d85dac8cd26"
         ],
         "x": 754,
-        "y": 519,
-        "w": 922,
-        "h": 82
+        "y": 519
     },
     {
         "id": "62fac95632266b01",
@@ -2489,7 +2467,9 @@
             "22b2f935e069825d"
         ],
         "x": 2218,
-        "y": 43
+        "y": 43,
+        "w": 1344,
+        "h": 714
     },
     {
         "id": "ef342a4a7f2984c3",
@@ -2507,7 +2487,9 @@
             "ce0884f8ad42bd03"
         ],
         "x": 54,
-        "y": 939
+        "y": 939,
+        "w": 332,
+        "h": 122
     },
     {
         "id": "c09ce75a93685feb",
@@ -2525,7 +2507,9 @@
             "6ef714d5a2569e8a"
         ],
         "x": 8,
-        "y": 133
+        "y": 133,
+        "w": 2184,
+        "h": 774
     },
     {
         "id": "23a61c692dd8e203",
@@ -3467,9 +3451,7 @@
             "14a4402df6867bdb"
         ],
         "x": 950,
-        "y": 39,
-        "w": 892,
-        "h": 182
+        "y": 39
     },
     {
         "id": "f3c2e7cf.5ed158",
@@ -3580,9 +3562,7 @@
             "c30439cc.4bcb68"
         ],
         "x": 44,
-        "y": 49,
-        "w": 1422,
-        "h": 212
+        "y": 49
     },
     {
         "id": "b2f2659a.67f648",
@@ -3611,9 +3591,7 @@
             "2c9d8d63e1dd0fbe"
         ],
         "x": 44,
-        "y": 269,
-        "w": 1702,
-        "h": 132
+        "y": 269
     },
     {
         "id": "70a63b74.44894c",
@@ -3729,9 +3707,7 @@
             "9bdf522.eba6db"
         ],
         "x": 48,
-        "y": 53,
-        "w": 1134,
-        "h": 794
+        "y": 53
     },
     {
         "id": "dad84feb.d4773",
@@ -3809,9 +3785,7 @@
             "a5e1205e8fe1feed"
         ],
         "x": 54,
-        "y": 359,
-        "w": 1832,
-        "h": 700
+        "y": 359
     },
     {
         "id": "7aad629d.de652c",
@@ -3875,9 +3849,7 @@
             "b4c9b17bde2f220c"
         ],
         "x": 54,
-        "y": 49,
-        "w": 2762,
-        "h": 302
+        "y": 49
     },
     {
         "id": "8f8a192b.bb2ef8",
@@ -3905,9 +3877,7 @@
             "4e19cfd4.3982f"
         ],
         "x": 1894,
-        "y": 439,
-        "w": 1062,
-        "h": 232
+        "y": 439
     },
     {
         "id": "b9df7528.923398",
@@ -3923,9 +3893,7 @@
             "65994a87.9d5eb4"
         ],
         "x": 1898,
-        "y": 683,
-        "w": 1074,
-        "h": 134
+        "y": 683
     },
     {
         "id": "6625e1db09743bc3",
@@ -4161,7 +4129,9 @@
             "4fb76cafe519048c"
         ],
         "x": 2244,
-        "y": 69
+        "y": 69,
+        "w": 1292,
+        "h": 532
     },
     {
         "id": "22b2f935e069825d",
@@ -4182,7 +4152,9 @@
             "e74da3e6e268b270"
         ],
         "x": 2244,
-        "y": 609
+        "y": 609,
+        "w": 832,
+        "h": 122
     },
     {
         "id": "53bb1752a9e0b623",
@@ -4221,7 +4193,9 @@
             "16649f01a0e6ebf3"
         ],
         "x": 64,
-        "y": 159
+        "y": 159,
+        "w": 2092,
+        "h": 262
     },
     {
         "id": "103cd2dbe76e1fc5",
@@ -4245,7 +4219,9 @@
             "2a531a19f520cae6"
         ],
         "x": 64,
-        "y": 429
+        "y": 429,
+        "w": 952,
+        "h": 132
     },
     {
         "id": "6ef714d5a2569e8a",
@@ -4278,7 +4254,9 @@
             "2c7ddc3776f48174"
         ],
         "x": 1054,
-        "y": 429
+        "y": 429,
+        "w": 1112,
+        "h": 202
     },
     {
         "id": "c40108170a37478f",
@@ -4317,7 +4295,9 @@
             "2d8469fec0420fb6"
         ],
         "x": 34,
-        "y": 639
+        "y": 639,
+        "w": 1672,
+        "h": 242
     },
     {
         "id": "4af99851.bcfb28",
@@ -4884,9 +4864,7 @@
             "62b716baf0dcbdaa"
         ],
         "x": 34,
-        "y": 39,
-        "w": 908,
-        "h": 192
+        "y": 39
     },
     {
         "id": "0da80a43af717368",
@@ -5201,9 +5179,7 @@
             "d0a19b38.893ab8"
         ],
         "x": 74,
-        "y": 79,
-        "w": 1042,
-        "h": 162
+        "y": 79
     },
     {
         "id": "9bdf522.eba6db",
@@ -5251,9 +5227,7 @@
             "0a4336ec53039171"
         ],
         "x": 114,
-        "y": 249,
-        "w": 1042,
-        "h": 572
+        "y": 249
     },
     {
         "id": "65994a87.9d5eb4",
@@ -5272,9 +5246,7 @@
             "f4363e16.f1813"
         ],
         "x": 1924,
-        "y": 709,
-        "w": 1022,
-        "h": 82
+        "y": 709
     },
     {
         "id": "dd4ef7f.6489508",
@@ -9548,7 +9520,7 @@
         "z": "c8b77ff3.ab501",
         "name": "",
         "pauseType": "delay",
-        "timeout": "3",
+        "timeout": "4",
         "timeoutUnits": "seconds",
         "rate": "1",
         "nbRateUnits": "1",
@@ -13017,7 +12989,7 @@
         "g": "6202107f.ed9aa",
         "name": "",
         "pauseType": "delay",
-        "timeout": "3",
+        "timeout": "4",
         "timeoutUnits": "seconds",
         "rate": "1",
         "nbRateUnits": "1",
@@ -45288,6 +45260,7 @@
         "z": "62616833443f66d1",
         "g": "6ef714d5a2569e8a",
         "name": "",
+        "env": [],
         "x": 2060,
         "y": 520,
         "wires": [
@@ -45300,6 +45273,7 @@
         "z": "62616833443f66d1",
         "g": "c40108170a37478f",
         "name": "",
+        "env": [],
         "x": 1570,
         "y": 720,
         "wires": [
@@ -84555,7 +84529,7 @@
         "order": 0,
         "width": 0,
         "height": 0,
-        "format": "<script id=\"clockScript1\" type=\"text/javascript\">\n    var clockInterval;\n    $(function () {\n        if (clockInterval) return;\n\n        //add logo\n        var div1 = $('<div/>');\n        var logo = new Image();\n\n        logo.src = 'http://localhost:1880/swcpro-images/hlogo.png'\n        logo.height = 45;\n        div1[0].style.margin = '10px auto';\n\n        div1.append(logo);\n        \n        //add clock\n        var div2 = $('<div/>');\n        var p = $('<p/>');\n\n        div2.append(p);\n        div2[0].style.margin = '5px';\n\n        function displayTime() {\n            p.text(new Date().toLocaleString());\n        }\n        \n        clockInterval = setInterval(displayTime, 1000);\n\n        //add to toolbar when it's available\n        var addToToolbarTimer;\n        \n        function addToToolbar() {\n            var toolbar = $('.md-toolbar-tools');\n            \n            if(!toolbar.length) return;\n            \n            toolbar.append(div1);\n            toolbar.append(div2);\n            clearInterval(addToToolbarTimer);\n        }\n        addToToolbarTimer = setInterval(addToToolbar, 100);\n    });\n</script>",
+        "format": "<script id=\"clockScript1\" type=\"text/javascript\">\n    var clockInterval;\n    $(function () {\n        if (clockInterval) return;\n\n        //add logo\n        var div1 = $('<div/>');\n        var logo = new Image();\n\n        logo.src = 'http://localhost:1880/swcpro-images/logoBCPGroup_bordeado.png'\n        logo.height = 60;\n        div1[0].style.margin = '10px auto';\n\n        div1.append(logo);\n        \n        //add clock\n        var div2 = $('<div/>');\n        var p = $('<p/>');\n\n        div2.append(p);\n        div2[0].style.margin = '5px';\n\n        function displayTime() {\n            p.text(new Date().toLocaleString());\n        }\n        \n        clockInterval = setInterval(displayTime, 1000);\n\n        //add to toolbar when it's available\n        var addToToolbarTimer;\n        \n        function addToToolbar() {\n            var toolbar = $('.md-toolbar-tools');\n            \n            if(!toolbar.length) return;\n            \n            toolbar.append(div1);\n            toolbar.append(div2);\n            clearInterval(addToToolbarTimer);\n        }\n        addToToolbarTimer = setInterval(addToToolbar, 100);\n    });\n</script>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": false,
