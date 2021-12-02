@@ -958,6 +958,59 @@
         ]
     },
     {
+        "id": "dede01fd738b74fb",
+        "type": "subflow",
+        "name": "VSDBasic (3)",
+        "info": "",
+        "category": "VSD",
+        "in": [
+            {
+                "x": 90,
+                "y": 200,
+                "wires": [
+                    {
+                        "id": "73487ba243ec76e5"
+                    }
+                ]
+            }
+        ],
+        "out": [
+            {
+                "x": 1090,
+                "y": 220,
+                "wires": [
+                    {
+                        "id": "05e19853d114c047",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 2190,
+                "y": 190,
+                "wires": [
+                    {
+                        "id": "915078d527ef8b9c",
+                        "port": 0
+                    }
+                ]
+            }
+        ],
+        "env": [],
+        "color": "#E9967A",
+        "icon": "font-awesome/fa-mail-forward",
+        "status": {
+            "x": 1270,
+            "y": 270,
+            "wires": [
+                {
+                    "id": "b2a15dd6797ee5fd",
+                    "port": 0
+                }
+            ]
+        }
+    },
+    {
         "id": "1d0c3cb2.7129f3",
         "type": "group",
         "z": "2e27dea6.c4c362",
@@ -1082,7 +1135,8 @@
             "7f7ba2b6b2295aa8",
             "61c02e812fb48b72",
             "dd63ba6d.b10768",
-            "a6a55c6001e65244"
+            "a6a55c6001e65244",
+            "b269ff5b6732d608"
         ],
         "x": 24,
         "y": 609,
@@ -1402,7 +1456,9 @@
             "eb91dac5.690838"
         ],
         "x": -12,
-        "y": 13
+        "y": 13,
+        "w": 1664,
+        "h": 1200
     },
     {
         "id": "e98dc6a9.24ece8",
@@ -1456,7 +1512,9 @@
             "996a9142c814ab39"
         ],
         "x": 24,
-        "y": 429
+        "y": 429,
+        "w": 712,
+        "h": 242
     },
     {
         "id": "6abd418f.d175b",
@@ -1471,7 +1529,9 @@
             "b2f2659a.67f648"
         ],
         "x": 18,
-        "y": 23
+        "y": 23,
+        "w": 1754,
+        "h": 404
     },
     {
         "id": "8c207e440fb46f33",
@@ -1487,7 +1547,9 @@
             "9f77b0d829ad914b"
         ],
         "x": 514,
-        "y": 769
+        "y": 769,
+        "w": 282,
+        "h": 82
     },
     {
         "id": "38940f8.c9c27f",
@@ -1953,12 +2015,17 @@
             "207ea8ce.3dea68",
             "cbbbcd1c.7180e",
             "c9c60e8060e9ce10",
-            "52f1e35a6b450a62"
+            "52f1e35a6b450a62",
+            "16a7a084b723c573",
+            "a0144e1f522e95e8",
+            "2347630c2ccc307b",
+            "9447aaa1f5dce4f1",
+            "c22e3c27600ab315"
         ],
-        "x": 1384,
-        "y": 19,
-        "w": 262,
-        "h": 182
+        "x": 1354,
+        "y": 99,
+        "w": 612,
+        "h": 242
     },
     {
         "id": "d84615.919209e8",
@@ -2414,7 +2481,9 @@
             "b88575ca75fdb4f5"
         ],
         "x": 754,
-        "y": 429
+        "y": 429,
+        "w": 922,
+        "h": 82
     },
     {
         "id": "d175fb986dc9e991",
@@ -2434,7 +2503,9 @@
             "36c70d85dac8cd26"
         ],
         "x": 754,
-        "y": 519
+        "y": 519,
+        "w": 922,
+        "h": 82
     },
     {
         "id": "62fac95632266b01",
@@ -2487,7 +2558,9 @@
             "22b2f935e069825d"
         ],
         "x": 2398,
-        "y": 133
+        "y": 133,
+        "w": 1344,
+        "h": 714
     },
     {
         "id": "ef342a4a7f2984c3",
@@ -2505,7 +2578,9 @@
             "ce0884f8ad42bd03"
         ],
         "x": 34,
-        "y": 1019
+        "y": 1019,
+        "w": 332,
+        "h": 122
     },
     {
         "id": "c09ce75a93685feb",
@@ -2517,13 +2592,14 @@
             "color": "#000000"
         },
         "nodes": [
-            "53bb1752a9e0b623",
             "103cd2dbe76e1fc5",
             "c40108170a37478f",
             "6ef714d5a2569e8a"
         ],
         "x": 8,
-        "y": 133
+        "y": 403,
+        "w": 2234,
+        "h": 584
     },
     {
         "id": "23a61c692dd8e203",
@@ -2738,7 +2814,9 @@
             "ca1808e9c0cebc54"
         ],
         "x": 52,
-        "y": 1017
+        "y": 1017,
+        "w": 3176,
+        "h": 2556
     },
     {
         "id": "30bf9bf9f58a95d5",
@@ -2755,7 +2833,9 @@
             "043b7d2efd6242c1"
         ],
         "x": 78,
-        "y": 73
+        "y": 73,
+        "w": 1264,
+        "h": 574
     },
     {
         "id": "3d603bc8c80c2124",
@@ -2775,7 +2855,9 @@
             "8f311859e2329cb0"
         ],
         "x": 1364,
-        "y": 369
+        "y": 369,
+        "w": 902,
+        "h": 82
     },
     {
         "id": "4c1b2fd5bfa8819c",
@@ -2791,7 +2873,9 @@
             "af436d3d4e5d33de"
         ],
         "x": 42,
-        "y": 3587
+        "y": 3587,
+        "w": 3010,
+        "h": 1400
     },
     {
         "id": "600556d8bd2ccda4",
@@ -2856,7 +2940,9 @@
             "72c298a02ef42417"
         ],
         "x": 1364,
-        "y": 469
+        "y": 469,
+        "w": 2342,
+        "h": 532
     },
     {
         "id": "a9988da34f9622ff",
@@ -2883,7 +2969,9 @@
             "03552a6ae2d7be66"
         ],
         "x": 1364,
-        "y": 19
+        "y": 19,
+        "w": 1032,
+        "h": 322
     },
     {
         "id": "82fde41a.c6f8d8",
@@ -2938,7 +3026,9 @@
             "797d0bfa791a4802"
         ],
         "x": 28,
-        "y": 33
+        "y": 33,
+        "w": 2514,
+        "h": 884
     },
     {
         "id": "82531c262cad7a91",
@@ -2992,7 +3082,9 @@
             "766cfa87ec44f683"
         ],
         "x": 1394,
-        "y": 89
+        "y": 89,
+        "w": 662,
+        "h": 272
     },
     {
         "id": "f2ce71497366a377",
@@ -3070,7 +3162,9 @@
             "84a9ae90398dbd2d"
         ],
         "x": 34,
-        "y": 393
+        "y": 393,
+        "w": 1988,
+        "h": 848
     },
     {
         "id": "99b24e0896cf0f0c",
@@ -3509,7 +3603,9 @@
             "b045615539735b86"
         ],
         "x": 14,
-        "y": 463
+        "y": 463,
+        "w": 958,
+        "h": 724
     },
     {
         "id": "eb91dac5.690838",
@@ -3563,7 +3659,9 @@
             "e9b1c7933c86ffa9"
         ],
         "x": 44,
-        "y": 39
+        "y": 39,
+        "w": 1582,
+        "h": 402
     },
     {
         "id": "8ed62712.fe2018",
@@ -3596,7 +3694,9 @@
             "c30439cc.4bcb68"
         ],
         "x": 44,
-        "y": 49
+        "y": 49,
+        "w": 1422,
+        "h": 212
     },
     {
         "id": "b2f2659a.67f648",
@@ -3625,7 +3725,9 @@
             "2c9d8d63e1dd0fbe"
         ],
         "x": 44,
-        "y": 269
+        "y": 269,
+        "w": 1702,
+        "h": 132
     },
     {
         "id": "70a63b74.44894c",
@@ -4163,7 +4265,9 @@
             "4fb76cafe519048c"
         ],
         "x": 2424,
-        "y": 159
+        "y": 159,
+        "w": 1292,
+        "h": 532
     },
     {
         "id": "22b2f935e069825d",
@@ -4184,47 +4288,9 @@
             "e74da3e6e268b270"
         ],
         "x": 2424,
-        "y": 699
-    },
-    {
-        "id": "53bb1752a9e0b623",
-        "type": "group",
-        "z": "62616833443f66d1",
-        "g": "c09ce75a93685feb",
-        "name": "Arranque / Parada / Reset / Remotos",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "e7ffe994eea861bd",
-            "4f6082dd80f6cb9e",
-            "cd5ff711155e68c8",
-            "893e78eec9c2470f",
-            "d24dc652aa55f06a",
-            "294efda15040a690",
-            "1610f481fcb93a74",
-            "9b52fc7115de4256",
-            "4460da497c01e21a",
-            "120d7724090c874c",
-            "b926d711462d45cd",
-            "53d100e705e85f1a",
-            "b1ee5744d41b3511",
-            "a6f7aa178168babc",
-            "6ef7c83a3b4288a0",
-            "83bf1da15ff35d85",
-            "a6b2497b9b0906b7",
-            "605afae02a3a06a6",
-            "065538bdcfc1a2ec",
-            "c73b7756c3c403cd",
-            "0d5c04d7a63ca58c",
-            "e7eb8ac24086b997",
-            "10e213c05678d0c3",
-            "16649f01a0e6ebf3",
-            "d0e124dd8c37802a"
-        ],
-        "x": 64,
-        "y": 159
+        "y": 699,
+        "w": 832,
+        "h": 122
     },
     {
         "id": "103cd2dbe76e1fc5",
@@ -4248,7 +4314,9 @@
             "2a531a19f520cae6"
         ],
         "x": 64,
-        "y": 429
+        "y": 429,
+        "w": 952,
+        "h": 132
     },
     {
         "id": "6ef714d5a2569e8a",
@@ -4283,7 +4351,9 @@
             "075186ebd79ef2c7"
         ],
         "x": 1044,
-        "y": 439
+        "y": 439,
+        "w": 1172,
+        "h": 252
     },
     {
         "id": "c40108170a37478f",
@@ -4322,7 +4392,9 @@
             "2d8469fec0420fb6"
         ],
         "x": 34,
-        "y": 719
+        "y": 719,
+        "w": 1672,
+        "h": 242
     },
     {
         "id": "4af99851.bcfb28",
@@ -4677,7 +4749,9 @@
             "0d3271d48cdd3dc2"
         ],
         "x": 78,
-        "y": 1053
+        "y": 1053,
+        "w": 1724,
+        "h": 2494
     },
     {
         "id": "ca1808e9c0cebc54",
@@ -4695,7 +4769,9 @@
             "acf6618644660324"
         ],
         "x": 1828,
-        "y": 1043
+        "y": 1043,
+        "w": 1374,
+        "h": 1511.5
     },
     {
         "id": "3305d8d35ba0e514",
@@ -4740,7 +4816,9 @@
             "e913dcf6680dfc81"
         ],
         "x": 104,
-        "y": 99
+        "y": 99,
+        "w": 1212,
+        "h": 362
     },
     {
         "id": "043b7d2efd6242c1",
@@ -4764,7 +4842,9 @@
             "64e79399f67005ea"
         ],
         "x": 104,
-        "y": 469
+        "y": 469,
+        "w": 1002,
+        "h": 152
     },
     {
         "id": "eae7b72d553551bc",
@@ -4781,7 +4861,9 @@
             "7d3d6fba6fb45cf5"
         ],
         "x": 68,
-        "y": 3673
+        "y": 3673,
+        "w": 1284,
+        "h": 739
     },
     {
         "id": "af436d3d4e5d33de",
@@ -4858,7 +4940,9 @@
             "9f7b833ed93f0cc5"
         ],
         "x": 1358,
-        "y": 3613
+        "y": 3613,
+        "w": 1668,
+        "h": 1348
     },
     {
         "id": "b1830307.ee865",
@@ -4921,7 +5005,9 @@
             "bcbd8b8c21a84e24"
         ],
         "x": 54,
-        "y": 59
+        "y": 59,
+        "w": 752,
+        "h": 202
     },
     {
         "id": "4b547685fb66afe1",
@@ -4951,7 +5037,9 @@
             "112b2631e70ae588"
         ],
         "x": 814,
-        "y": 59
+        "y": 59,
+        "w": 892,
+        "h": 292
     },
     {
         "id": "949f80f33ee1d4b6",
@@ -4976,7 +5064,9 @@
             "85f09df66fd26667"
         ],
         "x": 1714,
-        "y": 59
+        "y": 59,
+        "w": 802,
+        "h": 202
     },
     {
         "id": "797d0bfa791a4802",
@@ -5043,7 +5133,9 @@
             "2f149d87d9a4306f"
         ],
         "x": 54,
-        "y": 359
+        "y": 359,
+        "w": 1912,
+        "h": 532
     },
     {
         "id": "b6f76c1e8ebe8335",
@@ -5069,7 +5161,9 @@
             "b3215b121cbfbf66"
         ],
         "x": 1324,
-        "y": 419
+        "y": 419,
+        "w": 672,
+        "h": 202
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -5146,7 +5240,9 @@
             "ecd73acb6f9a9a0a"
         ],
         "x": 584,
-        "y": 959
+        "y": 959,
+        "w": 362,
+        "h": 202
     },
     {
         "id": "64ff74e5.f4c53c",
@@ -5166,7 +5262,9 @@
             "c1672804cba19e98"
         ],
         "x": 574,
-        "y": 489
+        "y": 489,
+        "w": 172,
+        "h": 212
     },
     {
         "id": "be55ea76.ed4478",
@@ -5187,7 +5285,9 @@
             "41b82348a8ab40a8"
         ],
         "x": 564,
-        "y": 719
+        "y": 719,
+        "w": 372,
+        "h": 202
     },
     {
         "id": "1d477816.993308",
@@ -5949,7 +6049,9 @@
             "5da923b060b7d724"
         ],
         "x": 104,
-        "y": 1079
+        "y": 1079,
+        "w": 1242,
+        "h": 862
     },
     {
         "id": "b670eeac81e3a4e1",
@@ -5979,7 +6081,9 @@
             "6b6e6135b877d85a"
         ],
         "x": 124,
-        "y": 3339
+        "y": 3339,
+        "w": 862,
+        "h": 182
     },
     {
         "id": "404043e2f2ac38f5",
@@ -6034,7 +6138,9 @@
             "152f2e6794c7d506"
         ],
         "x": 1854,
-        "y": 1069
+        "y": 1069,
+        "w": 1292,
+        "h": 502
     },
     {
         "id": "acf6618644660324",
@@ -6095,7 +6201,9 @@
             "1db2dfd67adbd3b4"
         ],
         "x": 1884,
-        "y": 1989
+        "y": 1989,
+        "w": 1292,
+        "h": 539.5
     },
     {
         "id": "0d3271d48cdd3dc2",
@@ -6302,7 +6410,9 @@
             "42bb07ced8a868c3"
         ],
         "x": 114,
-        "y": 1959
+        "y": 1959,
+        "w": 1662,
+        "h": 1322
     },
     {
         "id": "7d3d6fba6fb45cf5",
@@ -6365,7 +6475,9 @@
             "abc01cdd43776442"
         ],
         "x": 94,
-        "y": 3699
+        "y": 3699,
+        "w": 1232,
+        "h": 687
     },
     {
         "id": "01d2b2ec2f34b6be",
@@ -6404,7 +6516,9 @@
             "d4e43509215bf215"
         ],
         "x": 1384,
-        "y": 3639
+        "y": 3639,
+        "w": 1232,
+        "h": 322
     },
     {
         "id": "b4a46197db30977b",
@@ -6444,7 +6558,57 @@
             "592f8a1403a12574"
         ],
         "x": 1384,
-        "y": 3959
+        "y": 3959,
+        "w": 722,
+        "h": 442
+    },
+    {
+        "id": "86af7867dc10f4a8",
+        "type": "group",
+        "z": "62616833443f66d1",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "cee273166255309b",
+            "02fa3bd22b68542c",
+            "cdc7c62e61a52ad1",
+            "66dfe3945c1e17c8",
+            "efd7e584f64dbd4d",
+            "b9bd79738573cf77",
+            "afe1476919e93746",
+            "ecad181f90949027",
+            "cf6cb9bda7ca34fe",
+            "9a89a147364d047e",
+            "1ad6b8523892ce98",
+            "cbed23389bd10c6d",
+            "7731a6f4d3e426d9",
+            "fbeed7bd9487f70a",
+            "b8331b11d170686c",
+            "f0bb1ce7574eb3c6",
+            "a06db97a696c56e5",
+            "fd2e8c928f171188",
+            "90ee82b36e7ab5d7",
+            "d2709a662257cd9c",
+            "7b4fce37df5072fe",
+            "02c835a8f32d1489",
+            "ba4a729ec121a72f",
+            "5db385c16da66c3c",
+            "0481fd0327707fa3",
+            "9067120d9d249e97",
+            "c5028a1ed882d76c",
+            "d31bc366f41b763d"
+        ],
+        "x": 4,
+        "y": 119,
+        "w": 1932,
+        "h": 262
     },
     {
         "id": "d25d405a.19cff",
@@ -8562,6 +8726,31 @@
         "collapse": false
     },
     {
+        "id": "799f4188acf2e1c2",
+        "type": "modbus-client",
+        "name": "PyModbusServer",
+        "clienttype": "tcp",
+        "bufferCommands": true,
+        "stateLogEnabled": false,
+        "queueLogEnabled": false,
+        "tcpHost": "127.0.0.1",
+        "tcpPort": "502",
+        "tcpType": "DEFAULT",
+        "serialPort": "/dev/ttyUSB",
+        "serialType": "RTU-BUFFERD",
+        "serialBaudrate": "9600",
+        "serialDatabits": "8",
+        "serialStopbits": "1",
+        "serialParity": "none",
+        "serialConnectionDelay": "100",
+        "unit_id": 1,
+        "commandDelay": 1,
+        "clientTimeout": 1000,
+        "reconnectOnTimeout": true,
+        "reconnectTimeout": 2000,
+        "parallelUnitIdsAllowed": true
+    },
+    {
         "id": "8c24ec8f.cf43c",
         "type": "exec",
         "z": "1ae6c379.02ea3d",
@@ -9639,6 +9828,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 2050,
         "y": 190,
         "wires": [
@@ -34190,8 +34380,8 @@
         "raw": false,
         "topic": "",
         "name": "Red notif",
-        "x": 1540,
-        "y": 110,
+        "x": 1500,
+        "y": 260,
         "wires": []
     },
     {
@@ -34209,8 +34399,8 @@
         "raw": false,
         "topic": "",
         "name": "Green notif",
-        "x": 1550,
-        "y": 60,
+        "x": 1870,
+        "y": 220,
         "wires": []
     },
     {
@@ -34241,13 +34431,16 @@
             "7fc0d455c009b47b",
             "77d8136b.25bb0c",
             "7593d9a9.ee8aa8",
-            "7f7ba2b6b2295aa8"
+            "7f7ba2b6b2295aa8",
+            "e4ed02fdd80ca2c6",
+            "1026306778381856",
+            "90ee82b36e7ab5d7"
         ],
-        "x": 1425,
-        "y": 60,
+        "x": 1395,
+        "y": 220,
         "wires": [
             [
-                "65dbd957.020378"
+                "16a7a084b723c573"
             ]
         ]
     },
@@ -34287,10 +34480,15 @@
             "7e7aa9483a964e39",
             "d653fceb524beaad",
             "de4dbc7d053deff2",
-            "53c8f9a8c6185818"
+            "53c8f9a8c6185818",
+            "6750140a74ce360d",
+            "9b149032467ab67b",
+            "22b36e08578e5bed",
+            "b9bd79738573cf77",
+            "d2709a662257cd9c"
         ],
-        "x": 1425,
-        "y": 110,
+        "x": 1395,
+        "y": 260,
         "wires": [
             [
                 "230a6662.27d8ea"
@@ -34312,8 +34510,8 @@
         "raw": false,
         "topic": "",
         "name": "Yellow notif",
-        "x": 1550,
-        "y": 160,
+        "x": 1510,
+        "y": 300,
         "wires": []
     },
     {
@@ -34340,8 +34538,8 @@
             "e12e6e5df4e84760",
             "f26884a752f635f5"
         ],
-        "x": 1425,
-        "y": 160,
+        "x": 1395,
+        "y": 300,
         "wires": [
             [
                 "c9c60e8060e9ce10"
@@ -42283,393 +42481,6 @@
         "wires": []
     },
     {
-        "id": "e7ffe994eea861bd",
-        "type": "modbus-read",
-        "z": "62616833443f66d1",
-        "g": "53bb1752a9e0b623",
-        "name": "PyModbusServer",
-        "topic": "",
-        "showStatusActivities": false,
-        "logIOActivities": false,
-        "showErrors": false,
-        "unitid": "1",
-        "dataType": "HoldingRegister",
-        "adr": "55",
-        "quantity": "1",
-        "rate": "1",
-        "rateUnit": "s",
-        "delayOnStart": false,
-        "startDelayTime": "",
-        "server": "349cb045c05ea87d",
-        "useIOFile": false,
-        "ioFile": "",
-        "useIOForPayload": false,
-        "emptyMsgOnFail": false,
-        "x": 460,
-        "y": 320,
-        "wires": [
-            [
-                "4460da497c01e21a"
-            ],
-            []
-        ]
-    },
-    {
-        "id": "4f6082dd80f6cb9e",
-        "type": "switch",
-        "z": "62616833443f66d1",
-        "g": "53bb1752a9e0b623",
-        "name": "",
-        "property": "payload[0]",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "1",
-                "vt": "num"
-            },
-            {
-                "t": "eq",
-                "v": "2",
-                "vt": "num"
-            },
-            {
-                "t": "eq",
-                "v": "4",
-                "vt": "num"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 3,
-        "x": 890,
-        "y": 320,
-        "wires": [
-            [
-                "893e78eec9c2470f"
-            ],
-            [
-                "d24dc652aa55f06a"
-            ],
-            [
-                "605afae02a3a06a6"
-            ]
-        ]
-    },
-    {
-        "id": "cd5ff711155e68c8",
-        "type": "rbe",
-        "z": "62616833443f66d1",
-        "g": "53bb1752a9e0b623",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload[0]",
-        "x": 770,
-        "y": 320,
-        "wires": [
-            [
-                "4f6082dd80f6cb9e"
-            ]
-        ]
-    },
-    {
-        "id": "893e78eec9c2470f",
-        "type": "switch",
-        "z": "62616833443f66d1",
-        "g": "53bb1752a9e0b623",
-        "name": "Remoto",
-        "property": "Input.Operation.ControlMode",
-        "propertyType": "global",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "Remoto",
-                "vt": "str"
-            },
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 1240,
-        "y": 200,
-        "wires": [
-            [
-                "83bf1da15ff35d85"
-            ],
-            [
-                "294efda15040a690"
-            ]
-        ]
-    },
-    {
-        "id": "d24dc652aa55f06a",
-        "type": "switch",
-        "z": "62616833443f66d1",
-        "g": "53bb1752a9e0b623",
-        "name": "Remoto",
-        "property": "Input.Operation.ControlMode",
-        "propertyType": "global",
-        "rules": [
-            {
-                "t": "else"
-            },
-            {
-                "t": "eq",
-                "v": "Remoto",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 1240,
-        "y": 320,
-        "wires": [
-            [
-                "1610f481fcb93a74"
-            ],
-            [
-                "a6b2497b9b0906b7"
-            ]
-        ]
-    },
-    {
-        "id": "294efda15040a690",
-        "type": "change",
-        "z": "62616833443f66d1",
-        "g": "53bb1752a9e0b623",
-        "name": "Arranque remoto bloqueado",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "Intento de arranque remoto bloqueado",
-                "tot": "str"
-            },
-            {
-                "t": "delete",
-                "p": "topic",
-                "pt": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1300,
-        "y": 240,
-        "wires": [
-            [
-                "9b52fc7115de4256"
-            ]
-        ]
-    },
-    {
-        "id": "1610f481fcb93a74",
-        "type": "change",
-        "z": "62616833443f66d1",
-        "g": "53bb1752a9e0b623",
-        "name": "Parada remota bloqueada",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "Intento de parada remota bloqueada",
-                "tot": "str"
-            },
-            {
-                "t": "delete",
-                "p": "topic",
-                "pt": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1310,
-        "y": 280,
-        "wires": [
-            [
-                "9b52fc7115de4256"
-            ]
-        ]
-    },
-    {
-        "id": "9b52fc7115de4256",
-        "type": "link out",
-        "z": "62616833443f66d1",
-        "g": "53bb1752a9e0b623",
-        "name": "Evento Arranque/Parada Bloqueado Link Out",
-        "links": [
-            "2da816b7.b2be9a",
-            "cbbbcd1c.7180e"
-        ],
-        "x": 1475,
-        "y": 260,
-        "wires": []
-    },
-    {
-        "id": "4460da497c01e21a",
-        "type": "switch",
-        "z": "62616833443f66d1",
-        "g": "53bb1752a9e0b623",
-        "name": "SCADA TCP",
-        "property": "SCADA.Type",
-        "propertyType": "global",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "TCP",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 630,
-        "y": 320,
-        "wires": [
-            [
-                "cd5ff711155e68c8",
-                "6ef7c83a3b4288a0"
-            ]
-        ]
-    },
-    {
-        "id": "120d7724090c874c",
-        "type": "switch",
-        "z": "62616833443f66d1",
-        "g": "53bb1752a9e0b623",
-        "name": "SCADA RTU",
-        "property": "SCADA.Type",
-        "propertyType": "global",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "RTU",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 630,
-        "y": 370,
-        "wires": [
-            [
-                "cd5ff711155e68c8",
-                "b926d711462d45cd"
-            ]
-        ]
-    },
-    {
-        "id": "b926d711462d45cd",
-        "type": "debug",
-        "z": "62616833443f66d1",
-        "g": "53bb1752a9e0b623",
-        "name": "",
-        "active": true,
-        "tosidebar": false,
-        "console": false,
-        "tostatus": true,
-        "complete": "payload[0]",
-        "targetType": "msg",
-        "statusVal": "payload[50]",
-        "statusType": "auto",
-        "x": 800,
-        "y": 370,
-        "wires": []
-    },
-    {
-        "id": "53d100e705e85f1a",
-        "type": "modbus-flex-getter",
-        "z": "62616833443f66d1",
-        "g": "53bb1752a9e0b623",
-        "name": "Leer Cubloc RS-232",
-        "showStatusActivities": true,
-        "showErrors": false,
-        "logIOActivities": false,
-        "server": "f630cb55.8d18e8",
-        "useIOFile": false,
-        "ioFile": "",
-        "useIOForPayload": false,
-        "emptyMsgOnFail": false,
-        "keepMsgProperties": false,
-        "x": 440,
-        "y": 370,
-        "wires": [
-            [
-                "120d7724090c874c"
-            ],
-            []
-        ]
-    },
-    {
-        "id": "b1ee5744d41b3511",
-        "type": "function",
-        "z": "62616833443f66d1",
-        "g": "53bb1752a9e0b623",
-        "name": "Registro Modbus",
-        "func": "msg.payload = { \n    'fc': 4, \n    'unitid': 1, \n    'address': 28672+20+55, \n    'quantity':1   \n} \nreturn msg",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 230,
-        "y": 370,
-        "wires": [
-            [
-                "53d100e705e85f1a"
-            ]
-        ]
-    },
-    {
-        "id": "a6f7aa178168babc",
-        "type": "link in",
-        "z": "62616833443f66d1",
-        "g": "53bb1752a9e0b623",
-        "name": "Arranque/Parada/Reset RTU-Link In",
-        "links": [
-            "ad49f1ee486ceabf"
-        ],
-        "x": 105,
-        "y": 370,
-        "wires": [
-            [
-                "b1ee5744d41b3511"
-            ]
-        ]
-    },
-    {
-        "id": "6ef7c83a3b4288a0",
-        "type": "debug",
-        "z": "62616833443f66d1",
-        "g": "53bb1752a9e0b623",
-        "name": "",
-        "active": true,
-        "tosidebar": false,
-        "console": false,
-        "tostatus": true,
-        "complete": "payload[0]",
-        "targetType": "msg",
-        "statusVal": "payload[50]",
-        "statusType": "auto",
-        "x": 800,
-        "y": 270,
-        "wires": []
-    },
-    {
         "id": "15350ce8ea697226",
         "type": "modbus-flex-write",
         "z": "62616833443f66d1",
@@ -44650,251 +44461,6 @@
         ]
     },
     {
-        "id": "83bf1da15ff35d85",
-        "type": "change",
-        "z": "62616833443f66d1",
-        "g": "53bb1752a9e0b623",
-        "name": "Arranque Remoto",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "Start",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Basic",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1430,
-        "y": 200,
-        "wires": [
-            [
-                "16649f01a0e6ebf3"
-            ]
-        ]
-    },
-    {
-        "id": "a6b2497b9b0906b7",
-        "type": "change",
-        "z": "62616833443f66d1",
-        "g": "53bb1752a9e0b623",
-        "name": "Parada Remoto",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "Stop",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Basic",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1420,
-        "y": 320,
-        "wires": [
-            [
-                "16649f01a0e6ebf3"
-            ]
-        ]
-    },
-    {
-        "id": "605afae02a3a06a6",
-        "type": "change",
-        "z": "62616833443f66d1",
-        "g": "53bb1752a9e0b623",
-        "name": "Reset remoto",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "Reset",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "Basic",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1060,
-        "y": 360,
-        "wires": [
-            [
-                "16649f01a0e6ebf3"
-            ]
-        ]
-    },
-    {
-        "id": "065538bdcfc1a2ec",
-        "type": "switch",
-        "z": "62616833443f66d1",
-        "g": "53bb1752a9e0b623",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "cont",
-                "v": "exito",
-                "vt": "str"
-            },
-            {
-                "t": "cont",
-                "v": "fallid",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 1890,
-        "y": 360,
-        "wires": [
-            [
-                "c73b7756c3c403cd"
-            ],
-            [
-                "0d5c04d7a63ca58c"
-            ]
-        ]
-    },
-    {
-        "id": "c73b7756c3c403cd",
-        "type": "change",
-        "z": "62616833443f66d1",
-        "g": "53bb1752a9e0b623",
-        "name": "Exitoso",
-        "rules": [
-            {
-                "t": "change",
-                "p": "payload",
-                "pt": "msg",
-                "from": "Arranque exitoso",
-                "fromt": "str",
-                "to": "Arranque remoto exitoso",
-                "tot": "str"
-            },
-            {
-                "t": "change",
-                "p": "payload",
-                "pt": "msg",
-                "from": "Parada exitosa",
-                "fromt": "str",
-                "to": "Parada remota exitosa",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 2020,
-        "y": 340,
-        "wires": [
-            [
-                "e7eb8ac24086b997"
-            ]
-        ]
-    },
-    {
-        "id": "0d5c04d7a63ca58c",
-        "type": "change",
-        "z": "62616833443f66d1",
-        "g": "53bb1752a9e0b623",
-        "name": "Fallido",
-        "rules": [
-            {
-                "t": "change",
-                "p": "payload",
-                "pt": "msg",
-                "from": "Arranque fallido",
-                "fromt": "str",
-                "to": "Arranque remoto fallido",
-                "tot": "str"
-            },
-            {
-                "t": "change",
-                "p": "payload",
-                "pt": "msg",
-                "from": "Parada fallida",
-                "fromt": "str",
-                "to": "Parada remoto fallida",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 2010,
-        "y": 380,
-        "wires": [
-            [
-                "10e213c05678d0c3"
-            ]
-        ]
-    },
-    {
-        "id": "e7eb8ac24086b997",
-        "type": "link out",
-        "z": "62616833443f66d1",
-        "g": "53bb1752a9e0b623",
-        "name": "",
-        "links": [
-            "207ea8ce.3dea68",
-            "2da816b7.b2be9a"
-        ],
-        "x": 2115,
-        "y": 340,
-        "wires": []
-    },
-    {
-        "id": "10e213c05678d0c3",
-        "type": "link out",
-        "z": "62616833443f66d1",
-        "g": "53bb1752a9e0b623",
-        "name": "",
-        "links": [
-            "2da816b7.b2be9a",
-            "cbbbcd1c.7180e"
-        ],
-        "x": 2115,
-        "y": 380,
-        "wires": []
-    },
-    {
         "id": "65c391f4739cf5d9",
         "type": "change",
         "z": "62616833443f66d1",
@@ -45291,21 +44857,6 @@
         "y": 520,
         "wires": [
             []
-        ]
-    },
-    {
-        "id": "16649f01a0e6ebf3",
-        "type": "subflow:c8b77ff3.ab501",
-        "z": "62616833443f66d1",
-        "g": "53bb1752a9e0b623",
-        "name": "",
-        "x": 1750,
-        "y": 360,
-        "wires": [
-            [],
-            [
-                "065538bdcfc1a2ec"
-            ]
         ]
     },
     {
@@ -72654,7 +72205,8 @@
         "g": "600556d8bd2ccda4",
         "name": "registro_Modbus",
         "links": [
-            "025e44e56c51c4d2"
+            "025e44e56c51c4d2",
+            "cbed23389bd10c6d"
         ],
         "x": 1735,
         "y": 790,
@@ -76909,7 +76461,15 @@
             "e9429ad0db54453c",
             "d653fceb524beaad",
             "de4dbc7d053deff2",
-            "53c8f9a8c6185818"
+            "53c8f9a8c6185818",
+            "e4ed02fdd80ca2c6",
+            "6750140a74ce360d",
+            "9b149032467ab67b",
+            "1026306778381856",
+            "22b36e08578e5bed",
+            "b9bd79738573cf77",
+            "90ee82b36e7ab5d7",
+            "d2709a662257cd9c"
         ],
         "x": 381,
         "y": 80,
@@ -80066,7 +79626,9 @@
             "3c6233b7580fdd3b",
             "88d14fc4446fc3c6",
             "36d64657e70382a6",
-            "2f575a29d6e4a8f6"
+            "2f575a29d6e4a8f6",
+            "e4ed02fdd80ca2c6",
+            "6750140a74ce360d"
         ],
         "x": 205,
         "y": 2930,
@@ -85121,36 +84683,6 @@
         "wires": []
     },
     {
-        "id": "d0e124dd8c37802a",
-        "type": "inject",
-        "z": "62616833443f66d1",
-        "g": "53bb1752a9e0b623",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 1010,
-        "y": 220,
-        "wires": [
-            [
-                "294efda15040a690"
-            ]
-        ]
-    },
-    {
         "id": "029d05195cb33abf",
         "type": "inject",
         "z": "a84e803f031d5b6d",
@@ -85165,7 +84697,7 @@
                 "vt": "str"
             }
         ],
-        "repeat": "300",
+        "repeat": "0.1",
         "crontab": "",
         "once": false,
         "onceDelay": 0.1,
@@ -85347,6 +84879,1486 @@
         "y": 240,
         "wires": [
             []
+        ]
+    },
+    {
+        "id": "b269ff5b6732d608",
+        "type": "link in",
+        "z": "902fc438.e5d758",
+        "g": "fcb3da61.429db8",
+        "name": "",
+        "links": [
+            "82dd3b8a2e6c720d"
+        ],
+        "x": 2255,
+        "y": 1100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b2a15dd6797ee5fd",
+        "type": "change",
+        "z": "dede01fd738b74fb",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "command",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1150,
+        "y": 270,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6d9d9db4249e0786",
+        "type": "pccc out",
+        "z": "dede01fd738b74fb",
+        "endpoint": "e9d237aaf9318e74",
+        "variable": "CommandWord",
+        "name": "",
+        "x": 1660,
+        "y": 110,
+        "wires": []
+    },
+    {
+        "id": "ffb3a850b00b7999",
+        "type": "delay",
+        "z": "dede01fd738b74fb",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "500",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 1090,
+        "y": 110,
+        "wires": [
+            [
+                "968f88110e4c7fd5"
+            ]
+        ]
+    },
+    {
+        "id": "968f88110e4c7fd5",
+        "type": "change",
+        "z": "dede01fd738b74fb",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "0",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1260,
+        "y": 110,
+        "wires": [
+            [
+                "3b19e625fe821089"
+            ]
+        ]
+    },
+    {
+        "id": "8bfe355ce8853389",
+        "type": "delay",
+        "z": "dede01fd738b74fb",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "1",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 1640,
+        "y": 190,
+        "wires": [
+            [
+                "823e72c33813a82b"
+            ]
+        ]
+    },
+    {
+        "id": "fcb4ac7f1b9dae47",
+        "type": "change",
+        "z": "dede01fd738b74fb",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Active0",
+                "pt": "flow",
+                "to": "#:(memoryOnly)::C2S.Drive_Status.Active",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1420,
+        "y": 190,
+        "wires": [
+            [
+                "8bfe355ce8853389"
+            ]
+        ]
+    },
+    {
+        "id": "823e72c33813a82b",
+        "type": "change",
+        "z": "dede01fd738b74fb",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Active1",
+                "pt": "flow",
+                "to": "#:(memoryOnly)::C2S.Drive_Status.Active",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1860,
+        "y": 190,
+        "wires": [
+            [
+                "915078d527ef8b9c"
+            ]
+        ]
+    },
+    {
+        "id": "915078d527ef8b9c",
+        "type": "function",
+        "z": "dede01fd738b74fb",
+        "name": "Arranque/Parada",
+        "func": "var Active0     = flow.get(\"Active0\",'memoryOnly');\nvar Active1     = flow.get(\"Active1\",'memoryOnly');\nvar Arranque    = ((msg.command == \"Arranque 'Forward'\") || (msg.command==\"Arranque 'Reverse'\")) ? true:false;\nvar Parada      = msg.command == \"Parada del equipo\" ? true:false;\ndelete msg.topic;\n// Arranque exitoso\nif(Arranque && Active0 == 0 && Active0 != Active1){\n    msg.payload =\"Arranque exitoso\";\n    global.set(\"C2S.FlagStatus\",true);\n}\n// Arranque fallido\nelse if(Arranque && Active0 == 0 && Active0 == Active1){\n    msg.payload = \"Arranque fallido\";\n}\n// Parada Exitosa\nelse if (Parada && Active0 == 1 && Active0 != Active1){\n    msg.payload = \"Parada exitosa\";\n    global.set(\"C2S.FlagStatus\", false);\n}\n// Parada Fallida\nelse if (Parada && Active0 == 1 && Active0 == Active1){\n    msg.payload = \"Parada fallida\";\n}\nelse{\n    return;\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 2050,
+        "y": 190,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a5e8864573dddfb3",
+        "type": "inject",
+        "z": "dede01fd738b74fb",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "10",
+        "topic": "",
+        "payload": "0",
+        "payloadType": "num",
+        "x": 1490,
+        "y": 70,
+        "wires": [
+            [
+                "6d9d9db4249e0786"
+            ]
+        ]
+    },
+    {
+        "id": "c971c8e2c6bae865",
+        "type": "function",
+        "z": "dede01fd738b74fb",
+        "name": "Bloque de arranque por protección",
+        "func": "var Prot = global.get(\"Protections.General\",'memoryOnly')||false;\nvar FallaGeneral = global.get(\"IO.Functions.DO['Falla general']\",\"memoryOnly\")||false;\nif ((Prot || FallaGeneral) &&  ((msg.command == \"Arranque 'Reverse'\") || (msg.command == \"Arranque 'Forward'\")) ){return;}\nelse{return msg;}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1520,
+        "y": 150,
+        "wires": [
+            [
+                "3b19e625fe821089"
+            ]
+        ]
+    },
+    {
+        "id": "ed7580e54c037f83",
+        "type": "switch",
+        "z": "dede01fd738b74fb",
+        "name": "comando",
+        "property": "command",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "cont",
+                "v": "Arranque",
+                "vt": "str"
+            },
+            {
+                "t": "cont",
+                "v": "Parada",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1250,
+        "y": 190,
+        "wires": [
+            [
+                "fcb4ac7f1b9dae47"
+            ],
+            [
+                "40ae9c7cdf5ae153"
+            ]
+        ]
+    },
+    {
+        "id": "40ae9c7cdf5ae153",
+        "type": "change",
+        "z": "dede01fd738b74fb",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Active0",
+                "pt": "flow",
+                "to": "#:(memoryOnly)::C2S.Drive_Status.Active",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1420,
+        "y": 230,
+        "wires": [
+            [
+                "ba925ffdcdeff873"
+            ]
+        ]
+    },
+    {
+        "id": "ba925ffdcdeff873",
+        "type": "function",
+        "z": "dede01fd738b74fb",
+        "name": "time",
+        "func": "var rampadesc = global.get(\"C2S.Speed_Control.Decel\")||0;\nvar hzmotor = global.get(\"C2S.Motor_Control.Nameplate.Hertz\")||60;\nvar frecact = global.get(\"C2S.Implicit.Output_Frequency\",\"memoryOnly\")||0;\n msg.delay = parseInt(((frecact/hzmotor)*rampadesc)*1000+500);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1580,
+        "y": 230,
+        "wires": [
+            [
+                "f96e627385a1291d"
+            ]
+        ]
+    },
+    {
+        "id": "f96e627385a1291d",
+        "type": "delay",
+        "z": "dede01fd738b74fb",
+        "name": "",
+        "pauseType": "delayv",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 1710,
+        "y": 230,
+        "wires": [
+            [
+                "823e72c33813a82b"
+            ]
+        ]
+    },
+    {
+        "id": "3b19e625fe821089",
+        "type": "function",
+        "z": "dede01fd738b74fb",
+        "name": "Int to IEEE 754",
+        "func": "v = new DataView(new ArrayBuffer(4));\nmsg.payload = msg.payload.toString(16);\nv.setUint32(0, '0x'+ msg.payload);\nnode.status({fill:\"green\",shape:\"dot\",text:v.getFloat32(0)});\n\nmsg.payload = v.getFloat32(0);\n\nreturn msg;\n\n// Fuentes:\n// https://stackoverflow.com/questions/41635908/node-red-parsing-json-data-and-converting-it-into-binary\n// https://stackoverflow.com/questions/49221045/javascript-hexadecimal-string-to-ieee-754-floating-point",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1460,
+        "y": 110,
+        "wires": [
+            [
+                "6d9d9db4249e0786"
+            ]
+        ]
+    },
+    {
+        "id": "73487ba243ec76e5",
+        "type": "switch",
+        "z": "dede01fd738b74fb",
+        "name": "",
+        "property": "topic",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Basic",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Direction",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 180,
+        "y": 200,
+        "wires": [
+            [
+                "bcb7509aed349ad1"
+            ],
+            [
+                "e1057bbb456536d5"
+            ]
+        ]
+    },
+    {
+        "id": "bcb7509aed349ad1",
+        "type": "switch",
+        "z": "dede01fd738b74fb",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Start",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Stop",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Reset",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 3,
+        "x": 340,
+        "y": 150,
+        "wires": [
+            [
+                "f9d939f50334d556"
+            ],
+            [
+                "4069f4f53d39f180"
+            ],
+            [
+                "830eaa9cdf7f22a8"
+            ]
+        ]
+    },
+    {
+        "id": "e1057bbb456536d5",
+        "type": "switch",
+        "z": "dede01fd738b74fb",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "num"
+            },
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 340,
+        "y": 250,
+        "wires": [
+            [
+                "f3496130126c37ca"
+            ],
+            [
+                "60c94bde0682a390"
+            ]
+        ]
+    },
+    {
+        "id": "60c94bde0682a390",
+        "type": "change",
+        "z": "dede01fd738b74fb",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Reverse",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 510,
+        "y": 270,
+        "wires": [
+            [
+                "05e19853d114c047"
+            ]
+        ]
+    },
+    {
+        "id": "f3496130126c37ca",
+        "type": "change",
+        "z": "dede01fd738b74fb",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Forward",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 510,
+        "y": 230,
+        "wires": [
+            [
+                "05e19853d114c047"
+            ]
+        ]
+    },
+    {
+        "id": "830eaa9cdf7f22a8",
+        "type": "change",
+        "z": "dede01fd738b74fb",
+        "name": "Reset",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Reset",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 510,
+        "y": 190,
+        "wires": [
+            [
+                "05e19853d114c047"
+            ]
+        ]
+    },
+    {
+        "id": "4069f4f53d39f180",
+        "type": "change",
+        "z": "dede01fd738b74fb",
+        "name": "Parada",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Stop",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 520,
+        "y": 150,
+        "wires": [
+            [
+                "05e19853d114c047"
+            ]
+        ]
+    },
+    {
+        "id": "f9d939f50334d556",
+        "type": "change",
+        "z": "dede01fd738b74fb",
+        "name": "Arranque",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Start",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 520,
+        "y": 110,
+        "wires": [
+            [
+                "05e19853d114c047"
+            ]
+        ]
+    },
+    {
+        "id": "05e19853d114c047",
+        "type": "function",
+        "z": "dede01fd738b74fb",
+        "name": "LogicCommand",
+        "func": "var Direction = global.get(\"C2S.Drive_Status.Command_dir\",\"memoryOnly\");\n\n//Mensaje de salida\nif(msg.payload == 'Start'){\n    if(Direction == 0){\n        msg.command = \"Arranque 'Reverse'\";\n    }\n    else{\n        msg.command = \"Arranque 'Forward'\";\n    }\n    msg.payload = 2;\n}\nelse if(msg.payload == 'Stop'){\n    msg.command = \"Parada del equipo\";\n    msg.payload = 1;\n}\nelse if(msg.payload == 'Reset'){\n    msg.command = \"Reset del equipo\";\n    msg.payload = 8;\n    \n}\nelse if(msg.payload == 'Forward'){\n    msg.command = \"Cambio sentido de giro a 'Forward'\";\n    msg.payload = 16;\n}\nelse if(msg.payload == 'Reverse'){\n    msg.command = \"Cambio sentido de giro a 'Reverse'\";\n    msg.payload = 32;\n}\nreturn msg",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 920,
+        "y": 190,
+        "wires": [
+            [
+                "ffb3a850b00b7999",
+                "c971c8e2c6bae865",
+                "ed7580e54c037f83",
+                "b2a15dd6797ee5fd"
+            ]
+        ]
+    },
+    {
+        "id": "cee273166255309b",
+        "type": "modbus-read",
+        "z": "62616833443f66d1",
+        "g": "86af7867dc10f4a8",
+        "name": "PyModbusServer",
+        "topic": "",
+        "showStatusActivities": false,
+        "logIOActivities": false,
+        "showErrors": false,
+        "unitid": "1",
+        "dataType": "HoldingRegister",
+        "adr": "55",
+        "quantity": "1",
+        "rate": "1",
+        "rateUnit": "s",
+        "delayOnStart": false,
+        "startDelayTime": "",
+        "server": "799f4188acf2e1c2",
+        "useIOFile": false,
+        "ioFile": "",
+        "useIOForPayload": false,
+        "emptyMsgOnFail": false,
+        "x": 400,
+        "y": 280,
+        "wires": [
+            [
+                "afe1476919e93746"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "02fa3bd22b68542c",
+        "type": "switch",
+        "z": "62616833443f66d1",
+        "g": "86af7867dc10f4a8",
+        "name": "",
+        "property": "payload[0]",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "num"
+            },
+            {
+                "t": "eq",
+                "v": "2",
+                "vt": "num"
+            },
+            {
+                "t": "eq",
+                "v": "4",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 3,
+        "x": 830,
+        "y": 280,
+        "wires": [
+            [
+                "7b4fce37df5072fe"
+            ],
+            [
+                "02c835a8f32d1489"
+            ],
+            [
+                "b8331b11d170686c"
+            ]
+        ]
+    },
+    {
+        "id": "cdc7c62e61a52ad1",
+        "type": "rbe",
+        "z": "62616833443f66d1",
+        "g": "86af7867dc10f4a8",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload[0]",
+        "x": 710,
+        "y": 280,
+        "wires": [
+            [
+                "02fa3bd22b68542c"
+            ]
+        ]
+    },
+    {
+        "id": "66dfe3945c1e17c8",
+        "type": "change",
+        "z": "62616833443f66d1",
+        "g": "86af7867dc10f4a8",
+        "name": "Arranque remoto bloqueado",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Intento de arranque remoto bloqueado",
+                "tot": "str"
+            },
+            {
+                "t": "delete",
+                "p": "topic",
+                "pt": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1120,
+        "y": 200,
+        "wires": [
+            [
+                "b9bd79738573cf77"
+            ]
+        ]
+    },
+    {
+        "id": "efd7e584f64dbd4d",
+        "type": "change",
+        "z": "62616833443f66d1",
+        "g": "86af7867dc10f4a8",
+        "name": "Parada remota bloqueada",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Intento de parada remota bloqueada",
+                "tot": "str"
+            },
+            {
+                "t": "delete",
+                "p": "topic",
+                "pt": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1110,
+        "y": 240,
+        "wires": [
+            [
+                "b9bd79738573cf77"
+            ]
+        ]
+    },
+    {
+        "id": "b9bd79738573cf77",
+        "type": "link out",
+        "z": "62616833443f66d1",
+        "g": "86af7867dc10f4a8",
+        "name": "Evento Arranque/Parada Bloqueado Link Out",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 1295,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "afe1476919e93746",
+        "type": "switch",
+        "z": "62616833443f66d1",
+        "g": "86af7867dc10f4a8",
+        "name": "SCADA TCP",
+        "property": "SCADA.Type",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "TCP",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 570,
+        "y": 280,
+        "wires": [
+            [
+                "cdc7c62e61a52ad1"
+            ]
+        ]
+    },
+    {
+        "id": "ecad181f90949027",
+        "type": "switch",
+        "z": "62616833443f66d1",
+        "g": "86af7867dc10f4a8",
+        "name": "SCADA RTU",
+        "property": "SCADA.Type",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "RTU",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 570,
+        "y": 330,
+        "wires": [
+            [
+                "cdc7c62e61a52ad1",
+                "cf6cb9bda7ca34fe"
+            ]
+        ]
+    },
+    {
+        "id": "cf6cb9bda7ca34fe",
+        "type": "debug",
+        "z": "62616833443f66d1",
+        "g": "86af7867dc10f4a8",
+        "name": "",
+        "active": true,
+        "tosidebar": false,
+        "console": false,
+        "tostatus": true,
+        "complete": "payload[0]",
+        "targetType": "msg",
+        "statusVal": "payload[50]",
+        "statusType": "auto",
+        "x": 740,
+        "y": 330,
+        "wires": []
+    },
+    {
+        "id": "9a89a147364d047e",
+        "type": "modbus-flex-getter",
+        "z": "62616833443f66d1",
+        "g": "86af7867dc10f4a8",
+        "name": "Leer Cubloc RS-232",
+        "showStatusActivities": true,
+        "showErrors": false,
+        "logIOActivities": false,
+        "server": "f630cb55.8d18e8",
+        "useIOFile": false,
+        "ioFile": "",
+        "useIOForPayload": false,
+        "emptyMsgOnFail": false,
+        "keepMsgProperties": false,
+        "x": 380,
+        "y": 330,
+        "wires": [
+            [
+                "ecad181f90949027"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "1ad6b8523892ce98",
+        "type": "function",
+        "z": "62616833443f66d1",
+        "g": "86af7867dc10f4a8",
+        "name": "Registro Modbus",
+        "func": "msg.payload = { \n    'fc': 4, \n    'unitid': 1, \n    'address': 28672+20+55, \n    'quantity':1   \n} \nreturn msg",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 170,
+        "y": 330,
+        "wires": [
+            [
+                "9a89a147364d047e"
+            ]
+        ]
+    },
+    {
+        "id": "cbed23389bd10c6d",
+        "type": "link in",
+        "z": "62616833443f66d1",
+        "g": "86af7867dc10f4a8",
+        "name": "Arranque/Parada/Reset RTU-Link In",
+        "links": [
+            "ad49f1ee486ceabf"
+        ],
+        "x": 45,
+        "y": 330,
+        "wires": [
+            [
+                "1ad6b8523892ce98"
+            ]
+        ]
+    },
+    {
+        "id": "7731a6f4d3e426d9",
+        "type": "change",
+        "z": "62616833443f66d1",
+        "g": "86af7867dc10f4a8",
+        "name": "Arranque Remoto",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Start",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Basic",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1250,
+        "y": 160,
+        "wires": [
+            [
+                "5db385c16da66c3c",
+                "0481fd0327707fa3",
+                "d31bc366f41b763d"
+            ]
+        ]
+    },
+    {
+        "id": "fbeed7bd9487f70a",
+        "type": "change",
+        "z": "62616833443f66d1",
+        "g": "86af7867dc10f4a8",
+        "name": "Parada Remota",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Stop",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Basic",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1240,
+        "y": 280,
+        "wires": [
+            [
+                "5db385c16da66c3c",
+                "0481fd0327707fa3",
+                "c5028a1ed882d76c",
+                "d31bc366f41b763d"
+            ]
+        ]
+    },
+    {
+        "id": "b8331b11d170686c",
+        "type": "change",
+        "z": "62616833443f66d1",
+        "g": "86af7867dc10f4a8",
+        "name": "Reset remoto",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Reset",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Basic",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1080,
+        "y": 320,
+        "wires": [
+            [
+                "d31bc366f41b763d"
+            ]
+        ]
+    },
+    {
+        "id": "f0bb1ce7574eb3c6",
+        "type": "switch",
+        "z": "62616833443f66d1",
+        "g": "86af7867dc10f4a8",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "cont",
+                "v": "exito",
+                "vt": "str"
+            },
+            {
+                "t": "cont",
+                "v": "fallid",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1670,
+        "y": 320,
+        "wires": [
+            [
+                "a06db97a696c56e5"
+            ],
+            [
+                "fd2e8c928f171188"
+            ]
+        ]
+    },
+    {
+        "id": "a06db97a696c56e5",
+        "type": "change",
+        "z": "62616833443f66d1",
+        "g": "86af7867dc10f4a8",
+        "name": "Exitoso",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "Arranque exitoso",
+                "fromt": "str",
+                "to": "Arranque remoto exitoso",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "Parada exitosa",
+                "fromt": "str",
+                "to": "Parada remota exitosa",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1800,
+        "y": 300,
+        "wires": [
+            [
+                "90ee82b36e7ab5d7"
+            ]
+        ]
+    },
+    {
+        "id": "fd2e8c928f171188",
+        "type": "change",
+        "z": "62616833443f66d1",
+        "g": "86af7867dc10f4a8",
+        "name": "Fallido",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "Arranque fallido",
+                "fromt": "str",
+                "to": "Arranque remoto fallido",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "Parada fallida",
+                "fromt": "str",
+                "to": "Parada remoto fallida",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1790,
+        "y": 340,
+        "wires": [
+            [
+                "d2709a662257cd9c"
+            ]
+        ]
+    },
+    {
+        "id": "90ee82b36e7ab5d7",
+        "type": "link out",
+        "z": "62616833443f66d1",
+        "g": "86af7867dc10f4a8",
+        "name": "",
+        "links": [
+            "207ea8ce.3dea68",
+            "2da816b7.b2be9a"
+        ],
+        "x": 1895,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "d2709a662257cd9c",
+        "type": "link out",
+        "z": "62616833443f66d1",
+        "g": "86af7867dc10f4a8",
+        "name": "",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 1895,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "7b4fce37df5072fe",
+        "type": "switch",
+        "z": "62616833443f66d1",
+        "g": "86af7867dc10f4a8",
+        "name": "Remoto",
+        "property": "Input.Operation.ControlMode",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Remoto",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Local",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1060,
+        "y": 160,
+        "wires": [
+            [
+                "7731a6f4d3e426d9"
+            ],
+            [
+                "66dfe3945c1e17c8"
+            ]
+        ]
+    },
+    {
+        "id": "02c835a8f32d1489",
+        "type": "switch",
+        "z": "62616833443f66d1",
+        "g": "86af7867dc10f4a8",
+        "name": "Remoto",
+        "property": "Input.Operation.ControlMode",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Local",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Remoto",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1060,
+        "y": 280,
+        "wires": [
+            [
+                "efd7e584f64dbd4d"
+            ],
+            [
+                "fbeed7bd9487f70a"
+            ]
+        ]
+    },
+    {
+        "id": "ba4a729ec121a72f",
+        "type": "modbus-flex-write",
+        "z": "62616833443f66d1",
+        "d": true,
+        "g": "86af7867dc10f4a8",
+        "name": "Reset Pymodbus Command",
+        "showStatusActivities": false,
+        "showErrors": false,
+        "server": "799f4188acf2e1c2",
+        "emptyMsgOnFail": false,
+        "keepMsgProperties": false,
+        "x": 1760,
+        "y": 160,
+        "wires": [
+            [],
+            []
+        ]
+    },
+    {
+        "id": "5db385c16da66c3c",
+        "type": "function",
+        "z": "62616833443f66d1",
+        "d": true,
+        "g": "86af7867dc10f4a8",
+        "name": "Registro Modbus",
+        "func": "msg.payload = { \n    'value':0,\n    'fc': 6, \n    'unitid': 1, \n    'address': 55, \n    'quantity':1   \n} \nreturn msg",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1510,
+        "y": 160,
+        "wires": [
+            [
+                "ba4a729ec121a72f"
+            ]
+        ]
+    },
+    {
+        "id": "0481fd0327707fa3",
+        "type": "function",
+        "z": "62616833443f66d1",
+        "d": true,
+        "g": "86af7867dc10f4a8",
+        "name": "Registro Modbus",
+        "func": "msg.payload = { \n    'fc': 6, \n    'unitid': 1, \n    'address': 28672+20+55, \n    'quantity':1   \n} \nreturn msg",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1510,
+        "y": 200,
+        "wires": [
+            [
+                "9067120d9d249e97"
+            ]
+        ]
+    },
+    {
+        "id": "9067120d9d249e97",
+        "type": "modbus-flex-write",
+        "z": "62616833443f66d1",
+        "d": true,
+        "g": "86af7867dc10f4a8",
+        "name": "Reset CUBLOC Command",
+        "showStatusActivities": false,
+        "showErrors": false,
+        "server": "f630cb55.8d18e8",
+        "emptyMsgOnFail": false,
+        "keepMsgProperties": false,
+        "x": 1760,
+        "y": 200,
+        "wires": [
+            [],
+            []
+        ]
+    },
+    {
+        "id": "c5028a1ed882d76c",
+        "type": "link out",
+        "z": "62616833443f66d1",
+        "g": "86af7867dc10f4a8",
+        "name": "parada remota",
+        "links": [],
+        "x": 1395,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "d31bc366f41b763d",
+        "type": "subflow:c8b77ff3.ab501",
+        "z": "62616833443f66d1",
+        "g": "86af7867dc10f4a8",
+        "name": "",
+        "x": 1520,
+        "y": 320,
+        "wires": [
+            [],
+            [
+                "f0bb1ce7574eb3c6"
+            ]
+        ]
+    },
+    {
+        "id": "16a7a084b723c573",
+        "type": "switch",
+        "z": "2e27dea6.c4c362",
+        "g": "931b0370.afc1b",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "cont",
+                "v": "remot",
+                "vt": "str"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1490,
+        "y": 220,
+        "wires": [
+            [
+                "a0144e1f522e95e8"
+            ],
+            [
+                "65dbd957.020378"
+            ]
+        ]
+    },
+    {
+        "id": "a0144e1f522e95e8",
+        "type": "change",
+        "z": "2e27dea6.c4c362",
+        "g": "931b0370.afc1b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Remoto_Event",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1660,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2347630c2ccc307b",
+        "type": "inject",
+        "z": "2e27dea6.c4c362",
+        "g": "931b0370.afc1b",
+        "name": "",
+        "props": [
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "Remoto",
+        "payloadType": "str",
+        "x": 1460,
+        "y": 140,
+        "wires": [
+            [
+                "c22e3c27600ab315"
+            ]
+        ]
+    },
+    {
+        "id": "9447aaa1f5dce4f1",
+        "type": "rbe",
+        "z": "2e27dea6.c4c362",
+        "g": "931b0370.afc1b",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 1770,
+        "y": 140,
+        "wires": [
+            [
+                "65dbd957.020378"
+            ]
+        ]
+    },
+    {
+        "id": "c22e3c27600ab315",
+        "type": "change",
+        "z": "2e27dea6.c4c362",
+        "g": "931b0370.afc1b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Remoto_Event",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1620,
+        "y": 140,
+        "wires": [
+            [
+                "9447aaa1f5dce4f1"
+            ]
         ]
     }
 ]
