@@ -1139,9 +1139,7 @@
             "b269ff5b6732d608"
         ],
         "x": 24,
-        "y": 609,
-        "w": 2632,
-        "h": 552
+        "y": 609
     },
     {
         "id": "3cb51855.a66038",
@@ -1156,9 +1154,7 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169,
-        "w": 232,
-        "h": 82
+        "y": 1169
     },
     {
         "id": "27a0641a.d154dc",
@@ -1345,9 +1341,7 @@
             "4dc2e0cc6857b0e1"
         ],
         "x": 24,
-        "y": 289,
-        "w": 2762,
-        "h": 279.5
+        "y": 289
     },
     {
         "id": "deaa6892.b3d988",
@@ -1363,9 +1357,7 @@
             "b1830307.ee865"
         ],
         "x": 8,
-        "y": 13,
-        "w": 1860,
-        "h": 244
+        "y": 13
     },
     {
         "id": "1dd5b051.a95e6",
@@ -1436,9 +1428,7 @@
             "70b2c288.8683bc"
         ],
         "x": 14,
-        "y": 589,
-        "w": 2012,
-        "h": 442
+        "y": 589
     },
     {
         "id": "f7ed166d.1aa528",
@@ -1456,9 +1446,7 @@
             "eb91dac5.690838"
         ],
         "x": -12,
-        "y": 13,
-        "w": 1664,
-        "h": 1200
+        "y": 13
     },
     {
         "id": "e98dc6a9.24ece8",
@@ -1512,9 +1500,7 @@
             "996a9142c814ab39"
         ],
         "x": 24,
-        "y": 429,
-        "w": 712,
-        "h": 242
+        "y": 429
     },
     {
         "id": "6abd418f.d175b",
@@ -1529,9 +1515,7 @@
             "b2f2659a.67f648"
         ],
         "x": 18,
-        "y": 23,
-        "w": 1754,
-        "h": 404
+        "y": 23
     },
     {
         "id": "8c207e440fb46f33",
@@ -1547,9 +1531,7 @@
             "9f77b0d829ad914b"
         ],
         "x": 514,
-        "y": 769,
-        "w": 282,
-        "h": 82
+        "y": 769
     },
     {
         "id": "38940f8.c9c27f",
@@ -2173,9 +2155,7 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269,
-        "w": 352,
-        "h": 82
+        "y": 1269
     },
     {
         "id": "6202107f.ed9aa",
@@ -2251,9 +2231,7 @@
             "28f9623a0f710b9d"
         ],
         "x": 44,
-        "y": -1,
-        "w": 1992,
-        "h": 602
+        "y": -1
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -2265,17 +2243,27 @@
             "color": "#000000"
         },
         "nodes": [
-            "b079c206d161b62c",
             "c483d44b5f6def10",
-            "f7709059ebe5ad7b",
             "4c5e730b1b6ea1a5",
             "f401446baabcbb6e",
-            "7a9362a4e974c10e"
+            "7a9362a4e974c10e",
+            "98714be34ce8af66",
+            "4e987c372b60072f",
+            "bb0ebea3f423eff4",
+            "4666f748c5fe4994",
+            "f5ee16d0dbd974fa",
+            "76e0c2528a4c9afb",
+            "c9155fb8af804ad7",
+            "22737c9a3e91330f",
+            "a1c6952a0a98e897",
+            "da849ce7.0ef51",
+            "f7709059ebe5ad7b",
+            "3ee2c05ec63c6a46",
+            "546f599e6c10476b",
+            "010258a2a7d1f011"
         ],
         "x": 3224,
-        "y": 3,
-        "w": 1284,
-        "h": 1554
+        "y": -1
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -2296,9 +2284,7 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169,
-        "w": 782,
-        "h": 182
+        "y": 1169
     },
     {
         "id": "086b9d08c3b68939",
@@ -2329,9 +2315,7 @@
             "5bd4c7b34ec6fe9c"
         ],
         "x": 24,
-        "y": 1359,
-        "w": 1022,
-        "h": 292
+        "y": 1359
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -2357,9 +2341,7 @@
             "6e75b5f5657d3a7e"
         ],
         "x": 24,
-        "y": 1679,
-        "w": 1132,
-        "h": 202
+        "y": 1679
     },
     {
         "id": "afdbbb533d628687",
@@ -2375,9 +2357,7 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679,
-        "w": 332,
-        "h": 82
+        "y": 1679
     },
     {
         "id": "ba075c8cc622876a",
@@ -2481,9 +2461,7 @@
             "b88575ca75fdb4f5"
         ],
         "x": 754,
-        "y": 429,
-        "w": 922,
-        "h": 82
+        "y": 429
     },
     {
         "id": "d175fb986dc9e991",
@@ -2503,9 +2481,7 @@
             "36c70d85dac8cd26"
         ],
         "x": 754,
-        "y": 519,
-        "w": 922,
-        "h": 82
+        "y": 519
     },
     {
         "id": "62fac95632266b01",
@@ -2558,9 +2534,7 @@
             "22b2f935e069825d"
         ],
         "x": 2398,
-        "y": 133,
-        "w": 1344,
-        "h": 714
+        "y": 133
     },
     {
         "id": "ef342a4a7f2984c3",
@@ -2578,9 +2552,7 @@
             "ce0884f8ad42bd03"
         ],
         "x": 34,
-        "y": 1019,
-        "w": 332,
-        "h": 122
+        "y": 1019
     },
     {
         "id": "c09ce75a93685feb",
@@ -2597,9 +2569,7 @@
             "6ef714d5a2569e8a"
         ],
         "x": 8,
-        "y": 403,
-        "w": 2234,
-        "h": 584
+        "y": 403
     },
     {
         "id": "23a61c692dd8e203",
@@ -2814,9 +2784,7 @@
             "ca1808e9c0cebc54"
         ],
         "x": 52,
-        "y": 1017,
-        "w": 3176,
-        "h": 2556
+        "y": 1017
     },
     {
         "id": "30bf9bf9f58a95d5",
@@ -2833,9 +2801,7 @@
             "043b7d2efd6242c1"
         ],
         "x": 78,
-        "y": 73,
-        "w": 1264,
-        "h": 574
+        "y": 73
     },
     {
         "id": "3d603bc8c80c2124",
@@ -2855,9 +2821,7 @@
             "8f311859e2329cb0"
         ],
         "x": 1364,
-        "y": 369,
-        "w": 902,
-        "h": 82
+        "y": 369
     },
     {
         "id": "4c1b2fd5bfa8819c",
@@ -2873,9 +2837,7 @@
             "af436d3d4e5d33de"
         ],
         "x": 42,
-        "y": 3587,
-        "w": 3010,
-        "h": 1400
+        "y": 3587
     },
     {
         "id": "600556d8bd2ccda4",
@@ -2940,9 +2902,7 @@
             "72c298a02ef42417"
         ],
         "x": 1364,
-        "y": 469,
-        "w": 2342,
-        "h": 532
+        "y": 469
     },
     {
         "id": "a9988da34f9622ff",
@@ -2969,9 +2929,7 @@
             "03552a6ae2d7be66"
         ],
         "x": 1364,
-        "y": 19,
-        "w": 1032,
-        "h": 322
+        "y": 19
     },
     {
         "id": "82fde41a.c6f8d8",
@@ -3026,9 +2984,7 @@
             "797d0bfa791a4802"
         ],
         "x": 28,
-        "y": 33,
-        "w": 2514,
-        "h": 884
+        "y": 33
     },
     {
         "id": "82531c262cad7a91",
@@ -3082,9 +3038,7 @@
             "766cfa87ec44f683"
         ],
         "x": 1394,
-        "y": 89,
-        "w": 662,
-        "h": 272
+        "y": 89
     },
     {
         "id": "f2ce71497366a377",
@@ -3162,9 +3116,7 @@
             "84a9ae90398dbd2d"
         ],
         "x": 34,
-        "y": 393,
-        "w": 1988,
-        "h": 848
+        "y": 393
     },
     {
         "id": "99b24e0896cf0f0c",
@@ -3183,9 +3135,7 @@
             "1c4e319074fb108b"
         ],
         "x": 34,
-        "y": 59,
-        "w": 592,
-        "h": 142
+        "y": 59
     },
     {
         "id": "03502219e91ec6ae",
@@ -3232,9 +3182,7 @@
             "f8f18ac4d264c97b"
         ],
         "x": 64,
-        "y": 399,
-        "w": 882,
-        "h": 162
+        "y": 399
     },
     {
         "id": "610861a3f96d22bd",
@@ -3259,54 +3207,53 @@
             "391bfdae0921e15a"
         ],
         "x": 634,
-        "y": 59,
-        "w": 672,
-        "h": 222
+        "y": 59
     },
     {
-        "id": "b079c206d161b62c",
+        "id": "86af7867dc10f4a8",
         "type": "group",
-        "z": "902fc438.e5d758",
-        "g": "986845c5f7bf4a6e",
-        "name": "Datos C2S",
+        "z": "62616833443f66d1",
         "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
             "label": true,
-            "color": "#000000"
+            "label-position": "nw",
+            "color": "#a4a4a4"
         },
         "nodes": [
-            "da849ce7.0ef51",
-            "91d0b53c.1d8108",
-            "9281052c5006f5cf",
-            "4cd1923cb1d5951a",
-            "91b159ed393129d5",
-            "14b624872fa9e14b",
-            "f2dca386e37d649a",
-            "379d4458abd94a83",
-            "afffa809929fb40d",
-            "8d6f8e22ed531a56"
+            "cee273166255309b",
+            "02fa3bd22b68542c",
+            "cdc7c62e61a52ad1",
+            "66dfe3945c1e17c8",
+            "efd7e584f64dbd4d",
+            "b9bd79738573cf77",
+            "afe1476919e93746",
+            "ecad181f90949027",
+            "cf6cb9bda7ca34fe",
+            "9a89a147364d047e",
+            "1ad6b8523892ce98",
+            "cbed23389bd10c6d",
+            "7731a6f4d3e426d9",
+            "fbeed7bd9487f70a",
+            "b8331b11d170686c",
+            "f0bb1ce7574eb3c6",
+            "a06db97a696c56e5",
+            "fd2e8c928f171188",
+            "90ee82b36e7ab5d7",
+            "d2709a662257cd9c",
+            "7b4fce37df5072fe",
+            "02c835a8f32d1489",
+            "ba4a729ec121a72f",
+            "5db385c16da66c3c",
+            "0481fd0327707fa3",
+            "9067120d9d249e97",
+            "c5028a1ed882d76c",
+            "d31bc366f41b763d"
         ],
-        "x": 3434,
-        "y": 29,
-        "w": 492,
-        "h": 402
-    },
-    {
-        "id": "f7709059ebe5ad7b",
-        "type": "group",
-        "z": "902fc438.e5d758",
-        "g": "986845c5f7bf4a6e",
-        "name": "Datos Eléctricos",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "36fa9c99094e8f47",
-            "aafad2ba.dcc8b"
-        ],
-        "x": 3428,
-        "y": 443,
-        "w": 1054,
-        "h": 634
+        "x": 4,
+        "y": 119
     },
     {
         "id": "c483d44b5f6def10",
@@ -3331,10 +3278,8 @@
             "19f2be657598cdd0",
             "45aad8d3129156ca"
         ],
-        "x": 3424,
-        "y": 1089,
-        "w": 472,
-        "h": 442
+        "x": 3434,
+        "y": 1199
     },
     {
         "id": "77dcd918.f8c298",
@@ -3577,9 +3522,7 @@
             "14a4402df6867bdb"
         ],
         "x": 950,
-        "y": 39,
-        "w": 892,
-        "h": 182
+        "y": 39
     },
     {
         "id": "f3c2e7cf.5ed158",
@@ -3603,9 +3546,7 @@
             "b045615539735b86"
         ],
         "x": 14,
-        "y": 463,
-        "w": 958,
-        "h": 724
+        "y": 463
     },
     {
         "id": "eb91dac5.690838",
@@ -3659,9 +3600,7 @@
             "e9b1c7933c86ffa9"
         ],
         "x": 44,
-        "y": 39,
-        "w": 1582,
-        "h": 402
+        "y": 39
     },
     {
         "id": "8ed62712.fe2018",
@@ -3694,9 +3633,7 @@
             "c30439cc.4bcb68"
         ],
         "x": 44,
-        "y": 49,
-        "w": 1422,
-        "h": 212
+        "y": 49
     },
     {
         "id": "b2f2659a.67f648",
@@ -3725,9 +3662,7 @@
             "2c9d8d63e1dd0fbe"
         ],
         "x": 44,
-        "y": 269,
-        "w": 1702,
-        "h": 132
+        "y": 269
     },
     {
         "id": "70a63b74.44894c",
@@ -4083,9 +4018,7 @@
             "1a666ca6835d2d34"
         ],
         "x": 74,
-        "y": 399,
-        "w": 852,
-        "h": 132
+        "y": 399
     },
     {
         "id": "cf985e84.c7693",
@@ -4265,9 +4198,7 @@
             "4fb76cafe519048c"
         ],
         "x": 2424,
-        "y": 159,
-        "w": 1292,
-        "h": 532
+        "y": 159
     },
     {
         "id": "22b2f935e069825d",
@@ -4288,9 +4219,7 @@
             "e74da3e6e268b270"
         ],
         "x": 2424,
-        "y": 699,
-        "w": 832,
-        "h": 122
+        "y": 699
     },
     {
         "id": "103cd2dbe76e1fc5",
@@ -4314,9 +4243,7 @@
             "2a531a19f520cae6"
         ],
         "x": 64,
-        "y": 429,
-        "w": 952,
-        "h": 132
+        "y": 429
     },
     {
         "id": "6ef714d5a2569e8a",
@@ -4351,9 +4278,7 @@
             "075186ebd79ef2c7"
         ],
         "x": 1044,
-        "y": 439,
-        "w": 1172,
-        "h": 252
+        "y": 439
     },
     {
         "id": "c40108170a37478f",
@@ -4392,9 +4317,7 @@
             "2d8469fec0420fb6"
         ],
         "x": 34,
-        "y": 719,
-        "w": 1672,
-        "h": 242
+        "y": 719
     },
     {
         "id": "4af99851.bcfb28",
@@ -4749,9 +4672,7 @@
             "0d3271d48cdd3dc2"
         ],
         "x": 78,
-        "y": 1053,
-        "w": 1724,
-        "h": 2494
+        "y": 1053
     },
     {
         "id": "ca1808e9c0cebc54",
@@ -4769,9 +4690,7 @@
             "acf6618644660324"
         ],
         "x": 1828,
-        "y": 1043,
-        "w": 1374,
-        "h": 1511.5
+        "y": 1043
     },
     {
         "id": "3305d8d35ba0e514",
@@ -4816,9 +4735,7 @@
             "e913dcf6680dfc81"
         ],
         "x": 104,
-        "y": 99,
-        "w": 1212,
-        "h": 362
+        "y": 99
     },
     {
         "id": "043b7d2efd6242c1",
@@ -4842,9 +4759,7 @@
             "64e79399f67005ea"
         ],
         "x": 104,
-        "y": 469,
-        "w": 1002,
-        "h": 152
+        "y": 469
     },
     {
         "id": "eae7b72d553551bc",
@@ -4861,9 +4776,7 @@
             "7d3d6fba6fb45cf5"
         ],
         "x": 68,
-        "y": 3673,
-        "w": 1284,
-        "h": 739
+        "y": 3673
     },
     {
         "id": "af436d3d4e5d33de",
@@ -4940,9 +4853,7 @@
             "9f7b833ed93f0cc5"
         ],
         "x": 1358,
-        "y": 3613,
-        "w": 1668,
-        "h": 1348
+        "y": 3613
     },
     {
         "id": "b1830307.ee865",
@@ -4973,9 +4884,7 @@
             "62b716baf0dcbdaa"
         ],
         "x": 34,
-        "y": 39,
-        "w": 908,
-        "h": 192
+        "y": 39
     },
     {
         "id": "0da80a43af717368",
@@ -5005,9 +4914,7 @@
             "bcbd8b8c21a84e24"
         ],
         "x": 54,
-        "y": 59,
-        "w": 752,
-        "h": 202
+        "y": 59
     },
     {
         "id": "4b547685fb66afe1",
@@ -5037,9 +4944,7 @@
             "112b2631e70ae588"
         ],
         "x": 814,
-        "y": 59,
-        "w": 892,
-        "h": 292
+        "y": 59
     },
     {
         "id": "949f80f33ee1d4b6",
@@ -5064,9 +4969,7 @@
             "85f09df66fd26667"
         ],
         "x": 1714,
-        "y": 59,
-        "w": 802,
-        "h": 202
+        "y": 59
     },
     {
         "id": "797d0bfa791a4802",
@@ -5133,9 +5036,7 @@
             "2f149d87d9a4306f"
         ],
         "x": 54,
-        "y": 359,
-        "w": 1912,
-        "h": 532
+        "y": 359
     },
     {
         "id": "b6f76c1e8ebe8335",
@@ -5161,65 +5062,24 @@
             "b3215b121cbfbf66"
         ],
         "x": 1324,
-        "y": 419,
-        "w": 672,
-        "h": 202
+        "y": 419
     },
     {
-        "id": "aafad2ba.dcc8b",
+        "id": "f7709059ebe5ad7b",
         "type": "group",
         "z": "902fc438.e5d758",
-        "g": "f7709059ebe5ad7b",
-        "name": "Trend Harmonics",
+        "g": "986845c5f7bf4a6e",
+        "name": "Datos Eléctricos",
         "style": {
-            "fill": "#ffefbf",
-            "label": true,
-            "color": "#000000"
+            "label": true
         },
         "nodes": [
-            "5b529f4c.7ffeb",
-            "6c9ed5d3.e7799c",
-            "23815ef1.931a32",
-            "2b47642.2404d9c",
-            "eddefb96.175bf8",
-            "a5c181ee.2efe1",
-            "b54a4559.022378",
-            "3ea5879e.bf0588",
-            "c8aa3a95.12b518",
-            "20b8681c.81fd48",
-            "3ccbaa0b.2db096",
-            "1f3630da2492d4f9"
+            "e9b241df594b8883",
+            "36fa9c99094e8f47",
+            "aafad2ba.dcc8b"
         ],
-        "x": 3454,
-        "y": 839,
-        "w": 1002,
-        "h": 212
-    },
-    {
-        "id": "36fa9c99094e8f47",
-        "type": "group",
-        "z": "902fc438.e5d758",
-        "g": "f7709059ebe5ad7b",
-        "name": "Datos de fases",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "6784775a.6334d8",
-            "7dad9b43beefaa90",
-            "c317645c3c09e5cf",
-            "b8b03c987e844b4a",
-            "284e8360857dd2c6",
-            "0d744c83e33992d3",
-            "cfaca06ac50b5d36",
-            "ea4e85ef2d837356",
-            "3a1748983f097cb1"
-        ],
-        "x": 3454,
-        "y": 469,
-        "w": 402,
-        "h": 362
+        "x": 3428,
+        "y": 443
     },
     {
         "id": "a80677cf.4274c8",
@@ -5240,9 +5100,7 @@
             "ecd73acb6f9a9a0a"
         ],
         "x": 584,
-        "y": 959,
-        "w": 362,
-        "h": 202
+        "y": 959
     },
     {
         "id": "64ff74e5.f4c53c",
@@ -5262,9 +5120,7 @@
             "c1672804cba19e98"
         ],
         "x": 574,
-        "y": 489,
-        "w": 172,
-        "h": 212
+        "y": 489
     },
     {
         "id": "be55ea76.ed4478",
@@ -5285,9 +5141,7 @@
             "41b82348a8ab40a8"
         ],
         "x": 564,
-        "y": 719,
-        "w": 372,
-        "h": 202
+        "y": 719
     },
     {
         "id": "1d477816.993308",
@@ -6049,9 +5903,7 @@
             "5da923b060b7d724"
         ],
         "x": 104,
-        "y": 1079,
-        "w": 1242,
-        "h": 862
+        "y": 1079
     },
     {
         "id": "b670eeac81e3a4e1",
@@ -6081,9 +5933,7 @@
             "6b6e6135b877d85a"
         ],
         "x": 124,
-        "y": 3339,
-        "w": 862,
-        "h": 182
+        "y": 3339
     },
     {
         "id": "404043e2f2ac38f5",
@@ -6138,9 +5988,7 @@
             "152f2e6794c7d506"
         ],
         "x": 1854,
-        "y": 1069,
-        "w": 1292,
-        "h": 502
+        "y": 1069
     },
     {
         "id": "acf6618644660324",
@@ -6201,9 +6049,7 @@
             "1db2dfd67adbd3b4"
         ],
         "x": 1884,
-        "y": 1989,
-        "w": 1292,
-        "h": 539.5
+        "y": 1989
     },
     {
         "id": "0d3271d48cdd3dc2",
@@ -6410,9 +6256,7 @@
             "42bb07ced8a868c3"
         ],
         "x": 114,
-        "y": 1959,
-        "w": 1662,
-        "h": 1322
+        "y": 1959
     },
     {
         "id": "7d3d6fba6fb45cf5",
@@ -6475,9 +6319,7 @@
             "abc01cdd43776442"
         ],
         "x": 94,
-        "y": 3699,
-        "w": 1232,
-        "h": 687
+        "y": 3699
     },
     {
         "id": "01d2b2ec2f34b6be",
@@ -6516,9 +6358,7 @@
             "d4e43509215bf215"
         ],
         "x": 1384,
-        "y": 3639,
-        "w": 1232,
-        "h": 322
+        "y": 3639
     },
     {
         "id": "b4a46197db30977b",
@@ -6558,57 +6398,59 @@
             "592f8a1403a12574"
         ],
         "x": 1384,
-        "y": 3959,
-        "w": 722,
-        "h": 442
+        "y": 3959
     },
     {
-        "id": "86af7867dc10f4a8",
+        "id": "36fa9c99094e8f47",
         "type": "group",
-        "z": "62616833443f66d1",
+        "z": "902fc438.e5d758",
+        "g": "f7709059ebe5ad7b",
+        "name": "Datos de fases",
         "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
             "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
+            "color": "#000000"
         },
         "nodes": [
-            "cee273166255309b",
-            "02fa3bd22b68542c",
-            "cdc7c62e61a52ad1",
-            "66dfe3945c1e17c8",
-            "efd7e584f64dbd4d",
-            "b9bd79738573cf77",
-            "afe1476919e93746",
-            "ecad181f90949027",
-            "cf6cb9bda7ca34fe",
-            "9a89a147364d047e",
-            "1ad6b8523892ce98",
-            "cbed23389bd10c6d",
-            "7731a6f4d3e426d9",
-            "fbeed7bd9487f70a",
-            "b8331b11d170686c",
-            "f0bb1ce7574eb3c6",
-            "a06db97a696c56e5",
-            "fd2e8c928f171188",
-            "90ee82b36e7ab5d7",
-            "d2709a662257cd9c",
-            "7b4fce37df5072fe",
-            "02c835a8f32d1489",
-            "ba4a729ec121a72f",
-            "5db385c16da66c3c",
-            "0481fd0327707fa3",
-            "9067120d9d249e97",
-            "c5028a1ed882d76c",
-            "d31bc366f41b763d"
+            "6784775a.6334d8",
+            "7dad9b43beefaa90",
+            "c317645c3c09e5cf",
+            "b8b03c987e844b4a",
+            "284e8360857dd2c6",
+            "0d744c83e33992d3",
+            "cfaca06ac50b5d36",
+            "ea4e85ef2d837356",
+            "3a1748983f097cb1"
         ],
-        "x": 4,
-        "y": 119,
-        "w": 1932,
-        "h": 262
+        "x": 3454,
+        "y": 469
+    },
+    {
+        "id": "aafad2ba.dcc8b",
+        "type": "group",
+        "z": "902fc438.e5d758",
+        "g": "f7709059ebe5ad7b",
+        "name": "Trend Harmonics",
+        "style": {
+            "fill": "#ffefbf",
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "5b529f4c.7ffeb",
+            "6c9ed5d3.e7799c",
+            "23815ef1.931a32",
+            "2b47642.2404d9c",
+            "eddefb96.175bf8",
+            "a5c181ee.2efe1",
+            "b54a4559.022378",
+            "3ea5879e.bf0588",
+            "c8aa3a95.12b518",
+            "20b8681c.81fd48",
+            "3ccbaa0b.2db096",
+            "1f3630da2492d4f9"
+        ],
+        "x": 3454,
+        "y": 839
     },
     {
         "id": "d25d405a.19cff",
@@ -8487,105 +8329,6 @@
         "hidden": false
     },
     {
-        "id": "436fb48432daa160",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "2d559537.720c4a",
-        "order": 11,
-        "width": 3,
-        "height": 1
-    },
-    {
-        "id": "cacb62d1ffe00801",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "f7aa27b.6c2ded8",
-        "order": 7,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "6a245b8eebc3eae9",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "f7aa27b.6c2ded8",
-        "order": 9,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "5be45ee5bd6d139c",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "f7aa27b.6c2ded8",
-        "order": 11,
-        "width": 7,
-        "height": 1
-    },
-    {
-        "id": "0af93c5d50601f85",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "474271dc.04fa9",
-        "order": 11,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "5c4fbc649735d94b",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "26126cf5.7e87a4",
-        "order": 11,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "de1cb0d1d9581b33",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "26126cf5.7e87a4",
-        "order": 12,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "41650e3a74792ab3",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "ce90620a3fb9807d",
-        "order": 2,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "df591277b38cd9e4",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "ce90620a3fb9807d",
-        "order": 6,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "c38cfb5174982076",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "ce90620a3fb9807d",
-        "order": 13,
-        "width": 4,
-        "height": 1
-    },
-    {
-        "id": "570ad6bae3badf68",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "ce90620a3fb9807d",
-        "order": 16,
-        "width": 2,
-        "height": 1
-    },
-    {
         "id": "0216d7311c6659cd",
         "type": "ui_group",
         "name": "Chart1",
@@ -8749,6 +8492,123 @@
         "reconnectOnTimeout": true,
         "reconnectTimeout": 2000,
         "parallelUnitIdsAllowed": true
+    },
+    {
+        "id": "9cd697d2ea3a3623",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "2d559537.720c4a",
+        "order": 11,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "fae03be492a24bf7",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "f7aa27b.6c2ded8",
+        "order": 7,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "2f0ac66adfb28c1a",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "f7aa27b.6c2ded8",
+        "order": 9,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "67cfc500a7087df0",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "f7aa27b.6c2ded8",
+        "order": 11,
+        "width": 7,
+        "height": 1
+    },
+    {
+        "id": "8a9ea01ea4938f97",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "1b027e16.1fc232",
+        "order": 14,
+        "width": 8,
+        "height": 1
+    },
+    {
+        "id": "b625ca3adb0990bb",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "1b027e16.1fc232",
+        "order": 15,
+        "width": 8,
+        "height": 1
+    },
+    {
+        "id": "2a336f08f911d43c",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "474271dc.04fa9",
+        "order": 11,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "4a95273767d1d0c8",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "26126cf5.7e87a4",
+        "order": 11,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "80863243601d9b18",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "26126cf5.7e87a4",
+        "order": 12,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "d3e2df46d36c60dc",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "ce90620a3fb9807d",
+        "order": 2,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "6e5d82b87909743e",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "ce90620a3fb9807d",
+        "order": 6,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "be03903de1281e59",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "ce90620a3fb9807d",
+        "order": 13,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "7c205cc2003e6653",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "ce90620a3fb9807d",
+        "order": 16,
+        "width": 2,
+        "height": 1
     },
     {
         "id": "8c24ec8f.cf43c",
@@ -10713,7 +10573,7 @@
         "id": "da849ce7.0ef51",
         "type": "function",
         "z": "902fc438.e5d758",
-        "g": "b079c206d161b62c",
+        "g": "986845c5f7bf4a6e",
         "name": "Data show",
         "func": "var Output_Frequency    = global.get(\"C2S.Implicit.Output_Frequency\",'memoryOnly')||0;\nvar Power_Factor        = global.get(\"C2S.Implicit.Power_Factor\",'memoryOnly')||0;\nvar Output_Voltage      = global.get(\"C2S.Implicit.Output_Voltage\", 'memoryOnly') || 0;\nvar Bus_DC_Volts        = global.get(\"C2S.Implicit.Bus_DC_Volts\", 'memoryOnly') || 0;\nvar Output_Power        = global.get(\"C2S.Implicit.Output_Power\", 'memoryOnly') || 0;\nvar Output_Current      = global.get(\"C2S.Implicit.Output_Current\", 'memoryOnly') || 0;\n\nvar MtrCurrent;\nvar MtrVoltage;\n\nvar MaxLimit = global.get(\"C2S.Speed_Control.MaxLimit\")||1;\nvar Speed = global.get(\"C2S.Implicit.Output_Frequency\",'memoryOnly')||0;\nvar SpeedPercentage = (Math.abs(Speed) / MaxLimit)*100;\n\nvar MtrCtrl = global.get(\"C2S.Motor_Control.Type\") || \"IM\";\nvar Rtx;\n\n// Corriente y tensión de motor\nRtx = global.get(\"C2S.RelTx\") || 1;\nMtrVoltage = Output_Voltage * Rtx;\nMtrCurrent = Output_Current / Rtx;\nflow.set(\"Current_Motor\",MtrCurrent,\"memoryOnly\");\n\nreturn[\n    { payload: catcherror(Output_Frequency,3)+ \" \" + \"Hz\"},\n    { payload: catcherror(SpeedPercentage,0) + \" \" + \"%\"},\n    { payload: catcherror(Power_Factor,3) + \" \" + \"\" },\n    { payload: catcherror(Output_Current,3) + \" \" + \"A\" },\n    { payload: catcherror(Bus_DC_Volts,0) + \" \" + \"V\" },\n    { payload: catcherror(MtrVoltage,1) + \" \" + \"V\" },\n    { payload: catcherror(Output_Power,1) + \" \" + \"kW\" },\n    { payload: catcherror(Output_Voltage,1) + \" \" + \"V\" },\n    { payload: catcherror(MtrCurrent,1) + \" \" + \"A\" },\n]\n\nfunction catcherror(variable,dec){\n    return parseFloat(variable.toFixed(dec));\n}",
         "outputs": 9,
@@ -10725,31 +10585,29 @@
         "y": 190,
         "wires": [
             [
-                "91d0b53c.1d8108"
+                "98714be34ce8af66"
+            ],
+            [],
+            [
+                "4e987c372b60072f"
             ],
             [
-                "9281052c5006f5cf"
+                "bb0ebea3f423eff4"
             ],
             [
-                "4cd1923cb1d5951a"
+                "4666f748c5fe4994"
             ],
             [
-                "91b159ed393129d5"
+                "f5ee16d0dbd974fa"
             ],
             [
-                "14b624872fa9e14b"
+                "76e0c2528a4c9afb"
             ],
             [
-                "f2dca386e37d649a"
+                "c9155fb8af804ad7"
             ],
             [
-                "379d4458abd94a83"
-            ],
-            [
-                "afffa809929fb40d"
-            ],
-            [
-                "8d6f8e22ed531a56"
+                "22737c9a3e91330f"
             ]
         ],
         "outputLabels": [
@@ -10765,73 +10623,6 @@
         ]
     },
     {
-        "id": "91d0b53c.1d8108",
-        "type": "ui_text",
-        "z": "902fc438.e5d758",
-        "g": "b079c206d161b62c",
-        "group": "1b027e16.1fc232",
-        "order": 1,
-        "width": 4,
-        "height": 2,
-        "name": "",
-        "label": "Velocidad",
-        "format": "<font size =6px>{{msg.payload}}",
-        "layout": "col-center",
-        "x": 3760,
-        "y": 70,
-        "wires": []
-    },
-    {
-        "id": "6784775a.6334d8",
-        "type": "function",
-        "z": "902fc438.e5d758",
-        "g": "36fa9c99094e8f47",
-        "name": "Data show",
-        "func": "var Chart_Selection = flow.get(\"PQA.Harmonics_Chart.Selection\", \"memoryOnly\") || \"\";\n\n\nvar Frecuencia = global.get(\"PQA.Real_Time_Parameters.Frequency\", 'memoryOnly') || 0;\nvar LN,LL,Corriente,Factor_Protecia,THDV,THDI,Potencia,FP;\n\nif (Chart_Selection == \"Linea1\") {\n    LN = global.get(\"PQA.Real_Time_Parameters.Line_Voltage_1_2\", 'memoryOnly') || 0;\n    LL = global.get(\"PQA.Real_Time_Parameters.Phase_1_Voltage\", 'memoryOnly') || 0;\n    Corriente = global.get(\"PQA.Real_Time_Parameters.Total_Phase_A_Current\", 'memoryOnly') || 0;\n    THDV = global.get(\"PQA.Harmonics.Power_Quality['THD_V1(V12)']\",'memoryOnly')||0;\n    THDI = global.get(\"PQA.Harmonics.Power_Quality.THD_I1\",'memoryOnly')||0;\n    Potencia = global.get(\"PQA.Real_Time_Parameters.Phase_A_Power\",'memoryOnly')||0;\n    FP = global.get(\"PQA.Real_Time_Parameters.Phase_A_Power_Factor\", 'memoryOnly') || 0;\n\n}\nelse if (Chart_Selection == \"Linea2\") {\n    LN = global.get(\"PQA.Real_Time_Parameters.Line_Voltage_2_3\", 'memoryOnly') || 0;\n    LL = global.get(\"PQA.Real_Time_Parameters.Phase_2_Voltage\", 'memoryOnly') || 0;\n    Corriente = global.get(\"PQA.Real_Time_Parameters.Total_Phase_B_Current\", 'memoryOnly') || 0;\n    THDV = global.get(\"PQA.Harmonics.Power_Quality['THD_V2(V31)']\", 'memoryOnly') || 0;\n    THDI = global.get(\"PQA.Harmonics.Power_Quality.THD_I2\", 'memoryOnly') || 0;\n    Potencia = global.get(\"PQA.Real_Time_Parameters.Phase_B_Power\", 'memoryOnly') || 0;\n    FP = global.get(\"PQA.Real_Time_Parameters.Phase_B_Power_Factor\", 'memoryOnly') || 0;\n}\nelse if (Chart_Selection == \"Linea3\") {\n    LN = global.get(\"PQA.Real_Time_Parameters.Line_Voltage_3_1\", 'memoryOnly') || 0;\n    LL = global.get(\"PQA.Real_Time_Parameters.Phase_3_Voltage\", 'memoryOnly') || 0;\n    Corriente = global.get(\"PQA.Real_Time_Parameters.Total_Phase_C_Current\", 'memoryOnly') || 0;\n    THDV = global.get(\"PQA.Harmonics.Power_Quality['THD_V3(V23)']\", 'memoryOnly') || 0;\n    THDI = global.get(\"PQA.Harmonics.Power_Quality.THD_I3\", 'memoryOnly') || 0;\n    Potencia = global.get(\"PQA.Real_Time_Parameters.Phase_C_Power\", 'memoryOnly') || 0;\n    FP = global.get(\"PQA.Real_Time_Parameters.Phase_C_Power_Factor\", 'memoryOnly') || 0;\n\n}\nelse if (Chart_Selection == \"LineaP\") {\n    LL = global.get(\"PQA.Real_Time_Parameters.Average_Phase_Voltage\", 'memoryOnly') || 0;\n    LN = global.get(\"PQA.Real_Time_Parameters.Average_Line_Voltage\", 'memoryOnly') || 0;\n    THDV = global.get(\"PQA.Harmonics.Power_Quality.THD_avg\", 'memoryOnly') || 0;\n    THDI = global.get(\"PQA.Harmonics.Power_Quality.THD_Iavg\", 'memoryOnly') || 0;\n    Corriente = global.get(\"PQA.Real_Time_Parameters.Average_Phase_Current\", 'memoryOnly') || 0;\n    Potencia = global.get(\"PQA.Real_Time_Parameters.Total_System_Power\",'memoryOnly')||0;\n    FP = global.get(\"PQA.Real_Time_Parameters.Total_Power_Factor\", 'memoryOnly') || 0;\n}\n\nreturn [\n    { payload: catcherror(LN, 1) + \" \" + \"V\" },\n    { payload: catcherror(LL, 1) + \" \" + \"V\" },\n    { payload: catcherror(Corriente, 1) + \" \" + \"A\" },\n    { payload: catcherror(FP, 2) + \" \" + \"\" },\n    { payload: catcherror(THDV, 2) + \" \" + \"%\" },\n    { payload: catcherror(THDI, 2) + \" \" + \"%\" },\n    { payload: catcherror(Potencia, 1) + \" \" + \"kW\" },\n    { payload: catcherror(Frecuencia, 2) + \" \" + \"Hz\" }\n]\n\nfunction catcherror(variable, dec) {\n    return parseFloat(variable.toFixed(dec));\n}\n",
-        "outputs": 8,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 3550,
-        "y": 650,
-        "wires": [
-            [
-                "7dad9b43beefaa90"
-            ],
-            [
-                "c317645c3c09e5cf"
-            ],
-            [
-                "b8b03c987e844b4a"
-            ],
-            [
-                "ea4e85ef2d837356"
-            ],
-            [
-                "0d744c83e33992d3"
-            ],
-            [
-                "cfaca06ac50b5d36"
-            ],
-            [
-                "284e8360857dd2c6"
-            ],
-            [
-                "3a1748983f097cb1"
-            ]
-        ],
-        "outputLabels": [
-            "LN",
-            "LL",
-            "Corriente",
-            "THDV",
-            "THDI",
-            "Potencia",
-            "FP",
-            "Frecuencia"
-        ]
-    },
-    {
         "id": "6da4bb9c.3ee354",
         "type": "function",
         "z": "902fc438.e5d758",
@@ -10843,8 +10634,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 3520,
-        "y": 1310,
+        "x": 3530,
+        "y": 1420,
         "wires": [
             [
                 "8cd193da.a662a"
@@ -10903,8 +10694,8 @@
         "label": "Presión Entrada",
         "format": "<font size =5px>{{msg.payload}}",
         "layout": "col-center",
-        "x": 3770,
-        "y": 1130,
+        "x": 3780,
+        "y": 1240,
         "wires": []
     },
     {
@@ -11665,572 +11456,6 @@
         ]
     },
     {
-        "id": "9281052c5006f5cf",
-        "type": "ui_text",
-        "z": "902fc438.e5d758",
-        "d": true,
-        "g": "b079c206d161b62c",
-        "group": "1b027e16.1fc232",
-        "order": 10,
-        "width": 4,
-        "height": 2,
-        "name": "",
-        "label": "Porcentaje Velocidad",
-        "format": "<font size =6px>{{msg.payload}}",
-        "layout": "col-center",
-        "x": 3800,
-        "y": 110,
-        "wires": []
-    },
-    {
-        "id": "4cd1923cb1d5951a",
-        "type": "ui_text",
-        "z": "902fc438.e5d758",
-        "g": "b079c206d161b62c",
-        "group": "1b027e16.1fc232",
-        "order": 8,
-        "width": 4,
-        "height": 2,
-        "name": "",
-        "label": "Factor Potencia",
-        "format": "<font size =6px>{{msg.payload}}",
-        "layout": "col-center",
-        "x": 3780,
-        "y": 150,
-        "wires": []
-    },
-    {
-        "id": "91b159ed393129d5",
-        "type": "ui_text",
-        "z": "902fc438.e5d758",
-        "g": "b079c206d161b62c",
-        "group": "1b027e16.1fc232",
-        "order": 7,
-        "width": 4,
-        "height": 2,
-        "name": "",
-        "label": "Corriente de Salida",
-        "format": "<font size =6px>{{msg.payload}}",
-        "layout": "col-center",
-        "x": 3790,
-        "y": 190,
-        "wires": []
-    },
-    {
-        "id": "14b624872fa9e14b",
-        "type": "ui_text",
-        "z": "902fc438.e5d758",
-        "g": "b079c206d161b62c",
-        "group": "1b027e16.1fc232",
-        "order": 2,
-        "width": 4,
-        "height": 2,
-        "name": "",
-        "label": "Bus DC",
-        "format": "<font size =6px>{{msg.payload}}",
-        "layout": "col-center",
-        "x": 3760,
-        "y": 230,
-        "wires": []
-    },
-    {
-        "id": "f2dca386e37d649a",
-        "type": "ui_text",
-        "z": "902fc438.e5d758",
-        "g": "b079c206d161b62c",
-        "group": "1b027e16.1fc232",
-        "order": 6,
-        "width": 4,
-        "height": 2,
-        "name": "",
-        "label": "Voltaje de Motor",
-        "format": "<font size =6px>{{msg.payload}}",
-        "layout": "col-center",
-        "x": 3780,
-        "y": 270,
-        "wires": []
-    },
-    {
-        "id": "379d4458abd94a83",
-        "type": "ui_text",
-        "z": "902fc438.e5d758",
-        "g": "b079c206d161b62c",
-        "group": "1b027e16.1fc232",
-        "order": 5,
-        "width": 4,
-        "height": 2,
-        "name": "",
-        "label": "Potencia",
-        "format": "<font size =6px>{{msg.payload}}",
-        "layout": "col-center",
-        "x": 3760,
-        "y": 310,
-        "wires": []
-    },
-    {
-        "id": "afffa809929fb40d",
-        "type": "ui_text",
-        "z": "902fc438.e5d758",
-        "g": "b079c206d161b62c",
-        "group": "1b027e16.1fc232",
-        "order": 4,
-        "width": 4,
-        "height": 2,
-        "name": "",
-        "label": "Voltaje de Salida",
-        "format": "<font size =6px>{{msg.payload}}",
-        "layout": "col-center",
-        "x": 3790,
-        "y": 350,
-        "wires": []
-    },
-    {
-        "id": "8d6f8e22ed531a56",
-        "type": "ui_text",
-        "z": "902fc438.e5d758",
-        "g": "b079c206d161b62c",
-        "group": "1b027e16.1fc232",
-        "order": 9,
-        "width": 4,
-        "height": 2,
-        "name": "",
-        "label": "Corriente de Motor",
-        "format": "<font size =6px>{{msg.payload}}",
-        "layout": "col-center",
-        "x": 3790,
-        "y": 390,
-        "wires": []
-    },
-    {
-        "id": "7dad9b43beefaa90",
-        "type": "ui_text",
-        "z": "902fc438.e5d758",
-        "g": "36fa9c99094e8f47",
-        "group": "474271dc.04fa9",
-        "order": 3,
-        "width": 3,
-        "height": 1,
-        "name": "",
-        "label": "LL:",
-        "format": "<font size =4px>{{msg.payload}}",
-        "layout": "row-left",
-        "x": 3760,
-        "y": 510,
-        "wires": []
-    },
-    {
-        "id": "c317645c3c09e5cf",
-        "type": "ui_text",
-        "z": "902fc438.e5d758",
-        "g": "36fa9c99094e8f47",
-        "group": "474271dc.04fa9",
-        "order": 4,
-        "width": 3,
-        "height": 1,
-        "name": "",
-        "label": "LN:",
-        "format": "<font size =4px>{{msg.payload}}",
-        "layout": "row-left",
-        "x": 3760,
-        "y": 550,
-        "wires": []
-    },
-    {
-        "id": "b8b03c987e844b4a",
-        "type": "ui_text",
-        "z": "902fc438.e5d758",
-        "g": "36fa9c99094e8f47",
-        "group": "474271dc.04fa9",
-        "order": 5,
-        "width": 3,
-        "height": 1,
-        "name": "",
-        "label": "Corriente:",
-        "format": "<font size =4px>{{msg.payload}}",
-        "layout": "row-left",
-        "x": 3770,
-        "y": 590,
-        "wires": []
-    },
-    {
-        "id": "284e8360857dd2c6",
-        "type": "ui_text",
-        "z": "902fc438.e5d758",
-        "g": "36fa9c99094e8f47",
-        "group": "474271dc.04fa9",
-        "order": 9,
-        "width": 3,
-        "height": 1,
-        "name": "",
-        "label": "Potencia:",
-        "format": "<font size =4px>{{msg.payload}}",
-        "layout": "row-left",
-        "x": 3770,
-        "y": 750,
-        "wires": []
-    },
-    {
-        "id": "0d744c83e33992d3",
-        "type": "ui_text",
-        "z": "902fc438.e5d758",
-        "g": "36fa9c99094e8f47",
-        "group": "474271dc.04fa9",
-        "order": 7,
-        "width": 3,
-        "height": 1,
-        "name": "",
-        "label": "THD (V):",
-        "format": "<font size =4px>{{msg.payload}}",
-        "layout": "row-left",
-        "x": 3770,
-        "y": 670,
-        "wires": []
-    },
-    {
-        "id": "cfaca06ac50b5d36",
-        "type": "ui_text",
-        "z": "902fc438.e5d758",
-        "g": "36fa9c99094e8f47",
-        "group": "474271dc.04fa9",
-        "order": 8,
-        "width": 3,
-        "height": 1,
-        "name": "",
-        "label": "THD (I):",
-        "format": "<font size =4px>{{msg.payload}}",
-        "layout": "row-left",
-        "x": 3770,
-        "y": 710,
-        "wires": []
-    },
-    {
-        "id": "ea4e85ef2d837356",
-        "type": "ui_text",
-        "z": "902fc438.e5d758",
-        "g": "36fa9c99094e8f47",
-        "group": "474271dc.04fa9",
-        "order": 6,
-        "width": 3,
-        "height": 1,
-        "name": "",
-        "label": "FP:",
-        "format": "<font size =4px>{{msg.payload}}",
-        "layout": "row-left",
-        "x": 3760,
-        "y": 630,
-        "wires": []
-    },
-    {
-        "id": "5b529f4c.7ffeb",
-        "type": "ui_chart",
-        "z": "902fc438.e5d758",
-        "g": "aafad2ba.dcc8b",
-        "name": "",
-        "group": "474271dc.04fa9",
-        "order": 2,
-        "width": 6,
-        "height": 6,
-        "label": "{{msg.label}}",
-        "chartType": "bar",
-        "legend": "true",
-        "xformat": "HH:mm:ss",
-        "interpolate": "linear",
-        "nodata": "Falla de comunicación con PQA",
-        "dot": false,
-        "ymin": "",
-        "ymax": "",
-        "removeOlder": 1,
-        "removeOlderPoints": "",
-        "removeOlderUnit": "3600",
-        "cutout": 0,
-        "useOneColor": false,
-        "useUTC": false,
-        "colors": [
-            "#f20707",
-            "#033e8c",
-            "#ff7f0e",
-            "#2ca02c",
-            "#98df8a",
-            "#d62728",
-            "#ff9896",
-            "#9467bd",
-            "#c5b0d5"
-        ],
-        "outputs": 1,
-        "x": 4380,
-        "y": 880,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "6c9ed5d3.e7799c",
-        "type": "function",
-        "z": "902fc438.e5d758",
-        "g": "aafad2ba.dcc8b",
-        "name": "Harmonics chart generation",
-        "func": "var chart = \n[{\n    \"series\": [\"THD-V\", \"THD-I\"],\n    \"data\": msg.payload,\n    \"labels\": [ \"1o\", \"3o\",\"5o\",\"7o\",\"9o\",\"11o\",\"13o\"]\n}];\n\nmsg.payload = chart;\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 4190,
-        "y": 880,
-        "wires": [
-            [
-                "5b529f4c.7ffeb"
-            ]
-        ]
-    },
-    {
-        "id": "23815ef1.931a32",
-        "type": "ui_dropdown",
-        "z": "902fc438.e5d758",
-        "g": "aafad2ba.dcc8b",
-        "name": "",
-        "label": "Fase",
-        "tooltip": "",
-        "place": "Fase",
-        "group": "474271dc.04fa9",
-        "order": 1,
-        "width": 6,
-        "height": 1,
-        "passthru": true,
-        "multiple": false,
-        "options": [
-            {
-                "label": "Línea 1-2",
-                "value": "Linea1",
-                "type": "str"
-            },
-            {
-                "label": "Línea 2-3",
-                "value": "Linea2",
-                "type": "str"
-            },
-            {
-                "label": "Línea 1-3",
-                "value": "Linea3",
-                "type": "str"
-            },
-            {
-                "label": "Promedio",
-                "value": "LineaP",
-                "type": "str"
-            }
-        ],
-        "payload": "",
-        "topic": "",
-        "x": 3860,
-        "y": 920,
-        "wires": [
-            [
-                "20b8681c.81fd48"
-            ]
-        ]
-    },
-    {
-        "id": "2b47642.2404d9c",
-        "type": "link in",
-        "z": "902fc438.e5d758",
-        "g": "aafad2ba.dcc8b",
-        "name": "",
-        "links": [
-            "97407954.a004c8"
-        ],
-        "x": 3495,
-        "y": 950,
-        "wires": [
-            [
-                "eddefb96.175bf8",
-                "3ccbaa0b.2db096"
-            ]
-        ]
-    },
-    {
-        "id": "eddefb96.175bf8",
-        "type": "switch",
-        "z": "902fc438.e5d758",
-        "g": "aafad2ba.dcc8b",
-        "name": "User in harmonics Screen ?",
-        "property": "name",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "Principal",
-                "vt": "str"
-            },
-            {
-                "t": "neq",
-                "v": "Principal",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 3670,
-        "y": 990,
-        "wires": [
-            [
-                "a5c181ee.2efe1"
-            ],
-            [
-                "b54a4559.022378"
-            ]
-        ]
-    },
-    {
-        "id": "a5c181ee.2efe1",
-        "type": "change",
-        "z": "902fc438.e5d758",
-        "g": "aafad2ba.dcc8b",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "#:(memoryOnly)::PQA.Harmonics_Chart.Prompt",
-                "pt": "flow",
-                "to": "true",
-                "tot": "bool"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 3970,
-        "y": 970,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "b54a4559.022378",
-        "type": "change",
-        "z": "902fc438.e5d758",
-        "g": "aafad2ba.dcc8b",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "#:(memoryOnly)::PQA.Harmonics_Chart.Prompt",
-                "pt": "flow",
-                "to": "false",
-                "tot": "bool"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 3970,
-        "y": 1010,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "3ea5879e.bf0588",
-        "type": "function",
-        "z": "902fc438.e5d758",
-        "g": "aafad2ba.dcc8b",
-        "name": "Data Handle harmonics chart",
-        "func": "var PQA_Data                = global.get(\"PQA.Harmonics\", \"memoryOnly\") || \"[]\";\nvar Chart_Selection         = flow.get(\"PQA.Harmonics_Chart.Selection\", \"memoryOnly\") || \"\";\n\nvar Linea1_V = Object.values(PQA_Data.V1_V12);\nvar Linea1_I = Object.values(PQA_Data.I1);\n\nvar Linea2_V = Object.values(PQA_Data.V2_V31);\nvar Linea2_I = Object.values(PQA_Data.I2);\n\n\nvar Linea3_V = Object.values(PQA_Data.V3_V23);\nvar Linea3_I = Object.values(PQA_Data.I3);\n\nvar LineaP_V = [\n                    ((Linea1_V[0]+Linea2_V[0]+Linea3_V[0])/3).toFixed(2),\n                    ((Linea1_V[1]+Linea2_V[1]+Linea3_V[1])/3).toFixed(2),\n                    ((Linea1_V[2]+Linea2_V[0]+Linea3_V[2])/3).toFixed(2),\n                    ((Linea1_V[3]+Linea2_V[0]+Linea3_V[3])/3).toFixed(2),\n                    ((Linea1_V[4]+Linea2_V[0]+Linea3_V[4])/3).toFixed(2),\n                    ((Linea1_V[5]+Linea2_V[0]+Linea3_V[5])/3).toFixed(2)\n                ];\nvar LineaP_I = [\n                    ((Linea1_I[0]+Linea2_I[0]+Linea3_I[0])/3).toFixed(2),\n                    ((Linea1_I[1]+Linea2_I[1]+Linea3_I[1])/3).toFixed(2),\n                    ((Linea1_I[2]+Linea2_I[0]+Linea3_I[2])/3).toFixed(2),\n                    ((Linea1_I[3]+Linea2_I[0]+Linea3_I[3])/3).toFixed(2),\n                    ((Linea1_I[4]+Linea2_I[0]+Linea3_I[4])/3).toFixed(2),\n                    ((Linea1_I[5]+Linea2_I[0]+Linea3_I[5])/3).toFixed(2),\n                ];\n\nif(Chart_Selection == \"Linea1\")\n    {\n        msg.payload =  [ Linea1_V , Linea1_I];\n        msg.label   = \"Porcentaje Armónico Línea 1\";\n    }\nelse if(Chart_Selection == \"Linea2\")\n    {\n        msg.payload =  [ Linea2_V , Linea2_I];\n        msg.label   = \"Porcentaje Armónico Línea 2\";\n    }\nelse if(Chart_Selection == \"Linea3\")\n    {\n        msg.payload =  [ Linea3_V , Linea3_I];\n        msg.label   = \"Porcentaje Armónico Línea 3\";\n    }\nelse if(Chart_Selection == \"LineaP\")\n    {\n        {\n        msg.payload =  [ LineaP_V , LineaP_I];\n        msg.label   = \"Porcentaje Armónico Promedio\";\n    }\n    }\nreturn msg; \n\n\n\n",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 3930,
-        "y": 880,
-        "wires": [
-            [
-                "6c9ed5d3.e7799c"
-            ]
-        ]
-    },
-    {
-        "id": "c8aa3a95.12b518",
-        "type": "switch",
-        "z": "902fc438.e5d758",
-        "g": "aafad2ba.dcc8b",
-        "name": "Harmonics Chart Prompted? ",
-        "property": "#:(memoryOnly)::PQA.Harmonics_Chart.Prompt",
-        "propertyType": "flow",
-        "rules": [
-            {
-                "t": "true"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 3670,
-        "y": 880,
-        "wires": [
-            [
-                "3ea5879e.bf0588"
-            ]
-        ]
-    },
-    {
-        "id": "20b8681c.81fd48",
-        "type": "change",
-        "z": "902fc438.e5d758",
-        "g": "aafad2ba.dcc8b",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "#:(memoryOnly)::PQA.Harmonics_Chart.Selection",
-                "pt": "flow",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 4120,
-        "y": 920,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "3ccbaa0b.2db096",
-        "type": "change",
-        "z": "902fc438.e5d758",
-        "g": "aafad2ba.dcc8b",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "LineaP",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 3630,
-        "y": 920,
-        "wires": [
-            [
-                "23815ef1.931a32"
-            ]
-        ]
-    },
-    {
         "id": "f401446baabcbb6e",
         "type": "link in",
         "z": "902fc438.e5d758",
@@ -12270,29 +11495,13 @@
         "wires": [
             [
                 "da849ce7.0ef51",
-                "6784775a.6334d8",
                 "6da4bb9c.3ee354",
+                "7a9362a4e974c10e",
+                "6784775a.6334d8",
                 "3ea5879e.bf0588",
-                "7a9362a4e974c10e"
+                "e9b241df594b8883"
             ]
         ]
-    },
-    {
-        "id": "3a1748983f097cb1",
-        "type": "ui_text",
-        "z": "902fc438.e5d758",
-        "g": "36fa9c99094e8f47",
-        "group": "474271dc.04fa9",
-        "order": 10,
-        "width": 3,
-        "height": 1,
-        "name": "",
-        "label": "Frec.:",
-        "format": "<font size =4px>{{msg.payload}}",
-        "layout": "row-left",
-        "x": 3760,
-        "y": 790,
-        "wires": []
     },
     {
         "id": "683aa43e963c6574",
@@ -12307,8 +11516,8 @@
         "label": "Presión Descarga",
         "format": "<font size =5px>{{msg.payload}}",
         "layout": "col-center",
-        "x": 3780,
-        "y": 1170,
+        "x": 3790,
+        "y": 1280,
         "wires": []
     },
     {
@@ -12324,8 +11533,8 @@
         "label": "Temp. Entrada",
         "format": "<font size =5px>{{msg.payload}}",
         "layout": "col-center",
-        "x": 3770,
-        "y": 1210,
+        "x": 3780,
+        "y": 1320,
         "wires": []
     },
     {
@@ -12341,8 +11550,8 @@
         "label": "Temp. Descarga",
         "format": "<font size =5px>{{msg.payload}}",
         "layout": "col-center",
-        "x": 3770,
-        "y": 1250,
+        "x": 3780,
+        "y": 1360,
         "wires": []
     },
     {
@@ -12358,8 +11567,8 @@
         "label": "Temp. Motor",
         "format": "<font size =5px>{{msg.payload}}",
         "layout": "col-center",
-        "x": 3760,
-        "y": 1290,
+        "x": 3770,
+        "y": 1400,
         "wires": []
     },
     {
@@ -12375,8 +11584,8 @@
         "label": "Vibración X",
         "format": "<font size =5px>{{msg.payload}}",
         "layout": "col-center",
-        "x": 3760,
-        "y": 1330,
+        "x": 3770,
+        "y": 1440,
         "wires": []
     },
     {
@@ -12392,8 +11601,8 @@
         "label": "Vibración Z",
         "format": "<font size =5px>{{msg.payload}}",
         "layout": "col-center",
-        "x": 3760,
-        "y": 1370,
+        "x": 3770,
+        "y": 1480,
         "wires": []
     },
     {
@@ -12409,8 +11618,8 @@
         "label": "Corriente Fuga",
         "format": "<font size =5px>{{msg.payload}}",
         "layout": "col-center",
-        "x": 3770,
-        "y": 1410,
+        "x": 3780,
+        "y": 1520,
         "wires": []
     },
     {
@@ -12426,8 +11635,8 @@
         "label": "Presión THP",
         "format": "<font size =5px>{{msg.payload}}",
         "layout": "col-center",
-        "x": 3760,
-        "y": 1450,
+        "x": 3770,
+        "y": 1560,
         "wires": []
     },
     {
@@ -12443,8 +11652,8 @@
         "label": "Temp. THT",
         "format": "<font size =5px>{{msg.payload}}",
         "layout": "col-center",
-        "x": 3760,
-        "y": 1490,
+        "x": 3770,
+        "y": 1600,
         "wires": []
     },
     {
@@ -15979,22 +15188,6 @@
             [
                 "7f7ba2b6b2295aa8"
             ]
-        ]
-    },
-    {
-        "id": "1f3630da2492d4f9",
-        "type": "catch",
-        "z": "902fc438.e5d758",
-        "g": "aafad2ba.dcc8b",
-        "name": "",
-        "scope": [
-            "3ea5879e.bf0588"
-        ],
-        "uncaught": false,
-        "x": 4200,
-        "y": 970,
-        "wires": [
-            []
         ]
     },
     {
@@ -33502,7 +32695,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración_VSD_Voltios_Hertz\",\t                \"Configuración_VSD_Rampas\",\t                \"Configuración_VSD_Límites\",\t                \"Configuración_VSD_Rampa_prolongada\",\t                \"Configuración_VSD_Relación_de_Transformación\",\t                \"Configuración_VSD_Control_de_motor\"],\t                \t       \"show\":[ \"Configuración_VSD_Placa_de_motor\"]\t       \t   }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración_VSD_Voltios_Hertz\",\t                \"Configuración_VSD_Rampas\",\t                \"Configuración_VSD_Límites\",\t                \"Configuración_VSD_Rampa_prolongada\",\t                \"Configuración_VSD_Relación_de_Transformación\",\t                \"Configuración_VSD_Control_de_motor\"],\t                \t       \"show\":[ \"Configuración_VSD_Placa_de_motor\",\t                \"Principal_Status_Bar\"\t              ]\t       \t   }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -33530,7 +32723,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración_VSD_Placa_de_motor\",\t                \"Configuración_VSD_Voltios_Hertz\",\t                \"Configuración_VSD_Relación_de_Transformación\",\t                \"Configuración_VSD_Control_de_motor\"],\t       \"show\":[ \"Configuración_VSD_Rampas\",\t                \"Configuración_VSD_Límites\",\t                \"Configuración_VSD_Rampa_prolongada\"]\t   }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración_VSD_Placa_de_motor\",\t                \"Configuración_VSD_Voltios_Hertz\",\t                \"Configuración_VSD_Relación_de_Transformación\",\t                \"Configuración_VSD_Control_de_motor\"],\t       \"show\":[ \"Configuración_VSD_Rampas\",\t                \"Configuración_VSD_Límites\",\t                \"Configuración_VSD_Rampa_prolongada\",\t                \"Principal_Status_Bar\"]\t   }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -33631,7 +32824,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración_VSD_Rampas\",\t                \"Configuración_VSD_Placa_de_motor\",\t                \"Configuración_VSD_Límites\",\t                \"Configuración_VSD_Rampa_prolongada\",\t                \"Configuración_VSD_Relación_de_Transformación\",\t                \"Configuración_VSD_Control_de_motor\"],\t       \"show\":[ \"Configuración_VSD_Voltios_Hertz\"]\t   }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración_VSD_Rampas\",\t                \"Configuración_VSD_Placa_de_motor\",\t                \"Configuración_VSD_Límites\",\t                \"Configuración_VSD_Rampa_prolongada\",\t                \"Configuración_VSD_Relación_de_Transformación\",\t                \"Configuración_VSD_Control_de_motor\"],\t       \"show\":[ \"Configuración_VSD_Voltios_Hertz\",\t       \"Principal_Status_Bar\"]\t   }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -33716,7 +32909,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración_VSD_Rampas\",\t                \"Configuración_VSD_Placa_de_motor\",\t                \"Configuración_VSD_Límites\",\t                \"Configuración_VSD_Rampa_prolongada\",\t                \"Configuración_VSD_Voltios_Hertz\"],\t       \"show\":[ \"Configuración_VSD_Relación_de_Transformación\"]\t   }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración_VSD_Rampas\",\t                \"Configuración_VSD_Placa_de_motor\",\t                \"Configuración_VSD_Límites\",\t                \"Configuración_VSD_Rampa_prolongada\",\t                \"Configuración_VSD_Voltios_Hertz\"],\t       \"show\":[ \"Configuración_VSD_Relación_de_Transformación\",\t       \"Principal_Status_Bar\"]\t   }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -84671,8 +83864,8 @@
         "z": "902fc438.e5d758",
         "g": "086b9d08c3b68939",
         "group": "1b027e16.1fc232",
-        "order": 3,
-        "width": 4,
+        "order": 12,
+        "width": 3,
         "height": 2,
         "name": "",
         "label": "Rtx",
@@ -86358,6 +85551,1035 @@
         "wires": [
             [
                 "9447aaa1f5dce4f1"
+            ]
+        ]
+    },
+    {
+        "id": "98714be34ce8af66",
+        "type": "ui_level",
+        "z": "902fc438.e5d758",
+        "g": "986845c5f7bf4a6e",
+        "group": "1b027e16.1fc232",
+        "order": 2,
+        "width": 3,
+        "height": 2,
+        "name": "Velocidad",
+        "label": "Velocidad",
+        "colorHi": "#e60000",
+        "colorWarn": "#ff9900",
+        "colorNormal": "#00b33c",
+        "colorOff": "#595959",
+        "min": 0,
+        "max": "60",
+        "segWarn": "",
+        "segHigh": "",
+        "unit": "Hz",
+        "layout": "sv",
+        "channelA": "",
+        "channelB": "",
+        "decimals": "1",
+        "animations": "soft",
+        "shape": 2,
+        "colorschema": "fixed",
+        "textoptions": "custom",
+        "colorText": "#eeeeee",
+        "fontLabel": "",
+        "fontValue": "",
+        "fontSmall": "0.8",
+        "colorFromTheme": true,
+        "textAnimations": false,
+        "hideValue": false,
+        "tickmode": "off",
+        "peakmode": false,
+        "property": "payload",
+        "peaktime": 3000,
+        "x": 3740,
+        "y": 40,
+        "wires": []
+    },
+    {
+        "id": "4e987c372b60072f",
+        "type": "ui_level",
+        "z": "902fc438.e5d758",
+        "g": "986845c5f7bf4a6e",
+        "group": "1b027e16.1fc232",
+        "order": 11,
+        "width": 3,
+        "height": 2,
+        "name": "Factor de potencia",
+        "label": "Factor de Potencia",
+        "colorHi": "#e60000",
+        "colorWarn": "#ff9900",
+        "colorNormal": "#00b33c",
+        "colorOff": "#595959",
+        "min": 0,
+        "max": "1",
+        "segWarn": "",
+        "segHigh": "",
+        "unit": "",
+        "layout": "sv",
+        "channelA": "",
+        "channelB": "",
+        "decimals": "2",
+        "animations": "soft",
+        "shape": 2,
+        "colorschema": "fixed",
+        "textoptions": "custom",
+        "colorText": "#eeeeee",
+        "fontLabel": "",
+        "fontValue": "",
+        "fontSmall": "0.8",
+        "colorFromTheme": true,
+        "textAnimations": false,
+        "hideValue": false,
+        "tickmode": "off",
+        "peakmode": false,
+        "property": "payload",
+        "peaktime": 3000,
+        "x": 3770,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "bb0ebea3f423eff4",
+        "type": "ui_level",
+        "z": "902fc438.e5d758",
+        "g": "986845c5f7bf4a6e",
+        "group": "1b027e16.1fc232",
+        "order": 10,
+        "width": 3,
+        "height": 2,
+        "name": "Corriente de salida",
+        "label": "Corriente de Salida",
+        "colorHi": "#e60000",
+        "colorWarn": "#ff9900",
+        "colorNormal": "#00b33c",
+        "colorOff": "#595959",
+        "min": 0,
+        "max": "60",
+        "segWarn": "",
+        "segHigh": "",
+        "unit": "Amp.",
+        "layout": "sv",
+        "channelA": "",
+        "channelB": "",
+        "decimals": "1",
+        "animations": "soft",
+        "shape": 2,
+        "colorschema": "fixed",
+        "textoptions": "custom",
+        "colorText": "#eeeeee",
+        "fontLabel": "",
+        "fontValue": "",
+        "fontSmall": "0.8",
+        "colorFromTheme": true,
+        "textAnimations": false,
+        "hideValue": false,
+        "tickmode": "off",
+        "peakmode": false,
+        "property": "payload",
+        "peaktime": 3000,
+        "x": 3770,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "4666f748c5fe4994",
+        "type": "ui_level",
+        "z": "902fc438.e5d758",
+        "g": "986845c5f7bf4a6e",
+        "group": "1b027e16.1fc232",
+        "order": 3,
+        "width": 3,
+        "height": 2,
+        "name": "Bus DC",
+        "label": "Bus DC",
+        "colorHi": "#e60000",
+        "colorWarn": "#ff9900",
+        "colorNormal": "#00b33c",
+        "colorOff": "#595959",
+        "min": 0,
+        "max": "700",
+        "segWarn": "",
+        "segHigh": "",
+        "unit": "V",
+        "layout": "sv",
+        "channelA": "",
+        "channelB": "",
+        "decimals": "1",
+        "animations": "soft",
+        "shape": 2,
+        "colorschema": "fixed",
+        "textoptions": "custom",
+        "colorText": "#eeeeee",
+        "fontLabel": "",
+        "fontValue": "",
+        "fontSmall": "0.8",
+        "colorFromTheme": true,
+        "textAnimations": false,
+        "hideValue": false,
+        "tickmode": "off",
+        "peakmode": false,
+        "property": "payload",
+        "peaktime": 3000,
+        "x": 3740,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "f5ee16d0dbd974fa",
+        "type": "ui_level",
+        "z": "902fc438.e5d758",
+        "g": "986845c5f7bf4a6e",
+        "group": "1b027e16.1fc232",
+        "order": 4,
+        "width": 3,
+        "height": 2,
+        "name": "Voltaje de Motor",
+        "label": "Voltaje de Motor",
+        "colorHi": "#e60000",
+        "colorWarn": "#ff9900",
+        "colorNormal": "#00b33c",
+        "colorOff": "#595959",
+        "min": 0,
+        "max": "60",
+        "segWarn": "",
+        "segHigh": "",
+        "unit": "Hz",
+        "layout": "sv",
+        "channelA": "",
+        "channelB": "",
+        "decimals": "1",
+        "animations": "soft",
+        "shape": 2,
+        "colorschema": "fixed",
+        "textoptions": "custom",
+        "colorText": "#eeeeee",
+        "fontLabel": "",
+        "fontValue": "",
+        "fontSmall": "0.8",
+        "colorFromTheme": true,
+        "textAnimations": false,
+        "hideValue": false,
+        "tickmode": "off",
+        "peakmode": false,
+        "property": "payload",
+        "peaktime": 3000,
+        "x": 3760,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "76e0c2528a4c9afb",
+        "type": "ui_level",
+        "z": "902fc438.e5d758",
+        "g": "986845c5f7bf4a6e",
+        "group": "1b027e16.1fc232",
+        "order": 7,
+        "width": 3,
+        "height": 2,
+        "name": "Potencia",
+        "label": "Potencia",
+        "colorHi": "#e60000",
+        "colorWarn": "#ff9900",
+        "colorNormal": "#00b33c",
+        "colorOff": "#595959",
+        "min": 0,
+        "max": "60",
+        "segWarn": "",
+        "segHigh": "",
+        "unit": "kW",
+        "layout": "sv",
+        "channelA": "",
+        "channelB": "",
+        "decimals": "1",
+        "animations": "soft",
+        "shape": 2,
+        "colorschema": "fixed",
+        "textoptions": "custom",
+        "colorText": "#eeeeee",
+        "fontLabel": "",
+        "fontValue": "",
+        "fontSmall": "0.8",
+        "colorFromTheme": true,
+        "textAnimations": false,
+        "hideValue": false,
+        "tickmode": "off",
+        "peakmode": false,
+        "property": "payload",
+        "peaktime": 3000,
+        "x": 3740,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "c9155fb8af804ad7",
+        "type": "ui_level",
+        "z": "902fc438.e5d758",
+        "g": "986845c5f7bf4a6e",
+        "group": "1b027e16.1fc232",
+        "order": 6,
+        "width": 3,
+        "height": 2,
+        "name": "Voltaje de Salida",
+        "label": "Voltaje de Salida",
+        "colorHi": "#e60000",
+        "colorWarn": "#ff9900",
+        "colorNormal": "#00b33c",
+        "colorOff": "#595959",
+        "min": 0,
+        "max": "500",
+        "segWarn": "",
+        "segHigh": "",
+        "unit": "V",
+        "layout": "sv",
+        "channelA": "",
+        "channelB": "",
+        "decimals": "1",
+        "animations": "soft",
+        "shape": 2,
+        "colorschema": "fixed",
+        "textoptions": "custom",
+        "colorText": "#eeeeee",
+        "fontLabel": "",
+        "fontValue": "",
+        "fontSmall": "0.8",
+        "colorFromTheme": true,
+        "textAnimations": false,
+        "hideValue": false,
+        "tickmode": "off",
+        "peakmode": false,
+        "property": "payload",
+        "peaktime": 3000,
+        "x": 3770,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "22737c9a3e91330f",
+        "type": "ui_level",
+        "z": "902fc438.e5d758",
+        "g": "986845c5f7bf4a6e",
+        "group": "1b027e16.1fc232",
+        "order": 8,
+        "width": 3,
+        "height": 2,
+        "name": "Corriente de Motor",
+        "label": "Corriente de Motor",
+        "colorHi": "#e60000",
+        "colorWarn": "#ff9900",
+        "colorNormal": "#00b33c",
+        "colorOff": "#595959",
+        "min": 0,
+        "max": "500",
+        "segWarn": "",
+        "segHigh": "",
+        "unit": "V",
+        "layout": "sv",
+        "channelA": "",
+        "channelB": "",
+        "decimals": "1",
+        "animations": "soft",
+        "shape": 2,
+        "colorschema": "fixed",
+        "textoptions": "custom",
+        "colorText": "#eeeeee",
+        "fontLabel": "",
+        "fontValue": "",
+        "fontSmall": "0.8",
+        "colorFromTheme": true,
+        "textAnimations": false,
+        "hideValue": false,
+        "tickmode": "off",
+        "peakmode": false,
+        "property": "payload",
+        "peaktime": 3000,
+        "x": 3770,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "a1c6952a0a98e897",
+        "type": "ui_text",
+        "z": "902fc438.e5d758",
+        "d": true,
+        "g": "986845c5f7bf4a6e",
+        "group": "1b027e16.1fc232",
+        "order": 13,
+        "width": 4,
+        "height": 2,
+        "name": "",
+        "label": "Porcentaje Velocidad",
+        "format": "<font size =6px>{{msg.payload}}",
+        "layout": "col-center",
+        "x": 4060,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "3ee2c05ec63c6a46",
+        "type": "ui_level",
+        "z": "902fc438.e5d758",
+        "g": "986845c5f7bf4a6e",
+        "group": "1b027e16.1fc232",
+        "order": 1,
+        "width": 3,
+        "height": 2,
+        "name": "Voltaje de Entrada",
+        "label": "Voltaje de Entrada",
+        "colorHi": "#e60000",
+        "colorWarn": "#ff9900",
+        "colorNormal": "#00b33c",
+        "colorOff": "#595959",
+        "min": 0,
+        "max": "500",
+        "segWarn": "",
+        "segHigh": "",
+        "unit": "V",
+        "layout": "sv",
+        "channelA": "",
+        "channelB": "",
+        "decimals": "1",
+        "animations": "soft",
+        "shape": 2,
+        "colorschema": "fixed",
+        "textoptions": "custom",
+        "colorText": "#eeeeee",
+        "fontLabel": "",
+        "fontValue": "",
+        "fontSmall": "0.8",
+        "colorFromTheme": true,
+        "textAnimations": false,
+        "hideValue": false,
+        "tickmode": "off",
+        "peakmode": false,
+        "property": "payload",
+        "peaktime": 3000,
+        "x": 3770,
+        "y": 1080,
+        "wires": []
+    },
+    {
+        "id": "546f599e6c10476b",
+        "type": "ui_level",
+        "z": "902fc438.e5d758",
+        "g": "986845c5f7bf4a6e",
+        "group": "1b027e16.1fc232",
+        "order": 5,
+        "width": 3,
+        "height": 2,
+        "name": "Corriente de Entrada",
+        "label": "Corriente de Entrada",
+        "colorHi": "#e60000",
+        "colorWarn": "#ff9900",
+        "colorNormal": "#00b33c",
+        "colorOff": "#595959",
+        "min": 0,
+        "max": "500",
+        "segWarn": "",
+        "segHigh": "",
+        "unit": "Amp",
+        "layout": "sv",
+        "channelA": "",
+        "channelB": "",
+        "decimals": "1",
+        "animations": "soft",
+        "shape": 2,
+        "colorschema": "fixed",
+        "textoptions": "custom",
+        "colorText": "#eeeeee",
+        "fontLabel": "",
+        "fontValue": "",
+        "fontSmall": "0.8",
+        "colorFromTheme": true,
+        "textAnimations": false,
+        "hideValue": false,
+        "tickmode": "off",
+        "peakmode": false,
+        "property": "payload",
+        "peaktime": 3000,
+        "x": 3780,
+        "y": 1120,
+        "wires": []
+    },
+    {
+        "id": "010258a2a7d1f011",
+        "type": "ui_level",
+        "z": "902fc438.e5d758",
+        "g": "986845c5f7bf4a6e",
+        "group": "1b027e16.1fc232",
+        "order": 9,
+        "width": 3,
+        "height": 2,
+        "name": "Potencia de Entrada",
+        "label": "Potencia de Entrada",
+        "colorHi": "#e60000",
+        "colorWarn": "#ff9900",
+        "colorNormal": "#00b33c",
+        "colorOff": "#595959",
+        "min": 0,
+        "max": "500",
+        "segWarn": "",
+        "segHigh": "",
+        "unit": "kW",
+        "layout": "sv",
+        "channelA": "",
+        "channelB": "",
+        "decimals": "1",
+        "animations": "soft",
+        "shape": 2,
+        "colorschema": "fixed",
+        "textoptions": "custom",
+        "colorText": "#eeeeee",
+        "fontLabel": "",
+        "fontValue": "",
+        "fontSmall": "0.8",
+        "colorFromTheme": true,
+        "textAnimations": false,
+        "hideValue": false,
+        "tickmode": "off",
+        "peakmode": false,
+        "property": "payload",
+        "peaktime": 3000,
+        "x": 3780,
+        "y": 1160,
+        "wires": []
+    },
+    {
+        "id": "6784775a.6334d8",
+        "type": "function",
+        "z": "902fc438.e5d758",
+        "g": "36fa9c99094e8f47",
+        "name": "Data show",
+        "func": "var Chart_Selection = flow.get(\"PQA.Harmonics_Chart.Selection\", \"memoryOnly\") || \"\";\n\n\nvar Frecuencia = global.get(\"PQA.Real_Time_Parameters.Frequency\", 'memoryOnly') || 0;\nvar LN,LL,Corriente,Factor_Protecia,THDV,THDI,Potencia,FP;\n\nif (Chart_Selection == \"Linea1\") {\n    LN = global.get(\"PQA.Real_Time_Parameters.Line_Voltage_1_2\", 'memoryOnly') || 0;\n    LL = global.get(\"PQA.Real_Time_Parameters.Phase_1_Voltage\", 'memoryOnly') || 0;\n    Corriente = global.get(\"PQA.Real_Time_Parameters.Total_Phase_A_Current\", 'memoryOnly') || 0;\n    THDV = global.get(\"PQA.Harmonics.Power_Quality['THD_V1(V12)']\",'memoryOnly')||0;\n    THDI = global.get(\"PQA.Harmonics.Power_Quality.THD_I1\",'memoryOnly')||0;\n    Potencia = global.get(\"PQA.Real_Time_Parameters.Phase_A_Power\",'memoryOnly')||0;\n    FP = global.get(\"PQA.Real_Time_Parameters.Phase_A_Power_Factor\", 'memoryOnly') || 0;\n\n}\nelse if (Chart_Selection == \"Linea2\") {\n    LN = global.get(\"PQA.Real_Time_Parameters.Line_Voltage_2_3\", 'memoryOnly') || 0;\n    LL = global.get(\"PQA.Real_Time_Parameters.Phase_2_Voltage\", 'memoryOnly') || 0;\n    Corriente = global.get(\"PQA.Real_Time_Parameters.Total_Phase_B_Current\", 'memoryOnly') || 0;\n    THDV = global.get(\"PQA.Harmonics.Power_Quality['THD_V2(V31)']\", 'memoryOnly') || 0;\n    THDI = global.get(\"PQA.Harmonics.Power_Quality.THD_I2\", 'memoryOnly') || 0;\n    Potencia = global.get(\"PQA.Real_Time_Parameters.Phase_B_Power\", 'memoryOnly') || 0;\n    FP = global.get(\"PQA.Real_Time_Parameters.Phase_B_Power_Factor\", 'memoryOnly') || 0;\n}\nelse if (Chart_Selection == \"Linea3\") {\n    LN = global.get(\"PQA.Real_Time_Parameters.Line_Voltage_3_1\", 'memoryOnly') || 0;\n    LL = global.get(\"PQA.Real_Time_Parameters.Phase_3_Voltage\", 'memoryOnly') || 0;\n    Corriente = global.get(\"PQA.Real_Time_Parameters.Total_Phase_C_Current\", 'memoryOnly') || 0;\n    THDV = global.get(\"PQA.Harmonics.Power_Quality['THD_V3(V23)']\", 'memoryOnly') || 0;\n    THDI = global.get(\"PQA.Harmonics.Power_Quality.THD_I3\", 'memoryOnly') || 0;\n    Potencia = global.get(\"PQA.Real_Time_Parameters.Phase_C_Power\", 'memoryOnly') || 0;\n    FP = global.get(\"PQA.Real_Time_Parameters.Phase_C_Power_Factor\", 'memoryOnly') || 0;\n\n}\nelse if (Chart_Selection == \"LineaP\") {\n    LL = global.get(\"PQA.Real_Time_Parameters.Average_Phase_Voltage\", 'memoryOnly') || 0;\n    LN = global.get(\"PQA.Real_Time_Parameters.Average_Line_Voltage\", 'memoryOnly') || 0;\n    THDV = global.get(\"PQA.Harmonics.Power_Quality.THD_avg\", 'memoryOnly') || 0;\n    THDI = global.get(\"PQA.Harmonics.Power_Quality.THD_Iavg\", 'memoryOnly') || 0;\n    Corriente = global.get(\"PQA.Real_Time_Parameters.Average_Phase_Current\", 'memoryOnly') || 0;\n    Potencia = global.get(\"PQA.Real_Time_Parameters.Total_System_Power\",'memoryOnly')||0;\n    FP = global.get(\"PQA.Real_Time_Parameters.Total_Power_Factor\", 'memoryOnly') || 0;\n}\n\nreturn [\n    { payload: catcherror(LN, 1) + \" \" + \"V\" },\n    { payload: catcherror(LL, 1) + \" \" + \"V\" },\n    { payload: catcherror(Corriente, 1) + \" \" + \"A\" },\n    { payload: catcherror(FP, 2) + \" \" + \"\" },\n    { payload: catcherror(THDV, 2) + \" \" + \"%\" },\n    { payload: catcherror(THDI, 2) + \" \" + \"%\" },\n    { payload: catcherror(Potencia, 1) + \" \" + \"kW\" },\n    { payload: catcherror(Frecuencia, 2) + \" \" + \"Hz\" }\n]\n\nfunction catcherror(variable, dec) {\n    return parseFloat(variable.toFixed(dec));\n}\n",
+        "outputs": 8,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 3550,
+        "y": 650,
+        "wires": [
+            [
+                "7dad9b43beefaa90"
+            ],
+            [
+                "c317645c3c09e5cf"
+            ],
+            [
+                "b8b03c987e844b4a"
+            ],
+            [
+                "ea4e85ef2d837356"
+            ],
+            [
+                "0d744c83e33992d3"
+            ],
+            [
+                "cfaca06ac50b5d36"
+            ],
+            [
+                "284e8360857dd2c6"
+            ],
+            [
+                "3a1748983f097cb1"
+            ]
+        ],
+        "outputLabels": [
+            "LN",
+            "LL",
+            "Corriente",
+            "THDV",
+            "THDI",
+            "Potencia",
+            "FP",
+            "Frecuencia"
+        ]
+    },
+    {
+        "id": "7dad9b43beefaa90",
+        "type": "ui_text",
+        "z": "902fc438.e5d758",
+        "g": "36fa9c99094e8f47",
+        "group": "474271dc.04fa9",
+        "order": 3,
+        "width": 3,
+        "height": 1,
+        "name": "",
+        "label": "LL:",
+        "format": "<font size =4px>{{msg.payload}}",
+        "layout": "row-left",
+        "x": 3760,
+        "y": 510,
+        "wires": []
+    },
+    {
+        "id": "c317645c3c09e5cf",
+        "type": "ui_text",
+        "z": "902fc438.e5d758",
+        "g": "36fa9c99094e8f47",
+        "group": "474271dc.04fa9",
+        "order": 4,
+        "width": 3,
+        "height": 1,
+        "name": "",
+        "label": "LN:",
+        "format": "<font size =4px>{{msg.payload}}",
+        "layout": "row-left",
+        "x": 3760,
+        "y": 550,
+        "wires": []
+    },
+    {
+        "id": "b8b03c987e844b4a",
+        "type": "ui_text",
+        "z": "902fc438.e5d758",
+        "g": "36fa9c99094e8f47",
+        "group": "474271dc.04fa9",
+        "order": 5,
+        "width": 3,
+        "height": 1,
+        "name": "",
+        "label": "Corriente:",
+        "format": "<font size =4px>{{msg.payload}}",
+        "layout": "row-left",
+        "x": 3770,
+        "y": 590,
+        "wires": []
+    },
+    {
+        "id": "284e8360857dd2c6",
+        "type": "ui_text",
+        "z": "902fc438.e5d758",
+        "g": "36fa9c99094e8f47",
+        "group": "474271dc.04fa9",
+        "order": 9,
+        "width": 3,
+        "height": 1,
+        "name": "",
+        "label": "Potencia:",
+        "format": "<font size =4px>{{msg.payload}}",
+        "layout": "row-left",
+        "x": 3770,
+        "y": 750,
+        "wires": []
+    },
+    {
+        "id": "0d744c83e33992d3",
+        "type": "ui_text",
+        "z": "902fc438.e5d758",
+        "g": "36fa9c99094e8f47",
+        "group": "474271dc.04fa9",
+        "order": 7,
+        "width": 3,
+        "height": 1,
+        "name": "",
+        "label": "THD (V):",
+        "format": "<font size =4px>{{msg.payload}}",
+        "layout": "row-left",
+        "x": 3770,
+        "y": 670,
+        "wires": []
+    },
+    {
+        "id": "cfaca06ac50b5d36",
+        "type": "ui_text",
+        "z": "902fc438.e5d758",
+        "g": "36fa9c99094e8f47",
+        "group": "474271dc.04fa9",
+        "order": 8,
+        "width": 3,
+        "height": 1,
+        "name": "",
+        "label": "THD (I):",
+        "format": "<font size =4px>{{msg.payload}}",
+        "layout": "row-left",
+        "x": 3770,
+        "y": 710,
+        "wires": []
+    },
+    {
+        "id": "ea4e85ef2d837356",
+        "type": "ui_text",
+        "z": "902fc438.e5d758",
+        "g": "36fa9c99094e8f47",
+        "group": "474271dc.04fa9",
+        "order": 6,
+        "width": 3,
+        "height": 1,
+        "name": "",
+        "label": "FP:",
+        "format": "<font size =4px>{{msg.payload}}",
+        "layout": "row-left",
+        "x": 3760,
+        "y": 630,
+        "wires": []
+    },
+    {
+        "id": "3a1748983f097cb1",
+        "type": "ui_text",
+        "z": "902fc438.e5d758",
+        "g": "36fa9c99094e8f47",
+        "group": "474271dc.04fa9",
+        "order": 10,
+        "width": 3,
+        "height": 1,
+        "name": "",
+        "label": "Frec.:",
+        "format": "<font size =4px>{{msg.payload}}",
+        "layout": "row-left",
+        "x": 3760,
+        "y": 790,
+        "wires": []
+    },
+    {
+        "id": "5b529f4c.7ffeb",
+        "type": "ui_chart",
+        "z": "902fc438.e5d758",
+        "g": "aafad2ba.dcc8b",
+        "name": "",
+        "group": "474271dc.04fa9",
+        "order": 2,
+        "width": 6,
+        "height": 6,
+        "label": "{{msg.label}}",
+        "chartType": "bar",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "Falla de comunicación con PQA",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#f20707",
+            "#033e8c",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "x": 4380,
+        "y": 880,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6c9ed5d3.e7799c",
+        "type": "function",
+        "z": "902fc438.e5d758",
+        "g": "aafad2ba.dcc8b",
+        "name": "Harmonics chart generation",
+        "func": "var chart = \n[{\n    \"series\": [\"THD-V\", \"THD-I\"],\n    \"data\": msg.payload,\n    \"labels\": [ \"1o\", \"3o\",\"5o\",\"7o\",\"9o\",\"11o\",\"13o\"]\n}];\n\nmsg.payload = chart;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 4190,
+        "y": 880,
+        "wires": [
+            [
+                "5b529f4c.7ffeb"
+            ]
+        ]
+    },
+    {
+        "id": "23815ef1.931a32",
+        "type": "ui_dropdown",
+        "z": "902fc438.e5d758",
+        "g": "aafad2ba.dcc8b",
+        "name": "",
+        "label": "Fase",
+        "tooltip": "",
+        "place": "Fase",
+        "group": "474271dc.04fa9",
+        "order": 1,
+        "width": 6,
+        "height": 1,
+        "passthru": true,
+        "multiple": false,
+        "options": [
+            {
+                "label": "Línea 1-2",
+                "value": "Linea1",
+                "type": "str"
+            },
+            {
+                "label": "Línea 2-3",
+                "value": "Linea2",
+                "type": "str"
+            },
+            {
+                "label": "Línea 1-3",
+                "value": "Linea3",
+                "type": "str"
+            },
+            {
+                "label": "Promedio",
+                "value": "LineaP",
+                "type": "str"
+            }
+        ],
+        "payload": "",
+        "topic": "",
+        "x": 3860,
+        "y": 920,
+        "wires": [
+            [
+                "20b8681c.81fd48"
+            ]
+        ]
+    },
+    {
+        "id": "2b47642.2404d9c",
+        "type": "link in",
+        "z": "902fc438.e5d758",
+        "g": "aafad2ba.dcc8b",
+        "name": "",
+        "links": [
+            "97407954.a004c8"
+        ],
+        "x": 3495,
+        "y": 950,
+        "wires": [
+            [
+                "eddefb96.175bf8",
+                "3ccbaa0b.2db096"
+            ]
+        ]
+    },
+    {
+        "id": "eddefb96.175bf8",
+        "type": "switch",
+        "z": "902fc438.e5d758",
+        "g": "aafad2ba.dcc8b",
+        "name": "User in harmonics Screen ?",
+        "property": "name",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Principal",
+                "vt": "str"
+            },
+            {
+                "t": "neq",
+                "v": "Principal",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 3670,
+        "y": 990,
+        "wires": [
+            [
+                "a5c181ee.2efe1"
+            ],
+            [
+                "b54a4559.022378"
+            ]
+        ]
+    },
+    {
+        "id": "a5c181ee.2efe1",
+        "type": "change",
+        "z": "902fc438.e5d758",
+        "g": "aafad2ba.dcc8b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::PQA.Harmonics_Chart.Prompt",
+                "pt": "flow",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 3970,
+        "y": 970,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b54a4559.022378",
+        "type": "change",
+        "z": "902fc438.e5d758",
+        "g": "aafad2ba.dcc8b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::PQA.Harmonics_Chart.Prompt",
+                "pt": "flow",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 3970,
+        "y": 1010,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3ea5879e.bf0588",
+        "type": "function",
+        "z": "902fc438.e5d758",
+        "g": "aafad2ba.dcc8b",
+        "name": "Data Handle harmonics chart",
+        "func": "var PQA_Data                = global.get(\"PQA.Harmonics\", \"memoryOnly\") || \"[]\";\nvar Chart_Selection         = flow.get(\"PQA.Harmonics_Chart.Selection\", \"memoryOnly\") || \"\";\n\nvar Linea1_V = Object.values(PQA_Data.V1_V12);\nvar Linea1_I = Object.values(PQA_Data.I1);\n\nvar Linea2_V = Object.values(PQA_Data.V2_V31);\nvar Linea2_I = Object.values(PQA_Data.I2);\n\n\nvar Linea3_V = Object.values(PQA_Data.V3_V23);\nvar Linea3_I = Object.values(PQA_Data.I3);\n\nvar LineaP_V = [\n                    ((Linea1_V[0]+Linea2_V[0]+Linea3_V[0])/3).toFixed(2),\n                    ((Linea1_V[1]+Linea2_V[1]+Linea3_V[1])/3).toFixed(2),\n                    ((Linea1_V[2]+Linea2_V[0]+Linea3_V[2])/3).toFixed(2),\n                    ((Linea1_V[3]+Linea2_V[0]+Linea3_V[3])/3).toFixed(2),\n                    ((Linea1_V[4]+Linea2_V[0]+Linea3_V[4])/3).toFixed(2),\n                    ((Linea1_V[5]+Linea2_V[0]+Linea3_V[5])/3).toFixed(2)\n                ];\nvar LineaP_I = [\n                    ((Linea1_I[0]+Linea2_I[0]+Linea3_I[0])/3).toFixed(2),\n                    ((Linea1_I[1]+Linea2_I[1]+Linea3_I[1])/3).toFixed(2),\n                    ((Linea1_I[2]+Linea2_I[0]+Linea3_I[2])/3).toFixed(2),\n                    ((Linea1_I[3]+Linea2_I[0]+Linea3_I[3])/3).toFixed(2),\n                    ((Linea1_I[4]+Linea2_I[0]+Linea3_I[4])/3).toFixed(2),\n                    ((Linea1_I[5]+Linea2_I[0]+Linea3_I[5])/3).toFixed(2),\n                ];\n\nif(Chart_Selection == \"Linea1\")\n    {\n        msg.payload =  [ Linea1_V , Linea1_I];\n        msg.label   = \"Porcentaje Armónico Línea 1\";\n    }\nelse if(Chart_Selection == \"Linea2\")\n    {\n        msg.payload =  [ Linea2_V , Linea2_I];\n        msg.label   = \"Porcentaje Armónico Línea 2\";\n    }\nelse if(Chart_Selection == \"Linea3\")\n    {\n        msg.payload =  [ Linea3_V , Linea3_I];\n        msg.label   = \"Porcentaje Armónico Línea 3\";\n    }\nelse if(Chart_Selection == \"LineaP\")\n    {\n        {\n        msg.payload =  [ LineaP_V , LineaP_I];\n        msg.label   = \"Porcentaje Armónico Promedio\";\n    }\n    }\nreturn msg; \n\n\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 3930,
+        "y": 880,
+        "wires": [
+            [
+                "6c9ed5d3.e7799c"
+            ]
+        ]
+    },
+    {
+        "id": "c8aa3a95.12b518",
+        "type": "switch",
+        "z": "902fc438.e5d758",
+        "g": "aafad2ba.dcc8b",
+        "name": "Harmonics Chart Prompted? ",
+        "property": "#:(memoryOnly)::PQA.Harmonics_Chart.Prompt",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 3670,
+        "y": 880,
+        "wires": [
+            [
+                "3ea5879e.bf0588"
+            ]
+        ]
+    },
+    {
+        "id": "20b8681c.81fd48",
+        "type": "change",
+        "z": "902fc438.e5d758",
+        "g": "aafad2ba.dcc8b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::PQA.Harmonics_Chart.Selection",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 4120,
+        "y": 920,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3ccbaa0b.2db096",
+        "type": "change",
+        "z": "902fc438.e5d758",
+        "g": "aafad2ba.dcc8b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "LineaP",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 3630,
+        "y": 920,
+        "wires": [
+            [
+                "23815ef1.931a32"
+            ]
+        ]
+    },
+    {
+        "id": "1f3630da2492d4f9",
+        "type": "catch",
+        "z": "902fc438.e5d758",
+        "g": "aafad2ba.dcc8b",
+        "name": "",
+        "scope": [
+            "3ea5879e.bf0588"
+        ],
+        "uncaught": false,
+        "x": 4200,
+        "y": 970,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e9b241df594b8883",
+        "type": "function",
+        "z": "902fc438.e5d758",
+        "g": "f7709059ebe5ad7b",
+        "name": "",
+        "func": "\n// Lectura de valores de voltaje L1,L2,L3 respecto a neutro\nmsg.VLP = global.get(\"PQA.Real_Time_Parameters.Average_Line_Voltage\", 'memoryOnly') || 0;\nmsg.CLP = global.get(\"PQA.Real_Time_Parameters.Average_Phase_Current\", 'memoryOnly') || 0;\nmsg.PLP = global.get(\"PQA.Real_Time_Parameters.Total_System_Power\", 'memoryOnly') || 0;\n\n/*\nVLP => Voltaje Linea Promedio\nCLP => Corriente Linea Promedio\nPLP => Potencia Linea Promedio\n*/\nreturn [msg.VLP, msg.CLP,msg.PLP]",
+        "outputs": 3,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3540,
+        "y": 1120,
+        "wires": [
+            [
+                "3ee2c05ec63c6a46"
+            ],
+            [
+                "546f599e6c10476b"
+            ],
+            [
+                "010258a2a7d1f011"
             ]
         ]
     }
