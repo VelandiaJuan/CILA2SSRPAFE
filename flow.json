@@ -5076,14 +5076,16 @@
             "label": true
         },
         "nodes": [
-            "e9b241df594b8883",
             "36fa9c99094e8f47",
-            "aafad2ba.dcc8b"
+            "aafad2ba.dcc8b",
+            "cdd7357f346abec2",
+            "757d7c6ba6d94b9a",
+            "26836fe8d310f685"
         ],
         "x": 3428,
         "y": 443,
         "w": 1054,
-        "h": 725.5
+        "h": 758
     },
     {
         "id": "7bc9759a9a7ea0be",
@@ -10688,7 +10690,7 @@
         "z": "902fc438.e5d758",
         "g": "7bc9759a9a7ea0be",
         "name": "Data show",
-        "func": "var Process_data = global.get(\"Process_data.DHS\",'memoryOnly')||[];\n\n// Protecciones Instrumentación\nvar THP = global.get(\"Process_data.AI['Presión de cabeza THP']\", 'memoryOnly') || 0;\nvar THT = global.get(\"Process_data.AI['Temperatura de cabeza THT']\", 'memoryOnly') || 0;\n\n// Sensor de Fondo\nvar Vibration_X = Process_data[\"Vibración X\"] || null;//\"--\";\nvar Vibration_Z = Process_data[\"Vibración Z\"] || null;//\"--\";\n\n//Protecciones Fondo\nvar LeakageCurrent = Process_data[\"Corriente de fuga\"] || \"--\";\nvar IntakePressure = Process_data[\"Presión de entrada\"] || \"--\";\nvar DischargePressure = Process_data[\"Presión de descarga\"] || \"--\";\nvar IntakeTemperature = parseFloat(Process_data[\"Temperatura de entrada\"] || \"--\");\nvar MotorTemperature = parseFloat(Process_data[\"Temperatura de motor\"] || \"--\");\nvar DischargeTemperature = parseFloat(Process_data[\"Temperatura de descarga\"] || \"--\");\n\nreturn [\n    { payload: DecPlacces(IntakePressure, 1, \"psi\") },\n    { payload: DecPlacces(DischargePressure, 1, \"psi\") },\n    { payload: DecPlacces(IntakeTemperature, 1, \"ºF\") },\n    { payload: DecPlacces(DischargeTemperature, 1, \"ºF\") },\n    { payload: DecPlacces(MotorTemperature, 1, \"ºF\") },\n    { payload: DecPlacces(Vibration_X, 3, \"G\") },\n    { payload: DecPlacces(Vibration_Z, 3, \"G\") },\n    { payload: DecPlacces(LeakageCurrent, 3, \"mA\") },\n    { payload: DecPlacces(THP, 2,\"psi\") },\n    { payload: DecPlacces(THT, 2,\"ºF\") }\n];\n\nfunction DecPlacces(value, Places, Units) {\n    return typeof value == \"number\" ? parseFloat(value.toFixed(Places))+\" \"+Units:value;\n}",
+        "func": "var Process_data = global.get(\"Process_data.DHS\",'memoryOnly')||[];\n\n// Protecciones Instrumentación\nvar THP = global.get(\"Process_data.AI['Presión de cabeza THP']\", 'memoryOnly') || 0;\nvar THT = global.get(\"Process_data.AI['Temperatura de cabeza THT']\", 'memoryOnly') || 0;\n\n// Sensor de Fondo\nvar Vibration_X = Process_data[\"Vibración X\"] || \"--\";\nvar Vibration_Z = Process_data[\"Vibración Z\"] || \"--\";\n\n//Protecciones Fondo\nvar LeakageCurrent = Process_data[\"Corriente de fuga\"] || \"--\";\nvar IntakePressure = Process_data[\"Presión de entrada\"] || \"--\";\nvar DischargePressure = Process_data[\"Presión de descarga\"] || \"--\";\nvar IntakeTemperature = parseFloat(Process_data[\"Temperatura de entrada\"] || \"--\");\nvar MotorTemperature = parseFloat(Process_data[\"Temperatura de motor\"] || \"--\");\nvar DischargeTemperature = parseFloat(Process_data[\"Temperatura de descarga\"] || \"--\");\n\nreturn [\n    { payload: DecPlacces(IntakePressure, 1, \"psi\") },\n    { payload: DecPlacces(DischargePressure, 1, \"psi\") },\n    { payload: DecPlacces(IntakeTemperature, 1, \"ºF\") },\n    { payload: DecPlacces(DischargeTemperature, 1, \"ºF\") },\n    { payload: DecPlacces(MotorTemperature, 1, \"ºF\") },\n    { payload: DecPlacces(Vibration_X, 3, \"G\") },\n    { payload: DecPlacces(Vibration_Z, 3, \"G\") },\n    { payload: DecPlacces(LeakageCurrent, 3, \"mA\") },\n    { payload: DecPlacces(THP, 2,\"psi\") },\n    { payload: DecPlacces(THT, 2,\"ºF\") }\n];\n\nfunction DecPlacces(value, Places, Units) {\n    return typeof value == \"number\" ? parseFloat(value.toFixed(Places))+\" \"+Units:value;\n}",
         "outputs": 10,
         "noerr": 0,
         "initialize": "",
@@ -11561,7 +11563,9 @@
                 "7a9362a4e974c10e",
                 "6784775a.6334d8",
                 "3ea5879e.bf0588",
-                "e9b241df594b8883"
+                "cdd7357f346abec2",
+                "26836fe8d310f685",
+                "757d7c6ba6d94b9a"
             ]
         ]
     },
@@ -86446,32 +86450,6 @@
         ]
     },
     {
-        "id": "e9b241df594b8883",
-        "type": "function",
-        "z": "902fc438.e5d758",
-        "g": "f7709059ebe5ad7b",
-        "name": "",
-        "func": "\n// Lectura de valores de voltaje L1,L2,L3 respecto a neutro\nmsg.VLP = global.get(\"PQA.Real_Time_Parameters.Average_Line_Voltage\", 'memoryOnly') || 0;\nmsg.CLP = global.get(\"PQA.Real_Time_Parameters.Average_Phase_Current\", 'memoryOnly') || 0;\nmsg.PLP = global.get(\"PQA.Real_Time_Parameters.Total_System_Power\", 'memoryOnly') || 0;\n\n/*\nVLP => Voltaje Linea Promedio\nCLP => Corriente Linea Promedio\nPLP => Potencia Linea Promedio\n*/\nreturn [msg.VLP, msg.CLP,msg.PLP]",
-        "outputs": 3,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 3540,
-        "y": 1120,
-        "wires": [
-            [
-                "3ee2c05ec63c6a46"
-            ],
-            [
-                "546f599e6c10476b"
-            ],
-            [
-                "010258a2a7d1f011"
-            ]
-        ]
-    },
-    {
         "id": "b697eef3a328faa3",
         "type": "switch",
         "z": "2e27dea6.c4c362",
@@ -87961,5 +87939,65 @@
         "x": 3750,
         "y": 1640,
         "wires": []
+    },
+    {
+        "id": "cdd7357f346abec2",
+        "type": "function",
+        "z": "902fc438.e5d758",
+        "g": "f7709059ebe5ad7b",
+        "name": "",
+        "func": "msg.payload = global.get(\"PQA.Real_Time_Parameters.Average_Line_Voltage\", 'memoryOnly') || 0;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3540,
+        "y": 1080,
+        "wires": [
+            [
+                "3ee2c05ec63c6a46"
+            ]
+        ]
+    },
+    {
+        "id": "26836fe8d310f685",
+        "type": "function",
+        "z": "902fc438.e5d758",
+        "g": "f7709059ebe5ad7b",
+        "name": "",
+        "func": "msg.payload = global.get(\"PQA.Real_Time_Parameters.Average_Phase_Current\", 'memoryOnly') || 0;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3540,
+        "y": 1120,
+        "wires": [
+            [
+                "546f599e6c10476b"
+            ]
+        ]
+    },
+    {
+        "id": "757d7c6ba6d94b9a",
+        "type": "function",
+        "z": "902fc438.e5d758",
+        "g": "f7709059ebe5ad7b",
+        "name": "",
+        "func": "msg.payload = global.get(\"PQA.Real_Time_Parameters.Total_System_Power\", 'memoryOnly') || 0;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3540,
+        "y": 1160,
+        "wires": [
+            [
+                "010258a2a7d1f011"
+            ]
+        ]
     }
 ]
