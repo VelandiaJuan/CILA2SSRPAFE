@@ -133,16 +133,16 @@
         "info": ""
     },
     {
-        "id": "a84e803f031d5b6d",
+        "id": "c280ee8f58f61044",
         "type": "tab",
-        "label": "Tendencias",
+        "label": "AVAS",
         "disabled": false,
         "info": ""
     },
     {
-        "id": "c280ee8f58f61044",
+        "id": "759eb633bbadf3e1",
         "type": "tab",
-        "label": "AVAS",
+        "label": "Tendencias",
         "disabled": false,
         "info": ""
     },
@@ -896,7 +896,7 @@
         "category": "",
         "in": [
             {
-                "x": 180,
+                "x": 320,
                 "y": 100,
                 "wires": [
                     {
@@ -907,7 +907,7 @@
         ],
         "out": [
             {
-                "x": 820,
+                "x": 720,
                 "y": 100,
                 "wires": [
                     {
@@ -1142,9 +1142,7 @@
             "b269ff5b6732d608"
         ],
         "x": 24,
-        "y": 609,
-        "w": 2632,
-        "h": 552
+        "y": 609
     },
     {
         "id": "3cb51855.a66038",
@@ -1159,9 +1157,7 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169,
-        "w": 232,
-        "h": 82
+        "y": 1169
     },
     {
         "id": "27a0641a.d154dc",
@@ -2151,9 +2147,7 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269,
-        "w": 352,
-        "h": 82
+        "y": 1269
     },
     {
         "id": "6202107f.ed9aa",
@@ -2229,9 +2223,7 @@
             "28f9623a0f710b9d"
         ],
         "x": 44,
-        "y": -1,
-        "w": 1992,
-        "h": 602
+        "y": -1
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -2263,9 +2255,7 @@
             "7bc9759a9a7ea0be"
         ],
         "x": 3224,
-        "y": -1,
-        "w": 1284,
-        "h": 1708
+        "y": -1
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -2286,9 +2276,7 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169,
-        "w": 782,
-        "h": 182
+        "y": 1169
     },
     {
         "id": "086b9d08c3b68939",
@@ -2319,9 +2307,7 @@
             "5bd4c7b34ec6fe9c"
         ],
         "x": 24,
-        "y": 1359,
-        "w": 1022,
-        "h": 292
+        "y": 1359
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -2347,9 +2333,7 @@
             "6e75b5f5657d3a7e"
         ],
         "x": 24,
-        "y": 1679,
-        "w": 1132,
-        "h": 202
+        "y": 1679
     },
     {
         "id": "afdbbb533d628687",
@@ -2365,9 +2349,7 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679,
-        "w": 332,
-        "h": 82
+        "y": 1679
     },
     {
         "id": "ba075c8cc622876a",
@@ -2544,7 +2526,9 @@
             "22b2f935e069825d"
         ],
         "x": 2398,
-        "y": 133
+        "y": 133,
+        "w": 1344,
+        "h": 714
     },
     {
         "id": "ef342a4a7f2984c3",
@@ -2562,7 +2546,9 @@
             "ce0884f8ad42bd03"
         ],
         "x": 34,
-        "y": 1019
+        "y": 1019,
+        "w": 332,
+        "h": 122
     },
     {
         "id": "c09ce75a93685feb",
@@ -2579,7 +2565,9 @@
             "6ef714d5a2569e8a"
         ],
         "x": 8,
-        "y": 403
+        "y": 403,
+        "w": 2374,
+        "h": 584
     },
     {
         "id": "23a61c692dd8e203",
@@ -2793,7 +2781,7 @@
             "22196749d13fa9b3",
             "ca1808e9c0cebc54"
         ],
-        "x": 52,
+        "x": 62,
         "y": 1017
     },
     {
@@ -3127,25 +3115,6 @@
         "y": 393
     },
     {
-        "id": "99b24e0896cf0f0c",
-        "type": "group",
-        "z": "a84e803f031d5b6d",
-        "name": "Multi Chart ",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "360dcafc238d706c",
-            "825a31a31582b84f",
-            "c13408918a8f486c",
-            "61c190c7fd4e2816",
-            "f55bcf1b9afa8eaa",
-            "1c4e319074fb108b"
-        ],
-        "x": 34,
-        "y": 59
-    },
-    {
         "id": "03502219e91ec6ae",
         "type": "group",
         "z": "2e27dea6.c4c362",
@@ -3167,53 +3136,6 @@
         ],
         "x": 794,
         "y": 479
-    },
-    {
-        "id": "ca0533739c948120",
-        "type": "group",
-        "z": "a84e803f031d5b6d",
-        "name": "Gráfica IPR",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "a8255c5d16d754c5",
-            "c3b346abb490ca68",
-            "8d58577795074220",
-            "aaa79c68a4768792",
-            "e1466402c3b6ff75",
-            "610abe9bb034463d",
-            "4cc0a658f4dba598",
-            "f8f18ac4d264c97b"
-        ],
-        "x": 64,
-        "y": 399
-    },
-    {
-        "id": "610861a3f96d22bd",
-        "type": "group",
-        "z": "a84e803f031d5b6d",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "f9124afaac35bba3",
-            "f19dc115b1968a08",
-            "dc6b7375a63a688e",
-            "f45b0450b6ef8f9a",
-            "029d05195cb33abf",
-            "f0a08f0cff56935a",
-            "391bfdae0921e15a"
-        ],
-        "x": 634,
-        "y": 59
     },
     {
         "id": "86af7867dc10f4a8",
@@ -3259,7 +3181,9 @@
             "d31bc366f41b763d"
         ],
         "x": 4,
-        "y": 119
+        "y": 119,
+        "w": 1932,
+        "h": 262
     },
     {
         "id": "2d8d39f1e038a15b",
@@ -3282,6 +3206,72 @@
         ],
         "x": 794,
         "y": 679
+    },
+    {
+        "id": "5dc71a84bf12ae23",
+        "type": "group",
+        "z": "759eb633bbadf3e1",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "79d46cb161b83ec8",
+            "c8c0bcb1ebd9fe87",
+            "7276dba6243990f2",
+            "c3c6f48e93405386",
+            "0a8cf06fd166c42e",
+            "68a2367b68a2d36b",
+            "74b76e998626d493"
+        ],
+        "x": 634,
+        "y": 59
+    },
+    {
+        "id": "da9df0726c99ccd4",
+        "type": "group",
+        "z": "759eb633bbadf3e1",
+        "name": "Multi Chart ",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "9849c621448140ed",
+            "3738a46428965bed",
+            "7ebabc8539f47bff",
+            "e88eb5b9b4cc7c91",
+            "947f94298738ee85",
+            "85301d7a2ecfe880"
+        ],
+        "x": 34,
+        "y": 59
+    },
+    {
+        "id": "de4f6c6fd5bcf584",
+        "type": "group",
+        "z": "759eb633bbadf3e1",
+        "name": "Gráfica IPR",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "aea1b4b3e888005f",
+            "85a2c9195868ace7",
+            "efa771aeef7f8c75",
+            "73661036b9de7713",
+            "2d0e0387dd8002cc",
+            "cd0247a01f5efa19",
+            "3a03258aa05958aa",
+            "80c21456b4d66fef"
+        ],
+        "x": 64,
+        "y": 399
     },
     {
         "id": "77dcd918.f8c298",
@@ -4018,9 +4008,7 @@
             "1a666ca6835d2d34"
         ],
         "x": 74,
-        "y": 399,
-        "w": 852,
-        "h": 132
+        "y": 399
     },
     {
         "id": "cf985e84.c7693",
@@ -4200,7 +4188,9 @@
             "4fb76cafe519048c"
         ],
         "x": 2424,
-        "y": 159
+        "y": 159,
+        "w": 1292,
+        "h": 532
     },
     {
         "id": "22b2f935e069825d",
@@ -4221,7 +4211,9 @@
             "e74da3e6e268b270"
         ],
         "x": 2424,
-        "y": 699
+        "y": 699,
+        "w": 832,
+        "h": 122
     },
     {
         "id": "103cd2dbe76e1fc5",
@@ -4245,42 +4237,9 @@
             "2a531a19f520cae6"
         ],
         "x": 64,
-        "y": 429
-    },
-    {
-        "id": "6ef714d5a2569e8a",
-        "type": "group",
-        "z": "62616833443f66d1",
-        "g": "c09ce75a93685feb",
-        "name": "Referencia remota",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "37fc6a6679d97cc0",
-            "12a92bfd7496f11b",
-            "3927dfb4fdf8a76c",
-            "9467b3e6c4ee66e5",
-            "db103966d32048e9",
-            "c7f289af38b944b7",
-            "6ae6319e8f6ed558",
-            "8ea4c15bb9edfb07",
-            "efd33b25d8ed74e3",
-            "55b2d4ef41d6726b",
-            "b377858fb09c8893",
-            "8ff4526126eeee60",
-            "9cdabbdbf5c62773",
-            "042ed8953113914f",
-            "b7d1f41a3c2c131c",
-            "9ef01e036f249a71",
-            "724f1f10a5036303",
-            "2c7ddc3776f48174",
-            "7e37a982f57920d6",
-            "075186ebd79ef2c7"
-        ],
-        "x": 1044,
-        "y": 439
+        "y": 429,
+        "w": 952,
+        "h": 132
     },
     {
         "id": "c40108170a37478f",
@@ -4319,7 +4278,9 @@
             "2d8469fec0420fb6"
         ],
         "x": 34,
-        "y": 719
+        "y": 719,
+        "w": 1672,
+        "h": 242
     },
     {
         "id": "4af99851.bcfb28",
@@ -4673,7 +4634,7 @@
             "b670eeac81e3a4e1",
             "0d3271d48cdd3dc2"
         ],
-        "x": 78,
+        "x": 88,
         "y": 1053
     },
     {
@@ -5035,7 +4996,8 @@
             "2a09d63019070336",
             "6f3381f6012fd756",
             "5fb123b538a34d58",
-            "2f149d87d9a4306f"
+            "2f149d87d9a4306f",
+            "ab6518c77e0ce523"
         ],
         "x": 54,
         "y": 359
@@ -5083,9 +5045,7 @@
             "26836fe8d310f685"
         ],
         "x": 3428,
-        "y": 443,
-        "w": 1054,
-        "h": 758
+        "y": 443
     },
     {
         "id": "7bc9759a9a7ea0be",
@@ -5111,9 +5071,46 @@
             "21943ad363a68265"
         ],
         "x": 3434,
-        "y": 1199,
-        "w": 472,
-        "h": 482
+        "y": 1199
+    },
+    {
+        "id": "6ef714d5a2569e8a",
+        "type": "group",
+        "z": "62616833443f66d1",
+        "g": "c09ce75a93685feb",
+        "name": "Referencia remota",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "37fc6a6679d97cc0",
+            "12a92bfd7496f11b",
+            "3927dfb4fdf8a76c",
+            "9467b3e6c4ee66e5",
+            "db103966d32048e9",
+            "c7f289af38b944b7",
+            "6ae6319e8f6ed558",
+            "8ea4c15bb9edfb07",
+            "efd33b25d8ed74e3",
+            "55b2d4ef41d6726b",
+            "b377858fb09c8893",
+            "8ff4526126eeee60",
+            "9cdabbdbf5c62773",
+            "042ed8953113914f",
+            "b7d1f41a3c2c131c",
+            "9ef01e036f249a71",
+            "724f1f10a5036303",
+            "2c7ddc3776f48174",
+            "7e37a982f57920d6",
+            "075186ebd79ef2c7",
+            "2e514d097ce744f4",
+            "8f319fcf5c83e959"
+        ],
+        "x": 1044,
+        "y": 459,
+        "w": 1312,
+        "h": 262
     },
     {
         "id": "a80677cf.4274c8",
@@ -5239,7 +5236,8 @@
             "9a77d8151219104a",
             "9f324830.9da0c8",
             "ae172e07.4eb89",
-            "0a4336ec53039171"
+            "0a4336ec53039171",
+            "86cba6e65b29fb7b"
         ],
         "x": 114,
         "y": 249
@@ -5936,7 +5934,7 @@
             "299167560225f8ae",
             "5da923b060b7d724"
         ],
-        "x": 104,
+        "x": 114,
         "y": 1079
     },
     {
@@ -6456,9 +6454,7 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 469,
-        "w": 402,
-        "h": 362
+        "y": 469
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -6486,9 +6482,7 @@
             "1f3630da2492d4f9"
         ],
         "x": 3454,
-        "y": 839,
-        "w": 1002,
-        "h": 212
+        "y": 839
     },
     {
         "id": "d25d405a.19cff",
@@ -15366,8 +15360,8 @@
         "y": 520,
         "wires": [
             [
-                "24beaaedb233cc7c",
-                "595852e0.7df8ec"
+                "595852e0.7df8ec",
+                "86cba6e65b29fb7b"
             ]
         ]
     },
@@ -15680,8 +15674,8 @@
         "g": "9bdf522.eba6db",
         "name": "",
         "env": [],
-        "x": 940,
-        "y": 460,
+        "x": 1000,
+        "y": 440,
         "wires": [
             []
         ]
@@ -17874,7 +17868,7 @@
         "g": "dad84feb.d4773",
         "name": "",
         "pauseType": "delay",
-        "timeout": "10",
+        "timeout": "20",
         "timeoutUnits": "seconds",
         "rate": "1",
         "nbRateUnits": "1",
@@ -24115,7 +24109,7 @@
         "order": 1,
         "width": 4,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "300",
         "topic": "Accel",
@@ -24139,7 +24133,7 @@
         "order": 2,
         "width": 4,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "300",
         "topic": "Accel",
@@ -24163,7 +24157,7 @@
         "order": 3,
         "width": 4,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "300",
         "topic": "Accel",
@@ -24187,7 +24181,7 @@
         "order": 4,
         "width": 4,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "300",
         "topic": "Accel",
@@ -24211,7 +24205,7 @@
         "order": 5,
         "width": 4,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "300",
         "topic": "Accel",
@@ -24235,7 +24229,7 @@
         "order": 6,
         "width": 4,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "300",
         "topic": "Accel",
@@ -25086,7 +25080,7 @@
         "order": 8,
         "width": 4,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "multiple": false,
         "options": [
             {
@@ -30950,7 +30944,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "7",
+                "to": "10",
                 "tot": "num"
             }
         ],
@@ -33542,7 +33536,8 @@
             "7f7ba2b6b2295aa8",
             "e4ed02fdd80ca2c6",
             "1026306778381856",
-            "90ee82b36e7ab5d7"
+            "90ee82b36e7ab5d7",
+            "22a41d9797f66919"
         ],
         "x": 1395,
         "y": 220,
@@ -38893,6 +38888,13 @@
                 "pt": "flow",
                 "to": "#:(memoryOnly)::C2S.Implicit.Commanded_SpdRef",
                 "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "Stop_VSD",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
             }
         ],
         "action": "",
@@ -41617,7 +41619,7 @@
         "z": "62616833443f66d1",
         "g": "103cd2dbe76e1fc5",
         "name": "Mapa Modbus",
-        "func": "var C2S         = global.get('C2S.Implicit','memoryOnly')       || [];\nvar Np          = global.get('C2S.Motor_Control.Nameplate')     || [];\nvar LR          = global.get('Input.Operation.ControlMode')     || [];     \nvar SC          = global.get('C2S.Speed_Control')               || [];\nvar Status      = global.get('C2S.Drive_Status','memoryOnly')   || [];\nvar PQA         = global.get('PQA','memoryOnly')                || [];\nvar DHSelect    = global.get('Process_data.DHS.Number')         || 0;\nvar DHSData     = global.get('Process_data.DHS','memoryOnly')   || [];\nvar DHSData2    = global.get('Process_data.AI','memoryOnly')    || [];\nvar Rtx         = global.get(\"C2S.RelTx\") || 1;\n\nvar MtrVoltage = C2S.Output_Voltage * Rtx;\nvar MtrCurrent = C2S.Output_Current / Rtx;\n\n\n// var Outbreaker = [8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23];\nvar Outbreaker = global.get(\"Outbreaker\") || 0;\n\n\n// Vector mapa Modbus\nvar Mapa = [];\n\nMapa[0]   = C2S.Output_Frequency*10;\nMapa[1]   = MtrVoltage*10;\nMapa[2]   = C2S.Output_Current*10;\nMapa[8]   = C2S.Output_Power*10;\nMapa[10]  = C2S.Output_Voltage*10;\nMapa[14]  = C2S.Commanded_SpdRef;\nMapa[16]  = C2S.Bus_DC_Volts;\nMapa[18]  = C2S.Drive_Temp_C;\nMapa[22]  = val(DHSData[\"Vibración X\"]);                                        \nMapa[23]  = val(DHSData[\"Vibración Z\"]);                                        \n\n\n// if (Outbreaker != 0) {\n    // Configuración del Cubloc\n    Mapa[12]  = Outbreaker[0];//8\n    Mapa[15]  = Outbreaker[1];\n    Mapa[17]  = Outbreaker[2];                                        \n    Mapa[20]  = Outbreaker[3];                                        \n    Mapa[21]  = Outbreaker[4];                                        \n    Mapa[24]  = Outbreaker[5];                                        \n    Mapa[25]  = Outbreaker[6];\n    Mapa[26]  = Outbreaker[7];                                    \n    Mapa[34]  = Outbreaker[8];\n    Mapa[35]  = Outbreaker[9];\n    Mapa[36]  = Outbreaker[10];\n    Mapa[37]  = Outbreaker[11];\n    Mapa[38]  = Outbreaker[12];\n    Mapa[39]  = Outbreaker[13];\n    Mapa[40]  = Outbreaker[14];\n    Mapa[41]  = Outbreaker[15]; //No se utiliza                                      \n// }\nMapa[42]  = 1; //No se utiliza\nMapa[43]  = 1; //No se utiliza\nMapa[44]  = 1; //No se utiliza\n\n\n// Datos placa de motor.\nMapa[3]   = MtrCurrent*10;\n\n// Datos comando Local/Remoto.\nMapa[4]   = DHSelect;\n\n// Datos control de velocidad\nMapa[5]   = SC.Accel;\nMapa[6]   = SC.Decel;\nMapa[9]   = SC.MinLimit*10;\nMapa[11]  = SC.MaxLimit*10;\n\n// Datos estado C2S\nMapa[7]   = Status.Active == 1 ? 0:1;\nMapa[13]  = Status.Actual_dir == 1 ? 1:0;\n\n// Datos PQA\nMapa[19]  = PQA.Real_Time_Parameters.Total_Power_Factor*100;\nMapa[27]  = PQA.Real_Time_Parameters.Average_Phase_Current*10;\nMapa[28]  = PQA.Real_Time_Parameters.Frequency*10;\nMapa[29]  = PQA.Real_Time_Parameters.Total_System_Power*10;\nMapa[30]  = PQA.Real_Time_Parameters.Total_Apparent_Power*10;\nMapa[31]  = PQA.Real_Time_Parameters.Total_Reactive_Power*10;\nMapa[32]  = PQA.Real_Time_Parameters.Total_Power_Factor*100;\nMapa[33] =  PQA.Real_Time_Parameters.Average_Phase_Voltage;\nMapa[45]  = PQA.Harmonics.Power_Quality.THD_Iavg*10;\nMapa[46]  = PQA.Harmonics.Power_Quality.THD_avg*10;\n\n// Datos Sensor de fondo\nMapa[47]  = DHSData[\"Presión de entrada\"];\nMapa[48]  = DHSData[\"Presión de descarga\"];\nMapa[49]  = DHSData[\"Temperatura de entrada\"];\nMapa[50]  = DHSData[\"Temperatura de descarga\"];\nMapa[51]  = DHSData[\"Temperatura de motor\"];\nMapa[52]  = DHSData2[\"Presión de casing\"];\nMapa[53]  = DHSData2[\"Presión de cabeza THP\"];\nMapa[54]  = DHSData2[\"Temperatura de cabeza THT\"];\nMapa[55]  = 55;\nMapa[56]  = 56;\nMapa[57]  = 57;\n\n// Recorrer el mapa para evitar valores indefinidos\nfor(var i=0; i<Mapa.length; i+=1){\n    Mapa[i] = val(Mapa[i]);\n}\n\ncontext.set(\"Mapa\", Mapa,\"memoryOnly\");\ncontext.set(\"PQA\", PQA,\"memoryOnly\");\ncontext.set(\"Outbreaker\", Outbreaker,\"memoryOnly\");\n// Escribir Mapa\nmsg.payload = { \n    value: Mapa, \n    'fc': 16,\n    'unitid': 1, \n    'address': 0 , \n    'quantity': Mapa.length \n}\nreturn msg;\n\n// Ajustar datos |definded X|\nfunction val(X){\n    return typeof X != 'undefined' ? parseInt(Math.abs(X)):0;\n}",
+        "func": "var C2S         = global.get('C2S.Implicit','memoryOnly')       || [];\nvar Np          = global.get('C2S.Motor_Control.Nameplate')     || [];\nvar LR          = global.get('Input.Operation.ControlMode')     || [];     \nvar SC          = global.get('C2S.Speed_Control')               || [];\nvar Status      = global.get('C2S.Drive_Status','memoryOnly')   || [];\nvar PQA         = global.get('PQA','memoryOnly')                || [];\nvar DHSelect    = global.get('Process_data.DHS.Number')         || 0;\nvar DHSData     = global.get('Process_data.DHS','memoryOnly')   || [];\nvar DHSData2    = global.get('Process_data.AI','memoryOnly')    || [];\nvar Rtx         = global.get(\"C2S.RelTx\") || 1;\n\nvar MtrVoltage = C2S.Output_Voltage * Rtx;\nvar MtrCurrent = C2S.Output_Current / Rtx;\n\n\n// var Outbreaker = [8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23];\nvar Outbreaker = global.get(\"Outbreaker\") || 0;\n\n\n// Vector mapa Modbus\nvar Mapa = [];\n\nMapa[0]   = C2S.Output_Frequency*10;\nMapa[1]   = MtrVoltage*10;\nMapa[2]   = C2S.Output_Current*10;\nMapa[8]   = C2S.Output_Power*10;\nMapa[10]  = C2S.Output_Voltage*10;\nMapa[14]  = C2S.Commanded_SpdRef;\nMapa[16]  = C2S.Bus_DC_Volts;\nMapa[18]  = C2S.Drive_Temp_C;\nMapa[22]  = val(DHSData[\"Vibración X\"]);                                        \nMapa[23]  = val(DHSData[\"Vibración Z\"]);                                        \n\n\n// if (Outbreaker != 0) {\n    // Configuración del Cubloc\n    Mapa[12]  = Outbreaker[0];//8\n    Mapa[15]  = Outbreaker[1];\n    Mapa[17]  = Outbreaker[2];                                        \n    Mapa[20]  = Outbreaker[3];                                        \n    Mapa[21]  = Outbreaker[4];                                        \n    Mapa[24]  = Outbreaker[5];                                        \n    Mapa[25]  = Outbreaker[6];\n    Mapa[26]  = Outbreaker[7];                                    \n    Mapa[34]  = Outbreaker[8];\n    Mapa[35]  = Outbreaker[9];\n    Mapa[36]  = Outbreaker[10];\n    Mapa[37]  = Outbreaker[11];\n    Mapa[38]  = Outbreaker[12];\n    Mapa[39]  = Outbreaker[13];\n    Mapa[40]  = Outbreaker[14];\n    Mapa[41]  = Outbreaker[15]; //No se utiliza                                      \n// }\nMapa[42]  = 1; //No se utiliza\nMapa[43]  = 1; //No se utiliza\nMapa[44]  = 1; //No se utiliza\n\n\n// Datos placa de motor.\nMapa[3]   = MtrCurrent*10;\n\n// Datos comando Local/Remoto.\nMapa[4]   = DHSelect;\n\n// Datos control de velocidad\nMapa[5]   = SC.Accel;\nMapa[6]   = SC.Decel;\nMapa[9]   = SC.MinLimit*10;\nMapa[11]  = SC.MaxLimit*10;\n\n// Datos estado C2S\nMapa[7]   = Status.Active == 1 ? 0:1;\nMapa[13]  = Status.Actual_dir == 1 ? 1:0;\n\n// Datos PQA\nMapa[19]  = PQA.Real_Time_Parameters.Total_Power_Factor*100;\nMapa[27]  = PQA.Real_Time_Parameters.Average_Phase_Current*10;\nMapa[28]  = PQA.Real_Time_Parameters.Frequency*10;\nMapa[29]  = PQA.Real_Time_Parameters.Total_System_Power*10;\nMapa[30]  = PQA.Real_Time_Parameters.Total_Apparent_Power*10;\nMapa[31]  = PQA.Real_Time_Parameters.Total_Reactive_Power*10;\nMapa[32]  = PQA.Real_Time_Parameters.Total_Power_Factor*100;\nMapa[33] =  PQA.Real_Time_Parameters.Average_Phase_Voltage;\nMapa[45]  = PQA.Harmonics.Power_Quality.THD_Iavg*10;\nMapa[46]  = PQA.Harmonics.Power_Quality.THD_avg*10;\n\n// Datos Sensor de fondo\nMapa[47]  = DHSData[\"Presión de entrada\"];\nMapa[48]  = DHSData[\"Presión de descarga\"];\nMapa[49]  = DHSData[\"Temperatura de entrada\"];\nMapa[50]  = DHSData[\"Temperatura de descarga\"];\nMapa[51]  = DHSData[\"Temperatura de motor\"];\nMapa[52]  = DHSData2[\"Presión de casing\"];\nMapa[53]  = DHSData2[\"Presión de cabeza THP\"];\nMapa[54]  = DHSData2[\"Temperatura de cabeza THT\"];\n// Mapa[55]  = 55;\n// Mapa[56]  = 56;\n// Mapa[57]  = 57;\n\n// Recorrer el mapa para evitar valores indefinidos\nfor(var i=0; i<Mapa.length; i+=1){\n    Mapa[i] = val(Mapa[i]);\n}\n\ncontext.set(\"Mapa\", Mapa,\"memoryOnly\");\ncontext.set(\"PQA\", PQA,\"memoryOnly\");\ncontext.set(\"Outbreaker\", Outbreaker,\"memoryOnly\");\n// Escribir Mapa\nmsg.payload = { \n    value: Mapa, \n    'fc': 16,\n    'unitid': 1, \n    'address': 0 , \n    'quantity': Mapa.length \n}\nreturn msg;\n\n// Ajustar datos |definded X|\nfunction val(X){\n    return typeof X != 'undefined' ? parseInt(Math.abs(X)):0;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -41771,306 +41773,6 @@
         "x": 325,
         "y": 510,
         "wires": []
-    },
-    {
-        "id": "37fc6a6679d97cc0",
-        "type": "modbus-read",
-        "z": "62616833443f66d1",
-        "g": "6ef714d5a2569e8a",
-        "name": "PyModbusServer",
-        "topic": "",
-        "showStatusActivities": true,
-        "logIOActivities": false,
-        "showErrors": false,
-        "unitid": "1",
-        "dataType": "HoldingRegister",
-        "adr": "56",
-        "quantity": "1",
-        "rate": "1",
-        "rateUnit": "s",
-        "delayOnStart": false,
-        "startDelayTime": "",
-        "server": "349cb045c05ea87d",
-        "useIOFile": false,
-        "ioFile": "",
-        "useIOForPayload": false,
-        "emptyMsgOnFail": false,
-        "x": 1180,
-        "y": 540,
-        "wires": [
-            [
-                "c7f289af38b944b7"
-            ],
-            []
-        ]
-    },
-    {
-        "id": "12a92bfd7496f11b",
-        "type": "change",
-        "z": "62616833443f66d1",
-        "g": "6ef714d5a2569e8a",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "payload[0]",
-                "tot": "msg"
-            },
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Ref",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1850,
-        "y": 520,
-        "wires": [
-            [
-                "9467b3e6c4ee66e5"
-            ]
-        ]
-    },
-    {
-        "id": "3927dfb4fdf8a76c",
-        "type": "switch",
-        "z": "62616833443f66d1",
-        "g": "6ef714d5a2569e8a",
-        "name": "L/R",
-        "property": "Input.Operation.ControlMode",
-        "propertyType": "global",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "Remoto",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Local",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 1700,
-        "y": 530,
-        "wires": [
-            [
-                "12a92bfd7496f11b"
-            ],
-            [
-                "075186ebd79ef2c7"
-            ]
-        ]
-    },
-    {
-        "id": "9467b3e6c4ee66e5",
-        "type": "function",
-        "z": "62616833443f66d1",
-        "g": "6ef714d5a2569e8a",
-        "name": "/10",
-        "func": "var Funciones = global.get(\"Funciones_control_activas\",\"memoryOnly\")||{1:false};\n\nvar array = Object.values(Funciones);\nvar resp = array.find(element => element == true)||false;\nnode.status({fill:\"green\",shape:\"dot\",text:!resp});\n\nmsg.payload = msg.payload/10;\n\nif(!resp){return msg;}\nelse{return;}",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1870,
-        "y": 580,
-        "wires": [
-            [
-                "efd33b25d8ed74e3",
-                "724f1f10a5036303",
-                "2c7ddc3776f48174"
-            ]
-        ]
-    },
-    {
-        "id": "db103966d32048e9",
-        "type": "switch",
-        "z": "62616833443f66d1",
-        "g": "6ef714d5a2569e8a",
-        "name": "SCADA RTU",
-        "property": "SCADA.Type",
-        "propertyType": "global",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "RTU",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1350,
-        "y": 590,
-        "wires": [
-            [
-                "9ef01e036f249a71"
-            ]
-        ]
-    },
-    {
-        "id": "c7f289af38b944b7",
-        "type": "switch",
-        "z": "62616833443f66d1",
-        "g": "6ef714d5a2569e8a",
-        "name": "SCADA TCP",
-        "property": "SCADA.Type",
-        "propertyType": "global",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "TCP",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1350,
-        "y": 540,
-        "wires": [
-            [
-                "b7d1f41a3c2c131c"
-            ]
-        ]
-    },
-    {
-        "id": "6ae6319e8f6ed558",
-        "type": "modbus-getter",
-        "z": "62616833443f66d1",
-        "g": "6ef714d5a2569e8a",
-        "name": "Leer Cubloc",
-        "showStatusActivities": true,
-        "showErrors": false,
-        "logIOActivities": false,
-        "unitid": "",
-        "dataType": "InputRegister",
-        "adr": "28748",
-        "quantity": "1",
-        "server": "f630cb55.8d18e8",
-        "useIOFile": false,
-        "ioFile": "",
-        "useIOForPayload": false,
-        "emptyMsgOnFail": false,
-        "keepMsgProperties": false,
-        "x": 1190,
-        "y": 590,
-        "wires": [
-            [
-                "db103966d32048e9"
-            ],
-            []
-        ]
-    },
-    {
-        "id": "8ea4c15bb9edfb07",
-        "type": "link in",
-        "z": "62616833443f66d1",
-        "g": "6ef714d5a2569e8a",
-        "name": "Referencia Remota - RTU Link In",
-        "links": [
-            "d407f4bca8315e27"
-        ],
-        "x": 1085,
-        "y": 590,
-        "wires": [
-            [
-                "6ae6319e8f6ed558"
-            ]
-        ]
-    },
-    {
-        "id": "efd33b25d8ed74e3",
-        "type": "change",
-        "z": "62616833443f66d1",
-        "g": "6ef714d5a2569e8a",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "Ref",
-                "pt": "msg",
-                "to": "payload",
-                "tot": "msg"
-            },
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "Cambio de referencia remota a +++ Hz",
-                "tot": "str"
-            },
-            {
-                "t": "change",
-                "p": "payload",
-                "pt": "msg",
-                "from": "+++",
-                "fromt": "str",
-                "to": "Ref",
-                "tot": "msg"
-            },
-            {
-                "t": "delete",
-                "p": "topic",
-                "pt": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1790,
-        "y": 650,
-        "wires": [
-            [
-                "b377858fb09c8893"
-            ]
-        ]
-    },
-    {
-        "id": "55b2d4ef41d6726b",
-        "type": "link out",
-        "z": "62616833443f66d1",
-        "g": "6ef714d5a2569e8a",
-        "name": "",
-        "links": [
-            "207ea8ce.3dea68"
-        ],
-        "x": 2065,
-        "y": 650,
-        "wires": []
-    },
-    {
-        "id": "b377858fb09c8893",
-        "type": "rbe",
-        "z": "62616833443f66d1",
-        "g": "6ef714d5a2569e8a",
-        "name": "",
-        "func": "rbe",
-        "gap": "",
-        "start": "",
-        "inout": "out",
-        "property": "payload",
-        "x": 1960,
-        "y": 650,
-        "wires": [
-            [
-                "55b2d4ef41d6726b"
-            ]
-        ]
     },
     {
         "id": "08aba384deae1b83",
@@ -43286,11 +42988,12 @@
         "z": "62616833443f66d1",
         "g": "c40108170a37478f",
         "name": "Mensaje",
-        "func": "msg.payload = msg.payload == 1 ? \"Cambio de sentido de giro remoto a forward\":\"Cambio de sentido de giro remoto a reverse\";\ndelete msg.topic;\nreturn msg;",
+        "func": "msg.payload = msg.payload == 1 ? \"Cambio de sentido de giro remoto a forward\":\"Cambio de sentido de giro remoto a reverse\";\nnode.status({fill:\"red\",shape:\"ring\",text:msg.payload});\ndelete msg.topic;\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 1570,
         "y": 760,
         "wires": [
@@ -43396,10 +43099,11 @@
         "id": "22a41d9797f66919",
         "type": "link out",
         "z": "62616833443f66d1",
+        "d": true,
         "g": "c40108170a37478f",
         "name": "",
         "links": [
-            "52f1e35a6b450a62"
+            "207ea8ce.3dea68"
         ],
         "x": 1665,
         "y": 760,
@@ -43817,173 +43521,6 @@
         "x": 1030,
         "y": 1080,
         "wires": []
-    },
-    {
-        "id": "042ed8953113914f",
-        "type": "switch",
-        "z": "62616833443f66d1",
-        "g": "6ef714d5a2569e8a",
-        "name": "Referencia Remota AI",
-        "property": "#:(memoryOnly)::Ref_Analogica",
-        "propertyType": "global",
-        "rules": [
-            {
-                "t": "neq",
-                "v": "0",
-                "vt": "num"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1330,
-        "y": 640,
-        "wires": [
-            [
-                "9cdabbdbf5c62773"
-            ]
-        ]
-    },
-    {
-        "id": "9cdabbdbf5c62773",
-        "type": "switch",
-        "z": "62616833443f66d1",
-        "g": "6ef714d5a2569e8a",
-        "name": "L/R",
-        "property": "Input.Operation.ControlMode",
-        "propertyType": "global",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "Remoto",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1500,
-        "y": 640,
-        "wires": [
-            [
-                "2c7ddc3776f48174"
-            ]
-        ]
-    },
-    {
-        "id": "8ff4526126eeee60",
-        "type": "link in",
-        "z": "62616833443f66d1",
-        "g": "6ef714d5a2569e8a",
-        "name": "Referencia_Analogica",
-        "links": [
-            "9c8c2a62.81f168"
-        ],
-        "x": 1185,
-        "y": 640,
-        "wires": [
-            [
-                "042ed8953113914f"
-            ]
-        ]
-    },
-    {
-        "id": "9ef01e036f249a71",
-        "type": "switch",
-        "z": "62616833443f66d1",
-        "g": "6ef714d5a2569e8a",
-        "name": "",
-        "property": "#:(memoryOnly)::Ref_Analogica",
-        "propertyType": "global",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "0",
-                "vt": "num"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1500,
-        "y": 590,
-        "wires": [
-            [
-                "3927dfb4fdf8a76c"
-            ]
-        ]
-    },
-    {
-        "id": "b7d1f41a3c2c131c",
-        "type": "switch",
-        "z": "62616833443f66d1",
-        "g": "6ef714d5a2569e8a",
-        "name": "",
-        "property": "#:(memoryOnly)::Ref_Analogica",
-        "propertyType": "global",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "0",
-                "vt": "num"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1500,
-        "y": 530,
-        "wires": [
-            [
-                "3927dfb4fdf8a76c"
-            ]
-        ]
-    },
-    {
-        "id": "724f1f10a5036303",
-        "type": "change",
-        "z": "62616833443f66d1",
-        "g": "6ef714d5a2569e8a",
-        "name": "setReference",
-        "rules": [
-            {
-                "t": "set",
-                "p": "Ref_Remoto_Modbus",
-                "pt": "global",
-                "to": "payload",
-                "tot": "msg"
-            },
-            {
-                "t": "set",
-                "p": "C2S.Last_Reference.Value",
-                "pt": "global",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 2080,
-        "y": 520,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "2c7ddc3776f48174",
-        "type": "subflow:1fbf295f73cccb97",
-        "z": "62616833443f66d1",
-        "g": "6ef714d5a2569e8a",
-        "name": "",
-        "env": [],
-        "x": 2110,
-        "y": 580,
-        "wires": [
-            []
-        ]
     },
     {
         "id": "2d8469fec0420fb6",
@@ -78229,7 +77766,8 @@
         "wires": [
             [],
             [
-                "c3ce8dda1008daad"
+                "c3ce8dda1008daad",
+                "ab6518c77e0ce523"
             ]
         ]
     },
@@ -78878,201 +78416,6 @@
         "wires": [
             [
                 "12399716da438e93"
-            ]
-        ]
-    },
-    {
-        "id": "360dcafc238d706c",
-        "type": "inject",
-        "z": "a84e803f031d5b6d",
-        "g": "99b24e0896cf0f0c",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "1",
-        "crontab": "",
-        "once": true,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payloadType": "date",
-        "x": 150,
-        "y": 160,
-        "wires": [
-            [
-                "825a31a31582b84f"
-            ]
-        ]
-    },
-    {
-        "id": "825a31a31582b84f",
-        "type": "function",
-        "z": "a84e803f031d5b6d",
-        "g": "99b24e0896cf0f0c",
-        "name": "Trends",
-        "func": "var requestTrend = flow.get(\"trends\", \"memoryOnly\") || {};\nvar C2S = global.get(\"C2S\", \"memoryOnly\") || {};\nvar time = msg.payload;\n\nvar datos = context.get(\"trend\", \"memoryOnly\") || null;\n\nif (datos == null) {\n    datos = {   //Datos de suministro de agua\n        'Output_Frequency': [{ \"x\": time, \"y\": C2S.Implicit.Output_Frequency || 0 }],\n        'Output_Current': [{ \"x\": time, \"y\": C2S.Implicit.Output_Current || 0 }],\n        \n    };\n}\nelse {\n    if (datos.Output_Frequency.length > 59) {\n        datos.Output_Frequency.shift();\n        datos.Output_Current.shift();\n        \n    }\n\n\n    datos.Output_Frequency.push({ \"x\": time, \"y\": C2S.Implicit.Output_Frequency || 0 });\n    datos.Output_Current.push({ \"x\": time, \"y\": C2S.Implicit.Output_Current || 0 });\n   \n}\n\ncontext.set(\"trend\", datos, \"memoryOnly\");\n\nvar series = [];\n\nif (requestTrend.Output_Frequency == true) series.push(\"Frequency (Hz)\");\nif (requestTrend.Output_Current == true) series.push(\"Current (A)\");\n\n\n\nvar data = [];\n\nif (requestTrend.Output_Frequency == true) data.push(datos.Output_Frequency);\nif (requestTrend.Output_Current == true) data.push(datos.Output_Current);\n\nvar chart = [{\n    \"series\": series,\n    \"data\": data,\n    \"labels\": [\"\"]\n}];\n\nif (data.length != 0)\n    msg.payload = chart;\nelse\n    msg.payload = [];\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 290,
-        "y": 160,
-        "wires": [
-            [
-                "c13408918a8f486c"
-            ]
-        ]
-    },
-    {
-        "id": "c13408918a8f486c",
-        "type": "ui_chart",
-        "z": "a84e803f031d5b6d",
-        "g": "99b24e0896cf0f0c",
-        "name": "",
-        "group": "94e450d3bce1686e",
-        "order": 2,
-        "width": "12",
-        "height": 10,
-        "label": "Tendencias Multivariables",
-        "chartType": "line",
-        "legend": "true",
-        "xformat": "HH:mm:ss",
-        "interpolate": "linear",
-        "nodata": "No available data",
-        "dot": false,
-        "ymin": "0",
-        "ymax": "",
-        "removeOlder": "10",
-        "removeOlderPoints": "60",
-        "removeOlderUnit": "60",
-        "cutout": 0,
-        "useOneColor": false,
-        "useUTC": false,
-        "colors": [
-            "#1f77b4",
-            "#194b0c",
-            "#ff7f0e",
-            "#282a28",
-            "#9f0961",
-            "#d62728",
-            "#f6b7b6",
-            "#d8db39",
-            "#8ad098"
-        ],
-        "outputs": 1,
-        "x": 490,
-        "y": 160,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "61c190c7fd4e2816",
-        "type": "ui_dropdown",
-        "z": "a84e803f031d5b6d",
-        "g": "99b24e0896cf0f0c",
-        "name": "",
-        "label": "",
-        "tooltip": "",
-        "place": "Select trends (multiple variable options)",
-        "group": "94e450d3bce1686e",
-        "order": 1,
-        "width": 0,
-        "height": 0,
-        "passthru": true,
-        "multiple": true,
-        "options": [
-            {
-                "label": "Output_Frequency",
-                "value": "Output_Frequency",
-                "type": "str"
-            },
-            {
-                "label": "Output_Current",
-                "value": "Output_Current",
-                "type": "str"
-            },
-            {
-                "label": "Bus_DC_Volts",
-                "value": "Bus_DC_Volts",
-                "type": "str"
-            },
-            {
-                "label": "Power_Factor",
-                "value": "Power_Factor",
-                "type": "str"
-            },
-            {
-                "label": "Output_Power",
-                "value": "Output_Power",
-                "type": "str"
-            },
-            {
-                "label": "Output_Voltage",
-                "value": "Output_Voltage",
-                "type": "str"
-            }
-        ],
-        "payload": "",
-        "topic": "",
-        "x": 140,
-        "y": 100,
-        "wires": [
-            [
-                "1c4e319074fb108b"
-            ]
-        ]
-    },
-    {
-        "id": "f55bcf1b9afa8eaa",
-        "type": "change",
-        "z": "a84e803f031d5b6d",
-        "g": "99b24e0896cf0f0c",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "#:(memoryOnly)::trends",
-                "pt": "flow",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 460,
-        "y": 100,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "1c4e319074fb108b",
-        "type": "function",
-        "z": "a84e803f031d5b6d",
-        "g": "99b24e0896cf0f0c",
-        "name": "request",
-        "func": "var i,request={};\nfor (i = 0; i < msg.payload.length ;i++){\n    if (msg.payload[i] == \"Output_Frequency\") request.Output_Frequency=true;\n    if (msg.payload[i] == \"Output_Current\") request.Output_Current=true;\n    if (msg.payload[i] == \"Bus_DC_Volts\") request.Bus_DC_Volts = true;\n    if (msg.payload[i] == \"Power_Factor\") request.Power_Factor = true;\n    if (msg.payload[i] == \"Output_Power\") request.Output_Power = true;\n    if (msg.payload[i] == \"Output_Voltage\") request.Output_Voltage = true;\n\n\n}\nmsg.payload = request;\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 300,
-        "y": 100,
-        "wires": [
-            [
-                "f55bcf1b9afa8eaa"
             ]
         ]
     },
@@ -83016,7 +82359,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 390,
+        "x": 430,
         "y": 100,
         "wires": [
             [],
@@ -83037,6 +82380,20 @@
                 "pt": "msg",
                 "to": "Stop",
                 "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Control_functions.ActiveCF.Staggered_start",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            },
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Control_functions.ActiveCF.Prolonged_Reference",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
             }
         ],
         "action": "",
@@ -83044,7 +82401,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 570,
+        "x": 580,
         "y": 140,
         "wires": [
             []
@@ -83071,6 +82428,7 @@
         "z": "b298b5921bced6f2",
         "g": "f2ce71497366a377",
         "name": "",
+        "env": [],
         "x": 460,
         "y": 580,
         "wires": [
@@ -83173,69 +82531,6 @@
         "payloadType": "date",
         "x": 618.5,
         "y": 169,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "f19dc115b1968a08",
-        "type": "ui_chart",
-        "z": "a84e803f031d5b6d",
-        "g": "610861a3f96d22bd",
-        "name": "",
-        "group": "f5471725db0f8d14",
-        "order": 4,
-        "width": "11",
-        "height": "12",
-        "label": "Amperimetric Chart (A)",
-        "chartType": "radar",
-        "legend": "false",
-        "xformat": "HH:mm:ss",
-        "interpolate": "linear",
-        "nodata": "",
-        "dot": false,
-        "ymin": "",
-        "ymax": "",
-        "removeOlder": 1,
-        "removeOlderPoints": "",
-        "removeOlderUnit": "3600",
-        "cutout": 0,
-        "useOneColor": false,
-        "useUTC": false,
-        "colors": [
-            "#498500",
-            "#aec7e8",
-            "#ff7f0e",
-            "#2ca02c",
-            "#98df8a",
-            "#d62728",
-            "#ff9896",
-            "#9467bd",
-            "#c5b0d5"
-        ],
-        "outputs": 1,
-        "x": 1180,
-        "y": 100,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "f965a78a34dbf850",
-        "type": "ui_template",
-        "z": "a84e803f031d5b6d",
-        "group": "feabd600.f71b28",
-        "name": "Logo / Clock",
-        "order": 0,
-        "width": 0,
-        "height": 0,
-        "format": "<script id=\"clockScript1\" type=\"text/javascript\">\n    var clockInterval;\n    $(function () {\n        if (clockInterval) return;\n\n        //add logo\n        var div1 = $('<div/>');\n        var logo = new Image();\n\n        logo.src = 'http://localhost:1880/swcpro-images/logoBCPGroup_bordeado.png'\n        logo.height = 60;\n        div1[0].style.margin = '10px auto';\n\n        div1.append(logo);\n        \n        //add clock\n        var div2 = $('<div/>');\n        var p = $('<p/>');\n\n        div2.append(p);\n        div2[0].style.margin = '5px';\n\n        function displayTime() {\n            p.text(new Date().toLocaleString());\n        }\n        \n        clockInterval = setInterval(displayTime, 1000);\n\n        //add to toolbar when it's available\n        var addToToolbarTimer;\n        \n        function addToToolbar() {\n            var toolbar = $('.md-toolbar-tools');\n            \n            if(!toolbar.length) return;\n            \n            toolbar.append(div1);\n            toolbar.append(div2);\n            clearInterval(addToToolbarTimer);\n        }\n        addToToolbarTimer = setInterval(addToToolbar, 100);\n    });\n</script>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": false,
-        "templateScope": "global",
-        "x": 430,
-        "y": 620,
         "wires": [
             []
         ]
@@ -83479,178 +82774,12 @@
         "z": "bef159b0eb2cf912",
         "g": "9bdf522.eba6db",
         "name": "",
+        "env": [],
         "x": 280,
         "y": 380,
         "wires": [
             [
                 "406ea535.518d9c"
-            ]
-        ]
-    },
-    {
-        "id": "a8255c5d16d754c5",
-        "type": "ui_template",
-        "z": "a84e803f031d5b6d",
-        "g": "ca0533739c948120",
-        "group": "df8934f2a1ce6562",
-        "name": "",
-        "order": 1,
-        "width": "6",
-        "height": "8",
-        "format": "<div ng-bind-html=\"msg.payload | trusted\"></div>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "x": 860,
-        "y": 480,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "c3b346abb490ca68",
-        "type": "link in",
-        "z": "a84e803f031d5b6d",
-        "g": "ca0533739c948120",
-        "name": "Grafica IPR Link In",
-        "links": [
-            "97407954.a004c8"
-        ],
-        "x": 105,
-        "y": 480,
-        "wires": [
-            [
-                "8d58577795074220"
-            ]
-        ]
-    },
-    {
-        "id": "8d58577795074220",
-        "type": "switch",
-        "z": "a84e803f031d5b6d",
-        "g": "ca0533739c948120",
-        "name": "Monitoreo-AVAS-IPR",
-        "property": "#:(memoryOnly)::Navegación.Pantalla",
-        "propertyType": "global",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "AVAS",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 240,
-        "y": 480,
-        "wires": [
-            [
-                "4cc0a658f4dba598"
-            ]
-        ]
-    },
-    {
-        "id": "aaa79c68a4768792",
-        "type": "inject",
-        "z": "a84e803f031d5b6d",
-        "g": "ca0533739c948120",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "true",
-        "payloadType": "bool",
-        "x": 270,
-        "y": 520,
-        "wires": [
-            [
-                "4cc0a658f4dba598"
-            ]
-        ]
-    },
-    {
-        "id": "e1466402c3b6ff75",
-        "type": "template",
-        "z": "a84e803f031d5b6d",
-        "g": "ca0533739c948120",
-        "name": "Bootstrap",
-        "field": "template",
-        "fieldType": "msg",
-        "format": "handlebars",
-        "syntax": "mustache",
-        "template": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n    \n  </head>\n  <body>\n    <div class=\"disable-select\">\n        <div class=\"container\">\n            <div class=\"row justify-content-center\" style=\"background-color:#fcfcfc;\">\n                <div class=\"co-12\">{{{chart}}}</div>\n            </div>\n        </div>\n    </div>\n  </body>\n  <script src=\"http://192.168.2.11:1880/apexcharts/dist/apexcharts.js\"></script>\n  <style>\n    .disable-select {\n        user-select: none; /* supported by Chrome and Opera */\n        -webkit-user-select: none; /* Safari */\n       -khtml-user-select: none; /* Konqueror HTML */\n       -moz-user-select: none; /* Firefox */\n       -ms-user-select: none; /* Internet Explorer/Edge */\n    }\n  </style>\n</html>",
-        "output": "str",
-        "x": 720,
-        "y": 480,
-        "wires": [
-            [
-                "a8255c5d16d754c5"
-            ]
-        ]
-    },
-    {
-        "id": "610abe9bb034463d",
-        "type": "link in",
-        "z": "a84e803f031d5b6d",
-        "g": "ca0533739c948120",
-        "name": "Inicio",
-        "links": [
-            "ad87cee4.7dbb5"
-        ],
-        "x": 325,
-        "y": 440,
-        "wires": [
-            [
-                "4cc0a658f4dba598"
-            ]
-        ]
-    },
-    {
-        "id": "4cc0a658f4dba598",
-        "type": "function",
-        "z": "a84e803f031d5b6d",
-        "g": "ca0533739c948120",
-        "name": "",
-        "func": "/* Declaración de datos \nAPI         = 30;   \nPy          = 3000; //psi\nPb          = 1200;  //psi\nPcrit       = 1050; // psi\nPwf_P       = 750;  //psi \nQ_p         = 2300; //BPD\nBSW         = 98;   //%\nT_fluido    = 160;  // °F\nDens_Agua   = 8.33; //ppg \nProf_Intake = 4000; //ft\nProf_Sensor = 4030; //ft\nPMP         = 4500; //FT\nPIP_Sensor  = 750; //psi\nPCasing     = 0;   //psi\n*/\nvar Analog = global.get(\"DownHoleData\", \"memoryOnly\") || [];\n\n// ESTADO MECANICO\nvar PMP = global.get(\"IWOC.ESTADO_MECANICO.PMP\") || 4500;\nvar Prof_Discharge = global.get(\"IWOC.ESTADO_MECANICO.Profundidad_de_descarga\") || 0;\nvar Prof_Sensor = global.get(\"IWOC.ESTADO_MECANICO.Prof_Sensor\") || 4030;\nvar Prof_Intake = global.get(\"IWOC.ESTADO_MECANICO.Profundidad_de_entrada\") || 4000;\n\n// PROPIEDADES DE FLUIDO\nvar API = global.get(\"IWOC.PROPIEDADES_DE_FLUIDO.API\") || 30;\nvar T_fluido = global.get(\"IWOC.PROPIEDADES_DE_FLUIDO.Temperatura_de_fondo\") || 160;\nvar Dens_Agua = global.get(\"IWOC.PROPIEDADES_DE_FLUIDO.Densidad_del_agua\") || 8.33;\n\n// PRUEBA DE PRODUCCION\nvar Pwf_P = global.get(\"IWOC.PRUEBA_DE_PRODUCCION.PWF_Prueba\") || 750;\nvar BSW = global.get(\"IWOC.PRUEBA_DE_PRODUCCION.BSW_Prueba\") || 98;\nvar Q_p = global.get(\"IWOC.PRUEBA_DE_PRODUCCION.Q_Prueba\") || 2300;\nvar Vel_P = global.get(\"IWOC.PRUEBA_DE_PRODUCCION.Velociad_de_prueba\") || 0;\n\n// DATOS PARA IPR\nvar Py = global.get(\"IWOC.DATOS_PARA_IPR.Presion_de_yacimiento\") || 2500;\nvar Pcrit = global.get(\"IWOC.DATOS_PARA_IPR.PWF_Critica\") || 1050;\nvar Pb = global.get(\"IWOC.DATOS_PARA_IPR.Presion_de_burbuja\") || 1200;\nvar PIP_Sensor = Analog.DHS[\"Presión de entrada\"] || Analog.AI[\"Presión de entrada\"];\nvar PCasing = 0;\n\nnode.status({ fill: \"green\", shape: \"dot\", text: PIP_Sensor });\n\nvar AxisX = [];\nvar AxisY = [];\n/*\n    Paso No. 1: Se halla Gradiente de Presión corregido por \n    temperatura y %BSW a partir de la Gravedad Específica (GE)\n    del crudo usando gravedad API del crudo.\n*/\nvar GE = 141.5 / (131.5 + API);\n/*\n    Paso No. 2: Hallar valores de alfa y beta según la gravedad \n    específica (GE) siguiendo lo que indica la tabla abajo:\n*/\n\nif (GE < 0.63) {\n    var Alfa = 0.00097;\n    var Beta = -0.0000004;\n}\nelse if ((GE < 0.78) && (GE >= 0.63)) {\n    Alfa = (0.00097 + (GE - 0.63)) * ((0.00075 - 0.00097) / (0.78 - 0.63));\n    Beta = (0.0000004 + (GE - 0.63)) * (0.0000004 / (0.78 - 0.63));\n}\nelse if ((GE < 0.85) && (GE >= 0.78)) {\n    Alfa = (0.00075 + (GE - 0.75)) * ((0.00068 - 0.00075) / (0.85 - 0.78));\n    Beta = (0 + (GE - 0.75)) * (0.0000001 / (0.85 - 0.78));\n}\nelse if ((GE < 0.95) && (GE >= 0.85)) {\n    Alfa = (0.00068 + (GE - 0.85)) * ((0.00066 - 0.00068) / (0.95 - 0.85));\n    Beta = (0.0000001 + (GE - 0.85)) * ((0.0000001 - 0.0000003) / (0.95 - 0.85));\n}\nelse if (GE >= 0.95) {\n    Alfa = 0.00066;\n    Beta = -0.0000003;\n}\nvar Grv_TFondo = GE - (Alfa * (T_fluido - 15.556)) + (Beta * Math.pow((T_fluido - 15.556), 2));\nvar Grv_TFondoBSW = (((100 - BSW) / 100) * Grv_TFondo) + ((BSW / 100) * (Dens_Agua / 8.345))\n\n/*\n    Paso No. 3: Hallar el Gradiente de presión corregido\n*/\n\nvar VP = 0.433 * Grv_TFondoBSW\n\n/*\n    Paso No. 4: Cálculo de PIP en iWOC según tres escenarios\n    \n    •\tEscenario No. 1: Cálculo de Variables en Función del Sensor de Fondo\n\n        Cálculo de PIP, PWF y Sumergencia líquida cuando la Fuente de Medición es un sensor de fondo.\n*/\n\nvar PIP_real = PIP_Sensor + ((Prof_Intake - Prof_Sensor) * VP);\nvar Pwf = PIP_Sensor + ((PMP - Prof_Sensor) * VP);\nvar Sum_Liq = (PIP_real - PCasing) / VP;\n\n/*\n    Paso No. 5: Cálculo de Caudales\n*/\n/* Yacimiento Subsaturado*/\nif (Py > Pb) {\n    if (Pwf > Pb) {\n        var IP = Q_p / (Py - Pwf_P);\n        // @ts-ignore\n        node.send()\n    }\n    else {\n        IP = Q_p / (Py - Pb + (Pb / 1.8) * (1 - (0.2 * (Pwf / Pb)) - 0.8 * (Math.pow((Pwf / Pb), 2))))\n    }\n\n    var Qb = IP * (Py - Pb);\n    var Qmax = Qb + (IP * Pb / 1.8);\n    var N = 80;\n\n    for (var i = 80; i >= 0; i--) {\n        var Pwf_G = (Py * i / N);\n        if (Pwf_G > Pb) {\n            var Qg = IP * (Py - Pwf_G);\n        }\n        else {\n            Qg = Qb + (Qmax - Qb) * (1 - (0.2 * (Pwf_G / Pb)) - (0.8 * ((Pwf_G / Pb) * (Pwf_G / Pb))));\n        }\n        AxisX.push(Qg);\n        AxisY.push(Pwf_G);\n    }\n    /*\n        Cálculo Caudal actual Qo\n    */\n    if (Pwf > Pb) {\n        var Q0 = IP * (Py - Pwf);\n    }\n    else {\n        Q0 = Qb + (Qmax - Qb) * (1 - (0.2 * (Pwf / Pb)) - (0.8 * ((Pwf / Pb) * (Pwf / Pb))));\n    }\n}\n\nmsg.payload = {\n    'AxisX': AxisX,\n    'AxisY': AxisY,\n    'Pcrit': Pcrit,\n    'Q0': Q0,\n    'Pwf': Pwf\n};\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 440,
-        "y": 480,
-        "wires": [
-            [
-                "f8f18ac4d264c97b"
-            ]
-        ]
-    },
-    {
-        "id": "f8f18ac4d264c97b",
-        "type": "template",
-        "z": "a84e803f031d5b6d",
-        "g": "ca0533739c948120",
-        "name": "IPR Chart",
-        "field": "chart",
-        "fieldType": "msg",
-        "format": "handlebars",
-        "syntax": "mustache",
-        "template": "<div id=\"chart\"></div>\n<script>\n    var options = {\n            series:[{\n                name: \"Referencia de Velocidad\",\n                data: [{{payload.AxisY}}]\n            }],\n            chart:{\n                height: 330,\n                width: 720,\n                type: 'line',\n                id: 'areachart-2',\n                toolbar:{\n                    show: false\n                },\n                animations:{\n                    enabled: false\n                }\n            },\n            annotations:{\n                yaxis:[\n                    {\n                        y: {{payload.Pcrit}},\n                        borderColor: '#c71e1e',\n                        label:{\n                            borderColor:'#c71e1e',\n                            position: 'left',\n                            position: 'top',\n                            offsetX: 90,\n                            offsetY: 0,                        \n                            style: {\n                                color:'#fff',\n                                background:'#000000',\n                                fontSize: '14px',\n                            },\n                            text:'Pc: ' + ({{payload.Pcrit}}).toFixed(2) + ' psi',\n                        }\n                    }, \n                    {\n                        y: {{payload.Pwf}},\n                        borderColor: '#c71e1e',\n                        label: {\n                            borderColor: '#c71e1e',\n                            offsetX: 0,\n                            offsetY: 15,\n                            style:{\n                                color: '#fff',\n                                background: '#000000',\n                                fontSize: '14px',\n                            },\n                            text: 'Pwf: ' + ({{payload.Pwf}}).toFixed(2) + ' psi',\n                        }\n                    }\n                ],\n                xaxis:[\n                    {\n                        x: {{payload.Q0}},\n                        strokeDashArray: 0,\n                        borderColor: '#775DD0',\n                        label:{\n                            borderColor: '#775DD0',\n                            style:{\n                                color: '#fff',\n                                background: '#775DD0',\n                                fontSize: '14px',\n                            },\n                            text: 'Caudal: ' + ({{payload.Q0}}).toFixed(0) + ' BPD' \n                        }\n                    }\n                ],\n                points:[{\n                    x: {{payload.Q0}},\n                    y: {{payload.Pwf}},\n                    marker: {\n                        size: 5,\n                        fillColor: '#32499d',\n                        strokeColor: '#2b2b2b',\n                        radius: 2,\n                        cssClass: 'apexcharts-custom-class'\n                    },\n                    label:{\n                        borderColor: '#2b2b2b',\n                        offsetX: -17,\n                        offsetY: 40,                        \n                        style:{\n                            color: '#fff',\n                            background: '#2b2b2b',\n                            fontSize: '14px',\n                        },\n                        text: 'Q'\n                    }\n                }]\n            },\n            tooltip:{\n                enabled: true\n            },\n            dataLabels:{\n                enabled: false\n            },\n            stroke:{\n                curve: 'straight',\n                width: [3]\n            },\n            grid:{\n                padding:{\n                    right: 30,\n                    left: 20\n                }\n            },\n            //title:{\n            //    text: 'Gráfica IPR',\n            //    align: 'center'\n            //},\n            colors: [\"#c71e1e\"],\n            xaxis:{\n                type: 'numeric',\n                show: true,\n                categories: [{{payload.AxisX}}],\n                title:{\n                    text:\"Caudal [BPD]\",\n                    style: {\n                        color: \"#000000\",\n                        fontSize: '14px',\n                        fontFamily: 'Helvetica, Arial, sans-serif',\n                        fontWeight: 600\n                    },\n                }\n            },\n            yaxis:{\n                title: {\n                    text: \"Presión [psi]\",\n                    style: {\n                        color: \"#000000\",\n                        fontSize: '14px',\n                        fontFamily: 'Helvetica, Arial, sans-serif',\n                        fontWeight: 600\n                    },\n                },\n            }            \n    };\n    \n    var chart = new ApexCharts(document.querySelector(\"#chart\"), options);\n    chart.render();\n</script>\n",
-        "output": "str",
-        "x": 580,
-        "y": 480,
-        "wires": [
-            [
-                "e1466402c3b6ff75"
             ]
         ]
     },
@@ -83766,205 +82895,6 @@
         "x": 750,
         "y": 1500,
         "wires": []
-    },
-    {
-        "id": "029d05195cb33abf",
-        "type": "inject",
-        "z": "a84e803f031d5b6d",
-        "g": "610861a3f96d22bd",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "0.1",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payloadType": "date",
-        "x": 750,
-        "y": 100,
-        "wires": [
-            [
-                "f9124afaac35bba3"
-            ]
-        ]
-    },
-    {
-        "id": "f9124afaac35bba3",
-        "type": "function",
-        "z": "a84e803f031d5b6d",
-        "g": "610861a3f96d22bd",
-        "name": "Fill Pie Chart Array",
-        "func": "var amperimetrica   = msg.payload;\nvar size            = 288;\nvar labels          = [];\nvar series          = [];\nvar datas           = flow.get(\"Amperimetrica.datas_pro\") || [];\nvar counter         = flow.get(\"Amperimetrica.Possition\") || 0;\nvar c_hora          = flow.get(\"Amperimetrica.c_hora_pro\") || 0;\nvar Output_Current  = global.get(\"C2S.Implicit.Output_Current\", 'memoryOnly') || 0;\nvar Rtx             = global.get(\"C2S.RelTx\") || 1;\nvar MtrCurrent      = Output_Current / Rtx;\n\nfor (var i = 0; i < size; i += 1) {\n    labels[i] = \"\";\n    series[i] = \"\";\n}\n\nfor (let k = 0; k < size; k += 12) {\n    labels[k]       = c_hora + \":00\";\n    var c_hora      = (c_hora >= size) ? 0 : c_hora + 1;\n}\n\ndatas[counter]      = MtrCurrent;\n\n\nvar l_Data = datas.length;\nvar pie = {\n    \"labels\": labels,\n    \"series\": series,\n    \"data\": [datas]\n};\n\nvar counter = (counter >= size) ? 0 : counter + 1;\nnode.status({ fill: \"red\", shape: \"ring\", text: counter });\n\nflow.set(\"Amperimetrica.datas_pro\", datas);\nflow.set(\"Amperimetrica.Possition\", counter);\nflow.set(\"Amperimetrica.series_pro\", labels);\n\nmsg.payload         = [pie];\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 950,
-        "y": 100,
-        "wires": [
-            [
-                "f19dc115b1968a08"
-            ]
-        ]
-    },
-    {
-        "id": "dc6b7375a63a688e",
-        "type": "function",
-        "z": "a84e803f031d5b6d",
-        "g": "610861a3f96d22bd",
-        "name": "",
-        "func": "var hoy = new Date();\n\nvar hora = hoy.getHours() * 60;\nvar minutos = Math.floor((hoy.getMinutes() + hora) / 5);\nnode.status({fill:\"red\",shape:\"ring\",text:minutos});\nflow.set(\"Amperimetrica.Possition\",minutos);\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 920,
-        "y": 160,
-        "wires": [
-            [
-                "f9124afaac35bba3"
-            ]
-        ]
-    },
-    {
-        "id": "f45b0450b6ef8f9a",
-        "type": "inject",
-        "z": "a84e803f031d5b6d",
-        "g": "610861a3f96d22bd",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payloadType": "date",
-        "x": 750,
-        "y": 160,
-        "wires": [
-            [
-                "dc6b7375a63a688e"
-            ]
-        ]
-    },
-    {
-        "id": "075186ebd79ef2c7",
-        "type": "function",
-        "z": "62616833443f66d1",
-        "g": "6ef714d5a2569e8a",
-        "name": "LastRefLocal",
-        "func": "var reference = global.get(\"C2S.Last_Reference.Value\")||0;\nreference = reference*10;\ncontext.set(\"reference\", reference,\"memoryOnly\");\n// angel ya no es mi padre\nif(reference != 0){\n    msg.payload = {\n        value: [reference],\n        'fc': 16,\n        'unitid': 1,\n        'address': 56,\n        'quantity': 1\n    }\n    return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1830,
-        "y": 480,
-        "wires": [
-            [
-                "7e37a982f57920d6"
-            ]
-        ]
-    },
-    {
-        "id": "7e37a982f57920d6",
-        "type": "modbus-flex-write",
-        "z": "62616833443f66d1",
-        "g": "6ef714d5a2569e8a",
-        "name": "PyModbus",
-        "showStatusActivities": true,
-        "showErrors": true,
-        "server": "349cb045c05ea87d",
-        "emptyMsgOnFail": false,
-        "keepMsgProperties": false,
-        "x": 2010,
-        "y": 480,
-        "wires": [
-            [],
-            []
-        ]
-    },
-    {
-        "id": "f0a08f0cff56935a",
-        "type": "ui_dropdown",
-        "z": "a84e803f031d5b6d",
-        "g": "610861a3f96d22bd",
-        "name": "",
-        "label": "Selecione Rango",
-        "tooltip": "",
-        "place": "Select option",
-        "group": "2fcd0c4888f1dd5f",
-        "order": 1,
-        "width": "6",
-        "height": "1",
-        "passthru": false,
-        "multiple": false,
-        "options": [
-            {
-                "label": "Amperimetrica dia ",
-                "value": "Day_Amper",
-                "type": "str"
-            },
-            {
-                "label": "Amperimetrica semanal",
-                "value": "Week_Amper",
-                "type": "str"
-            }
-        ],
-        "payload": "",
-        "topic": "",
-        "x": 770,
-        "y": 220,
-        "wires": [
-            [
-                "391bfdae0921e15a"
-            ]
-        ]
-    },
-    {
-        "id": "391bfdae0921e15a",
-        "type": "change",
-        "z": "a84e803f031d5b6d",
-        "g": "610861a3f96d22bd",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "Amperimetrica.Tipe",
-                "pt": "flow",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1070,
-        "y": 240,
-        "wires": [
-            []
-        ]
     },
     {
         "id": "b269ff5b6732d608",
@@ -87998,6 +86928,1332 @@
             [
                 "010258a2a7d1f011"
             ]
+        ]
+    },
+    {
+        "id": "9849c621448140ed",
+        "type": "inject",
+        "z": "759eb633bbadf3e1",
+        "g": "da9df0726c99ccd4",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payloadType": "date",
+        "x": 150,
+        "y": 160,
+        "wires": [
+            [
+                "3738a46428965bed"
+            ]
+        ]
+    },
+    {
+        "id": "3738a46428965bed",
+        "type": "function",
+        "z": "759eb633bbadf3e1",
+        "g": "da9df0726c99ccd4",
+        "name": "Trends_1",
+        "func": "var requestTrend = flow.get(\"trends\", \"memoryOnly\") || {};\nvar C2S = global.get(\"C2S\", \"memoryOnly\") || {};\nvar time = msg.payload;\n\nvar datos = context.get(\"trend\", \"memoryOnly\") || null;\nvar Rtx = global.get(\"C2S.RelTx\") || 1;\n\nvar MtrVoltage = C2S.Implicit.Output_Voltage * Rtx;\nvar MtrCurrent = C2S.Implicit.Output_Current / Rtx;\n\nvar LL = global.get(\"PQA.Real_Time_Parameters.Average_Phase_Voltage\", 'memoryOnly') || 0;\nvar LN = global.get(\"PQA.Real_Time_Parameters.Average_Line_Voltage\", 'memoryOnly') || 0;\nvar THDV = global.get(\"PQA.Harmonics.Power_Quality.THD_avg\", 'memoryOnly') || 0;\nvar THDI = global.get(\"PQA.Harmonics.Power_Quality.THD_Iavg\", 'memoryOnly') || 0;\nvar Corriente = global.get(\"PQA.Real_Time_Parameters.Average_Phase_Current\", 'memoryOnly') || 0;\nvar Potencia = global.get(\"PQA.Real_Time_Parameters.Total_System_Power\", 'memoryOnly') || 0;\nvar FP = global.get(\"PQA.Real_Time_Parameters.Total_Power_Factor\", 'memoryOnly') || 0;\n\n\nif (datos == null) {\n    datos = {   //Datos de suministro de agua\n        \n        'Output_Frequency': [{ \"x\": time, \"y\": C2S.Implicit.Output_Frequency || 0 }],\n        'Output_Current': [{ \"x\": time, \"y\": C2S.Implicit.Output_Current || 0 }],\n        'Output_Voltage': [{ \"x\": time, \"y\": C2S.Implicit.Output_Voltage || 0 }],\n        'Output_Power': [{ \"x\": time, \"y\": C2S.Implicit.Output_Power || 0 }],\n        'Bus_DC_Volts': [{ \"x\": time, \"y\": C2S.Implicit.Bus_DC_Volts || 0 }],\n        'Power_Factor': [{ \"x\": time, \"y\": C2S.Implicit.Power_Factor || 0 }],\n        'MtrVoltage': [{ \"x\": time, \"y\": MtrVoltage || 0 }],\n        'MtrCurrent': [{ \"x\": time, \"y\": MtrCurrent || 0 }],\n        'LL': [{ \"x\": time, \"y\": LL || 0 }],\n        'LN': [{ \"x\": time, \"y\": LN || 0 }],\n        'THDV': [{ \"x\": time, \"y\": THDV || 0 }],\n        'THDI': [{ \"x\": time, \"y\": THDI || 0 }],\n        'Corriente': [{ \"x\": time, \"y\": Corriente || 0 }],\n        'Potencia': [{ \"x\": time, \"y\": Potencia || 0 }],\n        'FP': [{ \"x\": time, \"y\": FP || 0 }]\n    };\n}\nelse {\n    if (datos.Output_Frequency.length > 59) {\n        datos.Output_Frequency.shift();\n        datos.Output_Current.shift();\n        datos.Output_Voltage.shift();\n        datos.Output_Power.shift();\n        datos.Bus_DC_Volts.shift();\n        datos.Power_Factor.shift();\n        datos.MtrVoltage.shift();\n        datos.MtrCurrent.shift();\n\n        datos.LL.shift();\n        datos.LN.shift();\n        datos.THDV.shift();\n        datos.THDI.shift();\n        datos.Corriente.shift();\n        datos.Potencia.shift();\n        datos.FP.shift();\n    }\n\n\n    datos.Output_Frequency.push({ \"x\": time, \"y\": C2S.Implicit.Output_Frequency || 0 });\n    datos.Output_Current.push({ \"x\": time, \"y\": C2S.Implicit.Output_Current || 0 });\n    datos.Output_Voltage.push({ \"x\": time, \"y\": C2S.Implicit.Output_Voltage || 0 });\n    datos.Output_Power.push({ \"x\": time, \"y\": C2S.Implicit.Output_Power || 0 });\n    datos.Bus_DC_Volts.push({ \"x\": time, \"y\": C2S.Implicit.Bus_DC_Volts || 0 });\n    datos.Power_Factor.push({ \"x\": time, \"y\": C2S.Implicit.Power_Factor || 0 });\n    datos.MtrVoltage.push({ \"x\": time, \"y\": MtrVoltage || 0 });\n    datos.MtrCurrent.push({ \"x\": time, \"y\": MtrCurrent || 0 });\n\n    datos.LL.push({ \"x\": time,          \"y\": LL || 0 });\n    datos.LN.push({ \"x\": time,          \"y\": LN || 0 });\n    datos.THDV.push({ \"x\": time,        \"y\": THDV || 0 });\n    datos.THDI.push({ \"x\": time,        \"y\": THDI || 0 });\n    datos.Corriente.push({ \"x\": time,   \"y\": Corriente || 0 });\n    datos.Potencia.push({ \"x\": time,    \"y\": Potencia || 0 });\n    datos.FP.push({ \"x\": time,          \"y\": FP || 0 });\n}\n\ncontext.set(\"trend\", datos, \"memoryOnly\");\n\nvar series = [];\n\nif (requestTrend.Output_Frequency == true) series.push(\"Frequency (Hz)\");\nif (requestTrend.Output_Current == true) series.push(\"Current (A)\");\nif (requestTrend.Output_Voltage == true) series.push(\"Voltaje Salida(V)\");\nif (requestTrend.Output_Power == true) series.push(\"Potencia Salida(kW)\");\nif (requestTrend.Bus_DC_Volts == true) series.push(\"Voltaje Bus(V)\");\nif (requestTrend.Power_Factor == true) series.push(\"Factor de potencia\");\nif (requestTrend.MtrVoltage == true) series.push(\"Voltaje Mtr(V)\");\nif (requestTrend.MtrCurrent == true) series.push(\"Corriente Mtr(A)\");\n\n\n\n\nvar data = [];\n\nif (requestTrend.Output_Frequency == true) data.push(datos.Output_Frequency);\nif (requestTrend.Output_Current == true) data.push(datos.Output_Current);\nif (requestTrend.Output_Voltage == true) data.push(datos.Output_Voltage);\nif (requestTrend.Output_Power == true) data.push(datos.Output_Power);\nif (requestTrend.Bus_DC_Volts == true) data.push(datos.Bus_DC_Volts);\nif (requestTrend.Power_Factor == true) data.push(datos.Power_Factor);\nif (requestTrend.MtrVoltage == true) data.push(datos.MtrVoltage);\nif (requestTrend.MtrCurrent == true) data.push(datos.MtrCurrent);\n\n\nvar chart = [{\n    \"series\": series,\n    \"data\": data,\n    \"labels\": [\"\"]\n}];\n\nif (data.length != 0)\n    msg.payload = chart;\nelse\n    msg.payload = [];\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 300,
+        "y": 160,
+        "wires": [
+            [
+                "7ebabc8539f47bff"
+            ]
+        ]
+    },
+    {
+        "id": "7ebabc8539f47bff",
+        "type": "ui_chart",
+        "z": "759eb633bbadf3e1",
+        "g": "da9df0726c99ccd4",
+        "name": "",
+        "group": "94e450d3bce1686e",
+        "order": 2,
+        "width": "12",
+        "height": 10,
+        "label": "Tendencias Multivariables",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "No available data",
+        "dot": false,
+        "ymin": "0",
+        "ymax": "",
+        "removeOlder": "10",
+        "removeOlderPoints": "60",
+        "removeOlderUnit": "60",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#194b0c",
+            "#ff7f0e",
+            "#282a28",
+            "#9f0961",
+            "#d62728",
+            "#f6b7b6",
+            "#d8db39",
+            "#8ad098"
+        ],
+        "outputs": 1,
+        "x": 490,
+        "y": 160,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e88eb5b9b4cc7c91",
+        "type": "change",
+        "z": "759eb633bbadf3e1",
+        "g": "da9df0726c99ccd4",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::trends",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 460,
+        "y": 100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "947f94298738ee85",
+        "type": "function",
+        "z": "759eb633bbadf3e1",
+        "g": "da9df0726c99ccd4",
+        "name": "request",
+        "func": "var i,request={};\nfor (i = 0; i < msg.payload.length ;i++){\n    if (msg.payload[i] == \"Output_Frequency\") request.Output_Frequency=true;\n    if (msg.payload[i] == \"Output_Current\") request.Output_Current=true;\n    if (msg.payload[i] == \"Voltaje_Salida\") request.Output_Voltage = true;\n    if (msg.payload[i] == \"Potencia_Salida\") request.Output_Power = true;\n    if (msg.payload[i] == \"Bus_DC_Volts\") request.Bus_DC_Volts = true;\n    if (msg.payload[i] == \"Power_Factor\") request.Power_Factor = true;\n    if (msg.payload[i] == \"MtrVoltage\") request.MtrVoltage = true;\n    if (msg.payload[i] == \"MtrCurrent\") request.MtrCurrent = true;\n\n    if (msg.payload[i] == \"LL\") request.LL = true;\n    if (msg.payload[i] == \"LN\") request.LN = true;\n    if (msg.payload[i] == \"THDV\") request.THDV = true;\n    if (msg.payload[i] == \"THDI\") request.THDI = true;\n    if (msg.payload[i] == \"Corriente\") request.Corriente = true;\n    if (msg.payload[i] == \"Potencia\") request.Potencia = true;\n    if (msg.payload[i] == \"FP\") request.FP = true;\n        \n}\n\nmsg.payload = request;\nnode.status({ fill: \"red\", shape: \"ring\", text: msg.payload });\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 300,
+        "y": 100,
+        "wires": [
+            [
+                "e88eb5b9b4cc7c91"
+            ]
+        ]
+    },
+    {
+        "id": "c8c0bcb1ebd9fe87",
+        "type": "ui_chart",
+        "z": "759eb633bbadf3e1",
+        "g": "5dc71a84bf12ae23",
+        "name": "",
+        "group": "f5471725db0f8d14",
+        "order": 4,
+        "width": "11",
+        "height": "12",
+        "label": "Carta Amperimétrica (A)",
+        "chartType": "radar",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#498500",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "x": 1190,
+        "y": 100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f7b3229550a36e8e",
+        "type": "ui_template",
+        "z": "759eb633bbadf3e1",
+        "group": "feabd600.f71b28",
+        "name": "Logo / Clock",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "format": "<script id=\"clockScript1\" type=\"text/javascript\">\n    var clockInterval;\n    $(function () {\n        if (clockInterval) return;\n\n        //add logo\n        var div1 = $('<div/>');\n        var logo = new Image();\n\n        logo.src = 'http://localhost:1880/swcpro-images/logoBCPGroup_bordeado.png'\n        logo.height = 60;\n        div1[0].style.margin = '10px auto';\n\n        div1.append(logo);\n        \n        //add clock\n        var div2 = $('<div/>');\n        var p = $('<p/>');\n\n        div2.append(p);\n        div2[0].style.margin = '5px';\n\n        function displayTime() {\n            p.text(new Date().toLocaleString());\n        }\n        \n        clockInterval = setInterval(displayTime, 1000);\n\n        //add to toolbar when it's available\n        var addToToolbarTimer;\n        \n        function addToToolbar() {\n            var toolbar = $('.md-toolbar-tools');\n            \n            if(!toolbar.length) return;\n            \n            toolbar.append(div1);\n            toolbar.append(div2);\n            clearInterval(addToToolbarTimer);\n        }\n        addToToolbarTimer = setInterval(addToToolbar, 100);\n    });\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": false,
+        "templateScope": "global",
+        "x": 430,
+        "y": 620,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "aea1b4b3e888005f",
+        "type": "ui_template",
+        "z": "759eb633bbadf3e1",
+        "g": "de4f6c6fd5bcf584",
+        "group": "df8934f2a1ce6562",
+        "name": "",
+        "order": 1,
+        "width": "6",
+        "height": "8",
+        "format": "<div ng-bind-html=\"msg.payload | trusted\"></div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 860,
+        "y": 480,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "85a2c9195868ace7",
+        "type": "link in",
+        "z": "759eb633bbadf3e1",
+        "g": "de4f6c6fd5bcf584",
+        "name": "Grafica IPR Link In",
+        "links": [
+            "97407954.a004c8"
+        ],
+        "x": 105,
+        "y": 480,
+        "wires": [
+            [
+                "efa771aeef7f8c75"
+            ]
+        ]
+    },
+    {
+        "id": "efa771aeef7f8c75",
+        "type": "switch",
+        "z": "759eb633bbadf3e1",
+        "g": "de4f6c6fd5bcf584",
+        "name": "Monitoreo-AVAS-IPR",
+        "property": "#:(memoryOnly)::Pantalla",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Menu",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 240,
+        "y": 480,
+        "wires": [
+            [
+                "3a03258aa05958aa"
+            ]
+        ]
+    },
+    {
+        "id": "73661036b9de7713",
+        "type": "inject",
+        "z": "759eb633bbadf3e1",
+        "g": "de4f6c6fd5bcf584",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 270,
+        "y": 520,
+        "wires": [
+            [
+                "3a03258aa05958aa"
+            ]
+        ]
+    },
+    {
+        "id": "2d0e0387dd8002cc",
+        "type": "template",
+        "z": "759eb633bbadf3e1",
+        "g": "de4f6c6fd5bcf584",
+        "name": "Bootstrap",
+        "field": "template",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n    \n  </head>\n  <body>\n    <div class=\"disable-select\">\n        <div class=\"container\">\n            <div class=\"row justify-content-center\" style=\"background-color:#fcfcfc;\">\n                <div class=\"co-12\">{{{chart}}}</div>\n            </div>\n        </div>\n    </div>\n  </body>\n  <script src=\"http://localhost:1880/apexcharts/dist/apexcharts.js\"></script>\n  <style>\n    .disable-select {\n        user-select: none; /* supported by Chrome and Opera /\n        -webkit-user-select: none; / Safari /\n       -khtml-user-select: none; / Konqueror HTML /\n       -moz-user-select: none; / Firefox /\n       -ms-user-select: none; / Internet Explorer/Edge */\n    }\n  </style>\n</html>",
+        "output": "str",
+        "x": 720,
+        "y": 480,
+        "wires": [
+            [
+                "aea1b4b3e888005f"
+            ]
+        ]
+    },
+    {
+        "id": "cd0247a01f5efa19",
+        "type": "link in",
+        "z": "759eb633bbadf3e1",
+        "g": "de4f6c6fd5bcf584",
+        "name": "Inicio",
+        "links": [
+            "ad87cee4.7dbb5"
+        ],
+        "x": 325,
+        "y": 440,
+        "wires": [
+            [
+                "3a03258aa05958aa"
+            ]
+        ]
+    },
+    {
+        "id": "3a03258aa05958aa",
+        "type": "function",
+        "z": "759eb633bbadf3e1",
+        "g": "de4f6c6fd5bcf584",
+        "name": "",
+        "func": "/* Declaración de datos \nAPI         = 30;   \nPy          = 3000; //psi\nPb          = 1200;  //psi\nPcrit       = 1050; // psi\nPwf_P       = 750;  //psi \nQ_p         = 2300; //BPD\nBSW         = 98;   //%\nT_fluido    = 160;  // °F\nDens_Agua   = 8.33; //ppg \nProf_Intake = 4000; //ft\nProf_Sensor = 4030; //ft\nPMP         = 4500; //FT\nPIP_Sensor  = 750; //psi\nPCasing     = 0;   //psi\n*/\nvar Analog = global.get(\"DownHoleData\",\"memoryOnly\")||[];\n\n// ESTADO MECANICO\nvar PMP             = global.get(\"IWOC.ESTADO_MECANICO.PMP\")||4500;\nvar Prof_Discharge  = global.get(\"IWOC.ESTADO_MECANICO.Profundidad_de_descarga\")||0;\nvar Prof_Sensor     = global.get(\"IWOC.ESTADO_MECANICO.Prof_Sensor\")||4030;\nvar Prof_Intake     = global.get(\"IWOC.ESTADO_MECANICO.Profundidad_de_entrada\")||4000;\n\n// PROPIEDADES DE FLUIDO\nvar API             = global.get(\"IWOC.PROPIEDADES_DE_FLUIDO.API\")||30;\nvar T_fluido        = global.get(\"IWOC.PROPIEDADES_DE_FLUIDO.Temperatura_de_fondo\")||160;\nvar Dens_Agua       = global.get(\"IWOC.PROPIEDADES_DE_FLUIDO.Densidad_del_agua\")||8.33;\n\n// PRUEBA DE PRODUCCION\nvar Pwf_P           = global.get(\"IWOC.PRUEBA_DE_PRODUCCION.PWF_Prueba\")||750;\nvar BSW             = global.get(\"IWOC.PRUEBA_DE_PRODUCCION.BSW_Prueba\")||98;\nvar Q_p             = global.get(\"IWOC.PRUEBA_DE_PRODUCCION.Q_Prueba\")||2300;\nvar Vel_P           = global.get(\"IWOC.PRUEBA_DE_PRODUCCION.Velociad_de_prueba\")||0;\n\n// DATOS PARA IPR\nvar Py              = global.get(\"IWOC.DATOS_PARA_IPR.Presion_de_yacimiento\")||2500;\nvar Pcrit           = global.get(\"IWOC.DATOS_PARA_IPR.PWF_Critica\")||1050;\nvar Pb              = global.get(\"IWOC.DATOS_PARA_IPR.Presion_de_burbuja\")||1200;\n\n//var PIP_Sensor      = Analog.DHS[\"Presión de entrada\"]||Analog.AI[\"Presión de entrada\"];\nvar PIP_Sensor = 750; //psi\n\nvar PCasing         = 0;\n\nnode.status({fill:\"green\",shape:\"dot\",text:PIP_Sensor});\n\nvar AxisX = [];\nvar AxisY = [];\n/\n    Paso No. 1: Se halla Gradiente de Presión corregido por \n    temperatura y %BSW a partir de la Gravedad Específica (GE)\n    del crudo usando gravedad API del crudo.\n/\n\nvar GE = 141.5/(131.5 + API);\n\n/\n    Paso No. 2: Hallar valores de alfa y beta según la gravedad \n    específica (GE) siguiendo lo que indica la tabla abajo:\n/\n\nif(GE<0.63){\n    var Alfa = 0.00097;\n    var Beta = -0.0000004;\n}\nelse if((GE<0.78) && (GE>=0.63)){\n    var Alfa = (0.00097+(GE-0.63))((0.00075-0.00097)/(0.78-0.63));\n    var Beta = (0.0000004 + (GE-0.63))(0.0000004/(0.78-0.63));\n}\nelse if((GE<0.85)&&(GE>=0.78)){\n    var Alfa = (0.00075+(GE-0.75))((0.00068-0.00075)/(0.85-0.78));\n    var Beta = (0 + (GE-0.75))(0.0000001/(0.85-0.78));\n}\nelse if((GE<0.95)&&(GE>=0.85)){\n    var Alfa = (0.00068+(GE-0.85))((0.00066-0.00068)/(0.95-0.85));\n    var Beta = (0.0000001 + (GE-0.85))((0.0000001-0.0000003)/(0.95-0.85));\n}   \nelse if(GE>=0.95){\n    var Alfa = 0.00066;\n    var Beta = -0.0000003;\n}\nvar Grv_TFondo      = GE - (Alfa*(T_fluido-15.556))+(Beta*Math.pow((T_fluido-15.556), 2));\nvar Grv_TFondoBSW   = (((100-BSW)/100)Grv_TFondo) + ((BSW/100)(Dens_Agua/8.345))\n\n/\n    Paso No. 3: Hallar el Gradiente de presión corregido\n/\n\nvar VP = 0.433*Grv_TFondoBSW\n\n/\n    Paso No. 4: Cálculo de PIP en iWOC según tres escenarios\n    \n    •\tEscenario No. 1: Cálculo de Variables en Función del Sensor de Fondo\n\n        Cálculo de PIP, PWF y Sumergencia líquida cuando la Fuente de Medición es un sensor de fondo.\n/\n\nvar PIP_real    = PIP_Sensor + ((Prof_Intake - Prof_Sensor)VP);\nvar Pwf         = PIP_Sensor + ((PMP - Prof_Sensor)*VP);\nvar Sum_Liq     = (PIP_real- PCasing)/ VP;\n\n/\n    Paso No. 5: Cálculo de Caudales\n*/    \n/* Yacimiento Subsaturado*/\nif(Py>Pb){\n    if(Pwf>Pb){\n        var IP = Q_p/(Py-Pwf_P);\n        //node.send()\n    }\n    else{\n        IP = Q_p/(Py - Pb + (Pb/1.8)(1-(0.2(Pwf/Pb))-0.8*(Math.pow((Pwf/Pb),2))))\n    }\n    \n    var Qb      = IP * (Py - Pb);\n    var Qmax    = Qb + (IP*Pb/1.8);\n    var N       = 80;\n    \n    for (var i = 80; i >= 0;i--){\n        var Pwf_G = (Py*i/N);\n        if(Pwf_G>Pb){\n            var Qg = IP (Py- Pwf_G);\n        }\n        else{       \n            Qg = Qb + (Qmax - Qb) * (1 - (0.2 * (Pwf_G / Pb)) - (0.8 * ((Pwf_G / Pb) * (Pwf_G / Pb))));\n        }\n        AxisX.push(Qg);\n        AxisY.push(Pwf_G);\n    }\n    /\n        Cálculo Caudal actual Qo\n    */\n    if(Pwf>Pb){\n        var Q0 = IP *(Py- Pwf);    \n    }\n    else{       \n        var Q0 = Qb + (Qmax - Qb) * (1 - (0.2 * (Pwf / Pb)) - (0.8 * ((Pwf / Pb) * (Pwf / Pb))));\n    }\n}\n\nmsg.payload = {\n    'AxisX' : AxisX,\n    'AxisY' : AxisY,\n    'Pcrit' : Pcrit,\n    'Q0'    : Q0,\n    'Pwf'   : Pwf\n};\n\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 440,
+        "y": 480,
+        "wires": [
+            [
+                "80c21456b4d66fef"
+            ]
+        ]
+    },
+    {
+        "id": "80c21456b4d66fef",
+        "type": "template",
+        "z": "759eb633bbadf3e1",
+        "g": "de4f6c6fd5bcf584",
+        "name": "IPR Chart",
+        "field": "chart",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<div id=\"chart\"></div>\n<script>\n    var options = {\n            series:[{\n                name: \"Presión de fondo fluyente (PWF)\",\n                data: [{{payload.AxisY}}]\n            }],\n            chart:{\n                height: 330,\n                width: 720,\n                type: 'line',\n                id: 'areachart-2',\n                toolbar:{\n                    show: false\n                },\n                animations:{\n                    enabled: false\n                }\n            },\n            annotations:{\n                yaxis:[\n                    {\n                        y: {{payload.Pcrit}},\n                        borderColor: '#c71e1e',\n                        label:{\n                            borderColor:'#c71e1e',\n                            position: 'left',\n                            position: 'top',\n                            offsetX: 90,\n                            offsetY: 0,                        \n                            style: {\n                                color:'#fff',\n                                background:'#000000',\n                                fontSize: '14px',\n                            },\n                            text:'Pc: ' + ({{payload.Pcrit}}).toFixed(2) + ' psi',\n                        }\n                    }, \n                    {\n                        y: {{payload.Pwf}},\n                        borderColor: '#c71e1e',\n                        label: {\n                            borderColor: '#c71e1e',\n                            offsetX: 0,\n                            offsetY: 15,\n                            style:{\n                                color: '#fff',\n                                background: '#000000',\n                                fontSize: '14px',\n                            },\n                            text: 'Pwf: ' + ({{payload.Pwf}}).toFixed(2) + ' psi',\n                        }\n                    }\n                ],\n                xaxis:[\n                    {\n                        x: {{payload.Q0}},\n                        strokeDashArray: 0,\n                        borderColor: '#775DD0',\n                        label:{\n                            borderColor: '#775DD0',\n                            style:{\n                                color: '#fff',\n                                background: '#775DD0',\n                                fontSize: '14px',\n                            },\n                            text: 'Caudal: ' + ({{payload.Q0}}).toFixed(0) + ' BPD' \n                        }\n                    }\n                ],\n                points:[{\n                    x: {{payload.Q0}},\n                    y: {{payload.Pwf}},\n                    marker: {\n                        size: 5,\n                        fillColor: '#32499d',\n                        strokeColor: '#2b2b2b',\n                        radius: 2,\n                        cssClass: 'apexcharts-custom-class'\n                    },\n                    label:{\n                        borderColor: '#2b2b2b',\n                        offsetX: -17,\n                        offsetY: 40,                        \n                        style:{\n                            color: '#fff',\n                            background: '#2b2b2b',\n                            fontSize: '14px',\n                        },\n                        text: 'Q'\n                    }\n                }]\n            },\n            tooltip:{\n                enabled: true\n            },\n            dataLabels:{\n                enabled: false\n            },\n            stroke:{\n                curve: 'straight',\n                width: [3]\n            },\n            grid:{\n                padding:{\n                    right: 30,\n                    left: 20\n                }\n            },\n            //title:{\n            //    text: 'Gráfica IPR',\n            //    align: 'center'\n            //},\n            colors: [\"#c71e1e\"],\n            xaxis:{\n                type: 'numeric',\n                show: true,\n                categories: [{{payload.AxisX}}],\n                title:{\n                    text:\"Caudal [BPD]\",\n                    style: {\n                        color: \"#000000\",\n                        fontSize: '14px',\n                        fontFamily: 'Helvetica, Arial, sans-serif',\n                        fontWeight: 600\n                    },\n                }\n            },\n            yaxis:{\n                title: {\n                    text: \"Presión [psi]\",\n                    style: {\n                        color: \"#000000\",\n                        fontSize: '14px',\n                        fontFamily: 'Helvetica, Arial, sans-serif',\n                        fontWeight: 600\n                    },\n                },\n            }            \n    };\n    \n    var chart = new ApexCharts(document.querySelector(\"#chart\"), options);\n    chart.render();\n</script>\n",
+        "output": "str",
+        "x": 580,
+        "y": 480,
+        "wires": [
+            [
+                "2d0e0387dd8002cc"
+            ]
+        ]
+    },
+    {
+        "id": "0a8cf06fd166c42e",
+        "type": "inject",
+        "z": "759eb633bbadf3e1",
+        "g": "5dc71a84bf12ae23",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payloadType": "date",
+        "x": 740,
+        "y": 100,
+        "wires": [
+            [
+                "79d46cb161b83ec8"
+            ]
+        ]
+    },
+    {
+        "id": "79d46cb161b83ec8",
+        "type": "function",
+        "z": "759eb633bbadf3e1",
+        "g": "5dc71a84bf12ae23",
+        "name": "Fill Pie Chart Array",
+        "func": "var size_w = 336;\nvar size = 288;\nvar labels = [];\nvar series = [];\nvar day = [\"Domingo\", \"Lunes\", \"Martes\", \"Miercoles\", \"Jueves\", \"Viernes\", \"Sábado\"];\n\nvar labels_w = [];\nvar series_w = [];\n\nvar datas = flow.get(\"Amperimetrica.datas_pro\") || [];\nvar datas_w = flow.get(\"Amperimetrica.datas_week_pro\") || [];\nvar counter = flow.get(\"Amperimetrica.Possition\") || 0;\nvar c_hora = flow.get(\"Amperimetrica.c_hora_pro\") || 0;\nvar c_dia = flow.get(\"Amperimetrica.c_dia_pro\") || 0;\n\nvar Output_Current = global.get(\"C2S.Implicit.Output_Current\", 'memoryOnly') || 0;\nvar Rtx = global.get(\"C2S.RelTx\") || 1;\nvar MtrCurrent = Output_Current / Rtx;\n\nfor (var i = 0; i < size; i += 1) {\n    labels[i] = \"\";\n    series[i] = \"\";\n}\n\nfor (let k = 0; k < size; k += 12) {\n    labels[k] = c_hora + \":00\";\n    var c_hora = (c_hora >= size) ? 0 : c_hora + 1;\n}\n\n//Week\n//Se crea los dos array para los lables de la grafica amperimetrica \nfor (let k = 0; k < size_w; k += 1) {\n    labels_w[k] = \"\";\n    series_w[k] = \"\";\n}\n//se toma el array de lables y se le setean los datos de los dias para poder ser vistos en la grafica amperimetrica \nfor (let k = 0; k < size_w; k += 14) {\n    labels_w[k] = day[c_dia];\n    //contador para recorrer los dias de la semana \n    var c_dia = (c_dia >= 7) ? 0 : c_dia + 1;\n}\n//seteode datos de corriente en el array data que es el ploteado en la grafica  \ndatas[counter] = MtrCurrent;\n//\nvar counter_day = (counter % 6 == 0) ? true : false;\n\nif (counter_day == true) {\n\n    var position_Array = counter - 30;\n    var media = datas.slice(position_Array, counter);\n    var ang = media.length;\n\n\n}\n\n\nvar pie = {\n    \"labels\": labels,\n    \"series\": series,\n    \"data\": [datas]\n};\n\nvar counter = (counter >= size) ? 0 : counter + 1;\nnode.status({ fill: \"red\", shape: \"ring\", text: counter + \" residua \" + counter_day + \" array \" + position_Array + \" Average \" + ang });\n\nflow.set(\"Amperimetrica.datas_pro\", datas);\nflow.set(\"Amperimetrica.Possition\", counter);\nflow.set(\"Amperimetrica.series_pro\", labels);\nflow.set(\"Amperimetrica.datas_w\", datas_w);\n\nmsg.payload = [pie];\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 100,
+        "wires": [
+            [
+                "c8c0bcb1ebd9fe87"
+            ]
+        ]
+    },
+    {
+        "id": "7276dba6243990f2",
+        "type": "function",
+        "z": "759eb633bbadf3e1",
+        "g": "5dc71a84bf12ae23",
+        "name": "",
+        "func": "var hoy = new Date();\n\nvar hora = hoy.getHours() * 60;\nvar minutos = Math.floor((hoy.getMinutes() + hora) / 5);\nnode.status({fill:\"red\",shape:\"ring\",text:minutos});\nflow.set(\"Amperimetrica.Possition\",minutos);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 920,
+        "y": 160,
+        "wires": [
+            [
+                "79d46cb161b83ec8"
+            ]
+        ]
+    },
+    {
+        "id": "c3c6f48e93405386",
+        "type": "inject",
+        "z": "759eb633bbadf3e1",
+        "g": "5dc71a84bf12ae23",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payloadType": "date",
+        "x": 750,
+        "y": 160,
+        "wires": [
+            [
+                "7276dba6243990f2"
+            ]
+        ]
+    },
+    {
+        "id": "68a2367b68a2d36b",
+        "type": "ui_dropdown",
+        "z": "759eb633bbadf3e1",
+        "g": "5dc71a84bf12ae23",
+        "name": "",
+        "label": "Selecione Rango",
+        "tooltip": "",
+        "place": "Select option",
+        "group": "2fcd0c4888f1dd5f",
+        "order": 1,
+        "width": "6",
+        "height": "1",
+        "passthru": false,
+        "multiple": false,
+        "options": [
+            {
+                "label": "Amperimetrica dia ",
+                "value": "Day_Amper",
+                "type": "str"
+            },
+            {
+                "label": "Amperimetrica semanal",
+                "value": "Week_Amper",
+                "type": "str"
+            }
+        ],
+        "payload": "",
+        "topic": "",
+        "x": 770,
+        "y": 220,
+        "wires": [
+            [
+                "74b76e998626d493"
+            ]
+        ]
+    },
+    {
+        "id": "74b76e998626d493",
+        "type": "change",
+        "z": "759eb633bbadf3e1",
+        "g": "5dc71a84bf12ae23",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Amperimetrica.Tipe",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1070,
+        "y": 240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "85301d7a2ecfe880",
+        "type": "ui_dropdown",
+        "z": "759eb633bbadf3e1",
+        "g": "da9df0726c99ccd4",
+        "name": "",
+        "label": "",
+        "tooltip": "",
+        "place": "Select trends (multiple variable options)",
+        "group": "94e450d3bce1686e",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "multiple": true,
+        "options": [
+            {
+                "label": "Output_Frequency",
+                "value": "Output_Frequency",
+                "type": "str"
+            },
+            {
+                "label": "Output_Current",
+                "value": "Output_Current",
+                "type": "str"
+            },
+            {
+                "label": "Voltaje Salida",
+                "value": "Voltaje_Salida",
+                "type": "str"
+            },
+            {
+                "label": "Potencia Salida",
+                "value": "Potencia_Salida",
+                "type": "str"
+            },
+            {
+                "label": "Bus DC",
+                "value": "Bus_DC_Volts",
+                "type": "str"
+            },
+            {
+                "label": "Factor de Potencia",
+                "value": "Power_Factor",
+                "type": "str"
+            },
+            {
+                "label": "Voltaje Motor",
+                "value": "MtrVoltage",
+                "type": "str"
+            },
+            {
+                "label": "Corriente Motor",
+                "value": "MtrCurrent",
+                "type": "str"
+            },
+            {
+                "label": "LL",
+                "value": "LL",
+                "type": "str"
+            },
+            {
+                "label": "LN",
+                "value": "LN",
+                "type": "str"
+            },
+            {
+                "label": "THDV",
+                "value": "THDV",
+                "type": "str"
+            },
+            {
+                "label": "THDI",
+                "value": "THDI",
+                "type": "str"
+            },
+            {
+                "label": "Corriente",
+                "value": "Corriente",
+                "type": "str"
+            },
+            {
+                "label": "Potencia",
+                "value": "Potencia",
+                "type": "str"
+            },
+            {
+                "label": "Factor de potencia",
+                "value": "FP",
+                "type": "str"
+            }
+        ],
+        "payload": "",
+        "topic": "",
+        "x": 140,
+        "y": 100,
+        "wires": [
+            [
+                "947f94298738ee85"
+            ]
+        ]
+    },
+    {
+        "id": "a0c62452e3262396",
+        "type": "inject",
+        "z": "902fc438.e5d758",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "#:(memoryOnly)::C2S.Comunicacion_Drive",
+        "payloadType": "global",
+        "x": 1830,
+        "y": 1260,
+        "wires": [
+            [
+                "3ecbe43ffa3805c4"
+            ]
+        ]
+    },
+    {
+        "id": "3ecbe43ffa3805c4",
+        "type": "rbe",
+        "z": "902fc438.e5d758",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 2050,
+        "y": 1260,
+        "wires": [
+            [
+                "60237b9df4e5be24"
+            ]
+        ]
+    },
+    {
+        "id": "60237b9df4e5be24",
+        "type": "function",
+        "z": "902fc438.e5d758",
+        "name": "",
+        "func": "\nvar Status_com = global.get(\"C2S.Comunicacion_Drive\",\"memoryOnly\");\nvar com = (Status_com==true)?false:true;\nnode.status({fill:\"red\",shape:\"ring\",text:com});\nglobal.set(\"Stop_VSD\",com)\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2180,
+        "y": 1260,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "56227a21a6d26c49",
+        "type": "function",
+        "z": "b298b5921bced6f2",
+        "name": "",
+        "func": "var ctr = context.get(\"ctr\", \"memoryOnly\") || 0;\nctr = 1 + ctr;\ncontext.set(\"ctr\", ctr, \"memoryOnly\");\nnode.status({ fill: \"green\", shape: \"dot\", text: ctr });\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 210,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7f3a52c7c771dfee",
+        "type": "inject",
+        "z": "b298b5921bced6f2",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 80,
+        "y": 200,
+        "wires": [
+            [
+                "56227a21a6d26c49"
+            ]
+        ]
+    },
+    {
+        "id": "86cba6e65b29fb7b",
+        "type": "switch",
+        "z": "bef159b0eb2cf912",
+        "g": "9bdf522.eba6db",
+        "name": "",
+        "property": "Stop_VSD",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 830,
+        "y": 440,
+        "wires": [
+            [
+                "24beaaedb233cc7c"
+            ]
+        ]
+    },
+    {
+        "id": "ab6518c77e0ce523",
+        "type": "debug",
+        "z": "59977e2d5bc9331a",
+        "g": "797d0bfa791a4802",
+        "name": "",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": true,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "payload",
+        "statusType": "auto",
+        "x": 1600,
+        "y": 440,
+        "wires": []
+    },
+    {
+        "id": "37fc6a6679d97cc0",
+        "type": "modbus-read",
+        "z": "62616833443f66d1",
+        "g": "6ef714d5a2569e8a",
+        "name": "PyModbusServer",
+        "topic": "",
+        "showStatusActivities": true,
+        "logIOActivities": false,
+        "showErrors": false,
+        "unitid": "1",
+        "dataType": "HoldingRegister",
+        "adr": "56",
+        "quantity": "1",
+        "rate": "1",
+        "rateUnit": "s",
+        "delayOnStart": false,
+        "startDelayTime": "",
+        "server": "349cb045c05ea87d",
+        "useIOFile": false,
+        "ioFile": "",
+        "useIOForPayload": false,
+        "emptyMsgOnFail": false,
+        "x": 1180,
+        "y": 540,
+        "wires": [
+            [
+                "c7f289af38b944b7"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "12a92bfd7496f11b",
+        "type": "change",
+        "z": "62616833443f66d1",
+        "g": "6ef714d5a2569e8a",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload[0]",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Ref",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1780,
+        "y": 520,
+        "wires": [
+            [
+                "9467b3e6c4ee66e5"
+            ]
+        ]
+    },
+    {
+        "id": "3927dfb4fdf8a76c",
+        "type": "switch",
+        "z": "62616833443f66d1",
+        "g": "6ef714d5a2569e8a",
+        "name": "L/R",
+        "property": "Input.Operation.ControlMode",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Remoto",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Local",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1630,
+        "y": 540,
+        "wires": [
+            [
+                "12a92bfd7496f11b"
+            ],
+            [
+                "075186ebd79ef2c7"
+            ]
+        ]
+    },
+    {
+        "id": "9467b3e6c4ee66e5",
+        "type": "function",
+        "z": "62616833443f66d1",
+        "g": "6ef714d5a2569e8a",
+        "name": "/10",
+        "func": "var Funciones = global.get(\"Funciones_control_activas\",\"memoryOnly\")||{1:false};\n\nvar array = Object.values(Funciones);\nvar resp = array.find(element => element == true)||false;\nmsg.payload = msg.payload / 10;\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload});\n\n\n\nif(!resp){return msg;}\nelse{return;}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1930,
+        "y": 520,
+        "wires": [
+            [
+                "efd33b25d8ed74e3",
+                "724f1f10a5036303",
+                "2c7ddc3776f48174"
+            ]
+        ]
+    },
+    {
+        "id": "db103966d32048e9",
+        "type": "switch",
+        "z": "62616833443f66d1",
+        "g": "6ef714d5a2569e8a",
+        "name": "SCADA RTU",
+        "property": "SCADA.Type",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "RTU",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1350,
+        "y": 590,
+        "wires": [
+            [
+                "9ef01e036f249a71"
+            ]
+        ]
+    },
+    {
+        "id": "c7f289af38b944b7",
+        "type": "switch",
+        "z": "62616833443f66d1",
+        "g": "6ef714d5a2569e8a",
+        "name": "SCADA TCP",
+        "property": "SCADA.Type",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "TCP",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1350,
+        "y": 540,
+        "wires": [
+            [
+                "b7d1f41a3c2c131c"
+            ]
+        ]
+    },
+    {
+        "id": "6ae6319e8f6ed558",
+        "type": "modbus-getter",
+        "z": "62616833443f66d1",
+        "g": "6ef714d5a2569e8a",
+        "name": "Leer Cubloc",
+        "showStatusActivities": true,
+        "showErrors": false,
+        "logIOActivities": false,
+        "unitid": "",
+        "dataType": "InputRegister",
+        "adr": "28748",
+        "quantity": "1",
+        "server": "f630cb55.8d18e8",
+        "useIOFile": false,
+        "ioFile": "",
+        "useIOForPayload": false,
+        "emptyMsgOnFail": false,
+        "keepMsgProperties": false,
+        "x": 1190,
+        "y": 590,
+        "wires": [
+            [
+                "db103966d32048e9"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "8ea4c15bb9edfb07",
+        "type": "link in",
+        "z": "62616833443f66d1",
+        "g": "6ef714d5a2569e8a",
+        "name": "Referencia Remota - RTU Link In",
+        "links": [
+            "d407f4bca8315e27"
+        ],
+        "x": 1085,
+        "y": 590,
+        "wires": [
+            [
+                "6ae6319e8f6ed558"
+            ]
+        ]
+    },
+    {
+        "id": "efd33b25d8ed74e3",
+        "type": "change",
+        "z": "62616833443f66d1",
+        "g": "6ef714d5a2569e8a",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Ref",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Cambio de referencia remota a +++ Hz",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "+++",
+                "fromt": "str",
+                "to": "Ref",
+                "tot": "msg"
+            },
+            {
+                "t": "delete",
+                "p": "topic",
+                "pt": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2080,
+        "y": 520,
+        "wires": [
+            [
+                "b377858fb09c8893"
+            ]
+        ]
+    },
+    {
+        "id": "55b2d4ef41d6726b",
+        "type": "link out",
+        "z": "62616833443f66d1",
+        "g": "6ef714d5a2569e8a",
+        "name": "",
+        "links": [
+            "207ea8ce.3dea68"
+        ],
+        "x": 2315,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "b377858fb09c8893",
+        "type": "rbe",
+        "z": "62616833443f66d1",
+        "g": "6ef714d5a2569e8a",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "property": "payload",
+        "x": 2230,
+        "y": 520,
+        "wires": [
+            [
+                "55b2d4ef41d6726b"
+            ]
+        ]
+    },
+    {
+        "id": "8ff4526126eeee60",
+        "type": "link in",
+        "z": "62616833443f66d1",
+        "g": "6ef714d5a2569e8a",
+        "name": "Referencia_Analogica",
+        "links": [
+            "9c8c2a62.81f168"
+        ],
+        "x": 1185,
+        "y": 640,
+        "wires": [
+            [
+                "042ed8953113914f"
+            ]
+        ]
+    },
+    {
+        "id": "9cdabbdbf5c62773",
+        "type": "switch",
+        "z": "62616833443f66d1",
+        "g": "6ef714d5a2569e8a",
+        "name": "L/R",
+        "property": "Input.Operation.ControlMode",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Remoto",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1500,
+        "y": 640,
+        "wires": [
+            [
+                "2c7ddc3776f48174"
+            ]
+        ]
+    },
+    {
+        "id": "042ed8953113914f",
+        "type": "switch",
+        "z": "62616833443f66d1",
+        "g": "6ef714d5a2569e8a",
+        "name": "Referencia Remota AI",
+        "property": "#:(memoryOnly)::Ref_Analogica",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "neq",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1330,
+        "y": 640,
+        "wires": [
+            [
+                "9cdabbdbf5c62773"
+            ]
+        ]
+    },
+    {
+        "id": "b7d1f41a3c2c131c",
+        "type": "switch",
+        "z": "62616833443f66d1",
+        "g": "6ef714d5a2569e8a",
+        "name": "",
+        "property": "#:(memoryOnly)::Ref_Analogica",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1500,
+        "y": 530,
+        "wires": [
+            [
+                "3927dfb4fdf8a76c",
+                "2e514d097ce744f4"
+            ]
+        ]
+    },
+    {
+        "id": "9ef01e036f249a71",
+        "type": "switch",
+        "z": "62616833443f66d1",
+        "g": "6ef714d5a2569e8a",
+        "name": "",
+        "property": "#:(memoryOnly)::Ref_Analogica",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1500,
+        "y": 590,
+        "wires": [
+            [
+                "3927dfb4fdf8a76c"
+            ]
+        ]
+    },
+    {
+        "id": "724f1f10a5036303",
+        "type": "change",
+        "z": "62616833443f66d1",
+        "g": "6ef714d5a2569e8a",
+        "name": "setReference",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Ref_Remoto_Modbus",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "C2S.Last_Reference.Value",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2070,
+        "y": 560,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2c7ddc3776f48174",
+        "type": "subflow:1fbf295f73cccb97",
+        "z": "62616833443f66d1",
+        "g": "6ef714d5a2569e8a",
+        "name": "",
+        "env": [],
+        "x": 2080,
+        "y": 600,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7e37a982f57920d6",
+        "type": "modbus-flex-write",
+        "z": "62616833443f66d1",
+        "g": "6ef714d5a2569e8a",
+        "name": "PyModbus",
+        "showStatusActivities": true,
+        "showErrors": true,
+        "server": "349cb045c05ea87d",
+        "emptyMsgOnFail": false,
+        "keepMsgProperties": false,
+        "x": 2070,
+        "y": 660,
+        "wires": [
+            [],
+            []
+        ]
+    },
+    {
+        "id": "075186ebd79ef2c7",
+        "type": "function",
+        "z": "62616833443f66d1",
+        "g": "6ef714d5a2569e8a",
+        "name": "LastRefLocal",
+        "func": "var reference = global.get(\"C2S.Last_Reference.Value\")||0;\nreference = reference*10;\ncontext.set(\"reference\", reference,\"memoryOnly\");\n\nif(reference != 0){\n    msg.payload = {\n        value: [reference],\n        'fc': 16,\n        'unitid': 1,\n        'address': 56,\n        'quantity': 1\n    }\n    return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1770,
+        "y": 560,
+        "wires": [
+            [
+                "7e37a982f57920d6"
+            ]
+        ]
+    },
+    {
+        "id": "2e514d097ce744f4",
+        "type": "debug",
+        "z": "62616833443f66d1",
+        "g": "6ef714d5a2569e8a",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": true,
+        "complete": "payload[0]",
+        "targetType": "msg",
+        "statusVal": "payload",
+        "statusType": "auto",
+        "x": 1930,
+        "y": 680,
+        "wires": []
+    },
+    {
+        "id": "8f319fcf5c83e959",
+        "type": "inject",
+        "z": "62616833443f66d1",
+        "g": "6ef714d5a2569e8a",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 1620,
+        "y": 500,
+        "wires": [
+            []
         ]
     }
 ]
