@@ -1466,9 +1466,7 @@
             "eb91dac5.690838"
         ],
         "x": -12,
-        "y": 13,
-        "w": 1664,
-        "h": 1200
+        "y": 13
     },
     {
         "id": "e98dc6a9.24ece8",
@@ -1522,9 +1520,7 @@
             "996a9142c814ab39"
         ],
         "x": 24,
-        "y": 429,
-        "w": 712,
-        "h": 242
+        "y": 429
     },
     {
         "id": "6abd418f.d175b",
@@ -1539,9 +1535,7 @@
             "b2f2659a.67f648"
         ],
         "x": 18,
-        "y": 23,
-        "w": 1754,
-        "h": 404
+        "y": 23
     },
     {
         "id": "8c207e440fb46f33",
@@ -1557,9 +1551,7 @@
             "9f77b0d829ad914b"
         ],
         "x": 514,
-        "y": 769,
-        "w": 282,
-        "h": 82
+        "y": 769
     },
     {
         "id": "38940f8.c9c27f",
@@ -2051,9 +2043,7 @@
             "675af0d1.a9fc4"
         ],
         "x": 22,
-        "y": 27,
-        "w": 1186,
-        "h": 846
+        "y": 27
     },
     {
         "id": "3a4b00b6e7d09e3a",
@@ -2109,9 +2099,7 @@
             "7c0eb170.c43d1"
         ],
         "x": 1234,
-        "y": 149,
-        "w": 1452,
-        "h": 632
+        "y": 149
     },
     {
         "id": "e3aa057d.09fb18",
@@ -2128,9 +2116,7 @@
             "b9df7528.923398"
         ],
         "x": 28,
-        "y": 23,
-        "w": 2970,
-        "h": 1062
+        "y": 23
     },
     {
         "id": "83483662ea05d247",
@@ -2360,7 +2346,8 @@
             "43dcdfeaddbb3ac6",
             "5bd4c7b34ec6fe9c",
             "99f9105506b7eaa8",
-            "9661d016b799c47d"
+            "9661d016b799c47d",
+            "9d8018f614d8e077"
         ],
         "x": 24,
         "y": 1359,
@@ -2517,9 +2504,7 @@
             "b88575ca75fdb4f5"
         ],
         "x": 754,
-        "y": 429,
-        "w": 922,
-        "h": 82
+        "y": 429
     },
     {
         "id": "d175fb986dc9e991",
@@ -2539,9 +2524,7 @@
             "36c70d85dac8cd26"
         ],
         "x": 754,
-        "y": 519,
-        "w": 922,
-        "h": 82
+        "y": 519
     },
     {
         "id": "62fac95632266b01",
@@ -3322,9 +3305,7 @@
             "74b76e998626d493"
         ],
         "x": 634,
-        "y": 59,
-        "w": 692,
-        "h": 222
+        "y": 59
     },
     {
         "id": "da9df0726c99ccd4",
@@ -3343,9 +3324,7 @@
             "85301d7a2ecfe880"
         ],
         "x": 34,
-        "y": 59,
-        "w": 592,
-        "h": 142
+        "y": 59
     },
     {
         "id": "de4f6c6fd5bcf584",
@@ -3367,9 +3346,99 @@
             "80c21456b4d66fef"
         ],
         "x": 64,
-        "y": 399,
-        "w": 882,
-        "h": 162
+        "y": 399
+    },
+    {
+        "id": "2da065ba546c3529",
+        "type": "group",
+        "z": "2e27dea6.c4c362",
+        "name": "Indicadores estado actual VSD",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "49eefc23668eacd0",
+            "39c587eb1dfd0df6",
+            "255328c3e9bd4b69",
+            "301066560d7b659f",
+            "6d61af0667e7f61e",
+            "901a66b7cc2a5dbc",
+            "e29e3c386ea2a8cf",
+            "4f16db56f6573d19"
+        ],
+        "x": 54,
+        "y": 1599,
+        "w": 252,
+        "h": 362
+    },
+    {
+        "id": "08268a4bd4859ab8",
+        "type": "group",
+        "z": "2e27dea6.c4c362",
+        "name": "Indicadores referencia ingresada al VSD",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "4aece4600a8cdd60",
+            "65372cca897b7b96",
+            "65ceb1bcdc34d3d1",
+            "86b19ce336cc17d0",
+            "c5a71b87c7af24bb",
+            "5f351110e15c737d",
+            "4a6bf4c4eb87ae20",
+            "6851287c677ff13c"
+        ],
+        "x": 334,
+        "y": 1599,
+        "w": 259,
+        "h": 362
+    },
+    {
+        "id": "998532256f00cecc",
+        "type": "group",
+        "z": "2e27dea6.c4c362",
+        "name": "Relación de transformación",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "ce16893d117ab620",
+            "f4d0996a7c4bfa74",
+            "698c633c05f729cf",
+            "0d43cc58b9c941be",
+            "9efccfa00a368131",
+            "a94c97a35546a86e",
+            "b70d1b5d49c30bb1",
+            "db71d8c7a283a526"
+        ],
+        "x": 614,
+        "y": 1599,
+        "w": 252,
+        "h": 362
+    },
+    {
+        "id": "a52d17ad75acd9f6",
+        "type": "group",
+        "z": "2e27dea6.c4c362",
+        "name": "Datos de dirección IP",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "44c01bb62561018a",
+            "781e146bc6ccd51d",
+            "f37caa43e5bdd65c",
+            "3c6559c39f49ad55",
+            "c8f8a61db9ec9892",
+            "ea47fc1bfe310629",
+            "c9d95e877bcbe5af",
+            "fb25711aad99f0ab"
+        ],
+        "x": 914,
+        "y": 1599,
+        "w": 282,
+        "h": 362
     },
     {
         "id": "77dcd918.f8c298",
@@ -3689,9 +3758,7 @@
             "b045615539735b86"
         ],
         "x": 14,
-        "y": 463,
-        "w": 958,
-        "h": 724
+        "y": 463
     },
     {
         "id": "eb91dac5.690838",
@@ -3745,9 +3812,7 @@
             "e9b1c7933c86ffa9"
         ],
         "x": 44,
-        "y": 39,
-        "w": 1582,
-        "h": 402
+        "y": 39
     },
     {
         "id": "8ed62712.fe2018",
@@ -3780,9 +3845,7 @@
             "c30439cc.4bcb68"
         ],
         "x": 44,
-        "y": 49,
-        "w": 1422,
-        "h": 212
+        "y": 49
     },
     {
         "id": "b2f2659a.67f648",
@@ -3811,9 +3874,7 @@
             "2c9d8d63e1dd0fbe"
         ],
         "x": 44,
-        "y": 269,
-        "w": 1702,
-        "h": 132
+        "y": 269
     },
     {
         "id": "70a63b74.44894c",
@@ -3929,9 +3990,7 @@
             "9bdf522.eba6db"
         ],
         "x": 48,
-        "y": 53,
-        "w": 1134,
-        "h": 794
+        "y": 53
     },
     {
         "id": "dad84feb.d4773",
@@ -4009,9 +4068,7 @@
             "a5e1205e8fe1feed"
         ],
         "x": 54,
-        "y": 359,
-        "w": 1832,
-        "h": 700
+        "y": 359
     },
     {
         "id": "7aad629d.de652c",
@@ -4075,9 +4132,7 @@
             "b4c9b17bde2f220c"
         ],
         "x": 54,
-        "y": 49,
-        "w": 2762,
-        "h": 302
+        "y": 49
     },
     {
         "id": "8f8a192b.bb2ef8",
@@ -4105,9 +4160,7 @@
             "4e19cfd4.3982f"
         ],
         "x": 1894,
-        "y": 439,
-        "w": 1062,
-        "h": 232
+        "y": 439
     },
     {
         "id": "b9df7528.923398",
@@ -4123,9 +4176,7 @@
             "65994a87.9d5eb4"
         ],
         "x": 1898,
-        "y": 683,
-        "w": 1074,
-        "h": 134
+        "y": 683
     },
     {
         "id": "6625e1db09743bc3",
@@ -5320,9 +5371,7 @@
             "ecd73acb6f9a9a0a"
         ],
         "x": 584,
-        "y": 959,
-        "w": 362,
-        "h": 202
+        "y": 959
     },
     {
         "id": "64ff74e5.f4c53c",
@@ -5342,9 +5391,7 @@
             "c1672804cba19e98"
         ],
         "x": 574,
-        "y": 489,
-        "w": 172,
-        "h": 212
+        "y": 489
     },
     {
         "id": "be55ea76.ed4478",
@@ -5365,9 +5412,7 @@
             "41b82348a8ab40a8"
         ],
         "x": 564,
-        "y": 719,
-        "w": 372,
-        "h": 202
+        "y": 719
     },
     {
         "id": "1d477816.993308",
@@ -5386,9 +5431,7 @@
             "d0a19b38.893ab8"
         ],
         "x": 74,
-        "y": 79,
-        "w": 1042,
-        "h": 162
+        "y": 79
     },
     {
         "id": "9bdf522.eba6db",
@@ -5437,9 +5480,7 @@
             "86cba6e65b29fb7b"
         ],
         "x": 114,
-        "y": 249,
-        "w": 1042,
-        "h": 572
+        "y": 249
     },
     {
         "id": "65994a87.9d5eb4",
@@ -5458,9 +5499,7 @@
             "f4363e16.f1813"
         ],
         "x": 1924,
-        "y": 709,
-        "w": 1022,
-        "h": 82
+        "y": 709
     },
     {
         "id": "dd4ef7f.6489508",
@@ -6709,102 +6748,6 @@
         "y": 839,
         "w": 1002,
         "h": 212
-    },
-    {
-        "id": "2da065ba546c3529",
-        "type": "group",
-        "z": "2e27dea6.c4c362",
-        "name": "Indicadores estado actual VSD",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "49eefc23668eacd0",
-            "39c587eb1dfd0df6",
-            "255328c3e9bd4b69",
-            "301066560d7b659f",
-            "08e45fd24ee2ea82",
-            "6d61af0667e7f61e",
-            "901a66b7cc2a5dbc",
-            "e29e3c386ea2a8cf",
-            "4f16db56f6573d19"
-        ],
-        "x": 54,
-        "y": 1599,
-        "w": 252,
-        "h": 362
-    },
-    {
-        "id": "08268a4bd4859ab8",
-        "type": "group",
-        "z": "2e27dea6.c4c362",
-        "name": "Indicadores referencia ingresada al VSD",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "4aece4600a8cdd60",
-            "65372cca897b7b96",
-            "65ceb1bcdc34d3d1",
-            "86b19ce336cc17d0",
-            "c5a71b87c7af24bb",
-            "5f351110e15c737d",
-            "4a6bf4c4eb87ae20",
-            "8f733c08237a9158",
-            "6851287c677ff13c"
-        ],
-        "x": 334,
-        "y": 1599,
-        "w": 259,
-        "h": 362
-    },
-    {
-        "id": "998532256f00cecc",
-        "type": "group",
-        "z": "2e27dea6.c4c362",
-        "name": "Relación de transformación",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "ce16893d117ab620",
-            "f4d0996a7c4bfa74",
-            "698c633c05f729cf",
-            "0d43cc58b9c941be",
-            "6e163a0731f051d9",
-            "9efccfa00a368131",
-            "a94c97a35546a86e",
-            "b70d1b5d49c30bb1",
-            "db71d8c7a283a526"
-        ],
-        "x": 614,
-        "y": 1599,
-        "w": 252,
-        "h": 362
-    },
-    {
-        "id": "a52d17ad75acd9f6",
-        "type": "group",
-        "z": "2e27dea6.c4c362",
-        "name": "Datos de dirección IP",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "44c01bb62561018a",
-            "781e146bc6ccd51d",
-            "f37caa43e5bdd65c",
-            "358082194ba7f4ac",
-            "3c6559c39f49ad55",
-            "c8f8a61db9ec9892",
-            "ea47fc1bfe310629",
-            "c9d95e877bcbe5af",
-            "fb25711aad99f0ab"
-        ],
-        "x": 914,
-        "y": 1599,
-        "w": 282,
-        "h": 362
     },
     {
         "id": "d25d405a.19cff",
@@ -11946,7 +11889,8 @@
         "y": 1450,
         "wires": [
             [
-                "7358889e25a9730b"
+                "7358889e25a9730b",
+                "9d8018f614d8e077"
             ]
         ]
     },
@@ -89653,7 +89597,6 @@
                 "49eefc23668eacd0",
                 "255328c3e9bd4b69",
                 "301066560d7b659f",
-                "08e45fd24ee2ea82",
                 "6d61af0667e7f61e",
                 "901a66b7cc2a5dbc",
                 "e29e3c386ea2a8cf"
@@ -89812,84 +89755,6 @@
         "name": "",
         "x": 230,
         "y": 1720,
-        "wires": []
-    },
-    {
-        "id": "08e45fd24ee2ea82",
-        "type": "ui_led",
-        "z": "2e27dea6.c4c362",
-        "d": true,
-        "g": "2da065ba546c3529",
-        "order": 1,
-        "group": "ac27a3905053ab85",
-        "width": "4",
-        "height": 1,
-        "label": "C2S: {{msg.payload}}",
-        "labelPlacement": "right",
-        "labelAlignment": "left",
-        "colorForValue": [
-            {
-                "color": "#ff0000",
-                "value": "FALLA de variador!",
-                "valueType": "str"
-            },
-            {
-                "color": "#ff0000",
-                "value": "FALLA de protección!",
-                "valueType": "str"
-            },
-            {
-                "color": "#ffa500",
-                "value": "ALARMA!",
-                "valueType": "str"
-            },
-            {
-                "color": "#008000",
-                "value": "EN MARCHA",
-                "valueType": "str"
-            },
-            {
-                "color": "#008000",
-                "value": "ACTIVO Acelerando",
-                "valueType": "str"
-            },
-            {
-                "color": "#008000",
-                "value": "ACTIVO Desacelerando",
-                "valueType": "str"
-            },
-            {
-                "color": "#808080",
-                "value": "DETENIDO",
-                "valueType": "str"
-            },
-            {
-                "color": "#000000",
-                "value": "Falla de comunicación",
-                "valueType": "str"
-            },
-            {
-                "color": "#ffff00",
-                "value": "Variador deshabilitado",
-                "valueType": "str"
-            },
-            {
-                "color": "#ff0000",
-                "value": "Falla general",
-                "valueType": "str"
-            },
-            {
-                "color": "#ffa500",
-                "value": "Falla communicación I/O",
-                "valueType": "str"
-            }
-        ],
-        "allowColorForValueInMessage": false,
-        "shape": "circle",
-        "showGlow": true,
-        "name": "",
-        "x": 230,
-        "y": 1760,
         "wires": []
     },
     {
@@ -90334,24 +90199,6 @@
         "wires": []
     },
     {
-        "id": "8f733c08237a9158",
-        "type": "ui_text",
-        "z": "2e27dea6.c4c362",
-        "d": true,
-        "g": "08268a4bd4859ab8",
-        "group": "503fa0fc34368bef",
-        "order": 2,
-        "width": 2,
-        "height": 1,
-        "name": "",
-        "label": "Ref: ",
-        "format": "  {{msg.payload}}",
-        "layout": "row-center",
-        "x": 510,
-        "y": 1760,
-        "wires": []
-    },
-    {
         "id": "6851287c677ff13c",
         "type": "link in",
         "z": "2e27dea6.c4c362",
@@ -90367,7 +90214,6 @@
                 "4aece4600a8cdd60",
                 "65372cca897b7b96",
                 "65ceb1bcdc34d3d1",
-                "8f733c08237a9158",
                 "86b19ce336cc17d0",
                 "c5a71b87c7af24bb",
                 "5f351110e15c737d",
@@ -90404,7 +90250,6 @@
                 "f4d0996a7c4bfa74",
                 "698c633c05f729cf",
                 "0d43cc58b9c941be",
-                "6e163a0731f051d9",
                 "9efccfa00a368131",
                 "a94c97a35546a86e",
                 "b70d1b5d49c30bb1",
@@ -90418,7 +90263,7 @@
         "z": "2e27dea6.c4c362",
         "g": "998532256f00cecc",
         "group": "ac27a3905053ab85",
-        "order": 3,
+        "order": 4,
         "width": 1,
         "height": 1,
         "name": "",
@@ -90435,7 +90280,7 @@
         "z": "2e27dea6.c4c362",
         "g": "998532256f00cecc",
         "group": "004d1834de0cfaf4",
-        "order": 3,
+        "order": 4,
         "width": 1,
         "height": 1,
         "name": "",
@@ -90452,7 +90297,7 @@
         "z": "2e27dea6.c4c362",
         "g": "998532256f00cecc",
         "group": "4194befa15c3251e",
-        "order": 3,
+        "order": 4,
         "width": 1,
         "height": 1,
         "name": "",
@@ -90464,30 +90309,12 @@
         "wires": []
     },
     {
-        "id": "6e163a0731f051d9",
-        "type": "ui_text",
-        "z": "2e27dea6.c4c362",
-        "d": true,
-        "g": "998532256f00cecc",
-        "group": "4f5b8416.cada1c",
-        "order": 3,
-        "width": 1,
-        "height": 1,
-        "name": "",
-        "label": "Rtx: ",
-        "format": "  {{msg.payload}}",
-        "layout": "row-center",
-        "x": 790,
-        "y": 1760,
-        "wires": []
-    },
-    {
         "id": "9efccfa00a368131",
         "type": "ui_text",
         "z": "2e27dea6.c4c362",
         "g": "998532256f00cecc",
         "group": "503fa0fc34368bef",
-        "order": 3,
+        "order": 4,
         "width": 1,
         "height": 1,
         "name": "",
@@ -90504,7 +90331,7 @@
         "z": "2e27dea6.c4c362",
         "g": "998532256f00cecc",
         "group": "73d37e5b1f2a302a",
-        "order": 3,
+        "order": 4,
         "width": 1,
         "height": 1,
         "name": "",
@@ -90521,7 +90348,7 @@
         "z": "2e27dea6.c4c362",
         "g": "998532256f00cecc",
         "group": "ab77be5a0af25d0a",
-        "order": 3,
+        "order": 4,
         "width": 1,
         "height": 1,
         "name": "",
@@ -90538,7 +90365,7 @@
         "z": "2e27dea6.c4c362",
         "g": "998532256f00cecc",
         "group": "ffa9778f5ac19260",
-        "order": 3,
+        "order": 4,
         "width": 1,
         "height": 1,
         "name": "",
@@ -90573,7 +90400,7 @@
         "g": "a52d17ad75acd9f6",
         "name": "Versión",
         "group": "ac27a3905053ab85",
-        "order": 4,
+        "order": 6,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -90601,7 +90428,7 @@
         "g": "a52d17ad75acd9f6",
         "name": "Versión",
         "group": "004d1834de0cfaf4",
-        "order": 4,
+        "order": 6,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -90629,7 +90456,7 @@
         "g": "a52d17ad75acd9f6",
         "name": "Versión",
         "group": "4194befa15c3251e",
-        "order": 4,
+        "order": 6,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -90651,42 +90478,13 @@
         ]
     },
     {
-        "id": "358082194ba7f4ac",
-        "type": "ui_button",
-        "z": "2e27dea6.c4c362",
-        "d": true,
-        "g": "a52d17ad75acd9f6",
-        "name": "Versión",
-        "group": "4f5b8416.cada1c",
-        "order": 4,
-        "width": 1,
-        "height": 1,
-        "passthru": false,
-        "label": "",
-        "tooltip": "",
-        "color": "#000000",
-        "bgcolor": "#e7e9e8",
-        "icon": "fa-television",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "",
-        "topicType": "str",
-        "x": 1000,
-        "y": 1760,
-        "wires": [
-            [
-                "fb25711aad99f0ab"
-            ]
-        ]
-    },
-    {
         "id": "3c6559c39f49ad55",
         "type": "ui_button",
         "z": "2e27dea6.c4c362",
         "g": "a52d17ad75acd9f6",
         "name": "Versión",
         "group": "503fa0fc34368bef",
-        "order": 4,
+        "order": 6,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -90714,7 +90512,7 @@
         "g": "a52d17ad75acd9f6",
         "name": "Versión",
         "group": "73d37e5b1f2a302a",
-        "order": 4,
+        "order": 6,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -90742,7 +90540,7 @@
         "g": "a52d17ad75acd9f6",
         "name": "Versión",
         "group": "ab77be5a0af25d0a",
-        "order": 4,
+        "order": 6,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -90770,7 +90568,7 @@
         "g": "a52d17ad75acd9f6",
         "name": "Versión",
         "group": "ffa9778f5ac19260",
-        "order": 4,
+        "order": 6,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -90822,14 +90620,14 @@
         "type": "ui_text",
         "z": "2e27dea6.c4c362",
         "group": "ffa9778f5ac19260",
-        "order": 15,
-        "width": "3",
+        "order": 5,
+        "width": "2",
         "height": "1",
         "name": "",
-        "label": "Presión Entrada:",
+        "label": "PIP:",
         "format": "{{msg.payload}} psi",
         "layout": "row-center",
-        "x": 250,
+        "x": 210,
         "y": 2340,
         "wires": []
     },
@@ -90849,7 +90647,6 @@
                 "fd9df925b6b07f76",
                 "2056eb0f7e7e2bf2",
                 "db5b715c8277123d",
-                "6ef975b2108baa2f",
                 "6cdc598e6316204d",
                 "2f3550a6539bebbd",
                 "52d9af58eeda01b4",
@@ -90862,14 +90659,14 @@
         "type": "ui_text",
         "z": "2e27dea6.c4c362",
         "group": "ac27a3905053ab85",
-        "order": 15,
-        "width": "3",
+        "order": 5,
+        "width": "2",
         "height": "1",
         "name": "",
-        "label": "Presión Entrada:",
+        "label": "PIP:",
         "format": "{{msg.payload}} psi",
         "layout": "row-center",
-        "x": 250,
+        "x": 210,
         "y": 2060,
         "wires": []
     },
@@ -90878,14 +90675,14 @@
         "type": "ui_text",
         "z": "2e27dea6.c4c362",
         "group": "004d1834de0cfaf4",
-        "order": 15,
-        "width": "3",
+        "order": 5,
+        "width": "2",
         "height": "1",
         "name": "",
-        "label": "Presión Entrada:",
+        "label": "PIP:",
         "format": "{{msg.payload}} psi",
         "layout": "row-center",
-        "x": 250,
+        "x": 210,
         "y": 2100,
         "wires": []
     },
@@ -90894,32 +90691,15 @@
         "type": "ui_text",
         "z": "2e27dea6.c4c362",
         "group": "4194befa15c3251e",
-        "order": 15,
-        "width": "3",
+        "order": 5,
+        "width": "2",
         "height": "1",
         "name": "",
-        "label": "Presión Entrada:",
+        "label": "PIP:",
         "format": "{{msg.payload}} psi",
         "layout": "row-center",
-        "x": 250,
+        "x": 210,
         "y": 2140,
-        "wires": []
-    },
-    {
-        "id": "6ef975b2108baa2f",
-        "type": "ui_text",
-        "z": "2e27dea6.c4c362",
-        "d": true,
-        "group": "ffa9778f5ac19260",
-        "order": 15,
-        "width": "3",
-        "height": "1",
-        "name": "",
-        "label": "Presión Entrada:",
-        "format": "{{msg.payload}} psi",
-        "layout": "row-center",
-        "x": 250,
-        "y": 2180,
         "wires": []
     },
     {
@@ -90927,14 +90707,14 @@
         "type": "ui_text",
         "z": "2e27dea6.c4c362",
         "group": "503fa0fc34368bef",
-        "order": 15,
-        "width": "3",
+        "order": 5,
+        "width": "2",
         "height": "1",
         "name": "",
-        "label": "Presión Entrada:",
+        "label": "PIP:",
         "format": "{{msg.payload}} psi",
         "layout": "row-center",
-        "x": 250,
+        "x": 210,
         "y": 2220,
         "wires": []
     },
@@ -90943,14 +90723,14 @@
         "type": "ui_text",
         "z": "2e27dea6.c4c362",
         "group": "73d37e5b1f2a302a",
-        "order": 15,
-        "width": "3",
+        "order": 5,
+        "width": "2",
         "height": "1",
         "name": "",
-        "label": "Presión Entrada:",
+        "label": "PIP:",
         "format": "{{msg.payload}} psi",
         "layout": "row-center",
-        "x": 250,
+        "x": 210,
         "y": 2260,
         "wires": []
     },
@@ -90959,14 +90739,14 @@
         "type": "ui_text",
         "z": "2e27dea6.c4c362",
         "group": "ab77be5a0af25d0a",
-        "order": 15,
-        "width": "3",
+        "order": 5,
+        "width": "2",
         "height": "1",
         "name": "",
-        "label": "Presión Entrada:",
+        "label": "PIP:",
         "format": "{{msg.payload}} psi",
         "layout": "row-center",
-        "x": 250,
+        "x": 210,
         "y": 2300,
         "wires": []
     },
@@ -90976,14 +90756,161 @@
         "z": "2e27dea6.c4c362",
         "group": "4f5b8416.cada1c",
         "order": 15,
-        "width": "3",
+        "width": "2",
         "height": "1",
         "name": "",
-        "label": "Presión Entrada:",
+        "label": "PIP:",
         "format": "{{msg.payload}} psi",
         "layout": "row-center",
-        "x": 250,
+        "x": 210,
         "y": 2020,
+        "wires": []
+    },
+    {
+        "id": "9d8018f614d8e077",
+        "type": "link out",
+        "z": "902fc438.e5d758",
+        "g": "086b9d08c3b68939",
+        "name": "Frecuencia actual",
+        "links": [
+            "3d9c6b81e9f98830"
+        ],
+        "x": 785,
+        "y": 1460,
+        "wires": []
+    },
+    {
+        "id": "ba3a3c9fe2fc1118",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "group": "ac27a3905053ab85",
+        "order": 3,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "Vel. Actual:",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "x": 530,
+        "y": 2020,
+        "wires": []
+    },
+    {
+        "id": "3d9c6b81e9f98830",
+        "type": "link in",
+        "z": "2e27dea6.c4c362",
+        "name": "",
+        "links": [
+            "9d8018f614d8e077"
+        ],
+        "x": 375,
+        "y": 2140,
+        "wires": [
+            [
+                "ba3a3c9fe2fc1118",
+                "90e328f62b239dc0",
+                "b2db056afe0c1791",
+                "d67948806bd97911",
+                "86035c80d5f22d8d",
+                "e33b148944092a64",
+                "cb79672c96e6b4aa"
+            ]
+        ]
+    },
+    {
+        "id": "d67948806bd97911",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "group": "004d1834de0cfaf4",
+        "order": 3,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "Vel. Actual:",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "x": 530,
+        "y": 2060,
+        "wires": []
+    },
+    {
+        "id": "b2db056afe0c1791",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "group": "4194befa15c3251e",
+        "order": 3,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "Vel. Actual:",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "x": 530,
+        "y": 2100,
+        "wires": []
+    },
+    {
+        "id": "90e328f62b239dc0",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "group": "503fa0fc34368bef",
+        "order": 3,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "Vel. Actual:",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "x": 530,
+        "y": 2180,
+        "wires": []
+    },
+    {
+        "id": "86035c80d5f22d8d",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "group": "73d37e5b1f2a302a",
+        "order": 3,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "Vel. Actual:",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "x": 530,
+        "y": 2220,
+        "wires": []
+    },
+    {
+        "id": "e33b148944092a64",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "group": "ab77be5a0af25d0a",
+        "order": 3,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "Vel. Actual:",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "x": 530,
+        "y": 2260,
+        "wires": []
+    },
+    {
+        "id": "cb79672c96e6b4aa",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "group": "ffa9778f5ac19260",
+        "order": 3,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "Vel. Actual:",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "x": 530,
+        "y": 2300,
         "wires": []
     }
 ]
