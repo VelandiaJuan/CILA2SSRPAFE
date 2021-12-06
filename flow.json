@@ -1031,7 +1031,9 @@
             "bfa48676.a364f8"
         ],
         "x": 14,
-        "y": 19
+        "y": 19,
+        "w": 432,
+        "h": 149.5
     },
     {
         "id": "d929d138.3b512",
@@ -1049,7 +1051,9 @@
             "ebd2954e5785409e"
         ],
         "x": 484,
-        "y": 19
+        "y": 19,
+        "w": 542,
+        "h": 122
     },
     {
         "id": "fcb3da61.429db8",
@@ -1173,7 +1177,9 @@
             "c41a251e.427c98"
         ],
         "x": -12,
-        "y": 1293
+        "y": 1293,
+        "w": 1574,
+        "h": 414
     },
     {
         "id": "43bab036.712ca",
@@ -1188,7 +1194,9 @@
             "e9d2f5f0.86a518"
         ],
         "x": -2,
-        "y": 523
+        "y": 523,
+        "w": 1484,
+        "h": 664
     },
     {
         "id": "54254b6e.789ca4",
@@ -1214,7 +1222,9 @@
             "16c036a47724813c"
         ],
         "x": 74,
-        "y": 1719
+        "y": 1719,
+        "w": 692,
+        "h": 242
     },
     {
         "id": "68e6bb30.d1fce4",
@@ -1229,7 +1239,9 @@
             "a7e99088.c8108"
         ],
         "x": -22,
-        "y": 133
+        "y": 133,
+        "w": 1584,
+        "h": 374
     },
     {
         "id": "8a04702.34fd29",
@@ -1246,7 +1258,9 @@
             "49534500.cd9cdc"
         ],
         "x": 804,
-        "y": 1719
+        "y": 1719,
+        "w": 291,
+        "h": 122
     },
     {
         "id": "d689e3de.7d569",
@@ -1270,7 +1284,9 @@
             "b5972fd3.3aeb7"
         ],
         "x": 174,
-        "y": 479
+        "y": 479,
+        "w": 602,
+        "h": 202
     },
     {
         "id": "9132da2c.b8c6b8",
@@ -1295,7 +1311,9 @@
             "8c4c4846.6ea308"
         ],
         "x": 174,
-        "y": 689
+        "y": 689,
+        "w": 602,
+        "h": 242
     },
     {
         "id": "9b538856.60fb38",
@@ -1473,7 +1491,9 @@
             "312d9def.84df32"
         ],
         "x": 74,
-        "y": 939
+        "y": 939,
+        "w": 702,
+        "h": 242
     },
     {
         "id": "3ae9fbe60d6132ea",
@@ -2003,7 +2023,9 @@
             "c22e3c27600ab315"
         ],
         "x": 1354,
-        "y": 99
+        "y": 99,
+        "w": 612,
+        "h": 242
     },
     {
         "id": "d84615.919209e8",
@@ -2109,7 +2131,9 @@
             "6625e1db09743bc3"
         ],
         "x": 18,
-        "y": 2593
+        "y": 2593,
+        "w": 1504,
+        "h": 294
     },
     {
         "id": "e1e65313b5eaa836",
@@ -2135,7 +2159,9 @@
             "77dcd918.f8c298"
         ],
         "x": 74,
-        "y": 1209
+        "y": 1209,
+        "w": 828,
+        "h": 368
     },
     {
         "id": "06c0dbf1bffe1e21",
@@ -2308,7 +2334,10 @@
             "0de54509db195c49",
             "cea28aee3bae5a4e",
             "43dcdfeaddbb3ac6",
-            "5bd4c7b34ec6fe9c"
+            "5bd4c7b34ec6fe9c",
+            "99f9105506b7eaa8",
+            "9661d016b799c47d",
+            "9d8018f614d8e077"
         ],
         "x": 24,
         "y": 1359
@@ -2373,7 +2402,9 @@
             "8a8fcb5375e06087"
         ],
         "x": 34,
-        "y": 2929
+        "y": 2929,
+        "w": 682,
+        "h": 122
     },
     {
         "id": "23c99fd.b16886",
@@ -2631,7 +2662,9 @@
             "d4914d8c.5439e"
         ],
         "x": 84,
-        "y": 1979
+        "y": 1979,
+        "w": 972,
+        "h": 582
     },
     {
         "id": "ec31a094.c373c",
@@ -2651,7 +2684,9 @@
             "9f627758.670cd8"
         ],
         "x": 3358,
-        "y": 93
+        "y": 93,
+        "w": 1534,
+        "h": 1614
     },
     {
         "id": "ab42d2fa.9240c",
@@ -2671,7 +2706,9 @@
             "82264d68.0b05a"
         ],
         "x": 3358,
-        "y": 1713
+        "y": 1713,
+        "w": 1334,
+        "h": 624
     },
     {
         "id": "96490ad3.d81618",
@@ -2691,7 +2728,9 @@
             "df7bb8.e05eb448"
         ],
         "x": 3364,
-        "y": 2349
+        "y": 2349,
+        "w": 752,
+        "h": 122
     },
     {
         "id": "bd17e5b9.9261f8",
@@ -2711,7 +2750,9 @@
             "aa730b91.5646d8"
         ],
         "x": 3364,
-        "y": 2479
+        "y": 2479,
+        "w": 752,
+        "h": 122
     },
     {
         "id": "6939ff44.377fa",
@@ -2749,7 +2790,9 @@
             "21cbefa5b43914e1"
         ],
         "x": 3364,
-        "y": 2609
+        "y": 2609,
+        "w": 952,
+        "h": 362
     },
     {
         "id": "365d864c.8c19ca",
@@ -2775,7 +2818,9 @@
             "e032b1f4.a8be7"
         ],
         "x": 1634,
-        "y": 97
+        "y": 97,
+        "w": 1684,
+        "h": 3906
     },
     {
         "id": "096b837a3a33f58b",
@@ -2971,7 +3016,9 @@
             "99ae975a33b3d452"
         ],
         "x": 14,
-        "y": 179
+        "y": 179,
+        "w": 762,
+        "h": 292
     },
     {
         "id": "474b22e105b31dff",
@@ -3011,7 +3058,9 @@
             "fec937a86891d165"
         ],
         "x": 734,
-        "y": 2919
+        "y": 2919,
+        "w": 542,
+        "h": 162
     },
     {
         "id": "b404dcea03126424",
@@ -3145,7 +3194,9 @@
             "0d38acc234ba861f"
         ],
         "x": 794,
-        "y": 479
+        "y": 479,
+        "w": 642,
+        "h": 162
     },
     {
         "id": "86af7867dc10f4a8",
@@ -3213,7 +3264,9 @@
             "168d5ee88883d9cb"
         ],
         "x": 794,
-        "y": 679
+        "y": 679,
+        "w": 562,
+        "h": 142
     },
     {
         "id": "5dc71a84bf12ae23",
@@ -3260,7 +3313,9 @@
             "85301d7a2ecfe880"
         ],
         "x": 34,
-        "y": 59
+        "y": 59,
+        "w": 592,
+        "h": 142
     },
     {
         "id": "de4f6c6fd5bcf584",
@@ -3282,7 +3337,9 @@
             "80c21456b4d66fef"
         ],
         "x": 64,
-        "y": 399
+        "y": 399,
+        "w": 882,
+        "h": 162
     },
     {
         "id": "77dcd918.f8c298",
@@ -3303,7 +3360,9 @@
             "54a6e602.e31808"
         ],
         "x": 234,
-        "y": 1389
+        "y": 1389,
+        "w": 642,
+        "h": 162
     },
     {
         "id": "1306de9a.9ba341",
@@ -3331,7 +3390,9 @@
             "4b2d01032ad01b5f"
         ],
         "x": 884,
-        "y": 1319
+        "y": 1319,
+        "w": 652,
+        "h": 282
     },
     {
         "id": "c41a251e.427c98",
@@ -3372,7 +3433,9 @@
             "2bc1c3b3873a2a66"
         ],
         "x": 14,
-        "y": 1319
+        "y": 1319,
+        "w": 862,
+        "h": 362
     },
     {
         "id": "27c43941.e9e0c6",
@@ -3430,7 +3493,9 @@
             "e56848afae482675"
         ],
         "x": 24,
-        "y": 549
+        "y": 549,
+        "w": 762,
+        "h": 612
     },
     {
         "id": "e9d2f5f0.86a518",
@@ -3463,7 +3528,9 @@
             "8307ca17.c4d5b8"
         ],
         "x": 814,
-        "y": 549
+        "y": 549,
+        "w": 642,
+        "h": 402
     },
     {
         "id": "6cdd72bc.8124cc",
@@ -3504,7 +3571,9 @@
             "8304d0a7b113fe6e"
         ],
         "x": 4,
-        "y": 159
+        "y": 159,
+        "w": 762,
+        "h": 322
     },
     {
         "id": "a7e99088.c8108",
@@ -3535,7 +3604,9 @@
             "aa882bcf32d6610f"
         ],
         "x": 784,
-        "y": 159
+        "y": 159,
+        "w": 752,
+        "h": 322
     },
     {
         "id": "31895ea6.22f372",
@@ -3968,7 +4039,9 @@
             "c7ce33ac338a9db9"
         ],
         "x": 44,
-        "y": 2619
+        "y": 2619,
+        "w": 1452,
+        "h": 242
     },
     {
         "id": "ef45fa052227c233",
@@ -4368,7 +4441,9 @@
             "3d1af80d.d5b9c8"
         ],
         "x": 3384,
-        "y": 119
+        "y": 119,
+        "w": 832,
+        "h": 1562
     },
     {
         "id": "9f627758.670cd8",
@@ -4440,7 +4515,9 @@
             "487147d15f5c304a"
         ],
         "x": 4224,
-        "y": 119
+        "y": 119,
+        "w": 642,
+        "h": 562
     },
     {
         "id": "78a8be83.7018c",
@@ -4471,7 +4548,9 @@
             "3f3a83c71b2f5a67"
         ],
         "x": 3394,
-        "y": 1829
+        "y": 1829,
+        "w": 1272,
+        "h": 482
     },
     {
         "id": "82264d68.0b05a",
@@ -4491,7 +4570,9 @@
             "84631e96.4b794"
         ],
         "x": 3384,
-        "y": 1739
+        "y": 1739,
+        "w": 682,
+        "h": 82
     },
     {
         "id": "8ac2b187.14625",
@@ -4512,7 +4593,9 @@
             "efe6d3f.f10193"
         ],
         "x": 1858,
-        "y": 2523
+        "y": 2523,
+        "w": 1434,
+        "h": 414
     },
     {
         "id": "9bb5d411.271d48",
@@ -4533,7 +4616,9 @@
             "44ee5bb3.49b264"
         ],
         "x": 1848,
-        "y": 1623
+        "y": 1623,
+        "w": 1444,
+        "h": 894
     },
     {
         "id": "dad86215.ed79c",
@@ -4554,7 +4639,9 @@
             "baaa353b.511268"
         ],
         "x": 1858,
-        "y": 3323
+        "y": 3323,
+        "w": 1434,
+        "h": 654
     },
     {
         "id": "dd0fb9ab.f737f8",
@@ -4575,7 +4662,9 @@
             "de31a457.a923c8"
         ],
         "x": 1858,
-        "y": 2943
+        "y": 2943,
+        "w": 1434,
+        "h": 374
     },
     {
         "id": "e032b1f4.a8be7",
@@ -4596,7 +4685,9 @@
             "e5ce125e.59232"
         ],
         "x": 1858,
-        "y": 123
+        "y": 123,
+        "w": 1424,
+        "h": 1494
     },
     {
         "id": "22196749d13fa9b3",
@@ -5049,7 +5140,8 @@
             "9d738004bb0f27ef",
             "39dd0088ebbfb91a",
             "ba9ae0f912c854be",
-            "21943ad363a68265"
+            "21943ad363a68265",
+            "926a1d996bc4f861"
         ],
         "x": 3434,
         "y": 1199
@@ -5396,7 +5488,9 @@
             "a3e0cd32.96432"
         ],
         "x": 1884,
-        "y": 2549
+        "y": 2549,
+        "w": 722,
+        "h": 362
     },
     {
         "id": "efe6d3f.f10193",
@@ -5432,7 +5526,9 @@
             "55372f1ea71702ea"
         ],
         "x": 2614,
-        "y": 2549
+        "y": 2549,
+        "w": 652,
+        "h": 202
     },
     {
         "id": "16097ef1.129291",
@@ -5507,7 +5603,9 @@
             "773ceaee.f160b4"
         ],
         "x": 1874,
-        "y": 1649
+        "y": 1649,
+        "w": 742,
+        "h": 842
     },
     {
         "id": "44ee5bb3.49b264",
@@ -5567,7 +5665,9 @@
             "6271ec419c9975fc"
         ],
         "x": 2614,
-        "y": 1649
+        "y": 1649,
+        "w": 652,
+        "h": 442
     },
     {
         "id": "372b998e.a167c6",
@@ -5624,7 +5724,9 @@
             "f06a3f08.5a752"
         ],
         "x": 1884,
-        "y": 3349
+        "y": 3349,
+        "w": 722,
+        "h": 602
     },
     {
         "id": "baaa353b.511268",
@@ -5672,7 +5774,9 @@
             "e3c99a130078517c"
         ],
         "x": 2614,
-        "y": 3349
+        "y": 3349,
+        "w": 652,
+        "h": 322
     },
     {
         "id": "826b087f.5615a8",
@@ -5704,7 +5808,9 @@
             "7cda2e346e20ca45"
         ],
         "x": 2614,
-        "y": 2969
+        "y": 2969,
+        "w": 652,
+        "h": 162
     },
     {
         "id": "de31a457.a923c8",
@@ -5740,7 +5846,9 @@
             "741d0ef6.6e951"
         ],
         "x": 1884,
-        "y": 2969
+        "y": 2969,
+        "w": 722,
+        "h": 322
     },
     {
         "id": "4a1410ce.7057a",
@@ -5840,7 +5948,9 @@
             "fa8a283c5830013a"
         ],
         "x": 1884,
-        "y": 149
+        "y": 149,
+        "w": 712,
+        "h": 1442
     },
     {
         "id": "e5ce125e.59232",
@@ -5917,7 +6027,9 @@
             "22341ae01ccb0b7c"
         ],
         "x": 2604,
-        "y": 149
+        "y": 149,
+        "w": 652,
+        "h": 642
     },
     {
         "id": "c2478f1687e8ccc7",
@@ -6600,7 +6712,7 @@
                     "edited": true
                 },
                 "group-borderColor": {
-                    "value": "#d7d7d7",
+                    "value": "#e7e9e8",
                     "edited": true
                 },
                 "group-backgroundColor": {
@@ -6782,7 +6894,7 @@
         "type": "ui_group",
         "name": "Placa de motor",
         "tab": "9d512981.aa8278",
-        "order": 5,
+        "order": 4,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -6792,7 +6904,7 @@
         "type": "ui_group",
         "name": "Voltios Hertz",
         "tab": "9d512981.aa8278",
-        "order": 9,
+        "order": 8,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -6802,7 +6914,7 @@
         "type": "ui_group",
         "name": "Rampas",
         "tab": "9d512981.aa8278",
-        "order": 14,
+        "order": 13,
         "disp": true,
         "width": "6",
         "collapse": false
@@ -6812,7 +6924,7 @@
         "type": "ui_group",
         "name": "Límites",
         "tab": "9d512981.aa8278",
-        "order": 15,
+        "order": 14,
         "disp": true,
         "width": "6",
         "collapse": false
@@ -6822,7 +6934,7 @@
         "type": "ui_group",
         "name": "Frecuencia LS",
         "tab": "9d512981.aa8278",
-        "order": 11,
+        "order": 10,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -6832,7 +6944,7 @@
         "type": "ui_group",
         "name": "Reg. Velocidad",
         "tab": "9d512981.aa8278",
-        "order": 12,
+        "order": 11,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -6842,7 +6954,7 @@
         "type": "ui_group",
         "name": "Sintonización",
         "tab": "9d512981.aa8278",
-        "order": 13,
+        "order": 12,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -6852,7 +6964,7 @@
         "type": "ui_group",
         "name": "Datos Filtro-Cable",
         "tab": "9d512981.aa8278",
-        "order": 20,
+        "order": 17,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -6862,7 +6974,7 @@
         "type": "ui_group",
         "name": "Datos de motor",
         "tab": "9d512981.aa8278",
-        "order": 7,
+        "order": 6,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -6872,7 +6984,7 @@
         "type": "ui_group",
         "name": "Datos de transformador",
         "tab": "9d512981.aa8278",
-        "order": 19,
+        "order": 16,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -6882,7 +6994,7 @@
         "type": "ui_group",
         "name": "Curvas de saturación",
         "tab": "9d512981.aa8278",
-        "order": 8,
+        "order": 7,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -6892,7 +7004,7 @@
         "type": "ui_group",
         "name": "NavPMM",
         "tab": "9d512981.aa8278",
-        "order": 4,
+        "order": 3,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -6902,7 +7014,7 @@
         "type": "ui_group",
         "name": "NavAjustesRef",
         "tab": "9d512981.aa8278",
-        "order": 10,
+        "order": 9,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -6912,7 +7024,7 @@
         "type": "ui_group",
         "name": "Nav-tab",
         "tab": "9d512981.aa8278",
-        "order": 2,
+        "order": 1,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -6922,7 +7034,7 @@
         "type": "ui_group",
         "name": "NavDatos de motor",
         "tab": "9d512981.aa8278",
-        "order": 6,
+        "order": 5,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -6932,7 +7044,7 @@
         "type": "ui_group",
         "name": "NavIM",
         "tab": "9d512981.aa8278",
-        "order": 3,
+        "order": 2,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -6951,7 +7063,7 @@
         "type": "ui_group",
         "name": "Relación de Transformación",
         "tab": "9d512981.aa8278",
-        "order": 18,
+        "order": 15,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -7168,7 +7280,7 @@
         "type": "ui_spacer",
         "name": "spacer",
         "group": "a706ea3d.b7fbc8",
-        "order": 4,
+        "order": 5,
         "width": 3,
         "height": 1
     },
@@ -7177,7 +7289,7 @@
         "type": "ui_spacer",
         "name": "spacer",
         "group": "a706ea3d.b7fbc8",
-        "order": 7,
+        "order": 8,
         "width": 3,
         "height": 1
     },
@@ -7316,7 +7428,6 @@
         "serialStopbits": "1",
         "serialParity": "none",
         "serialConnectionDelay": "100",
-        "serialAsciiResponseStartDelimiter": "",
         "unit_id": 5,
         "commandDelay": 1,
         "clientTimeout": 1000,
@@ -7342,7 +7453,6 @@
         "serialStopbits": "1",
         "serialParity": "none",
         "serialConnectionDelay": "100",
-        "serialAsciiResponseStartDelimiter": "",
         "unit_id": 1,
         "commandDelay": 1,
         "clientTimeout": 1000,
@@ -7378,7 +7488,6 @@
         "serialStopbits": "1",
         "serialParity": "none",
         "serialConnectionDelay": "100",
-        "serialAsciiResponseStartDelimiter": "",
         "unit_id": 1,
         "commandDelay": 1,
         "clientTimeout": 3000,
@@ -7440,7 +7549,6 @@
         "address": "192.168.2.10",
         "port": "44818",
         "userouting": false,
-        "routingbuf": "[1,0]",
         "cycletime": "500",
         "timeout": "1500",
         "name": "PowerFlex755T_Write",
@@ -7498,7 +7606,7 @@
         "type": "ui_spacer",
         "name": "spacer",
         "group": "a41af5be.52be18",
-        "order": 4,
+        "order": 5,
         "width": 6,
         "height": 1
     },
@@ -7729,7 +7837,7 @@
         "type": "ui_spacer",
         "name": "spacer",
         "group": "c0d4b517.4b9968",
-        "order": 7,
+        "order": 8,
         "width": 4,
         "height": 1
     },
@@ -7738,7 +7846,7 @@
         "type": "ui_spacer",
         "name": "spacer",
         "group": "c0d4b517.4b9968",
-        "order": 9,
+        "order": 10,
         "width": 4,
         "height": 1
     },
@@ -7747,7 +7855,7 @@
         "type": "ui_spacer",
         "name": "spacer",
         "group": "c0d4b517.4b9968",
-        "order": 10,
+        "order": 11,
         "width": 4,
         "height": 1
     },
@@ -7756,7 +7864,7 @@
         "type": "ui_spacer",
         "name": "spacer",
         "group": "c0d4b517.4b9968",
-        "order": 12,
+        "order": 13,
         "width": 4,
         "height": 1
     },
@@ -7765,7 +7873,7 @@
         "type": "ui_spacer",
         "name": "spacer",
         "group": "75fbd908.193868",
-        "order": 14,
+        "order": 15,
         "width": 1,
         "height": 1
     },
@@ -7774,7 +7882,7 @@
         "type": "ui_spacer",
         "name": "spacer",
         "group": "75fbd908.193868",
-        "order": 15,
+        "order": 16,
         "width": 4,
         "height": 1
     },
@@ -7783,7 +7891,7 @@
         "type": "ui_spacer",
         "name": "spacer",
         "group": "75fbd908.193868",
-        "order": 17,
+        "order": 18,
         "width": 4,
         "height": 1
     },
@@ -7828,7 +7936,7 @@
         "type": "ui_spacer",
         "name": "spacer",
         "group": "c9a29e84.68bd",
-        "order": 4,
+        "order": 5,
         "width": 4,
         "height": 1
     },
@@ -7837,7 +7945,7 @@
         "type": "ui_spacer",
         "name": "spacer",
         "group": "c9a29e84.68bd",
-        "order": 6,
+        "order": 7,
         "width": 4,
         "height": 1
     },
@@ -7846,7 +7954,7 @@
         "type": "ui_spacer",
         "name": "spacer",
         "group": "c9a29e84.68bd",
-        "order": 7,
+        "order": 8,
         "width": 4,
         "height": 1
     },
@@ -7855,7 +7963,7 @@
         "type": "ui_spacer",
         "name": "spacer",
         "group": "c9a29e84.68bd",
-        "order": 9,
+        "order": 10,
         "width": 4,
         "height": 1
     },
@@ -7936,7 +8044,7 @@
         "type": "ui_spacer",
         "name": "spacer",
         "group": "971dcd1e.a04d5",
-        "order": 1,
+        "order": 2,
         "width": 1,
         "height": 1
     },
@@ -7945,7 +8053,7 @@
         "type": "ui_spacer",
         "name": "spacer",
         "group": "971dcd1e.a04d5",
-        "order": 3,
+        "order": 4,
         "width": 1,
         "height": 1
     },
@@ -7954,7 +8062,7 @@
         "type": "ui_spacer",
         "name": "spacer",
         "group": "971dcd1e.a04d5",
-        "order": 4,
+        "order": 5,
         "width": 1,
         "height": 1
     },
@@ -7963,7 +8071,7 @@
         "type": "ui_spacer",
         "name": "spacer",
         "group": "971dcd1e.a04d5",
-        "order": 6,
+        "order": 7,
         "width": 1,
         "height": 1
     },
@@ -7972,7 +8080,7 @@
         "type": "ui_spacer",
         "name": "spacer",
         "group": "971dcd1e.a04d5",
-        "order": 7,
+        "order": 8,
         "width": 1,
         "height": 1
     },
@@ -7981,7 +8089,7 @@
         "type": "ui_spacer",
         "name": "spacer",
         "group": "971dcd1e.a04d5",
-        "order": 9,
+        "order": 10,
         "width": 1,
         "height": 1
     },
@@ -8044,7 +8152,7 @@
         "type": "ui_spacer",
         "name": "spacer",
         "group": "332af29a.076dee",
-        "order": 4,
+        "order": 5,
         "width": 4,
         "height": 1
     },
@@ -8053,7 +8161,7 @@
         "type": "ui_spacer",
         "name": "spacer",
         "group": "332af29a.076dee",
-        "order": 6,
+        "order": 7,
         "width": 4,
         "height": 1
     },
@@ -8175,15 +8283,6 @@
         "height": 1
     },
     {
-        "id": "3471a187.4e181e",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "4f87eabd.cfaf34",
-        "order": 3,
-        "width": 4,
-        "height": 1
-    },
-    {
         "id": "349cb045c05ea87d",
         "type": "modbus-client",
         "name": "PyModbusServer",
@@ -8227,146 +8326,6 @@
         "disp": true,
         "width": "12",
         "collapse": false
-    },
-    {
-        "id": "804c08767b73c42a",
-        "type": "ui_spacer",
-        "z": "edcda77493e16eaa",
-        "name": "spacer",
-        "group": "9457c46f.d710c8",
-        "order": 1,
-        "width": 4,
-        "height": 1
-    },
-    {
-        "id": "8451aa22bae5443c",
-        "type": "ui_spacer",
-        "z": "edcda77493e16eaa",
-        "name": "spacer",
-        "group": "999747fd.0e43c8",
-        "order": 1,
-        "width": 4,
-        "height": 1
-    },
-    {
-        "id": "b093849cae42285f",
-        "type": "ui_spacer",
-        "z": "edcda77493e16eaa",
-        "name": "spacer",
-        "group": "2d9cedce.ac17c2",
-        "order": 3,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "390338a666141c33",
-        "type": "ui_spacer",
-        "z": "edcda77493e16eaa",
-        "name": "spacer",
-        "group": "2d9cedce.ac17c2",
-        "order": 8,
-        "width": 3,
-        "height": 1
-    },
-    {
-        "id": "42a9b8af1eea7969",
-        "type": "ui_spacer",
-        "z": "edcda77493e16eaa",
-        "name": "spacer",
-        "group": "2d9cedce.ac17c2",
-        "order": 15,
-        "width": 3,
-        "height": 1
-    },
-    {
-        "id": "6d70aef460bcc3d2",
-        "type": "ui_spacer",
-        "z": "edcda77493e16eaa",
-        "name": "spacer",
-        "group": "7821f022.e6285",
-        "order": 2,
-        "width": 3,
-        "height": 1
-    },
-    {
-        "id": "03cbdc9127068d99",
-        "type": "ui_spacer",
-        "z": "edcda77493e16eaa",
-        "name": "spacer",
-        "group": "7821f022.e6285",
-        "order": 7,
-        "width": 3,
-        "height": 1
-    },
-    {
-        "id": "4452ec6b99f71c33",
-        "type": "ui_spacer",
-        "z": "edcda77493e16eaa",
-        "name": "spacer",
-        "group": "7821f022.e6285",
-        "order": 14,
-        "width": 3,
-        "height": 1
-    },
-    {
-        "id": "0f8846fd01970d58",
-        "type": "ui_spacer",
-        "z": "edcda77493e16eaa",
-        "name": "spacer",
-        "group": "aa8453cf.6d05a",
-        "order": 6,
-        "width": 3,
-        "height": 1
-    },
-    {
-        "id": "5c5f1da27f52d271",
-        "type": "ui_spacer",
-        "z": "edcda77493e16eaa",
-        "name": "spacer",
-        "group": "aa8453cf.6d05a",
-        "order": 9,
-        "width": 3,
-        "height": 1
-    },
-    {
-        "id": "29a815fb629982cf",
-        "type": "ui_spacer",
-        "z": "edcda77493e16eaa",
-        "name": "spacer",
-        "group": "bb07c4db34d108c3",
-        "order": 17,
-        "width": 4,
-        "height": 1
-    },
-    {
-        "id": "de4613bc1f2525ae",
-        "type": "ui_spacer",
-        "z": "edcda77493e16eaa",
-        "name": "spacer",
-        "group": "31eaf454d06be076",
-        "order": 9,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "731394ca361ae501",
-        "type": "ui_spacer",
-        "z": "edcda77493e16eaa",
-        "name": "spacer",
-        "group": "999747fd.0e43c8",
-        "order": 8,
-        "width": "0",
-        "height": "0"
-    },
-    {
-        "id": "4c7303adcc1fd9c4",
-        "type": "ui_spacer",
-        "z": "edcda77493e16eaa",
-        "name": "spacer",
-        "group": "9457c46f.d710c8",
-        "order": 8,
-        "width": "0",
-        "height": "0"
     },
     {
         "id": "a0a1bd2fd453f80e",
@@ -8625,186 +8584,6 @@
         "disp": false,
         "width": "12",
         "collapse": false
-    },
-    {
-        "id": "755589bbeb1d781f",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "2d559537.720c4a",
-        "order": 11,
-        "width": 3,
-        "height": 1
-    },
-    {
-        "id": "470964d2937b1a2b",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "f7aa27b.6c2ded8",
-        "order": 7,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "4b4aac8283f893f3",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "f7aa27b.6c2ded8",
-        "order": 9,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "2760ee01b0d20e29",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "f7aa27b.6c2ded8",
-        "order": 11,
-        "width": 7,
-        "height": 1
-    },
-    {
-        "id": "6fbd53a6105fd7a2",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "474271dc.04fa9",
-        "order": 11,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "994b136ca7af0656",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "26126cf5.7e87a4",
-        "order": 12,
-        "width": 3,
-        "height": 1
-    },
-    {
-        "id": "56a4c1652d082f2b",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "26126cf5.7e87a4",
-        "order": 16,
-        "width": 3,
-        "height": 1
-    },
-    {
-        "id": "976dfc4e5adfc6d9",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "ce90620a3fb9807d",
-        "order": 2,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "294e9cdc34c2f1c0",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "ce90620a3fb9807d",
-        "order": 6,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "684210d45a340b8d",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "ce90620a3fb9807d",
-        "order": 13,
-        "width": 4,
-        "height": 1
-    },
-    {
-        "id": "e8e33ed4bd9955f0",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "ce90620a3fb9807d",
-        "order": 16,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "2304b0ad8c890b00",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "1b027e16.1fc232",
-        "order": 1,
-        "width": "12",
-        "height": 1
-    },
-    {
-        "id": "ece5e3032a2ddce6",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "1b027e16.1fc232",
-        "order": 5,
-        "width": "12",
-        "height": 1
-    },
-    {
-        "id": "32d9c6f287166b46",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "1b027e16.1fc232",
-        "order": 9,
-        "width": "12",
-        "height": 1
-    },
-    {
-        "id": "95e02611ed9463cf",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "1b027e16.1fc232",
-        "order": 13,
-        "width": "12",
-        "height": 1
-    },
-    {
-        "id": "ce7765e80a58e0d3",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "1b027e16.1fc232",
-        "order": 17,
-        "width": "12",
-        "height": 1
-    },
-    {
-        "id": "d87098629e7f25de",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "26126cf5.7e87a4",
-        "order": 1,
-        "width": "12",
-        "height": 1
-    },
-    {
-        "id": "3b30577bd28b7a81",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "26126cf5.7e87a4",
-        "order": 6,
-        "width": "12",
-        "height": 1
-    },
-    {
-        "id": "a311d87b90007666",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "26126cf5.7e87a4",
-        "order": 11,
-        "width": "12",
-        "height": 1
-    },
-    {
-        "id": "8328530dad67d166",
-        "type": "ui_spacer",
-        "name": "spacer",
-        "group": "26126cf5.7e87a4",
-        "order": 17,
-        "width": "12",
-        "height": "2"
     },
     {
         "id": "021e969b990b83af",
@@ -10699,7 +10478,7 @@
         "g": "086b9d08c3b68939",
         "order": 1,
         "group": "4f5b8416.cada1c",
-        "width": 5,
+        "width": "4",
         "height": 1,
         "label": "C2S: {{msg.payload}}",
         "labelPlacement": "right",
@@ -10775,7 +10554,7 @@
         "z": "902fc438.e5d758",
         "g": "086b9d08c3b68939",
         "group": "4f5b8416.cada1c",
-        "order": 3,
+        "order": 4,
         "width": 1,
         "height": 1,
         "name": "",
@@ -10790,6 +10569,7 @@
         "id": "4c8f5a04.095bc4",
         "type": "function",
         "z": "902fc438.e5d758",
+        "d": true,
         "g": "086b9d08c3b68939",
         "name": "DateTime",
         "func": "// Date and Time Object\nvar DT      = new Date();\n\n// Date\nvar year    = DT.getFullYear();\nvar month   = DT.getMonth()+1;\nvar day     = DT.getDate();\n\n// Time\nvar hours   = DT.getHours();\nvar minutes = DT.getMinutes();  minutes = minutes <= 9 ? \"0\"+minutes : minutes;\nvar seconds = DT.getSeconds();  seconds = seconds <= 9 ? \"0\"+seconds : seconds;\n\n// Payload\nmsg.payload = day+\"/\"+month+\"/\"+year+\" \"+hours+\":\"+minutes+\":\"+seconds;\n\nreturn msg;",
@@ -10797,6 +10577,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 470,
         "y": 1550,
         "wires": [
@@ -10809,6 +10590,7 @@
         "id": "abd0a82a.ab2348",
         "type": "inject",
         "z": "902fc438.e5d758",
+        "d": true,
         "g": "086b9d08c3b68939",
         "name": "",
         "props": [
@@ -10834,9 +10616,10 @@
         "id": "933f301f.fcef1",
         "type": "ui_text",
         "z": "902fc438.e5d758",
+        "d": true,
         "g": "086b9d08c3b68939",
         "group": "4f5b8416.cada1c",
-        "order": 5,
+        "order": 7,
         "width": 3,
         "height": 1,
         "name": "clock",
@@ -10917,7 +10700,8 @@
         "wires": [
             [
                 "8cd193da.a662a",
-                "9adfcc994da72358"
+                "9adfcc994da72358",
+                "926a1d996bc4f861"
             ],
             [
                 "0bbf04862fbfae46"
@@ -10974,6 +10758,7 @@
         "label": "Presión Entrada",
         "format": "<font size =5px>{{msg.payload}}",
         "layout": "col-center",
+        "className": "",
         "x": 3740,
         "y": 1240,
         "wires": []
@@ -11714,7 +11499,8 @@
         "y": 1450,
         "wires": [
             [
-                "7358889e25a9730b"
+                "7358889e25a9730b",
+                "9d8018f614d8e077"
             ]
         ]
     },
@@ -12053,7 +11839,8 @@
         "wires": [
             [
                 "9523c57c.c9b468",
-                "5bd4c7b34ec6fe9c"
+                "5bd4c7b34ec6fe9c",
+                "99f9105506b7eaa8"
             ]
         ]
     },
@@ -13539,7 +13326,8 @@
         "y": 330,
         "wires": [
             [
-                "665fede5f3de1d98"
+                "665fede5f3de1d98",
+                "49cc9fccc3396220"
             ]
         ]
     },
@@ -13598,10 +13386,11 @@
         "width": 2,
         "height": 1,
         "name": "",
-        "label": "Ref: ",
+        "label": "Vel. Ref: ",
         "format": "  {{msg.payload}}",
         "layout": "row-center",
-        "x": 610,
+        "className": "",
+        "x": 620,
         "y": 330,
         "wires": []
     },
@@ -14401,7 +14190,7 @@
         "g": "086b9d08c3b68939",
         "name": "Versión",
         "group": "4f5b8416.cada1c",
-        "order": 4,
+        "order": 6,
         "width": 1,
         "height": 1,
         "passthru": false,
@@ -22863,7 +22652,7 @@
         "label": "Tensión (V)",
         "tooltip": "",
         "group": "c0d4b517.4b9968",
-        "order": 1,
+        "order": 2,
         "width": 4,
         "height": 1,
         "passthru": true,
@@ -22887,7 +22676,7 @@
         "label": "Corriente (A)",
         "tooltip": "",
         "group": "c0d4b517.4b9968",
-        "order": 2,
+        "order": 3,
         "width": 4,
         "height": 1,
         "passthru": true,
@@ -22911,7 +22700,7 @@
         "label": "Frecuencia (Hz)",
         "tooltip": "",
         "group": "c0d4b517.4b9968",
-        "order": 3,
+        "order": 4,
         "width": 4,
         "height": 1,
         "passthru": true,
@@ -22935,7 +22724,7 @@
         "label": "Frecuencia (RPM)",
         "tooltip": "",
         "group": "c0d4b517.4b9968",
-        "order": 4,
+        "order": 5,
         "width": 4,
         "height": 1,
         "passthru": true,
@@ -22959,7 +22748,7 @@
         "label": "Potencia",
         "tooltip": "",
         "group": "c0d4b517.4b9968",
-        "order": 5,
+        "order": 6,
         "width": 4,
         "height": 1,
         "passthru": true,
@@ -22983,7 +22772,7 @@
         "label": "Polos",
         "tooltip": "",
         "group": "c0d4b517.4b9968",
-        "order": 6,
+        "order": 7,
         "width": 4,
         "height": 1,
         "passthru": true,
@@ -23329,7 +23118,7 @@
         "g": "e9d2f5f0.86a518",
         "name": "",
         "group": "c0d4b517.4b9968",
-        "order": 11,
+        "order": 12,
         "width": 4,
         "height": 1,
         "passthru": false,
@@ -23656,7 +23445,7 @@
         "g": "1306de9a.9ba341",
         "name": "",
         "group": "c9a29e84.68bd",
-        "order": 8,
+        "order": 9,
         "width": 4,
         "height": 1,
         "passthru": false,
@@ -23834,7 +23623,7 @@
         "tooltip": "",
         "place": "",
         "group": "c0d4b517.4b9968",
-        "order": 8,
+        "order": 9,
         "width": 4,
         "height": 1,
         "passthru": true,
@@ -23977,7 +23766,7 @@
         "label": "Rampa de aceleración",
         "tooltip": "",
         "group": "971dcd1e.a04d5",
-        "order": 2,
+        "order": 3,
         "width": 4,
         "height": 1,
         "passthru": true,
@@ -24001,7 +23790,7 @@
         "label": "Rampa de desaceleración",
         "tooltip": "",
         "group": "971dcd1e.a04d5",
-        "order": 5,
+        "order": 6,
         "width": 4,
         "height": 1,
         "passthru": true,
@@ -24319,7 +24108,7 @@
         "g": "a7e99088.c8108",
         "name": "",
         "group": "971dcd1e.a04d5",
-        "order": 8,
+        "order": 9,
         "width": 4,
         "height": 1,
         "passthru": false,
@@ -25909,7 +25698,7 @@
         "label": "Tensión de arranque (V)",
         "tooltip": "",
         "group": "c9a29e84.68bd",
-        "order": 1,
+        "order": 2,
         "width": 4,
         "height": 1,
         "passthru": false,
@@ -25987,7 +25776,7 @@
         "label": "Tensión de ruptura (V)",
         "tooltip": "",
         "group": "c9a29e84.68bd",
-        "order": 2,
+        "order": 3,
         "width": 4,
         "height": 1,
         "passthru": false,
@@ -26065,7 +25854,7 @@
         "label": "Frecuencia de ruptura (Hz)",
         "tooltip": "",
         "group": "c9a29e84.68bd",
-        "order": 3,
+        "order": 4,
         "width": 4,
         "height": 1,
         "passthru": false,
@@ -26143,7 +25932,7 @@
         "label": "Corriente límite Drive (A)",
         "tooltip": "",
         "group": "c9a29e84.68bd",
-        "order": 5,
+        "order": 6,
         "width": 4,
         "height": 1,
         "passthru": false,
@@ -26454,7 +26243,7 @@
         "label": "Corriente nominal primario",
         "tooltip": "",
         "group": "332af29a.076dee",
-        "order": 1,
+        "order": 2,
         "width": 4,
         "height": 1,
         "passthru": false,
@@ -26478,7 +26267,7 @@
         "label": "Tensión Secundario",
         "tooltip": "",
         "group": "332af29a.076dee",
-        "order": 2,
+        "order": 3,
         "width": 4,
         "height": 1,
         "passthru": false,
@@ -26502,7 +26291,7 @@
         "label": "Caida de tensión",
         "tooltip": "",
         "group": "332af29a.076dee",
-        "order": 3,
+        "order": 4,
         "width": 4,
         "height": 1,
         "passthru": false,
@@ -26735,7 +26524,7 @@
         "g": "6625e1db09743bc3",
         "name": "Confirmar",
         "group": "332af29a.076dee",
-        "order": 5,
+        "order": 6,
         "width": 4,
         "height": 1,
         "passthru": false,
@@ -28391,7 +28180,7 @@
         "tooltip": "",
         "place": "Seleccione",
         "group": "a41af5be.52be18",
-        "order": 2,
+        "order": 3,
         "width": 6,
         "height": 1,
         "passthru": true,
@@ -28433,7 +28222,7 @@
         "label": "Tasa de muestreo",
         "tooltip": "",
         "group": "a41af5be.52be18",
-        "order": 1,
+        "order": 2,
         "width": 6,
         "height": 1,
         "passthru": false,
@@ -29149,7 +28938,7 @@
         "tooltip": "",
         "place": "Seleccione",
         "group": "a41af5be.52be18",
-        "order": 3,
+        "order": 4,
         "width": 6,
         "height": 1,
         "passthru": true,
@@ -30090,7 +29879,7 @@
         "z": "3af652c9.6f9bee",
         "g": "be55ea76.ed4478",
         "group": "a706ea3d.b7fbc8",
-        "order": 1,
+        "order": 2,
         "width": 0,
         "height": 0,
         "name": "",
@@ -30129,7 +29918,7 @@
         "g": "eb91dac5.690838",
         "name": "",
         "group": "a706ea3d.b7fbc8",
-        "order": 6,
+        "order": 7,
         "width": 3,
         "height": 1,
         "passthru": false,
@@ -30158,7 +29947,7 @@
         "label": "Nombre de usuario",
         "tooltip": "",
         "group": "a706ea3d.b7fbc8",
-        "order": 2,
+        "order": 3,
         "width": 6,
         "height": 1,
         "passthru": false,
@@ -30180,7 +29969,7 @@
         "g": "eb91dac5.690838",
         "name": "",
         "group": "a706ea3d.b7fbc8",
-        "order": 5,
+        "order": 6,
         "width": 3,
         "height": 1,
         "passthru": false,
@@ -30209,7 +29998,7 @@
         "label": "Contraseña",
         "tooltip": "",
         "group": "a706ea3d.b7fbc8",
-        "order": 3,
+        "order": 4,
         "width": 6,
         "height": 1,
         "passthru": false,
@@ -31360,7 +31149,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración_VSD_Voltios_Hertz\",\t                \"Configuración_VSD_Rampas\",\t                \"Configuración_VSD_Límites\",\t                \"Configuración_VSD_Rampa_prolongada\",\t                \"Configuración_VSD_Relación_de_Transformación\",\t                \"Configuración_VSD_Control_de_motor\"],\t                \t       \"show\":[ \"Configuración_VSD_Placa_de_motor\",\t                \"Principal_Status_Bar\"\t              ]\t       \t   }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración_VSD_Voltios_Hertz\",\t                \"Configuración_VSD_Rampas\",\t                \"Configuración_VSD_Límites\",\t                \"Configuración_VSD_Rampa_prolongada\",\t                \"Configuración_VSD_Relación_de_Transformación\",\t                \"Configuración_VSD_Control_de_motor\"],\t                \t       \"show\":[ \"Configuración_VSD_Placa_de_motor\"]\t       \t   }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -31388,7 +31177,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración_VSD_Placa_de_motor\",\t                \"Configuración_VSD_Voltios_Hertz\",\t                \"Configuración_VSD_Relación_de_Transformación\",\t                \"Configuración_VSD_Control_de_motor\"],\t       \"show\":[ \"Configuración_VSD_Rampas\",\t                \"Configuración_VSD_Límites\",\t                \"Configuración_VSD_Rampa_prolongada\",\t                \"Principal_Status_Bar\"]\t   }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración_VSD_Placa_de_motor\",\t                \"Configuración_VSD_Voltios_Hertz\",\t                \"Configuración_VSD_Relación_de_Transformación\",\t                \"Configuración_VSD_Control_de_motor\"],\t       \"show\":[ \"Configuración_VSD_Rampas\",\t                \"Configuración_VSD_Límites\",\t                \"Configuración_VSD_Rampa_prolongada\"]\t   }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -31489,7 +31278,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración_VSD_Rampas\",\t                \"Configuración_VSD_Placa_de_motor\",\t                \"Configuración_VSD_Límites\",\t                \"Configuración_VSD_Rampa_prolongada\",\t                \"Configuración_VSD_Relación_de_Transformación\",\t                \"Configuración_VSD_Control_de_motor\"],\t       \"show\":[ \"Configuración_VSD_Voltios_Hertz\",\t       \"Principal_Status_Bar\"]\t   }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración_VSD_Rampas\",\t                \"Configuración_VSD_Placa_de_motor\",\t                \"Configuración_VSD_Límites\",\t                \"Configuración_VSD_Rampa_prolongada\",\t                \"Configuración_VSD_Relación_de_Transformación\",\t                \"Configuración_VSD_Control_de_motor\"],\t       \"show\":[ \"Configuración_VSD_Voltios_Hertz\"]\t   }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -31574,7 +31363,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración_VSD_Rampas\",\t                \"Configuración_VSD_Placa_de_motor\",\t                \"Configuración_VSD_Límites\",\t                \"Configuración_VSD_Rampa_prolongada\",\t                \"Configuración_VSD_Voltios_Hertz\"],\t       \"show\":[ \"Configuración_VSD_Relación_de_Transformación\",\t       \"Principal_Status_Bar\"]\t   }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración_VSD_Rampas\",\t                \"Configuración_VSD_Placa_de_motor\",\t                \"Configuración_VSD_Límites\",\t                \"Configuración_VSD_Rampa_prolongada\",\t                \"Configuración_VSD_Voltios_Hertz\"],\t       \"show\":[ \"Configuración_VSD_Relación_de_Transformación\"]\t   }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -33718,7 +33507,9 @@
         "name": "Status Drive Link Out",
         "links": [
             "976c0796ec85aa4a",
-            "ea32976ff44ab826"
+            "ea32976ff44ab826",
+            "39c587eb1dfd0df6",
+            "5ed1f423e3e7c316"
         ],
         "x": 1285,
         "y": 310,
@@ -37819,7 +37610,7 @@
         "g": "afcd8222.ca23b",
         "name": "",
         "group": "4f87eabd.cfaf34",
-        "order": 1,
+        "order": 2,
         "width": 4,
         "height": 1,
         "passthru": false,
@@ -37846,7 +37637,7 @@
         "g": "afcd8222.ca23b",
         "name": "",
         "group": "4f87eabd.cfaf34",
-        "order": 2,
+        "order": 3,
         "width": 4,
         "height": 1,
         "passthru": false,
@@ -38915,7 +38706,7 @@
         "group": "86355e50.22f3a",
         "order": 1,
         "width": 12,
-        "height": 6,
+        "height": "10",
         "label": "",
         "chartType": "line",
         "legend": "true",
@@ -38943,6 +38734,8 @@
             "#c5b0d5"
         ],
         "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
         "x": 1950,
         "y": 480,
         "wires": [
@@ -46075,7 +45868,7 @@
         "tooltip": "",
         "place": "Seleccione motor PMM",
         "group": "75fbd908.193868",
-        "order": 1,
+        "order": 2,
         "width": "4",
         "height": "1",
         "passthru": false,
@@ -52558,7 +52351,7 @@
         "label": "Tensión No Load [V]",
         "tooltip": "",
         "group": "75fbd908.193868",
-        "order": 2,
+        "order": 3,
         "width": "3",
         "height": "1",
         "passthru": true,
@@ -52582,7 +52375,7 @@
         "label": "Frecuencia [Hz]",
         "tooltip": "",
         "group": "75fbd908.193868",
-        "order": 7,
+        "order": 8,
         "width": "3",
         "height": "1",
         "passthru": true,
@@ -52606,7 +52399,7 @@
         "label": "Corriente [A]",
         "tooltip": "",
         "group": "75fbd908.193868",
-        "order": 8,
+        "order": 9,
         "width": "2",
         "height": "1",
         "passthru": true,
@@ -52630,7 +52423,7 @@
         "label": "Frecuencia [RPM]",
         "tooltip": "",
         "group": "75fbd908.193868",
-        "order": 9,
+        "order": 10,
         "width": "3",
         "height": "1",
         "passthru": true,
@@ -52654,7 +52447,7 @@
         "label": "Tensión Full Load [V]",
         "tooltip": "",
         "group": "75fbd908.193868",
-        "order": 6,
+        "order": 7,
         "width": "3",
         "height": "1",
         "passthru": true,
@@ -52678,7 +52471,7 @@
         "label": "Polos",
         "tooltip": "",
         "group": "75fbd908.193868",
-        "order": 10,
+        "order": 11,
         "width": "2",
         "height": "1",
         "passthru": true,
@@ -52702,7 +52495,7 @@
         "label": "Potencia",
         "tooltip": "",
         "group": "75fbd908.193868",
-        "order": 11,
+        "order": 12,
         "width": "2",
         "height": "1",
         "passthru": true,
@@ -52727,7 +52520,7 @@
         "tooltip": "",
         "place": "",
         "group": "75fbd908.193868",
-        "order": 13,
+        "order": 14,
         "width": "3",
         "height": 1,
         "passthru": true,
@@ -53556,7 +53349,7 @@
         "tooltip": "",
         "place": "",
         "group": "75fbd908.193868",
-        "order": 12,
+        "order": 13,
         "width": "3",
         "height": 1,
         "passthru": true,
@@ -53947,7 +53740,7 @@
         "label": "Eficiencia [%]",
         "tooltip": "",
         "group": "75fbd908.193868",
-        "order": 5,
+        "order": 6,
         "width": "2",
         "height": "1",
         "passthru": true,
@@ -53971,7 +53764,7 @@
         "label": "Resistencia estator [Ω]",
         "tooltip": "",
         "group": "75fbd908.193868",
-        "order": 3,
+        "order": 4,
         "width": "3",
         "height": "1",
         "passthru": true,
@@ -53995,7 +53788,7 @@
         "label": "Inercia [kg.m2]",
         "tooltip": "",
         "group": "75fbd908.193868",
-        "order": 4,
+        "order": 5,
         "width": "2",
         "height": "1",
         "passthru": true,
@@ -54399,7 +54192,7 @@
         "g": "e5ce125e.59232",
         "name": "",
         "group": "75fbd908.193868",
-        "order": 15,
+        "order": 17,
         "width": "4",
         "height": "1",
         "passthru": false,
@@ -55840,7 +55633,7 @@
         "label": "Corriente nominal",
         "tooltip": "",
         "group": "aa8453cf.6d05a",
-        "order": 1,
+        "order": 2,
         "width": 4,
         "height": 1,
         "passthru": true,
@@ -55864,7 +55657,7 @@
         "label": "% Bypass",
         "tooltip": "",
         "group": "aa8453cf.6d05a",
-        "order": 2,
+        "order": 3,
         "width": 4,
         "height": 1,
         "passthru": true,
@@ -56156,7 +55949,7 @@
         "label": "Tiempo muerto Bypass (s)",
         "tooltip": "",
         "group": "aa8453cf.6d05a",
-        "order": 4,
+        "order": 5,
         "width": 4,
         "height": 1,
         "passthru": true,
@@ -56232,7 +56025,7 @@
         "g": "3305d8d35ba0e514",
         "name": "",
         "group": "aa8453cf.6d05a",
-        "order": 7,
+        "order": 8,
         "width": 3,
         "height": 1,
         "passthru": false,
@@ -56259,7 +56052,7 @@
         "g": "3305d8d35ba0e514",
         "name": "",
         "group": "aa8453cf.6d05a",
-        "order": 8,
+        "order": 9,
         "width": 3,
         "height": 1,
         "passthru": false,
@@ -56555,7 +56348,7 @@
         "z": "edcda77493e16eaa",
         "g": "3305d8d35ba0e514",
         "group": "aa8453cf.6d05a",
-        "order": 5,
+        "order": 6,
         "width": 4,
         "height": 1,
         "name": "",
@@ -56724,7 +56517,7 @@
         "z": "edcda77493e16eaa",
         "g": "043b7d2efd6242c1",
         "group": "aa8453cf.6d05a",
-        "order": 3,
+        "order": 4,
         "width": 4,
         "height": 2,
         "name": "Corriente de entrada actual",
@@ -61535,8 +61328,8 @@
         "label": "Rango Min",
         "tooltip": "",
         "group": "2d9cedce.ac17c2",
-        "order": 4,
-        "width": 3,
+        "order": 3,
+        "width": 2,
         "height": 1,
         "passthru": true,
         "mode": "number",
@@ -61559,8 +61352,8 @@
         "label": "Rango Max",
         "tooltip": "",
         "group": "2d9cedce.ac17c2",
-        "order": 5,
-        "width": 3,
+        "order": 4,
+        "width": 2,
         "height": 1,
         "passthru": true,
         "mode": "number",
@@ -61582,7 +61375,7 @@
         "name": "",
         "group": "2d9cedce.ac17c2",
         "order": 6,
-        "width": 3,
+        "width": 4,
         "height": 1,
         "passthru": false,
         "label": "Configurar",
@@ -61859,7 +61652,7 @@
         "z": "edcda77493e16eaa",
         "g": "01d2b2ec2f34b6be",
         "group": "7821f022.e6285",
-        "order": 3,
+        "order": 2,
         "width": 3,
         "height": 1,
         "name": "Rango Min",
@@ -61876,7 +61669,7 @@
         "z": "edcda77493e16eaa",
         "g": "01d2b2ec2f34b6be",
         "group": "7821f022.e6285",
-        "order": 4,
+        "order": 3,
         "width": 3,
         "height": 1,
         "name": "Rango Max",
@@ -61946,7 +61739,7 @@
         "name": "",
         "group": "7821f022.e6285",
         "order": 5,
-        "width": 3,
+        "width": 4,
         "height": 1,
         "passthru": false,
         "label": "Borrar configuración",
@@ -62438,7 +62231,7 @@
         "z": "edcda77493e16eaa",
         "g": "af436d3d4e5d33de",
         "group": "2d9cedce.ac17c2",
-        "order": 7,
+        "order": 8,
         "width": 6,
         "height": 1,
         "name": "",
@@ -62458,7 +62251,7 @@
         "label": "",
         "tooltip": "",
         "group": "2d9cedce.ac17c2",
-        "order": 11,
+        "order": 9,
         "width": 1,
         "height": 1,
         "passthru": true,
@@ -62589,7 +62382,7 @@
         "label": "",
         "tooltip": "",
         "group": "7821f022.e6285",
-        "order": 10,
+        "order": 8,
         "width": 1,
         "height": 1,
         "passthru": true,
@@ -62698,7 +62491,7 @@
         "z": "edcda77493e16eaa",
         "g": "af436d3d4e5d33de",
         "group": "7821f022.e6285",
-        "order": 8,
+        "order": 12,
         "width": 3,
         "height": 1,
         "name": "2",
@@ -62715,7 +62508,7 @@
         "z": "edcda77493e16eaa",
         "g": "af436d3d4e5d33de",
         "group": "2d9cedce.ac17c2",
-        "order": 9,
+        "order": 13,
         "width": 3,
         "height": 1,
         "name": "1",
@@ -62732,7 +62525,7 @@
         "z": "edcda77493e16eaa",
         "g": "af436d3d4e5d33de",
         "group": "7821f022.e6285",
-        "order": 6,
+        "order": 7,
         "width": 6,
         "height": 1,
         "name": "",
@@ -64460,7 +64253,7 @@
         "label": "",
         "tooltip": "",
         "group": "2d9cedce.ac17c2",
-        "order": 13,
+        "order": 11,
         "width": 1,
         "height": 1,
         "passthru": true,
@@ -64538,7 +64331,7 @@
         "label": "",
         "tooltip": "",
         "group": "7821f022.e6285",
-        "order": 12,
+        "order": 10,
         "width": 1,
         "height": 1,
         "passthru": true,
@@ -71779,7 +71572,7 @@
         "group": "a0a1bd2fd453f80e",
         "order": 1,
         "width": 3,
-        "height": "2",
+        "height": 2,
         "gtype": "gage",
         "title": "AI0",
         "label": "mA",
@@ -71806,7 +71599,7 @@
         "group": "a0a1bd2fd453f80e",
         "order": 2,
         "width": 3,
-        "height": "2",
+        "height": 2,
         "gtype": "gage",
         "title": "AI1",
         "label": "mA",
@@ -71833,7 +71626,7 @@
         "group": "a0a1bd2fd453f80e",
         "order": 3,
         "width": 3,
-        "height": "2",
+        "height": 2,
         "gtype": "gage",
         "title": "AI2",
         "label": "mA",
@@ -71858,9 +71651,9 @@
         "g": "404043e2f2ac38f5",
         "name": "",
         "group": "a0a1bd2fd453f80e",
-        "order": 7,
+        "order": 4,
         "width": 3,
-        "height": "2",
+        "height": 2,
         "gtype": "gage",
         "title": "AI3",
         "label": "mA",
@@ -71972,16 +71765,17 @@
         "type": "ui_template",
         "z": "4cb9744f548ca642",
         "group": "ce90620a3fb9807d",
-        "name": "Monitoreo interruptor motorizado SDT",
-        "order": 7,
-        "width": 4,
+        "name": "Monitoreo general de interruptor motorizado SDT",
+        "order": 6,
+        "width": 12,
         "height": 1,
-        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n\n</head>\n\n<body>\n    <h6><b><center>Monitoreo interruptor motorizado SDT</center></b></h6>\n</body>\n\n</html>",
+        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n\n</head>\n\n<body>\n    <h4><b>Monitoreo general de interruptor motorizado SDT</b></h4>\n</body>\n\n</html>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
-        "x": 190,
+        "className": "",
+        "x": 230,
         "y": 80,
         "wires": [
             []
@@ -71993,8 +71787,8 @@
         "z": "4cb9744f548ca642",
         "name": "Cerrar motorizado SDT",
         "group": "ce90620a3fb9807d",
-        "order": 4,
-        "width": 3,
+        "order": 3,
+        "width": 4,
         "height": 1,
         "passthru": false,
         "label": "Cerrar Motorizado",
@@ -72019,8 +71813,8 @@
         "z": "4cb9744f548ca642",
         "name": "Abrir motorizado SDT",
         "group": "ce90620a3fb9807d",
-        "order": 3,
-        "width": 3,
+        "order": 2,
+        "width": 4,
         "height": 1,
         "passthru": false,
         "label": "Abrir Motorizado",
@@ -72045,8 +71839,8 @@
         "z": "4cb9744f548ca642",
         "name": "Reset SDT",
         "group": "ce90620a3fb9807d",
-        "order": 5,
-        "width": 3,
+        "order": 4,
+        "width": 4,
         "height": 1,
         "passthru": false,
         "label": "Reset",
@@ -72663,11 +72457,11 @@
         "id": "ef3bf5b656e89467",
         "type": "ui_led",
         "z": "4cb9744f548ca642",
-        "order": 10,
+        "order": 7,
         "group": "ce90620a3fb9807d",
-        "width": 4,
+        "width": 6,
         "height": 1,
-        "label": "Disparo por muy bajo nivel de aceite SDT",
+        "label": "<font size =4px>Disparo por muy bajo nivel de aceite SDT",
         "labelPlacement": "right",
         "labelAlignment": "left",
         "colorForValue": [
@@ -72699,11 +72493,11 @@
         "id": "71026f62c8d6f047",
         "type": "ui_led",
         "z": "4cb9744f548ca642",
-        "order": 11,
+        "order": 8,
         "group": "ce90620a3fb9807d",
-        "width": 4,
+        "width": 6,
         "height": 1,
-        "label": "Disparo por alta temperatura SDT",
+        "label": "<font size =4px>Disparo por alta temperatura SDT",
         "labelPlacement": "right",
         "labelAlignment": "left",
         "colorForValue": [
@@ -72735,11 +72529,11 @@
         "id": "698b6690e964807a",
         "type": "ui_led",
         "z": "4cb9744f548ca642",
-        "order": 12,
+        "order": 9,
         "group": "ce90620a3fb9807d",
-        "width": 4,
+        "width": 6,
         "height": 1,
-        "label": "Disparo por válvula de sobrepresión SDT",
+        "label": "<font size =4px>Disparo por válvula de sobrepresión SDT",
         "labelPlacement": "right",
         "labelAlignment": "left",
         "colorForValue": [
@@ -72771,11 +72565,11 @@
         "id": "2a03014fd8858162",
         "type": "ui_led",
         "z": "4cb9744f548ca642",
-        "order": 9,
+        "order": 12,
         "group": "ce90620a3fb9807d",
-        "width": 4,
+        "width": 6,
         "height": 1,
-        "label": "Confirmación estado motorizado SDT",
+        "label": "<font size =4px>Confirmación estado motorizado SDT",
         "labelPlacement": "right",
         "labelAlignment": "left",
         "colorForValue": [
@@ -72812,12 +72606,11 @@
         "id": "79f89f3a6c3fa208",
         "type": "ui_led",
         "z": "4cb9744f548ca642",
-        "d": true,
-        "order": 14,
+        "order": 11,
         "group": "ce90620a3fb9807d",
-        "width": 5,
+        "width": 6,
         "height": 1,
-        "label": "Alarma por alta temperatura SDT",
+        "label": "<font size =4px>Alarma por alta temperatura SDT",
         "labelPlacement": "right",
         "labelAlignment": "left",
         "colorForValue": [
@@ -72844,12 +72637,11 @@
         "id": "b43db2b65a9a44d3",
         "type": "ui_led",
         "z": "4cb9744f548ca642",
-        "d": true,
-        "order": 15,
+        "order": 10,
         "group": "ce90620a3fb9807d",
-        "width": 5,
+        "width": 6,
         "height": 1,
-        "label": "Alarma por bajo nivel de aceite SDT",
+        "label": "<font size =4px>Alarma por bajo nivel de aceite SDT",
         "labelPlacement": "right",
         "labelAlignment": "left",
         "colorForValue": [
@@ -72905,7 +72697,7 @@
         "fieldType": "msg",
         "format": "handlebars",
         "syntax": "mustache",
-        "template": "<!doctype html>\n<html lang=\"en\">\n    <head>\n        <!-- Required meta tags -->\n        <meta charset=\"utf-8\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n    \n        <!-- Bootstrap CSS -->\n        <link rel=\"stylesheet\" href=\"http://aic.local:1880/bootstrap/dist/css/bootstrap.min.css\">\n    </head>\n    <body>\n        <div class=\"container\">\n            <div class=\"row d-flex justify-content-center\">\n                <div class=\"col-lg-9 col-md-9 mt-3\">\n                    <svg width=\"120%\" height=\"120%\" viewBox=\"-0.5 -0.5 602 217\" preserveAspectRatio=\"xMidYMid meet\"> \n                        {{{svg}}}\n                    </svg>\n                </div>\n            </div>\n        </div>\n        \n        <!-- Optional JavaScript -->\n        <script src=\"http://aic.local:1880/bootstrap/dist/js/bootstrap.bundle.min.js\"></script>\n    </body>\n</html>",
+        "template": "<!doctype html>\n<html lang=\"en\">\n    <head>\n        <!-- Required meta tags -->\n        <meta charset=\"utf-8\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n    \n        <!-- Bootstrap CSS -->\n        <link rel=\"stylesheet\" href=\"http://aic.local:1880/bootstrap/dist/css/bootstrap.min.css\">\n    </head>\n    <body>\n        <div class=\"container\">\n            <div class=\"row d-flex justify-content-center\">\n                <div class=\"col-lg-9 col-md-9 mt-3\">\n                    <svg width=\"100%\" height=\"100%\" viewBox=\"-0.5 -0.5 602 217\" preserveAspectRatio=\"xMidYMid meet\"> \n                        {{{svg}}}\n                    </svg>\n                </div>\n            </div>\n        </div>\n        \n        <!-- Optional JavaScript -->\n        <script src=\"http://aic.local:1880/bootstrap/dist/js/bootstrap.bundle.min.js\"></script>\n    </body>\n</html>",
         "output": "str",
         "x": 580,
         "y": 620,
@@ -72938,16 +72730,17 @@
         "id": "d17d56fa98fc9f79",
         "type": "ui_template",
         "z": "4cb9744f548ca642",
-        "group": "ce90620a3fb9807d",
+        "group": "474271dc.04fa9",
         "name": "",
-        "order": 8,
-        "width": 8,
+        "order": 11,
+        "width": 12,
         "height": 6,
         "format": "<div ng-bind-html=\"msg.payload|trusted\"></div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
+        "className": "",
         "x": 740,
         "y": 620,
         "wires": [
@@ -76967,13 +76760,14 @@
         "z": "43b51d90.0b47f4",
         "g": "82531c262cad7a91",
         "group": "ce600784e62fa5e2",
-        "order": 0,
+        "order": 3,
         "width": "4",
         "height": "1",
         "name": "",
-        "label": "Run Live",
+        "label": "Run Life:",
         "format": "{{msg.payload}}",
-        "layout": "row-left",
+        "layout": "row-center",
+        "className": "",
         "x": 1180,
         "y": 2960,
         "wires": []
@@ -76988,9 +76782,10 @@
         "width": "4",
         "height": "1",
         "name": "",
-        "label": "Last Start",
+        "label": "Last Start:",
         "format": "{{msg.payload}}",
-        "layout": "row-left",
+        "layout": "row-center",
+        "className": "",
         "x": 1180,
         "y": 3040,
         "wires": []
@@ -77001,13 +76796,14 @@
         "z": "43b51d90.0b47f4",
         "g": "82531c262cad7a91",
         "group": "ce600784e62fa5e2",
-        "order": 1,
+        "order": 2,
         "width": "4",
         "height": "1",
         "name": "",
-        "label": "Run Time",
+        "label": "Run Time:",
         "format": "{{msg.payload}}",
-        "layout": "row-left",
+        "layout": "row-center",
+        "className": "",
         "x": 1180,
         "y": 3000,
         "wires": []
@@ -81632,14 +81428,14 @@
         "z": "902fc438.e5d758",
         "g": "086b9d08c3b68939",
         "group": "1b027e16.1fc232",
-        "order": 16,
+        "order": 15,
         "width": 3,
         "height": 2,
         "name": "",
         "label": "Rtx",
         "format": "<font size =6px>{{msg.payload}}",
         "layout": "col-center",
-        "x": 750,
+        "x": 730,
         "y": 1500,
         "wires": []
     },
@@ -83172,7 +82968,7 @@
         "z": "902fc438.e5d758",
         "g": "986845c5f7bf4a6e",
         "group": "1b027e16.1fc232",
-        "order": 15,
+        "order": 14,
         "width": 3,
         "height": 2,
         "name": "Factor de potencia",
@@ -83215,7 +83011,7 @@
         "z": "902fc438.e5d758",
         "g": "986845c5f7bf4a6e",
         "group": "1b027e16.1fc232",
-        "order": 14,
+        "order": 13,
         "width": 3,
         "height": 2,
         "name": "Corriente de salida",
@@ -83301,7 +83097,7 @@
         "z": "902fc438.e5d758",
         "g": "986845c5f7bf4a6e",
         "group": "1b027e16.1fc232",
-        "order": 6,
+        "order": 5,
         "width": 3,
         "height": 2,
         "name": "Voltaje de Motor",
@@ -83344,7 +83140,7 @@
         "z": "902fc438.e5d758",
         "g": "986845c5f7bf4a6e",
         "group": "1b027e16.1fc232",
-        "order": 10,
+        "order": 9,
         "width": 3,
         "height": 2,
         "name": "Potencia",
@@ -83430,7 +83226,7 @@
         "z": "902fc438.e5d758",
         "g": "986845c5f7bf4a6e",
         "group": "1b027e16.1fc232",
-        "order": 11,
+        "order": 10,
         "width": 3,
         "height": 2,
         "name": "Corriente de Motor",
@@ -83809,7 +83605,7 @@
         "group": "474271dc.04fa9",
         "order": 2,
         "width": 6,
-        "height": 6,
+        "height": 5,
         "label": "{{msg.label}}",
         "chartType": "bar",
         "legend": "true",
@@ -86215,7 +86011,7 @@
         "name": "",
         "label": "",
         "tooltip": "",
-        "place": "Select trends (multiple variable options)",
+        "place": "Seleccione tendencia ( Multiples variables)",
         "group": "94e450d3bce1686e",
         "order": 1,
         "width": 0,
@@ -86254,17 +86050,17 @@
                 "type": "str"
             },
             {
-                "label": "Voltaje Motor",
+                "label": "Voltaje de Motor",
                 "value": "MtrVoltage",
                 "type": "str"
             },
             {
-                "label": "Corriente Motor",
+                "label": "Corriente de Motor",
                 "value": "MtrCurrent",
                 "type": "str"
             },
             {
-                "label": "LL",
+                "label": "Voltaje de entrada",
                 "value": "LL",
                 "type": "str"
             },
@@ -86301,6 +86097,8 @@
         ],
         "payload": "",
         "topic": "",
+        "topicType": "str",
+        "className": "",
         "x": 140,
         "y": 100,
         "wires": [
@@ -87527,11 +87325,6 @@
                 "name": "Parameter",
                 "value": "60",
                 "type": "num"
-            },
-            {
-                "name": "Datatype",
-                "value": "DINT",
-                "type": "str"
             }
         ],
         "x": 310,
@@ -87554,11 +87347,6 @@
                 "name": "Parameter",
                 "value": "62",
                 "type": "num"
-            },
-            {
-                "name": "Datatype",
-                "value": "DINT",
-                "type": "str"
             }
         ],
         "x": 300,
@@ -87581,11 +87369,6 @@
                 "name": "Parameter",
                 "value": "63",
                 "type": "num"
-            },
-            {
-                "name": "Datatype",
-                "value": "DINT",
-                "type": "str"
             }
         ],
         "x": 300,
@@ -87608,11 +87391,6 @@
                 "name": "Parameter",
                 "value": "422",
                 "type": "num"
-            },
-            {
-                "name": "Datatype",
-                "value": "DINT",
-                "type": "str"
             }
         ],
         "x": 300,
@@ -89642,6 +89420,2436 @@
         "statusType": "auto",
         "x": 1510,
         "y": 160,
+        "wires": []
+    },
+    {
+        "id": "2da065ba546c3529",
+        "type": "group",
+        "z": "2e27dea6.c4c362",
+        "name": "Indicadores estado actual VSD",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "49eefc23668eacd0",
+            "39c587eb1dfd0df6",
+            "255328c3e9bd4b69",
+            "301066560d7b659f",
+            "6d61af0667e7f61e",
+            "901a66b7cc2a5dbc",
+            "e29e3c386ea2a8cf",
+            "4f16db56f6573d19",
+            "27f4db4d8357407b"
+        ],
+        "x": 54,
+        "y": 1599,
+        "w": 252,
+        "h": 362
+    },
+    {
+        "id": "08268a4bd4859ab8",
+        "type": "group",
+        "z": "2e27dea6.c4c362",
+        "name": "Indicadores referencia ingresada al VSD",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "4aece4600a8cdd60",
+            "65372cca897b7b96",
+            "65ceb1bcdc34d3d1",
+            "86b19ce336cc17d0",
+            "c5a71b87c7af24bb",
+            "5f351110e15c737d",
+            "4a6bf4c4eb87ae20",
+            "6851287c677ff13c",
+            "f6a49b42fa00401a"
+        ],
+        "x": 334,
+        "y": 1599,
+        "w": 272,
+        "h": 362
+    },
+    {
+        "id": "998532256f00cecc",
+        "type": "group",
+        "z": "2e27dea6.c4c362",
+        "name": "Relación de transformación",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "ce16893d117ab620",
+            "f4d0996a7c4bfa74",
+            "698c633c05f729cf",
+            "0d43cc58b9c941be",
+            "9efccfa00a368131",
+            "a94c97a35546a86e",
+            "b70d1b5d49c30bb1",
+            "db71d8c7a283a526",
+            "fccf76deaf649d1f"
+        ],
+        "x": 614,
+        "y": 1599,
+        "w": 252,
+        "h": 362
+    },
+    {
+        "id": "a52d17ad75acd9f6",
+        "type": "group",
+        "z": "2e27dea6.c4c362",
+        "name": "Datos de dirección IP",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "44c01bb62561018a",
+            "781e146bc6ccd51d",
+            "f37caa43e5bdd65c",
+            "3c6559c39f49ad55",
+            "c8f8a61db9ec9892",
+            "ea47fc1bfe310629",
+            "c9d95e877bcbe5af",
+            "fb25711aad99f0ab",
+            "9aca85ee1112925e"
+        ],
+        "x": 914,
+        "y": 1599,
+        "w": 282,
+        "h": 362
+    },
+    {
+        "id": "ac27a3905053ab85",
+        "type": "ui_group",
+        "name": "Status_Bar",
+        "tab": "df82a9eeeb3d8a7c",
+        "order": 16,
+        "disp": false,
+        "width": "12",
+        "collapse": false
+    },
+    {
+        "id": "004d1834de0cfaf4",
+        "type": "ui_group",
+        "name": "Status_Bar",
+        "tab": "fdffe6bc.86dd78",
+        "order": 8,
+        "disp": false,
+        "width": "12",
+        "collapse": false
+    },
+    {
+        "id": "4194befa15c3251e",
+        "type": "ui_group",
+        "name": "Status_Bar",
+        "tab": "fe41bc20.3ab56",
+        "order": 3,
+        "disp": false,
+        "width": "12",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "503fa0fc34368bef",
+        "type": "ui_group",
+        "name": "Status_Bar",
+        "tab": "f946bef3fe503852",
+        "order": 6,
+        "disp": false,
+        "width": "12",
+        "collapse": false
+    },
+    {
+        "id": "73d37e5b1f2a302a",
+        "type": "ui_group",
+        "name": "Status_Bar",
+        "tab": "9d512981.aa8278",
+        "order": 19,
+        "disp": false,
+        "width": "12",
+        "collapse": false
+    },
+    {
+        "id": "ab77be5a0af25d0a",
+        "type": "ui_group",
+        "name": "Status_Bar",
+        "tab": "2dbf183f.1f2ed8",
+        "order": 4,
+        "disp": false,
+        "width": "12",
+        "collapse": false
+    },
+    {
+        "id": "ffa9778f5ac19260",
+        "type": "ui_group",
+        "name": "Status_Bar",
+        "tab": "c17f19ae.06fbf8",
+        "order": 2,
+        "disp": false,
+        "width": "12",
+        "collapse": false
+    },
+    {
+        "id": "24677f4e6485c12b",
+        "type": "ui_spacer",
+        "z": "759eb633bbadf3e1",
+        "name": "spacer",
+        "group": "a706ea3d.b7fbc8",
+        "order": 1,
+        "width": "12",
+        "height": "1",
+        "className": ""
+    },
+    {
+        "id": "c5bf9f2df7a21c88",
+        "type": "ui_spacer",
+        "z": "759eb633bbadf3e1",
+        "name": "spacer",
+        "group": "a706ea3d.b7fbc8",
+        "order": 9,
+        "width": "12",
+        "height": "8",
+        "className": ""
+    },
+    {
+        "id": "07dc668cb484258a",
+        "type": "ui_spacer",
+        "z": "c280ee8f58f61044",
+        "name": "spacer",
+        "group": "4f87eabd.cfaf34",
+        "order": 5,
+        "width": "12",
+        "height": "5",
+        "className": ""
+    },
+    {
+        "id": "ad215c76f8338014",
+        "type": "ui_spacer",
+        "z": "c280ee8f58f61044",
+        "name": "spacer",
+        "group": "4f87eabd.cfaf34",
+        "order": 1,
+        "width": "2",
+        "height": 1,
+        "className": ""
+    },
+    {
+        "id": "fa83af56b27db082",
+        "type": "ui_spacer",
+        "z": "c280ee8f58f61044",
+        "name": "spacer",
+        "group": "4f87eabd.cfaf34",
+        "order": 4,
+        "width": "2",
+        "height": 1,
+        "className": ""
+    },
+    {
+        "id": "291edcbe306a4b6c",
+        "type": "ui_spacer",
+        "z": "c280ee8f58f61044",
+        "name": "spacer",
+        "group": "2540c0d0.abd4d",
+        "order": 9,
+        "width": "12",
+        "height": "4",
+        "className": ""
+    },
+    {
+        "id": "533a04e3f2605850",
+        "type": "ui_spacer",
+        "z": "c280ee8f58f61044",
+        "name": "spacer",
+        "group": "cf893b29.8b0a68",
+        "order": 6,
+        "width": "12",
+        "height": "4",
+        "className": ""
+    },
+    {
+        "id": "c706f60f5334d763",
+        "type": "ui_spacer",
+        "z": "c280ee8f58f61044",
+        "name": "spacer",
+        "group": "b006ff9.8805c",
+        "order": 7,
+        "width": "12",
+        "height": "7",
+        "className": ""
+    },
+    {
+        "id": "34bb4eeb40a12586",
+        "type": "ui_spacer",
+        "z": "c280ee8f58f61044",
+        "name": "spacer",
+        "group": "a41af5be.52be18",
+        "order": 1,
+        "width": "12",
+        "height": 1,
+        "className": ""
+    },
+    {
+        "id": "a0a7a8a97198e6fc",
+        "type": "ui_spacer",
+        "z": "c280ee8f58f61044",
+        "name": "spacer",
+        "group": "8276e64d.c16508",
+        "order": 3,
+        "width": "12",
+        "height": "4",
+        "className": ""
+    },
+    {
+        "id": "b1942a0f090754cd",
+        "type": "ui_spacer",
+        "z": "c280ee8f58f61044",
+        "name": "spacer",
+        "group": "38898609.fe288a",
+        "order": 2,
+        "width": "7",
+        "height": "4",
+        "className": ""
+    },
+    {
+        "id": "3c6550f04c4a3225",
+        "type": "ui_spacer",
+        "z": "c280ee8f58f61044",
+        "name": "spacer",
+        "group": "4b33f8ea.b34188",
+        "order": 20,
+        "width": "5",
+        "height": "4",
+        "className": ""
+    },
+    {
+        "id": "4190699f61725da4",
+        "type": "ui_group",
+        "name": "Status_Bar",
+        "tab": "73af030.b87b7fc",
+        "order": 14,
+        "disp": false,
+        "width": "12",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "d4a9cb35378e2b99",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "9457c46f.d710c8",
+        "order": 1,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "a50ecfab58193317",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "999747fd.0e43c8",
+        "order": 1,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "010c2e90763ae151",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "2d9cedce.ac17c2",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "798f9bb434df26f7",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "2d9cedce.ac17c2",
+        "order": 7,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "b6ca4aacb09b5b8f",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "7821f022.e6285",
+        "order": 4,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "c589f2998034b37f",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "7821f022.e6285",
+        "order": 6,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "47ba221d597249ff",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "aa8453cf.6d05a",
+        "order": 1,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "e6fcf1d7796cba0f",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "aa8453cf.6d05a",
+        "order": 7,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "73b37a3a3751b338",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "aa8453cf.6d05a",
+        "order": 10,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "f56e51de2eca5671",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "bb07c4db34d108c3",
+        "order": 17,
+        "width": "12",
+        "height": 1,
+        "className": ""
+    },
+    {
+        "id": "05e00431e354af55",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "31eaf454d06be076",
+        "order": 9,
+        "width": "12",
+        "height": "2",
+        "className": ""
+    },
+    {
+        "id": "93108c222b63138d",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "2d9cedce.ac17c2",
+        "order": 15,
+        "width": "6",
+        "height": "4",
+        "className": ""
+    },
+    {
+        "id": "eb38b7d4e6fe3a18",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "7821f022.e6285",
+        "order": 14,
+        "width": "6",
+        "height": "4",
+        "className": ""
+    },
+    {
+        "id": "da67ae73071da83f",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "a0a1bd2fd453f80e",
+        "order": 13,
+        "width": "12",
+        "height": 1,
+        "className": ""
+    },
+    {
+        "id": "ea3c33d829580826",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "aa8453cf.6d05a",
+        "order": 10,
+        "width": "12",
+        "height": "7",
+        "className": ""
+    },
+    {
+        "id": "fcbe0616ed881378",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "2d559537.720c4a",
+        "order": 11,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "7708659b29753826",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "f7aa27b.6c2ded8",
+        "order": 7,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "65f026ea9c18d8b4",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "f7aa27b.6c2ded8",
+        "order": 9,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "e80bc65f4be6d9fa",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "f7aa27b.6c2ded8",
+        "order": 11,
+        "width": 7,
+        "height": 1
+    },
+    {
+        "id": "1b7ee0e130f72785",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "1b027e16.1fc232",
+        "order": 1,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "5b3c5f5e6e5e5bc9",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "1b027e16.1fc232",
+        "order": 6,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "485d88c2ae57c007",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "1b027e16.1fc232",
+        "order": 11,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "ac7516c176a4df1c",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "1b027e16.1fc232",
+        "order": 16,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "c5380a5b87851d4e",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "1b027e16.1fc232",
+        "order": 17,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "e7c882cbe385514b",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "26126cf5.7e87a4",
+        "order": 1,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "628a5f8b808a4366",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "26126cf5.7e87a4",
+        "order": 6,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "862bdd0600dac360",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "26126cf5.7e87a4",
+        "order": 11,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "f3380b9c73fb92f5",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "26126cf5.7e87a4",
+        "order": 12,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "9dda549235885d2c",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "26126cf5.7e87a4",
+        "order": 16,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "e1b54f207e12ef04",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "ce90620a3fb9807d",
+        "order": 5,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "efe597a4d52d696e",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "26126cf5.7e87a4",
+        "order": 17,
+        "width": "12",
+        "height": "2",
+        "className": ""
+    },
+    {
+        "id": "d6ae5df21df5aaad",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "ce90620a3fb9807d",
+        "order": 13,
+        "width": "12",
+        "height": "3",
+        "className": ""
+    },
+    {
+        "id": "b6ed8ea64f085113",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "ce600784e62fa5e2",
+        "order": 4,
+        "width": "12",
+        "height": "2",
+        "className": ""
+    },
+    {
+        "id": "eaaf9335af6834e9",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "c0d4b517.4b9968",
+        "order": 14,
+        "width": "12",
+        "height": "2",
+        "className": ""
+    },
+    {
+        "id": "458ee241a28600ea",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "c0d4b517.4b9968",
+        "order": 1,
+        "width": "12",
+        "height": 1,
+        "className": ""
+    },
+    {
+        "id": "7c88c5536524357e",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "971dcd1e.a04d5",
+        "order": 13,
+        "width": "6",
+        "height": "3",
+        "className": ""
+    },
+    {
+        "id": "7f535a65d981c25d",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "534dbcbb.5aad64",
+        "order": 14,
+        "width": "12",
+        "height": "5",
+        "className": ""
+    },
+    {
+        "id": "6705e4db1e760264",
+        "type": "ui_spacer",
+        "z": "43b51d90.0b47f4",
+        "name": "spacer",
+        "group": "c9a29e84.68bd",
+        "order": 11,
+        "width": "12",
+        "height": "3",
+        "className": ""
+    },
+    {
+        "id": "ecc1fb3a41a24001",
+        "type": "ui_spacer",
+        "z": "d08f14e12055286a",
+        "name": "spacer",
+        "group": "c9a29e84.68bd",
+        "order": 1,
+        "width": "12",
+        "height": 1,
+        "className": ""
+    },
+    {
+        "id": "e9cab88d82642177",
+        "type": "ui_spacer",
+        "z": "43b51d90.0b47f4",
+        "name": "spacer",
+        "group": "332af29a.076dee",
+        "order": 1,
+        "width": "12",
+        "height": 1,
+        "className": ""
+    },
+    {
+        "id": "288905c06460580c",
+        "type": "ui_spacer",
+        "z": "43b51d90.0b47f4",
+        "name": "spacer",
+        "group": "332af29a.076dee",
+        "order": 15,
+        "width": "12",
+        "height": "4",
+        "className": ""
+    },
+    {
+        "id": "f1a97f85ef914d4c",
+        "type": "ui_spacer",
+        "z": "43b51d90.0b47f4",
+        "name": "spacer",
+        "group": "75fbd908.193868",
+        "order": 19,
+        "width": "12",
+        "height": "2",
+        "className": ""
+    },
+    {
+        "id": "5191d3743984b323",
+        "type": "ui_spacer",
+        "z": "43b51d90.0b47f4",
+        "name": "spacer",
+        "group": "6bc484bb.848a6c",
+        "order": 19,
+        "width": "12",
+        "height": "2",
+        "className": ""
+    },
+    {
+        "id": "6f9c1927c023514f",
+        "type": "ui_spacer",
+        "z": "43b51d90.0b47f4",
+        "name": "spacer",
+        "group": "4d236281.ace7dc",
+        "order": 18,
+        "width": "12",
+        "height": "4",
+        "className": ""
+    },
+    {
+        "id": "424dcd838b891b97",
+        "type": "ui_spacer",
+        "z": "43b51d90.0b47f4",
+        "name": "spacer",
+        "group": "65440464.5a5b5c",
+        "order": 17,
+        "width": "12",
+        "height": "3",
+        "className": ""
+    },
+    {
+        "id": "4dd6fe4c45f57fc0",
+        "type": "ui_spacer",
+        "z": "43b51d90.0b47f4",
+        "name": "spacer",
+        "group": "13baa6fa.5569a9",
+        "order": 16,
+        "width": "12",
+        "height": "2",
+        "className": ""
+    },
+    {
+        "id": "0cc3cf6390ef4797",
+        "type": "ui_spacer",
+        "z": "43b51d90.0b47f4",
+        "name": "spacer",
+        "group": "1c12ea7.7bc1e16",
+        "order": 11,
+        "width": "12",
+        "height": "4",
+        "className": ""
+    },
+    {
+        "id": "83f1db646d57f13e",
+        "type": "ui_spacer",
+        "z": "43b51d90.0b47f4",
+        "name": "spacer",
+        "group": "5bbc6e36.6f635",
+        "order": 12,
+        "width": "12",
+        "height": "4",
+        "className": ""
+    },
+    {
+        "id": "49eefc23668eacd0",
+        "type": "ui_led",
+        "z": "2e27dea6.c4c362",
+        "g": "2da065ba546c3529",
+        "order": 1,
+        "group": "ac27a3905053ab85",
+        "width": "4",
+        "height": 1,
+        "label": "C2S: {{msg.payload}}",
+        "labelPlacement": "right",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "FALLA de variador!",
+                "valueType": "str"
+            },
+            {
+                "color": "#ff0000",
+                "value": "FALLA de protección!",
+                "valueType": "str"
+            },
+            {
+                "color": "#ffa500",
+                "value": "ALARMA!",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "EN MARCHA",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "ACTIVO Acelerando",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "ACTIVO Desacelerando",
+                "valueType": "str"
+            },
+            {
+                "color": "#808080",
+                "value": "DETENIDO",
+                "valueType": "str"
+            },
+            {
+                "color": "#000000",
+                "value": "Falla de comunicación",
+                "valueType": "str"
+            },
+            {
+                "color": "#ffff00",
+                "value": "Variador deshabilitado",
+                "valueType": "str"
+            },
+            {
+                "color": "#ff0000",
+                "value": "Falla general",
+                "valueType": "str"
+            },
+            {
+                "color": "#ffa500",
+                "value": "Falla communicación I/O",
+                "valueType": "str"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "",
+        "x": 230,
+        "y": 1640,
+        "wires": []
+    },
+    {
+        "id": "39c587eb1dfd0df6",
+        "type": "link in",
+        "z": "2e27dea6.c4c362",
+        "g": "2da065ba546c3529",
+        "name": "",
+        "links": [
+            "f16815630fb5bc06"
+        ],
+        "x": 95,
+        "y": 1760,
+        "wires": [
+            [
+                "4f16db56f6573d19",
+                "49eefc23668eacd0",
+                "255328c3e9bd4b69",
+                "301066560d7b659f",
+                "6d61af0667e7f61e",
+                "901a66b7cc2a5dbc",
+                "e29e3c386ea2a8cf",
+                "27f4db4d8357407b"
+            ]
+        ]
+    },
+    {
+        "id": "255328c3e9bd4b69",
+        "type": "ui_led",
+        "z": "2e27dea6.c4c362",
+        "g": "2da065ba546c3529",
+        "order": 1,
+        "group": "004d1834de0cfaf4",
+        "width": "4",
+        "height": 1,
+        "label": "C2S: {{msg.payload}}",
+        "labelPlacement": "right",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "FALLA de variador!",
+                "valueType": "str"
+            },
+            {
+                "color": "#ff0000",
+                "value": "FALLA de protección!",
+                "valueType": "str"
+            },
+            {
+                "color": "#ffa500",
+                "value": "ALARMA!",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "EN MARCHA",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "ACTIVO Acelerando",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "ACTIVO Desacelerando",
+                "valueType": "str"
+            },
+            {
+                "color": "#808080",
+                "value": "DETENIDO",
+                "valueType": "str"
+            },
+            {
+                "color": "#000000",
+                "value": "Falla de comunicación",
+                "valueType": "str"
+            },
+            {
+                "color": "#ffff00",
+                "value": "Variador deshabilitado",
+                "valueType": "str"
+            },
+            {
+                "color": "#ff0000",
+                "value": "Falla general",
+                "valueType": "str"
+            },
+            {
+                "color": "#ffa500",
+                "value": "Falla communicación I/O",
+                "valueType": "str"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "",
+        "x": 230,
+        "y": 1680,
+        "wires": []
+    },
+    {
+        "id": "301066560d7b659f",
+        "type": "ui_led",
+        "z": "2e27dea6.c4c362",
+        "g": "2da065ba546c3529",
+        "order": 1,
+        "group": "4194befa15c3251e",
+        "width": "4",
+        "height": 1,
+        "label": "C2S: {{msg.payload}}",
+        "labelPlacement": "right",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "FALLA de variador!",
+                "valueType": "str"
+            },
+            {
+                "color": "#ff0000",
+                "value": "FALLA de protección!",
+                "valueType": "str"
+            },
+            {
+                "color": "#ffa500",
+                "value": "ALARMA!",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "EN MARCHA",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "ACTIVO Acelerando",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "ACTIVO Desacelerando",
+                "valueType": "str"
+            },
+            {
+                "color": "#808080",
+                "value": "DETENIDO",
+                "valueType": "str"
+            },
+            {
+                "color": "#000000",
+                "value": "Falla de comunicación",
+                "valueType": "str"
+            },
+            {
+                "color": "#ffff00",
+                "value": "Variador deshabilitado",
+                "valueType": "str"
+            },
+            {
+                "color": "#ff0000",
+                "value": "Falla general",
+                "valueType": "str"
+            },
+            {
+                "color": "#ffa500",
+                "value": "Falla communicación I/O",
+                "valueType": "str"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "",
+        "x": 230,
+        "y": 1720,
+        "wires": []
+    },
+    {
+        "id": "6d61af0667e7f61e",
+        "type": "ui_led",
+        "z": "2e27dea6.c4c362",
+        "g": "2da065ba546c3529",
+        "order": 1,
+        "group": "503fa0fc34368bef",
+        "width": "4",
+        "height": 1,
+        "label": "C2S: {{msg.payload}}",
+        "labelPlacement": "right",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "FALLA de variador!",
+                "valueType": "str"
+            },
+            {
+                "color": "#ff0000",
+                "value": "FALLA de protección!",
+                "valueType": "str"
+            },
+            {
+                "color": "#ffa500",
+                "value": "ALARMA!",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "EN MARCHA",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "ACTIVO Acelerando",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "ACTIVO Desacelerando",
+                "valueType": "str"
+            },
+            {
+                "color": "#808080",
+                "value": "DETENIDO",
+                "valueType": "str"
+            },
+            {
+                "color": "#000000",
+                "value": "Falla de comunicación",
+                "valueType": "str"
+            },
+            {
+                "color": "#ffff00",
+                "value": "Variador deshabilitado",
+                "valueType": "str"
+            },
+            {
+                "color": "#ff0000",
+                "value": "Falla general",
+                "valueType": "str"
+            },
+            {
+                "color": "#ffa500",
+                "value": "Falla communicación I/O",
+                "valueType": "str"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "",
+        "x": 230,
+        "y": 1800,
+        "wires": []
+    },
+    {
+        "id": "901a66b7cc2a5dbc",
+        "type": "ui_led",
+        "z": "2e27dea6.c4c362",
+        "g": "2da065ba546c3529",
+        "order": 1,
+        "group": "ab77be5a0af25d0a",
+        "width": "4",
+        "height": 1,
+        "label": "C2S: {{msg.payload}}",
+        "labelPlacement": "right",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "FALLA de variador!",
+                "valueType": "str"
+            },
+            {
+                "color": "#ff0000",
+                "value": "FALLA de protección!",
+                "valueType": "str"
+            },
+            {
+                "color": "#ffa500",
+                "value": "ALARMA!",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "EN MARCHA",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "ACTIVO Acelerando",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "ACTIVO Desacelerando",
+                "valueType": "str"
+            },
+            {
+                "color": "#808080",
+                "value": "DETENIDO",
+                "valueType": "str"
+            },
+            {
+                "color": "#000000",
+                "value": "Falla de comunicación",
+                "valueType": "str"
+            },
+            {
+                "color": "#ffff00",
+                "value": "Variador deshabilitado",
+                "valueType": "str"
+            },
+            {
+                "color": "#ff0000",
+                "value": "Falla general",
+                "valueType": "str"
+            },
+            {
+                "color": "#ffa500",
+                "value": "Falla communicación I/O",
+                "valueType": "str"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "",
+        "x": 230,
+        "y": 1880,
+        "wires": []
+    },
+    {
+        "id": "e29e3c386ea2a8cf",
+        "type": "ui_led",
+        "z": "2e27dea6.c4c362",
+        "g": "2da065ba546c3529",
+        "order": 2,
+        "group": "ffa9778f5ac19260",
+        "width": "4",
+        "height": 1,
+        "label": "C2S: {{msg.payload}}",
+        "labelPlacement": "right",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "FALLA de variador!",
+                "valueType": "str"
+            },
+            {
+                "color": "#ff0000",
+                "value": "FALLA de protección!",
+                "valueType": "str"
+            },
+            {
+                "color": "#ffa500",
+                "value": "ALARMA!",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "EN MARCHA",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "ACTIVO Acelerando",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "ACTIVO Desacelerando",
+                "valueType": "str"
+            },
+            {
+                "color": "#808080",
+                "value": "DETENIDO",
+                "valueType": "str"
+            },
+            {
+                "color": "#000000",
+                "value": "Falla de comunicación",
+                "valueType": "str"
+            },
+            {
+                "color": "#ffff00",
+                "value": "Variador deshabilitado",
+                "valueType": "str"
+            },
+            {
+                "color": "#ff0000",
+                "value": "Falla general",
+                "valueType": "str"
+            },
+            {
+                "color": "#ffa500",
+                "value": "Falla communicación I/O",
+                "valueType": "str"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "",
+        "x": 230,
+        "y": 1920,
+        "wires": []
+    },
+    {
+        "id": "4f16db56f6573d19",
+        "type": "ui_led",
+        "z": "2e27dea6.c4c362",
+        "g": "2da065ba546c3529",
+        "order": 1,
+        "group": "73d37e5b1f2a302a",
+        "width": "4",
+        "height": 1,
+        "label": "C2S: {{msg.payload}}",
+        "labelPlacement": "right",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "FALLA de variador!",
+                "valueType": "str"
+            },
+            {
+                "color": "#ff0000",
+                "value": "FALLA de protección!",
+                "valueType": "str"
+            },
+            {
+                "color": "#ffa500",
+                "value": "ALARMA!",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "EN MARCHA",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "ACTIVO Acelerando",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "ACTIVO Desacelerando",
+                "valueType": "str"
+            },
+            {
+                "color": "#808080",
+                "value": "DETENIDO",
+                "valueType": "str"
+            },
+            {
+                "color": "#000000",
+                "value": "Falla de comunicación",
+                "valueType": "str"
+            },
+            {
+                "color": "#ffff00",
+                "value": "Variador deshabilitado",
+                "valueType": "str"
+            },
+            {
+                "color": "#ff0000",
+                "value": "Falla general",
+                "valueType": "str"
+            },
+            {
+                "color": "#ffa500",
+                "value": "Falla communicación I/O",
+                "valueType": "str"
+            }
+        ],
+        "allowColorForValueInMessage": true,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "",
+        "x": 230,
+        "y": 1840,
+        "wires": []
+    },
+    {
+        "id": "49cc9fccc3396220",
+        "type": "link out",
+        "z": "902fc438.e5d758",
+        "g": "6202107f.ed9aa",
+        "name": "Referencia_Hz",
+        "links": [
+            "6851287c677ff13c",
+            "f959947b73c07274"
+        ],
+        "x": 695,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "4aece4600a8cdd60",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "g": "08268a4bd4859ab8",
+        "group": "ac27a3905053ab85",
+        "order": 2,
+        "width": 2,
+        "height": 1,
+        "name": "",
+        "label": "Vel. Ref: ",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "className": "",
+        "x": 520,
+        "y": 1640,
+        "wires": []
+    },
+    {
+        "id": "65372cca897b7b96",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "g": "08268a4bd4859ab8",
+        "group": "004d1834de0cfaf4",
+        "order": 2,
+        "width": 2,
+        "height": 1,
+        "name": "",
+        "label": "Vel. Ref: ",
+        "format": "  {{msg.payload}}",
+        "layout": "row-center",
+        "className": "",
+        "x": 520,
+        "y": 1680,
+        "wires": []
+    },
+    {
+        "id": "65ceb1bcdc34d3d1",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "g": "08268a4bd4859ab8",
+        "group": "4194befa15c3251e",
+        "order": 2,
+        "width": 2,
+        "height": 1,
+        "name": "",
+        "label": "Vel. Ref: ",
+        "format": "  {{msg.payload}}",
+        "layout": "row-center",
+        "className": "",
+        "x": 520,
+        "y": 1720,
+        "wires": []
+    },
+    {
+        "id": "86b19ce336cc17d0",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "g": "08268a4bd4859ab8",
+        "group": "503fa0fc34368bef",
+        "order": 2,
+        "width": 2,
+        "height": 1,
+        "name": "",
+        "label": "Vel. Ref: ",
+        "format": "  {{msg.payload}}",
+        "layout": "row-center",
+        "className": "",
+        "x": 520,
+        "y": 1800,
+        "wires": []
+    },
+    {
+        "id": "c5a71b87c7af24bb",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "g": "08268a4bd4859ab8",
+        "group": "73d37e5b1f2a302a",
+        "order": 2,
+        "width": 2,
+        "height": 1,
+        "name": "",
+        "label": "Vel. Ref: ",
+        "format": "  {{msg.payload}}",
+        "layout": "row-center",
+        "className": "",
+        "x": 520,
+        "y": 1840,
+        "wires": []
+    },
+    {
+        "id": "5f351110e15c737d",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "g": "08268a4bd4859ab8",
+        "group": "ab77be5a0af25d0a",
+        "order": 2,
+        "width": 2,
+        "height": 1,
+        "name": "",
+        "label": "Vel. Ref: ",
+        "format": "  {{msg.payload}}",
+        "layout": "row-center",
+        "className": "",
+        "x": 520,
+        "y": 1880,
+        "wires": []
+    },
+    {
+        "id": "4a6bf4c4eb87ae20",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "g": "08268a4bd4859ab8",
+        "group": "ffa9778f5ac19260",
+        "order": 3,
+        "width": 2,
+        "height": 1,
+        "name": "",
+        "label": "Vel. Ref: ",
+        "format": "  {{msg.payload}}",
+        "layout": "row-center",
+        "className": "",
+        "x": 520,
+        "y": 1920,
+        "wires": []
+    },
+    {
+        "id": "6851287c677ff13c",
+        "type": "link in",
+        "z": "2e27dea6.c4c362",
+        "g": "08268a4bd4859ab8",
+        "name": "",
+        "links": [
+            "49cc9fccc3396220"
+        ],
+        "x": 375,
+        "y": 1760,
+        "wires": [
+            [
+                "4aece4600a8cdd60",
+                "65372cca897b7b96",
+                "65ceb1bcdc34d3d1",
+                "86b19ce336cc17d0",
+                "c5a71b87c7af24bb",
+                "5f351110e15c737d",
+                "4a6bf4c4eb87ae20",
+                "f6a49b42fa00401a"
+            ]
+        ]
+    },
+    {
+        "id": "99f9105506b7eaa8",
+        "type": "link out",
+        "z": "902fc438.e5d758",
+        "g": "086b9d08c3b68939",
+        "name": "Rtx",
+        "links": [
+            "ce16893d117ab620"
+        ],
+        "x": 845,
+        "y": 1500,
+        "wires": []
+    },
+    {
+        "id": "ce16893d117ab620",
+        "type": "link in",
+        "z": "2e27dea6.c4c362",
+        "g": "998532256f00cecc",
+        "name": "",
+        "links": [
+            "99f9105506b7eaa8"
+        ],
+        "x": 655,
+        "y": 1760,
+        "wires": [
+            [
+                "f4d0996a7c4bfa74",
+                "698c633c05f729cf",
+                "0d43cc58b9c941be",
+                "9efccfa00a368131",
+                "a94c97a35546a86e",
+                "b70d1b5d49c30bb1",
+                "db71d8c7a283a526",
+                "fccf76deaf649d1f"
+            ]
+        ]
+    },
+    {
+        "id": "f4d0996a7c4bfa74",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "g": "998532256f00cecc",
+        "group": "ac27a3905053ab85",
+        "order": 4,
+        "width": 1,
+        "height": 1,
+        "name": "",
+        "label": "Rtx: ",
+        "format": "  {{msg.payload}}",
+        "layout": "row-center",
+        "x": 790,
+        "y": 1640,
+        "wires": []
+    },
+    {
+        "id": "698c633c05f729cf",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "g": "998532256f00cecc",
+        "group": "004d1834de0cfaf4",
+        "order": 4,
+        "width": 1,
+        "height": 1,
+        "name": "",
+        "label": "Rtx: ",
+        "format": "  {{msg.payload}}",
+        "layout": "row-center",
+        "x": 790,
+        "y": 1680,
+        "wires": []
+    },
+    {
+        "id": "0d43cc58b9c941be",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "g": "998532256f00cecc",
+        "group": "4194befa15c3251e",
+        "order": 4,
+        "width": 1,
+        "height": 1,
+        "name": "",
+        "label": "Rtx: ",
+        "format": "  {{msg.payload}}",
+        "layout": "row-center",
+        "x": 790,
+        "y": 1720,
+        "wires": []
+    },
+    {
+        "id": "9efccfa00a368131",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "g": "998532256f00cecc",
+        "group": "503fa0fc34368bef",
+        "order": 4,
+        "width": 1,
+        "height": 1,
+        "name": "",
+        "label": "Rtx: ",
+        "format": "  {{msg.payload}}",
+        "layout": "row-center",
+        "x": 790,
+        "y": 1800,
+        "wires": []
+    },
+    {
+        "id": "a94c97a35546a86e",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "g": "998532256f00cecc",
+        "group": "73d37e5b1f2a302a",
+        "order": 4,
+        "width": 1,
+        "height": 1,
+        "name": "",
+        "label": "Rtx: ",
+        "format": "  {{msg.payload}}",
+        "layout": "row-center",
+        "x": 790,
+        "y": 1840,
+        "wires": []
+    },
+    {
+        "id": "b70d1b5d49c30bb1",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "g": "998532256f00cecc",
+        "group": "ab77be5a0af25d0a",
+        "order": 4,
+        "width": 1,
+        "height": 1,
+        "name": "",
+        "label": "Rtx: ",
+        "format": "  {{msg.payload}}",
+        "layout": "row-center",
+        "x": 790,
+        "y": 1880,
+        "wires": []
+    },
+    {
+        "id": "db71d8c7a283a526",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "g": "998532256f00cecc",
+        "group": "ffa9778f5ac19260",
+        "order": 5,
+        "width": 1,
+        "height": 1,
+        "name": "",
+        "label": "Rtx: ",
+        "format": "  {{msg.payload}}",
+        "layout": "row-center",
+        "x": 790,
+        "y": 1920,
+        "wires": []
+    },
+    {
+        "id": "9661d016b799c47d",
+        "type": "link in",
+        "z": "902fc438.e5d758",
+        "g": "086b9d08c3b68939",
+        "name": "Info",
+        "links": [
+            "fb25711aad99f0ab"
+        ],
+        "x": 655,
+        "y": 1580,
+        "wires": [
+            [
+                "0de54509db195c49"
+            ]
+        ]
+    },
+    {
+        "id": "44c01bb62561018a",
+        "type": "ui_button",
+        "z": "2e27dea6.c4c362",
+        "g": "a52d17ad75acd9f6",
+        "name": "Versión",
+        "group": "ac27a3905053ab85",
+        "order": 6,
+        "width": 1,
+        "height": 1,
+        "passthru": false,
+        "label": "",
+        "tooltip": "",
+        "color": "#000000",
+        "bgcolor": "#e7e9e8",
+        "icon": "fa-television",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "",
+        "topicType": "str",
+        "x": 1000,
+        "y": 1640,
+        "wires": [
+            [
+                "fb25711aad99f0ab"
+            ]
+        ]
+    },
+    {
+        "id": "781e146bc6ccd51d",
+        "type": "ui_button",
+        "z": "2e27dea6.c4c362",
+        "g": "a52d17ad75acd9f6",
+        "name": "Versión",
+        "group": "004d1834de0cfaf4",
+        "order": 6,
+        "width": 1,
+        "height": 1,
+        "passthru": false,
+        "label": "",
+        "tooltip": "",
+        "color": "#000000",
+        "bgcolor": "#e7e9e8",
+        "icon": "fa-television",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "",
+        "topicType": "str",
+        "x": 1000,
+        "y": 1680,
+        "wires": [
+            [
+                "fb25711aad99f0ab"
+            ]
+        ]
+    },
+    {
+        "id": "f37caa43e5bdd65c",
+        "type": "ui_button",
+        "z": "2e27dea6.c4c362",
+        "g": "a52d17ad75acd9f6",
+        "name": "Versión",
+        "group": "4194befa15c3251e",
+        "order": 6,
+        "width": 1,
+        "height": 1,
+        "passthru": false,
+        "label": "",
+        "tooltip": "",
+        "color": "#000000",
+        "bgcolor": "#e7e9e8",
+        "icon": "fa-television",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "",
+        "topicType": "str",
+        "x": 1000,
+        "y": 1720,
+        "wires": [
+            [
+                "fb25711aad99f0ab"
+            ]
+        ]
+    },
+    {
+        "id": "3c6559c39f49ad55",
+        "type": "ui_button",
+        "z": "2e27dea6.c4c362",
+        "g": "a52d17ad75acd9f6",
+        "name": "Versión",
+        "group": "503fa0fc34368bef",
+        "order": 6,
+        "width": 1,
+        "height": 1,
+        "passthru": false,
+        "label": "",
+        "tooltip": "",
+        "color": "#000000",
+        "bgcolor": "#e7e9e8",
+        "icon": "fa-television",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "",
+        "topicType": "str",
+        "x": 1000,
+        "y": 1800,
+        "wires": [
+            [
+                "fb25711aad99f0ab"
+            ]
+        ]
+    },
+    {
+        "id": "c8f8a61db9ec9892",
+        "type": "ui_button",
+        "z": "2e27dea6.c4c362",
+        "g": "a52d17ad75acd9f6",
+        "name": "Versión",
+        "group": "73d37e5b1f2a302a",
+        "order": 6,
+        "width": 1,
+        "height": 1,
+        "passthru": false,
+        "label": "",
+        "tooltip": "",
+        "color": "#000000",
+        "bgcolor": "#e7e9e8",
+        "icon": "fa-television",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "",
+        "topicType": "str",
+        "x": 1000,
+        "y": 1840,
+        "wires": [
+            [
+                "fb25711aad99f0ab"
+            ]
+        ]
+    },
+    {
+        "id": "ea47fc1bfe310629",
+        "type": "ui_button",
+        "z": "2e27dea6.c4c362",
+        "g": "a52d17ad75acd9f6",
+        "name": "Versión",
+        "group": "ab77be5a0af25d0a",
+        "order": 6,
+        "width": 1,
+        "height": 1,
+        "passthru": false,
+        "label": "",
+        "tooltip": "",
+        "color": "#000000",
+        "bgcolor": "#e7e9e8",
+        "icon": "fa-television",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "",
+        "topicType": "str",
+        "x": 1000,
+        "y": 1880,
+        "wires": [
+            [
+                "fb25711aad99f0ab"
+            ]
+        ]
+    },
+    {
+        "id": "c9d95e877bcbe5af",
+        "type": "ui_button",
+        "z": "2e27dea6.c4c362",
+        "g": "a52d17ad75acd9f6",
+        "name": "Versión",
+        "group": "ffa9778f5ac19260",
+        "order": 7,
+        "width": 1,
+        "height": 1,
+        "passthru": false,
+        "label": "",
+        "tooltip": "",
+        "color": "#000000",
+        "bgcolor": "#e7e9e8",
+        "icon": "fa-television",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "",
+        "topicType": "str",
+        "x": 1000,
+        "y": 1920,
+        "wires": [
+            [
+                "fb25711aad99f0ab"
+            ]
+        ]
+    },
+    {
+        "id": "fb25711aad99f0ab",
+        "type": "link out",
+        "z": "2e27dea6.c4c362",
+        "g": "a52d17ad75acd9f6",
+        "name": "",
+        "links": [
+            "9661d016b799c47d"
+        ],
+        "x": 1155,
+        "y": 1760,
+        "wires": []
+    },
+    {
+        "id": "926a1d996bc4f861",
+        "type": "link out",
+        "z": "902fc438.e5d758",
+        "g": "7bc9759a9a7ea0be",
+        "name": "Presion de entrada",
+        "links": [
+            "0272f655184b1455"
+        ],
+        "x": 3675,
+        "y": 1240,
+        "wires": []
+    },
+    {
+        "id": "a113dced781adea1",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "group": "ffa9778f5ac19260",
+        "order": 6,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "PIP:",
+        "format": "{{msg.payload}} psi",
+        "layout": "row-center",
+        "x": 210,
+        "y": 2340,
+        "wires": []
+    },
+    {
+        "id": "0272f655184b1455",
+        "type": "link in",
+        "z": "2e27dea6.c4c362",
+        "name": "",
+        "links": [
+            "926a1d996bc4f861"
+        ],
+        "x": 75,
+        "y": 2160,
+        "wires": [
+            [
+                "a113dced781adea1",
+                "fd9df925b6b07f76",
+                "2056eb0f7e7e2bf2",
+                "db5b715c8277123d",
+                "6cdc598e6316204d",
+                "2f3550a6539bebbd",
+                "52d9af58eeda01b4",
+                "926ae5bcb63a9e92",
+                "f5484f5cf7f3b115"
+            ]
+        ]
+    },
+    {
+        "id": "fd9df925b6b07f76",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "group": "ac27a3905053ab85",
+        "order": 5,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "PIP:",
+        "format": "{{msg.payload}} psi",
+        "layout": "row-center",
+        "x": 210,
+        "y": 2060,
+        "wires": []
+    },
+    {
+        "id": "2056eb0f7e7e2bf2",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "group": "004d1834de0cfaf4",
+        "order": 5,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "PIP:",
+        "format": "{{msg.payload}} psi",
+        "layout": "row-center",
+        "x": 210,
+        "y": 2100,
+        "wires": []
+    },
+    {
+        "id": "db5b715c8277123d",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "group": "4194befa15c3251e",
+        "order": 5,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "PIP:",
+        "format": "{{msg.payload}} psi",
+        "layout": "row-center",
+        "x": 210,
+        "y": 2140,
+        "wires": []
+    },
+    {
+        "id": "6cdc598e6316204d",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "group": "503fa0fc34368bef",
+        "order": 5,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "PIP:",
+        "format": "{{msg.payload}} psi",
+        "layout": "row-center",
+        "x": 210,
+        "y": 2220,
+        "wires": []
+    },
+    {
+        "id": "2f3550a6539bebbd",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "group": "73d37e5b1f2a302a",
+        "order": 5,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "PIP:",
+        "format": "{{msg.payload}} psi",
+        "layout": "row-center",
+        "x": 210,
+        "y": 2260,
+        "wires": []
+    },
+    {
+        "id": "52d9af58eeda01b4",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "group": "ab77be5a0af25d0a",
+        "order": 5,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "PIP:",
+        "format": "{{msg.payload}} psi",
+        "layout": "row-center",
+        "x": 210,
+        "y": 2300,
+        "wires": []
+    },
+    {
+        "id": "926ae5bcb63a9e92",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "group": "4f5b8416.cada1c",
+        "order": 5,
+        "width": 2,
+        "height": 1,
+        "name": "",
+        "label": "PIP:",
+        "format": "{{msg.payload}} psi",
+        "layout": "row-center",
+        "x": 210,
+        "y": 2020,
+        "wires": []
+    },
+    {
+        "id": "9d8018f614d8e077",
+        "type": "link out",
+        "z": "902fc438.e5d758",
+        "g": "086b9d08c3b68939",
+        "name": "Frecuencia actual",
+        "links": [
+            "3d9c6b81e9f98830"
+        ],
+        "x": 785,
+        "y": 1460,
+        "wires": []
+    },
+    {
+        "id": "ba3a3c9fe2fc1118",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "group": "ac27a3905053ab85",
+        "order": 3,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "Vel. Actual:",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "x": 530,
+        "y": 2020,
+        "wires": []
+    },
+    {
+        "id": "3d9c6b81e9f98830",
+        "type": "link in",
+        "z": "2e27dea6.c4c362",
+        "name": "",
+        "links": [
+            "9d8018f614d8e077"
+        ],
+        "x": 375,
+        "y": 2140,
+        "wires": [
+            [
+                "ba3a3c9fe2fc1118",
+                "90e328f62b239dc0",
+                "b2db056afe0c1791",
+                "d67948806bd97911",
+                "86035c80d5f22d8d",
+                "e33b148944092a64",
+                "cb79672c96e6b4aa",
+                "12ea868abb1cf71a",
+                "a7bc481d1310ef82"
+            ]
+        ]
+    },
+    {
+        "id": "d67948806bd97911",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "group": "004d1834de0cfaf4",
+        "order": 3,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "Vel. Actual:",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "x": 530,
+        "y": 2060,
+        "wires": []
+    },
+    {
+        "id": "b2db056afe0c1791",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "group": "4194befa15c3251e",
+        "order": 3,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "Vel. Actual:",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "x": 530,
+        "y": 2100,
+        "wires": []
+    },
+    {
+        "id": "90e328f62b239dc0",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "group": "503fa0fc34368bef",
+        "order": 3,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "Vel. Actual:",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "x": 530,
+        "y": 2180,
+        "wires": []
+    },
+    {
+        "id": "86035c80d5f22d8d",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "group": "73d37e5b1f2a302a",
+        "order": 3,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "Vel. Actual:",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "x": 530,
+        "y": 2220,
+        "wires": []
+    },
+    {
+        "id": "e33b148944092a64",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "group": "ab77be5a0af25d0a",
+        "order": 3,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "Vel. Actual:",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "x": 530,
+        "y": 2260,
+        "wires": []
+    },
+    {
+        "id": "cb79672c96e6b4aa",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "group": "ffa9778f5ac19260",
+        "order": 4,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "Vel. Actual:",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "x": 530,
+        "y": 2300,
+        "wires": []
+    },
+    {
+        "id": "27f4db4d8357407b",
+        "type": "ui_led",
+        "z": "2e27dea6.c4c362",
+        "g": "2da065ba546c3529",
+        "order": 1,
+        "group": "4190699f61725da4",
+        "width": 4,
+        "height": 1,
+        "label": "C2S: {{msg.payload}}",
+        "labelPlacement": "right",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "FALLA de variador!",
+                "valueType": "str"
+            },
+            {
+                "color": "#ff0000",
+                "value": "FALLA de protección!",
+                "valueType": "str"
+            },
+            {
+                "color": "#ffa500",
+                "value": "ALARMA!",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "EN MARCHA",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "ACTIVO Acelerando",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "ACTIVO Desacelerando",
+                "valueType": "str"
+            },
+            {
+                "color": "#808080",
+                "value": "DETENIDO",
+                "valueType": "str"
+            },
+            {
+                "color": "#000000",
+                "value": "Falla de comunicación",
+                "valueType": "str"
+            },
+            {
+                "color": "#ffff00",
+                "value": "Variador deshabilitado",
+                "valueType": "str"
+            },
+            {
+                "color": "#ff0000",
+                "value": "Falla general",
+                "valueType": "str"
+            },
+            {
+                "color": "#ffa500",
+                "value": "Falla communicación I/O",
+                "valueType": "str"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "",
+        "x": 230,
+        "y": 1760,
+        "wires": []
+    },
+    {
+        "id": "f6a49b42fa00401a",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "g": "08268a4bd4859ab8",
+        "group": "4190699f61725da4",
+        "order": 2,
+        "width": 2,
+        "height": 1,
+        "name": "",
+        "label": "Vel. Ref: ",
+        "format": "  {{msg.payload}}",
+        "layout": "row-center",
+        "className": "",
+        "x": 520,
+        "y": 1760,
+        "wires": []
+    },
+    {
+        "id": "fccf76deaf649d1f",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "g": "998532256f00cecc",
+        "group": "4190699f61725da4",
+        "order": 4,
+        "width": 1,
+        "height": 1,
+        "name": "",
+        "label": "Rtx: ",
+        "format": "  {{msg.payload}}",
+        "layout": "row-center",
+        "className": "",
+        "x": 790,
+        "y": 1760,
+        "wires": []
+    },
+    {
+        "id": "9aca85ee1112925e",
+        "type": "ui_button",
+        "z": "2e27dea6.c4c362",
+        "g": "a52d17ad75acd9f6",
+        "name": "Versión",
+        "group": "4190699f61725da4",
+        "order": 6,
+        "width": 1,
+        "height": 1,
+        "passthru": false,
+        "label": "",
+        "tooltip": "",
+        "color": "#000000",
+        "bgcolor": "#e7e9e8",
+        "className": "",
+        "icon": "fa-television",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "",
+        "topicType": "str",
+        "x": 1000,
+        "y": 1760,
+        "wires": [
+            [
+                "fb25711aad99f0ab"
+            ]
+        ]
+    },
+    {
+        "id": "f5484f5cf7f3b115",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "group": "4190699f61725da4",
+        "order": 5,
+        "width": 2,
+        "height": 1,
+        "name": "",
+        "label": "PIP:",
+        "format": "{{msg.payload}} psi",
+        "layout": "row-center",
+        "className": "",
+        "x": 210,
+        "y": 2180,
+        "wires": []
+    },
+    {
+        "id": "12ea868abb1cf71a",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "group": "4190699f61725da4",
+        "order": 3,
+        "width": 2,
+        "height": 1,
+        "name": "",
+        "label": "Vel. Actual:",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "className": "",
+        "x": 530,
+        "y": 2140,
+        "wires": []
+    },
+    {
+        "id": "a7bc481d1310ef82",
+        "type": "ui_text",
+        "z": "2e27dea6.c4c362",
+        "group": "4f5b8416.cada1c",
+        "order": 3,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "Vel. Actual:",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "className": "",
+        "x": 530,
+        "y": 2340,
         "wires": []
     }
 ]
