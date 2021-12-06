@@ -1139,12 +1139,11 @@
             "61c02e812fb48b72",
             "dd63ba6d.b10768",
             "a6a55c6001e65244",
-            "b269ff5b6732d608"
+            "b269ff5b6732d608",
+            "0f2c231df155d32b"
         ],
         "x": 24,
-        "y": 609,
-        "w": 2632,
-        "h": 552
+        "y": 609
     },
     {
         "id": "3cb51855.a66038",
@@ -1159,9 +1158,7 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169,
-        "w": 232,
-        "h": 82
+        "y": 1169
     },
     {
         "id": "27a0641a.d154dc",
@@ -1755,9 +1752,7 @@
             "8978c0c9.4411"
         ],
         "x": 1534,
-        "y": 359,
-        "w": 1192,
-        "h": 732
+        "y": 359
     },
     {
         "id": "99671f60976b1d2a",
@@ -1791,9 +1786,7 @@
             "64eb3a5330da4f87"
         ],
         "x": 1544,
-        "y": 29,
-        "w": 1482,
-        "h": 292
+        "y": 29
     },
     {
         "id": "95daead77be77494",
@@ -1840,9 +1833,7 @@
             "0990c77b15bde411"
         ],
         "x": 994,
-        "y": 649,
-        "w": 532,
-        "h": 732
+        "y": 649
     },
     {
         "id": "87fca62744442ad4",
@@ -1881,9 +1872,7 @@
             "19a66bb9.eaa504"
         ],
         "x": 44,
-        "y": 409,
-        "w": 702,
-        "h": 272
+        "y": 409
     },
     {
         "id": "a7f58aaec292b159",
@@ -1926,9 +1915,7 @@
             "30359a42be66cafb"
         ],
         "x": 44,
-        "y": 689,
-        "w": 812,
-        "h": 272
+        "y": 689
     },
     {
         "id": "37b64a70f39dda06",
@@ -1967,9 +1954,7 @@
             "e0a3fe6a.f68a1"
         ],
         "x": 44,
-        "y": 969,
-        "w": 742,
-        "h": 272
+        "y": 969
     },
     {
         "id": "ee5753bdd6eedb72",
@@ -1994,9 +1979,7 @@
             "ddc7c55f2c0f73c9"
         ],
         "x": 44,
-        "y": 219,
-        "w": 812,
-        "h": 182
+        "y": 219
     },
     {
         "id": "931b0370.afc1b",
@@ -2102,13 +2085,15 @@
             "label": true
         },
         "nodes": [
-            "dad84feb.d4773",
             "7aad629d.de652c",
             "8f8a192b.bb2ef8",
-            "b9df7528.923398"
+            "b9df7528.923398",
+            "dad84feb.d4773"
         ],
         "x": 28,
-        "y": 23
+        "y": 23,
+        "w": 2970,
+        "h": 1284
     },
     {
         "id": "83483662ea05d247",
@@ -2166,9 +2151,7 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269,
-        "w": 352,
-        "h": 82
+        "y": 1269
     },
     {
         "id": "6202107f.ed9aa",
@@ -2244,9 +2227,7 @@
             "28f9623a0f710b9d"
         ],
         "x": 44,
-        "y": -1,
-        "w": 1992,
-        "h": 602
+        "y": -1
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -2278,9 +2259,7 @@
             "7bc9759a9a7ea0be"
         ],
         "x": 3224,
-        "y": -1,
-        "w": 1284,
-        "h": 1708
+        "y": -1
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -2301,9 +2280,7 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169,
-        "w": 782,
-        "h": 182
+        "y": 1169
     },
     {
         "id": "086b9d08c3b68939",
@@ -2334,9 +2311,7 @@
             "5bd4c7b34ec6fe9c"
         ],
         "x": 24,
-        "y": 1359,
-        "w": 1022,
-        "h": 292
+        "y": 1359
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -2362,9 +2337,7 @@
             "6e75b5f5657d3a7e"
         ],
         "x": 24,
-        "y": 1679,
-        "w": 1132,
-        "h": 202
+        "y": 1679
     },
     {
         "id": "afdbbb533d628687",
@@ -2380,9 +2353,7 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679,
-        "w": 332,
-        "h": 82
+        "y": 1679
     },
     {
         "id": "ba075c8cc622876a",
@@ -2543,7 +2514,9 @@
             "afcd8222.ca23b"
         ],
         "x": 18,
-        "y": 23
+        "y": 23,
+        "w": 2204,
+        "h": 1014
     },
     {
         "id": "b97e1be50a47bba6",
@@ -3262,7 +3235,10 @@
             "c3c6f48e93405386",
             "0a8cf06fd166c42e",
             "68a2367b68a2d36b",
-            "74b76e998626d493"
+            "74b76e998626d493",
+            "8b6c1f1de90514c9",
+            "3232c7cbd0e96a18",
+            "8f3bb3f83df36820"
         ],
         "x": 634,
         "y": 59
@@ -3847,84 +3823,6 @@
         "y": 53
     },
     {
-        "id": "dad84feb.d4773",
-        "type": "group",
-        "z": "d08f14e12055286a",
-        "g": "e3aa057d.09fb18",
-        "name": "",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "c0305bdc.676a28",
-            "3781fe66.587af2",
-            "2e7249b4.58bd66",
-            "32c8b0ee.45f27",
-            "66ec00f0.b69ff",
-            "383d0d61.1e6de2",
-            "14c9d205.a3aa7e",
-            "40db7d54.6eda64",
-            "853cd9a2.d77cf8",
-            "e603fb56.c7b328",
-            "7a545a2b.6f6b74",
-            "8276f23c.bfc3f",
-            "6db9c12b.c8705",
-            "c325ce5a.11ef9",
-            "12c8fd79.9681e3",
-            "60c61f62.f5c34",
-            "cb35c95f.b22ce8",
-            "364f96f4.f46f0a",
-            "a6252416.b477e8",
-            "587d6709.b2cc68",
-            "1efee279.9d3c5e",
-            "24b7cec5.441a12",
-            "9beed943.b3e2c8",
-            "9209505b.0e275",
-            "7c8924eb.60c91c",
-            "58e6dd7.174e024",
-            "36e990a0.a6e0b",
-            "3c3c201f.7b4db",
-            "8aebe900.f1cdd8",
-            "633be9f8.688fd8",
-            "55b87356.a4664c",
-            "ff0d6d6.216379",
-            "14170dd0.bdfb02",
-            "46402130.f1178",
-            "98d021b5.4ab52",
-            "ee2f7708.642508",
-            "b7da3a44.60ff68",
-            "6e5aa94d.e5afd8",
-            "37db10ec.6a6f7",
-            "f1031a6d.683328",
-            "bc0c7c1c.40245",
-            "c3276752.914e88",
-            "19f7e764da2b7e6d",
-            "533f18d250f0f542",
-            "c4c61df5.33583",
-            "faf07e5a91b1eecf",
-            "01509800705ed2e4",
-            "d163284a3410a96e",
-            "d44ef6369dfdda4b",
-            "0daf9cd5f1466dab",
-            "5237e183.b1e0e",
-            "221aa83c16ff94a6",
-            "de4880db95ed8834",
-            "d9b3e61d145ba55d",
-            "c1061922fbb55e35",
-            "3b9c1ffbdb77d781",
-            "1f7639cd6cd873fe",
-            "6b457186e495abc4",
-            "7bcb1c84fdd2354c",
-            "677759898efe0053",
-            "8a259519ac32d6f7",
-            "64c862c08b3c181c",
-            "dba5a375ebc26199",
-            "a5e1205e8fe1feed"
-        ],
-        "x": 54,
-        "y": 359
-    },
-    {
         "id": "7aad629d.de652c",
         "type": "group",
         "z": "d08f14e12055286a",
@@ -3983,10 +3881,13 @@
             "b8c12e8b.715b2",
             "fb15ee5c8bf9c323",
             "b41706e9a776a44b",
-            "b4c9b17bde2f220c"
+            "b4c9b17bde2f220c",
+            "3b884b2fd586554b"
         ],
         "x": 54,
-        "y": 49
+        "y": 49,
+        "w": 2762,
+        "h": 302
     },
     {
         "id": "8f8a192b.bb2ef8",
@@ -4014,7 +3915,9 @@
             "4e19cfd4.3982f"
         ],
         "x": 1894,
-        "y": 439
+        "y": 439,
+        "w": 1062,
+        "h": 232
     },
     {
         "id": "b9df7528.923398",
@@ -4030,7 +3933,9 @@
             "65994a87.9d5eb4"
         ],
         "x": 1898,
-        "y": 683
+        "y": 683,
+        "w": 1074,
+        "h": 134
     },
     {
         "id": "6625e1db09743bc3",
@@ -4084,9 +3989,7 @@
             "1a666ca6835d2d34"
         ],
         "x": 74,
-        "y": 399,
-        "w": 852,
-        "h": 132
+        "y": 399
     },
     {
         "id": "cf985e84.c7693",
@@ -4181,10 +4084,15 @@
             "65e9bd38.989f24",
             "aa741b22.4cb5c8",
             "c19d91e6.6c67e",
-            "dd4ef7f.6489508"
+            "dd4ef7f.6489508",
+            "58d4c358f3e52e62",
+            "27d3ea91e6802fcd",
+            "5edc65e95426443c"
         ],
         "x": 44,
-        "y": 49
+        "y": 49,
+        "w": 2152,
+        "h": 962
     },
     {
         "id": "afcd8222.ca23b",
@@ -4216,7 +4124,9 @@
             "25037f6e145deee9"
         ],
         "x": 44,
-        "y": 649
+        "y": 649,
+        "w": 1152,
+        "h": 292
     },
     {
         "id": "487b4f399a10404b",
@@ -5116,9 +5026,7 @@
             "26836fe8d310f685"
         ],
         "x": 3428,
-        "y": 443,
-        "w": 1054,
-        "h": 758
+        "y": 443
     },
     {
         "id": "7bc9759a9a7ea0be",
@@ -5144,9 +5052,7 @@
             "21943ad363a68265"
         ],
         "x": 3434,
-        "y": 1199,
-        "w": 472,
-        "h": 482
+        "y": 1199
     },
     {
         "id": "6ef714d5a2569e8a",
@@ -5184,6 +5090,90 @@
         ],
         "x": 1044,
         "y": 459
+    },
+    {
+        "id": "dad84feb.d4773",
+        "type": "group",
+        "z": "d08f14e12055286a",
+        "g": "e3aa057d.09fb18",
+        "name": "",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "c0305bdc.676a28",
+            "3781fe66.587af2",
+            "2e7249b4.58bd66",
+            "32c8b0ee.45f27",
+            "66ec00f0.b69ff",
+            "383d0d61.1e6de2",
+            "14c9d205.a3aa7e",
+            "40db7d54.6eda64",
+            "853cd9a2.d77cf8",
+            "e603fb56.c7b328",
+            "7a545a2b.6f6b74",
+            "8276f23c.bfc3f",
+            "6db9c12b.c8705",
+            "c325ce5a.11ef9",
+            "12c8fd79.9681e3",
+            "60c61f62.f5c34",
+            "cb35c95f.b22ce8",
+            "364f96f4.f46f0a",
+            "a6252416.b477e8",
+            "587d6709.b2cc68",
+            "1efee279.9d3c5e",
+            "24b7cec5.441a12",
+            "9beed943.b3e2c8",
+            "9209505b.0e275",
+            "7c8924eb.60c91c",
+            "58e6dd7.174e024",
+            "36e990a0.a6e0b",
+            "3c3c201f.7b4db",
+            "8aebe900.f1cdd8",
+            "633be9f8.688fd8",
+            "55b87356.a4664c",
+            "ff0d6d6.216379",
+            "14170dd0.bdfb02",
+            "46402130.f1178",
+            "98d021b5.4ab52",
+            "ee2f7708.642508",
+            "37db10ec.6a6f7",
+            "bc0c7c1c.40245",
+            "c3276752.914e88",
+            "19f7e764da2b7e6d",
+            "533f18d250f0f542",
+            "c4c61df5.33583",
+            "faf07e5a91b1eecf",
+            "01509800705ed2e4",
+            "d163284a3410a96e",
+            "d44ef6369dfdda4b",
+            "0daf9cd5f1466dab",
+            "5237e183.b1e0e",
+            "221aa83c16ff94a6",
+            "de4880db95ed8834",
+            "d9b3e61d145ba55d",
+            "c1061922fbb55e35",
+            "3b9c1ffbdb77d781",
+            "1f7639cd6cd873fe",
+            "6b457186e495abc4",
+            "7bcb1c84fdd2354c",
+            "677759898efe0053",
+            "8a259519ac32d6f7",
+            "64c862c08b3c181c",
+            "dba5a375ebc26199",
+            "a5e1205e8fe1feed",
+            "773f8036c3b82c5a",
+            "9a2667af083a05aa",
+            "ebb8c35bfc89f743",
+            "031a951b39025950",
+            "3ab3e5be8fa6444d",
+            "e4415b43ed98c107",
+            "a1791b3eb78738f2"
+        ],
+        "x": 54,
+        "y": 359,
+        "w": 1752,
+        "h": 922
     },
     {
         "id": "a80677cf.4274c8",
@@ -5332,7 +5322,9 @@
             "f4363e16.f1813"
         ],
         "x": 1924,
-        "y": 709
+        "y": 709,
+        "w": 1022,
+        "h": 82
     },
     {
         "id": "dd4ef7f.6489508",
@@ -5363,7 +5355,9 @@
             "7af9ff4dabd191fb"
         ],
         "x": 1394,
-        "y": 389
+        "y": 389,
+        "w": 632,
+        "h": 222
     },
     {
         "id": "37d2bc6e.615114",
@@ -6528,9 +6522,7 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 469,
-        "w": 402,
-        "h": 362
+        "y": 469
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -6558,9 +6550,7 @@
             "1f3630da2492d4f9"
         ],
         "x": 3454,
-        "y": 839,
-        "w": 1002,
-        "h": 212
+        "y": 839
     },
     {
         "id": "d25d405a.19cff",
@@ -7297,6 +7287,14 @@
             {
                 "addr": "N154:41",
                 "name": "Max_Fwd_Speed_2"
+            },
+            {
+                "addr": "N45:30",
+                "name": "Last_Fault_Code_1"
+            },
+            {
+                "addr": "N45:31",
+                "name": "Last_Fault_Code_2"
             }
         ]
     },
@@ -8511,7 +8509,7 @@
         "tab": "f946bef3fe503852",
         "order": 3,
         "disp": false,
-        "width": "12",
+        "width": 9,
         "collapse": false
     },
     {
@@ -8547,6 +8545,7 @@
     {
         "id": "2fcd0c4888f1dd5f",
         "type": "ui_group",
+        "d": true,
         "name": "Amper Selector",
         "tab": "f946bef3fe503852",
         "order": 5,
@@ -8806,6 +8805,88 @@
         "order": 17,
         "width": "12",
         "height": "2"
+    },
+    {
+        "id": "021e969b990b83af",
+        "type": "ui_group",
+        "name": "Datos Actuales",
+        "tab": "f946bef3fe503852",
+        "order": 6,
+        "disp": true,
+        "width": "3",
+        "collapse": false
+    },
+    {
+        "id": "da2a95c4bd5d3ae7",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "df8934f2a1ce6562",
+        "order": 2,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "731bf8d79302a903",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "df8934f2a1ce6562",
+        "order": 3,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "e7bf6e86b7978e58",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "df8934f2a1ce6562",
+        "order": 4,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "13b4031a28a7474c",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "df8934f2a1ce6562",
+        "order": 5,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "b20c91b748a70bc7",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "df8934f2a1ce6562",
+        "order": 6,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "74066918dd543555",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "df8934f2a1ce6562",
+        "order": 7,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "4e0e5ae068725395",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "df8934f2a1ce6562",
+        "order": 8,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "9826815de4a88b48",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "df8934f2a1ce6562",
+        "order": 9,
+        "width": 6,
+        "height": 1
     },
     {
         "id": "8c24ec8f.cf43c",
@@ -10970,7 +11051,8 @@
             "9e6212a088a3de43",
             "ad037575e738b405",
             "dd3279e.534be88",
-            "65e9bd38.989f24"
+            "65e9bd38.989f24",
+            "3ab3e5be8fa6444d"
         ],
         "x": 1265,
         "y": 1210,
@@ -17100,1171 +17182,6 @@
         "wires": []
     },
     {
-        "id": "c0305bdc.676a28",
-        "type": "finite-state-machine",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Automatic Restart",
-        "fsmDefinition": "{\"state\":{\"status\":\"E0\"},\"transitions\":{\"E0\":{\"RA_ON\":\"E1\",\"RA_OFF\":\"E0\"},\"E1\":{\"Clear Failure\":\"E2\",\"Error\":\"E1\"},\"E2\":{\"Attempt in Range\":\"E3\",\"End of Attempts\":\"E4\"},\"E3\":{\"Restart Time elapsed\":\"E5\"},\"E4\":{\"Automatic Restart, Status Updated\":\"E1\"},\"E5\":{\"Reset executed\":\"E6\",\"Error\":\"E5\"},\"E6\":{\"Start executed\":\"E7\",\"Error\":\"E6\"},\"E7\":{\"Restored Accel\":\"E1\",\"Error or Busy\":\"E7\"}}}",
-        "sendInitialState": true,
-        "sendStateWithoutChange": true,
-        "showTransitionErrors": false,
-        "x": 1170,
-        "y": 500,
-        "wires": [
-            [
-                "853cd9a2.d77cf8"
-            ]
-        ]
-    },
-    {
-        "id": "3781fe66.587af2",
-        "type": "inject",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "",
-        "props": [
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "reset",
-        "x": 720,
-        "y": 500,
-        "wires": [
-            [
-                "c0305bdc.676a28"
-            ]
-        ]
-    },
-    {
-        "id": "2e7249b4.58bd66",
-        "type": "function",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "E2",
-        "func": "// Definitions\nvar AR = global.get(\"Control_functions.Automatic_Restart\")||0;\nvar Current_Attempt = AR.Attempts.Current_Attempt||0;\n\nCurrent_Attempt++;\nAR.Attempts.Current_Attempt = Current_Attempt;\nglobal.set(\"Control_functions.Automatic_Restart\",AR);\n\n// Transitions\nif( Current_Attempt <= AR.Attempts.Max ){\n    msg.topic = \"Attempt in Range\";\n}\nelse{\n    msg.topic = \"End of Attempts\";\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 580,
-        "y": 670,
-        "wires": [
-            [
-                "c325ce5a.11ef9"
-            ]
-        ]
-    },
-    {
-        "id": "32c8b0ee.45f27",
-        "type": "function",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "E3",
-        "func": "// Definitions\nvar AR              = global.get(\"Control_functions.Automatic_Restart\")||null;\nvar Attempt         = AR.Attempts.Current_Attempt || 0;\nvar max_index       = 0;\n\nvar Attempt_Array   = [ AR.Ramps.Accel1, AR.Ramps.Accel2, AR.Ramps.Accel3, AR.Ramps.Accel4 ];\nvar Restart_Array   = [ AR.Restart.Time1*60000, AR.Restart.Time2*60000, AR.Restart.Time3*60000, AR.Restart.Time4*60000];\n\nif(AR.Ramps.Enable_Accel4     === true){    max_index = 3; }\nelse if(AR.Ramps.Enable_Accel3 === true){   max_index = 2; }\nelse if(AR.Ramps.Enable_Accel2 === true){   max_index = 1; }\nelse if(AR.Ramps.Enable_Accel1 === true){   max_index = 0; }\n\n// Code Excecution\nif(Attempt - 1 <= max_index ){  msg.payload = Attempt_Array[Attempt - 1]; \n                                msg.delay   = Restart_Array[Attempt - 1];\n}\nelse{                           msg.payload = Attempt_Array[max_index];\n                                msg.delay   = Restart_Array[max_index];\n}\n// Transition\nmsg.topic = \"Restart Time elapsed\";\nreturn msg;\n\n",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 580,
-        "y": 710,
-        "wires": [
-            [
-                "383d0d61.1e6de2",
-                "c1723a65.a620c8",
-                "c4c61df5.33583"
-            ]
-        ]
-    },
-    {
-        "id": "66ec00f0.b69ff",
-        "type": "function",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "E4",
-        "func": "// Definitions\nvar AR = global.get(\"Control_functions.Automatic_Restart\");\nAR.Attempts.Current_Attempt = AR.Attempts.Max;\nmsg.payload = \"End of Attemps reached!\";\n// Transition\nmsg.topic = \"Automatic Restart, Status Updated\";\nreturn msg;\n\n",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 580,
-        "y": 750,
-        "wires": [
-            [
-                "60c61f62.f5c34",
-                "8aebe900.f1cdd8"
-            ]
-        ]
-    },
-    {
-        "id": "383d0d61.1e6de2",
-        "type": "delay",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Restart Time",
-        "pauseType": "delayv",
-        "timeout": "60",
-        "timeoutUnits": "seconds",
-        "rate": "1",
-        "nbRateUnits": "1",
-        "rateUnits": "second",
-        "randomFirst": "1",
-        "randomLast": "5",
-        "randomUnits": "seconds",
-        "drop": false,
-        "x": 720,
-        "y": 710,
-        "wires": [
-            [
-                "12c8fd79.9681e3"
-            ]
-        ]
-    },
-    {
-        "id": "14c9d205.a3aa7e",
-        "type": "link in",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Automatic Restart Update State",
-        "links": [
-            "12c8fd79.9681e3",
-            "1ef779a27f308aef",
-            "364f96f4.f46f0a",
-            "4e19cfd4.3982f",
-            "587d6709.b2cc68",
-            "60c61f62.f5c34",
-            "7c8924eb.60c91c",
-            "8276f23c.bfc3f",
-            "c325ce5a.11ef9",
-            "47e3f2c89dc80ae1"
-        ],
-        "x": 675,
-        "y": 460,
-        "wires": [
-            [
-                "c0305bdc.676a28"
-            ]
-        ]
-    },
-    {
-        "id": "40db7d54.6eda64",
-        "type": "link in",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Automatic Restart State Input",
-        "links": [
-            "853cd9a2.d77cf8"
-        ],
-        "x": 305,
-        "y": 710,
-        "wires": [
-            [
-                "e603fb56.c7b328"
-            ]
-        ]
-    },
-    {
-        "id": "853cd9a2.d77cf8",
-        "type": "link out",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Automatic Restart New State",
-        "links": [
-            "40db7d54.6eda64"
-        ],
-        "x": 1315,
-        "y": 520,
-        "wires": []
-    },
-    {
-        "id": "e603fb56.c7b328",
-        "type": "switch",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "",
-        "property": "payload.status",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "E0",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "E2",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "E3",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "E4",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "E5",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "E6",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "E7",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 7,
-        "x": 390,
-        "y": 710,
-        "wires": [
-            [
-                "58e6dd7.174e024"
-            ],
-            [
-                "2e7249b4.58bd66",
-                "d44ef6369dfdda4b"
-            ],
-            [
-                "32c8b0ee.45f27"
-            ],
-            [
-                "66ec00f0.b69ff"
-            ],
-            [
-                "d9b3e61d145ba55d"
-            ],
-            [
-                "37db10ec.6a6f7"
-            ],
-            [
-                "faf07e5a91b1eecf",
-                "3c3c201f.7b4db"
-            ]
-        ]
-    },
-    {
-        "id": "7a545a2b.6f6b74",
-        "type": "change",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "E0",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "RA_ON",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 750,
-        "y": 610,
-        "wires": [
-            [
-                "8276f23c.bfc3f"
-            ]
-        ]
-    },
-    {
-        "id": "8276f23c.bfc3f",
-        "type": "link out",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Automatic Restart E0",
-        "links": [
-            "14c9d205.a3aa7e"
-        ],
-        "x": 835,
-        "y": 610,
-        "wires": []
-    },
-    {
-        "id": "6db9c12b.c8705",
-        "type": "change",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "E1",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Clear Failure",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 860,
-        "y": 540,
-        "wires": [
-            [
-                "c0305bdc.676a28"
-            ]
-        ]
-    },
-    {
-        "id": "c325ce5a.11ef9",
-        "type": "link out",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Automatic Restart E2",
-        "links": [
-            "14c9d205.a3aa7e",
-            "679d1a7bed80c240"
-        ],
-        "x": 825,
-        "y": 670,
-        "wires": []
-    },
-    {
-        "id": "12c8fd79.9681e3",
-        "type": "link out",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Automatic Restart E3",
-        "links": [
-            "14c9d205.a3aa7e",
-            "1be77946.3d6847",
-            "bc0c7c1c.40245"
-        ],
-        "x": 825,
-        "y": 710,
-        "wires": []
-    },
-    {
-        "id": "60c61f62.f5c34",
-        "type": "link out",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Automatic Restart E4",
-        "links": [
-            "14c9d205.a3aa7e"
-        ],
-        "x": 825,
-        "y": 750,
-        "wires": []
-    },
-    {
-        "id": "cb35c95f.b22ce8",
-        "type": "change",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Reset executed",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Reset executed",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1430,
-        "y": 830,
-        "wires": [
-            [
-                "364f96f4.f46f0a"
-            ]
-        ]
-    },
-    {
-        "id": "364f96f4.f46f0a",
-        "type": "link out",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Automatic Restart E5",
-        "links": [
-            "14c9d205.a3aa7e"
-        ],
-        "x": 1545,
-        "y": 830,
-        "wires": []
-    },
-    {
-        "id": "a6252416.b477e8",
-        "type": "change",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Start executed",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Start executed",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1430,
-        "y": 870,
-        "wires": [
-            [
-                "587d6709.b2cc68"
-            ]
-        ]
-    },
-    {
-        "id": "587d6709.b2cc68",
-        "type": "link out",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Automatic Restart E6",
-        "links": [
-            "14c9d205.a3aa7e"
-        ],
-        "x": 1545,
-        "y": 870,
-        "wires": []
-    },
-    {
-        "id": "1efee279.9d3c5e",
-        "type": "change",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Accel",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "C2S.Speed_Control.Accel",
-                "tot": "global"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 920,
-        "y": 968,
-        "wires": [
-            [
-                "ee2f7708.642508"
-            ]
-        ]
-    },
-    {
-        "id": "24b7cec5.441a12",
-        "type": "switch",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "",
-        "property": "payload.code",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "0",
-                "vt": "num"
-            },
-            {
-                "t": "neq",
-                "v": "0",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 1200,
-        "y": 968,
-        "wires": [
-            [
-                "9beed943.b3e2c8"
-            ],
-            [
-                "9209505b.0e275"
-            ]
-        ]
-    },
-    {
-        "id": "9beed943.b3e2c8",
-        "type": "change",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Restored Accel",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Restored Accel",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1370,
-        "y": 968,
-        "wires": [
-            [
-                "7c8924eb.60c91c",
-                "19f7e764da2b7e6d"
-            ]
-        ]
-    },
-    {
-        "id": "9209505b.0e275",
-        "type": "change",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Error",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Error or Busy",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 920,
-        "y": 1018,
-        "wires": [
-            [
-                "7c8924eb.60c91c"
-            ]
-        ]
-    },
-    {
-        "id": "7c8924eb.60c91c",
-        "type": "link out",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Automatic Restart E7",
-        "links": [
-            "14c9d205.a3aa7e"
-        ],
-        "x": 1495,
-        "y": 1018,
-        "wires": []
-    },
-    {
-        "id": "58e6dd7.174e024",
-        "type": "switch",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Enable True",
-        "property": "Control_functions.Automatic_Restart.Enable",
-        "propertyType": "global",
-        "rules": [
-            {
-                "t": "true"
-            },
-            {
-                "t": "false"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 600,
-        "y": 630,
-        "wires": [
-            [
-                "7a545a2b.6f6b74"
-            ],
-            [
-                "ff0d6d6.216379"
-            ]
-        ]
-    },
-    {
-        "id": "36e990a0.a6e0b",
-        "type": "switch",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Accel Done?",
-        "property": "#:(memoryOnly)::C2S.Drive_Status.Accel",
-        "propertyType": "global",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "0",
-                "vt": "num"
-            },
-            {
-                "t": "neq",
-                "v": "0",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 750,
-        "y": 1008,
-        "wires": [
-            [
-                "1efee279.9d3c5e"
-            ],
-            [
-                "9209505b.0e275"
-            ]
-        ]
-    },
-    {
-        "id": "3c3c201f.7b4db",
-        "type": "delay",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "",
-        "pauseType": "delay",
-        "timeout": "10",
-        "timeoutUnits": "seconds",
-        "rate": "1",
-        "nbRateUnits": "1",
-        "rateUnits": "second",
-        "randomFirst": "1",
-        "randomLast": "5",
-        "randomUnits": "seconds",
-        "drop": false,
-        "x": 600,
-        "y": 1008,
-        "wires": [
-            [
-                "36e990a0.a6e0b"
-            ]
-        ]
-    },
-    {
-        "id": "8aebe900.f1cdd8",
-        "type": "ui_toast",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "position": "top right",
-        "displayTime": "10",
-        "highlight": "orange",
-        "sendall": true,
-        "outputs": 0,
-        "ok": "OK",
-        "cancel": "",
-        "raw": false,
-        "topic": "",
-        "name": "",
-        "x": 750,
-        "y": 790,
-        "wires": []
-    },
-    {
-        "id": "633be9f8.688fd8",
-        "type": "comment",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Re Arranque Automático",
-        "info": "",
-        "x": 190,
-        "y": 400,
-        "wires": []
-    },
-    {
-        "id": "55b87356.a4664c",
-        "type": "link in",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Automatic Restart enable In",
-        "links": [
-            "1ef779a27f308aef",
-            "47e3f2c89dc80ae1"
-        ],
-        "x": 775,
-        "y": 430,
-        "wires": [
-            [
-                "6b457186e495abc4"
-            ]
-        ]
-    },
-    {
-        "id": "ff0d6d6.216379",
-        "type": "change",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "E0",
-        "rules": [
-            {
-                "t": "set",
-                "p": "Control_functions.Automatic_Restart.Attempts.Current_Attempt",
-                "pt": "global",
-                "to": "0",
-                "tot": "num"
-            },
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "RA_OFF",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 750,
-        "y": 650,
-        "wires": [
-            [
-                "8276f23c.bfc3f"
-            ]
-        ]
-    },
-    {
-        "id": "14170dd0.bdfb02",
-        "type": "function",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Start & Falla Gral",
-        "func": "var Start_Stop  = global.get(\"C2S.FlagStatus\");\nvar FallaGral = global.get(\"IO.Functions.DO['Falla general']\",\"memoryOnly\");\n\nif(Start_Stop){\n    node.status({fill:\"green\",shape:\"dot\",text:\"Started\"});\n    return msg;\n}\nelse{\n    node.status({fill:\"yellow\",shape:\"dot\",text:\"Stoped\"});\n    return;\n}\n",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 680,
-        "y": 540,
-        "wires": [
-            [
-                "6db9c12b.c8705"
-            ]
-        ]
-    },
-    {
-        "id": "46402130.f1178",
-        "type": "complete",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "",
-        "scope": [
-            "32c8b0ee.45f27"
-        ],
-        "uncaught": false,
-        "x": 930,
-        "y": 610,
-        "wires": [
-            [
-                "98d021b5.4ab52",
-                "1f7639cd6cd873fe"
-            ]
-        ]
-    },
-    {
-        "id": "98d021b5.4ab52",
-        "type": "function",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Conteo Re-Arranque",
-        "func": "msg.payload = msg.delay/1000;\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1110,
-        "y": 650,
-        "wires": [
-            [
-                "dba5a375ebc26199"
-            ]
-        ]
-    },
-    {
-        "id": "ee2f7708.642508",
-        "type": "subflow:1ae6c379.02ea3d",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Accel Time",
-        "env": [
-            {
-                "name": "Parameter",
-                "value": "535",
-                "type": "num"
-            }
-        ],
-        "x": 1060,
-        "y": 968,
-        "wires": [
-            [],
-            [
-                "24b7cec5.441a12"
-            ]
-        ]
-    },
-    {
-        "id": "b7da3a44.60ff68",
-        "type": "link in",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Re Arranque Automático",
-        "links": [
-            "ad87cee4.7dbb5"
-        ],
-        "x": 115,
-        "y": 630,
-        "wires": [
-            [
-                "f1031a6d.683328",
-                "58e6dd7.174e024"
-            ]
-        ]
-    },
-    {
-        "id": "6e5aa94d.e5afd8",
-        "type": "inject",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "false",
-        "payloadType": "bool",
-        "x": 720,
-        "y": 580,
-        "wires": [
-            [
-                "6db9c12b.c8705"
-            ]
-        ]
-    },
-    {
-        "id": "37db10ec.6a6f7",
-        "type": "delay",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "",
-        "pauseType": "delay",
-        "timeout": "0.5",
-        "timeoutUnits": "seconds",
-        "rate": "1",
-        "nbRateUnits": "1",
-        "rateUnits": "second",
-        "randomFirst": "1",
-        "randomLast": "5",
-        "randomUnits": "seconds",
-        "drop": false,
-        "x": 650,
-        "y": 870,
-        "wires": [
-            [
-                "c1061922fbb55e35"
-            ]
-        ]
-    },
-    {
-        "id": "f1031a6d.683328",
-        "type": "delay",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "",
-        "pauseType": "delay",
-        "timeout": "20",
-        "timeoutUnits": "seconds",
-        "rate": "1",
-        "nbRateUnits": "1",
-        "rateUnits": "second",
-        "randomFirst": "1",
-        "randomLast": "5",
-        "randomUnits": "seconds",
-        "drop": false,
-        "allowrate": false,
-        "x": 280,
-        "y": 540,
-        "wires": [
-            [
-                "a5e1205e8fe1feed"
-            ]
-        ]
-    },
-    {
-        "id": "bc0c7c1c.40245",
-        "type": "link in",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Actualizar Referencia",
-        "links": [
-            "12c8fd79.9681e3"
-        ],
-        "x": 1155,
-        "y": 780,
-        "wires": [
-            [
-                "5237e183.b1e0e"
-            ]
-        ]
-    },
-    {
-        "id": "c3276752.914e88",
-        "type": "link in",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Re-Arranque desde función",
-        "links": [
-            "f4363e16.f1813"
-        ],
-        "x": 415,
-        "y": 622,
-        "wires": [
-            [
-                "6db9c12b.c8705"
-            ]
-        ]
-    },
-    {
-        "id": "19f7e764da2b7e6d",
-        "type": "delay",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "",
-        "pauseType": "delay",
-        "timeout": "1",
-        "timeoutUnits": "seconds",
-        "rate": "1",
-        "nbRateUnits": "1",
-        "rateUnits": "second",
-        "randomFirst": "1",
-        "randomLast": "5",
-        "randomUnits": "seconds",
-        "drop": false,
-        "x": 1540,
-        "y": 970,
-        "wires": [
-            [
-                "533f18d250f0f542",
-                "7bcb1c84fdd2354c"
-            ]
-        ]
-    },
-    {
-        "id": "533f18d250f0f542",
-        "type": "change",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Estado Funciones de control",
-        "rules": [
-            {
-                "t": "set",
-                "p": "#:(memoryOnly)::Control_functions.ActiveCF.AutomaticRestart",
-                "pt": "global",
-                "to": "false",
-                "tot": "bool"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1740,
-        "y": 970,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "c4c61df5.33583",
-        "type": "link out",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "arranque_cuenta_regresiva",
-        "links": [
-            "767252ac.e8fe6c"
-        ],
-        "x": 865,
-        "y": 690,
-        "wires": []
-    },
-    {
-        "id": "faf07e5a91b1eecf",
-        "type": "delay",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "",
-        "pauseType": "delay",
-        "timeout": "10",
-        "timeoutUnits": "minutes",
-        "rate": "1",
-        "nbRateUnits": "1",
-        "rateUnits": "second",
-        "randomFirst": "1",
-        "randomLast": "5",
-        "randomUnits": "seconds",
-        "drop": false,
-        "x": 650,
-        "y": 930,
-        "wires": [
-            [
-                "01509800705ed2e4"
-            ]
-        ]
-    },
-    {
-        "id": "01509800705ed2e4",
-        "type": "switch",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "",
-        "property": "#:(memoryOnly)::C2S.Drive_Status.Active",
-        "propertyType": "global",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "1",
-                "vt": "num"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 800,
-        "y": 930,
-        "wires": [
-            [
-                "d163284a3410a96e"
-            ]
-        ]
-    },
-    {
-        "id": "d163284a3410a96e",
-        "type": "change",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Limpiar intentos",
-        "rules": [
-            {
-                "t": "set",
-                "p": "Control_functions.Automatic_Restart.Attempts.Current_Attempt",
-                "pt": "global",
-                "to": "0",
-                "tot": "num"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 950,
-        "y": 930,
-        "wires": [
-            [
-                "c1723a65.a620c8"
-            ]
-        ]
-    },
-    {
-        "id": "d44ef6369dfdda4b",
-        "type": "switch",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Variador Active?",
-        "property": "#:(memoryOnly)::C2S.Drive_Status.Active",
-        "propertyType": "global",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "1",
-                "vt": "num"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 340,
-        "y": 820,
-        "wires": [
-            [
-                "0daf9cd5f1466dab"
-            ]
-        ]
-    },
-    {
-        "id": "0daf9cd5f1466dab",
-        "type": "change",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "reset",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 340,
-        "y": 860,
-        "wires": [
-            [
-                "c0305bdc.676a28"
-            ]
-        ]
-    },
-    {
         "id": "c5765955.018718",
         "type": "comment",
         "z": "d08f14e12055286a",
@@ -19920,235 +18837,6 @@
         "wires": []
     },
     {
-        "id": "5237e183.b1e0e",
-        "type": "function",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Referencia",
-        "func": "var Ref = global.get(\"C2S.Last_Reference.Value\",'file');\nmsg.payload = Ref;\nmsg.Topic = \"Arranque automático\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1260,
-        "y": 780,
-        "wires": [
-            [
-                "221aa83c16ff94a6"
-            ]
-        ]
-    },
-    {
-        "id": "221aa83c16ff94a6",
-        "type": "subflow:1fbf295f73cccb97",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "",
-        "x": 1430,
-        "y": 780,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "de4880db95ed8834",
-        "type": "subflow:c8b77ff3.ab501",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "",
-        "env": [],
-        "x": 1060,
-        "y": 780,
-        "wires": [
-            [],
-            []
-        ]
-    },
-    {
-        "id": "d9b3e61d145ba55d",
-        "type": "change",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "Reset",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Basic",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 660,
-        "y": 830,
-        "wires": [
-            [
-                "de4880db95ed8834",
-                "cb35c95f.b22ce8"
-            ]
-        ]
-    },
-    {
-        "id": "c1061922fbb55e35",
-        "type": "change",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "Start",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Basic",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 820,
-        "y": 870,
-        "wires": [
-            [
-                "a6252416.b477e8",
-                "8a259519ac32d6f7"
-            ]
-        ]
-    },
-    {
-        "id": "3b9c1ffbdb77d781",
-        "type": "subflow:c8b77ff3.ab501",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "",
-        "x": 1340,
-        "y": 910,
-        "wires": [
-            [],
-            []
-        ]
-    },
-    {
-        "id": "1f7639cd6cd873fe",
-        "type": "change",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Estado Funciones de control",
-        "rules": [
-            {
-                "t": "set",
-                "p": "#:(memoryOnly)::Control_functions.ActiveCF.AutomaticRestart",
-                "pt": "global",
-                "to": "true",
-                "tot": "bool"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1350,
-        "y": 610,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "6b457186e495abc4",
-        "type": "change",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Estado Funciones de control",
-        "rules": [
-            {
-                "t": "set",
-                "p": "#:(memoryOnly)::Control_functions.ActiveCF.AutomaticRestart",
-                "pt": "global",
-                "to": "false",
-                "tot": "bool"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 950,
-        "y": 430,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "7bcb1c84fdd2354c",
-        "type": "change",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "Arranque automático exitoso",
-                "tot": "str"
-            },
-            {
-                "t": "delete",
-                "p": "topic",
-                "pt": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1710,
-        "y": 920,
-        "wires": [
-            [
-                "677759898efe0053"
-            ]
-        ]
-    },
-    {
-        "id": "677759898efe0053",
-        "type": "link out",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "",
-        "links": [
-            "207ea8ce.3dea68",
-            "2da816b7.b2be9a"
-        ],
-        "x": 1825,
-        "y": 920,
-        "wires": []
-    },
-    {
         "id": "fb15ee5c8bf9c323",
         "type": "ui_dropdown",
         "z": "d08f14e12055286a",
@@ -20235,79 +18923,6 @@
         "reg": false,
         "x": 1790,
         "y": 100,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "8a259519ac32d6f7",
-        "type": "switch",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "",
-        "property": "Control_functions.Automatic_Restart.type",
-        "propertyType": "global",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "1",
-                "vt": "num"
-            },
-            {
-                "t": "eq",
-                "v": "2",
-                "vt": "num"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 1140,
-        "y": 920,
-        "wires": [
-            [
-                "3b9c1ffbdb77d781"
-            ],
-            [
-                "64c862c08b3c181c"
-            ]
-        ]
-    },
-    {
-        "id": "64c862c08b3c181c",
-        "type": "link out",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "",
-        "links": [
-            "5a992b9e.0fe264"
-        ],
-        "x": 1455,
-        "y": 930,
-        "wires": []
-    },
-    {
-        "id": "dba5a375ebc26199",
-        "type": "change",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "Conteo",
-        "rules": [
-            {
-                "t": "set",
-                "p": "#:(memoryOnly)::Control_functions.ActiveCF.Conteo",
-                "pt": "global",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1290,
-        "y": 650,
         "wires": [
             []
         ]
@@ -34268,7 +32883,7 @@
         "z": "dd18d94e.4b1408",
         "g": "b2f2659a.67f648",
         "name": "Interpretar comunicación",
-        "func": "var Uint16  =   new Uint16Array(40);\n\nUint16[0]   =   msg.payload.Logic_Status_1;     Uint16[1]   =   msg.payload.Logic_Status_2;\nUint16[2]   =   msg.payload.Output_Frequency_1; Uint16[3]   =   msg.payload.Output_Frequency_2;\nUint16[4]   =   msg.payload.Commanded_SpdRef_1; Uint16[5]   =   msg.payload.Commanded_SpdRef_2;\nUint16[6]   =   msg.payload.Mtr_Vel_Fdbk_1;     Uint16[7]   =   msg.payload.Mtr_Vel_Fdbk_2;\nUint16[8]   =   msg.payload.Output_Current_1;   Uint16[9]   =   msg.payload.Output_Current_2;\nUint16[10]  =   msg.payload.Output_Voltage_1;   Uint16[11]  =   msg.payload.Output_Voltage_2;\nUint16[12]  =   msg.payload.Output_Power_1;     Uint16[13]  =   msg.payload.Output_Power_2;\nUint16[14]  =   msg.payload.Output_Powr_Fctr_1; Uint16[15]  =   msg.payload.Output_Powr_Fctr_2;\nUint16[16]  =   msg.payload.DC_Bus_Volts_1;     Uint16[17]  =   msg.payload.DC_Bus_Volts_2;\nUint16[18]  =   msg.payload.Elapsed_Run_Time_1; Uint16[19]  =   msg.payload.Elapsed_Run_Time_2;\nUint16[20]  =   msg.payload.Elpsd_Mtr_kWHrs_1;  Uint16[21]  =   msg.payload.Elpsd_Mtr_kWHrs_2;\nUint16[22]  =   msg.payload.IGBT_Temp_C_1;      Uint16[23]  =   msg.payload.IGBT_Temp_C_2;\nUint16[24]  =   msg.payload.Drive_Temp_C_1;     Uint16[25]  =   msg.payload.Drive_Temp_C_2;\nUint16[26]  =   msg.payload.Last_Fault_Code_1;  Uint16[27]  =   msg.payload.Last_Fault_Code_2;\nUint16[28]  =   msg.payload.Digital_In_Sts_1;   Uint16[29]  =   msg.payload.Digital_In_Sts_2;\nUint16[30]  =   msg.payload.Tunning_Select_1;   Uint16[31]  =   msg.payload.Tunning_Select_2;\nUint16[32]  =   msg.payload.PMM_OL_Select_1;    Uint16[33]  =   msg.payload.PMM_OL_Select_2;\nUint16[34]  =   msg.payload.Accel_Time_1;       Uint16[35]  =   msg.payload.Accel_Time_2;\nUint16[36]  =   msg.payload.Decel_Time_1;       Uint16[37]  =   msg.payload.Decel_Time_2;\nUint16[38]  =   msg.payload.Max_Fwd_Speed_1;    Uint16[39]  =   msg.payload.Max_Fwd_Speed_2;\n\nvar Sts                 = [Uint16[0],Uint16[1]];\nvar Output_Frequency    = [Uint16[2],Uint16[3]];\nvar Commanded_SpdRef    = [Uint16[4],Uint16[5]];\nvar Mtr_Vel_Fdbk        = [Uint16[6],Uint16[7]];\nvar Output_Current      = [Uint16[8],Uint16[9]];\nvar Output_Voltage      = [Uint16[10],Uint16[11]];\nvar Output_Power        = [Uint16[12],Uint16[13]];\nvar Output_Powr_Fctr    = [Uint16[14],Uint16[15]];\nvar DC_Bus_Volts        = [Uint16[16],Uint16[17]];\nvar Elapsed_Run_Time    = [Uint16[18],Uint16[19]];\nvar Elpsd_Mtr_kWHrs     = [Uint16[20],Uint16[21]];\nvar IGBT_Temp_C         = [Uint16[22],Uint16[23]];\nvar Drive_Temp_C        = [Uint16[24],Uint16[25]];\nvar Last_Fault_Code     = [Uint16[26],Uint16[27]];\nvar Digital_In_Sts      = [1,1];\nvar Tunning_Select      = [Uint16[30],Uint16[31]];\nvar PMM_OL_Select       = [Uint16[32],Uint16[33]];\nvar Accel_Time          = [Uint16[34], Uint16[35]];\nvar Decel_Time          = [Uint16[36], Uint16[37]];\nvar Max_Fwd_Speed       = [Uint16[38], Uint16[39]];\n\nmsg.payload =   {\n    'Status_Word'       : Sts[0],\n    'Output_Frequency'  : parseFloat(Int2Float32(array16to32(Output_Frequency))),\n    'Commanded_SpdRef'  : parseFloat(Int2Float32(array16to32(Commanded_SpdRef)).toFixed(3)),\n    'Mtr_Vel_Fdbk'      : parseFloat(Int2Float32(array16to32(Mtr_Vel_Fdbk)).toFixed(3)),\n    'Output_Current'    : parseFloat(Int2Float32(array16to32(Output_Current)).toFixed(3)),\n    'Output_Voltage'    : parseFloat(Int2Float32(array16to32(Output_Voltage)).toFixed(3)),\n    'Output_Power'      : parseFloat(Int2Float32(array16to32(Output_Power)).toFixed(3)),\n    'Power_Factor'      : parseFloat(Int2Float32(array16to32(Output_Powr_Fctr)).toFixed(3)),\n    'Bus_DC_Volts'      : parseFloat(Int2Float32(array16to32(DC_Bus_Volts)).toFixed(3)),\n    'Elapsed_Run_Time'  : parseFloat(Int2Float32(array16to32(Elapsed_Run_Time)).toFixed(3)),\n    'Elpsd_Mtr_kWHrs'   : parseFloat(Int2Float32(array16to32(Elpsd_Mtr_kWHrs)).toFixed(3)),\n    'IGBT_Temp_C'       : parseFloat(Int2Float32(array16to32(IGBT_Temp_C)).toFixed(3)),\n    'Drive_Temp_C'      : parseFloat(Int2Float32(array16to32(Drive_Temp_C)).toFixed(3)),\n    'Last_Fault_Code'   : parseInt(array16to32(Last_Fault_Code)),\n    'Digital_In_Sts'    : parseInt(array16to32(Digital_In_Sts)),\n    'Tunning_Select'    : parseInt(array16to32(Tunning_Select)),\n    'PMM_OL_Select'     : parseInt(array16to32(PMM_OL_Select)),\n    'Accel_Time'        : parseFloat(Int2Float32(array16to32(Accel_Time)).toFixed(3)),\n    'Decel_Time'        : parseFloat(Int2Float32(array16to32(Decel_Time)).toFixed(3)),\n    'Max_Fwd_Speed'     : parseFloat(Int2Float32(array16to32(Max_Fwd_Speed)).toFixed(3))\n}\nreturn msg;\n\n// Combinar dos arrays de 16 bits en uno 32 bits\nfunction array16to32(array){\n    var intvalue = [];\n    for(var i=0; i<array.length; i++){\n        array[i] = array[i] << 16*i;\n        // @ts-ignore\n        intvalue = intvalue | array[i];\n    }\n    return intvalue;\n}\n// IEC 754 to Float Function\nfunction Int2Float32(bytes) {\n    var sign = (bytes & 0x80000000) ? -1 : 1;\n    var exponent = ((bytes >> 23) & 0xFF) - 127;\n    var significand = (bytes & ~(-1 << 23));\n\n    if (exponent == 128) \n        return sign * ((significand) ? Number.NaN : Number.POSITIVE_INFINITY);\n\n    if (exponent == -127) {\n        if (significand === 0) return sign * 0.0;\n        exponent = -126;\n        significand /= (1 << 22);\n    } else significand = (significand | (1 << 23)) / (1 << 23);\n\n    return sign * significand * Math.pow(2, exponent);\n}\n// Créditos: https://flows.nodered.org/flow/359ead34237b7ab6ec0465ee85a34b62\n//Fuente: https://stackoverflow.com/questions/47164675/convert-float-to-32bit-hex-string-in-javascript\n",
+        "func": "var Uint16  =   new Uint16Array(40);\n\nUint16[0]   =   msg.payload.Logic_Status_1;     Uint16[1]   =   msg.payload.Logic_Status_2;\nUint16[2]   =   msg.payload.Output_Frequency_1; Uint16[3]   =   msg.payload.Output_Frequency_2;\nUint16[4]   =   msg.payload.Commanded_SpdRef_1; Uint16[5]   =   msg.payload.Commanded_SpdRef_2;\nUint16[6]   =   msg.payload.Mtr_Vel_Fdbk_1;     Uint16[7]   =   msg.payload.Mtr_Vel_Fdbk_2;\nUint16[8]   =   msg.payload.Output_Current_1;   Uint16[9]   =   msg.payload.Output_Current_2;\nUint16[10]  =   msg.payload.Output_Voltage_1;   Uint16[11]  =   msg.payload.Output_Voltage_2;\nUint16[12]  =   msg.payload.Output_Power_1;     Uint16[13]  =   msg.payload.Output_Power_2;\nUint16[14]  =   msg.payload.Output_Powr_Fctr_1; Uint16[15]  =   msg.payload.Output_Powr_Fctr_2;\nUint16[16]  =   msg.payload.DC_Bus_Volts_1;     Uint16[17]  =   msg.payload.DC_Bus_Volts_2;\nUint16[18]  =   msg.payload.Elapsed_Run_Time_1; Uint16[19]  =   msg.payload.Elapsed_Run_Time_2;\nUint16[20]  =   msg.payload.Elpsd_Mtr_kWHrs_1;  Uint16[21]  =   msg.payload.Elpsd_Mtr_kWHrs_2;\nUint16[22]  =   msg.payload.IGBT_Temp_C_1;      Uint16[23]  =   msg.payload.IGBT_Temp_C_2;\nUint16[24]  =   msg.payload.Drive_Temp_C_1;     Uint16[25]  =   msg.payload.Drive_Temp_C_2;\nUint16[26]  =   msg.payload.Last_Fault_Code_1;  Uint16[27]  =   msg.payload.Last_Fault_Code_2;\nUint16[28]  =   msg.payload.Digital_In_Sts_1;   Uint16[29]  =   msg.payload.Digital_In_Sts_2;\nUint16[30]  =   msg.payload.Tunning_Select_1;   Uint16[31]  =   msg.payload.Tunning_Select_2;\nUint16[32]  =   msg.payload.PMM_OL_Select_1;    Uint16[33]  =   msg.payload.PMM_OL_Select_2;\nUint16[34]  =   msg.payload.Accel_Time_1;       Uint16[35]  =   msg.payload.Accel_Time_2;\nUint16[36]  =   msg.payload.Decel_Time_1;       Uint16[37]  =   msg.payload.Decel_Time_2;\nUint16[38]  =   msg.payload.Max_Fwd_Speed_1;    Uint16[39]  =   msg.payload.Max_Fwd_Speed_2;\n\nvar Sts                 = [Uint16[0],Uint16[1]];\nvar Output_Frequency    = [Uint16[2],Uint16[3]];\nvar Commanded_SpdRef    = [Uint16[4],Uint16[5]];\nvar Mtr_Vel_Fdbk        = [Uint16[6],Uint16[7]];\nvar Output_Current      = [Uint16[8],Uint16[9]];\nvar Output_Voltage      = [Uint16[10],Uint16[11]];\nvar Output_Power        = [Uint16[12],Uint16[13]];\nvar Output_Powr_Fctr    = [Uint16[14],Uint16[15]];\nvar DC_Bus_Volts        = [Uint16[16],Uint16[17]];\nvar Elapsed_Run_Time    = [Uint16[18],Uint16[19]];\nvar Elpsd_Mtr_kWHrs     = [Uint16[20],Uint16[21]];\nvar IGBT_Temp_C         = [Uint16[22],Uint16[23]];\nvar Drive_Temp_C        = [Uint16[24],Uint16[25]];\nvar Last_Fault_Code     = [Uint16[26],Uint16[27]];\nvar Digital_In_Sts      = [1,1];\nvar Tunning_Select      = [Uint16[30],Uint16[31]];\nvar PMM_OL_Select       = [Uint16[32],Uint16[33]];\nvar Accel_Time          = [Uint16[34], Uint16[35]];\nvar Decel_Time          = [Uint16[36], Uint16[37]];\nvar Max_Fwd_Speed       = [Uint16[38], Uint16[39]];\n\nmsg.payload =   {\n    'Status_Word'       : Sts[0],\n    'Output_Frequency'  : parseFloat(Int2Float32(array16to32(Output_Frequency))),\n    'Commanded_SpdRef'  : parseFloat(Int2Float32(array16to32(Commanded_SpdRef)).toFixed(3)),\n    'Mtr_Vel_Fdbk'      : parseFloat(Int2Float32(array16to32(Mtr_Vel_Fdbk)).toFixed(3)),\n    'Output_Current'    : parseFloat(Int2Float32(array16to32(Output_Current)).toFixed(3)),\n    'Output_Voltage'    : parseFloat(Int2Float32(array16to32(Output_Voltage)).toFixed(3)),\n    'Output_Power'      : parseFloat(Int2Float32(array16to32(Output_Power)).toFixed(3)),\n    'Power_Factor'      : parseFloat(Int2Float32(array16to32(Output_Powr_Fctr)).toFixed(3)),\n    'Bus_DC_Volts'      : parseFloat(Int2Float32(array16to32(DC_Bus_Volts)).toFixed(3)),\n    'Elapsed_Run_Time'  : parseFloat(Int2Float32(array16to32(Elapsed_Run_Time)).toFixed(3)),\n    'Elpsd_Mtr_kWHrs'   : parseFloat(Int2Float32(array16to32(Elpsd_Mtr_kWHrs)).toFixed(3)),\n    'IGBT_Temp_C'       : parseFloat(Int2Float32(array16to32(IGBT_Temp_C)).toFixed(3)),\n    'Drive_Temp_C'      : parseFloat(Int2Float32(array16to32(Drive_Temp_C)).toFixed(3)),\n    'Last_Fault_Code'   : parseInt(Last_Fault_Code),\n    'Digital_In_Sts'    : parseInt(array16to32(Digital_In_Sts)),\n    'Tunning_Select'    : parseInt(array16to32(Tunning_Select)),\n    'PMM_OL_Select'     : parseInt(array16to32(PMM_OL_Select)),\n    'Accel_Time'        : parseFloat(Int2Float32(array16to32(Accel_Time)).toFixed(3)),\n    'Decel_Time'        : parseFloat(Int2Float32(array16to32(Decel_Time)).toFixed(3)),\n    'Max_Fwd_Speed'     : parseFloat(Int2Float32(array16to32(Max_Fwd_Speed)).toFixed(3))\n}\nreturn msg;\n\n// Combinar dos arrays de 16 bits en uno 32 bits\nfunction array16to32(array){\n    var intvalue = [];\n    for(var i=0; i<array.length; i++){\n        array[i] = array[i] << 16*i;\n        // @ts-ignore\n        intvalue = intvalue | array[i];\n    }\n    return intvalue;\n}\n// IEC 754 to Float Function\nfunction Int2Float32(bytes) {\n    var sign = (bytes & 0x80000000) ? -1 : 1;\n    var exponent = ((bytes >> 23) & 0xFF) - 127;\n    var significand = (bytes & ~(-1 << 23));\n\n    if (exponent == 128) \n        return sign * ((significand) ? Number.NaN : Number.POSITIVE_INFINITY);\n\n    if (exponent == -127) {\n        if (significand === 0) return sign * 0.0;\n        exponent = -126;\n        significand /= (1 << 22);\n    } else significand = (significand | (1 << 23)) / (1 << 23);\n\n    return sign * significand * Math.pow(2, exponent);\n}\n// Créditos: https://flows.nodered.org/flow/359ead34237b7ab6ec0465ee85a34b62\n//Fuente: https://stackoverflow.com/questions/47164675/convert-float-to-32bit-hex-string-in-javascript\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -38800,32 +37415,6 @@
         ]
     },
     {
-        "id": "a5e1205e8fe1feed",
-        "type": "switch",
-        "z": "d08f14e12055286a",
-        "g": "dad84feb.d4773",
-        "name": "!=Active",
-        "property": "#:(memoryOnly)::C2S.Drive_Status.Active",
-        "propertyType": "global",
-        "rules": [
-            {
-                "t": "neq",
-                "v": "1",
-                "vt": "num"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 430,
-        "y": 540,
-        "wires": [
-            [
-                "14170dd0.bdfb02"
-            ]
-        ]
-    },
-    {
         "id": "eb7ab466.6a90b8",
         "type": "switch",
         "z": "902fc438.e5d758",
@@ -39528,7 +38117,8 @@
         "y": 240,
         "wires": [
             [
-                "129c6a9a.aae9c5"
+                "129c6a9a.aae9c5",
+                "5edc65e95426443c"
             ]
         ]
     },
@@ -39557,16 +38147,18 @@
         "z": "ebaf6b5134c2a666",
         "g": "cf985e84.c7693",
         "name": "PID Config",
-        "func": "var Tipo    = flow.get(\"PID.Type\")||null;\n\nif(msg.topic == \"prop_band\" ){\n    if(Tipo == \"Presion\"){\n        flow.set(\"PID.Presion.prop_band\",msg.payload);\n    }\n    else if(Tipo == \"Corriente\"){\n        flow.set(\"PID.Corriente.prop_band\",msg.payload);\n    }\n    return;\n}\nelse if(msg.topic == \"t_integral\" ){\n    if(Tipo == \"Presion\"){\n        flow.set(\"PID.Presion.t_integral\",msg.payload);\n    }\n    else if(Tipo==\"Corriente\"){\n        flow.set(\"PID.Corriente.t_integral\",msg.payload);\n    }\n    return;\n}\nelse if(msg.topic == \"t_derivative\"){\n    if(Tipo == \"Presion\"){\n        flow.set(\"PID.Presion.t_derivative\",msg.payload);\n    }\n    else if(Tipo == \"Corriente\"){\n        flow.set(\"PID.Corriente.t_derivative\",msg.payload);\n    }\n    return;    \n}\nelse if(msg.topic == \"setpoint\"){\n    if(Tipo == \"Presion\"){\n        flow.set(\"PID.Presion.setpoint\",-msg.payload);\n    }\n    else if(Tipo == \"Corriente\"){\n        flow.set(\"PID.Corriente.setpoint\",msg.payload);\n    }\n    return;\n}\n\nif(Tipo == \"Presion\"){\n    msg.prop_band       = flow.get(\"PID.Presion.prop_band\")||0;\n    msg.t_integral      = flow.get(\"PID.Presion.t_integral\")||0;\n    msg.t_derivative    = flow.get(\"PID.Presion.t_derivative\")||0;\n    msg.setpoint        = flow.get(\"PID.Presion.setpoint\")||0;\n}\nelse if(Tipo == \"Corriente\"){\n    msg.prop_band       = flow.get(\"PID.Corriente.prop_band\")||0;\n    msg.t_integral      = flow.get(\"PID.Corriente.t_integral\")||0;\n    msg.t_derivative    = flow.get(\"PID.Corriente.t_derivative\")||0;\n    msg.setpoint        = flow.get(\"PID.Corriente.setpoint\")||0;\n}\n\n//msg.enable              = flow.get(\"PID.Enable\")||false; \nnode.status({fill:\"green\",shape:\"dot\",text:\"Kp: \"+msg.prop_band+\" Ti: \"+msg.t_integral +\" Td: \"+msg.t_derivative+\" Setpoint: \"+msg.setpoint });\nreturn msg;\n",
+        "func": "var Tipo    = flow.get(\"PID.Type\")||null;\n\nif(msg.topic == \"prop_band\" ){\n    if(Tipo == \"Presion\"){\n        flow.set(\"PID.Presion.prop_band\",msg.payload);\n    }\n    else if(Tipo == \"Corriente\"){\n        flow.set(\"PID.Corriente.prop_band\",msg.payload);\n    }\n    \n    \n}\n\nelse if(msg.topic == \"t_integral\" ){\n    if(Tipo == \"Presion\"){\n        flow.set(\"PID.Presion.t_integral\",msg.payload);\n    }\n    else if(Tipo==\"Corriente\"){\n        flow.set(\"PID.Corriente.t_integral\",msg.payload);\n    }\n    \n}\nelse if(msg.topic == \"t_derivative\"){\n    if(Tipo == \"Presion\"){\n        flow.set(\"PID.Presion.t_derivative\",msg.payload);\n    }\n    else if(Tipo == \"Corriente\"){\n        flow.set(\"PID.Corriente.t_derivative\",msg.payload);\n    }\n      \n}\nelse if(msg.topic == \"setpoint\"){\n    if(Tipo == \"Presion\"){\n        flow.set(\"PID.Presion.setpoint\",-msg.payload);\n    }\n    else if(Tipo == \"Corriente\"){\n        flow.set(\"PID.Corriente.setpoint\",msg.payload);\n    }\n    \n}\n//node.status({ fill: \"purple\", shape: \"ring\", text: Tipo });\nif(Tipo == \"Presion\"){\n    msg.prop_band       = flow.get(\"PID.Presion.prop_band\")||0;\n    msg.t_integral      = flow.get(\"PID.Presion.t_integral\")||0;\n    msg.t_derivative    = flow.get(\"PID.Presion.t_derivative\")||0;\n    msg.setpoint        = flow.get(\"PID.Presion.setpoint\")||0;\n}\nelse if(Tipo == \"Corriente\"){\n    msg.prop_band       = flow.get(\"PID.Corriente.prop_band\")||0;\n    msg.t_integral      = flow.get(\"PID.Corriente.t_integral\")||0;\n    msg.t_derivative    = flow.get(\"PID.Corriente.t_derivative\")||0;\n    msg.setpoint        = flow.get(\"PID.Corriente.setpoint\")||0;\n}\n\n//msg.enable              = flow.get(\"PID.Enable\")||false; \nnode.status({fill:\"green\",shape:\"dot\",text:\"Kp: \"+msg.prop_band+\" Ti: \"+msg.t_integral +\" Td: \"+msg.t_derivative+\" Setpoint: \"+msg.setpoint });\nreturn msg;\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 850,
         "y": 240,
         "wires": [
             [
-                "3067f725.56f2f8"
+                "3067f725.56f2f8",
+                "e678be60.ba5b7"
             ]
         ]
     },
@@ -39634,7 +38226,7 @@
         "order": 1,
         "width": 0,
         "height": 0,
-        "passthru": false,
+        "passthru": true,
         "multiple": false,
         "options": [
             {
@@ -39828,6 +38420,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 350,
         "y": 280,
         "wires": [
@@ -40644,8 +39237,7 @@
         "y": 240,
         "wires": [
             [
-                "766ff7ed.aba428",
-                "e678be60.ba5b7"
+                "766ff7ed.aba428"
             ]
         ]
     },
@@ -41335,12 +39927,12 @@
         "tosidebar": true,
         "console": false,
         "tostatus": true,
-        "complete": "true",
-        "targetType": "full",
+        "complete": "prop_band",
+        "targetType": "msg",
         "statusVal": "payload",
         "statusType": "auto",
-        "x": 1390,
-        "y": 160,
+        "x": 960,
+        "y": 180,
         "wires": []
     },
     {
@@ -82768,7 +81360,7 @@
         "order": 1,
         "width": 12,
         "height": 1,
-        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n\n</head>\n\n<body>\n    <!-- Navigation bar -->\n    <nav>\n        <div class=\"nav nav-pills nav-fill\" id=\"nav-tab\" role=\"tablist\">\n            <a class=\"nav-item nav-link active\" id=\"nav-Trends_Multi-tab\" data-toggle=\"tab\"\n                href=\"#nav-Trends_Multi\" role=\"tab\" aria-controls=\"nav-Trends_Multi\" aria-selected=\"true\"\n                ng-click=\"send({payload:Trends_Multi()})\">Tendencias Multivariables</a>\n            <a class=\"nav-item nav-link\" id=\"nav-Amperimetrica-tab\" data-toggle=\"tab\"\n                href=\"#nav-Amperimetrica\" role=\"tab\" aria-controls=\"nav-Amperimetrica\" aria-selected=\"false\"\n                ng-click=\"send({payload:Amperimetrica()})\">Carta Amperimetrica</a>\n            <a class=\"nav-item nav-link\" id=\"nav-IPR-tab\" data-toggle=\"tab\" href=\"#nav-IPR\"\n                role=\"tab\" aria-controls=\"nav-IPR\" aria-selected=\"false\"\n                ng-click=\"send({payload:IPR()})\">Gráfica IPR</a>\n        </div>\n    </nav>\n\n    <script>\n        this.scope.Trends_Multi = function() { return \"Trends_Multi\"; };\n        this.scope.Amperimetrica = function() { return \"Amperimetrica\"; };\n        this.scope.IPR = function() { return \"IPR\"; };\n    </script>\n\n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n</body>\n\n</html>",
+        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n\n</head>\n\n<body>\n    <!-- Navigation bar -->\n    <nav>\n        <div class=\"nav nav-pills nav-fill\" id=\"nav-tab\" role=\"tablist\">\n            <a class=\"nav-item nav-link active\" id=\"nav-Trends_Multi-tab\" data-toggle=\"tab\"\n                href=\"#nav-Trends_Multi\" role=\"tab\" aria-controls=\"nav-Trends_Multi\" aria-selected=\"true\"\n                ng-click=\"send({payload:Trends_Multi()})\">Tendencias Multivariables</a>\n            <a class=\"nav-item nav-link\" id=\"nav-Amperimetrica-tab\" data-toggle=\"tab\"\n                href=\"#nav-Amperimetrica\" role=\"tab\" aria-controls=\"nav-Amperimetrica\" aria-selected=\"false\"\n                ng-click=\"send({payload:Amperimetrica()})\">Carta Amperimetrica</a>\n                <!--\n            <a class=\"nav-item nav-link\" id=\"nav-IPR-tab\" data-toggle=\"tab\" href=\"#nav-IPR\"\n                role=\"tab\" aria-controls=\"nav-IPR\" aria-selected=\"false\"\n                ng-click=\"send({payload:IPR()})\">Gráfica IPR</a>-->\n        </div>\n    </nav>\n\n    <script>\n        this.scope.Trends_Multi = function() { return \"Trends_Multi\"; };\n        this.scope.Amperimetrica = function() { return \"Amperimetrica\"; };\n        this.scope.IPR = function() { return \"IPR\"; };\n    </script>\n\n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n</body>\n\n</html>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
@@ -82792,7 +81384,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Tendencias_Amperimetrica\",\t                \"Tendencias_IPR_Trend\"],\t       \"show\":[ \"Tendencias_NavBar_Trent\",\t                \"Tendencias_Trends_Multi\"]\t   }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Tendencias_Amperimetrica\",\t                \"Tendencias_IPR_Trend\",\t                \"Tendencias_Datos_Actuales\"],\t       \"show\":[ \"Tendencias_NavBar_Trent\",\t                \"Tendencias_Trends_Multi\"]\t   }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -82820,7 +81412,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Tendencias_Trends_Multi\",\t                \"Tendencias_IPR_Trend\"],\t       \"show\":[ \"Tendencias_NavBar_Trend\",\t                \"Tendencias_Amperimetrica\"]\t   }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Tendencias_Trends_Multi\",\t                \"Tendencias_IPR_Trend\"],\t       \"show\":[ \"Tendencias_NavBar_Trend\",\t                \"Tendencias_Amperimetrica\",\t                \"Tendencias_Datos_Actuales\"]\t   }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -82848,7 +81440,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Tendencias_Trends_Multi\",\t                \"Tendencias_NavBar_Trend\",\t                \"Tendencias_Amperimetrica\"],\t       \"show\":[\"Tendencias_IPR_Trend\"]\t   }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Tendencias_Trends_Multi\",\t                \"Tendencias_NavBar_Trend\",\t                \"Tendencias_Amperimetrica\",\t                \"Tendencias_Datos_Actuales\"],\t       \"show\":[\"Tendencias_IPR_Trend\"]\t   }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -87110,7 +85702,8 @@
         "y": 160,
         "wires": [
             [
-                "3738a46428965bed"
+                "3738a46428965bed",
+                "8b6c1f1de90514c9"
             ]
         ]
     },
@@ -87142,7 +85735,7 @@
         "name": "",
         "group": "94e450d3bce1686e",
         "order": 2,
-        "width": "12",
+        "width": 12,
         "height": 10,
         "label": "Tendencias Multivariables",
         "chartType": "line",
@@ -87230,9 +85823,9 @@
         "g": "5dc71a84bf12ae23",
         "name": "",
         "group": "f5471725db0f8d14",
-        "order": 4,
-        "width": "11",
-        "height": "12",
+        "order": 1,
+        "width": 9,
+        "height": 10,
         "label": "Carta Amperimétrica (A)",
         "chartType": "radar",
         "legend": "false",
@@ -87294,8 +85887,8 @@
         "group": "df8934f2a1ce6562",
         "name": "",
         "order": 1,
-        "width": "6",
-        "height": "8",
+        "width": 6,
+        "height": 8,
         "format": "<div ng-bind-html=\"msg.payload | trusted\"></div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
@@ -87468,13 +86061,13 @@
                 "vt": "str"
             }
         ],
-        "repeat": "",
+        "repeat": "300",
         "crontab": "",
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
         "payloadType": "date",
-        "x": 740,
+        "x": 750,
         "y": 100,
         "wires": [
             [
@@ -87562,8 +86155,8 @@
         "place": "Select option",
         "group": "2fcd0c4888f1dd5f",
         "order": 1,
-        "width": "6",
-        "height": "1",
+        "width": 6,
+        "height": 1,
         "passthru": false,
         "multiple": false,
         "options": [
@@ -87580,8 +86173,8 @@
         ],
         "payload": "",
         "topic": "",
-        "x": 770,
-        "y": 220,
+        "x": 750,
+        "y": 260,
         "wires": [
             [
                 "74b76e998626d493"
@@ -87608,8 +86201,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1070,
-        "y": 240,
+        "x": 980,
+        "y": 260,
         "wires": [
             []
         ]
@@ -89259,6 +87852,1796 @@
         "statusType": "auto",
         "x": 1960,
         "y": 80,
+        "wires": []
+    },
+    {
+        "id": "c0305bdc.676a28",
+        "type": "finite-state-machine",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Automatic Restart",
+        "fsmDefinition": "{\"state\":{\"status\":\"E0\"},\"transitions\":{\"E0\":{\"RA_ON\":\"E1\",\"RA_OFF\":\"E0\"},\"E1\":{\"Clear Failure\":\"E2\",\"Error\":\"E1\"},\"E2\":{\"Attempt in Range\":\"E3\",\"End of Attempts\":\"E4\"},\"E3\":{\"Restart Time elapsed\":\"E5\"},\"E4\":{\"Automatic Restart, Status Updated\":\"E1\"},\"E5\":{\"Reset executed\":\"E6\",\"Error\":\"E5\"},\"E6\":{\"Start executed\":\"E7\",\"Error\":\"E6\"},\"E7\":{\"Restored Accel\":\"E1\",\"Error or Busy\":\"E7\"}}}",
+        "sendInitialState": true,
+        "sendStateWithoutChange": true,
+        "showTransitionErrors": false,
+        "x": 1170,
+        "y": 500,
+        "wires": [
+            [
+                "853cd9a2.d77cf8"
+            ]
+        ]
+    },
+    {
+        "id": "3781fe66.587af2",
+        "type": "inject",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "props": [
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "reset",
+        "x": 950,
+        "y": 460,
+        "wires": [
+            [
+                "c0305bdc.676a28"
+            ]
+        ]
+    },
+    {
+        "id": "2e7249b4.58bd66",
+        "type": "function",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "E2",
+        "func": "// Definitions\nvar AR = global.get(\"Control_functions.Automatic_Restart\")||0;\nvar Current_Attempt = AR.Attempts.Current_Attempt||0;\n\nCurrent_Attempt++;\nAR.Attempts.Current_Attempt = Current_Attempt;\nglobal.set(\"Control_functions.Automatic_Restart\",AR);\n\n// Transitions\nif( Current_Attempt <= AR.Attempts.Max ){\n    msg.topic = \"Attempt in Range\";\n}\nelse{\n    msg.topic = \"End of Attempts\";\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 630,
+        "y": 680,
+        "wires": [
+            [
+                "c325ce5a.11ef9"
+            ]
+        ]
+    },
+    {
+        "id": "32c8b0ee.45f27",
+        "type": "function",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "E3",
+        "func": "// Definitions\nvar AR              = global.get(\"Control_functions.Automatic_Restart\")||null;\nvar Attempt         = AR.Attempts.Current_Attempt || 0;\nvar max_index       = 0;\n\nvar Attempt_Array   = [ AR.Ramps.Accel1, AR.Ramps.Accel2, AR.Ramps.Accel3, AR.Ramps.Accel4 ];\nvar Restart_Array   = [ AR.Restart.Time1*60000, AR.Restart.Time2*60000, AR.Restart.Time3*60000, AR.Restart.Time4*60000];\n\nif(AR.Ramps.Enable_Accel4     === true){    max_index = 3; }\nelse if(AR.Ramps.Enable_Accel3 === true){   max_index = 2; }\nelse if(AR.Ramps.Enable_Accel2 === true){   max_index = 1; }\nelse if(AR.Ramps.Enable_Accel1 === true){   max_index = 0; }\n\n// Code Excecution\nif(Attempt - 1 <= max_index ){  msg.payload = Attempt_Array[Attempt - 1]; \n                                msg.delay   = Restart_Array[Attempt - 1];\n}\nelse{                           msg.payload = Attempt_Array[max_index];\n                                msg.delay   = Restart_Array[max_index];\n}\n// Transition\nmsg.topic = \"Restart Time elapsed\";\nreturn msg;\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 630,
+        "y": 820,
+        "wires": [
+            [
+                "383d0d61.1e6de2",
+                "c4c61df5.33583"
+            ]
+        ]
+    },
+    {
+        "id": "66ec00f0.b69ff",
+        "type": "function",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "E4",
+        "func": "// Definitions\nvar AR = global.get(\"Control_functions.Automatic_Restart\");\nAR.Attempts.Current_Attempt = AR.Attempts.Max;\nmsg.payload = \"End of Attemps reached!\";\n// Transition\nmsg.topic = \"Automatic Restart, Status Updated\";\nreturn msg;\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 630,
+        "y": 900,
+        "wires": [
+            [
+                "60c61f62.f5c34",
+                "8aebe900.f1cdd8"
+            ]
+        ]
+    },
+    {
+        "id": "383d0d61.1e6de2",
+        "type": "delay",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Restart Time",
+        "pauseType": "delayv",
+        "timeout": "60",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 850,
+        "y": 820,
+        "wires": [
+            [
+                "12c8fd79.9681e3"
+            ]
+        ]
+    },
+    {
+        "id": "14c9d205.a3aa7e",
+        "type": "link in",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Automatic Restart Update State",
+        "links": [
+            "12c8fd79.9681e3",
+            "1ef779a27f308aef",
+            "364f96f4.f46f0a",
+            "4e19cfd4.3982f",
+            "587d6709.b2cc68",
+            "60c61f62.f5c34",
+            "7c8924eb.60c91c",
+            "8276f23c.bfc3f",
+            "c325ce5a.11ef9",
+            "47e3f2c89dc80ae1"
+        ],
+        "x": 995,
+        "y": 580,
+        "wires": [
+            [
+                "c0305bdc.676a28"
+            ]
+        ]
+    },
+    {
+        "id": "40db7d54.6eda64",
+        "type": "link in",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Automatic Restart State Input",
+        "links": [
+            "853cd9a2.d77cf8"
+        ],
+        "x": 305,
+        "y": 710,
+        "wires": [
+            [
+                "e603fb56.c7b328"
+            ]
+        ]
+    },
+    {
+        "id": "853cd9a2.d77cf8",
+        "type": "link out",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Automatic Restart New State",
+        "links": [
+            "40db7d54.6eda64"
+        ],
+        "x": 1315,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "e603fb56.c7b328",
+        "type": "switch",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "property": "payload.status",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "E0",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "E2",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "E3",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "E4",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "E5",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "E6",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "E7",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 7,
+        "x": 390,
+        "y": 710,
+        "wires": [
+            [
+                "58e6dd7.174e024"
+            ],
+            [
+                "2e7249b4.58bd66",
+                "d44ef6369dfdda4b"
+            ],
+            [
+                "32c8b0ee.45f27"
+            ],
+            [
+                "66ec00f0.b69ff"
+            ],
+            [
+                "d9b3e61d145ba55d"
+            ],
+            [
+                "37db10ec.6a6f7"
+            ],
+            [
+                "faf07e5a91b1eecf",
+                "3c3c201f.7b4db"
+            ]
+        ]
+    },
+    {
+        "id": "7a545a2b.6f6b74",
+        "type": "change",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "E0",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "RA_ON",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 830,
+        "y": 600,
+        "wires": [
+            [
+                "8276f23c.bfc3f"
+            ]
+        ]
+    },
+    {
+        "id": "8276f23c.bfc3f",
+        "type": "link out",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Automatic Restart E0",
+        "links": [
+            "14c9d205.a3aa7e"
+        ],
+        "x": 955,
+        "y": 620,
+        "wires": []
+    },
+    {
+        "id": "6db9c12b.c8705",
+        "type": "change",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "E1",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Clear Failure",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 950,
+        "y": 520,
+        "wires": [
+            [
+                "c0305bdc.676a28",
+                "a1791b3eb78738f2"
+            ]
+        ]
+    },
+    {
+        "id": "c325ce5a.11ef9",
+        "type": "link out",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Automatic Restart E2",
+        "links": [
+            "14c9d205.a3aa7e",
+            "679d1a7bed80c240"
+        ],
+        "x": 795,
+        "y": 680,
+        "wires": []
+    },
+    {
+        "id": "12c8fd79.9681e3",
+        "type": "link out",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Automatic Restart E3",
+        "links": [
+            "14c9d205.a3aa7e",
+            "1be77946.3d6847",
+            "bc0c7c1c.40245"
+        ],
+        "x": 955,
+        "y": 820,
+        "wires": []
+    },
+    {
+        "id": "60c61f62.f5c34",
+        "type": "link out",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Automatic Restart E4",
+        "links": [
+            "14c9d205.a3aa7e"
+        ],
+        "x": 795,
+        "y": 860,
+        "wires": []
+    },
+    {
+        "id": "cb35c95f.b22ce8",
+        "type": "change",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Reset executed",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Reset executed",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 860,
+        "y": 980,
+        "wires": [
+            [
+                "364f96f4.f46f0a"
+            ]
+        ]
+    },
+    {
+        "id": "364f96f4.f46f0a",
+        "type": "link out",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Automatic Restart E5",
+        "links": [
+            "14c9d205.a3aa7e"
+        ],
+        "x": 975,
+        "y": 980,
+        "wires": []
+    },
+    {
+        "id": "a6252416.b477e8",
+        "type": "change",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Start executed",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Start executed",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1080,
+        "y": 1020,
+        "wires": [
+            [
+                "587d6709.b2cc68"
+            ]
+        ]
+    },
+    {
+        "id": "587d6709.b2cc68",
+        "type": "link out",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Automatic Restart E6",
+        "links": [
+            "14c9d205.a3aa7e"
+        ],
+        "x": 1195,
+        "y": 1020,
+        "wires": []
+    },
+    {
+        "id": "1efee279.9d3c5e",
+        "type": "change",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Accel",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "C2S.Speed_Control.Accel",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 930,
+        "y": 1180,
+        "wires": [
+            [
+                "ee2f7708.642508"
+            ]
+        ]
+    },
+    {
+        "id": "24b7cec5.441a12",
+        "type": "switch",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "property": "payload.code",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            },
+            {
+                "t": "neq",
+                "v": "0",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1210,
+        "y": 1180,
+        "wires": [
+            [
+                "9beed943.b3e2c8"
+            ],
+            [
+                "9209505b.0e275"
+            ]
+        ]
+    },
+    {
+        "id": "9beed943.b3e2c8",
+        "type": "change",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Restored Accel",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Restored Accel",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1380,
+        "y": 1180,
+        "wires": [
+            [
+                "7c8924eb.60c91c",
+                "19f7e764da2b7e6d"
+            ]
+        ]
+    },
+    {
+        "id": "9209505b.0e275",
+        "type": "change",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Error",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Error or Busy",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 950,
+        "y": 1240,
+        "wires": [
+            [
+                "7c8924eb.60c91c"
+            ]
+        ]
+    },
+    {
+        "id": "7c8924eb.60c91c",
+        "type": "link out",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Automatic Restart E7",
+        "links": [
+            "14c9d205.a3aa7e"
+        ],
+        "x": 1535,
+        "y": 1240,
+        "wires": []
+    },
+    {
+        "id": "58e6dd7.174e024",
+        "type": "switch",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Enable True",
+        "property": "Control_functions.Automatic_Restart.Enable",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 650,
+        "y": 620,
+        "wires": [
+            [
+                "7a545a2b.6f6b74"
+            ],
+            [
+                "ff0d6d6.216379"
+            ]
+        ]
+    },
+    {
+        "id": "36e990a0.a6e0b",
+        "type": "switch",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Accel Done?",
+        "property": "#:(memoryOnly)::C2S.Drive_Status.Accel",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            },
+            {
+                "t": "neq",
+                "v": "0",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 790,
+        "y": 1220,
+        "wires": [
+            [
+                "1efee279.9d3c5e"
+            ],
+            [
+                "9209505b.0e275"
+            ]
+        ]
+    },
+    {
+        "id": "3c3c201f.7b4db",
+        "type": "delay",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "10",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 640,
+        "y": 1220,
+        "wires": [
+            [
+                "36e990a0.a6e0b"
+            ]
+        ]
+    },
+    {
+        "id": "8aebe900.f1cdd8",
+        "type": "ui_toast",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "position": "top right",
+        "displayTime": "10",
+        "highlight": "orange",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "topic": "",
+        "name": "",
+        "x": 860,
+        "y": 900,
+        "wires": []
+    },
+    {
+        "id": "633be9f8.688fd8",
+        "type": "comment",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Re Arranque Automático",
+        "info": "",
+        "x": 190,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "55b87356.a4664c",
+        "type": "link in",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Automatic Restart enable In",
+        "links": [
+            "1ef779a27f308aef",
+            "47e3f2c89dc80ae1"
+        ],
+        "x": 955,
+        "y": 420,
+        "wires": [
+            [
+                "6b457186e495abc4"
+            ]
+        ]
+    },
+    {
+        "id": "ff0d6d6.216379",
+        "type": "change",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "E0",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.Automatic_Restart.Attempts.Current_Attempt",
+                "pt": "global",
+                "to": "0",
+                "tot": "num"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "RA_OFF",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 830,
+        "y": 640,
+        "wires": [
+            [
+                "8276f23c.bfc3f"
+            ]
+        ]
+    },
+    {
+        "id": "14170dd0.bdfb02",
+        "type": "function",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Start & Falla Gral",
+        "func": "var Start_Stop  = global.get(\"C2S.FlagStatus\");\nvar FallaGral = global.get(\"IO.Functions.DO['Falla general']\",\"memoryOnly\");\n\nif(Start_Stop){\n    node.status({fill:\"green\",shape:\"dot\",text:\"Started\"});\n    return msg;\n}\nelse{\n    node.status({fill:\"yellow\",shape:\"dot\",text:\"Stoped\"});\n    return;\n}\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 790,
+        "y": 520,
+        "wires": [
+            [
+                "6db9c12b.c8705"
+            ]
+        ]
+    },
+    {
+        "id": "46402130.f1178",
+        "type": "complete",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "scope": [
+            "32c8b0ee.45f27"
+        ],
+        "uncaught": false,
+        "x": 1150,
+        "y": 640,
+        "wires": [
+            [
+                "98d021b5.4ab52",
+                "1f7639cd6cd873fe"
+            ]
+        ]
+    },
+    {
+        "id": "98d021b5.4ab52",
+        "type": "function",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Conteo Re-Arranque",
+        "func": "msg.payload = msg.delay/1000;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1330,
+        "y": 680,
+        "wires": [
+            [
+                "dba5a375ebc26199"
+            ]
+        ]
+    },
+    {
+        "id": "ee2f7708.642508",
+        "type": "subflow:1ae6c379.02ea3d",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Accel Time",
+        "env": [
+            {
+                "name": "Parameter",
+                "value": "535",
+                "type": "num"
+            }
+        ],
+        "x": 1070,
+        "y": 1180,
+        "wires": [
+            [],
+            [
+                "24b7cec5.441a12"
+            ]
+        ]
+    },
+    {
+        "id": "37db10ec.6a6f7",
+        "type": "delay",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "0.5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 650,
+        "y": 1040,
+        "wires": [
+            [
+                "c1061922fbb55e35"
+            ]
+        ]
+    },
+    {
+        "id": "bc0c7c1c.40245",
+        "type": "link in",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Actualizar Referencia",
+        "links": [
+            "12c8fd79.9681e3"
+        ],
+        "x": 1035,
+        "y": 820,
+        "wires": [
+            [
+                "5237e183.b1e0e"
+            ]
+        ]
+    },
+    {
+        "id": "c3276752.914e88",
+        "type": "link in",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Re-Arranque desde función",
+        "links": [
+            "f4363e16.f1813"
+        ],
+        "x": 855,
+        "y": 560,
+        "wires": [
+            [
+                "6db9c12b.c8705"
+            ]
+        ]
+    },
+    {
+        "id": "19f7e764da2b7e6d",
+        "type": "delay",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "1",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 1440,
+        "y": 1080,
+        "wires": [
+            [
+                "533f18d250f0f542",
+                "7bcb1c84fdd2354c"
+            ]
+        ]
+    },
+    {
+        "id": "533f18d250f0f542",
+        "type": "change",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Estado Funciones de control",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Control_functions.ActiveCF.AutomaticRestart",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1660,
+        "y": 1140,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c4c61df5.33583",
+        "type": "link out",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "arranque_cuenta_regresiva",
+        "links": [
+            "767252ac.e8fe6c",
+            "3b884b2fd586554b"
+        ],
+        "x": 795,
+        "y": 780,
+        "wires": []
+    },
+    {
+        "id": "faf07e5a91b1eecf",
+        "type": "delay",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "10",
+        "timeoutUnits": "minutes",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 650,
+        "y": 1140,
+        "wires": [
+            [
+                "01509800705ed2e4"
+            ]
+        ]
+    },
+    {
+        "id": "01509800705ed2e4",
+        "type": "switch",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "property": "#:(memoryOnly)::C2S.Drive_Status.Active",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 830,
+        "y": 1140,
+        "wires": [
+            [
+                "d163284a3410a96e"
+            ]
+        ]
+    },
+    {
+        "id": "d163284a3410a96e",
+        "type": "change",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Limpiar intentos",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.Automatic_Restart.Attempts.Current_Attempt",
+                "pt": "global",
+                "to": "0",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1040,
+        "y": 1140,
+        "wires": [
+            [
+                "e4415b43ed98c107"
+            ]
+        ]
+    },
+    {
+        "id": "d44ef6369dfdda4b",
+        "type": "switch",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Variador Active?",
+        "property": "#:(memoryOnly)::C2S.Drive_Status.Active",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 660,
+        "y": 740,
+        "wires": [
+            [
+                "0daf9cd5f1466dab"
+            ]
+        ]
+    },
+    {
+        "id": "0daf9cd5f1466dab",
+        "type": "change",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "reset",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 860,
+        "y": 740,
+        "wires": [
+            [
+                "c0305bdc.676a28"
+            ]
+        ]
+    },
+    {
+        "id": "5237e183.b1e0e",
+        "type": "function",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Referencia",
+        "func": "var Ref = global.get(\"C2S.Last_Reference.Value\",'file');\nmsg.payload = Ref;\nmsg.Topic = \"Arranque automático\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1170,
+        "y": 820,
+        "wires": [
+            [
+                "221aa83c16ff94a6"
+            ]
+        ]
+    },
+    {
+        "id": "221aa83c16ff94a6",
+        "type": "subflow:1fbf295f73cccb97",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "x": 1360,
+        "y": 820,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "de4880db95ed8834",
+        "type": "subflow:c8b77ff3.ab501",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "env": [],
+        "x": 840,
+        "y": 940,
+        "wires": [
+            [],
+            []
+        ]
+    },
+    {
+        "id": "d9b3e61d145ba55d",
+        "type": "change",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Reset",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Basic",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 660,
+        "y": 980,
+        "wires": [
+            [
+                "cb35c95f.b22ce8",
+                "de4880db95ed8834"
+            ]
+        ]
+    },
+    {
+        "id": "c1061922fbb55e35",
+        "type": "change",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Start",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Basic",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 860,
+        "y": 1040,
+        "wires": [
+            [
+                "a6252416.b477e8",
+                "8a259519ac32d6f7"
+            ]
+        ]
+    },
+    {
+        "id": "3b9c1ffbdb77d781",
+        "type": "subflow:c8b77ff3.ab501",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "x": 1240,
+        "y": 1060,
+        "wires": [
+            [],
+            []
+        ]
+    },
+    {
+        "id": "1f7639cd6cd873fe",
+        "type": "change",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Estado Funciones de control",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Control_functions.ActiveCF.AutomaticRestart",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1570,
+        "y": 640,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6b457186e495abc4",
+        "type": "change",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Estado Funciones de control",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Control_functions.ActiveCF.AutomaticRestart",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1130,
+        "y": 420,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7bcb1c84fdd2354c",
+        "type": "change",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Arranque automático exitoso",
+                "tot": "str"
+            },
+            {
+                "t": "delete",
+                "p": "topic",
+                "pt": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1620,
+        "y": 1080,
+        "wires": [
+            [
+                "677759898efe0053"
+            ]
+        ]
+    },
+    {
+        "id": "677759898efe0053",
+        "type": "link out",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "links": [
+            "207ea8ce.3dea68",
+            "2da816b7.b2be9a"
+        ],
+        "x": 1735,
+        "y": 1080,
+        "wires": []
+    },
+    {
+        "id": "8a259519ac32d6f7",
+        "type": "switch",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "property": "Control_functions.Automatic_Restart.type",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "num"
+            },
+            {
+                "t": "eq",
+                "v": "2",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1050,
+        "y": 1060,
+        "wires": [
+            [
+                "3b9c1ffbdb77d781"
+            ],
+            [
+                "64c862c08b3c181c"
+            ]
+        ]
+    },
+    {
+        "id": "64c862c08b3c181c",
+        "type": "link out",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "links": [
+            "5a992b9e.0fe264"
+        ],
+        "x": 1195,
+        "y": 1100,
+        "wires": []
+    },
+    {
+        "id": "dba5a375ebc26199",
+        "type": "change",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "Conteo",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Control_functions.ActiveCF.Conteo",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1510,
+        "y": 680,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a5e1205e8fe1feed",
+        "type": "switch",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "!=Active",
+        "property": "#:(memoryOnly)::C2S.Drive_Status.Active",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "neq",
+                "v": "1",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 620,
+        "y": 520,
+        "wires": [
+            [
+                "14170dd0.bdfb02"
+            ]
+        ]
+    },
+    {
+        "id": "a1791b3eb78738f2",
+        "type": "change",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Reset",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Basic",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1160,
+        "y": 560,
+        "wires": [
+            [
+                "773f8036c3b82c5a"
+            ]
+        ]
+    },
+    {
+        "id": "0f2c231df155d32b",
+        "type": "link in",
+        "z": "902fc438.e5d758",
+        "g": "fcb3da61.429db8",
+        "name": "RESET_RA",
+        "links": [
+            "773f8036c3b82c5a"
+        ],
+        "x": 1185,
+        "y": 1080,
+        "wires": [
+            [
+                "20aa1ab35334cb43",
+                "fbc4689af451cab4"
+            ]
+        ]
+    },
+    {
+        "id": "773f8036c3b82c5a",
+        "type": "link out",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "links": [
+            "0f2c231df155d32b"
+        ],
+        "x": 1275,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "9a2667af083a05aa",
+        "type": "function",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "func": "var Comm = global.get(\"C2S.Comunicacion_Drive\", 'memoryOnly');\nvar fault_code = global.get(\"C2S.Implicit.Last_Fault_Code\", 'memoryOnly');\nvar fault_code_1 = (fault_code == 10138 || fault_code == 10238 || fault_code == 10338)?true:false;\n\nmsg.payload=(fault_code_1 && Comm)?true:false;\n\nnode.status({fill:\"red\",shape:\"ring\",text:msg.payload});\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 240,
+        "y": 520,
+        "wires": [
+            [
+                "ebb8c35bfc89f743"
+            ]
+        ]
+    },
+    {
+        "id": "ebb8c35bfc89f743",
+        "type": "rbe",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 370,
+        "y": 520,
+        "wires": [
+            [
+                "031a951b39025950"
+            ]
+        ]
+    },
+    {
+        "id": "031a951b39025950",
+        "type": "switch",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 490,
+        "y": 520,
+        "wires": [
+            [
+                "a5e1205e8fe1feed"
+            ]
+        ]
+    },
+    {
+        "id": "3ab3e5be8fa6444d",
+        "type": "link in",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "links": [
+            "ecf98f3f.4a704"
+        ],
+        "x": 135,
+        "y": 520,
+        "wires": [
+            [
+                "9a2667af083a05aa"
+            ]
+        ]
+    },
+    {
+        "id": "8b6c1f1de90514c9",
+        "type": "function",
+        "z": "759eb633bbadf3e1",
+        "g": "5dc71a84bf12ae23",
+        "name": "Data show",
+        "func": "var Output_Frequency    = global.get(\"C2S.Implicit.Output_Frequency\",'memoryOnly')||0;\nvar Output_Current = global.get(\"C2S.Implicit.Output_Current\", 'memoryOnly') || 0;\nvar Rtx = global.get(\"C2S.RelTx\") || 1;\nvar MtrCurrent = Output_Current / Rtx;\n\nreturn[\n    { payload: catcherror(Output_Frequency,3)+ \" \" + \"Hz\"},\n    { payload: catcherror(MtrCurrent,1) + \" \" + \"A\" },\n]\n\nfunction catcherror(variable,dec){\n    return parseFloat(variable.toFixed(dec));\n}",
+        "outputs": 2,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 930,
+        "y": 220,
+        "wires": [
+            [
+                "8f3bb3f83df36820"
+            ],
+            [
+                "3232c7cbd0e96a18"
+            ]
+        ],
+        "outputLabels": [
+            "Output_Frequency",
+            "SpeedPercentage",
+            "Power_Factor",
+            "Output_Current",
+            "Bus_DC_Volts",
+            "Mtr_Voltage",
+            "Output_Power",
+            "Output_Voltage",
+            "Mtr_Current"
+        ]
+    },
+    {
+        "id": "3232c7cbd0e96a18",
+        "type": "ui_level",
+        "z": "759eb633bbadf3e1",
+        "g": "5dc71a84bf12ae23",
+        "group": "021e969b990b83af",
+        "order": 2,
+        "width": 3,
+        "height": 2,
+        "name": "Corriente de Motor",
+        "label": "Corriente de Motor",
+        "colorHi": "#e60000",
+        "colorWarn": "#ff9900",
+        "colorNormal": "#00b33c",
+        "colorOff": "#595959",
+        "min": 0,
+        "max": "500",
+        "segWarn": "",
+        "segHigh": "",
+        "unit": "A",
+        "layout": "sv",
+        "channelA": "",
+        "channelB": "",
+        "decimals": "1",
+        "animations": "soft",
+        "shape": 2,
+        "colorschema": "fixed",
+        "textoptions": "custom",
+        "colorText": "#eeeeee",
+        "fontLabel": "",
+        "fontValue": "",
+        "fontSmall": "0.8",
+        "colorFromTheme": true,
+        "textAnimations": false,
+        "hideValue": false,
+        "tickmode": "off",
+        "peakmode": false,
+        "property": "payload",
+        "peaktime": 3000,
+        "x": 1170,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "8f3bb3f83df36820",
+        "type": "ui_level",
+        "z": "759eb633bbadf3e1",
+        "g": "5dc71a84bf12ae23",
+        "group": "021e969b990b83af",
+        "order": 1,
+        "width": 3,
+        "height": 2,
+        "name": "Velocidad",
+        "label": "Velocidad",
+        "colorHi": "#e60000",
+        "colorWarn": "#ff9900",
+        "colorNormal": "#00b33c",
+        "colorOff": "#595959",
+        "min": 0,
+        "max": "60",
+        "segWarn": "",
+        "segHigh": "",
+        "unit": "Hz",
+        "layout": "sv",
+        "channelA": "",
+        "channelB": "",
+        "decimals": "1",
+        "animations": "soft",
+        "shape": 2,
+        "colorschema": "fixed",
+        "textoptions": "custom",
+        "colorText": "#eeeeee",
+        "fontLabel": "",
+        "fontValue": "",
+        "fontSmall": "0.8",
+        "colorFromTheme": true,
+        "textAnimations": false,
+        "hideValue": false,
+        "tickmode": "off",
+        "peakmode": false,
+        "property": "payload",
+        "peaktime": 3000,
+        "x": 1140,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "58d4c358f3e52e62",
+        "type": "debug",
+        "z": "ebaf6b5134c2a666",
+        "g": "cf985e84.c7693",
+        "name": "",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": true,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "payload",
+        "statusType": "auto",
+        "x": 950,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "27d3ea91e6802fcd",
+        "type": "inject",
+        "z": "ebaf6b5134c2a666",
+        "g": "cf985e84.c7693",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 1170,
+        "y": 120,
+        "wires": [
+            [
+                "3067f725.56f2f8"
+            ]
+        ]
+    },
+    {
+        "id": "e4415b43ed98c107",
+        "type": "link out",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "links": [
+            "3b884b2fd586554b"
+        ],
+        "x": 1195,
+        "y": 1140,
+        "wires": []
+    },
+    {
+        "id": "3b884b2fd586554b",
+        "type": "link in",
+        "z": "d08f14e12055286a",
+        "g": "7aad629d.de652c",
+        "name": "Crear Intentos",
+        "links": [
+            "c4c61df5.33583",
+            "e4415b43ed98c107"
+        ],
+        "x": 255,
+        "y": 300,
+        "wires": [
+            [
+                "c1723a65.a620c8"
+            ]
+        ]
+    },
+    {
+        "id": "5edc65e95426443c",
+        "type": "debug",
+        "z": "ebaf6b5134c2a666",
+        "g": "cf985e84.c7693",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": true,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "payload",
+        "statusType": "auto",
+        "x": 1510,
+        "y": 160,
         "wires": []
     }
 ]
