@@ -17113,7 +17113,7 @@
         "g": "6202107f.ed9aa",
         "name": "",
         "pauseType": "delay",
-        "timeout": "4",
+        "timeout": "2",
         "timeoutUnits": "seconds",
         "rate": "1",
         "nbRateUnits": "1",
