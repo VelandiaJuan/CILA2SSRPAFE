@@ -1523,7 +1523,9 @@
             "6b3d4586f5261369"
         ],
         "x": 24,
-        "y": 289
+        "y": 289,
+        "w": 2762,
+        "h": 279.5
     },
     {
         "id": "deaa6892.b3d988",
@@ -1539,7 +1541,9 @@
             "b1830307.ee865"
         ],
         "x": 8,
-        "y": 13
+        "y": 13,
+        "w": 1784,
+        "h": 254
     },
     {
         "id": "1dd5b051.a95e6",
@@ -1610,7 +1614,9 @@
             "70b2c288.8683bc"
         ],
         "x": 14,
-        "y": 589
+        "y": 589,
+        "w": 2012,
+        "h": 442
     },
     {
         "id": "f7ed166d.1aa528",
@@ -4524,7 +4530,9 @@
             "14a4402df6867bdb"
         ],
         "x": 950,
-        "y": 39
+        "y": 39,
+        "w": 816,
+        "h": 202
     },
     {
         "id": "f3c2e7cf.5ed158",
@@ -5703,7 +5711,9 @@
             "62b716baf0dcbdaa"
         ],
         "x": 34,
-        "y": 39
+        "y": 39,
+        "w": 908,
+        "h": 202
     },
     {
         "id": "0da80a43af717368",
@@ -55448,7 +55458,7 @@
         "z": "e7088c4e.cc6b4",
         "g": "1dd5b051.a95e6",
         "name": "Creación de archivo",
-        "func": "var PQA             = global.get(\"PQA.Real_Time_Parameters\",'memoryOnly')   || null;\nvar C2S             = global.get(\"C2S.Implicit\",'memoryOnly')               || null;\nvar DownHoleData    = global.get('Process_data','memoryOnly')               || null;\nvar MotorV          = global.get(\"C2S.Implicit.Output_Voltage\", 'memoryOnly') || 0;\nvar MotorI          = global.get(\"C2S.Implicit.Output_Current\", 'memoryOnly') || 0;\nvar date            = new Date();\n\n// Date\nvar year            = date.getFullYear();\nvar month           = date.getMonth()+1;\nvar day             = date.getDate();\n\n//Time\nvar hours           = date.getHours();\nvar minutes         = date.getMinutes();\nvar seconds         = date.getSeconds();\n// Corriente y tensión de motor\nvar Rtx = global.get(\"C2S.RelTx\") || 1;\nvar Voltaje_Motor   =  MotorV * Rtx;\nvar Corriente_Motor =  MotorI / Rtx;\n\n\nmsg.payload = {\n    'fecha_hora'            : year + '/' + month + '/' + day + \" \" + hours + ':' + minutes + ':' + seconds,\n    'Output_Frequency'      : C2S != null && typeof C2S.Output_Frequency                                != 'undefined' ? parseFloat(C2S.Output_Frequency).toFixed(3) : \"0\",\n    'Output_Voltage'        : C2S != null && typeof C2S.Output_Voltage                                  != 'undefined' ? parseFloat(C2S.Output_Voltage).toFixed(3) : \"0\",\n    'Output_Current'        : C2S != null && typeof C2S.Output_Current                                  != 'undefined' ? parseFloat(C2S.Output_Current).toFixed(3) : \"0\",\n    'Voltaje_Motor'         : Voltaje_Motor != null && typeof Voltaje_Motor                             != 'undefined' ? parseFloat(Voltaje_Motor).toFixed(3) : \"0\",\n    'Corriente_Motor'       : Corriente_Motor != null && typeof Corriente_Motor                         != 'undefined' ? parseFloat(Corriente_Motor).toFixed(3) : \"0\",\n    'Bus_DC_Volts'          : C2S != null && typeof C2S.Bus_DC_Volts                                    != 'undefined' ? parseFloat(C2S.Bus_DC_Volts).toFixed(3) : \"0\",\n    'Output_Power'          : C2S != null && typeof C2S.Output_Power                                    != 'undefined' ? parseFloat(C2S.Output_Power).toFixed(3) : \"0\",\n    'Power_Factor'          : C2S != null && typeof C2S.Power_Factor                                    != 'undefined' ? parseFloat(C2S.Power_Factor).toFixed(3) : \"0\",\n    'Drive_Temp_C'          : C2S != null && typeof C2S.Drive_Temp_C                                    != 'undefined' ? parseFloat(C2S.Drive_Temp_C).toFixed(3) : \"0\",\n    'Presión de entrada'    : DownHoleData != null && typeof DownHoleData.DHS[\"Presión de entrada\"]     != 'undefined' ? parseFloat(DownHoleData.DHS[\"Presión de entrada\"]).toFixed(3) : \"0\",\n    'Presión de descarga'   : DownHoleData != null && typeof DownHoleData.DHS[\"Presión de descarga\"]    != 'undefined' ? parseFloat(DownHoleData.DHS[\"Presión de descarga\"]).toFixed(3) : \"0\",\n    'Temperatura de motor'  : DownHoleData != null && typeof DownHoleData.DHS[\"Temperatura de motor\"]   != 'undefined' ? parseFloat(DownHoleData.DHS[\"Temperatura de motor\"]).toFixed(3) : \"0\",\n    'Vibración en X'        : DownHoleData != null && typeof DownHoleData.DHS[\"Vibración X\"]            != 'undefined' ? parseFloat(DownHoleData.DHS[\"Vibración X\"]).toFixed(3) : \"0\",\n    'Vibración en Z'        : DownHoleData != null && typeof DownHoleData.DHS[\"Vibración Z\"]            != 'undefined' ? parseFloat(DownHoleData.DHS[\"Vibración Z\"]).toFixed(3) : \"0\",\n    'Corriente de fuga'     : DownHoleData != null && typeof DownHoleData.DHS[\"Corriente de fuga\"]      != 'undefined' ? parseFloat(DownHoleData.DHS[\"Corriente de fuga\"]).toFixed(3) : \"0\",\n    'Frequency'             : PQA != null && typeof PQA.Frequency                                       != 'undefined' ? parseFloat(PQA.Frequency).toFixed(3) : \"0\",\n    'Average_Line_Voltage'  : PQA != null && typeof PQA.Average_Line_Voltage                            != 'undefined' ? parseFloat(PQA.Average_Line_Voltage).toFixed(3) : \"0\",\n    'Average_Phase_Current' : PQA != null && typeof PQA.Average_Phase_Current                           != 'undefined' ? parseFloat(PQA.Average_Phase_Current).toFixed(3) : \"0\",\n    'Total_System_Power'    : PQA != null && typeof PQA.Total_System_Power                              != 'undefined' ? parseFloat(PQA.Total_System_Power).toFixed(3) : \"0\",\n    'Total_Power_Factor'    : PQA != null && typeof PQA.Total_Power_Factor                              != 'undefined' ? parseFloat(PQA.Total_Power_Factor).toFixed(3) : \"0\"\n}\n\n// Archivo\nmsg.columns = Object.keys(msg.payload).toString();\nreturn msg;",
+        "func": "var PQA             = global.get(\"PQA.Real_Time_Parameters\",'memoryOnly')   || null;\nvar C2S             = global.get(\"C2S.Implicit\",'memoryOnly')               || null;\nvar DownHoleData    = global.get('Process_data','memoryOnly')               || null;\nvar MotorV          = global.get(\"C2S.Implicit.Output_Voltage\", 'memoryOnly') || 0;\nvar MotorI          = global.get(\"C2S.Implicit.Output_Current\", 'memoryOnly') || 0;\nvar spmActual       = global.get(\"C2S.Implicit.spmActual\", 'memoryOnly') || 0;\nvar date            = new Date();\n\n// Date\nvar year            = date.getFullYear();\nvar month           = date.getMonth()+1;\nvar day             = date.getDate();\n\n//Time\nvar hours           = date.getHours();\nvar minutes         = date.getMinutes();\nvar seconds         = date.getSeconds();\n// Corriente y tensión de motor\nvar Rtx = global.get(\"C2S.RelTx\") || 1;\nvar Voltaje_Motor   =  MotorV * Rtx;\nvar Corriente_Motor =  MotorI / Rtx;\n\n\nmsg.payload = {\n    'fecha_hora'            : year + '/' + month + '/' + day + \" \" + hours + ':' + minutes + ':' + seconds,\n    'Output_Frequency'      : C2S != null && typeof C2S.Output_Frequency                                != 'undefined' ? parseFloat(C2S.Output_Frequency).toFixed(3) : \"0\",\n    'spmActual'             : C2S != null && typeof C2S.spmActual                                       != 'undefined' ? parseFloat(C2S.spmActual).toFixed(3) : \"0\",\n    'Output_Voltage'        : C2S != null && typeof C2S.Output_Voltage                                  != 'undefined' ? parseFloat(C2S.Output_Voltage).toFixed(3) : \"0\",\n    'Output_Current'        : C2S != null && typeof C2S.Output_Current                                  != 'undefined' ? parseFloat(C2S.Output_Current).toFixed(3) : \"0\",\n    'Voltaje_Motor'         : Voltaje_Motor != null && typeof Voltaje_Motor                             != 'undefined' ? parseFloat(Voltaje_Motor).toFixed(3) : \"0\",\n    'Corriente_Motor'       : Corriente_Motor != null && typeof Corriente_Motor                         != 'undefined' ? parseFloat(Corriente_Motor).toFixed(3) : \"0\",\n    'Bus_DC_Volts'          : C2S != null && typeof C2S.Bus_DC_Volts                                    != 'undefined' ? parseFloat(C2S.Bus_DC_Volts).toFixed(3) : \"0\",\n    'Output_Power'          : C2S != null && typeof C2S.Output_Power                                    != 'undefined' ? parseFloat(C2S.Output_Power).toFixed(3) : \"0\",\n    'Power_Factor'          : C2S != null && typeof C2S.Power_Factor                                    != 'undefined' ? parseFloat(C2S.Power_Factor).toFixed(3) : \"0\",\n    'Drive_Temp_C'          : C2S != null && typeof C2S.Drive_Temp_C                                    != 'undefined' ? parseFloat(C2S.Drive_Temp_C).toFixed(3) : \"0\",\n    'Presión de entrada'    : DownHoleData != null && typeof DownHoleData.DHS[\"Presión de entrada\"]     != 'undefined' ? parseFloat(DownHoleData.DHS[\"Presión de entrada\"]).toFixed(3) : \"0\",\n    'Presión de descarga'   : DownHoleData != null && typeof DownHoleData.DHS[\"Presión de descarga\"]    != 'undefined' ? parseFloat(DownHoleData.DHS[\"Presión de descarga\"]).toFixed(3) : \"0\",\n    'Temperatura de motor'  : DownHoleData != null && typeof DownHoleData.DHS[\"Temperatura de motor\"]   != 'undefined' ? parseFloat(DownHoleData.DHS[\"Temperatura de motor\"]).toFixed(3) : \"0\",\n    'Vibración en X'        : DownHoleData != null && typeof DownHoleData.DHS[\"Vibración X\"]            != 'undefined' ? parseFloat(DownHoleData.DHS[\"Vibración X\"]).toFixed(3) : \"0\",\n    'Vibración en Z'        : DownHoleData != null && typeof DownHoleData.DHS[\"Vibración Z\"]            != 'undefined' ? parseFloat(DownHoleData.DHS[\"Vibración Z\"]).toFixed(3) : \"0\",\n    'Corriente de fuga'     : DownHoleData != null && typeof DownHoleData.DHS[\"Corriente de fuga\"]      != 'undefined' ? parseFloat(DownHoleData.DHS[\"Corriente de fuga\"]).toFixed(3) : \"0\",\n    'Frequency'             : PQA != null && typeof PQA.Frequency                                       != 'undefined' ? parseFloat(PQA.Frequency).toFixed(3) : \"0\",\n    'Average_Line_Voltage'  : PQA != null && typeof PQA.Average_Line_Voltage                            != 'undefined' ? parseFloat(PQA.Average_Line_Voltage).toFixed(3) : \"0\",\n    'Average_Phase_Current' : PQA != null && typeof PQA.Average_Phase_Current                           != 'undefined' ? parseFloat(PQA.Average_Phase_Current).toFixed(3) : \"0\",\n    'Total_System_Power'    : PQA != null && typeof PQA.Total_System_Power                              != 'undefined' ? parseFloat(PQA.Total_System_Power).toFixed(3) : \"0\",\n    'Total_Power_Factor'    : PQA != null && typeof PQA.Total_Power_Factor                              != 'undefined' ? parseFloat(PQA.Total_Power_Factor).toFixed(3) : \"0\"\n}\n\n// Archivo\nmsg.columns = Object.keys(msg.payload).toString();\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
