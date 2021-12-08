@@ -1205,7 +1205,9 @@
             "bfa48676.a364f8"
         ],
         "x": 54,
-        "y": 19
+        "y": 19,
+        "w": 432,
+        "h": 149.5
     },
     {
         "id": "d929d138.3b512",
@@ -1223,7 +1225,9 @@
             "ebd2954e5785409e"
         ],
         "x": 614,
-        "y": 39
+        "y": 39,
+        "w": 542,
+        "h": 122
     },
     {
         "id": "fcb3da61.429db8",
@@ -1446,7 +1450,9 @@
             "b6cf54debd6eb4db"
         ],
         "x": 44,
-        "y": 359
+        "y": 359,
+        "w": 662,
+        "h": 202
     },
     {
         "id": "9132da2c.b8c6b8",
@@ -1470,7 +1476,9 @@
             "fd328934.0ddd18"
         ],
         "x": 54,
-        "y": 579
+        "y": 579,
+        "w": 602,
+        "h": 202
     },
     {
         "id": "9b538856.60fb38",
@@ -1648,7 +1656,9 @@
             "312d9def.84df32"
         ],
         "x": 14,
-        "y": 799
+        "y": 799,
+        "w": 702,
+        "h": 242
     },
     {
         "id": "3ae9fbe60d6132ea",
@@ -1672,7 +1682,9 @@
             "996a9142c814ab39"
         ],
         "x": 24,
-        "y": 429
+        "y": 429,
+        "w": 712,
+        "h": 242
     },
     {
         "id": "6abd418f.d175b",
@@ -1687,7 +1699,9 @@
             "b2f2659a.67f648"
         ],
         "x": 18,
-        "y": 23
+        "y": 23,
+        "w": 1754,
+        "h": 394
     },
     {
         "id": "8c207e440fb46f33",
@@ -1703,7 +1717,9 @@
             "9f77b0d829ad914b"
         ],
         "x": 514,
-        "y": 769
+        "y": 769,
+        "w": 282,
+        "h": 82
     },
     {
         "id": "38940f8.c9c27f",
@@ -2178,7 +2194,9 @@
             "c22e3c27600ab315"
         ],
         "x": 734,
-        "y": 179
+        "y": 179,
+        "w": 612,
+        "h": 242
     },
     {
         "id": "d84615.919209e8",
@@ -2304,7 +2322,9 @@
             "181ea2faf2082cc7"
         ],
         "x": 14,
-        "y": 1069
+        "y": 1069,
+        "w": 792,
+        "h": 212
     },
     {
         "id": "06c0dbf1bffe1e21",
@@ -2641,7 +2661,9 @@
             "b88575ca75fdb4f5"
         ],
         "x": 754,
-        "y": 429
+        "y": 429,
+        "w": 922,
+        "h": 82
     },
     {
         "id": "d175fb986dc9e991",
@@ -2661,7 +2683,9 @@
             "36c70d85dac8cd26"
         ],
         "x": 754,
-        "y": 519
+        "y": 519,
+        "w": 922,
+        "h": 82
     },
     {
         "id": "62fac95632266b01",
@@ -2714,9 +2738,7 @@
             "22b2f935e069825d"
         ],
         "x": 2498,
-        "y": 93,
-        "w": 1344,
-        "h": 714
+        "y": 93
     },
     {
         "id": "ef342a4a7f2984c3",
@@ -2734,9 +2756,7 @@
             "ce0884f8ad42bd03"
         ],
         "x": 34,
-        "y": 1019,
-        "w": 332,
-        "h": 122
+        "y": 1019
     },
     {
         "id": "23a61c692dd8e203",
@@ -3113,7 +3133,9 @@
             "3d5528dc.de75d8"
         ],
         "x": 54,
-        "y": 179
+        "y": 179,
+        "w": 572,
+        "h": 162
     },
     {
         "id": "474b22e105b31dff",
@@ -3287,7 +3309,9 @@
             "0d38acc234ba861f"
         ],
         "x": 734,
-        "y": 439
+        "y": 439,
+        "w": 642,
+        "h": 162
     },
     {
         "id": "86af7867dc10f4a8",
@@ -3333,9 +3357,7 @@
             "d31bc366f41b763d"
         ],
         "x": 4,
-        "y": 119,
-        "w": 1932,
-        "h": 262
+        "y": 119
     },
     {
         "id": "2d8d39f1e038a15b",
@@ -3361,7 +3383,9 @@
             "c69d457b5c9947d3"
         ],
         "x": 734,
-        "y": 619
+        "y": 619,
+        "w": 582,
+        "h": 242
     },
     {
         "id": "5dc71a84bf12ae23",
@@ -3441,7 +3465,9 @@
             "5166e91c9a18b367"
         ],
         "x": 2214,
-        "y": 999
+        "y": 999,
+        "w": 252,
+        "h": 402
     },
     {
         "id": "08268a4bd4859ab8",
@@ -3464,7 +3490,9 @@
             "1667a740e1297346"
         ],
         "x": 1694,
-        "y": 59
+        "y": 59,
+        "w": 272,
+        "h": 402
     },
     {
         "id": "998532256f00cecc",
@@ -3487,7 +3515,9 @@
             "4913db07a3d47bea"
         ],
         "x": 2194,
-        "y": 539
+        "y": 539,
+        "w": 252,
+        "h": 402
     },
     {
         "id": "a52d17ad75acd9f6",
@@ -3510,7 +3540,9 @@
             "f106aa1dacaf9bc9"
         ],
         "x": 2174,
-        "y": 79
+        "y": 79,
+        "w": 282,
+        "h": 422
     },
     {
         "id": "5c9801fdee1b9e98",
@@ -3537,7 +3569,9 @@
             "564a978639564867"
         ],
         "x": 844,
-        "y": 879
+        "y": 879,
+        "w": 302,
+        "h": 442
     },
     {
         "id": "2ef3b11b46a2953e",
@@ -3561,7 +3595,9 @@
             "db5b715c8277123d"
         ],
         "x": 1714,
-        "y": 519
+        "y": 519,
+        "w": 252,
+        "h": 442
     },
     {
         "id": "17da3b0724781f01",
@@ -3585,7 +3621,9 @@
             "1647f8062813fe45"
         ],
         "x": 1694,
-        "y": 999
+        "y": 999,
+        "w": 292,
+        "h": 442
     },
     {
         "id": "c920676a5fbb9bc8",
@@ -3830,7 +3868,9 @@
             "9fb4107d46d81ab0"
         ],
         "x": 24,
-        "y": 1709
+        "y": 1709,
+        "w": 792,
+        "h": 212
     },
     {
         "id": "6c6732761a2613b5",
@@ -4099,7 +4139,9 @@
             "12a3282355da9439"
         ],
         "x": 34,
-        "y": 1299
+        "y": 1299,
+        "w": 582,
+        "h": 182
     },
     {
         "id": "69cbede8f851191a",
@@ -4120,7 +4162,9 @@
             "a1c5e02a9d683eb4"
         ],
         "x": 34,
-        "y": 1499
+        "y": 1499,
+        "w": 582,
+        "h": 182
     },
     {
         "id": "f9b757cab0b767da",
@@ -4193,9 +4237,26 @@
             "c40108170a37478f"
         ],
         "x": 8,
-        "y": 393,
-        "w": 2384,
-        "h": 594
+        "y": 393
+    },
+    {
+        "id": "b2fff3b09f0ae95c",
+        "type": "group",
+        "z": "902fc438.e5d758",
+        "name": "Tendecia de la pantalla principal",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "1a6e5e4c8450ec6f",
+            "230c1efb688de958",
+            "5017aa8c7a43b98d",
+            "48cfb227558f2b5b"
+        ],
+        "x": 74,
+        "y": 1939,
+        "w": 712,
+        "h": 102
     },
     {
         "id": "1306de9a.9ba341",
@@ -4574,7 +4635,9 @@
             "c30439cc.4bcb68"
         ],
         "x": 44,
-        "y": 49
+        "y": 49,
+        "w": 1422,
+        "h": 212
     },
     {
         "id": "b2f2659a.67f648",
@@ -4602,7 +4665,9 @@
             "de16ee9e71fc7646"
         ],
         "x": 44,
-        "y": 269
+        "y": 269,
+        "w": 1702,
+        "h": 122
     },
     {
         "id": "70a63b74.44894c",
@@ -5056,9 +5121,7 @@
             "4fb76cafe519048c"
         ],
         "x": 2524,
-        "y": 119,
-        "w": 1292,
-        "h": 532
+        "y": 119
     },
     {
         "id": "22b2f935e069825d",
@@ -5079,9 +5142,7 @@
             "e74da3e6e268b270"
         ],
         "x": 2534,
-        "y": 659,
-        "w": 832,
-        "h": 122
+        "y": 659
     },
     {
         "id": "103cd2dbe76e1fc5",
@@ -5105,9 +5166,7 @@
             "2a531a19f520cae6"
         ],
         "x": 64,
-        "y": 429,
-        "w": 952,
-        "h": 132
+        "y": 429
     },
     {
         "id": "c40108170a37478f",
@@ -5146,9 +5205,7 @@
             "2d8469fec0420fb6"
         ],
         "x": 34,
-        "y": 719,
-        "w": 1672,
-        "h": 242
+        "y": 719
     },
     {
         "id": "4af99851.bcfb28",
@@ -6074,9 +6131,7 @@
             "437cb96e92c2c9c0"
         ],
         "x": 1044,
-        "y": 419,
-        "w": 1322,
-        "h": 302
+        "y": 419
     },
     {
         "id": "a80677cf.4274c8",
@@ -7513,25 +7568,6 @@
         ],
         "x": 1404,
         "y": 619
-    },
-    {
-        "id": "b2fff3b09f0ae95c",
-        "type": "group",
-        "z": "902fc438.e5d758",
-        "name": "Tendecia de la pantalla principal",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "1a6e5e4c8450ec6f",
-            "230c1efb688de958",
-            "5017aa8c7a43b98d",
-            "48cfb227558f2b5b"
-        ],
-        "x": 74,
-        "y": 1939,
-        "w": 712,
-        "h": 102
     },
     {
         "id": "d25d405a.19cff",
@@ -15587,7 +15623,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "#:(memoryOnly)::C2S.Implicit.Output_Frequency",
+                "to": "#:(memoryOnly)::C2S.Implicit.spmActual",
                 "tot": "global"
             }
         ],
@@ -16303,11 +16339,12 @@
         "z": "902fc438.e5d758",
         "g": "086b9d08c3b68939",
         "name": "Data show",
-        "func": "var numdec = 1;\nvar unidad = \"Hz\";\nif(typeof msg.payload == 'number' ){\n    msg.payload = parseFloat(msg.payload.toFixed(numdec));\n    return msg;\n}",
+        "func": "var numdec = 1;\nvar unidad = \"spm\";\nif(typeof msg.payload == 'number' ){\n    msg.payload = parseFloat(msg.payload.toFixed(numdec));\n    return msg;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 460,
         "y": 1450,
         "wires": [
@@ -17112,11 +17149,12 @@
         "z": "902fc438.e5d758",
         "g": "6202107f.ed9aa",
         "name": "Ref OK",
-        "func": "var sentidogiro = global.get(\"C2S.Drive_Status.Command_dir\",\"memoryOnly\")||0;\nmsg.payload = \"Cambio de referencia a \"+ Math.abs(msg.payload) + \" Hz\";\nmsg.topic = \"Referencia\";\nreturn msg;",
+        "func": "var sentidogiro = global.get(\"C2S.Drive_Status.Command_dir\",\"memoryOnly\")||0;\nvar spm = global.get(\"C2S.Implicit.spm\",\"memoryOnly\")||0;\nmsg.payload = \"Cambio de referencia a \" + Math.abs(parseFloat(spm.toFixed(1)) ) +\"spm, Velocidad Motor:\" + Math.abs(msg.payload) + \"Hz\";\nmsg.topic = \"Referencia\";\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 1630,
         "y": 140,
         "wires": [
@@ -17196,6 +17234,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 1630,
         "y": 180,
         "wires": [
@@ -17981,9 +18020,10 @@
         "width": 2,
         "height": 1,
         "name": "",
-        "label": "Vel. Ref: ",
+        "label": "Vel Motor: ",
         "format": "  {{msg.payload}}",
         "layout": "row-center",
+        "className": "",
         "x": 620,
         "y": 330,
         "wires": []
@@ -17998,10 +18038,11 @@
         "width": 3,
         "height": 3,
         "name": "",
-        "label": "Frec actual (Hz): ",
+        "label": "Frec actual (spm): ",
         "format": "<font size=7px> {{msg.payload}}",
         "layout": "col-center",
-        "x": 640,
+        "className": "",
+        "x": 650,
         "y": 1450,
         "wires": []
     },
@@ -19884,7 +19925,7 @@
         "z": "902fc438.e5d758",
         "g": "b2fff3b09f0ae95c",
         "name": "Trend",
-        "func": "var time = msg.payload;\n\nvar Speed = global.get(\"C2S.Implicit.spm\", \"memoryOnly\") || 0;\nvar data = context.get(\"data\", \"memoryOnly\") || null;\nvar Corriente_Motor = flow.get(\"Current_Motor\", \"memoryOnly\");\n\ncontext.set(\"Corriente\", Corriente_Motor, \"memoryOnly\");\n\n\n\nif (data == null) {\n    data = {\n        'speed': [{ \"x\": time, \"y\": Speed }],\n        'Current': [{ \"x\": time, \"y\": Corriente_Motor }]\n    };\n}\nelse {\n    if (data.speed.length > 119) {\n        data.speed.shift();\n        data.Current.shift();\n    }\n    data.speed.push({ \"x\": time, \"y\": Speed });\n    data.Current.push({ \"x\": time, \"y\": Corriente_Motor });\n}\n\ncontext.set(\"data\", data, \"memoryOnly\");\n\nvar series = [];\n\n\nseries.push(\"Frec. Actual \" + Speed.toFixed(1) + \" (spm)\");\nseries.push(\"Corriente Actual \" + Corriente_Motor.toFixed(1) + \" (A)\");\n\nvar datan = [];\n\ndatan.push(data.speed);\ndatan.push(data.Current);\n\nvar chart = [{\n    \"series\": series,\n    \"data\": datan,\n    \"labels\": [\"\"]\n}];\n\nmsg.payload = chart;\n\nreturn msg;",
+        "func": "var time = msg.payload;\n\nvar Speed = global.get(\"C2S.Implicit.spmActual\", \"memoryOnly\") || 0;\nvar data = context.get(\"data\", \"memoryOnly\") || null;\nvar Corriente_Motor = flow.get(\"Current_Motor\", \"memoryOnly\");\n\ncontext.set(\"Corriente\", Corriente_Motor, \"memoryOnly\");\n\n\n\nif (data == null) {\n    data = {\n        'speed': [{ \"x\": time, \"y\": Speed }],\n        'Current': [{ \"x\": time, \"y\": Corriente_Motor }]\n    };\n}\nelse {\n    if (data.speed.length > 119) {\n        data.speed.shift();\n        data.Current.shift();\n    }\n    data.speed.push({ \"x\": time, \"y\": Speed });\n    data.Current.push({ \"x\": time, \"y\": Corriente_Motor });\n}\n\ncontext.set(\"data\", data, \"memoryOnly\");\n\nvar series = [];\n\n\nseries.push(\"Frec. Actual \" + Speed.toFixed(1) + \" (spm)\");\nseries.push(\"Corriente Actual \" + Corriente_Motor.toFixed(1) + \" (A)\");\n\nvar datan = [];\n\ndatan.push(data.speed);\ndatan.push(data.Current);\n\nvar chart = [{\n    \"series\": series,\n    \"data\": datan,\n    \"labels\": [\"\"]\n}];\n\nmsg.payload = chart;\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -52048,9 +52089,10 @@
         "width": 2,
         "height": 1,
         "name": "",
-        "label": "Vel. Ref: ",
+        "label": "Vel Motor:",
         "format": "{{msg.payload}}",
         "layout": "row-center",
+        "className": "",
         "x": 1860,
         "y": 140,
         "wires": []
@@ -52065,9 +52107,10 @@
         "width": 2,
         "height": 1,
         "name": "",
-        "label": "Vel. Ref: ",
+        "label": "Vel Motor:",
         "format": "  {{msg.payload}}",
         "layout": "row-center",
+        "className": "",
         "x": 1860,
         "y": 180,
         "wires": []
@@ -52082,9 +52125,10 @@
         "width": 2,
         "height": 1,
         "name": "",
-        "label": "Vel. Ref: ",
+        "label": "Vel Motor:",
         "format": "  {{msg.payload}}",
         "layout": "row-center",
+        "className": "",
         "x": 1860,
         "y": 220,
         "wires": []
@@ -52099,9 +52143,10 @@
         "width": 2,
         "height": 1,
         "name": "",
-        "label": "Vel. Ref: ",
+        "label": "Vel Motor:",
         "format": "  {{msg.payload}}",
         "layout": "row-center",
+        "className": "",
         "x": 1860,
         "y": 300,
         "wires": []
@@ -52116,9 +52161,10 @@
         "width": 2,
         "height": 1,
         "name": "",
-        "label": "Vel. Ref: ",
+        "label": "Vel Motor:",
         "format": "  {{msg.payload}}",
         "layout": "row-center",
+        "className": "",
         "x": 1860,
         "y": 340,
         "wires": []
@@ -52133,9 +52179,10 @@
         "width": 2,
         "height": 1,
         "name": "",
-        "label": "Vel. Ref: ",
+        "label": "Vel Motor:",
         "format": "  {{msg.payload}}",
         "layout": "row-center",
+        "className": "",
         "x": 1860,
         "y": 380,
         "wires": []
@@ -52150,9 +52197,10 @@
         "width": 2,
         "height": 1,
         "name": "",
-        "label": "Vel. Ref: ",
+        "label": "Vel Motor:",
         "format": "  {{msg.payload}}",
         "layout": "row-center",
+        "className": "",
         "x": 1860,
         "y": 420,
         "wires": []
@@ -52701,8 +52749,9 @@
         "height": 1,
         "name": "",
         "label": "Vel. Actual:",
-        "format": "{{msg.payload}}",
+        "format": "{{msg.payload}} spm",
         "layout": "row-center",
+        "className": "",
         "x": 1890,
         "y": 1120,
         "wires": []
@@ -52744,8 +52793,9 @@
         "height": "1",
         "name": "",
         "label": "Vel. Actual:",
-        "format": "{{msg.payload}} Hz",
+        "format": "{{msg.payload}} spm",
         "layout": "row-center",
+        "className": "",
         "x": 1890,
         "y": 1040,
         "wires": []
@@ -52761,8 +52811,9 @@
         "height": "1",
         "name": "",
         "label": "Vel. Actual:",
-        "format": "{{msg.payload}} Hz",
+        "format": "{{msg.payload}} spm",
         "layout": "row-center",
+        "className": "",
         "x": 1890,
         "y": 1080,
         "wires": []
@@ -52778,8 +52829,9 @@
         "height": 1,
         "name": "",
         "label": "Vel. Actual:",
-        "format": "{{msg.payload}} Hz",
+        "format": "{{msg.payload}} spm",
         "layout": "row-center",
+        "className": "",
         "x": 1890,
         "y": 1160,
         "wires": []
@@ -52795,8 +52847,9 @@
         "height": "1",
         "name": "",
         "label": "Vel. Actual:",
-        "format": "{{msg.payload}} Hz",
+        "format": "{{msg.payload}} spm",
         "layout": "row-center",
+        "className": "",
         "x": 1890,
         "y": 1200,
         "wires": []
@@ -52812,8 +52865,9 @@
         "height": "1",
         "name": "",
         "label": "Vel. Actual:",
-        "format": "{{msg.payload}} Hz",
+        "format": "{{msg.payload}} spm",
         "layout": "row-center",
+        "className": "",
         "x": 1890,
         "y": 1240,
         "wires": []
@@ -52829,8 +52883,9 @@
         "height": "1",
         "name": "",
         "label": "Vel. Actual:",
-        "format": "{{msg.payload}} Hz",
+        "format": "{{msg.payload}} spm",
         "layout": "row-center",
+        "className": "",
         "x": 1890,
         "y": 1280,
         "wires": []
@@ -52922,9 +52977,10 @@
         "width": 2,
         "height": 1,
         "name": "",
-        "label": "Vel. Ref: ",
+        "label": "Vel Motor:",
         "format": "  {{msg.payload}}",
         "layout": "row-center",
+        "className": "",
         "x": 1860,
         "y": 260,
         "wires": []
@@ -53001,8 +53057,9 @@
         "height": 1,
         "name": "",
         "label": "Vel. Actual:",
-        "format": "{{msg.payload}}",
+        "format": "{{msg.payload}} spm",
         "layout": "row-center",
+        "className": "",
         "x": 1890,
         "y": 1320,
         "wires": []
@@ -53018,8 +53075,9 @@
         "height": "1",
         "name": "",
         "label": "Vel. Actual:",
-        "format": "{{msg.payload}}",
+        "format": "{{msg.payload}} spm",
         "layout": "row-center",
+        "className": "",
         "x": 1890,
         "y": 1400,
         "wires": []
@@ -53314,9 +53372,10 @@
         "width": 2,
         "height": 1,
         "name": "",
-        "label": "Vel. Ref: ",
+        "label": "Vel Motor:",
         "format": "  {{msg.payload}}",
         "layout": "row-center",
+        "className": "",
         "x": 1880,
         "y": 100,
         "wires": []
@@ -53426,8 +53485,9 @@
         "height": 1,
         "name": "",
         "label": "Vel. Actual:",
-        "format": "{{msg.payload}} Hz",
+        "format": "{{msg.payload}} spm",
         "layout": "row-center",
+        "className": "",
         "x": 1890,
         "y": 1360,
         "wires": []
@@ -59031,7 +59091,7 @@
         "z": "dd18d94e.4b1408",
         "g": "b2f2659a.67f648",
         "name": "Interpretar comunicación",
-        "func": "var Uint16 = new Uint16Array(40);\n\nUint16[0] = msg.payload.Logic_Status_1; Uint16[1] = msg.payload.Logic_Status_2;\nUint16[2] = msg.payload.Output_Frequency_1; Uint16[3] = msg.payload.Output_Frequency_2;\nUint16[4] = msg.payload.Commanded_SpdRef_1; Uint16[5] = msg.payload.Commanded_SpdRef_2;\nUint16[6] = msg.payload.Mtr_Vel_Fdbk_1; Uint16[7] = msg.payload.Mtr_Vel_Fdbk_2;\nUint16[8] = msg.payload.Output_Current_1; Uint16[9] = msg.payload.Output_Current_2;\nUint16[10] = msg.payload.Output_Voltage_1; Uint16[11] = msg.payload.Output_Voltage_2;\nUint16[12] = msg.payload.Output_Power_1; Uint16[13] = msg.payload.Output_Power_2;\nUint16[14] = msg.payload.Output_Powr_Fctr_1; Uint16[15] = msg.payload.Output_Powr_Fctr_2;\nUint16[16] = msg.payload.DC_Bus_Volts_1; Uint16[17] = msg.payload.DC_Bus_Volts_2;\nUint16[18] = msg.payload.Elapsed_Run_Time_1; Uint16[19] = msg.payload.Elapsed_Run_Time_2;\nUint16[20] = msg.payload.Elpsd_Mtr_kWHrs_1; Uint16[21] = msg.payload.Elpsd_Mtr_kWHrs_2;\nUint16[22] = msg.payload.IGBT_Temp_C_1; Uint16[23] = msg.payload.IGBT_Temp_C_2;\nUint16[24] = msg.payload.Drive_Temp_C_1; Uint16[25] = msg.payload.Drive_Temp_C_2;\nUint16[26] = msg.payload.Last_Fault_Code_1; Uint16[27] = msg.payload.Last_Fault_Code_2;\nUint16[28] = msg.payload.Digital_In_Sts_1; Uint16[29] = msg.payload.Digital_In_Sts_2;\nUint16[30] = msg.payload.Tunning_Select_1; Uint16[31] = msg.payload.Tunning_Select_2;\nUint16[32] = msg.payload.PMM_OL_Select_1; Uint16[33] = msg.payload.PMM_OL_Select_2;\nUint16[34] = msg.payload.Accel_Time_1; Uint16[35] = msg.payload.Accel_Time_2;\nUint16[36] = msg.payload.Decel_Time_1; Uint16[37] = msg.payload.Decel_Time_2;\nUint16[38] = msg.payload.Max_Fwd_Speed_1; Uint16[39] = msg.payload.Max_Fwd_Speed_2;\n\nvar Sts = [Uint16[0], Uint16[1]];\nvar Output_Frequency = [Uint16[2], Uint16[3]];\nvar Commanded_SpdRef = [Uint16[4], Uint16[5]];\nvar Mtr_Vel_Fdbk = [Uint16[6], Uint16[7]];\nvar Output_Current = [Uint16[8], Uint16[9]];\nvar Output_Voltage = [Uint16[10], Uint16[11]];\nvar Output_Power = [Uint16[12], Uint16[13]];\nvar Output_Powr_Fctr = [Uint16[14], Uint16[15]];\nvar DC_Bus_Volts = [Uint16[16], Uint16[17]];\nvar Elapsed_Run_Time = [Uint16[18], Uint16[19]];\nvar Elpsd_Mtr_kWHrs = [Uint16[20], Uint16[21]];\nvar IGBT_Temp_C = [Uint16[22], Uint16[23]];\nvar Drive_Temp_C = [Uint16[24], Uint16[25]];\nvar Last_Fault_Code = [Uint16[26], Uint16[27]];\nvar Digital_In_Sts = [1, 1];\nvar Tunning_Select = [Uint16[30], Uint16[31]];\nvar PMM_OL_Select = [Uint16[32], Uint16[33]];\nvar Accel_Time = [Uint16[34], Uint16[35]];\nvar Decel_Time = [Uint16[36], Uint16[37]];\nvar Max_Fwd_Speed = [Uint16[38], Uint16[39]];\n\n\nCommanded_SpdRef = parseFloat(Int2Float32(array16to32(Commanded_SpdRef)).toFixed(3)),\n    //arreglo para tomar la referencia del VSD preguntar como se hace de mejor forma;\n    context.set(\"Commanded_SpdRef\", Commanded_SpdRef, \"memoryOnly\");\nvar commandSpeedReference = context.get(\"Commanded_SpdRef\", \"memoryOnly\") || 0;\n\n//spm tomadas del VSD\nvar Dc = global.get(\"C2S.Motor_Control.Nameplate.Dc\") || 0;//diametro del crank\nvar nPolosMotor = global.get(\"C2S.Motor_Control.Nameplate.Poles\") || 0;//relacion caja de motor\nvar Dm = global.get(\"C2S.Motor_Control.Nameplate.Dm\") || 0;//diametro del motor\nvar rgb = global.get(\"C2S.Motor_Control.Nameplate.RGB\") || 0;//RELACION DEL GEAR\n\n// condicion que valida que esten creadas todas las variables\nif (Dc != 0 && Dm != 0 && rgb != 0 && nPolosMotor != 0) {\n    // calculo de la ecuación\n    var spm = (60 * commandSpeedReference) / (nPolosMotor * rgb) * (Dm / Dc);\n    node.status({ fill: \"green\", shape: \"dot\", text: \"Configurado\" });\n    context.set(\"spm\", spm, \"memoryOnly\");\n} else {\n    spm = 0;\n    node.status({ fill: \"red\", shape: \"dot\", text: \"NoConfigurado\" });\n}\n\nmsg.payload = {\n    'Status_Word': Sts[0],\n    'Output_Frequency': parseFloat(Int2Float32(array16to32(Output_Frequency))),\n    'Commanded_SpdRef': Commanded_SpdRef,\n    'Mtr_Vel_Fdbk': parseFloat(Int2Float32(array16to32(Mtr_Vel_Fdbk)).toFixed(3)),\n    'Output_Current': parseFloat(Int2Float32(array16to32(Output_Current)).toFixed(3)),\n    'Output_Voltage': parseFloat(Int2Float32(array16to32(Output_Voltage)).toFixed(3)),\n    'Output_Power': parseFloat(Int2Float32(array16to32(Output_Power)).toFixed(3)),\n    'Power_Factor': parseFloat(Int2Float32(array16to32(Output_Powr_Fctr)).toFixed(3)),\n    'Bus_DC_Volts': parseFloat(Int2Float32(array16to32(DC_Bus_Volts)).toFixed(3)),\n    'Elapsed_Run_Time': parseFloat(Int2Float32(array16to32(Elapsed_Run_Time)).toFixed(3)),\n    'Elpsd_Mtr_kWHrs': parseFloat(Int2Float32(array16to32(Elpsd_Mtr_kWHrs)).toFixed(3)),\n    'IGBT_Temp_C': parseFloat(Int2Float32(array16to32(IGBT_Temp_C)).toFixed(3)),\n    'Drive_Temp_C': parseFloat(Int2Float32(array16to32(Drive_Temp_C)).toFixed(3)),\n    'Last_Fault_Code': parseInt(array16to32(Last_Fault_Code)),\n    'Digital_In_Sts': parseInt(array16to32(Digital_In_Sts)),\n    'Tunning_Select': parseInt(array16to32(Tunning_Select)),\n    'PMM_OL_Select': parseInt(array16to32(PMM_OL_Select)),\n    'Accel_Time': parseFloat(Int2Float32(array16to32(Accel_Time)).toFixed(3)),\n    'Decel_Time': parseFloat(Int2Float32(array16to32(Decel_Time)).toFixed(3)),\n    'Max_Fwd_Speed': parseFloat(Int2Float32(array16to32(Max_Fwd_Speed)).toFixed(3)),\n    'spm': parseFloat(spm.toFixed(2))\n}\n\ncontext.set(\"Output_Frequency\", msg.payload.Output_Frequency, \"memoryOnly\");\nreturn msg;\n\n// Combinar dos arrays de 16 bits en uno 32 bits\nfunction array16to32(array) {\n    var intvalue = [];\n    for (var i = 0; i < array.length; i++) {\n        array[i] = array[i] << 16 * i;\n        // @ts-ignore\n        intvalue = intvalue | array[i];\n    }\n    return intvalue;\n}\n// IEC 754 to Float Function\nfunction Int2Float32(bytes) {\n    var sign = (bytes & 0x80000000) ? -1 : 1;\n    var exponent = ((bytes >> 23) & 0xFF) - 127;\n    var significand = (bytes & ~(-1 << 23));\n\n    if (exponent == 128)\n        return sign * ((significand) ? Number.NaN : Number.POSITIVE_INFINITY);\n\n    if (exponent == -127) {\n        if (significand === 0) return sign * 0.0;\n        exponent = -126;\n        significand /= (1 << 22);\n    } else significand = (significand | (1 << 23)) / (1 << 23);\n\n    return sign * significand * Math.pow(2, exponent);\n}\n// Créditos: https://flows.nodered.org/flow/359ead34237b7ab6ec0465ee85a34b62\n//Fuente: https://stackoverflow.com/questions/47164675/convert-float-to-32bit-hex-string-in-javascript\n",
+        "func": "var Uint16 = new Uint16Array(40);\n\nUint16[0] = msg.payload.Logic_Status_1; Uint16[1] = msg.payload.Logic_Status_2;\nUint16[2] = msg.payload.Output_Frequency_1; Uint16[3] = msg.payload.Output_Frequency_2;\nUint16[4] = msg.payload.Commanded_SpdRef_1; Uint16[5] = msg.payload.Commanded_SpdRef_2;\nUint16[6] = msg.payload.Mtr_Vel_Fdbk_1; Uint16[7] = msg.payload.Mtr_Vel_Fdbk_2;\nUint16[8] = msg.payload.Output_Current_1; Uint16[9] = msg.payload.Output_Current_2;\nUint16[10] = msg.payload.Output_Voltage_1; Uint16[11] = msg.payload.Output_Voltage_2;\nUint16[12] = msg.payload.Output_Power_1; Uint16[13] = msg.payload.Output_Power_2;\nUint16[14] = msg.payload.Output_Powr_Fctr_1; Uint16[15] = msg.payload.Output_Powr_Fctr_2;\nUint16[16] = msg.payload.DC_Bus_Volts_1; Uint16[17] = msg.payload.DC_Bus_Volts_2;\nUint16[18] = msg.payload.Elapsed_Run_Time_1; Uint16[19] = msg.payload.Elapsed_Run_Time_2;\nUint16[20] = msg.payload.Elpsd_Mtr_kWHrs_1; Uint16[21] = msg.payload.Elpsd_Mtr_kWHrs_2;\nUint16[22] = msg.payload.IGBT_Temp_C_1; Uint16[23] = msg.payload.IGBT_Temp_C_2;\nUint16[24] = msg.payload.Drive_Temp_C_1; Uint16[25] = msg.payload.Drive_Temp_C_2;\nUint16[26] = msg.payload.Last_Fault_Code_1; Uint16[27] = msg.payload.Last_Fault_Code_2;\nUint16[28] = msg.payload.Digital_In_Sts_1; Uint16[29] = msg.payload.Digital_In_Sts_2;\nUint16[30] = msg.payload.Tunning_Select_1; Uint16[31] = msg.payload.Tunning_Select_2;\nUint16[32] = msg.payload.PMM_OL_Select_1; Uint16[33] = msg.payload.PMM_OL_Select_2;\nUint16[34] = msg.payload.Accel_Time_1; Uint16[35] = msg.payload.Accel_Time_2;\nUint16[36] = msg.payload.Decel_Time_1; Uint16[37] = msg.payload.Decel_Time_2;\nUint16[38] = msg.payload.Max_Fwd_Speed_1; Uint16[39] = msg.payload.Max_Fwd_Speed_2;\n\nvar Sts = [Uint16[0], Uint16[1]];\nvar Output_Frequency = [Uint16[2], Uint16[3]];\nvar Commanded_SpdRef = [Uint16[4], Uint16[5]];\nvar Mtr_Vel_Fdbk = [Uint16[6], Uint16[7]];\nvar Output_Current = [Uint16[8], Uint16[9]];\nvar Output_Voltage = [Uint16[10], Uint16[11]];\nvar Output_Power = [Uint16[12], Uint16[13]];\nvar Output_Powr_Fctr = [Uint16[14], Uint16[15]];\nvar DC_Bus_Volts = [Uint16[16], Uint16[17]];\nvar Elapsed_Run_Time = [Uint16[18], Uint16[19]];\nvar Elpsd_Mtr_kWHrs = [Uint16[20], Uint16[21]];\nvar IGBT_Temp_C = [Uint16[22], Uint16[23]];\nvar Drive_Temp_C = [Uint16[24], Uint16[25]];\nvar Last_Fault_Code = [Uint16[26], Uint16[27]];\nvar Digital_In_Sts = [1, 1];\nvar Tunning_Select = [Uint16[30], Uint16[31]];\nvar PMM_OL_Select = [Uint16[32], Uint16[33]];\nvar Accel_Time = [Uint16[34], Uint16[35]];\nvar Decel_Time = [Uint16[36], Uint16[37]];\nvar Max_Fwd_Speed = [Uint16[38], Uint16[39]];\n\n\nCommanded_SpdRef = parseFloat(Int2Float32(array16to32(Commanded_SpdRef)).toFixed(3)),\nOutput_Frequency = parseFloat(Int2Float32(array16to32(Output_Frequency)).toFixed(3)),\n//arreglo para tomar la referencia del VSD preguntar como se hace de mejor forma;\ncontext.set(\"Commanded_SpdRef\", Commanded_SpdRef, \"memoryOnly\");\ncontext.set(\"Output_Frequency\", Output_Frequency, \"memoryOnly\");\nvar commandSpeedReference = context.get(\"Commanded_SpdRef\", \"memoryOnly\") || 0;\nvar Output_FrequencyActual = context.get(\"Output_Frequency\", \"memoryOnly\") || 0;\n\n//spm tomadas del VSD\nvar Dc = global.get(\"C2S.Motor_Control.Nameplate.Dc\") || 0;//diametro del crank\nvar nPolosMotor = global.get(\"C2S.Motor_Control.Nameplate.Poles\") || 0;//relacion caja de motor\nvar Dm = global.get(\"C2S.Motor_Control.Nameplate.Dm\") || 0;//diametro del motor\nvar rgb = global.get(\"C2S.Motor_Control.Nameplate.RGB\") || 0;//RELACION DEL GEAR\n\n// condicion que valida que esten creadas todas las variables\nif (Dc != 0 && Dm != 0 && rgb != 0 && nPolosMotor != 0) {\n    // calculo de la ecuación\n    var spm = (60 * commandSpeedReference) / (nPolosMotor * rgb) * (Dm / Dc);\n    var spmActual = (60 * Output_FrequencyActual) / (nPolosMotor * rgb) * (Dm / Dc);\n    node.status({ fill: \"green\", shape: \"dot\", text: \"Configurado\" });\n    context.set(\"spm\", spm, \"memoryOnly\");\n    context.set(\"spmActual\", spmActual, \"memoryOnly\");\n} else {\n    spm = 0;\n    node.status({ fill: \"red\", shape: \"dot\", text: \"NoConfigurado\" });\n}\n\nmsg.payload = {\n    'Status_Word': Sts[0],\n    'Output_Frequency': parseFloat(Int2Float32(array16to32(Output_Frequency))),\n    'Commanded_SpdRef': Commanded_SpdRef,\n    'Mtr_Vel_Fdbk': parseFloat(Int2Float32(array16to32(Mtr_Vel_Fdbk)).toFixed(3)),\n    'Output_Current': parseFloat(Int2Float32(array16to32(Output_Current)).toFixed(3)),\n    'Output_Voltage': parseFloat(Int2Float32(array16to32(Output_Voltage)).toFixed(3)),\n    'Output_Power': parseFloat(Int2Float32(array16to32(Output_Power)).toFixed(3)),\n    'Power_Factor': parseFloat(Int2Float32(array16to32(Output_Powr_Fctr)).toFixed(3)),\n    'Bus_DC_Volts': parseFloat(Int2Float32(array16to32(DC_Bus_Volts)).toFixed(3)),\n    'Elapsed_Run_Time': parseFloat(Int2Float32(array16to32(Elapsed_Run_Time)).toFixed(3)),\n    'Elpsd_Mtr_kWHrs': parseFloat(Int2Float32(array16to32(Elpsd_Mtr_kWHrs)).toFixed(3)),\n    'IGBT_Temp_C': parseFloat(Int2Float32(array16to32(IGBT_Temp_C)).toFixed(3)),\n    'Drive_Temp_C': parseFloat(Int2Float32(array16to32(Drive_Temp_C)).toFixed(3)),\n    'Last_Fault_Code': parseInt(array16to32(Last_Fault_Code)),\n    'Digital_In_Sts': parseInt(array16to32(Digital_In_Sts)),\n    'Tunning_Select': parseInt(array16to32(Tunning_Select)),\n    'PMM_OL_Select': parseInt(array16to32(PMM_OL_Select)),\n    'Accel_Time': parseFloat(Int2Float32(array16to32(Accel_Time)).toFixed(3)),\n    'Decel_Time': parseFloat(Int2Float32(array16to32(Decel_Time)).toFixed(3)),\n    'Max_Fwd_Speed': parseFloat(Int2Float32(array16to32(Max_Fwd_Speed)).toFixed(3)),\n    'spm': parseFloat(spm.toFixed(2)),\n    'spmActual': parseFloat(spmActual.toFixed(2))\n}\n\ncontext.set(\"Output_Frequency\", msg.payload.Output_Frequency, \"memoryOnly\");\nreturn msg;\n\n// Combinar dos arrays de 16 bits en uno 32 bits\nfunction array16to32(array) {\n    var intvalue = [];\n    for (var i = 0; i < array.length; i++) {\n        array[i] = array[i] << 16 * i;\n        // @ts-ignore\n        intvalue = intvalue | array[i];\n    }\n    return intvalue;\n}\n// IEC 754 to Float Function\nfunction Int2Float32(bytes) {\n    var sign = (bytes & 0x80000000) ? -1 : 1;\n    var exponent = ((bytes >> 23) & 0xFF) - 127;\n    var significand = (bytes & ~(-1 << 23));\n\n    if (exponent == 128)\n        return sign * ((significand) ? Number.NaN : Number.POSITIVE_INFINITY);\n\n    if (exponent == -127) {\n        if (significand === 0) return sign * 0.0;\n        exponent = -126;\n        significand /= (1 << 22);\n    } else significand = (significand | (1 << 23)) / (1 << 23);\n\n    return sign * significand * Math.pow(2, exponent);\n}\n// Créditos: https://flows.nodered.org/flow/359ead34237b7ab6ec0465ee85a34b62\n//Fuente: https://stackoverflow.com/questions/47164675/convert-float-to-32bit-hex-string-in-javascript\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
