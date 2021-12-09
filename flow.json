@@ -1374,7 +1374,7 @@
         "x": -2,
         "y": 523,
         "w": 1484,
-        "h": 784
+        "h": 664
     },
     {
         "id": "54254b6e.789ca4",
@@ -1692,7 +1692,9 @@
             "996a9142c814ab39"
         ],
         "x": 24,
-        "y": 429
+        "y": 429,
+        "w": 712,
+        "h": 242
     },
     {
         "id": "6abd418f.d175b",
@@ -1707,7 +1709,9 @@
             "b2f2659a.67f648"
         ],
         "x": 18,
-        "y": 23
+        "y": 23,
+        "w": 1754,
+        "h": 394
     },
     {
         "id": "8c207e440fb46f33",
@@ -1723,7 +1727,9 @@
             "9f77b0d829ad914b"
         ],
         "x": 514,
-        "y": 769
+        "y": 769,
+        "w": 282,
+        "h": 82
     },
     {
         "id": "38940f8.c9c27f",
@@ -1886,7 +1892,9 @@
             "98ca0b1c.cda4f8"
         ],
         "x": 34,
-        "y": 29
+        "y": 29,
+        "w": 962,
+        "h": 212
     },
     {
         "id": "57eba231.4d56dc",
@@ -1906,7 +1914,9 @@
             "e9e93a2c.deeb18"
         ],
         "x": 28,
-        "y": 253
+        "y": 253,
+        "w": 494,
+        "h": 304
     },
     {
         "id": "dbdc491cb6e9eee5",
@@ -2669,7 +2679,9 @@
             "b88575ca75fdb4f5"
         ],
         "x": 754,
-        "y": 429
+        "y": 429,
+        "w": 922,
+        "h": 82
     },
     {
         "id": "d175fb986dc9e991",
@@ -2689,7 +2701,9 @@
             "36c70d85dac8cd26"
         ],
         "x": 754,
-        "y": 519
+        "y": 519,
+        "w": 922,
+        "h": 82
     },
     {
         "id": "62fac95632266b01",
@@ -2821,7 +2835,8 @@
             "e4a83f2c.28447",
             "40a66e73.1d0e7",
             "631da7c9.6e8058",
-            "d4914d8c.5439e"
+            "d4914d8c.5439e",
+            "1fe7d9e4bb73ca31"
         ],
         "x": 84,
         "y": 1979,
@@ -4207,6 +4222,41 @@
         "y": 1099
     },
     {
+        "id": "9ff47da5fe193161",
+        "type": "group",
+        "z": "2e27dea6.c4c362",
+        "name": "Home",
+        "style": {
+            "label": true,
+            "fill": "#7f8faf",
+            "color": "#ffffff"
+        },
+        "nodes": [
+            "6f392c9d74adad83",
+            "268da99b59678500",
+            "17ea4ddd2cb2866d",
+            "248c3c3de68a0207",
+            "ada874700a4c8904",
+            "bcae200194f93c53",
+            "1439abca928096f8",
+            "4515e6f20738ca04",
+            "e7379d612cf68d97",
+            "38dcb788c3d27509",
+            "c43540e8a91e5ddb",
+            "156c69b5bed34273",
+            "d218b4369f6fb117",
+            "1b0e5228e9c1a599",
+            "c62c192347b4885f",
+            "1760235195cb5f4c",
+            "1bd1906b906446cb",
+            "e0da6f5132ed3813"
+        ],
+        "x": 64,
+        "y": 189,
+        "w": 852,
+        "h": 282
+    },
+    {
         "id": "1306de9a.9ba341",
         "type": "group",
         "z": "43b51d90.0b47f4",
@@ -4332,21 +4382,12 @@
             "715b83c81cf86d5e",
             "d5ec983f153127a2",
             "03a200e48fa1531c",
-            "e56848afae482675",
-            "18f7b53655a6fb3f",
-            "89d38d245fa4b581",
-            "132daec6b4069402",
-            "ffacd1e2532554f4",
-            "7be7a0b388250823",
-            "19351dd514f81359",
-            "f441ffcee2d6db29",
-            "b92d809753e2d822",
-            "a6a19797b88145ad"
+            "e56848afae482675"
         ],
         "x": 24,
         "y": 549,
         "w": 762,
-        "h": 732
+        "h": 612
     },
     {
         "id": "e9d2f5f0.86a518",
@@ -4595,7 +4636,9 @@
             "c30439cc.4bcb68"
         ],
         "x": 44,
-        "y": 49
+        "y": 49,
+        "w": 1422,
+        "h": 212
     },
     {
         "id": "b2f2659a.67f648",
@@ -4623,7 +4666,9 @@
             "de16ee9e71fc7646"
         ],
         "x": 44,
-        "y": 269
+        "y": 269,
+        "w": 1702,
+        "h": 122
     },
     {
         "id": "70a63b74.44894c",
@@ -4700,7 +4745,9 @@
             "ad87cee4.7dbb5"
         ],
         "x": 54,
-        "y": 279
+        "y": 279,
+        "w": 322,
+        "h": 82
     },
     {
         "id": "e9e93a2c.deeb18",
@@ -4722,7 +4769,9 @@
             "14241d8711ae8590"
         ],
         "x": 54,
-        "y": 369
+        "y": 369,
+        "w": 442,
+        "h": 162
     },
     {
         "id": "675af0d1.a9fc4",
@@ -7566,39 +7615,32 @@
         "y": 619
     },
     {
-        "id": "9ff47da5fe193161",
+        "id": "daacc2ec73149b57",
         "type": "group",
-        "z": "2e27dea6.c4c362",
-        "name": "Home",
+        "z": "43b51d90.0b47f4",
+        "name": "Configuración Caja Reductora",
         "style": {
-            "label": true,
-            "fill": "#7f8faf",
-            "color": "#ffffff"
+            "label": true
         },
         "nodes": [
-            "6f392c9d74adad83",
-            "268da99b59678500",
-            "17ea4ddd2cb2866d",
-            "248c3c3de68a0207",
-            "ada874700a4c8904",
-            "bcae200194f93c53",
-            "1439abca928096f8",
-            "4515e6f20738ca04",
-            "e7379d612cf68d97",
-            "38dcb788c3d27509",
-            "c43540e8a91e5ddb",
-            "156c69b5bed34273",
-            "d218b4369f6fb117",
-            "1b0e5228e9c1a599",
-            "c62c192347b4885f",
-            "1760235195cb5f4c",
-            "1bd1906b906446cb",
-            "e0da6f5132ed3813"
+            "1cb6e0c36f80998f",
+            "b955d9344271f4fb",
+            "3a7e67ca4c0afafd",
+            "8dfdcbf239beaba9",
+            "5fe3d2d1ed3e62a7",
+            "560155d1d518383a",
+            "8126b92d6a4591aa",
+            "b91cbd56f7b97ef9",
+            "f6679927478965cf",
+            "5a2971a54a238a55",
+            "a839ed26fe330510",
+            "b4058e733a37b84c",
+            "f3d3079068490869"
         ],
-        "x": 64,
-        "y": 189,
-        "w": 852,
-        "h": 282
+        "x": 114,
+        "y": 3139,
+        "w": 1052,
+        "h": 162
     },
     {
         "id": "d25d405a.19cff",
@@ -9203,7 +9245,7 @@
         "type": "ui_group",
         "name": "Horometro",
         "tab": "9d512981.aa8278",
-        "order": 18,
+        "order": 19,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -9413,7 +9455,7 @@
         "type": "ui_group",
         "name": "Status_Bar",
         "tab": "9d512981.aa8278",
-        "order": 19,
+        "order": 20,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -10906,6 +10948,17 @@
         "order": 4,
         "width": 2,
         "height": 1
+    },
+    {
+        "id": "67cedc320693bf8f",
+        "type": "ui_group",
+        "name": "CajaReductora",
+        "tab": "9d512981.aa8278",
+        "order": 18,
+        "disp": true,
+        "width": "12",
+        "collapse": false,
+        "className": ""
     },
     {
         "id": "8c24ec8f.cf43c",
@@ -32897,15 +32950,12 @@
                 "label": "Motor de Inducción [IM]",
                 "value": "IM",
                 "type": "str"
-            },
-            {
-                "label": "Motor de imanes permanentes [PMM]",
-                "value": "PMM",
-                "type": "str"
             }
         ],
         "payload": "",
         "topic": "",
+        "topicType": "str",
+        "className": "",
         "x": 440,
         "y": 2060,
         "wires": [
@@ -33604,10 +33654,7 @@
                 "9355594d.0b5af8",
                 "fa5d0b5d.173c98",
                 "657a5d37.6d07c4",
-                "f7f5dc17.aa232",
-                "18f7b53655a6fb3f",
-                "ffacd1e2532554f4",
-                "f441ffcee2d6db29"
+                "f7f5dc17.aa232"
             ]
         ]
     },
@@ -34473,10 +34520,7 @@
                 "9355594d.0b5af8",
                 "fa5d0b5d.173c98",
                 "657a5d37.6d07c4",
-                "f7f5dc17.aa232",
-                "18f7b53655a6fb3f",
-                "ffacd1e2532554f4",
-                "f441ffcee2d6db29"
+                "f7f5dc17.aa232"
             ]
         ]
     },
@@ -49010,240 +49054,6 @@
         ]
     },
     {
-        "id": "18f7b53655a6fb3f",
-        "type": "change",
-        "z": "43b51d90.0b47f4",
-        "g": "27c43941.e9e0c6",
-        "name": "RGB",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "C2S.Motor_Control.Nameplate.RGB",
-                "tot": "global"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 290,
-        "y": 1160,
-        "wires": [
-            [
-                "89d38d245fa4b581"
-            ]
-        ]
-    },
-    {
-        "id": "89d38d245fa4b581",
-        "type": "ui_text_input",
-        "z": "43b51d90.0b47f4",
-        "g": "27c43941.e9e0c6",
-        "name": "",
-        "label": "RGB[Relación Gear]",
-        "tooltip": "",
-        "group": "c0d4b517.4b9968",
-        "order": 6,
-        "width": 4,
-        "height": 1,
-        "passthru": true,
-        "mode": "number",
-        "delay": "300",
-        "topic": "Accel",
-        "x": 500,
-        "y": 1160,
-        "wires": [
-            [
-                "132daec6b4069402"
-            ]
-        ]
-    },
-    {
-        "id": "132daec6b4069402",
-        "type": "change",
-        "z": "43b51d90.0b47f4",
-        "g": "27c43941.e9e0c6",
-        "name": "RGB",
-        "rules": [
-            {
-                "t": "set",
-                "p": "C2S.Motor_Control.Nameplate.RGB",
-                "pt": "global",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 670,
-        "y": 1160,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "19351dd514f81359",
-        "type": "change",
-        "z": "43b51d90.0b47f4",
-        "g": "27c43941.e9e0c6",
-        "name": "Dm",
-        "rules": [
-            {
-                "t": "set",
-                "p": "C2S.Motor_Control.Nameplate.Dm",
-                "pt": "global",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 670,
-        "y": 1200,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "7be7a0b388250823",
-        "type": "ui_text_input",
-        "z": "43b51d90.0b47f4",
-        "g": "27c43941.e9e0c6",
-        "name": "",
-        "label": "Diámetro Motor",
-        "tooltip": "",
-        "group": "c0d4b517.4b9968",
-        "order": 6,
-        "width": 4,
-        "height": 1,
-        "passthru": true,
-        "mode": "number",
-        "delay": "300",
-        "topic": "Accel",
-        "x": 480,
-        "y": 1200,
-        "wires": [
-            [
-                "19351dd514f81359"
-            ]
-        ]
-    },
-    {
-        "id": "ffacd1e2532554f4",
-        "type": "change",
-        "z": "43b51d90.0b47f4",
-        "g": "27c43941.e9e0c6",
-        "name": "Dm",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "C2S.Motor_Control.Nameplate.Dm",
-                "tot": "global"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 290,
-        "y": 1200,
-        "wires": [
-            [
-                "7be7a0b388250823"
-            ]
-        ]
-    },
-    {
-        "id": "f441ffcee2d6db29",
-        "type": "change",
-        "z": "43b51d90.0b47f4",
-        "g": "27c43941.e9e0c6",
-        "name": "Dc",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "C2S.Motor_Control.Nameplate.Dc",
-                "tot": "global"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 290,
-        "y": 1240,
-        "wires": [
-            [
-                "b92d809753e2d822"
-            ]
-        ]
-    },
-    {
-        "id": "b92d809753e2d822",
-        "type": "ui_text_input",
-        "z": "43b51d90.0b47f4",
-        "g": "27c43941.e9e0c6",
-        "name": "",
-        "label": "Diámetro Crank",
-        "tooltip": "",
-        "group": "c0d4b517.4b9968",
-        "order": 6,
-        "width": 4,
-        "height": 1,
-        "passthru": true,
-        "mode": "number",
-        "delay": "300",
-        "topic": "Accel",
-        "x": 480,
-        "y": 1240,
-        "wires": [
-            [
-                "a6a19797b88145ad"
-            ]
-        ]
-    },
-    {
-        "id": "a6a19797b88145ad",
-        "type": "change",
-        "z": "43b51d90.0b47f4",
-        "g": "27c43941.e9e0c6",
-        "name": "Dc",
-        "rules": [
-            {
-                "t": "set",
-                "p": "C2S.Motor_Control.Nameplate.Dc",
-                "pt": "global",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 670,
-        "y": 1240,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "592adbf4a79f447c",
         "type": "change",
         "z": "43b51d90.0b47f4",
@@ -49672,7 +49482,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración_VSD_Voltios_Hertz\",\t                \"Configuración_VSD_Rampas\",\t                \"Configuración_VSD_Límites\",\t                \"Configuración_VSD_Rampa_prolongada\",\t                \"Configuración_VSD_Relación_de_Transformación\",\t                \"Configuración_VSD_Control_de_motor\"],\t                \t       \"show\":[ \"Configuración_VSD_Placa_de_motor\"]\t       \t   }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración_VSD_Voltios_Hertz\",\t                \"Configuración_VSD_Rampas\",\t                \"Configuración_VSD_Límites\",\t                \"Configuración_VSD_Rampa_prolongada\",\t                \"Configuración_VSD_Relación_de_Transformación\",\t                \"Configuración_VSD_CajaReductora\",\t                \"Configuración_VSD_Control_de_motor\"],\t                \t       \"show\":[ \"Configuración_VSD_Placa_de_motor\"]\t       \t   }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -49701,7 +49511,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración_VSD_Placa_de_motor\",\t                \"Configuración_VSD_Voltios_Hertz\",\t                \"Configuración_VSD_Relación_de_Transformación\",\t                \"Configuración_VSD_Control_de_motor\"],\t       \"show\":[ \"Configuración_VSD_Rampas\",\t                \"Configuración_VSD_Límites\",\t                \"Configuración_VSD_Rampa_prolongada\"]\t   }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración_VSD_Placa_de_motor\",\t                \"Configuración_VSD_Voltios_Hertz\",\t                \"Configuración_VSD_Relación_de_Transformación\",\t                \"Configuración_VSD_CajaReductora\",\t                \"Configuración_VSD_Control_de_motor\"],\t       \"show\":[ \"Configuración_VSD_Rampas\",\t                \"Configuración_VSD_Límites\",\t                \"Configuración_VSD_Rampa_prolongada\"]\t   }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -49744,7 +49554,7 @@
             },
             {
                 "t": "eq",
-                "v": "DatosTX",
+                "v": "CajaReductora",
                 "vt": "str"
             }
         ],
@@ -49778,11 +49588,12 @@
         "order": 1,
         "width": 0,
         "height": 0,
-        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n\n</head>\n\n<body>\n    <!-- Navigation bar -->\n    <nav>\n        <div class=\"nav nav-pills nav-fill\" id=\"nav-tab\" role=\"tablist\">\n            <a class=\"nav-item nav-link active\" id=\"nav-PlacaMotor-tab\" data-toggle=\"tab\" href=\"#nav-PlacaMotor\"\n                role=\"tab\" aria-controls=\"nav-PlacaMotor\" aria-selected=\"true\"\n                ng-click=\"send({payload:PlacaMotor()})\">Placa de motor</a>\n            <a class=\"nav-item nav-link\" id=\"nav-RampsLimits-tab\" data-toggle=\"tab\" href=\"#nav-RampsLimits\" role=\"tab\"\n                aria-controls=\"nav-RampsLimits\" aria-selected=\"false\" ng-click=\"send({payload:RampsLimits()})\">Rampas y\n                Límites</a>\n            <a class=\"nav-item nav-link\" id=\"nav-AjustesRefuerzo-tab\" data-toggle=\"tab\" href=\"#nav-AjustesRefuerzo\"\n                role=\"tab\" aria-controls=\"nav-AjustesRefuerzo\" aria-selected=\"false\"\n                ng-click=\"send({payload:AjustesRefuerzo()})\">Ajuste de Refuerzo</a>\n            <a class=\"nav-item nav-link\" id=\"nav-DatosTX-tab\" data-toggle=\"tab\" href=\"#nav-DatosTX\" role=\"tab\"\n                aria-controls=\"nav-DatosTX\" aria-selected=\"false\" ng-click=\"send({payload:DatosTX()})\">Datos TX</a>\n        </div>\n    </nav>\n\n    <script>\n        this.scope.PlacaMotor = function() { return \"PlacaMotor\"; };\n        this.scope.RampsLimits = function() { return \"RampsLimits\"; };\n        this.scope.AjustesRefuerzo = function() { return \"AjustesRefuerzo\"; };\n        this.scope.DatosTX = function() { return \"DatosTX\"; };\n        \n    </script>\n\n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n\n</body>\n\n</html>",
+        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n\n</head>\n\n<body>\n    <!-- Navigation bar -->\n    <nav>\n        <div class=\"nav nav-pills nav-fill\" id=\"nav-tab\" role=\"tablist\">\n            <a class=\"nav-item nav-link active\" id=\"nav-PlacaMotor-tab\" data-toggle=\"tab\" href=\"#nav-PlacaMotor\"\n                role=\"tab\" aria-controls=\"nav-PlacaMotor\" aria-selected=\"true\"\n                ng-click=\"send({payload:PlacaMotor()})\">Placa de motor</a>\n            <a class=\"nav-item nav-link\" id=\"nav-RampsLimits-tab\" data-toggle=\"tab\" href=\"#nav-RampsLimits\" role=\"tab\"\n                aria-controls=\"nav-RampsLimits\" aria-selected=\"false\" ng-click=\"send({payload:RampsLimits()})\">Rampas y\n                Límites</a>\n            <a class=\"nav-item nav-link\" id=\"nav-AjustesRefuerzo-tab\" data-toggle=\"tab\" href=\"#nav-AjustesRefuerzo\"\n                role=\"tab\" aria-controls=\"nav-AjustesRefuerzo\" aria-selected=\"false\"\n                ng-click=\"send({payload:AjustesRefuerzo()})\">Ajuste de Refuerzo</a>\n            <a class=\"nav-item nav-link\" id=\"nav-CajaReductora-tab\" data-toggle=\"tab\" href=\"#nav-CajaReductora\" role=\"tab\"\n                aria-controls=\"nav-CajaReductora\" aria-selected=\"false\" ng-click=\"send({payload:CajaReductora()})\">Caja Reductora</a>\n        </div>\n    </nav>\n\n    <script>\n        this.scope.PlacaMotor = function() { return \"PlacaMotor\"; };\n        this.scope.RampsLimits = function() { return \"RampsLimits\"; };\n        this.scope.AjustesRefuerzo = function() { return \"AjustesRefuerzo\"; };\n        // this.scope.DatosTX = function() { return \"DatosTX\"; };//Descomentar si se requiere los datos de transformación\n        this.scope.CajaReductora = function() { return \"CajaReductora\"; };\n        \n    </script>\n\n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n\n</body>\n\n</html>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
+        "className": "",
         "x": 160,
         "y": 570,
         "wires": [
@@ -49802,7 +49613,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración_VSD_Rampas\",\t                \"Configuración_VSD_Placa_de_motor\",\t                \"Configuración_VSD_Límites\",\t                \"Configuración_VSD_Rampa_prolongada\",\t                \"Configuración_VSD_Relación_de_Transformación\",\t                \"Configuración_VSD_Control_de_motor\"],\t       \"show\":[ \"Configuración_VSD_Voltios_Hertz\"]\t   }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración_VSD_Rampas\",\t                \"Configuración_VSD_Placa_de_motor\",\t                \"Configuración_VSD_Límites\",\t                \"Configuración_VSD_Rampa_prolongada\",\t                \"Configuración_VSD_Relación_de_Transformación\",\t                \"Configuración_VSD_CajaReductora\",\t                \"Configuración_VSD_Control_de_motor\"],\t       \"show\":[ \"Configuración_VSD_Voltios_Hertz\"]\t   }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -49881,13 +49692,13 @@
         "type": "change",
         "z": "2e27dea6.c4c362",
         "g": "d689e3de.7d569",
-        "name": "Datos TX",
+        "name": "CajaReductora",
         "rules": [
             {
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración_VSD_Rampas\",\t                \"Configuración_VSD_Placa_de_motor\",\t                \"Configuración_VSD_Límites\",\t                \"Configuración_VSD_Rampa_prolongada\",\t                \"Configuración_VSD_Voltios_Hertz\"],\t       \"show\":[ \"Configuración_VSD_Relación_de_Transformación\"]\t   }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Configuración_VSD_Rampas\",\t                \"Configuración_VSD_Placa_de_motor\",\t                \"Configuración_VSD_Límites\",\t                \"Configuración_VSD_Rampa_prolongada\",\t                \"Configuración_VSD_Relación_de_Transformación\",\t                \"Configuración_VSD_Voltios_Hertz\"],\t       \"show\":[ \"Configuración_VSD_CajaReductora\"]\t   }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -49896,7 +49707,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 440,
+        "x": 460,
         "y": 640,
         "wires": [
             [
@@ -61115,7 +60926,8 @@
             "b7525be0c54edcd2",
             "32b99eae6c2ebf0c",
             "601364caf3d1d399",
-            "3023be06a10a9863"
+            "3023be06a10a9863",
+            "5a2971a54a238a55"
         ],
         "x": 335,
         "y": 320,
@@ -100633,6 +100445,351 @@
         "wires": [
             [
                 "d218b4369f6fb117"
+            ]
+        ]
+    },
+    {
+        "id": "1fe7d9e4bb73ca31",
+        "type": "comment",
+        "z": "43b51d90.0b47f4",
+        "g": "23a61c692dd8e203",
+        "name": "AdicionarPMM",
+        "info": "combo BOX:\n-PMM\nLabel\n-Motor de imanes permanentes [PMM]",
+        "x": 440,
+        "y": 2120,
+        "wires": []
+    },
+    {
+        "id": "1cb6e0c36f80998f",
+        "type": "change",
+        "z": "43b51d90.0b47f4",
+        "g": "daacc2ec73149b57",
+        "name": "RGB",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "C2S.Motor_Control.Nameplate.RGB",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 250,
+        "y": 3260,
+        "wires": [
+            [
+                "f6679927478965cf"
+            ]
+        ]
+    },
+    {
+        "id": "b91cbd56f7b97ef9",
+        "type": "change",
+        "z": "43b51d90.0b47f4",
+        "g": "daacc2ec73149b57",
+        "name": "PoleaGrande",
+        "rules": [
+            {
+                "t": "set",
+                "p": "C2S.Motor_Control.Nameplate.PoleaGrande",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 710,
+        "y": 3180,
+        "wires": [
+            [
+                "b4058e733a37b84c"
+            ]
+        ]
+    },
+    {
+        "id": "b955d9344271f4fb",
+        "type": "change",
+        "z": "43b51d90.0b47f4",
+        "g": "daacc2ec73149b57",
+        "name": "RGB",
+        "rules": [
+            {
+                "t": "set",
+                "p": "C2S.Motor_Control.Nameplate.RGB",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 730,
+        "y": 3260,
+        "wires": [
+            [
+                "b4058e733a37b84c"
+            ]
+        ]
+    },
+    {
+        "id": "3a7e67ca4c0afafd",
+        "type": "ui_text_input",
+        "z": "43b51d90.0b47f4",
+        "g": "daacc2ec73149b57",
+        "name": "",
+        "label": "Diámetro Polea Grande",
+        "tooltip": "",
+        "group": "67cedc320693bf8f",
+        "order": 2,
+        "width": "4",
+        "height": "1",
+        "passthru": true,
+        "mode": "number",
+        "delay": 300,
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 450,
+        "y": 3180,
+        "wires": [
+            [
+                "b91cbd56f7b97ef9"
+            ]
+        ]
+    },
+    {
+        "id": "8dfdcbf239beaba9",
+        "type": "ui_text_input",
+        "z": "43b51d90.0b47f4",
+        "g": "daacc2ec73149b57",
+        "name": "",
+        "label": "Diámetro Polea Pequeña",
+        "tooltip": "",
+        "group": "67cedc320693bf8f",
+        "order": 2,
+        "width": "4",
+        "height": "1",
+        "passthru": true,
+        "mode": "number",
+        "delay": 300,
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 490,
+        "y": 3220,
+        "wires": [
+            [
+                "5fe3d2d1ed3e62a7"
+            ]
+        ]
+    },
+    {
+        "id": "5fe3d2d1ed3e62a7",
+        "type": "change",
+        "z": "43b51d90.0b47f4",
+        "g": "daacc2ec73149b57",
+        "name": "PoleaPequena",
+        "rules": [
+            {
+                "t": "set",
+                "p": "C2S.Motor_Control.Nameplate.PoleaPequena",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 700,
+        "y": 3220,
+        "wires": [
+            [
+                "b4058e733a37b84c"
+            ]
+        ]
+    },
+    {
+        "id": "560155d1d518383a",
+        "type": "change",
+        "z": "43b51d90.0b47f4",
+        "g": "daacc2ec73149b57",
+        "name": "PoleaGrande",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "C2S.Motor_Control.Nameplate.PoleaGrande",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 270,
+        "y": 3180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8126b92d6a4591aa",
+        "type": "change",
+        "z": "43b51d90.0b47f4",
+        "g": "daacc2ec73149b57",
+        "name": "PoleaPequena",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "C2S.Motor_Control.Nameplate.PoleaPequena",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 280,
+        "y": 3220,
+        "wires": [
+            [
+                "8dfdcbf239beaba9"
+            ]
+        ]
+    },
+    {
+        "id": "f6679927478965cf",
+        "type": "ui_text_input",
+        "z": "43b51d90.0b47f4",
+        "g": "daacc2ec73149b57",
+        "name": "",
+        "label": "RGB[Relación Gear]",
+        "tooltip": "",
+        "group": "67cedc320693bf8f",
+        "order": 2,
+        "width": "4",
+        "height": "1",
+        "passthru": true,
+        "mode": "number",
+        "delay": 300,
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 440,
+        "y": 3260,
+        "wires": [
+            [
+                "b955d9344271f4fb"
+            ]
+        ]
+    },
+    {
+        "id": "5a2971a54a238a55",
+        "type": "link in",
+        "z": "43b51d90.0b47f4",
+        "g": "daacc2ec73149b57",
+        "name": "",
+        "links": [
+            "ad87cee4.7dbb5"
+        ],
+        "x": 155,
+        "y": 3220,
+        "wires": [
+            [
+                "1cb6e0c36f80998f",
+                "560155d1d518383a",
+                "8126b92d6a4591aa"
+            ]
+        ]
+    },
+    {
+        "id": "a839ed26fe330510",
+        "type": "ui_text",
+        "z": "43b51d90.0b47f4",
+        "g": "daacc2ec73149b57",
+        "group": "67cedc320693bf8f",
+        "order": 3,
+        "width": "3",
+        "height": "1",
+        "name": "",
+        "label": "Relación Total",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "",
+        "x": 1060,
+        "y": 3220,
+        "wires": []
+    },
+    {
+        "id": "b4058e733a37b84c",
+        "type": "function",
+        "z": "43b51d90.0b47f4",
+        "g": "daacc2ec73149b57",
+        "name": "",
+        "func": "var PoleaGrande = global.get(\"C2S.Motor_Control.Nameplate.PoleaGrande\")||0;\nvar RGB = global.get(\"C2S.Motor_Control.Nameplate.RGB\")||0;//relación del gear box\nvar PoleaPequena = global.get(\"C2S.Motor_Control.Nameplate.PoleaPequena\")||0;\nif((PoleaGrande != 0) && (RGB != 0) && (PoleaPequena != 0) ){\n    var totalRelacion = PoleaGrande/(PoleaPequena/RGB);\n    context.set(\"totalRelacion\",totalRelacion,\"memoryOnly\");\n    msg.payload = totalRelacion;\n\n    // guarde la variable global de relación\n    global.set(\"C2S.Motor_Control.Nameplate.totalRelacion\",totalRelacion);\n    node.status({fill:\"green\",shape:\"dot\",text:\"Configurado\"});\n    return msg;\n}else{\n    node.status({fill:\"red\",shape:\"dot\",text:\"NoConfigurado\"});\n}\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 900,
+        "y": 3220,
+        "wires": [
+            [
+                "a839ed26fe330510"
+            ]
+        ]
+    },
+    {
+        "id": "f3d3079068490869",
+        "type": "inject",
+        "z": "43b51d90.0b47f4",
+        "g": "daacc2ec73149b57",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 900,
+        "y": 3180,
+        "wires": [
+            [
+                "b4058e733a37b84c"
             ]
         ]
     }
