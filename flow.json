@@ -3693,7 +3693,9 @@
             "e021fffd109e8430"
         ],
         "x": 154,
-        "y": 759
+        "y": 759,
+        "w": 1032,
+        "h": 282
     },
     {
         "id": "99fd9c5cbd90ceb5",
@@ -3710,7 +3712,9 @@
             "5e3e278f18c43297"
         ],
         "x": 154,
-        "y": 1199
+        "y": 1359,
+        "w": 492,
+        "h": 122
     },
     {
         "id": "aecdec289959a88b",
@@ -3739,7 +3743,9 @@
             "601364caf3d1d399"
         ],
         "x": 194,
-        "y": 299
+        "y": 299,
+        "w": 1092,
+        "h": 282
     },
     {
         "id": "dfdd865d8cf81492",
@@ -3757,7 +3763,9 @@
             "6be1c1290c1ed70f"
         ],
         "x": 154,
-        "y": 599
+        "y": 599,
+        "w": 812,
+        "h": 142
     },
     {
         "id": "a27e446a1834ba54",
@@ -3780,7 +3788,9 @@
             "38bb4c51f24c95f2"
         ],
         "x": 114,
-        "y": 79
+        "y": 79,
+        "w": 1572,
+        "h": 182
     },
     {
         "id": "6c6732761a2613b5",
@@ -4178,10 +4188,21 @@
             "b3bff36608552e64",
             "03bc4f71e5b948a7",
             "3023be06a10a9863",
-            "1030cf36c38005cc"
+            "1030cf36c38005cc",
+            "d47445cdb503041d",
+            "63327f6fea66164d",
+            "7bf2c679cd38a751",
+            "387077f32e7cd82a",
+            "1abce860e0d9208d",
+            "c8278a13f190d9b7",
+            "ac32ae12c492afdb",
+            "29b8ad76db4ebd2c",
+            "a0b90b4f54fbae9f"
         ],
         "x": 154,
-        "y": 1099
+        "y": 1119,
+        "w": 1142,
+        "h": 222
     },
     {
         "id": "9ff47da5fe193161",
@@ -82730,7 +82751,7 @@
         "useDifferentColor": false,
         "className": "",
         "x": 530,
-        "y": 1240,
+        "y": 1400,
         "wires": [
             []
         ]
@@ -99673,9 +99694,9 @@
         "order": 1,
         "width": 2,
         "height": 1,
-        "passthru": true,
-        "decouple": "false",
-        "topic": "topic",
+        "passthru": false,
+        "decouple": "true",
+        "topic": "Desea Activar Pump Off Controller",
         "topicType": "str",
         "style": "",
         "onvalue": "true",
@@ -99689,10 +99710,10 @@
         "animate": true,
         "className": "",
         "x": 510,
-        "y": 1140,
+        "y": 1220,
         "wires": [
             [
-                "03bc4f71e5b948a7"
+                "387077f32e7cd82a"
             ]
         ]
     },
@@ -99701,14 +99722,14 @@
         "type": "change",
         "z": "8c6f930882747645",
         "g": "5519b13db7a1857a",
-        "name": "",
+        "name": "habilitar",
         "rules": [
             {
                 "t": "set",
                 "p": "Control.Controlon_off.habilitado",
                 "pt": "global",
-                "to": "payload",
-                "tot": "msg"
+                "to": "true",
+                "tot": "bool"
             }
         ],
         "action": "",
@@ -99716,10 +99737,12 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 880,
-        "y": 1140,
+        "x": 1100,
+        "y": 1160,
         "wires": [
-            []
+            [
+                "a0b90b4f54fbae9f"
+            ]
         ]
     },
     {
@@ -99771,7 +99794,7 @@
         "statusVal": "payload",
         "statusType": "auto",
         "x": 480,
-        "y": 1280,
+        "y": 1440,
         "wires": []
     },
     {
@@ -99797,7 +99820,7 @@
             "d3fc647f21f7d8eb"
         ],
         "x": 195,
-        "y": 1260,
+        "y": 1420,
         "wires": [
             [
                 "5e3e278f18c43297"
@@ -99823,7 +99846,7 @@
         "repair": false,
         "outputs": 1,
         "x": 320,
-        "y": 1260,
+        "y": 1420,
         "wires": [
             [
                 "38bcc057bcaf67cb",
@@ -99855,10 +99878,11 @@
         "g": "5519b13db7a1857a",
         "name": "MostrarParametrosTiempoPumpOff",
         "links": [
+            "a0b90b4f54fbae9f",
             "ad87cee4.7dbb5"
         ],
         "x": 195,
-        "y": 1140,
+        "y": 1220,
         "wires": [
             [
                 "1030cf36c38005cc"
@@ -99886,7 +99910,7 @@
         "to": "",
         "reg": false,
         "x": 300,
-        "y": 1140,
+        "y": 1220,
         "wires": [
             [
                 "b3bff36608552e64"
@@ -100724,5 +100748,248 @@
                 "06d52b32852b2260"
             ]
         ]
+    },
+    {
+        "id": "d47445cdb503041d",
+        "type": "ui_toast",
+        "z": "8c6f930882747645",
+        "g": "5519b13db7a1857a",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "Aceptar",
+        "cancel": "Cancelar",
+        "raw": false,
+        "className": "",
+        "topic": "¿Desea Activar el Pump off controller?",
+        "name": "confirm",
+        "x": 820,
+        "y": 1180,
+        "wires": [
+            [
+                "63327f6fea66164d"
+            ]
+        ]
+    },
+    {
+        "id": "63327f6fea66164d",
+        "type": "switch",
+        "z": "8c6f930882747645",
+        "g": "5519b13db7a1857a",
+        "name": "if",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Aceptar",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Cancelar",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 950,
+        "y": 1180,
+        "wires": [
+            [
+                "03bc4f71e5b948a7"
+            ],
+            [
+                "7bf2c679cd38a751"
+            ]
+        ]
+    },
+    {
+        "id": "7bf2c679cd38a751",
+        "type": "change",
+        "z": "8c6f930882747645",
+        "g": "5519b13db7a1857a",
+        "name": "Deshabilitar",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control.Controlon_off.habilitado",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1110,
+        "y": 1200,
+        "wires": [
+            [
+                "a0b90b4f54fbae9f"
+            ]
+        ]
+    },
+    {
+        "id": "387077f32e7cd82a",
+        "type": "switch",
+        "z": "8c6f930882747645",
+        "g": "5519b13db7a1857a",
+        "name": "actual",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 710,
+        "y": 1220,
+        "wires": [
+            [
+                "d47445cdb503041d"
+            ],
+            [
+                "1abce860e0d9208d"
+            ]
+        ]
+    },
+    {
+        "id": "1abce860e0d9208d",
+        "type": "ui_toast",
+        "z": "8c6f930882747645",
+        "g": "5519b13db7a1857a",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "Aceptar",
+        "cancel": "Cancelar",
+        "raw": false,
+        "className": "",
+        "topic": "¿Desea Desactivar el Pump off controller?",
+        "name": "confirm",
+        "x": 860,
+        "y": 1240,
+        "wires": [
+            [
+                "c8278a13f190d9b7"
+            ]
+        ]
+    },
+    {
+        "id": "c8278a13f190d9b7",
+        "type": "switch",
+        "z": "8c6f930882747645",
+        "g": "5519b13db7a1857a",
+        "name": "if",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Aceptar",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Cancelar",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 990,
+        "y": 1280,
+        "wires": [
+            [
+                "ac32ae12c492afdb"
+            ],
+            [
+                "29b8ad76db4ebd2c"
+            ]
+        ]
+    },
+    {
+        "id": "ac32ae12c492afdb",
+        "type": "change",
+        "z": "8c6f930882747645",
+        "g": "5519b13db7a1857a",
+        "name": "Deshabilitar",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control.Controlon_off.habilitado",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1130,
+        "y": 1260,
+        "wires": [
+            [
+                "a0b90b4f54fbae9f"
+            ]
+        ]
+    },
+    {
+        "id": "29b8ad76db4ebd2c",
+        "type": "change",
+        "z": "8c6f930882747645",
+        "g": "5519b13db7a1857a",
+        "name": "habilitar",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control.Controlon_off.habilitado",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1120,
+        "y": 1300,
+        "wires": [
+            [
+                "a0b90b4f54fbae9f"
+            ]
+        ]
+    },
+    {
+        "id": "a0b90b4f54fbae9f",
+        "type": "link out",
+        "z": "8c6f930882747645",
+        "g": "5519b13db7a1857a",
+        "name": "mensajeConfirmacionhabilitarPumpuOffController",
+        "links": [
+            "3023be06a10a9863"
+        ],
+        "x": 1255,
+        "y": 1200,
+        "wires": []
     }
 ]
