@@ -7,6 +7,13 @@
         "info": ""
     },
     {
+        "id": "dd18d94e.4b1408",
+        "type": "tab",
+        "label": "C2S",
+        "disabled": false,
+        "info": ""
+    },
+    {
         "id": "d08f14e12055286a",
         "type": "tab",
         "label": "Arranque Automático",
@@ -45,13 +52,6 @@
         "id": "3af652c9.6f9bee",
         "type": "tab",
         "label": "Usuario",
-        "disabled": false,
-        "info": ""
-    },
-    {
-        "id": "dd18d94e.4b1408",
-        "type": "tab",
-        "label": "C2S",
         "disabled": false,
         "info": ""
     },
@@ -1192,6 +1192,39 @@
         }
     },
     {
+        "id": "222e9a8dc8f57193",
+        "type": "subflow",
+        "name": "ConversionSPM",
+        "info": "",
+        "category": "",
+        "in": [
+            {
+                "x": 40,
+                "y": 80,
+                "wires": [
+                    {
+                        "id": "478982728f47abd2"
+                    }
+                ]
+            }
+        ],
+        "out": [
+            {
+                "x": 360,
+                "y": 80,
+                "wires": [
+                    {
+                        "id": "478982728f47abd2",
+                        "port": 0
+                    }
+                ]
+            }
+        ],
+        "env": [],
+        "meta": {},
+        "color": "#DDAA99"
+    },
+    {
         "id": "1d0c3cb2.7129f3",
         "type": "group",
         "z": "2e27dea6.c4c362",
@@ -1205,9 +1238,7 @@
             "bfa48676.a364f8"
         ],
         "x": 54,
-        "y": 19,
-        "w": 432,
-        "h": 149.5
+        "y": 19
     },
     {
         "id": "d929d138.3b512",
@@ -1225,9 +1256,7 @@
             "ebd2954e5785409e"
         ],
         "x": 994,
-        "y": 19,
-        "w": 542,
-        "h": 122
+        "y": 19
     },
     {
         "id": "fcb3da61.429db8",
@@ -1355,9 +1384,7 @@
             "c41a251e.427c98"
         ],
         "x": -12,
-        "y": 1293,
-        "w": 1574,
-        "h": 414
+        "y": 1293
     },
     {
         "id": "43bab036.712ca",
@@ -1372,9 +1399,7 @@
             "e9d2f5f0.86a518"
         ],
         "x": -2,
-        "y": 523,
-        "w": 1484,
-        "h": 664
+        "y": 523
     },
     {
         "id": "54254b6e.789ca4",
@@ -1400,9 +1425,7 @@
             "16c036a47724813c"
         ],
         "x": 74,
-        "y": 1719,
-        "w": 692,
-        "h": 242
+        "y": 1719
     },
     {
         "id": "68e6bb30.d1fce4",
@@ -1417,9 +1440,7 @@
             "a7e99088.c8108"
         ],
         "x": -2,
-        "y": 133,
-        "w": 1564,
-        "h": 374
+        "y": 133
     },
     {
         "id": "8a04702.34fd29",
@@ -1432,9 +1453,7 @@
         },
         "nodes": [],
         "x": 804,
-        "y": 1719,
-        "w": 290,
-        "h": 40
+        "y": 1719
     },
     {
         "id": "d689e3de.7d569",
@@ -1460,9 +1479,7 @@
             "b6cf54debd6eb4db"
         ],
         "x": 64,
-        "y": 479,
-        "w": 662,
-        "h": 202
+        "y": 479
     },
     {
         "id": "9132da2c.b8c6b8",
@@ -1486,9 +1503,7 @@
             "fd328934.0ddd18"
         ],
         "x": 74,
-        "y": 699,
-        "w": 602,
-        "h": 202
+        "y": 699
     },
     {
         "id": "9b538856.60fb38",
@@ -1666,9 +1681,7 @@
             "312d9def.84df32"
         ],
         "x": 74,
-        "y": 919,
-        "w": 702,
-        "h": 242
+        "y": 919
     },
     {
         "id": "3ae9fbe60d6132ea",
@@ -1692,9 +1705,7 @@
             "996a9142c814ab39"
         ],
         "x": 24,
-        "y": 429,
-        "w": 712,
-        "h": 242
+        "y": 429
     },
     {
         "id": "6abd418f.d175b",
@@ -1709,9 +1720,7 @@
             "b2f2659a.67f648"
         ],
         "x": 18,
-        "y": 23,
-        "w": 1754,
-        "h": 394
+        "y": 23
     },
     {
         "id": "8c207e440fb46f33",
@@ -1727,9 +1736,7 @@
             "9f77b0d829ad914b"
         ],
         "x": 514,
-        "y": 769,
-        "w": 282,
-        "h": 82
+        "y": 769
     },
     {
         "id": "38940f8.c9c27f",
@@ -1892,9 +1899,7 @@
             "98ca0b1c.cda4f8"
         ],
         "x": 34,
-        "y": 29,
-        "w": 962,
-        "h": 212
+        "y": 29
     },
     {
         "id": "57eba231.4d56dc",
@@ -1914,9 +1919,7 @@
             "e9e93a2c.deeb18"
         ],
         "x": 28,
-        "y": 253,
-        "w": 494,
-        "h": 304
+        "y": 253
     },
     {
         "id": "dbdc491cb6e9eee5",
@@ -2208,9 +2211,7 @@
             "c22e3c27600ab315"
         ],
         "x": 994,
-        "y": 159,
-        "w": 612,
-        "h": 242
+        "y": 159
     },
     {
         "id": "d84615.919209e8",
@@ -2314,9 +2315,7 @@
             "6625e1db09743bc3"
         ],
         "x": 18,
-        "y": 2593,
-        "w": 1504,
-        "h": 294
+        "y": 2593
     },
     {
         "id": "e1e65313b5eaa836",
@@ -2338,9 +2337,7 @@
             "181ea2faf2082cc7"
         ],
         "x": 74,
-        "y": 1189,
-        "w": 792,
-        "h": 212
+        "y": 1189
     },
     {
         "id": "06c0dbf1bffe1e21",
@@ -2427,7 +2424,8 @@
             "4bc8056a8d8aa493",
             "a60ba637963ad5a7",
             "8d434edf9bd913e2",
-            "c4ca92f3df7aa2b1"
+            "c4ca92f3df7aa2b1",
+            "8e77c9d647a0565f"
         ],
         "x": 44,
         "y": -21,
@@ -2593,9 +2591,7 @@
             "8a8fcb5375e06087"
         ],
         "x": 34,
-        "y": 2929,
-        "w": 682,
-        "h": 122
+        "y": 2929
     },
     {
         "id": "23c99fd.b16886",
@@ -2679,9 +2675,7 @@
             "b88575ca75fdb4f5"
         ],
         "x": 754,
-        "y": 429,
-        "w": 922,
-        "h": 82
+        "y": 429
     },
     {
         "id": "d175fb986dc9e991",
@@ -2701,9 +2695,7 @@
             "36c70d85dac8cd26"
         ],
         "x": 754,
-        "y": 519,
-        "w": 922,
-        "h": 82
+        "y": 519
     },
     {
         "id": "62fac95632266b01",
@@ -2756,7 +2748,9 @@
             "22b2f935e069825d"
         ],
         "x": 2498,
-        "y": 93
+        "y": 93,
+        "w": 1344,
+        "h": 714
     },
     {
         "id": "ef342a4a7f2984c3",
@@ -2774,7 +2768,9 @@
             "ce0884f8ad42bd03"
         ],
         "x": 34,
-        "y": 1019
+        "y": 1019,
+        "w": 332,
+        "h": 122
     },
     {
         "id": "23a61c692dd8e203",
@@ -2839,9 +2835,7 @@
             "1fe7d9e4bb73ca31"
         ],
         "x": 84,
-        "y": 1979,
-        "w": 972,
-        "h": 582
+        "y": 1979
     },
     {
         "id": "ec31a094.c373c",
@@ -2861,9 +2855,7 @@
             "9f627758.670cd8"
         ],
         "x": 3358,
-        "y": 93,
-        "w": 1534,
-        "h": 1614
+        "y": 93
     },
     {
         "id": "ab42d2fa.9240c",
@@ -2883,9 +2875,7 @@
             "82264d68.0b05a"
         ],
         "x": 3358,
-        "y": 1713,
-        "w": 1334,
-        "h": 624
+        "y": 1713
     },
     {
         "id": "96490ad3.d81618",
@@ -2905,9 +2895,7 @@
             "df7bb8.e05eb448"
         ],
         "x": 3364,
-        "y": 2349,
-        "w": 752,
-        "h": 122
+        "y": 2349
     },
     {
         "id": "bd17e5b9.9261f8",
@@ -2927,9 +2915,7 @@
             "aa730b91.5646d8"
         ],
         "x": 3364,
-        "y": 2479,
-        "w": 752,
-        "h": 122
+        "y": 2479
     },
     {
         "id": "6939ff44.377fa",
@@ -2967,9 +2953,7 @@
             "21cbefa5b43914e1"
         ],
         "x": 3364,
-        "y": 2609,
-        "w": 952,
-        "h": 362
+        "y": 2609
     },
     {
         "id": "365d864c.8c19ca",
@@ -2995,9 +2979,7 @@
             "e032b1f4.a8be7"
         ],
         "x": 1634,
-        "y": 97,
-        "w": 1684,
-        "h": 4156
+        "y": 97
     },
     {
         "id": "096b837a3a33f58b",
@@ -3182,9 +3164,7 @@
             "fec937a86891d165"
         ],
         "x": 734,
-        "y": 2919,
-        "w": 542,
-        "h": 162
+        "y": 2919
     },
     {
         "id": "b404dcea03126424",
@@ -3318,9 +3298,7 @@
             "0d38acc234ba861f"
         ],
         "x": 994,
-        "y": 419,
-        "w": 642,
-        "h": 162
+        "y": 419
     },
     {
         "id": "86af7867dc10f4a8",
@@ -3366,7 +3344,9 @@
             "d31bc366f41b763d"
         ],
         "x": 4,
-        "y": 119
+        "y": 119,
+        "w": 1932,
+        "h": 262
     },
     {
         "id": "2d8d39f1e038a15b",
@@ -3392,9 +3372,7 @@
             "c69d457b5c9947d3"
         ],
         "x": 874,
-        "y": 619,
-        "w": 582,
-        "h": 242
+        "y": 619
     },
     {
         "id": "5dc71a84bf12ae23",
@@ -3474,9 +3452,7 @@
             "5166e91c9a18b367"
         ],
         "x": 2214,
-        "y": 999,
-        "w": 252,
-        "h": 402
+        "y": 999
     },
     {
         "id": "08268a4bd4859ab8",
@@ -3499,9 +3475,7 @@
             "1667a740e1297346"
         ],
         "x": 1694,
-        "y": 59,
-        "w": 272,
-        "h": 402
+        "y": 59
     },
     {
         "id": "998532256f00cecc",
@@ -3524,9 +3498,7 @@
             "4913db07a3d47bea"
         ],
         "x": 2194,
-        "y": 539,
-        "w": 252,
-        "h": 402
+        "y": 539
     },
     {
         "id": "a52d17ad75acd9f6",
@@ -3549,9 +3521,7 @@
             "f106aa1dacaf9bc9"
         ],
         "x": 2174,
-        "y": 79,
-        "w": 282,
-        "h": 422
+        "y": 79
     },
     {
         "id": "5c9801fdee1b9e98",
@@ -3578,9 +3548,7 @@
             "564a978639564867"
         ],
         "x": 924,
-        "y": 879,
-        "w": 302,
-        "h": 442
+        "y": 879
     },
     {
         "id": "2ef3b11b46a2953e",
@@ -3604,9 +3572,7 @@
             "db5b715c8277123d"
         ],
         "x": 1714,
-        "y": 519,
-        "w": 252,
-        "h": 442
+        "y": 519
     },
     {
         "id": "17da3b0724781f01",
@@ -3630,9 +3596,7 @@
             "1647f8062813fe45"
         ],
         "x": 1694,
-        "y": 999,
-        "w": 292,
-        "h": 442
+        "y": 999
     },
     {
         "id": "c920676a5fbb9bc8",
@@ -4085,9 +4049,7 @@
             "12a3282355da9439"
         ],
         "x": 74,
-        "y": 1419,
-        "w": 582,
-        "h": 182
+        "y": 1419
     },
     {
         "id": "69cbede8f851191a",
@@ -4108,9 +4070,7 @@
             "a1c5e02a9d683eb4"
         ],
         "x": 74,
-        "y": 1619,
-        "w": 582,
-        "h": 182
+        "y": 1619
     },
     {
         "id": "f9b757cab0b767da",
@@ -4183,7 +4143,9 @@
             "c40108170a37478f"
         ],
         "x": 8,
-        "y": 393
+        "y": 393,
+        "w": 2384,
+        "h": 594
     },
     {
         "id": "b2fff3b09f0ae95c",
@@ -4252,9 +4214,33 @@
             "e0da6f5132ed3813"
         ],
         "x": 64,
-        "y": 189,
-        "w": 852,
-        "h": 282
+        "y": 189
+    },
+    {
+        "id": "daacc2ec73149b57",
+        "type": "group",
+        "z": "43b51d90.0b47f4",
+        "name": "Configuración Caja Reductora",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "1cb6e0c36f80998f",
+            "b955d9344271f4fb",
+            "3a7e67ca4c0afafd",
+            "8dfdcbf239beaba9",
+            "5fe3d2d1ed3e62a7",
+            "560155d1d518383a",
+            "8126b92d6a4591aa",
+            "b91cbd56f7b97ef9",
+            "f6679927478965cf",
+            "5a2971a54a238a55",
+            "a839ed26fe330510",
+            "b4058e733a37b84c",
+            "f3d3079068490869"
+        ],
+        "x": 114,
+        "y": 3139
     },
     {
         "id": "1306de9a.9ba341",
@@ -4282,9 +4268,7 @@
             "4b2d01032ad01b5f"
         ],
         "x": 884,
-        "y": 1319,
-        "w": 652,
-        "h": 282
+        "y": 1319
     },
     {
         "id": "c41a251e.427c98",
@@ -4325,9 +4309,7 @@
             "2bc1c3b3873a2a66"
         ],
         "x": 14,
-        "y": 1319,
-        "w": 862,
-        "h": 362
+        "y": 1319
     },
     {
         "id": "27c43941.e9e0c6",
@@ -4385,9 +4367,7 @@
             "e56848afae482675"
         ],
         "x": 24,
-        "y": 549,
-        "w": 762,
-        "h": 612
+        "y": 549
     },
     {
         "id": "e9d2f5f0.86a518",
@@ -4420,9 +4400,7 @@
             "8307ca17.c4d5b8"
         ],
         "x": 814,
-        "y": 549,
-        "w": 642,
-        "h": 402
+        "y": 549
     },
     {
         "id": "6cdd72bc.8124cc",
@@ -4461,9 +4439,7 @@
             "e5ba2af75db332d1"
         ],
         "x": 24,
-        "y": 159,
-        "w": 742,
-        "h": 322
+        "y": 159
     },
     {
         "id": "a7e99088.c8108",
@@ -4494,9 +4470,7 @@
             "aa882bcf32d6610f"
         ],
         "x": 784,
-        "y": 159,
-        "w": 752,
-        "h": 322
+        "y": 159
     },
     {
         "id": "31895ea6.22f372",
@@ -4636,9 +4610,7 @@
             "c30439cc.4bcb68"
         ],
         "x": 44,
-        "y": 49,
-        "w": 1422,
-        "h": 212
+        "y": 49
     },
     {
         "id": "b2f2659a.67f648",
@@ -4666,9 +4638,7 @@
             "de16ee9e71fc7646"
         ],
         "x": 44,
-        "y": 269,
-        "w": 1702,
-        "h": 122
+        "y": 269
     },
     {
         "id": "70a63b74.44894c",
@@ -4745,9 +4715,7 @@
             "ad87cee4.7dbb5"
         ],
         "x": 54,
-        "y": 279,
-        "w": 322,
-        "h": 82
+        "y": 279
     },
     {
         "id": "e9e93a2c.deeb18",
@@ -4769,9 +4737,7 @@
             "14241d8711ae8590"
         ],
         "x": 54,
-        "y": 369,
-        "w": 442,
-        "h": 162
+        "y": 369
     },
     {
         "id": "675af0d1.a9fc4",
@@ -4930,9 +4896,7 @@
             "c7ce33ac338a9db9"
         ],
         "x": 44,
-        "y": 2619,
-        "w": 1452,
-        "h": 242
+        "y": 2619
     },
     {
         "id": "ef45fa052227c233",
@@ -5128,7 +5092,9 @@
             "4fb76cafe519048c"
         ],
         "x": 2524,
-        "y": 119
+        "y": 119,
+        "w": 1292,
+        "h": 532
     },
     {
         "id": "22b2f935e069825d",
@@ -5149,7 +5115,9 @@
             "e74da3e6e268b270"
         ],
         "x": 2534,
-        "y": 659
+        "y": 659,
+        "w": 832,
+        "h": 122
     },
     {
         "id": "103cd2dbe76e1fc5",
@@ -5173,7 +5141,9 @@
             "2a531a19f520cae6"
         ],
         "x": 64,
-        "y": 429
+        "y": 429,
+        "w": 952,
+        "h": 132
     },
     {
         "id": "c40108170a37478f",
@@ -5212,7 +5182,9 @@
             "2d8469fec0420fb6"
         ],
         "x": 34,
-        "y": 719
+        "y": 719,
+        "w": 1672,
+        "h": 242
     },
     {
         "id": "4af99851.bcfb28",
@@ -5320,9 +5292,7 @@
             "3d1af80d.d5b9c8"
         ],
         "x": 3384,
-        "y": 119,
-        "w": 832,
-        "h": 1562
+        "y": 119
     },
     {
         "id": "9f627758.670cd8",
@@ -5394,9 +5364,7 @@
             "487147d15f5c304a"
         ],
         "x": 4224,
-        "y": 119,
-        "w": 642,
-        "h": 562
+        "y": 119
     },
     {
         "id": "78a8be83.7018c",
@@ -5427,9 +5395,7 @@
             "3f3a83c71b2f5a67"
         ],
         "x": 3394,
-        "y": 1829,
-        "w": 1272,
-        "h": 482
+        "y": 1829
     },
     {
         "id": "82264d68.0b05a",
@@ -5449,9 +5415,7 @@
             "84631e96.4b794"
         ],
         "x": 3384,
-        "y": 1739,
-        "w": 682,
-        "h": 82
+        "y": 1739
     },
     {
         "id": "8ac2b187.14625",
@@ -5472,9 +5436,7 @@
             "efe6d3f.f10193"
         ],
         "x": 1838,
-        "y": 2733,
-        "w": 1434,
-        "h": 414
+        "y": 2733
     },
     {
         "id": "9bb5d411.271d48",
@@ -5495,9 +5457,7 @@
             "44ee5bb3.49b264"
         ],
         "x": 1828,
-        "y": 1733,
-        "w": 1454,
-        "h": 894
+        "y": 1733
     },
     {
         "id": "dad86215.ed79c",
@@ -5518,9 +5478,7 @@
             "baaa353b.511268"
         ],
         "x": 1828,
-        "y": 3573,
-        "w": 1444,
-        "h": 654
+        "y": 3573
     },
     {
         "id": "dd0fb9ab.f737f8",
@@ -5541,9 +5499,7 @@
             "de31a457.a923c8"
         ],
         "x": 1838,
-        "y": 3193,
-        "w": 1454,
-        "h": 374
+        "y": 3193
     },
     {
         "id": "e032b1f4.a8be7",
@@ -5564,9 +5520,7 @@
             "e5ce125e.59232"
         ],
         "x": 1858,
-        "y": 123,
-        "w": 1424,
-        "h": 1624
+        "y": 123
     },
     {
         "id": "22196749d13fa9b3",
@@ -6151,12 +6105,14 @@
             "52bfc153c9e505c6",
             "1e052034b2b596a4",
             "d2880b87b36af1f8",
-            "0e6d4c70decc4d39",
             "06d52b32852b2260",
-            "437cb96e92c2c9c0"
+            "ede89259da849bf4",
+            "330e1c381f5627b0"
         ],
         "x": 1044,
-        "y": 419
+        "y": 419,
+        "w": 1322,
+        "h": 302
     },
     {
         "id": "a80677cf.4274c8",
@@ -6377,9 +6333,7 @@
             "a3e0cd32.96432"
         ],
         "x": 1864,
-        "y": 2759,
-        "w": 722,
-        "h": 362
+        "y": 2759
     },
     {
         "id": "efe6d3f.f10193",
@@ -6415,9 +6369,7 @@
             "55372f1ea71702ea"
         ],
         "x": 2594,
-        "y": 2779,
-        "w": 652,
-        "h": 202
+        "y": 2779
     },
     {
         "id": "16097ef1.129291",
@@ -6492,9 +6444,7 @@
             "773ceaee.f160b4"
         ],
         "x": 1854,
-        "y": 1759,
-        "w": 742,
-        "h": 842
+        "y": 1759
     },
     {
         "id": "44ee5bb3.49b264",
@@ -6554,9 +6504,7 @@
             "6271ec419c9975fc"
         ],
         "x": 2604,
-        "y": 1779,
-        "w": 652,
-        "h": 442
+        "y": 1779
     },
     {
         "id": "372b998e.a167c6",
@@ -6613,9 +6561,7 @@
             "f06a3f08.5a752"
         ],
         "x": 1854,
-        "y": 3599,
-        "w": 722,
-        "h": 602
+        "y": 3599
     },
     {
         "id": "baaa353b.511268",
@@ -6663,9 +6609,7 @@
             "e3c99a130078517c"
         ],
         "x": 2594,
-        "y": 3599,
-        "w": 652,
-        "h": 322
+        "y": 3599
     },
     {
         "id": "826b087f.5615a8",
@@ -6697,9 +6641,7 @@
             "7cda2e346e20ca45"
         ],
         "x": 2614,
-        "y": 3239,
-        "w": 652,
-        "h": 162
+        "y": 3239
     },
     {
         "id": "de31a457.a923c8",
@@ -6735,9 +6677,7 @@
             "741d0ef6.6e951"
         ],
         "x": 1864,
-        "y": 3219,
-        "w": 722,
-        "h": 322
+        "y": 3219
     },
     {
         "id": "4a1410ce.7057a",
@@ -6846,9 +6786,7 @@
             "89cf03685116a8bc"
         ],
         "x": 1884,
-        "y": 149,
-        "w": 712,
-        "h": 1572
+        "y": 149
     },
     {
         "id": "e5ce125e.59232",
@@ -6925,9 +6863,7 @@
             "22341ae01ccb0b7c"
         ],
         "x": 2604,
-        "y": 149,
-        "w": 652,
-        "h": 642
+        "y": 149
     },
     {
         "id": "c2478f1687e8ccc7",
@@ -7613,34 +7549,6 @@
         ],
         "x": 1404,
         "y": 619
-    },
-    {
-        "id": "daacc2ec73149b57",
-        "type": "group",
-        "z": "43b51d90.0b47f4",
-        "name": "Configuración Caja Reductora",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "1cb6e0c36f80998f",
-            "b955d9344271f4fb",
-            "3a7e67ca4c0afafd",
-            "8dfdcbf239beaba9",
-            "5fe3d2d1ed3e62a7",
-            "560155d1d518383a",
-            "8126b92d6a4591aa",
-            "b91cbd56f7b97ef9",
-            "f6679927478965cf",
-            "5a2971a54a238a55",
-            "a839ed26fe330510",
-            "b4058e733a37b84c",
-            "f3d3079068490869"
-        ],
-        "x": 114,
-        "y": 3139,
-        "w": 1052,
-        "h": 162
     },
     {
         "id": "d25d405a.19cff",
@@ -17024,7 +16932,7 @@
         "wires": [
             [
                 "4bc8056a8d8aa493",
-                "64b7b9d400f004f1"
+                "8e77c9d647a0565f"
             ]
         ]
     },
@@ -17160,7 +17068,7 @@
         "z": "902fc438.e5d758",
         "g": "6202107f.ed9aa",
         "name": "Ref OK",
-        "func": "var sentidogiro = global.get(\"C2S.Drive_Status.Command_dir\",\"memoryOnly\")||0;\nvar spm = global.get(\"C2S.Implicit.spm\",\"memoryOnly\")||0;\nmsg.payload = \"Cambio de referencia a \" + Math.abs(parseFloat(spm.toFixed(1)) ) +\"spm, Velocidad Motor:\" + Math.abs(msg.payload) + \"Hz\";\nmsg.topic = \"Referencia\";\nreturn msg;",
+        "func": "var sentidogiro = global.get(\"C2S.Drive_Status.Command_dir\",\"memoryOnly\")||0;\nvar spm = global.get(\"C2S.Implicit.spm\",\"memoryOnly\")||0;\nmsg.payload = \"Cambio de referencia a \" + Math.abs(parseFloat(spm.toFixed(2))) + \"spm, Velocidad Motor:\" + Math.abs(parseFloat((msg.payload).toFixed(2))) + \"Hz\";\nmsg.topic = \"Referencia\";\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -17866,7 +17774,7 @@
                 "p": "payload"
             }
         ],
-        "repeat": "2",
+        "repeat": "10",
         "crontab": "",
         "once": false,
         "onceDelay": "",
@@ -17962,11 +17870,12 @@
         "z": "902fc438.e5d758",
         "g": "6202107f.ed9aa",
         "name": "Data show",
-        "func": "var numdec = 1;\nvar unidad = \"Hz\";\nif(typeof msg.payload == 'number' ){\n    msg.payload = parseFloat(msg.payload.toFixed(numdec)) + \" \" + unidad;\n    return msg;\n}",
+        "func": "var numdec = 1;\nvar unidad = \"spm\";\nif(typeof msg.payload == 'number' ){\n    msg.payload = parseFloat(msg.payload.toFixed(numdec)) + \" \" + unidad;\n    return msg;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 470,
         "y": 330,
         "wires": [
@@ -17987,7 +17896,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "#:(memoryOnly)::C2S.Implicit.Commanded_SpdRef",
+                "to": "#:(memoryOnly)::C2S.Implicit.spm",
                 "tot": "global"
             }
         ],
@@ -18031,11 +17940,11 @@
         "width": 2,
         "height": 1,
         "name": "",
-        "label": "Ref Motor: ",
+        "label": "Ref SRP: ",
         "format": "  {{msg.payload}}",
         "layout": "row-center",
         "className": "",
-        "x": 630,
+        "x": 620,
         "y": 330,
         "wires": []
     },
@@ -19135,7 +19044,7 @@
         "z": "902fc438.e5d758",
         "g": "fcb3da61.429db8",
         "name": "confirmar arranque",
-        "func": "var modoarranque = global.get(\"Input.Navigation.ComandOper\",\"memoryOnly\")||1;\nvar ref = global.get(\"C2S.Implicit.spm\",\"memoryOnly\") || 1;\n\nif(modoarranque==1)\n    msg.payload = \"¿Desea hacer un arranque normal del equipo a \" + ref + \" rpm?\";\nreturn msg;",
+        "func": "var modoarranque = global.get(\"Input.Navigation.ComandOper\",\"memoryOnly\")||1;\nvar ref = global.get(\"C2S.Implicit.spm\",\"memoryOnly\") || 1;\n\nif(modoarranque==1)\n    msg.payload = \"¿Desea hacer un arranque normal del equipo a \" + ref + \" spm?\";\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -22490,7 +22399,7 @@
         "z": "902fc438.e5d758",
         "g": "6202107f.ed9aa",
         "name": "AlarmaSPM",
-        "func": "var Dc = global.get(\"C2S.Motor_Control.Nameplate.Dc\") || 0;\nvar nPolosMotor = global.get(\"C2S.Motor_Control.Nameplate.Poles\") || 0;\nvar Dm = global.get(\"C2S.Motor_Control.Nameplate.Dm\") || 0;\nvar rgb = global.get(\"C2S.Motor_Control.Nameplate.RGB\") || 0;//RELACION DEL GEAR\ncontext.set(\"Dc\", Dc, \"memoryOnly\")\ncontext.set(\"nPolosMotor\", nPolosMotor, \"memoryOnly\")\ncontext.set(\"rgb\", rgb, \"memoryOnly\")\ncontext.set(\"Dm\", Dm, \"memoryOnly\")\n// condicion que valida que esten creadas todas las variables\nif (Dc != 0 && Dm != 0 && rgb != 0 && nPolosMotor != 0) {\n    node.status({ fill: \"green\", shape: \"dot\", text: \"Configurado\" });\n} else {\n    node.status({ fill: \"red\", shape: \"dot\", text: \"NoConfigurado\" });\n    msg.payload = \"Ingrese a Configuración VSD Datos del Motor para Configurar\";\n    msg.topic = \"Caja SRP no Configurada\";\n    return msg\n}",
+        "func": "var spm = msg.payload;//spm seteada por la entrada\nvar PoleaGrande = global.get(\"C2S.Motor_Control.Nameplate.PoleaGrande\") || 0;\nvar PoleaPequena = global.get(\"C2S.Motor_Control.Nameplate.PoleaPequena\") || 0;\nvar RGB = global.get(\"C2S.Motor_Control.Nameplate.RGB\") || 0;\nvar RPM = global.get(\"C2S.Motor_Control.Nameplate.RPM\") || 0;\nvar HertzMotor = global.get(\"C2S.Motor_Control.Nameplate.Hertz\") || 0;\n\n// guardar las variables\ncontext.set(\"spm\", spm, \"memoryOnly\");\ncontext.set(\"PoleaGrande\", PoleaGrande, \"memoryOnly\");\ncontext.set(\"PoleaPequena\", PoleaPequena, \"memoryOnly\");\ncontext.set(\"RGB\", RGB, \"memoryOnly\");\ncontext.set(\"RPM\", RPM, \"memoryOnly\");\n\nif ((PoleaGrande == 0) && (RGB == 0) && (RPM == 0) && HertzMotor == 0) {\n    node.status({ fill: \"red\", shape: \"dot\", text: \"NoConfigurado\" });\n    msg.payload = \"Ingrese a Configuración VSD Datos del Motor para Configurar\";\n    msg.topic = \"Caja SRP no Configurada\";\n    return msg\n}else{\n    node.status({ fill: \"green\", shape: \"dot\", text: \"Configurado\" });\n}\n\n\n\n\n// var Dc = global.get(\"C2S.Motor_Control.Nameplate.Dc\") || 0;\n// var nPolosMotor = global.get(\"C2S.Motor_Control.Nameplate.Poles\") || 0;\n// var Dm = global.get(\"C2S.Motor_Control.Nameplate.Dm\") || 0;\n// var rgb = global.get(\"C2S.Motor_Control.Nameplate.RGB\") || 0;//RELACION DEL GEAR\n// context.set(\"Dc\", Dc, \"memoryOnly\")\n// context.set(\"nPolosMotor\", nPolosMotor, \"memoryOnly\")\n// context.set(\"rgb\", rgb, \"memoryOnly\")\n// context.set(\"Dm\", Dm, \"memoryOnly\")\n// // condicion que valida que esten creadas todas las variables\n// if (Dc != 0 && Dm != 0 && rgb != 0 && nPolosMotor != 0) {\n//     node.status({ fill: \"green\", shape: \"dot\", text: \"Configurado\" });\n// } else {\n//     node.status({ fill: \"red\", shape: \"dot\", text: \"NoConfigurado\" });\n//     msg.payload = \"Ingrese a Configuración VSD Datos del Motor para Configurar\";\n//     msg.topic = \"Caja SRP no Configurada\";\n//     return msg\n// }",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -22528,15 +22437,15 @@
         "type": "function",
         "z": "902fc438.e5d758",
         "g": "6202107f.ed9aa",
-        "name": "ConversionSPM a Hz",
+        "name": "ConversionSPM a Hz Anterior",
         "func": "var spm = msg.payload;\nvar Dc = global.get(\"C2S.Motor_Control.Nameplate.Dc\") || 0;\nvar nPolosMotor = global.get(\"C2S.Motor_Control.Nameplate.Poles\") || 0;\nvar Dm = global.get(\"C2S.Motor_Control.Nameplate.Dm\") || 0;\nvar rgb = global.get(\"C2S.Motor_Control.Nameplate.RGB\") || 0;//RELACION DEL GEAR\ncontext.set(\"Dc\", Dc, \"memoryOnly\")\ncontext.set(\"spm\", spm, \"memoryOnly\")\ncontext.set(\"nPolosMotor\", nPolosMotor, \"memoryOnly\")\ncontext.set(\"rgb\", rgb, \"memoryOnly\")\ncontext.set(\"Dm\", Dm, \"memoryOnly\")\n// condicion que valida que esten creadas todas las variables\nif (Dc != 0 && Dm != 0 && rgb != 0 && nPolosMotor != 0) {\n    // calculo de la ecuación\n    var hz = (spm * nPolosMotor * rgb * Dc) / (60 * Dm);\n    hz = parseFloat(hz.toFixed(2))\n    msg.payload = hz;\n    node.status({ fill: \"green\", shape: \"dot\", text: \"Configurado\" });\n    context.set(\"hz\", hz, \"memoryOnly\")\n    global.set(\"Input.Operation.Reference\",hz,\"memoryOnly\");\n    return msg;\n} else {\n    node.status({ fill: \"red\", shape: \"dot\", text: \"NoConfigurado\" });\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1140,
-        "y": 40,
+        "x": 1110,
+        "y": 380,
         "wires": [
             []
         ]
@@ -22547,7 +22456,7 @@
         "z": "902fc438.e5d758",
         "g": "6202107f.ed9aa",
         "name": "conversionSPM",
-        "func": "var Dc = global.get(\"C2S.Motor_Control.Nameplate.Dc\")||0;\nvar nPolosMotor = global.get(\"C2S.Motor_Control.Nameplate.Poles\")||0;\nvar Dm = global.get(\"C2S.Motor_Control.Nameplate.Dm\")||0;\nvar rgb = global.get(\"C2S.Motor_Control.Nameplate.RGB\")||0;//RELACION DEL GEAR\nvar Reference = global.get(\"Input.Operation.Reference\" ,\"memoryOnly\")||0;\n// context.set(\"Dc\", Dc,\"memoryOnly\")\n// context.set(\"spm\", spm,\"memoryOnly\")\n// context.set(\"nPolosMotor\", nPolosMotor,\"memoryOnly\")\n// context.set(\"rgb\", rgb,\"memoryOnly\")\n// context.set(\"Dm\", Dm,\"memoryOnly\")\n// // condicion que valida que esten creadas todas las variables\ncontext.set(\"Reference\", Reference,\"memoryOnly\")\nif (Dc != 0 && Dm != 0 && rgb != 0 && nPolosMotor != 0){\n    // calculo de la ecuación\n    msg.payload = Reference;\n    node.status({ fill: \"green\", shape: \"dot\", text: \"Configurado\"});\n    return msg;\n}else{\n    node.status({ fill: \"red\", shape: \"dot\", text: \"NoConfigurado\"});\n}",
+        "func": "var Dc = global.get(\"C2S.Motor_Control.Nameplate.Dc\")||0;\nvar nPolosMotor = global.get(\"C2S.Motor_Control.Nameplate.Poles\")||0;\nvar Dm = global.get(\"C2S.Motor_Control.Nameplate.Dm\")||0;\nvar rgb = global.get(\"C2S.Motor_Control.Nameplate.RGB\")||0;//RELACION DEL GEAR\nvar Reference = global.get(\"Input.Operation.Reference\" ,\"memoryOnly\")||0;\n// context.set(\"Dc\", Dc,\"memoryOnly\")\n// context.set(\"spm\", spm,\"memoryOnly\")\n// context.set(\"nPolosMotor\", nPolosMotor,\"memoryOnly\")\n// context.set(\"rgb\", rgb,\"memoryOnly\")\n// context.set(\"Dm\", Dm,\"memoryOnly\")\n// // condicion que valida que esten creadas todas las variables\ncontext.set(\"Reference\", Reference,\"memoryOnly\")\nif (Dc != 0 && Dm != 0 && rgb != 0 && nPolosMotor != 0){\n    // calculo de la ecuación\n    msg.payload = Reference;\n    global.set(\"C2S.Last_Reference.Value\", Reference, \"memoryOnly\");\n    node.status({ fill: \"green\", shape: \"dot\", text: \"Configurado\"});\n    return msg;\n}else{\n    node.status({ fill: \"red\", shape: \"dot\", text: \"NoConfigurado\"});\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -32949,6 +32858,11 @@
             {
                 "label": "Motor de Inducción [IM]",
                 "value": "IM",
+                "type": "str"
+            },
+            {
+                "label": "Motor de imanes permanentes [PMM]",
+                "value": "PMM",
                 "type": "str"
             }
         ],
@@ -58454,7 +58368,7 @@
         "z": "dd18d94e.4b1408",
         "g": "b2f2659a.67f648",
         "name": "Interpretar comunicación",
-        "func": "var Uint16 = new Uint16Array(40);\n\nUint16[0] = msg.payload.Logic_Status_1; Uint16[1] = msg.payload.Logic_Status_2;\nUint16[2] = msg.payload.Output_Frequency_1; Uint16[3] = msg.payload.Output_Frequency_2;\nUint16[4] = msg.payload.Commanded_SpdRef_1; Uint16[5] = msg.payload.Commanded_SpdRef_2;\nUint16[6] = msg.payload.Mtr_Vel_Fdbk_1; Uint16[7] = msg.payload.Mtr_Vel_Fdbk_2;\nUint16[8] = msg.payload.Output_Current_1; Uint16[9] = msg.payload.Output_Current_2;\nUint16[10] = msg.payload.Output_Voltage_1; Uint16[11] = msg.payload.Output_Voltage_2;\nUint16[12] = msg.payload.Output_Power_1; Uint16[13] = msg.payload.Output_Power_2;\nUint16[14] = msg.payload.Output_Powr_Fctr_1; Uint16[15] = msg.payload.Output_Powr_Fctr_2;\nUint16[16] = msg.payload.DC_Bus_Volts_1; Uint16[17] = msg.payload.DC_Bus_Volts_2;\nUint16[18] = msg.payload.Elapsed_Run_Time_1; Uint16[19] = msg.payload.Elapsed_Run_Time_2;\nUint16[20] = msg.payload.Elpsd_Mtr_kWHrs_1; Uint16[21] = msg.payload.Elpsd_Mtr_kWHrs_2;\nUint16[22] = msg.payload.IGBT_Temp_C_1; Uint16[23] = msg.payload.IGBT_Temp_C_2;\nUint16[24] = msg.payload.Drive_Temp_C_1; Uint16[25] = msg.payload.Drive_Temp_C_2;\nUint16[26] = msg.payload.Last_Fault_Code_1; Uint16[27] = msg.payload.Last_Fault_Code_2;\nUint16[28] = msg.payload.Digital_In_Sts_1; Uint16[29] = msg.payload.Digital_In_Sts_2;\nUint16[30] = msg.payload.Tunning_Select_1; Uint16[31] = msg.payload.Tunning_Select_2;\nUint16[32] = msg.payload.PMM_OL_Select_1; Uint16[33] = msg.payload.PMM_OL_Select_2;\nUint16[34] = msg.payload.Accel_Time_1; Uint16[35] = msg.payload.Accel_Time_2;\nUint16[36] = msg.payload.Decel_Time_1; Uint16[37] = msg.payload.Decel_Time_2;\nUint16[38] = msg.payload.Max_Fwd_Speed_1; Uint16[39] = msg.payload.Max_Fwd_Speed_2;\n\nvar Sts = [Uint16[0], Uint16[1]];\nvar Output_Frequency = [Uint16[2], Uint16[3]];\nvar Commanded_SpdRef = [Uint16[4], Uint16[5]];\nvar Mtr_Vel_Fdbk = [Uint16[6], Uint16[7]];\nvar Output_Current = [Uint16[8], Uint16[9]];\nvar Output_Voltage = [Uint16[10], Uint16[11]];\nvar Output_Power = [Uint16[12], Uint16[13]];\nvar Output_Powr_Fctr = [Uint16[14], Uint16[15]];\nvar DC_Bus_Volts = [Uint16[16], Uint16[17]];\nvar Elapsed_Run_Time = [Uint16[18], Uint16[19]];\nvar Elpsd_Mtr_kWHrs = [Uint16[20], Uint16[21]];\nvar IGBT_Temp_C = [Uint16[22], Uint16[23]];\nvar Drive_Temp_C = [Uint16[24], Uint16[25]];\nvar Last_Fault_Code = [Uint16[26], Uint16[27]];\nvar Digital_In_Sts = [1, 1];\nvar Tunning_Select = [Uint16[30], Uint16[31]];\nvar PMM_OL_Select = [Uint16[32], Uint16[33]];\nvar Accel_Time = [Uint16[34], Uint16[35]];\nvar Decel_Time = [Uint16[36], Uint16[37]];\nvar Max_Fwd_Speed = [Uint16[38], Uint16[39]];\n\n\nCommanded_SpdRef = parseFloat(Int2Float32(array16to32(Commanded_SpdRef)).toFixed(3)),\n//arreglo para tomar la referencia del VSD preguntar como se hace de mejor forma;\ncontext.set(\"Commanded_SpdRef\", Commanded_SpdRef, \"memoryOnly\");\ncontext.set(\"Output_Frequency\", parseFloat(Int2Float32(array16to32(Output_Frequency)).toFixed(3)), \"memoryOnly\");\nvar commandSpeedReference = context.get(\"Commanded_SpdRef\", \"memoryOnly\") || 0;\nvar Output_FrequencyActual = context.get(\"Output_Frequency\", \"memoryOnly\") || 0;\n\n//spm tomadas del VSD\nvar Dc = global.get(\"C2S.Motor_Control.Nameplate.Dc\") || 0;//diametro del crank\nvar nPolosMotor = global.get(\"C2S.Motor_Control.Nameplate.Poles\") || 0;//relacion caja de motor\nvar Dm = global.get(\"C2S.Motor_Control.Nameplate.Dm\") || 0;//diametro del motor\nvar rgb = global.get(\"C2S.Motor_Control.Nameplate.RGB\") || 0;//RELACION DEL GEAR\n\n// condicion que valida que esten creadas todas las variables\nif (Dc != 0 && Dm != 0 && rgb != 0 && nPolosMotor != 0) {\n    // calculo de la ecuación\n    var spm = (60 * commandSpeedReference) / (nPolosMotor * rgb) * (Dm / Dc);\n    var spmActual = (60 * Output_FrequencyActual) / (nPolosMotor * rgb) * (Dm / Dc);\n    node.status({ fill: \"green\", shape: \"dot\", text: \"Configurado\" });\n    context.set(\"spm\", spm, \"memoryOnly\");\n    context.set(\"spmActual\", spmActual, \"memoryOnly\");\n} else {\n    spm = 0;\n    node.status({ fill: \"red\", shape: \"dot\", text: \"NoConfigurado\" });\n}\n\nmsg.payload = {\n    'Status_Word': Sts[0],\n    'Output_Frequency': parseFloat(Int2Float32(array16to32(Output_Frequency))),\n    'Commanded_SpdRef': Commanded_SpdRef,\n    'Mtr_Vel_Fdbk': parseFloat(Int2Float32(array16to32(Mtr_Vel_Fdbk)).toFixed(3)),\n    'Output_Current': parseFloat(Int2Float32(array16to32(Output_Current)).toFixed(3)),\n    'Output_Voltage': parseFloat(Int2Float32(array16to32(Output_Voltage)).toFixed(3)),\n    'Output_Power': parseFloat(Int2Float32(array16to32(Output_Power)).toFixed(3)),\n    'Power_Factor': parseFloat(Int2Float32(array16to32(Output_Powr_Fctr)).toFixed(3)),\n    'Bus_DC_Volts': parseFloat(Int2Float32(array16to32(DC_Bus_Volts)).toFixed(3)),\n    'Elapsed_Run_Time': parseFloat(Int2Float32(array16to32(Elapsed_Run_Time)).toFixed(3)),\n    'Elpsd_Mtr_kWHrs': parseFloat(Int2Float32(array16to32(Elpsd_Mtr_kWHrs)).toFixed(3)),\n    'IGBT_Temp_C': parseFloat(Int2Float32(array16to32(IGBT_Temp_C)).toFixed(3)),\n    'Drive_Temp_C': parseFloat(Int2Float32(array16to32(Drive_Temp_C)).toFixed(3)),\n    'Last_Fault_Code': parseInt(array16to32(Last_Fault_Code)),\n    'Digital_In_Sts': parseInt(array16to32(Digital_In_Sts)),\n    'Tunning_Select': parseInt(array16to32(Tunning_Select)),\n    'PMM_OL_Select': parseInt(array16to32(PMM_OL_Select)),\n    'Accel_Time': parseFloat(Int2Float32(array16to32(Accel_Time)).toFixed(3)),\n    'Decel_Time': parseFloat(Int2Float32(array16to32(Decel_Time)).toFixed(3)),\n    'Max_Fwd_Speed': parseFloat(Int2Float32(array16to32(Max_Fwd_Speed)).toFixed(3)),\n    'spm': parseFloat(spm.toFixed(2)),\n    'spmActual': parseFloat(spmActual.toFixed(2))\n}\n\ncontext.set(\"Output_Frequency\", msg.payload.Output_Frequency, \"memoryOnly\");\nreturn msg;\n\n// Combinar dos arrays de 16 bits en uno 32 bits\nfunction array16to32(array) {\n    var intvalue = [];\n    for (var i = 0; i < array.length; i++) {\n        array[i] = array[i] << 16 * i;\n        // @ts-ignore\n        intvalue = intvalue | array[i];\n    }\n    return intvalue;\n}\n// IEC 754 to Float Function\nfunction Int2Float32(bytes) {\n    var sign = (bytes & 0x80000000) ? -1 : 1;\n    var exponent = ((bytes >> 23) & 0xFF) - 127;\n    var significand = (bytes & ~(-1 << 23));\n\n    if (exponent == 128)\n        return sign * ((significand) ? Number.NaN : Number.POSITIVE_INFINITY);\n\n    if (exponent == -127) {\n        if (significand === 0) return sign * 0.0;\n        exponent = -126;\n        significand /= (1 << 22);\n    } else significand = (significand | (1 << 23)) / (1 << 23);\n\n    return sign * significand * Math.pow(2, exponent);\n}\n// Créditos: https://flows.nodered.org/flow/359ead34237b7ab6ec0465ee85a34b62\n//Fuente: https://stackoverflow.com/questions/47164675/convert-float-to-32bit-hex-string-in-javascript\n",
+        "func": "var Uint16 = new Uint16Array(40);\n\nUint16[0] = msg.payload.Logic_Status_1; Uint16[1] = msg.payload.Logic_Status_2;\nUint16[2] = msg.payload.Output_Frequency_1; Uint16[3] = msg.payload.Output_Frequency_2;\nUint16[4] = msg.payload.Commanded_SpdRef_1; Uint16[5] = msg.payload.Commanded_SpdRef_2;\nUint16[6] = msg.payload.Mtr_Vel_Fdbk_1; Uint16[7] = msg.payload.Mtr_Vel_Fdbk_2;\nUint16[8] = msg.payload.Output_Current_1; Uint16[9] = msg.payload.Output_Current_2;\nUint16[10] = msg.payload.Output_Voltage_1; Uint16[11] = msg.payload.Output_Voltage_2;\nUint16[12] = msg.payload.Output_Power_1; Uint16[13] = msg.payload.Output_Power_2;\nUint16[14] = msg.payload.Output_Powr_Fctr_1; Uint16[15] = msg.payload.Output_Powr_Fctr_2;\nUint16[16] = msg.payload.DC_Bus_Volts_1; Uint16[17] = msg.payload.DC_Bus_Volts_2;\nUint16[18] = msg.payload.Elapsed_Run_Time_1; Uint16[19] = msg.payload.Elapsed_Run_Time_2;\nUint16[20] = msg.payload.Elpsd_Mtr_kWHrs_1; Uint16[21] = msg.payload.Elpsd_Mtr_kWHrs_2;\nUint16[22] = msg.payload.IGBT_Temp_C_1; Uint16[23] = msg.payload.IGBT_Temp_C_2;\nUint16[24] = msg.payload.Drive_Temp_C_1; Uint16[25] = msg.payload.Drive_Temp_C_2;\nUint16[26] = msg.payload.Last_Fault_Code_1; Uint16[27] = msg.payload.Last_Fault_Code_2;\nUint16[28] = msg.payload.Digital_In_Sts_1; Uint16[29] = msg.payload.Digital_In_Sts_2;\nUint16[30] = msg.payload.Tunning_Select_1; Uint16[31] = msg.payload.Tunning_Select_2;\nUint16[32] = msg.payload.PMM_OL_Select_1; Uint16[33] = msg.payload.PMM_OL_Select_2;\nUint16[34] = msg.payload.Accel_Time_1; Uint16[35] = msg.payload.Accel_Time_2;\nUint16[36] = msg.payload.Decel_Time_1; Uint16[37] = msg.payload.Decel_Time_2;\nUint16[38] = msg.payload.Max_Fwd_Speed_1; Uint16[39] = msg.payload.Max_Fwd_Speed_2;\n\nvar Sts = [Uint16[0], Uint16[1]];\nvar Output_Frequency = [Uint16[2], Uint16[3]];\nvar Commanded_SpdRef = [Uint16[4], Uint16[5]];\nvar Mtr_Vel_Fdbk = [Uint16[6], Uint16[7]];\nvar Output_Current = [Uint16[8], Uint16[9]];\nvar Output_Voltage = [Uint16[10], Uint16[11]];\nvar Output_Power = [Uint16[12], Uint16[13]];\nvar Output_Powr_Fctr = [Uint16[14], Uint16[15]];\nvar DC_Bus_Volts = [Uint16[16], Uint16[17]];\nvar Elapsed_Run_Time = [Uint16[18], Uint16[19]];\nvar Elpsd_Mtr_kWHrs = [Uint16[20], Uint16[21]];\nvar IGBT_Temp_C = [Uint16[22], Uint16[23]];\nvar Drive_Temp_C = [Uint16[24], Uint16[25]];\nvar Last_Fault_Code = [Uint16[26], Uint16[27]];\nvar Digital_In_Sts = [1, 1];\nvar Tunning_Select = [Uint16[30], Uint16[31]];\nvar PMM_OL_Select = [Uint16[32], Uint16[33]];\nvar Accel_Time = [Uint16[34], Uint16[35]];\nvar Decel_Time = [Uint16[36], Uint16[37]];\nvar Max_Fwd_Speed = [Uint16[38], Uint16[39]];\n\n\nCommanded_SpdRef = parseFloat(Int2Float32(array16to32(Commanded_SpdRef)).toFixed(3)),\n//arreglo para tomar la referencia del VSD preguntar como se hace de mejor forma;\ncontext.set(\"Commanded_SpdRef\", Commanded_SpdRef, \"memoryOnly\");\ncontext.set(\"Output_Frequency\", parseFloat(Int2Float32(array16to32(Output_Frequency)).toFixed(3)), \"memoryOnly\");\nvar commandSpeedReference = context.get(\"Commanded_SpdRef\", \"memoryOnly\") || 0;\nvar Output_FrequencyActual = context.get(\"Output_Frequency\", \"memoryOnly\") || 0;\n\nvar PoleaGrande = global.get(\"C2S.Motor_Control.Nameplate.PoleaGrande\") || 0;\nvar PoleaPequena = global.get(\"C2S.Motor_Control.Nameplate.PoleaPequena\") || 0;\nvar RGB = global.get(\"C2S.Motor_Control.Nameplate.RGB\") || 0;\nvar RPM = global.get(\"C2S.Motor_Control.Nameplate.RPM\") || 0;\nvar HertzMotor = global.get(\"C2S.Motor_Control.Nameplate.Hertz\") || 0;\n\n\nif ((PoleaGrande != 0) && (RGB != 0) && (RPM != 0) && HertzMotor != 0) {\n    node.status({ fill: \"green\", shape: \"dot\", text: \"Configurado\" });\n    var relSRP1 = spm * PoleaGrande * RGB * HertzMotor;\n    var relSRP2 = RPM * PoleaPequena\n    if (relSRP2 != 0) {//ejecute si la relacion de SRP2 está correcta\n        var spm = (commandSpeedReference*RPM*PoleaPequena)/(PoleaGrande*RGB*HertzMotor);\n        var spmActual = (Output_FrequencyActual*RPM*PoleaPequena)/(PoleaGrande*RGB*HertzMotor);\n        // context.set(\"spm\", spm, \"memoryOnly\");\n        // context.set(\"spmActual\", spmActual, \"memoryOnly\");\n    }\n\n}else{\n    node.status({ fill: \"red\", shape: \"dot\", text: \"NoConfigurado\" });\n}\n\n// // condicion que valida que esten creadas todas las variables\n// if (Dc != 0 && Dm != 0 && rgb != 0 && nPolosMotor != 0) {\n//     // calculo de la ecuación\n//     var spm = (60 * commandSpeedReference) / (nPolosMotor * rgb) * (Dm / Dc);\n//     var spmActual = (60 * Output_FrequencyActual) / (nPolosMotor * rgb) * (Dm / Dc);\n//     node.status({ fill: \"green\", shape: \"dot\", text: \"Configurado\" });\n//     context.set(\"spm\", spm, \"memoryOnly\");\n//     context.set(\"spmActual\", spmActual, \"memoryOnly\");\n// } else {\n//     spm = 0;\n//     node.status({ fill: \"red\", shape: \"dot\", text: \"NoConfigurado\" });\n// }\n\nmsg.payload = {\n    'Status_Word': Sts[0],\n    'Output_Frequency': parseFloat(Int2Float32(array16to32(Output_Frequency))),\n    'Commanded_SpdRef': Commanded_SpdRef,\n    'Mtr_Vel_Fdbk': parseFloat(Int2Float32(array16to32(Mtr_Vel_Fdbk)).toFixed(3)),\n    'Output_Current': parseFloat(Int2Float32(array16to32(Output_Current)).toFixed(3)),\n    'Output_Voltage': parseFloat(Int2Float32(array16to32(Output_Voltage)).toFixed(3)),\n    'Output_Power': parseFloat(Int2Float32(array16to32(Output_Power)).toFixed(3)),\n    'Power_Factor': parseFloat(Int2Float32(array16to32(Output_Powr_Fctr)).toFixed(3)),\n    'Bus_DC_Volts': parseFloat(Int2Float32(array16to32(DC_Bus_Volts)).toFixed(3)),\n    'Elapsed_Run_Time': parseFloat(Int2Float32(array16to32(Elapsed_Run_Time)).toFixed(3)),\n    'Elpsd_Mtr_kWHrs': parseFloat(Int2Float32(array16to32(Elpsd_Mtr_kWHrs)).toFixed(3)),\n    'IGBT_Temp_C': parseFloat(Int2Float32(array16to32(IGBT_Temp_C)).toFixed(3)),\n    'Drive_Temp_C': parseFloat(Int2Float32(array16to32(Drive_Temp_C)).toFixed(3)),\n    'Last_Fault_Code': parseInt(array16to32(Last_Fault_Code)),\n    'Digital_In_Sts': parseInt(array16to32(Digital_In_Sts)),\n    'Tunning_Select': parseInt(array16to32(Tunning_Select)),\n    'PMM_OL_Select': parseInt(array16to32(PMM_OL_Select)),\n    'Accel_Time': parseFloat(Int2Float32(array16to32(Accel_Time)).toFixed(3)),\n    'Decel_Time': parseFloat(Int2Float32(array16to32(Decel_Time)).toFixed(3)),\n    'Max_Fwd_Speed': parseFloat(Int2Float32(array16to32(Max_Fwd_Speed)).toFixed(3)),\n    'spm': parseFloat(spm.toFixed(2)),\n    'spmActual': parseFloat(spmActual.toFixed(2))\n}\n\ncontext.set(\"Output_Frequency\", msg.payload.Output_Frequency, \"memoryOnly\");\nreturn msg;\n\n// Combinar dos arrays de 16 bits en uno 32 bits\nfunction array16to32(array) {\n    var intvalue = [];\n    for (var i = 0; i < array.length; i++) {\n        array[i] = array[i] << 16 * i;\n        // @ts-ignore\n        intvalue = intvalue | array[i];\n    }\n    return intvalue;\n}\n// IEC 754 to Float Function\nfunction Int2Float32(bytes) {\n    var sign = (bytes & 0x80000000) ? -1 : 1;\n    var exponent = ((bytes >> 23) & 0xFF) - 127;\n    var significand = (bytes & ~(-1 << 23));\n\n    if (exponent == 128)\n        return sign * ((significand) ? Number.NaN : Number.POSITIVE_INFINITY);\n\n    if (exponent == -127) {\n        if (significand === 0) return sign * 0.0;\n        exponent = -126;\n        significand /= (1 << 22);\n    } else significand = (significand | (1 << 23)) / (1 << 23);\n\n    return sign * significand * Math.pow(2, exponent);\n}\n// Créditos: https://flows.nodered.org/flow/359ead34237b7ab6ec0465ee85a34b62\n//Fuente: https://stackoverflow.com/questions/47164675/convert-float-to-32bit-hex-string-in-javascript\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -99361,7 +99275,7 @@
             [
                 "4ef6cf8c997c0e58",
                 "52bfc153c9e505c6",
-                "0e6d4c70decc4d39"
+                "330e1c381f5627b0"
             ]
         ]
     },
@@ -99582,7 +99496,7 @@
         "y": 620,
         "wires": [
             [
-                "437cb96e92c2c9c0"
+                "ede89259da849bf4"
             ]
         ]
     },
@@ -99721,7 +99635,7 @@
         "z": "62616833443f66d1",
         "g": "ddb2b7d6d6bff088",
         "name": "LastRefLocal",
-        "func": "var reference = global.get(\"C2S.Implicit.spm\",\"memoryOnly\")||0;\nreference = parseFloat((reference*10).toFixed());\n// refe= parseFloat(Commanded_SpdRef.toFixed(2));\ncontext.set(\"reference\", reference,\"memoryOnly\");\n// angel ya no es mi padre\nif(reference != 0){\n    msg.payload = {\n        value: [reference],\n        'fc': 16,\n        'unitid': 1,\n        'address': 56,\n        'quantity': 1\n    }\n    return msg;\n}",
+        "func": "// referencia tomada con la conversión desde el flow C2S\nvar reference = global.get(\"C2S.Implicit.spm\",\"memoryOnly\")||0;\nreference = parseFloat((reference*10).toFixed());\n// refe= parseFloat(Commanded_SpdRef.toFixed(2));\ncontext.set(\"reference\", reference,\"memoryOnly\");\n// angel ya no es mi padre\nif(reference != 0){\n    msg.payload = {\n        value: [reference],\n        'fc': 16,\n        'unitid': 1,\n        'address': 56,\n        'quantity': 1\n    }\n    return msg;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -99736,26 +99650,6 @@
         ]
     },
     {
-        "id": "0e6d4c70decc4d39",
-        "type": "function",
-        "z": "62616833443f66d1",
-        "g": "ddb2b7d6d6bff088",
-        "name": "ConversionSPM",
-        "func": "var spm = msg.payload;\nvar Dc = global.get(\"C2S.Motor_Control.Nameplate.Dc\") || 0;\nvar nPolosMotor = global.get(\"C2S.Motor_Control.Nameplate.Poles\") || 0;\nvar Dm = global.get(\"C2S.Motor_Control.Nameplate.Dm\") || 0;\nvar rgb = global.get(\"C2S.Motor_Control.Nameplate.RGB\") || 0;//RELACION DEL GEAR\ncontext.set(\"Dc\", Dc, \"memoryOnly\")\ncontext.set(\"spm\", spm, \"memoryOnly\")\ncontext.set(\"nPolosMotor\", nPolosMotor, \"memoryOnly\")\ncontext.set(\"rgb\", rgb, \"memoryOnly\")\ncontext.set(\"Dm\", Dm, \"memoryOnly\")\n// condicion que valida que esten creadas todas las variables\nif (Dc != 0 && Dm != 0 && rgb != 0 && nPolosMotor != 0) {\n    // calculo de la ecuación\n    var hz = (spm * nPolosMotor * rgb * Dc) / (60 * Dm);\n    hz = parseFloat(hz.toFixed(2))\n    msg.payload = hz;\n    node.status({ fill: \"green\", shape: \"dot\", text: \"Configurado\" });\n    context.set(\"hz\", hz, \"memoryOnly\")\n    global.set(\"Input.Operation.Reference\",hz,\"memoryOnly\");\n\n    // guardar la ultima referencia para el traking\n    global.set(\"C2S.Last_Reference.Value\", hz);\n    return msg;\n} else {\n    node.status({ fill: \"red\", shape: \"dot\", text: \"NoConfigurado\" });\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 2060,
-        "y": 540,
-        "wires": [
-            [
-                "06d52b32852b2260"
-            ]
-        ]
-    },
-    {
         "id": "06d52b32852b2260",
         "type": "subflow:1fbf295f73cccb97",
         "z": "62616833443f66d1",
@@ -99765,26 +99659,6 @@
         "y": 560,
         "wires": [
             []
-        ]
-    },
-    {
-        "id": "437cb96e92c2c9c0",
-        "type": "function",
-        "z": "62616833443f66d1",
-        "g": "ddb2b7d6d6bff088",
-        "name": "ConversionSPM",
-        "func": "var spm = msg.payload;\nvar Dc = global.get(\"C2S.Motor_Control.Nameplate.Dc\") || 0;\nvar nPolosMotor = global.get(\"C2S.Motor_Control.Nameplate.Poles\") || 0;\nvar Dm = global.get(\"C2S.Motor_Control.Nameplate.Dm\") || 0;\nvar rgb = global.get(\"C2S.Motor_Control.Nameplate.RGB\") || 0;//RELACION DEL GEAR\ncontext.set(\"Dc\", Dc, \"memoryOnly\")\ncontext.set(\"spm\", spm, \"memoryOnly\")\ncontext.set(\"nPolosMotor\", nPolosMotor, \"memoryOnly\")\ncontext.set(\"rgb\", rgb, \"memoryOnly\")\ncontext.set(\"Dm\", Dm, \"memoryOnly\")\n// condicion que valida que esten creadas todas las variables\nif (Dc != 0 && Dm != 0 && rgb != 0 && nPolosMotor != 0) {\n    // calculo de la ecuación\n    var hz = (spm * nPolosMotor * rgb * Dc) / (60 * Dm);\n    hz = parseFloat(hz.toFixed(2))\n    msg.payload = hz;\n    node.status({ fill: \"green\", shape: \"dot\", text: \"Configurado\" });\n    context.set(\"hz\", hz, \"memoryOnly\")\n    global.set(\"Input.Operation.Reference\",hz,\"memoryOnly\");\n\n    // guardar la ultima referencia para el traking\n    global.set(\"C2S.Last_Reference.Value\", hz);\n    return msg;\n} else {\n    node.status({ fill: \"red\", shape: \"dot\", text: \"NoConfigurado\" });\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 2060,
-        "y": 600,
-        "wires": [
-            [
-                "06d52b32852b2260"
-            ]
         ]
     },
     {
@@ -100739,7 +100613,7 @@
         "format": "{{msg.payload}}",
         "layout": "row-left",
         "className": "",
-        "x": 1060,
+        "x": 1080,
         "y": 3220,
         "wires": []
     },
@@ -100748,14 +100622,14 @@
         "type": "function",
         "z": "43b51d90.0b47f4",
         "g": "daacc2ec73149b57",
-        "name": "",
-        "func": "var PoleaGrande = global.get(\"C2S.Motor_Control.Nameplate.PoleaGrande\")||0;\nvar RGB = global.get(\"C2S.Motor_Control.Nameplate.RGB\")||0;//relación del gear box\nvar PoleaPequena = global.get(\"C2S.Motor_Control.Nameplate.PoleaPequena\")||0;\nif((PoleaGrande != 0) && (RGB != 0) && (PoleaPequena != 0) ){\n    var totalRelacion = PoleaGrande/(PoleaPequena/RGB);\n    context.set(\"totalRelacion\",totalRelacion,\"memoryOnly\");\n    msg.payload = totalRelacion;\n\n    // guarde la variable global de relación\n    global.set(\"C2S.Motor_Control.Nameplate.totalRelacion\",totalRelacion);\n    node.status({fill:\"green\",shape:\"dot\",text:\"Configurado\"});\n    return msg;\n}else{\n    node.status({fill:\"red\",shape:\"dot\",text:\"NoConfigurado\"});\n}\n\n",
+        "name": "relaciónTotal",
+        "func": "var PoleaGrande = global.get(\"C2S.Motor_Control.Nameplate.PoleaGrande\")||0;\nvar RGB = global.get(\"C2S.Motor_Control.Nameplate.RGB\")||0;//relación del gear box\nvar PoleaPequena = global.get(\"C2S.Motor_Control.Nameplate.PoleaPequena\")||0;\nif((PoleaGrande != 0) && (RGB != 0) && (PoleaPequena != 0) ){\n    var totalRelacion = PoleaGrande/(PoleaPequena/RGB);\n    totalRelacion = parseFloat(totalRelacion.toFixed(1));\n    context.set(\"totalRelacion\",totalRelacion,\"memoryOnly\");\n    msg.payload = totalRelacion;\n\n    // guarde la variable global de relación\n    global.set(\"C2S.Motor_Control.Nameplate.totalRelacion\",totalRelacion);\n    node.status({fill:\"green\",shape:\"dot\",text:\"Configurado\"});\n    return msg;\n}else{\n    node.status({fill:\"red\",shape:\"dot\",text:\"NoConfigurado\"});\n}\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 900,
+        "x": 910,
         "y": 3220,
         "wires": [
             [
@@ -100790,6 +100664,64 @@
         "wires": [
             [
                 "b4058e733a37b84c"
+            ]
+        ]
+    },
+    {
+        "id": "478982728f47abd2",
+        "type": "function",
+        "z": "222e9a8dc8f57193",
+        "name": "conversionHz",
+        "func": "var spm = msg.payload;//spm seteada por la entrada\nvar PoleaGrande = global.get(\"C2S.Motor_Control.Nameplate.PoleaGrande\")||0;\nvar PoleaPequena = global.get(\"C2S.Motor_Control.Nameplate.PoleaPequena\")||0;\nvar RGB = global.get(\"C2S.Motor_Control.Nameplate.RGB\")||0;\nvar RPM = global.get(\"C2S.Motor_Control.Nameplate.RPM\")||0;\nvar HertzMotor = global.get(\"C2S.Motor_Control.Nameplate.Hertz\")||0;\n\n// guardar las variables\ncontext.set(\"spm\", spm, \"memoryOnly\");\ncontext.set(\"PoleaGrande\", PoleaGrande, \"memoryOnly\");\ncontext.set(\"PoleaPequena\", PoleaPequena, \"memoryOnly\");\ncontext.set(\"RGB\", RGB, \"memoryOnly\");\ncontext.set(\"HertzMotor\", HertzMotor, \"memoryOnly\");\ncontext.set(\"RPM\", RPM, \"memoryOnly\");\ncontext.set(\"relSRP1\", relSRP1, \"memoryOnly\");\ncontext.set(\"relSRP2\", relSRP2, \"memoryOnly\");\n\nif ((PoleaGrande != 0) && (RGB != 0) && (RPM != 0) && HertzMotor!= 0){\n    node.status({fill:\"green\",shape:\"dot\",text:\"Configurado\"});\n    var relSRP1 = spm*PoleaGrande*RGB*HertzMotor;\n    var relSRP2 = RPM*PoleaPequena\n    if(relSRP2 != 0){//ejecute si la relacion de SRP2 está correcta\n        var hz = relSRP1/relSRP2;\n        msg.payload = hz;\n        context.set(\"hz\", hz, \"memoryOnly\");\n        // setea la variable global\n        global.set(\"Input.Operation.Reference\", hz, \"memoryOnly\");\n        global.set(\"C2S.Last_Reference.Value\", hz, \"memoryOnly\");\n        global.set(\"Input.Operation.spm\", spm, \"memoryOnly\");\n        return msg;\n    }\n\n}else{\n    node.status({fill:\"red\",shape:\"dot\",text:\"NoConfigurado\"});\n}\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 200,
+        "y": 80,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8e77c9d647a0565f",
+        "type": "subflow:222e9a8dc8f57193",
+        "z": "902fc438.e5d758",
+        "g": "6202107f.ed9aa",
+        "name": "",
+        "env": [],
+        "x": 1080,
+        "y": 20,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ede89259da849bf4",
+        "type": "subflow:222e9a8dc8f57193",
+        "z": "62616833443f66d1",
+        "g": "ddb2b7d6d6bff088",
+        "name": "",
+        "x": 2060,
+        "y": 600,
+        "wires": [
+            [
+                "06d52b32852b2260"
+            ]
+        ]
+    },
+    {
+        "id": "330e1c381f5627b0",
+        "type": "subflow:222e9a8dc8f57193",
+        "z": "62616833443f66d1",
+        "g": "ddb2b7d6d6bff088",
+        "name": "",
+        "x": 2060,
+        "y": 540,
+        "wires": [
+            [
+                "06d52b32852b2260"
             ]
         ]
     }
