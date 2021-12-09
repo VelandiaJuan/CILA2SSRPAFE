@@ -1205,7 +1205,9 @@
             "bfa48676.a364f8"
         ],
         "x": 54,
-        "y": 19
+        "y": 19,
+        "w": 432,
+        "h": 149.5
     },
     {
         "id": "d929d138.3b512",
@@ -1223,7 +1225,9 @@
             "ebd2954e5785409e"
         ],
         "x": 614,
-        "y": 39
+        "y": 39,
+        "w": 542,
+        "h": 122
     },
     {
         "id": "fcb3da61.429db8",
@@ -1446,7 +1450,9 @@
             "b6cf54debd6eb4db"
         ],
         "x": 44,
-        "y": 359
+        "y": 359,
+        "w": 662,
+        "h": 202
     },
     {
         "id": "9132da2c.b8c6b8",
@@ -1470,7 +1476,9 @@
             "fd328934.0ddd18"
         ],
         "x": 54,
-        "y": 579
+        "y": 579,
+        "w": 602,
+        "h": 202
     },
     {
         "id": "9b538856.60fb38",
@@ -1648,7 +1656,9 @@
             "312d9def.84df32"
         ],
         "x": 14,
-        "y": 799
+        "y": 799,
+        "w": 702,
+        "h": 242
     },
     {
         "id": "3ae9fbe60d6132ea",
@@ -2178,7 +2188,9 @@
             "c22e3c27600ab315"
         ],
         "x": 734,
-        "y": 179
+        "y": 179,
+        "w": 612,
+        "h": 242
     },
     {
         "id": "d84615.919209e8",
@@ -2304,7 +2316,9 @@
             "181ea2faf2082cc7"
         ],
         "x": 14,
-        "y": 1069
+        "y": 1069,
+        "w": 792,
+        "h": 212
     },
     {
         "id": "06c0dbf1bffe1e21",
@@ -3088,30 +3102,6 @@
         "y": 19
     },
     {
-        "id": "82fde41a.c6f8d8",
-        "type": "group",
-        "z": "2e27dea6.c4c362",
-        "name": "Home",
-        "style": {
-            "label": true,
-            "color": "#ffffff",
-            "stroke": "#ff3f3f",
-            "fill": "#000000"
-        },
-        "nodes": [
-            "e765ca36.69fb98",
-            "876da3c9.83763",
-            "14f401b1.71d24e",
-            "dc439b5.84bfd68",
-            "56fab3e7.5f20dc",
-            "666152d6.dc641c",
-            "c83649c3.716488",
-            "3d5528dc.de75d8"
-        ],
-        "x": 54,
-        "y": 179
-    },
-    {
         "id": "474b22e105b31dff",
         "type": "group",
         "z": "59977e2d5bc9331a",
@@ -3283,7 +3273,9 @@
             "0d38acc234ba861f"
         ],
         "x": 734,
-        "y": 439
+        "y": 439,
+        "w": 642,
+        "h": 162
     },
     {
         "id": "86af7867dc10f4a8",
@@ -3355,7 +3347,9 @@
             "c69d457b5c9947d3"
         ],
         "x": 734,
-        "y": 619
+        "y": 619,
+        "w": 582,
+        "h": 242
     },
     {
         "id": "5dc71a84bf12ae23",
@@ -3435,7 +3429,9 @@
             "5166e91c9a18b367"
         ],
         "x": 2214,
-        "y": 999
+        "y": 999,
+        "w": 252,
+        "h": 402
     },
     {
         "id": "08268a4bd4859ab8",
@@ -3458,7 +3454,9 @@
             "1667a740e1297346"
         ],
         "x": 1694,
-        "y": 59
+        "y": 59,
+        "w": 272,
+        "h": 402
     },
     {
         "id": "998532256f00cecc",
@@ -3481,7 +3479,9 @@
             "4913db07a3d47bea"
         ],
         "x": 2194,
-        "y": 539
+        "y": 539,
+        "w": 252,
+        "h": 402
     },
     {
         "id": "a52d17ad75acd9f6",
@@ -3504,7 +3504,9 @@
             "f106aa1dacaf9bc9"
         ],
         "x": 2174,
-        "y": 79
+        "y": 79,
+        "w": 282,
+        "h": 422
     },
     {
         "id": "5c9801fdee1b9e98",
@@ -3531,7 +3533,9 @@
             "564a978639564867"
         ],
         "x": 844,
-        "y": 879
+        "y": 879,
+        "w": 302,
+        "h": 442
     },
     {
         "id": "2ef3b11b46a2953e",
@@ -3555,7 +3559,9 @@
             "db5b715c8277123d"
         ],
         "x": 1714,
-        "y": 519
+        "y": 519,
+        "w": 252,
+        "h": 442
     },
     {
         "id": "17da3b0724781f01",
@@ -3579,7 +3585,9 @@
             "1647f8062813fe45"
         ],
         "x": 1694,
-        "y": 999
+        "y": 999,
+        "w": 292,
+        "h": 442
     },
     {
         "id": "c920676a5fbb9bc8",
@@ -3676,9 +3684,7 @@
             "e021fffd109e8430"
         ],
         "x": 154,
-        "y": 759,
-        "w": 1032,
-        "h": 282
+        "y": 759
     },
     {
         "id": "99fd9c5cbd90ceb5",
@@ -3695,9 +3701,7 @@
             "5e3e278f18c43297"
         ],
         "x": 154,
-        "y": 1199,
-        "w": 492,
-        "h": 122
+        "y": 1199
     },
     {
         "id": "aecdec289959a88b",
@@ -3726,9 +3730,7 @@
             "601364caf3d1d399"
         ],
         "x": 194,
-        "y": 299,
-        "w": 1092,
-        "h": 282
+        "y": 299
     },
     {
         "id": "dfdd865d8cf81492",
@@ -3746,9 +3748,7 @@
             "6be1c1290c1ed70f"
         ],
         "x": 154,
-        "y": 599,
-        "w": 812,
-        "h": 142
+        "y": 599
     },
     {
         "id": "a27e446a1834ba54",
@@ -3771,9 +3771,7 @@
             "38bb4c51f24c95f2"
         ],
         "x": 114,
-        "y": 79,
-        "w": 1572,
-        "h": 182
+        "y": 79
     },
     {
         "id": "ab78c546971d986f",
@@ -3795,7 +3793,9 @@
             "9fb4107d46d81ab0"
         ],
         "x": 24,
-        "y": 1709
+        "y": 1709,
+        "w": 792,
+        "h": 212
     },
     {
         "id": "6c6732761a2613b5",
@@ -4064,7 +4064,9 @@
             "12a3282355da9439"
         ],
         "x": 34,
-        "y": 1299
+        "y": 1299,
+        "w": 582,
+        "h": 182
     },
     {
         "id": "69cbede8f851191a",
@@ -4085,7 +4087,9 @@
             "a1c5e02a9d683eb4"
         ],
         "x": 34,
-        "y": 1499
+        "y": 1499,
+        "w": 582,
+        "h": 182
     },
     {
         "id": "f9b757cab0b767da",
@@ -4194,9 +4198,7 @@
             "1030cf36c38005cc"
         ],
         "x": 154,
-        "y": 1099,
-        "w": 912,
-        "h": 82
+        "y": 1099
     },
     {
         "id": "1306de9a.9ba341",
@@ -7504,6 +7506,41 @@
         ],
         "x": 1404,
         "y": 619
+    },
+    {
+        "id": "9ff47da5fe193161",
+        "type": "group",
+        "z": "2e27dea6.c4c362",
+        "name": "Home",
+        "style": {
+            "label": true,
+            "fill": "#7f8faf",
+            "color": "#ffffff"
+        },
+        "nodes": [
+            "6f392c9d74adad83",
+            "268da99b59678500",
+            "17ea4ddd2cb2866d",
+            "248c3c3de68a0207",
+            "ada874700a4c8904",
+            "bcae200194f93c53",
+            "1439abca928096f8",
+            "4515e6f20738ca04",
+            "e7379d612cf68d97",
+            "38dcb788c3d27509",
+            "c43540e8a91e5ddb",
+            "156c69b5bed34273",
+            "d218b4369f6fb117",
+            "1b0e5228e9c1a599",
+            "c62c192347b4885f",
+            "1760235195cb5f4c",
+            "1bd1906b906446cb",
+            "e0da6f5132ed3813"
+        ],
+        "x": 4,
+        "y": 1989,
+        "w": 852,
+        "h": 282
     },
     {
         "id": "d25d405a.19cff",
@@ -17901,11 +17938,11 @@
         "width": 3,
         "height": 3,
         "name": "",
-        "label": "Frec actual (spm): ",
+        "label": "Vel Actual(spm): ",
         "format": "<font size=7px> {{msg.payload}}",
         "layout": "col-center",
         "className": "",
-        "x": 650,
+        "x": 640,
         "y": 1450,
         "wires": []
     },
@@ -19788,7 +19825,7 @@
         "z": "902fc438.e5d758",
         "g": "b2fff3b09f0ae95c",
         "name": "Trend",
-        "func": "var time = msg.payload;\n\nvar Speed = global.get(\"C2S.Implicit.spmActual\", \"memoryOnly\") || 0;\nvar data = context.get(\"data\", \"memoryOnly\") || null;\nvar Corriente_Motor = flow.get(\"Current_Motor\", \"memoryOnly\");\n\ncontext.set(\"Corriente\", Corriente_Motor, \"memoryOnly\");\n\n\n\nif (data == null) {\n    data = {\n        'speed': [{ \"x\": time, \"y\": Speed }],\n        'Current': [{ \"x\": time, \"y\": Corriente_Motor }]\n    };\n}\nelse {\n    if (data.speed.length > 119) {\n        data.speed.shift();\n        data.Current.shift();\n    }\n    data.speed.push({ \"x\": time, \"y\": Speed });\n    data.Current.push({ \"x\": time, \"y\": Corriente_Motor });\n}\n\ncontext.set(\"data\", data, \"memoryOnly\");\n\nvar series = [];\n\n\nseries.push(\"Frec. Actual \" + Speed.toFixed(1) + \" (spm)\");\nseries.push(\"Corriente Actual \" + Corriente_Motor.toFixed(1) + \" (A)\");\n\nvar datan = [];\n\ndatan.push(data.speed);\ndatan.push(data.Current);\n\nvar chart = [{\n    \"series\": series,\n    \"data\": datan,\n    \"labels\": [\"\"]\n}];\n\nmsg.payload = chart;\n\nreturn msg;",
+        "func": "var time = msg.payload;\n\nvar Speed = global.get(\"C2S.Implicit.spmActual\", \"memoryOnly\") || 0;\nvar data = context.get(\"data\", \"memoryOnly\") || null;\nvar Corriente_Motor = flow.get(\"Current_Motor\", \"memoryOnly\");\n\ncontext.set(\"Corriente\", Corriente_Motor, \"memoryOnly\");\n\n\n\nif (data == null) {\n    data = {\n        'speed': [{ \"x\": time, \"y\": Speed }],\n        'Current': [{ \"x\": time, \"y\": Corriente_Motor }]\n    };\n}\nelse {\n    if (data.speed.length > 119) {\n        data.speed.shift();\n        data.Current.shift();\n    }\n    data.speed.push({ \"x\": time, \"y\": Speed });\n    data.Current.push({ \"x\": time, \"y\": Corriente_Motor });\n}\n\ncontext.set(\"data\", data, \"memoryOnly\");\n\nvar series = [];\n\n\nseries.push(\"Vel. Actual \" + Speed.toFixed(1) + \" (spm)\");\nseries.push(\"Corriente Actual \" + Corriente_Motor.toFixed(1) + \" (A)\");\n\nvar datan = [];\n\ndatan.push(data.speed);\ndatan.push(data.Current);\n\nvar chart = [{\n    \"series\": series,\n    \"data\": datan,\n    \"labels\": [\"\"]\n}];\n\nmsg.payload = chart;\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -49454,7 +49491,19 @@
             "777ffb34744decce",
             "4e0cb0bae7e629a2",
             "3cb555ec39e1b50a",
-            "10d0df396dc90c03"
+            "10d0df396dc90c03",
+            "1916c08011193bbe",
+            "53430c757a73bd7e",
+            "372e4d8a25273034",
+            "a53b2e37d82a19fa",
+            "96132f1ce0844369",
+            "b45a559ba55b3f77",
+            "bcae200194f93c53",
+            "4515e6f20738ca04",
+            "38dcb788c3d27509",
+            "c43540e8a91e5ddb",
+            "c62c192347b4885f",
+            "1bd1906b906446cb"
         ],
         "x": 655,
         "y": 80,
@@ -49502,7 +49551,9 @@
             "2f0ccd3aedeb8b83",
             "a7f401bea33a0d89",
             "12a3282355da9439",
-            "a1c5e02a9d683eb4"
+            "a1c5e02a9d683eb4",
+            "51568ccda80f32a2",
+            "248c3c3de68a0207"
         ],
         "x": 1115,
         "y": 80,
@@ -50679,200 +50730,6 @@
         "wires": [
             [
                 "5af605a801bc0c3d"
-            ]
-        ]
-    },
-    {
-        "id": "e765ca36.69fb98",
-        "type": "ui_template",
-        "z": "2e27dea6.c4c362",
-        "g": "82fde41a.c6f8d8",
-        "group": "764d8ce4.3c81b4",
-        "name": "menu home",
-        "order": 1,
-        "width": "12",
-        "height": 1,
-        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n\n</head>\n\n<body>\n    <!-- Navigation bar -->\n    <nav>\n        <div class=\"nav nav-pills nav-fill\" id=\"nav-tab\" role=\"tablist\">\n            <a class=\"nav-item nav-link active\" id=\"nav-ComandosC2S-tab\" data-toggle=\"tab\" href=\"#nav-ComandosC2S\"\n                role=\"tab\" aria-controls=\"nav-ComandosC2S\" aria-selected=\"false\"\n                ng-click=\"send({payload:ComandosC2S()})\">Comandos C2S</a>\n            <a class=\"nav-item nav-link\" id=\"nav-C2S-tab\" data-toggle=\"tab\" href=\"#nav-C2S\" role=\"tab\"\n                aria-controls=\"nav-C2S\" aria-selected=\"false\" ng-click=\"send({payload:C2S()})\">Datos C2S</a>\n            <a class=\"nav-item nav-link\" id=\"nav-electricos-tab\" data-toggle=\"tab\" href=\"#nav-electricos\" role=\"tab\"\n                aria-controls=\"nav-electricos\" aria-selected=\"false\" ng-click=\"send({payload:electricos()})\">Datos\n                eléctricos</a>\n            <a class=\"nav-item nav-link\" id=\"nav-fondo-tab\" data-toggle=\"tab\" href=\"#nav-fondo\" role=\"tab\"\n                aria-controls=\"nav-fondo\" aria-selected=\"true\" ng-click=\"send({payload:fondo()})\">Datos de proceso</a>\n        </div>\n    </nav>\n\n    <script>\n        this.scope.fondo = function() { return \"Fondo\"; };\n        this.scope.C2S = function() { return \"C2S\"; };\n        this.scope.electricos = function() { return \"Eléctricos\"; };\n        this.scope.ComandosC2S = function() { return \"ComandosC2S\"; };\n        this.scope.SDT = function() { return \"SDT\"; };\n    </script>\n\n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n\n</body>\n\n</html>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "x": 150,
-        "y": 280,
-        "wires": [
-            [
-                "876da3c9.83763"
-            ]
-        ]
-    },
-    {
-        "id": "876da3c9.83763",
-        "type": "switch",
-        "z": "2e27dea6.c4c362",
-        "g": "82fde41a.c6f8d8",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "Fondo",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "C2S",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Eléctricos",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "ComandosC2S",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 4,
-        "x": 330,
-        "y": 280,
-        "wires": [
-            [
-                "3d5528dc.de75d8"
-            ],
-            [
-                "56fab3e7.5f20dc"
-            ],
-            [
-                "14f401b1.71d24e"
-            ],
-            []
-        ]
-    },
-    {
-        "id": "14f401b1.71d24e",
-        "type": "change",
-        "z": "2e27dea6.c4c362",
-        "g": "82fde41a.c6f8d8",
-        "name": "Electricos",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"show\":[ \"Principal_Menu_Bar\",\t                \"Principal_Electric_Data\",\t                \"Principal_Status_Bar\"\t       ],\t       \"hide\":[ \"Principal_C2S_Data\",\t                \"Principal_Downhole_Data\",\t                \"Principal_Commando_Arranque_Normal\",\t                \"Principal_Commando_Arranque_Escalonado\",\t                \"Principal_Commando_Referencia_Prolongada\",\t                \"Principal_comandos_Marcha\",\t                \"Principal_Control_SDT\"\t       ]\t   }\t}",
-                "tot": "jsonata"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 490,
-        "y": 300,
-        "wires": [
-            [
-                "dc439b5.84bfd68"
-            ]
-        ]
-    },
-    {
-        "id": "dc439b5.84bfd68",
-        "type": "link out",
-        "z": "2e27dea6.c4c362",
-        "g": "82fde41a.c6f8d8",
-        "name": "",
-        "links": [
-            "8a17d991.081178"
-        ],
-        "x": 585,
-        "y": 300,
-        "wires": []
-    },
-    {
-        "id": "56fab3e7.5f20dc",
-        "type": "change",
-        "z": "2e27dea6.c4c362",
-        "g": "82fde41a.c6f8d8",
-        "name": "C2S",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"show\":[ \"Principal_Menu_Bar\",\t                \"Principal_C2S_Data\",\t                \"Principal_Status_Bar\"\t       ],\t       \"hide\":[ \"Principal_Electric_Data\",\t                \"Principal_Downhole_Data\",\t                \"Principal_Commando_Arranque_Normal\",\t                \"Principal_Commando_Arranque_Escalonado\",\t                \"Principal_Commando_Referencia_Prolongada\",\t                \"Principal_comandos_Marcha\",\t                \"Principal_Control_SDT\"\t       ]\t   }\t}",
-                "tot": "jsonata"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 480,
-        "y": 260,
-        "wires": [
-            [
-                "666152d6.dc641c"
-            ]
-        ]
-    },
-    {
-        "id": "666152d6.dc641c",
-        "type": "link out",
-        "z": "2e27dea6.c4c362",
-        "g": "82fde41a.c6f8d8",
-        "name": "",
-        "links": [
-            "8a17d991.081178"
-        ],
-        "x": 585,
-        "y": 260,
-        "wires": []
-    },
-    {
-        "id": "c83649c3.716488",
-        "type": "link out",
-        "z": "2e27dea6.c4c362",
-        "g": "82fde41a.c6f8d8",
-        "name": "",
-        "links": [
-            "8a17d991.081178"
-        ],
-        "x": 585,
-        "y": 220,
-        "wires": []
-    },
-    {
-        "id": "3d5528dc.de75d8",
-        "type": "change",
-        "z": "2e27dea6.c4c362",
-        "g": "82fde41a.c6f8d8",
-        "name": "Fondo",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"show\":[ \"Principal_Menu_Bar\",\t                \"Principal_Downhole_Data\",\t                \"Principal_Status_Bar\"\t       ],\t       \"hide\":[ \"Principal_C2S_Data\",\t                \"Principal_Electric_Data\",\t                \"Principal_Commando_Arranque_Normal\",\t                \"Principal_Commando_Arranque_Escalonado\",\t                \"Principal_Commando_Referencia_Prolongada\",\t                \"Principal_comandos_Marcha\",\t                \"Principal_Control_SDT\"\t       ]\t   }\t}",
-                "tot": "jsonata"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 480,
-        "y": 220,
-        "wires": [
-            [
-                "c83649c3.716488"
             ]
         ]
     },
@@ -87904,7 +87761,9 @@
         "name": "",
         "links": [
             "236c6c92.d31584",
-            "501b4196.e2e16"
+            "501b4196.e2e16",
+            "7cf7a9ddf6147345",
+            "e0da6f5132ed3813"
         ],
         "x": 2645,
         "y": 310,
@@ -100514,6 +100373,435 @@
         "wires": [
             [
                 "b3bff36608552e64"
+            ]
+        ]
+    },
+    {
+        "id": "6f392c9d74adad83",
+        "type": "ui_template",
+        "z": "2e27dea6.c4c362",
+        "g": "9ff47da5fe193161",
+        "group": "764d8ce4.3c81b4",
+        "name": "menu home",
+        "order": 1,
+        "width": "0",
+        "height": "0",
+        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n\n</head>\n\n<body>\n    <!-- Navigation bar -->\n    <nav>\n        <div class=\"nav nav-pills nav-fill\" id=\"nav-tab\" role=\"tablist\">\n            <a class=\"nav-item nav-link active\" id=\"nav-ComandosC2S-tab\" data-toggle=\"tab\" href=\"#nav-ComandosC2S\"\n                role=\"tab\" aria-controls=\"nav-ComandosC2S\" aria-selected=\"false\"\n                ng-click=\"send({payload:ComandosC2S()})\">Comandos C2S</a>\n            <a class=\"nav-item nav-link\" id=\"nav-C2S-tab\" data-toggle=\"tab\" href=\"#nav-C2S\" role=\"tab\"\n                aria-controls=\"nav-C2S\" aria-selected=\"false\" ng-click=\"send({payload:C2S()})\">Datos C2S</a>\n            <a class=\"nav-item nav-link\" id=\"nav-electricos-tab\" data-toggle=\"tab\" href=\"#nav-electricos\" role=\"tab\"\n                aria-controls=\"nav-electricos\" aria-selected=\"false\" ng-click=\"send({payload:electricos()})\">Datos\n                eléctricos</a>\n            <a class=\"nav-item nav-link\" id=\"nav-fondo-tab\" data-toggle=\"tab\" href=\"#nav-fondo\" role=\"tab\"\n                aria-controls=\"nav-fondo\" aria-selected=\"true\" ng-click=\"send({payload:fondo()})\">Datos de proceso</a>\n        </div>\n    </nav>\n\n    <script>\n        this.scope.fondo = function() { return \"Fondo\"; };\n        this.scope.C2S = function() { return \"C2S\"; };\n        this.scope.electricos = function() { return \"Eléctricos\"; };\n        this.scope.ComandosC2S = function() { return \"ComandosC2S\"; };\n    </script>\n\n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n\n</body>\n\n</html>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 130,
+        "y": 2080,
+        "wires": [
+            [
+                "268da99b59678500"
+            ]
+        ]
+    },
+    {
+        "id": "268da99b59678500",
+        "type": "switch",
+        "z": "2e27dea6.c4c362",
+        "g": "9ff47da5fe193161",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Fondo",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "C2S",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Eléctricos",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "ComandosC2S",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 4,
+        "x": 270,
+        "y": 2080,
+        "wires": [
+            [
+                "156c69b5bed34273"
+            ],
+            [
+                "e7379d612cf68d97"
+            ],
+            [
+                "1439abca928096f8"
+            ],
+            [
+                "d218b4369f6fb117"
+            ]
+        ]
+    },
+    {
+        "id": "17ea4ddd2cb2866d",
+        "type": "change",
+        "z": "2e27dea6.c4c362",
+        "g": "9ff47da5fe193161",
+        "name": "Ar. Normal",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\t   \"group\":{\t       \"show\":[ \"Principal_Menu_Bar\",\t                \"Principal_Commando_Arranque_Normal\",\t                \"Principal_comandos_Marcha\",\t                \"Principal_Status_Bar\"\t       ],\t       \"hide\":[ \"Principal_C2S_Data\",\t                \"Principal_Electric_Data\",\t                \"Principal_Downhole_Data\",\t                \"Principal_Commando_Arranque_Escalonado\",\t                \"Principal_Commando_Referencia_Prolongada\"\t       ]\t   }\t}",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 710,
+        "y": 2150,
+        "wires": [
+            [
+                "bcae200194f93c53"
+            ]
+        ]
+    },
+    {
+        "id": "248c3c3de68a0207",
+        "type": "link in",
+        "z": "2e27dea6.c4c362",
+        "g": "9ff47da5fe193161",
+        "name": "",
+        "links": [
+            "4372d5a0.d338dc"
+        ],
+        "x": 45,
+        "y": 2150,
+        "wires": [
+            [
+                "ada874700a4c8904"
+            ]
+        ]
+    },
+    {
+        "id": "ada874700a4c8904",
+        "type": "switch",
+        "z": "2e27dea6.c4c362",
+        "g": "9ff47da5fe193161",
+        "name": "home",
+        "property": "name",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Principal",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 130,
+        "y": 2150,
+        "wires": [
+            [
+                "d218b4369f6fb117"
+            ]
+        ]
+    },
+    {
+        "id": "bcae200194f93c53",
+        "type": "link out",
+        "z": "2e27dea6.c4c362",
+        "g": "9ff47da5fe193161",
+        "name": "",
+        "links": [
+            "8a17d991.081178"
+        ],
+        "x": 815,
+        "y": 2150,
+        "wires": []
+    },
+    {
+        "id": "1439abca928096f8",
+        "type": "change",
+        "z": "2e27dea6.c4c362",
+        "g": "9ff47da5fe193161",
+        "name": "Electricos",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\t   \"group\":{\t       \"show\":[ \"Principal_Menu_Bar\",\t                \"Principal_Electric_Data\",\t                \"Principal_Status_Bar\"\t       ],\t       \"hide\":[ \"Principal_C2S_Data\",\t                \"Principal_Downhole_Data\",\t                \"Principal_Commando_Arranque_Normal\",\t                \"Principal_Commando_Arranque_Escalonado\",\t                \"Principal_Commando_Referencia_Prolongada\",\t                \"Principal_comandos_Marcha\"\t       ]\t   }\t}",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 700,
+        "y": 2110,
+        "wires": [
+            [
+                "4515e6f20738ca04"
+            ]
+        ]
+    },
+    {
+        "id": "4515e6f20738ca04",
+        "type": "link out",
+        "z": "2e27dea6.c4c362",
+        "g": "9ff47da5fe193161",
+        "name": "",
+        "links": [
+            "8a17d991.081178"
+        ],
+        "x": 815,
+        "y": 2110,
+        "wires": []
+    },
+    {
+        "id": "e7379d612cf68d97",
+        "type": "change",
+        "z": "2e27dea6.c4c362",
+        "g": "9ff47da5fe193161",
+        "name": "C2S",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\t   \"group\":{\t       \"show\":[ \"Principal_Menu_Bar\",\t                \"Principal_C2S_Data\",\t                \"Principal_Status_Bar\"\t       ],\t       \"hide\":[ \"Principal_Electric_Data\",\t                \"Principal_Downhole_Data\",\t                \"Principal_Commando_Arranque_Normal\",\t                \"Principal_Commando_Arranque_Escalonado\",\t                \"Principal_Commando_Referencia_Prolongada\",\t                \"Principal_comandos_Marcha\"\t       ]\t   }\t}",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 690,
+        "y": 2070,
+        "wires": [
+            [
+                "38dcb788c3d27509"
+            ]
+        ]
+    },
+    {
+        "id": "38dcb788c3d27509",
+        "type": "link out",
+        "z": "2e27dea6.c4c362",
+        "g": "9ff47da5fe193161",
+        "name": "",
+        "links": [
+            "8a17d991.081178"
+        ],
+        "x": 815,
+        "y": 2070,
+        "wires": []
+    },
+    {
+        "id": "c43540e8a91e5ddb",
+        "type": "link out",
+        "z": "2e27dea6.c4c362",
+        "g": "9ff47da5fe193161",
+        "name": "",
+        "links": [
+            "8a17d991.081178"
+        ],
+        "x": 815,
+        "y": 2030,
+        "wires": []
+    },
+    {
+        "id": "156c69b5bed34273",
+        "type": "change",
+        "z": "2e27dea6.c4c362",
+        "g": "9ff47da5fe193161",
+        "name": "Fondo",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\t   \"group\":{\t       \"show\":[ \"Principal_Menu_Bar\",\t                \"Principal_Downhole_Data\",\t                \"Principal_Status_Bar\"\t       ],\t       \"hide\":[ \"Principal_C2S_Data\",\t                \"Principal_Electric_Data\",\t                \"Principal_Commando_Arranque_Normal\",\t                \"Principal_Commando_Arranque_Escalonado\",\t                \"Principal_Commando_Referencia_Prolongada\",\t                \"Principal_comandos_Marcha\"\t       ]\t   }\t}",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 700,
+        "y": 2030,
+        "wires": [
+            [
+                "c43540e8a91e5ddb"
+            ]
+        ]
+    },
+    {
+        "id": "d218b4369f6fb117",
+        "type": "switch",
+        "z": "2e27dea6.c4c362",
+        "g": "9ff47da5fe193161",
+        "name": "tipodearranque",
+        "property": "#:(memoryOnly)::Input.Navigation.ComandOper",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "else"
+            },
+            {
+                "t": "eq",
+                "v": "2",
+                "vt": "num"
+            },
+            {
+                "t": "eq",
+                "v": "3",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 3,
+        "x": 430,
+        "y": 2150,
+        "wires": [
+            [
+                "17ea4ddd2cb2866d"
+            ],
+            [
+                "1b0e5228e9c1a599"
+            ],
+            [
+                "1760235195cb5f4c"
+            ]
+        ]
+    },
+    {
+        "id": "1b0e5228e9c1a599",
+        "type": "change",
+        "z": "2e27dea6.c4c362",
+        "d": true,
+        "g": "9ff47da5fe193161",
+        "name": "Ar. Escalon",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\t   \"group\":{\t       \"show\":[ \"Principal_Menu_Bar\",\t                \"Principal_Commando_Arranque_Escalonado\",\t                \"Principal_comandos_Marcha\",\t                \"Principal_Status_Bar\"\t       ],\t       \"hide\":[ \"Principal_C2S_Data\",\t                \"Principal_Electric_Data\",\t                \"Principal_Downhole_Data\",\t                \"Principal_Commando_Arranque_Normal\",\t                \"Principal_Commando_Referencia_Prolongada\"\t       ]\t   }\t}",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 710,
+        "y": 2190,
+        "wires": [
+            [
+                "c62c192347b4885f"
+            ]
+        ]
+    },
+    {
+        "id": "c62c192347b4885f",
+        "type": "link out",
+        "z": "2e27dea6.c4c362",
+        "d": true,
+        "g": "9ff47da5fe193161",
+        "name": "",
+        "links": [
+            "8a17d991.081178"
+        ],
+        "x": 815,
+        "y": 2190,
+        "wires": []
+    },
+    {
+        "id": "1760235195cb5f4c",
+        "type": "change",
+        "z": "2e27dea6.c4c362",
+        "d": true,
+        "g": "9ff47da5fe193161",
+        "name": "Ref. Prolong",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\t   \"group\":{\t       \"show\":[ \"Principal_Menu_Bar\",\t                \"Principal_Commando_Referencia_Prolongada\",\t                \"Principal_comandos_Marcha\",\t                \"Principal_Status_Bar\"\t       ],\t       \"hide\":[ \"Principal_C2S_Data\",\t                \"Principal_Electric_Data\",\t                \"Principal_Downhole_Data\",\t                \"Principal_Commando_Arranque_Normal\",\t                \"Principal_Commando_Arranque_Escalonado\"\t       ]\t   }\t}",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 710,
+        "y": 2230,
+        "wires": [
+            [
+                "1bd1906b906446cb"
+            ]
+        ]
+    },
+    {
+        "id": "1bd1906b906446cb",
+        "type": "link out",
+        "z": "2e27dea6.c4c362",
+        "d": true,
+        "g": "9ff47da5fe193161",
+        "name": "",
+        "links": [
+            "8a17d991.081178"
+        ],
+        "x": 815,
+        "y": 2230,
+        "wires": []
+    },
+    {
+        "id": "e0da6f5132ed3813",
+        "type": "link in",
+        "z": "2e27dea6.c4c362",
+        "g": "9ff47da5fe193161",
+        "name": "arranque change",
+        "links": [
+            "35ccf461.2cb12c",
+            "6462ec7c.9e9864",
+            "38a73d64.5af212",
+            "984b7042.907f4",
+            "f796f5cc.fb7898",
+            "4a3a2387d414149a",
+            "c27cb084a6f62baf"
+        ],
+        "x": 225,
+        "y": 2170,
+        "wires": [
+            [
+                "d218b4369f6fb117"
             ]
         ]
     }
