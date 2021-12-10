@@ -1350,7 +1350,9 @@
             "0f2c231df155d32b"
         ],
         "x": 24,
-        "y": 609
+        "y": 609,
+        "w": 2632,
+        "h": 552
     },
     {
         "id": "3cb51855.a66038",
@@ -1365,7 +1367,9 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169
+        "y": 1169,
+        "w": 232,
+        "h": 82
     },
     {
         "id": "27a0641a.d154dc",
@@ -1544,7 +1548,9 @@
             "6b3d4586f5261369"
         ],
         "x": 24,
-        "y": 289
+        "y": 289,
+        "w": 2802,
+        "h": 279.5
     },
     {
         "id": "deaa6892.b3d988",
@@ -1560,7 +1566,9 @@
             "b1830307.ee865"
         ],
         "x": 8,
-        "y": 13
+        "y": 13,
+        "w": 1784,
+        "h": 254
     },
     {
         "id": "1dd5b051.a95e6",
@@ -1631,7 +1639,9 @@
             "70b2c288.8683bc"
         ],
         "x": 14,
-        "y": 589
+        "y": 589,
+        "w": 2012,
+        "h": 442
     },
     {
         "id": "f7ed166d.1aa528",
@@ -1701,7 +1711,9 @@
             "996a9142c814ab39"
         ],
         "x": 24,
-        "y": 429
+        "y": 429,
+        "w": 712,
+        "h": 242
     },
     {
         "id": "6abd418f.d175b",
@@ -1716,7 +1728,9 @@
             "b2f2659a.67f648"
         ],
         "x": 18,
-        "y": 23
+        "y": 23,
+        "w": 1754,
+        "h": 394
     },
     {
         "id": "8c207e440fb46f33",
@@ -1732,7 +1746,9 @@
             "9f77b0d829ad914b"
         ],
         "x": 514,
-        "y": 769
+        "y": 769,
+        "w": 282,
+        "h": 82
     },
     {
         "id": "38940f8.c9c27f",
@@ -2349,7 +2365,9 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269
+        "y": 1269,
+        "w": 352,
+        "h": 82
     },
     {
         "id": "6202107f.ed9aa",
@@ -2422,7 +2440,9 @@
             "8e77c9d647a0565f"
         ],
         "x": 44,
-        "y": -21
+        "y": -21,
+        "w": 1992,
+        "h": 622
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -2456,7 +2476,9 @@
             "17c1f84a5b3ad8ad"
         ],
         "x": 3224,
-        "y": 19
+        "y": 19,
+        "w": 1284,
+        "h": 1708
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -2477,7 +2499,9 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169
+        "y": 1169,
+        "w": 782,
+        "h": 182
     },
     {
         "id": "086b9d08c3b68939",
@@ -2505,13 +2529,14 @@
             "0de54509db195c49",
             "cea28aee3bae5a4e",
             "43dcdfeaddbb3ac6",
-            "5bd4c7b34ec6fe9c",
             "99f9105506b7eaa8",
             "9661d016b799c47d",
             "9d8018f614d8e077"
         ],
         "x": 24,
-        "y": 1359
+        "y": 1359,
+        "w": 1022,
+        "h": 292
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -2537,7 +2562,9 @@
             "6e75b5f5657d3a7e"
         ],
         "x": 24,
-        "y": 1679
+        "y": 1679,
+        "w": 1132,
+        "h": 202
     },
     {
         "id": "afdbbb533d628687",
@@ -2553,7 +2580,9 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679
+        "y": 1679,
+        "w": 332,
+        "h": 82
     },
     {
         "id": "ba075c8cc622876a",
@@ -2657,7 +2686,9 @@
             "b88575ca75fdb4f5"
         ],
         "x": 754,
-        "y": 429
+        "y": 429,
+        "w": 922,
+        "h": 82
     },
     {
         "id": "d175fb986dc9e991",
@@ -2677,7 +2708,9 @@
             "36c70d85dac8cd26"
         ],
         "x": 754,
-        "y": 519
+        "y": 519,
+        "w": 922,
+        "h": 82
     },
     {
         "id": "62fac95632266b01",
@@ -4123,7 +4156,9 @@
             "d3fc647f21f7d8eb"
         ],
         "x": 254,
-        "y": 1939
+        "y": 1939,
+        "w": 532,
+        "h": 142
     },
     {
         "id": "5519b13db7a1857a",
@@ -4512,7 +4547,9 @@
             "14a4402df6867bdb"
         ],
         "x": 950,
-        "y": 39
+        "y": 39,
+        "w": 816,
+        "h": 202
     },
     {
         "id": "f3c2e7cf.5ed158",
@@ -4623,7 +4660,9 @@
             "c30439cc.4bcb68"
         ],
         "x": 44,
-        "y": 49
+        "y": 49,
+        "w": 1422,
+        "h": 212
     },
     {
         "id": "b2f2659a.67f648",
@@ -4651,7 +4690,9 @@
             "de16ee9e71fc7646"
         ],
         "x": 44,
-        "y": 269
+        "y": 269,
+        "w": 1702,
+        "h": 122
     },
     {
         "id": "70a63b74.44894c",
@@ -4930,7 +4971,9 @@
             "1a666ca6835d2d34"
         ],
         "x": 74,
-        "y": 399
+        "y": 399,
+        "w": 852,
+        "h": 132
     },
     {
         "id": "cf985e84.c7693",
@@ -5693,7 +5736,9 @@
             "62b716baf0dcbdaa"
         ],
         "x": 34,
-        "y": 39
+        "y": 39,
+        "w": 908,
+        "h": 202
     },
     {
         "id": "0da80a43af717368",
@@ -5892,7 +5937,9 @@
             "26836fe8d310f685"
         ],
         "x": 3428,
-        "y": 413
+        "y": 413,
+        "w": 1054,
+        "h": 758
     },
     {
         "id": "7bc9759a9a7ea0be",
@@ -5948,7 +5995,9 @@
             "09240a88f66b7c6f"
         ],
         "x": 3434,
-        "y": 1179
+        "y": 1179,
+        "w": 992,
+        "h": 522
     },
     {
         "id": "dad84feb.d4773",
@@ -7500,7 +7549,9 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 439
+        "y": 439,
+        "w": 402,
+        "h": 362
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -7528,7 +7579,9 @@
             "1f3630da2492d4f9"
         ],
         "x": 3454,
-        "y": 809
+        "y": 809,
+        "w": 1002,
+        "h": 212
     },
     {
         "id": "b6e70888e2a92a81",
@@ -7595,7 +7648,6 @@
             "f3543cc50f28a6d5",
             "43a7fe4169e0b657"
         ],
-        "env": [],
         "x": 2394,
         "y": 1179,
         "w": 572,
@@ -9670,156 +9722,6 @@
         "height": "7"
     },
     {
-        "id": "fcbe0616ed881378",
-        "type": "ui_spacer",
-        "z": "902fc438.e5d758",
-        "name": "spacer",
-        "group": "2d559537.720c4a",
-        "order": 11,
-        "width": 3,
-        "height": 1
-    },
-    {
-        "id": "7708659b29753826",
-        "type": "ui_spacer",
-        "z": "902fc438.e5d758",
-        "name": "spacer",
-        "group": "f7aa27b.6c2ded8",
-        "order": 7,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "65f026ea9c18d8b4",
-        "type": "ui_spacer",
-        "z": "902fc438.e5d758",
-        "name": "spacer",
-        "group": "f7aa27b.6c2ded8",
-        "order": 9,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "1b7ee0e130f72785",
-        "type": "ui_spacer",
-        "z": "902fc438.e5d758",
-        "name": "spacer",
-        "group": "1b027e16.1fc232",
-        "order": 1,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "5b3c5f5e6e5e5bc9",
-        "type": "ui_spacer",
-        "z": "902fc438.e5d758",
-        "name": "spacer",
-        "group": "1b027e16.1fc232",
-        "order": 6,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "485d88c2ae57c007",
-        "type": "ui_spacer",
-        "z": "902fc438.e5d758",
-        "name": "spacer",
-        "group": "1b027e16.1fc232",
-        "order": 11,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "ac7516c176a4df1c",
-        "type": "ui_spacer",
-        "z": "902fc438.e5d758",
-        "name": "spacer",
-        "group": "1b027e16.1fc232",
-        "order": 16,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "c5380a5b87851d4e",
-        "type": "ui_spacer",
-        "z": "902fc438.e5d758",
-        "name": "spacer",
-        "group": "1b027e16.1fc232",
-        "order": 17,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "628a5f8b808a4366",
-        "type": "ui_spacer",
-        "z": "902fc438.e5d758",
-        "name": "spacer",
-        "group": "26126cf5.7e87a4",
-        "order": 6,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "862bdd0600dac360",
-        "type": "ui_spacer",
-        "z": "902fc438.e5d758",
-        "name": "spacer",
-        "group": "26126cf5.7e87a4",
-        "order": 11,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "f3380b9c73fb92f5",
-        "type": "ui_spacer",
-        "z": "902fc438.e5d758",
-        "name": "spacer",
-        "group": "26126cf5.7e87a4",
-        "order": 12,
-        "width": 3,
-        "height": 1
-    },
-    {
-        "id": "9dda549235885d2c",
-        "type": "ui_spacer",
-        "z": "902fc438.e5d758",
-        "name": "spacer",
-        "group": "26126cf5.7e87a4",
-        "order": 16,
-        "width": 3,
-        "height": 1
-    },
-    {
-        "id": "e1b54f207e12ef04",
-        "type": "ui_spacer",
-        "z": "902fc438.e5d758",
-        "name": "spacer",
-        "group": "ce90620a3fb9807d",
-        "order": 5,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "efe597a4d52d696e",
-        "type": "ui_spacer",
-        "z": "902fc438.e5d758",
-        "name": "spacer",
-        "group": "26126cf5.7e87a4",
-        "order": 17,
-        "width": "12",
-        "height": "2"
-    },
-    {
-        "id": "d6ae5df21df5aaad",
-        "type": "ui_spacer",
-        "z": "902fc438.e5d758",
-        "name": "spacer",
-        "group": "ce90620a3fb9807d",
-        "order": 13,
-        "width": "12",
-        "height": "3"
-    },
-    {
         "id": "eaaf9335af6834e9",
         "type": "ui_spacer",
         "z": "902fc438.e5d758",
@@ -10820,6 +10722,166 @@
         "height": 1
     },
     {
+        "id": "062a318632513a2a",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "e5ec1549.1923c8",
+        "order": 8,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "82710b56509398c1",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "e5ec1549.1923c8",
+        "order": 11,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "08d4c7280d3b46b2",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "e5ec1549.1923c8",
+        "order": 12,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "084810767f8b940f",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "2d559537.720c4a",
+        "order": 11,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "a30143f94a2941a3",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "f7aa27b.6c2ded8",
+        "order": 7,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "88301a1419e13549",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "f7aa27b.6c2ded8",
+        "order": 9,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "43131d4f85470656",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "1b027e16.1fc232",
+        "order": 5,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "fa6d2b105b144cc4",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "1b027e16.1fc232",
+        "order": 6,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "d01b7e265395e128",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "1b027e16.1fc232",
+        "order": 12,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "deaff6781ca8bae7",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "1b027e16.1fc232",
+        "order": 13,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "a5a2d617a12691ab",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "26126cf5.7e87a4",
+        "order": 5,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "5c888ebab2c516cb",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "26126cf5.7e87a4",
+        "order": 10,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "624ab2e93730c03b",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "26126cf5.7e87a4",
+        "order": 11,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "9779d9c2b9a01538",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "26126cf5.7e87a4",
+        "order": 15,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "a04a64955f970f14",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "ce90620a3fb9807d",
+        "order": 5,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "1a6471453b1dc3ac",
+        "type": "ui_spacer",
+        "z": "902fc438.e5d758",
+        "name": "spacer",
+        "group": "4f5b8416.cada1c",
+        "order": 9,
+        "width": 9,
+        "height": 1
+    },
+    {
         "id": "8c24ec8f.cf43c",
         "type": "exec",
         "z": "1ae6c379.02ea3d",
@@ -11774,7 +11836,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1090,
         "y": 110,
         "wires": [
@@ -11826,7 +11887,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 1640,
         "y": 190,
         "wires": [
@@ -12043,7 +12103,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1710,
         "y": 230,
         "wires": [
@@ -13112,7 +13171,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1090,
         "y": 110,
         "wires": [
@@ -13164,7 +13222,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 1640,
         "y": 190,
         "wires": [
@@ -13380,7 +13437,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1710,
         "y": 230,
         "wires": [
@@ -13864,7 +13920,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1090,
         "y": 110,
         "wires": [
@@ -13915,7 +13970,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1640,
         "y": 190,
         "wires": [
@@ -14130,7 +14184,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1710,
         "y": 230,
         "wires": [
@@ -14485,7 +14538,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 268,
         "y": 104,
         "wires": [
@@ -14865,7 +14917,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1090,
         "y": 110,
         "wires": [
@@ -14917,7 +14968,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 1640,
         "y": 190,
         "wires": [
@@ -15134,7 +15184,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1710,
         "y": 230,
         "wires": [
@@ -15318,7 +15367,7 @@
         "g": "086b9d08c3b68939",
         "order": 1,
         "group": "4f5b8416.cada1c",
-        "width": "3",
+        "width": 3,
         "height": 1,
         "label": "C2S: {{msg.payload}}",
         "labelPlacement": "right",
@@ -15572,7 +15621,7 @@
         "d": true,
         "g": "7bc9759a9a7ea0be",
         "group": "26126cf5.7e87a4",
-        "order": 15,
+        "order": 14,
         "width": 3,
         "height": 2,
         "name": "",
@@ -16033,7 +16082,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1500,
         "y": 700,
         "wires": [
@@ -16058,7 +16106,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1500,
         "y": 740,
         "wires": [
@@ -16664,7 +16711,6 @@
         "wires": [
             [
                 "9523c57c.c9b468",
-                "5bd4c7b34ec6fe9c",
                 "99f9105506b7eaa8"
             ]
         ]
@@ -17154,7 +17200,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 1190,
         "y": 160,
         "wires": [
@@ -17265,7 +17310,7 @@
         "g": "6202107f.ed9aa",
         "name": "",
         "group": "e5ec1549.1923c8",
-        "order": 8,
+        "order": 7,
         "width": 2,
         "height": 1,
         "passthru": false,
@@ -19634,7 +19679,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1240,
         "y": 1120,
         "wires": [
@@ -19813,7 +19857,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 560,
         "y": 490,
         "wires": [
@@ -19864,9 +19907,9 @@
         "g": "b2fff3b09f0ae95c",
         "name": "Tendencia principa",
         "group": "f7aa27b.6c2ded8",
-        "order": 12,
+        "order": 10,
         "width": 12,
-        "height": "5",
+        "height": 5,
         "label": "",
         "chartType": "line",
         "legend": "true",
@@ -20014,24 +20057,6 @@
         "wires": []
     },
     {
-        "id": "5bd4c7b34ec6fe9c",
-        "type": "ui_text",
-        "z": "902fc438.e5d758",
-        "g": "086b9d08c3b68939",
-        "group": "1b027e16.1fc232",
-        "order": 15,
-        "width": 3,
-        "height": 2,
-        "name": "",
-        "label": "hzMotor",
-        "format": "<font size =6px>{{msg.payload}}",
-        "layout": "col-center",
-        "className": "",
-        "x": 740,
-        "y": 1500,
-        "wires": []
-    },
-    {
         "id": "b269ff5b6732d608",
         "type": "link in",
         "z": "902fc438.e5d758",
@@ -20095,7 +20120,7 @@
         "z": "902fc438.e5d758",
         "g": "986845c5f7bf4a6e",
         "group": "1b027e16.1fc232",
-        "order": 14,
+        "order": 9,
         "width": 3,
         "height": 2,
         "name": "Factor de potencia",
@@ -20138,7 +20163,7 @@
         "z": "902fc438.e5d758",
         "g": "986845c5f7bf4a6e",
         "group": "1b027e16.1fc232",
-        "order": 13,
+        "order": 8,
         "width": 3,
         "height": 2,
         "name": "Corriente de salida",
@@ -20181,7 +20206,7 @@
         "z": "902fc438.e5d758",
         "g": "986845c5f7bf4a6e",
         "group": "1b027e16.1fc232",
-        "order": 4,
+        "order": 16,
         "width": 3,
         "height": 2,
         "name": "Bus DC",
@@ -20224,11 +20249,11 @@
         "z": "902fc438.e5d758",
         "g": "986845c5f7bf4a6e",
         "group": "1b027e16.1fc232",
-        "order": 5,
+        "order": 4,
         "width": 3,
         "height": 2,
-        "name": "Voltaje de Motor",
-        "label": "Voltaje de Motor",
+        "name": "Carga",
+        "label": "Carga",
         "colorHi": "#e60000",
         "colorWarn": "#ff9900",
         "colorNormal": "#00b33c",
@@ -20237,7 +20262,7 @@
         "max": "60",
         "segWarn": "",
         "segHigh": "",
-        "unit": "VAC",
+        "unit": "klb",
         "layout": "sv",
         "channelA": "",
         "channelB": "",
@@ -20257,7 +20282,7 @@
         "peakmode": false,
         "property": "payload",
         "peaktime": 3000,
-        "x": 3760,
+        "x": 3730,
         "y": 180,
         "wires": []
     },
@@ -20267,7 +20292,7 @@
         "z": "902fc438.e5d758",
         "g": "986845c5f7bf4a6e",
         "group": "1b027e16.1fc232",
-        "order": 9,
+        "order": 15,
         "width": 3,
         "height": 2,
         "name": "Potencia",
@@ -20310,7 +20335,7 @@
         "z": "902fc438.e5d758",
         "g": "986845c5f7bf4a6e",
         "group": "1b027e16.1fc232",
-        "order": 8,
+        "order": 2,
         "width": 3,
         "height": 2,
         "name": "Voltaje de Salida",
@@ -20356,8 +20381,8 @@
         "order": 10,
         "width": 3,
         "height": 2,
-        "name": "Corriente de Motor",
-        "label": "Corriente de Motor",
+        "name": "Posicion",
+        "label": "Posicion",
         "colorHi": "#e60000",
         "colorWarn": "#ff9900",
         "colorNormal": "#00b33c",
@@ -20366,7 +20391,7 @@
         "max": "500",
         "segWarn": "",
         "segHigh": "",
-        "unit": "A",
+        "unit": "in",
         "layout": "sv",
         "channelA": "",
         "channelB": "",
@@ -20386,7 +20411,7 @@
         "peakmode": false,
         "property": "payload",
         "peaktime": 3000,
-        "x": 3770,
+        "x": 3740,
         "y": 300,
         "wires": []
     },
@@ -20397,9 +20422,9 @@
         "d": true,
         "g": "986845c5f7bf4a6e",
         "group": "1b027e16.1fc232",
-        "order": 18,
-        "width": 4,
-        "height": 2,
+        "order": 11,
+        "width": 12,
+        "height": 1,
         "name": "",
         "label": "Porcentaje Velocidad",
         "format": "<font size =6px>{{msg.payload}}",
@@ -20414,7 +20439,7 @@
         "z": "902fc438.e5d758",
         "g": "986845c5f7bf4a6e",
         "group": "1b027e16.1fc232",
-        "order": 2,
+        "order": 1,
         "width": 3,
         "height": 2,
         "name": "Voltaje de Entrada",
@@ -20500,7 +20525,7 @@
         "z": "902fc438.e5d758",
         "g": "986845c5f7bf4a6e",
         "group": "1b027e16.1fc232",
-        "order": 12,
+        "order": 14,
         "width": 3,
         "height": 2,
         "name": "Potencia de Entrada",
@@ -21055,7 +21080,7 @@
         "z": "902fc438.e5d758",
         "g": "7bc9759a9a7ea0be",
         "group": "26126cf5.7e87a4",
-        "order": 2,
+        "order": 1,
         "width": 3,
         "height": 2,
         "name": "Presión de entrada",
@@ -21098,7 +21123,7 @@
         "z": "902fc438.e5d758",
         "g": "7bc9759a9a7ea0be",
         "group": "26126cf5.7e87a4",
-        "order": 3,
+        "order": 2,
         "width": 3,
         "height": 2,
         "name": "Presión de descarga",
@@ -21141,7 +21166,7 @@
         "z": "902fc438.e5d758",
         "g": "7bc9759a9a7ea0be",
         "group": "26126cf5.7e87a4",
-        "order": 5,
+        "order": 4,
         "width": 3,
         "height": 2,
         "name": "Temperatura de descarga",
@@ -21184,7 +21209,7 @@
         "z": "902fc438.e5d758",
         "g": "7bc9759a9a7ea0be",
         "group": "26126cf5.7e87a4",
-        "order": 4,
+        "order": 3,
         "width": 3,
         "height": 2,
         "name": "Temperatura de entrada",
@@ -21227,7 +21252,7 @@
         "z": "902fc438.e5d758",
         "g": "7bc9759a9a7ea0be",
         "group": "26126cf5.7e87a4",
-        "order": 7,
+        "order": 6,
         "width": 3,
         "height": 2,
         "name": "Temperatura de motor",
@@ -21270,7 +21295,7 @@
         "z": "902fc438.e5d758",
         "g": "7bc9759a9a7ea0be",
         "group": "26126cf5.7e87a4",
-        "order": 8,
+        "order": 7,
         "width": 3,
         "height": 2,
         "name": "Vibración en X",
@@ -21313,7 +21338,7 @@
         "z": "902fc438.e5d758",
         "g": "7bc9759a9a7ea0be",
         "group": "26126cf5.7e87a4",
-        "order": 9,
+        "order": 8,
         "width": 3,
         "height": 2,
         "name": "Vibración en Z",
@@ -21356,7 +21381,7 @@
         "z": "902fc438.e5d758",
         "g": "7bc9759a9a7ea0be",
         "group": "26126cf5.7e87a4",
-        "order": 10,
+        "order": 9,
         "width": 3,
         "height": 2,
         "name": "Corriente de fuga",
@@ -21399,7 +21424,7 @@
         "z": "902fc438.e5d758",
         "g": "7bc9759a9a7ea0be",
         "group": "26126cf5.7e87a4",
-        "order": 14,
+        "order": 13,
         "width": 3,
         "height": 2,
         "name": "Presión THP",
@@ -21442,7 +21467,7 @@
         "z": "902fc438.e5d758",
         "g": "7bc9759a9a7ea0be",
         "group": "26126cf5.7e87a4",
-        "order": 13,
+        "order": 12,
         "width": 3,
         "height": 2,
         "name": "Temperatura THT",
@@ -22447,7 +22472,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 1060,
         "y": 80,
         "wires": [
@@ -22696,7 +22720,7 @@
         "z": "dd18d94e.4b1408",
         "g": "b2f2659a.67f648",
         "name": "Interpretar comunicación",
-        "func": "var Uint16 = new Uint16Array(40);\n\nUint16[0] = msg.payload.Logic_Status_1; Uint16[1] = msg.payload.Logic_Status_2;\nUint16[2] = msg.payload.Output_Frequency_1; Uint16[3] = msg.payload.Output_Frequency_2;\nUint16[4] = msg.payload.Commanded_SpdRef_1; Uint16[5] = msg.payload.Commanded_SpdRef_2;\nUint16[6] = msg.payload.Mtr_Vel_Fdbk_1; Uint16[7] = msg.payload.Mtr_Vel_Fdbk_2;\nUint16[8] = msg.payload.Output_Current_1; Uint16[9] = msg.payload.Output_Current_2;\nUint16[10] = msg.payload.Output_Voltage_1; Uint16[11] = msg.payload.Output_Voltage_2;\nUint16[12] = msg.payload.Output_Power_1; Uint16[13] = msg.payload.Output_Power_2;\nUint16[14] = msg.payload.Output_Powr_Fctr_1; Uint16[15] = msg.payload.Output_Powr_Fctr_2;\nUint16[16] = msg.payload.DC_Bus_Volts_1; Uint16[17] = msg.payload.DC_Bus_Volts_2;\nUint16[18] = msg.payload.Elapsed_Run_Time_1; Uint16[19] = msg.payload.Elapsed_Run_Time_2;\nUint16[20] = msg.payload.Elpsd_Mtr_kWHrs_1; Uint16[21] = msg.payload.Elpsd_Mtr_kWHrs_2;\nUint16[22] = msg.payload.IGBT_Temp_C_1; Uint16[23] = msg.payload.IGBT_Temp_C_2;\nUint16[24] = msg.payload.Drive_Temp_C_1; Uint16[25] = msg.payload.Drive_Temp_C_2;\nUint16[26] = msg.payload.Last_Fault_Code_1; Uint16[27] = msg.payload.Last_Fault_Code_2;\nUint16[28] = msg.payload.Digital_In_Sts_1; Uint16[29] = msg.payload.Digital_In_Sts_2;\nUint16[30] = msg.payload.Tunning_Select_1; Uint16[31] = msg.payload.Tunning_Select_2;\nUint16[32] = msg.payload.PMM_OL_Select_1; Uint16[33] = msg.payload.PMM_OL_Select_2;\nUint16[34] = msg.payload.Accel_Time_1; Uint16[35] = msg.payload.Accel_Time_2;\nUint16[36] = msg.payload.Decel_Time_1; Uint16[37] = msg.payload.Decel_Time_2;\nUint16[38] = msg.payload.Max_Fwd_Speed_1; Uint16[39] = msg.payload.Max_Fwd_Speed_2;\n\nvar Sts = [Uint16[0], Uint16[1]];\nvar Output_Frequency = [Uint16[2], Uint16[3]];\nvar Commanded_SpdRef = [Uint16[4], Uint16[5]];\nvar Mtr_Vel_Fdbk = [Uint16[6], Uint16[7]];\nvar Output_Current = [Uint16[8], Uint16[9]];\nvar Output_Voltage = [Uint16[10], Uint16[11]];\nvar Output_Power = [Uint16[12], Uint16[13]];\nvar Output_Powr_Fctr = [Uint16[14], Uint16[15]];\nvar DC_Bus_Volts = [Uint16[16], Uint16[17]];\nvar Elapsed_Run_Time = [Uint16[18], Uint16[19]];\nvar Elpsd_Mtr_kWHrs = [Uint16[20], Uint16[21]];\nvar IGBT_Temp_C = [Uint16[22], Uint16[23]];\nvar Drive_Temp_C = [Uint16[24], Uint16[25]];\nvar Last_Fault_Code = [Uint16[26], Uint16[27]];\nvar Digital_In_Sts = [1, 1];\nvar Tunning_Select = [Uint16[30], Uint16[31]];\nvar PMM_OL_Select = [Uint16[32], Uint16[33]];\nvar Accel_Time = [Uint16[34], Uint16[35]];\nvar Decel_Time = [Uint16[36], Uint16[37]];\nvar Max_Fwd_Speed = [Uint16[38], Uint16[39]];\n\n\nCommanded_SpdRef = parseFloat(Int2Float32(array16to32(Commanded_SpdRef)).toFixed(3)),\n//arreglo para tomar la referencia del VSD preguntar como se hace de mejor forma;\ncontext.set(\"Commanded_SpdRef\", Commanded_SpdRef, \"memoryOnly\");\ncontext.set(\"Output_Frequency\", parseFloat(Int2Float32(array16to32(Output_Frequency)).toFixed(3)), \"memoryOnly\");\nvar commandSpeedReference = context.get(\"Commanded_SpdRef\", \"memoryOnly\") || 0;\nvar Output_FrequencyActual = context.get(\"Output_Frequency\", \"memoryOnly\") || 0;\n\nvar PoleaGrande = global.get(\"C2S.Motor_Control.Nameplate.PoleaGrande\") || 0;\nvar PoleaPequena = global.get(\"C2S.Motor_Control.Nameplate.PoleaPequena\") || 0;\nvar RGB = global.get(\"C2S.Motor_Control.Nameplate.RGB\") || 0;\nvar RPM = global.get(\"C2S.Motor_Control.Nameplate.RPM\") || 0;\nvar HertzMotor = global.get(\"C2S.Motor_Control.Nameplate.Hertz\") || 0;\n\n\nif ((PoleaGrande != 0) && (RGB != 0) && (RPM != 0) && HertzMotor != 0) {\n    node.status({ fill: \"green\", shape: \"dot\", text: \"Configurado\" });\n    var relSRP1 = spm * PoleaGrande * RGB * HertzMotor;\n    var relSRP2 = RPM * PoleaPequena\n    if (relSRP2 != 0) {//ejecute si la relacion de SRP2 está correcta\n        var spm = (commandSpeedReference*RPM*PoleaPequena)/(PoleaGrande*RGB*HertzMotor);\n        var spmActual = (Output_FrequencyActual*RPM*PoleaPequena)/(PoleaGrande*RGB*HertzMotor);\n        // context.set(\"spm\", spm, \"memoryOnly\");\n        // context.set(\"spmActual\", spmActual, \"memoryOnly\");\n    }\n\n}else{\n    node.status({ fill: \"red\", shape: \"dot\", text: \"NoConfigurado\" });\n}\n\n// // condicion que valida que esten creadas todas las variables\n// if (Dc != 0 && Dm != 0 && rgb != 0 && nPolosMotor != 0) {\n//     // calculo de la ecuación\n//     var spm = (60 * commandSpeedReference) / (nPolosMotor * rgb) * (Dm / Dc);\n//     var spmActual = (60 * Output_FrequencyActual) / (nPolosMotor * rgb) * (Dm / Dc);\n//     node.status({ fill: \"green\", shape: \"dot\", text: \"Configurado\" });\n//     context.set(\"spm\", spm, \"memoryOnly\");\n//     context.set(\"spmActual\", spmActual, \"memoryOnly\");\n// } else {\n//     spm = 0;\n//     node.status({ fill: \"red\", shape: \"dot\", text: \"NoConfigurado\" });\n// }\n\nmsg.payload = {\n    'Status_Word': Sts[0],\n    'Output_Frequency': parseFloat(Int2Float32(array16to32(Output_Frequency))),\n    'Commanded_SpdRef': Commanded_SpdRef,\n    'Mtr_Vel_Fdbk': parseFloat(Int2Float32(array16to32(Mtr_Vel_Fdbk)).toFixed(3)),\n    'Output_Current': parseFloat(Int2Float32(array16to32(Output_Current)).toFixed(3)),\n    'Output_Voltage': parseFloat(Int2Float32(array16to32(Output_Voltage)).toFixed(3)),\n    'Output_Power': parseFloat(Int2Float32(array16to32(Output_Power)).toFixed(3)),\n    'Power_Factor': parseFloat(Int2Float32(array16to32(Output_Powr_Fctr)).toFixed(3)),\n    'Bus_DC_Volts': parseFloat(Int2Float32(array16to32(DC_Bus_Volts)).toFixed(3)),\n    'Elapsed_Run_Time': parseFloat(Int2Float32(array16to32(Elapsed_Run_Time)).toFixed(3)),\n    'Elpsd_Mtr_kWHrs': parseFloat(Int2Float32(array16to32(Elpsd_Mtr_kWHrs)).toFixed(3)),\n    'IGBT_Temp_C': parseFloat(Int2Float32(array16to32(IGBT_Temp_C)).toFixed(3)),\n    'Drive_Temp_C': parseFloat(Int2Float32(array16to32(Drive_Temp_C)).toFixed(3)),\n    'Last_Fault_Code': parseInt(array16to32(Last_Fault_Code)),\n    'Digital_In_Sts': parseInt(array16to32(Digital_In_Sts)),\n    'Tunning_Select': parseInt(array16to32(Tunning_Select)),\n    'PMM_OL_Select': parseInt(array16to32(PMM_OL_Select)),\n    'Accel_Time': parseFloat(Int2Float32(array16to32(Accel_Time)).toFixed(3)),\n    'Decel_Time': parseFloat(Int2Float32(array16to32(Decel_Time)).toFixed(3)),\n    'Max_Fwd_Speed': parseFloat(Int2Float32(array16to32(Max_Fwd_Speed)).toFixed(3)),\n    'spm': parseFloat(spm.toFixed(2)),\n    'spmActual': parseFloat(spmActual.toFixed(2))\n}\n\ncontext.set(\"Output_Frequency\", msg.payload.Output_Frequency, \"memoryOnly\");\nreturn msg;\n\n// Combinar dos arrays de 16 bits en uno 32 bits\nfunction array16to32(array) {\n    var intvalue = [];\n    for (var i = 0; i < array.length; i++) {\n        array[i] = array[i] << 16 * i;\n        // @ts-ignore\n        intvalue = intvalue | array[i];\n    }\n    return intvalue;\n}\n// IEC 754 to Float Function\nfunction Int2Float32(bytes) {\n    var sign = (bytes & 0x80000000) ? -1 : 1;\n    var exponent = ((bytes >> 23) & 0xFF) - 127;\n    var significand = (bytes & ~(-1 << 23));\n\n    if (exponent == 128)\n        return sign * ((significand) ? Number.NaN : Number.POSITIVE_INFINITY);\n\n    if (exponent == -127) {\n        if (significand === 0) return sign * 0.0;\n        exponent = -126;\n        significand /= (1 << 22);\n    } else significand = (significand | (1 << 23)) / (1 << 23);\n\n    return sign * significand * Math.pow(2, exponent);\n}\n// Créditos: https://flows.nodered.org/flow/359ead34237b7ab6ec0465ee85a34b62\n//Fuente: https://stackoverflow.com/questions/47164675/convert-float-to-32bit-hex-string-in-javascript\n",
+        "func": "var Uint16 = new Uint16Array(40);\n\nUint16[0] = msg.payload.Logic_Status_1; Uint16[1] = msg.payload.Logic_Status_2;\nUint16[2] = msg.payload.Output_Frequency_1; Uint16[3] = msg.payload.Output_Frequency_2;\nUint16[4] = msg.payload.Commanded_SpdRef_1; Uint16[5] = msg.payload.Commanded_SpdRef_2;\nUint16[6] = msg.payload.Mtr_Vel_Fdbk_1; Uint16[7] = msg.payload.Mtr_Vel_Fdbk_2;\nUint16[8] = msg.payload.Output_Current_1; Uint16[9] = msg.payload.Output_Current_2;\nUint16[10] = msg.payload.Output_Voltage_1; Uint16[11] = msg.payload.Output_Voltage_2;\nUint16[12] = msg.payload.Output_Power_1; Uint16[13] = msg.payload.Output_Power_2;\nUint16[14] = msg.payload.Output_Powr_Fctr_1; Uint16[15] = msg.payload.Output_Powr_Fctr_2;\nUint16[16] = msg.payload.DC_Bus_Volts_1; Uint16[17] = msg.payload.DC_Bus_Volts_2;\nUint16[18] = msg.payload.Elapsed_Run_Time_1; Uint16[19] = msg.payload.Elapsed_Run_Time_2;\nUint16[20] = msg.payload.Elpsd_Mtr_kWHrs_1; Uint16[21] = msg.payload.Elpsd_Mtr_kWHrs_2;\nUint16[22] = msg.payload.IGBT_Temp_C_1; Uint16[23] = msg.payload.IGBT_Temp_C_2;\nUint16[24] = msg.payload.Drive_Temp_C_1; Uint16[25] = msg.payload.Drive_Temp_C_2;\nUint16[26] = msg.payload.Last_Fault_Code_1; Uint16[27] = msg.payload.Last_Fault_Code_2;\nUint16[28] = msg.payload.Digital_In_Sts_1; Uint16[29] = msg.payload.Digital_In_Sts_2;\nUint16[30] = msg.payload.Tunning_Select_1; Uint16[31] = msg.payload.Tunning_Select_2;\nUint16[32] = msg.payload.PMM_OL_Select_1; Uint16[33] = msg.payload.PMM_OL_Select_2;\nUint16[34] = msg.payload.Accel_Time_1; Uint16[35] = msg.payload.Accel_Time_2;\nUint16[36] = msg.payload.Decel_Time_1; Uint16[37] = msg.payload.Decel_Time_2;\nUint16[38] = msg.payload.Max_Fwd_Speed_1; Uint16[39] = msg.payload.Max_Fwd_Speed_2;\n\nvar Sts = [Uint16[0], Uint16[1]];\nvar Output_Frequency = [Uint16[2], Uint16[3]];\ncontext.set(\"FrecuenciaSalida\", parseFloat(Int2Float32(array16to32(Output_Frequency)).toFixed(3)),\"memoryOnly\")\nvar Commanded_SpdRef = [Uint16[4], Uint16[5]];\nvar Mtr_Vel_Fdbk = [Uint16[6], Uint16[7]];\nvar Output_Current = [Uint16[8], Uint16[9]];\nvar Output_Voltage = [Uint16[10], Uint16[11]];\nvar Output_Power = [Uint16[12], Uint16[13]];\nvar Output_Powr_Fctr = [Uint16[14], Uint16[15]];\nvar DC_Bus_Volts = [Uint16[16], Uint16[17]];\nvar Elapsed_Run_Time = [Uint16[18], Uint16[19]];\nvar Elpsd_Mtr_kWHrs = [Uint16[20], Uint16[21]];\nvar IGBT_Temp_C = [Uint16[22], Uint16[23]];\nvar Drive_Temp_C = [Uint16[24], Uint16[25]];\nvar Last_Fault_Code = [Uint16[26], Uint16[27]];\nvar Digital_In_Sts = [1, 1];\nvar Tunning_Select = [Uint16[30], Uint16[31]];\nvar PMM_OL_Select = [Uint16[32], Uint16[33]];\nvar Accel_Time = [Uint16[34], Uint16[35]];\nvar Decel_Time = [Uint16[36], Uint16[37]];\nvar Max_Fwd_Speed = [Uint16[38], Uint16[39]];\n\n\nCommanded_SpdRef = parseFloat(Int2Float32(array16to32(Commanded_SpdRef)).toFixed(3)),\n//arreglo para tomar la referencia del VSD preguntar como se hace de mejor forma;\ncontext.set(\"Commanded_SpdRef\", Commanded_SpdRef, \"memoryOnly\");\ncontext.set(\"Output_Frequency\", parseFloat(Int2Float32(array16to32(Output_Frequency)).toFixed(3)), \"memoryOnly\");\nvar commandSpeedReference = context.get(\"Commanded_SpdRef\", \"memoryOnly\") || 0;\nvar Output_FrequencyActual = context.get(\"FrecuenciaSalida\", \"memoryOnly\") || 0;\n\nvar PoleaGrande = global.get(\"C2S.Motor_Control.Nameplate.PoleaGrande\") || 0;\nvar PoleaPequena = global.get(\"C2S.Motor_Control.Nameplate.PoleaPequena\") || 0;\nvar RGB = global.get(\"C2S.Motor_Control.Nameplate.RGB\") || 0;\nvar RPM = global.get(\"C2S.Motor_Control.Nameplate.RPM\") || 0;\nvar HertzMotor = global.get(\"C2S.Motor_Control.Nameplate.Hertz\") || 0;\n\n\nif ((PoleaGrande != 0) && (RGB != 0) && (RPM != 0) && HertzMotor != 0) {\n    node.status({ fill: \"green\", shape: \"dot\", text: \"Configurado\" });\n    var relSRP1 = spm * PoleaGrande * RGB * HertzMotor;\n    var relSRP2 = RPM * PoleaPequena\n    if (relSRP2 != 0) {//ejecute si la relacion de SRP2 está correcta\n        var spm = (commandSpeedReference*RPM*PoleaPequena)/(PoleaGrande*RGB*HertzMotor);\n        var spmActual = (Output_FrequencyActual*RPM*PoleaPequena)/(PoleaGrande*RGB*HertzMotor);\n        context.set(\"spm\",spm,\"memoryOnly\");\n        context.set(\"spmActual\", spmActual,\"memoryOnly\");\n        // context.set(\"spm\", spm, \"memoryOnly\");\n        // context.set(\"spmActual\", spmActual, \"memoryOnly\");\n    }\n\n}else{\n    node.status({ fill: \"red\", shape: \"dot\", text: \"NoConfigurado\" });\n}\n\n// // condicion que valida que esten creadas todas las variables\n// if (Dc != 0 && Dm != 0 && rgb != 0 && nPolosMotor != 0) {\n//     // calculo de la ecuación\n//     var spm = (60 * commandSpeedReference) / (nPolosMotor * rgb) * (Dm / Dc);\n//     var spmActual = (60 * Output_FrequencyActual) / (nPolosMotor * rgb) * (Dm / Dc);\n//     node.status({ fill: \"green\", shape: \"dot\", text: \"Configurado\" });\n//     context.set(\"spm\", spm, \"memoryOnly\");\n//     context.set(\"spmActual\", spmActual, \"memoryOnly\");\n// } else {\n//     spm = 0;\n//     node.status({ fill: \"red\", shape: \"dot\", text: \"NoConfigurado\" });\n// }\n\nmsg.payload = {\n    'Status_Word': Sts[0],\n    'Output_Frequency': context.get(\"FrecuenciaSalida\",\"memoryOnly\")||0,\n    'Commanded_SpdRef': Commanded_SpdRef,\n    'Mtr_Vel_Fdbk': parseFloat(Int2Float32(array16to32(Mtr_Vel_Fdbk)).toFixed(3)),\n    'Output_Current': parseFloat(Int2Float32(array16to32(Output_Current)).toFixed(3)),\n    'Output_Voltage': parseFloat(Int2Float32(array16to32(Output_Voltage)).toFixed(3)),\n    'Output_Power': parseFloat(Int2Float32(array16to32(Output_Power)).toFixed(3)),\n    'Power_Factor': parseFloat(Int2Float32(array16to32(Output_Powr_Fctr)).toFixed(3)),\n    'Bus_DC_Volts': parseFloat(Int2Float32(array16to32(DC_Bus_Volts)).toFixed(3)),\n    'Elapsed_Run_Time': parseFloat(Int2Float32(array16to32(Elapsed_Run_Time)).toFixed(3)),\n    'Elpsd_Mtr_kWHrs': parseFloat(Int2Float32(array16to32(Elpsd_Mtr_kWHrs)).toFixed(3)),\n    'IGBT_Temp_C': parseFloat(Int2Float32(array16to32(IGBT_Temp_C)).toFixed(3)),\n    'Drive_Temp_C': parseFloat(Int2Float32(array16to32(Drive_Temp_C)).toFixed(3)),\n    'Last_Fault_Code': parseInt(array16to32(Last_Fault_Code)),\n    'Digital_In_Sts': parseInt(array16to32(Digital_In_Sts)),\n    'Tunning_Select': parseInt(array16to32(Tunning_Select)),\n    'PMM_OL_Select': parseInt(array16to32(PMM_OL_Select)),\n    'Accel_Time': parseFloat(Int2Float32(array16to32(Accel_Time)).toFixed(3)),\n    'Decel_Time': parseFloat(Int2Float32(array16to32(Decel_Time)).toFixed(3)),\n    'Max_Fwd_Speed': parseFloat(Int2Float32(array16to32(Max_Fwd_Speed)).toFixed(3)),\n    'spm': parseFloat((context.get(\"spm\", \"memoryOnly\") || 0).toFixed(3)),\n    'spmActual': parseFloat((context.get(\"spmActual\", \"memoryOnly\") || 0).toFixed(3))\n}\n\ncontext.set(\"Output_Frequency\", msg.payload.Output_Frequency, \"memoryOnly\");\nreturn msg;\n\n// Combinar dos arrays de 16 bits en uno 32 bits\nfunction array16to32(array) {\n    var intvalue = [];\n    for (var i = 0; i < array.length; i++) {\n        array[i] = array[i] << 16 * i;\n        // @ts-ignore\n        intvalue = intvalue | array[i];\n    }\n    return intvalue;\n}\n// IEC 754 to Float Function\nfunction Int2Float32(bytes) {\n    var sign = (bytes & 0x80000000) ? -1 : 1;\n    var exponent = ((bytes >> 23) & 0xFF) - 127;\n    var significand = (bytes & ~(-1 << 23));\n\n    if (exponent == 128)\n        return sign * ((significand) ? Number.NaN : Number.POSITIVE_INFINITY);\n\n    if (exponent == -127) {\n        if (significand === 0) return sign * 0.0;\n        exponent = -126;\n        significand /= (1 << 22);\n    } else significand = (significand | (1 << 23)) / (1 << 23);\n\n    return sign * significand * Math.pow(2, exponent);\n}\n// Créditos: https://flows.nodered.org/flow/359ead34237b7ab6ec0465ee85a34b62\n//Fuente: https://stackoverflow.com/questions/47164675/convert-float-to-32bit-hex-string-in-javascript\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -22797,7 +22821,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 940,
         "y": 90,
         "wires": [
@@ -22878,7 +22901,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 820,
         "y": 170,
         "wires": [
@@ -23085,7 +23107,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1080,
         "y": 180,
         "wires": [
@@ -23768,7 +23789,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1400,
         "y": 470,
         "wires": [
@@ -23876,7 +23896,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1400,
         "y": 560,
         "wires": [
@@ -25808,7 +25827,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 850,
         "y": 820,
         "wires": [
@@ -26355,7 +26373,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 640,
         "y": 1220,
         "wires": [
@@ -26543,7 +26560,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 650,
         "y": 1040,
         "wires": [
@@ -26602,7 +26618,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1440,
         "y": 1080,
         "wires": [
@@ -26668,7 +26683,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 650,
         "y": 1140,
         "wires": [
@@ -30932,7 +30946,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 2340,
         "y": 1050,
         "wires": [
@@ -39843,7 +39856,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 3530,
         "y": 2430,
         "wires": [
@@ -40023,7 +40035,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 3530,
         "y": 2560,
         "wires": [
@@ -40723,7 +40734,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 900,
         "y": 2240,
         "wires": [
@@ -49266,7 +49276,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 900,
         "y": 2440,
         "wires": [
@@ -49307,7 +49316,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 900,
         "y": 2360,
         "wires": [
@@ -49348,7 +49356,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 900,
         "y": 2320,
         "wires": [
@@ -49389,7 +49396,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 900,
         "y": 2480,
         "wires": [
@@ -51206,7 +51212,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 160,
         "y": 120,
         "wires": [
@@ -54408,8 +54413,8 @@
         "g": "17da3b0724781f01",
         "group": "4f5b8416.cada1c",
         "order": 4,
-        "width": "2",
-        "height": "1",
+        "width": 2,
+        "height": 1,
         "name": "",
         "label": "Vel. Actual:",
         "format": "{{msg.payload}} spm",
@@ -54448,8 +54453,8 @@
         "group": "4f5b8416.cada1c",
         "name": "Principal",
         "order": 2,
-        "width": "1",
-        "height": "1",
+        "width": 1,
+        "height": 1,
         "format": "<script>\n    (function(scope) {\n        scope.$watch('msg', function(data) {\n            var elem = document.getElementById(\"headerStatus\")\n            if(elem !== null) {\n                elem.className = data.payload;\n                elem.innerHTML = data.payload;\n            }\n        });\n    })(scope);\n</script>",
         "storeOutMessages": true,
         "fwdInMessages": true,
@@ -55001,7 +55006,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 640,
         "y": 520,
         "wires": [
@@ -55579,8 +55583,8 @@
         "group": "764d8ce4.3c81b4",
         "name": "menu home",
         "order": 1,
-        "width": "0",
-        "height": "0",
+        "width": 0,
+        "height": 0,
         "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n\n</head>\n\n<body>\n    <!-- Navigation bar -->\n    <nav>\n        <div class=\"nav nav-pills nav-fill\" id=\"nav-tab\" role=\"tablist\">\n            <a class=\"nav-item nav-link active\" id=\"nav-ComandosC2S-tab\" data-toggle=\"tab\" href=\"#nav-ComandosC2S\"\n                role=\"tab\" aria-controls=\"nav-ComandosC2S\" aria-selected=\"false\"\n                ng-click=\"send({payload:ComandosC2S()})\">Comandos C2S</a>\n            <a class=\"nav-item nav-link\" id=\"nav-C2S-tab\" data-toggle=\"tab\" href=\"#nav-C2S\" role=\"tab\"\n                aria-controls=\"nav-C2S\" aria-selected=\"false\" ng-click=\"send({payload:C2S()})\">Datos C2S</a>\n            <a class=\"nav-item nav-link\" id=\"nav-electricos-tab\" data-toggle=\"tab\" href=\"#nav-electricos\" role=\"tab\"\n                aria-controls=\"nav-electricos\" aria-selected=\"false\" ng-click=\"send({payload:electricos()})\">Datos\n                eléctricos</a>\n            <a class=\"nav-item nav-link\" id=\"nav-fondo-tab\" data-toggle=\"tab\" href=\"#nav-fondo\" role=\"tab\"\n                aria-controls=\"nav-fondo\" aria-selected=\"true\" ng-click=\"send({payload:fondo()})\">Datos de proceso</a>\n        </div>\n    </nav>\n\n    <script>\n        this.scope.fondo = function() { return \"Fondo\"; };\n        this.scope.C2S = function() { return \"C2S\"; };\n        this.scope.electricos = function() { return \"Eléctricos\"; };\n        this.scope.ComandosC2S = function() { return \"ComandosC2S\"; };\n    </script>\n\n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n\n</body>\n\n</html>",
         "storeOutMessages": true,
         "fwdInMessages": true,
@@ -56607,7 +56611,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "echo Slacol1234 | sudo -S sudo cp -R /home/pi/node_modules/Datalogger +++/Datalogger",
+                "to": "echo Slacol1234 | sudo -S sudo cp -R /home/bcpgrp/node_modules/Datalogger +++/Datalogger",
                 "tot": "str"
             },
             {
@@ -56988,7 +56992,7 @@
         "z": "e7088c4e.cc6b4",
         "g": "1dd5b051.a95e6",
         "name": "Creación de archivo",
-        "func": "var PQA             = global.get(\"PQA.Real_Time_Parameters\",'memoryOnly')   || null;\nvar C2S             = global.get(\"C2S.Implicit\",'memoryOnly')               || null;\nvar DownHoleData    = global.get('Process_data','memoryOnly')               || null;\nvar MotorV          = global.get(\"C2S.Implicit.Output_Voltage\", 'memoryOnly') || 0;\nvar MotorI          = global.get(\"C2S.Implicit.Output_Current\", 'memoryOnly') || 0;\nvar spmActual       = global.get(\"C2S.Implicit.spmActual\", 'memoryOnly') || 0;\nvar date            = new Date();\n\n// Date\nvar year            = date.getFullYear();\nvar month           = date.getMonth()+1;\nvar day             = date.getDate();\n\n//Time\nvar hours           = date.getHours();\nvar minutes         = date.getMinutes();\nvar seconds         = date.getSeconds();\n// Corriente y tensión de motor\nvar Rtx = global.get(\"C2S.RelTx\") || 1;\nvar Voltaje_Motor   =  MotorV * Rtx;\nvar Corriente_Motor =  MotorI / Rtx;\n\n\nmsg.payload = {\n    'fecha_hora'            : year + '/' + month + '/' + day + \" \" + hours + ':' + minutes + ':' + seconds,\n    'Output_Frequency'      : C2S != null && typeof C2S.Output_Frequency                                != 'undefined' ? parseFloat(C2S.Output_Frequency).toFixed(3) : \"0\",\n    'spmActual'             : C2S != null && typeof C2S.spmActual                                       != 'undefined' ? parseFloat(C2S.spmActual).toFixed(3) : \"0\",\n    'Output_Voltage'        : C2S != null && typeof C2S.Output_Voltage                                  != 'undefined' ? parseFloat(C2S.Output_Voltage).toFixed(3) : \"0\",\n    'Output_Current'        : C2S != null && typeof C2S.Output_Current                                  != 'undefined' ? parseFloat(C2S.Output_Current).toFixed(3) : \"0\",\n    'Voltaje_Motor'         : Voltaje_Motor != null && typeof Voltaje_Motor                             != 'undefined' ? parseFloat(Voltaje_Motor).toFixed(3) : \"0\",\n    'Corriente_Motor'       : Corriente_Motor != null && typeof Corriente_Motor                         != 'undefined' ? parseFloat(Corriente_Motor).toFixed(3) : \"0\",\n    'Bus_DC_Volts'          : C2S != null && typeof C2S.Bus_DC_Volts                                    != 'undefined' ? parseFloat(C2S.Bus_DC_Volts).toFixed(3) : \"0\",\n    'Output_Power'          : C2S != null && typeof C2S.Output_Power                                    != 'undefined' ? parseFloat(C2S.Output_Power).toFixed(3) : \"0\",\n    'Power_Factor'          : C2S != null && typeof C2S.Power_Factor                                    != 'undefined' ? parseFloat(C2S.Power_Factor).toFixed(3) : \"0\",\n    'Drive_Temp_C'          : C2S != null && typeof C2S.Drive_Temp_C                                    != 'undefined' ? parseFloat(C2S.Drive_Temp_C).toFixed(3) : \"0\",\n    'Presión de entrada'    : DownHoleData != null && typeof DownHoleData.DHS[\"Presión de entrada\"]     != 'undefined' ? parseFloat(DownHoleData.DHS[\"Presión de entrada\"]).toFixed(3) : \"0\",\n    'Presión de descarga'   : DownHoleData != null && typeof DownHoleData.DHS[\"Presión de descarga\"]    != 'undefined' ? parseFloat(DownHoleData.DHS[\"Presión de descarga\"]).toFixed(3) : \"0\",\n    'Temperatura de motor'  : DownHoleData != null && typeof DownHoleData.DHS[\"Temperatura de motor\"]   != 'undefined' ? parseFloat(DownHoleData.DHS[\"Temperatura de motor\"]).toFixed(3) : \"0\",\n    'Vibración en X'        : DownHoleData != null && typeof DownHoleData.DHS[\"Vibración X\"]            != 'undefined' ? parseFloat(DownHoleData.DHS[\"Vibración X\"]).toFixed(3) : \"0\",\n    'Vibración en Z'        : DownHoleData != null && typeof DownHoleData.DHS[\"Vibración Z\"]            != 'undefined' ? parseFloat(DownHoleData.DHS[\"Vibración Z\"]).toFixed(3) : \"0\",\n    'Corriente de fuga'     : DownHoleData != null && typeof DownHoleData.DHS[\"Corriente de fuga\"]      != 'undefined' ? parseFloat(DownHoleData.DHS[\"Corriente de fuga\"]).toFixed(3) : \"0\",\n    'Frequency'             : PQA != null && typeof PQA.Frequency                                       != 'undefined' ? parseFloat(PQA.Frequency).toFixed(3) : \"0\",\n    'Average_Line_Voltage'  : PQA != null && typeof PQA.Average_Line_Voltage                            != 'undefined' ? parseFloat(PQA.Average_Line_Voltage).toFixed(3) : \"0\",\n    'Average_Phase_Current' : PQA != null && typeof PQA.Average_Phase_Current                           != 'undefined' ? parseFloat(PQA.Average_Phase_Current).toFixed(3) : \"0\",\n    'Total_System_Power'    : PQA != null && typeof PQA.Total_System_Power                              != 'undefined' ? parseFloat(PQA.Total_System_Power).toFixed(3) : \"0\",\n    'Total_Power_Factor'    : PQA != null && typeof PQA.Total_Power_Factor                              != 'undefined' ? parseFloat(PQA.Total_Power_Factor).toFixed(3) : \"0\"\n}\n\n// Archivo\nmsg.columns = Object.keys(msg.payload).toString();\nreturn msg;",
+        "func": "var PQA             = global.get(\"PQA.Real_Time_Parameters\",'memoryOnly')   || null;\nvar C2S             = global.get(\"C2S.Implicit\",'memoryOnly')               || null;\nvar DownHoleData    = global.get('Process_data','memoryOnly')               || null;\nvar MotorV          = global.get(\"C2S.Implicit.Output_Voltage\", 'memoryOnly') || 0;\nvar MotorI          = global.get(\"C2S.Implicit.Output_Current\", 'memoryOnly') || 0;\nvar date            = new Date();\nvar SLfillage = 0;\nvar SLFluidLevel = 0;\nvar SLsubmergence = 0;\nvar SLpip = 0;\n\n// Date\nvar year            = date.getFullYear();\nvar month           = date.getMonth()+1;\nvar day             = date.getDate();\n\n//Time\nvar hours           = date.getHours();\nvar minutes         = date.getMinutes();\nvar seconds         = date.getSeconds();\n// Corriente y tensión de motor\nvar Rtx = global.get(\"C2S.RelTx\") || 1;\nvar Voltaje_Motor   =  MotorV * Rtx;\nvar Corriente_Motor =  MotorI / Rtx;\n\n\nmsg.payload = {\n    'Date'                  : year + '/' + month + '/' + day + \" \" + hours + ':' + minutes + ':' + seconds,\n    'Reference[spm]'        : C2S != null && typeof C2S.spm                                             != 'undefined' ? parseFloat(C2S.spm).toFixed(3) : \"0\",\n    'Speed[spm]'            : C2S != null && typeof C2S.spmActual                                       != 'undefined' ? parseFloat(C2S.spmActual).toFixed(3) : \"0\",\n    'Output_Frequency[hz]'  : C2S != null && typeof C2S.Output_Frequency                                != 'undefined' ? parseFloat(C2S.Output_Frequency).toFixed(3) : \"0\",\n    'Output_Voltage[V]'     : C2S != null && typeof C2S.Output_Voltage                                  != 'undefined' ? parseFloat(C2S.Output_Voltage).toFixed(3) : \"0\",\n    'Output_Current[A]'     : C2S != null && typeof C2S.Output_Current                                  != 'undefined' ? parseFloat(C2S.Output_Current).toFixed(3) : \"0\",\n    'Output_Power[Kw]'      : C2S != null && typeof C2S.Output_Power                                    != 'undefined' ? parseFloat(C2S.Output_Power).toFixed(3) : \"0\",\n    'Bus_DC_Volts[Vdc]'     : C2S != null && typeof C2S.Bus_DC_Volts                                    != 'undefined' ? parseFloat(C2S.Bus_DC_Volts).toFixed(3) : \"0\",\n    'Power_Factor'          : C2S != null && typeof C2S.Power_Factor                                    != 'undefined' ? parseFloat(C2S.Power_Factor).toFixed(3) : \"0\",\n    'DriveTemp[C]': C2S != null && typeof C2S.Drive_Temp_C                                              != 'undefined' ? parseFloat(C2S.Drive_Temp_C).toFixed(3) : \"0\",\n    'InFrequency[Hz]'       : PQA != null && typeof PQA.Frequency                                       != 'undefined' ? parseFloat(PQA.Frequency).toFixed(3) : \"0\",\n    'Average_Line_Voltage'  : PQA != null && typeof PQA.Average_Line_Voltage                            != 'undefined' ? parseFloat(PQA.Average_Line_Voltage).toFixed(3) : \"0\",\n    'Average_Phase_Current' : PQA != null && typeof PQA.Average_Phase_Current                           != 'undefined' ? parseFloat(PQA.Average_Phase_Current).toFixed(3) : \"0\",\n    'Total_System_Power'    : PQA != null && typeof PQA.Total_System_Power                              != 'undefined' ? parseFloat(PQA.Total_System_Power).toFixed(3) : \"0\",\n    'Total_Power_Factor'    : PQA != null && typeof PQA.Total_Power_Factor                              != 'undefined' ? parseFloat(PQA.Total_Power_Factor).toFixed(3) : \"0\",\n    'SLfillage'             : SLfillage != null && typeof SLfillage                                     != 'undefined' ? parseFloat(SLfillage).toFixed(3) : \"0\",\n    'SLFluidLevel'          : SLFluidLevel != null && typeof SLFluidLevel                               != 'undefined' ? parseFloat(SLFluidLevel).toFixed(3) : \"0\",\n    'SLsubmergence'         : SLsubmergence != null && typeof SLsubmergence                             != 'undefined' ? parseFloat(SLsubmergence).toFixed(3) : \"0\",\n    'SLpip'                 : SLpip != null && typeof SLpip                                             != 'undefined' ? parseFloat(SLpip).toFixed(3) : \"0\"\n}\n\ncontext.set(\"mensaje\",msg.payload,\"memoryOnly\");\n// Archivo\nmsg.columns = Object.keys(msg.payload).toString();\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -58449,7 +58453,7 @@
         "z": "e7088c4e.cc6b4",
         "g": "1dd5b051.a95e6",
         "name": "",
-        "active": false,
+        "active": true,
         "tosidebar": true,
         "console": false,
         "tostatus": true,
@@ -58929,7 +58933,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 400,
         "y": 200,
         "wires": [
@@ -59501,7 +59504,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 200,
         "y": 220,
         "wires": [
@@ -60035,7 +60037,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 730,
         "y": 270,
         "wires": [
@@ -60062,7 +60063,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 730,
         "y": 400,
         "wires": [
@@ -62085,7 +62085,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 820,
         "y": 190,
         "wires": [
@@ -62342,7 +62341,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 260,
         "y": 190,
         "wires": [
@@ -66862,7 +66860,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 640,
         "y": 1160,
         "wires": [
@@ -67975,7 +67972,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 2510,
         "y": 1010,
         "wires": [
@@ -70128,7 +70124,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 670,
         "y": 3630,
         "wires": [
@@ -72037,7 +72032,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1330,
         "y": 140,
         "wires": [
@@ -72063,7 +72057,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1330,
         "y": 180,
         "wires": [
@@ -72089,7 +72082,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1330,
         "y": 220,
         "wires": [
@@ -72115,7 +72107,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1330,
         "y": 260,
         "wires": [
@@ -77830,7 +77821,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1330,
         "y": 300,
         "wires": [
@@ -77937,7 +77927,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 2380,
         "y": 140,
         "wires": [
@@ -78110,7 +78099,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 680,
         "y": 420,
         "wires": [
@@ -78168,7 +78156,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1330,
         "y": 380,
         "wires": [
@@ -78194,7 +78181,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1330,
         "y": 420,
         "wires": [
@@ -78219,7 +78205,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1330,
         "y": 460,
         "wires": [
@@ -78245,7 +78230,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1330,
         "y": 500,
         "wires": [
@@ -78271,7 +78255,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1330,
         "y": 540,
         "wires": [
@@ -78349,7 +78332,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1330,
         "y": 340,
         "wires": [
@@ -78546,7 +78528,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 2480,
         "y": 320,
         "wires": [
@@ -78594,7 +78575,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 3020,
         "y": 240,
         "wires": [
@@ -79329,7 +79309,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 2910,
         "y": 350,
         "wires": [
@@ -80915,7 +80894,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 1820,
         "y": 3690,
         "wires": [
@@ -80941,7 +80919,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 1820,
         "y": 3790,
         "wires": [
@@ -80967,7 +80944,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 1820,
         "y": 3870,
         "wires": [
@@ -80993,7 +80969,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 1820,
         "y": 3970,
         "wires": [
@@ -83782,7 +83757,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 1120,
         "y": 240,
         "wires": [
@@ -88386,7 +88360,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 460,
         "y": 960,
         "wires": [
@@ -88709,7 +88682,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 1810,
         "y": 540,
         "wires": [
@@ -89086,7 +89058,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 580,
         "y": 520,
         "wires": [
@@ -89346,7 +89317,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 810,
         "y": 680,
         "wires": [
@@ -92320,7 +92290,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1510,
         "y": 670,
         "wires": [
@@ -92397,7 +92366,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1510,
         "y": 710,
         "wires": [
@@ -92729,7 +92697,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1820,
         "y": 500,
         "wires": [
@@ -94404,7 +94371,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 720,
         "y": 830,
         "wires": [
@@ -94477,7 +94443,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 730,
         "y": 880,
         "wires": [
@@ -94667,7 +94632,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 720,
         "y": 1040,
         "wires": [
@@ -95379,7 +95343,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 970,
         "y": 1060,
         "wires": [
@@ -97288,7 +97251,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1030,
         "y": 150,
         "wires": [
@@ -97409,7 +97371,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 2530,
         "y": 420,
         "wires": [
@@ -97495,7 +97456,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 2760,
         "y": 230,
         "wires": [
@@ -100978,7 +100938,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 1330,
         "y": 140,
         "wires": [
@@ -101382,5 +101341,22 @@
         "wires": [
             []
         ]
+    },
+    {
+        "id": "5ea52d0790115206",
+        "type": "ui_text",
+        "z": "902fc438.e5d758",
+        "group": "1b027e16.1fc232",
+        "order": 17,
+        "width": 3,
+        "height": 2,
+        "name": "Llenado",
+        "label": "Llenado",
+        "format": "<font size =6px>{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "x": 4120,
+        "y": 240,
+        "wires": []
     }
 ]
