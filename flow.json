@@ -3335,20 +3335,18 @@
             "color": "#ffffff"
         },
         "nodes": [
-            "b697eef3a328faa3",
-            "cc3979a324318701",
-            "6ac61f21b2b7caa6",
-            "1d59f095b4eb49a5",
-            "2f0ccd3aedeb8b83",
-            "a620914f0b9d5660",
-            "0e5ee6115fb5ad29",
-            "7fd83bc995df58ef",
-            "01926c4d328468d3",
-            "777ffb34744decce",
-            "c69d457b5c9947d3"
+            "bd85cd0b58402731",
+            "9dfde348d71f22a2",
+            "c8c8b0669e04bbf0",
+            "9bf756c0ed256553",
+            "bbc502149380a6f4",
+            "bcd435210241f10b",
+            "a5f101f20d6fd56b"
         ],
-        "x": 874,
-        "y": 619
+        "x": 994,
+        "y": 599,
+        "w": 562,
+        "h": 142
     },
     {
         "id": "5dc71a84bf12ae23",
@@ -3483,8 +3481,10 @@
             "9a9d63b34552a642",
             "ae2375753c90e02b"
         ],
-        "x": 914,
-        "y": 879
+        "x": 974,
+        "y": 979,
+        "w": 312,
+        "h": 522
     },
     {
         "id": "c920676a5fbb9bc8",
@@ -3500,20 +3500,16 @@
             "62c3cbdb8f774ee3",
             "5440948a30b8f91b",
             "2d31776a43ba93c0",
-            "247192cff28fc5d3",
             "b9b167801ed87c5e",
-            "3b50a2e3080d2f80",
             "68d812f885240acb",
             "c7a1b8c36c0b8ef5",
             "e6be13e85c3481ea",
             "7cb19c745218a09b",
-            "9e7f116fdd15872c",
             "44fed69b2fc8ec3a",
             "31f0f3f4fb33f4b4",
             "05c1544934f65cfd",
             "e342e66516614199",
             "6f4ecc800f58fd6f",
-            "04ee3aece1870b9f",
             "fc52222c9241d3d8",
             "e5884c1a4002db93",
             "7397424a5966e886",
@@ -3537,7 +3533,9 @@
             "16bbc2506679bb34"
         ],
         "x": 54,
-        "y": 39
+        "y": 39,
+        "w": 1172,
+        "h": 948
     },
     {
         "id": "c585d878c0dbfaf0",
@@ -6135,7 +6133,9 @@
             "5eb73b2ba006366d"
         ],
         "x": 84,
-        "y": 959
+        "y": 799,
+        "w": 882,
+        "h": 162
     },
     {
         "id": "1112a5e0c336769a",
@@ -7891,7 +7891,7 @@
         "type": "ui_tab",
         "name": "Protecciones",
         "icon": "fa-shield",
-        "order": 4,
+        "order": 6,
         "disabled": false,
         "hidden": false
     },
@@ -8080,7 +8080,7 @@
         "type": "ui_tab",
         "name": "Configuración VSD",
         "icon": "fa-cogs",
-        "order": 7,
+        "order": 9,
         "disabled": false,
         "hidden": false
     },
@@ -8139,7 +8139,7 @@
         "type": "ui_tab",
         "name": "Entradas y Salidas",
         "icon": "fa-microchip",
-        "order": 5,
+        "order": 7,
         "disabled": false,
         "hidden": false
     },
@@ -8218,7 +8218,7 @@
         "type": "ui_tab",
         "name": "Eventos y Alarmas",
         "icon": "fa-calendar",
-        "order": 3,
+        "order": 4,
         "disabled": false,
         "hidden": false
     },
@@ -8297,7 +8297,7 @@
         "type": "ui_tab",
         "name": "Usuario",
         "icon": "fa-user",
-        "order": 11,
+        "order": 14,
         "disabled": false,
         "hidden": false
     },
@@ -8546,7 +8546,7 @@
         "type": "ui_tab",
         "name": "Sensor de Fondo",
         "icon": "fa-thermometer-three-quarters",
-        "order": 8,
+        "order": 10,
         "disabled": false,
         "hidden": false
     },
@@ -8565,7 +8565,7 @@
         "type": "ui_tab",
         "name": "SWC",
         "icon": "fa-television",
-        "order": 9,
+        "order": 11,
         "disabled": false,
         "hidden": false
     },
@@ -9324,7 +9324,7 @@
         "type": "ui_tab",
         "name": "Tendencias",
         "icon": "fa-area-chart",
-        "order": 6,
+        "order": 8,
         "disabled": false,
         "hidden": false
     },
@@ -9353,7 +9353,7 @@
         "type": "ui_tab",
         "name": "Home",
         "icon": "dashboard",
-        "order": 12
+        "order": 15
     },
     {
         "id": "f5471725db0f8d14",
@@ -9379,8 +9379,8 @@
         "id": "df8934f2a1ce6562",
         "type": "ui_group",
         "name": "GRAFICA_IPR",
-        "tab": "c81d3a9a2fd55ff0",
-        "order": 5,
+        "tab": "6315ac3b2a589b9d",
+        "order": 6,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -9429,35 +9429,6 @@
         "order": 1,
         "width": 1,
         "height": 1
-    },
-    {
-        "id": "c81d3a9a2fd55ff0",
-        "type": "ui_tab",
-        "name": "AVAS ®",
-        "icon": "fa-registered ",
-        "order": 10,
-        "disabled": false,
-        "hidden": false
-    },
-    {
-        "id": "773bb06e2c212557",
-        "type": "ui_group",
-        "name": "IWOC_DATOS",
-        "tab": "c81d3a9a2fd55ff0",
-        "order": 4,
-        "disp": false,
-        "width": "12",
-        "collapse": false
-    },
-    {
-        "id": "4456e022e9f57d23",
-        "type": "ui_group",
-        "name": "Navbar_AVAS",
-        "tab": "c81d3a9a2fd55ff0",
-        "order": 1,
-        "disp": false,
-        "width": "12",
-        "collapse": false
     },
     {
         "id": "ac27a3905053ab85",
@@ -9953,8 +9924,8 @@
         "id": "bf386d7eef4d22ee",
         "type": "ui_group",
         "name": "Status_Bar",
-        "tab": "c81d3a9a2fd55ff0",
-        "order": 6,
+        "tab": "6315ac3b2a589b9d",
+        "order": 7,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -9963,8 +9934,8 @@
         "id": "3aeadfca28a90fa2",
         "type": "ui_group",
         "name": "Navbar_AVAS_DATOS",
-        "tab": "c81d3a9a2fd55ff0",
-        "order": 2,
+        "tab": "",
+        "order": 1,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -9995,7 +9966,7 @@
         "type": "ui_tab",
         "name": "Settings",
         "icon": "fa-cogs",
-        "order": 3,
+        "order": 5,
         "disabled": false,
         "hidden": false
     },
@@ -10034,7 +10005,7 @@
         "type": "ui_tab",
         "name": "Downhole SensorLess Dynagram",
         "icon": "fa-area-chart",
-        "order": 2,
+        "order": 3,
         "disabled": false,
         "hidden": false
     },
@@ -10528,216 +10499,6 @@
         "width": "12",
         "collapse": false,
         "className": ""
-    },
-    {
-        "id": "67ca8d4dc2152383",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "20076456.83052c",
-        "order": 1,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "ccc4a41bf1cb5675",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "20076456.83052c",
-        "order": 3,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "d4f46a510352beb0",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 2,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "4589d6a8a35ef209",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 4,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "b77681cd1a5591c3",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 6,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "281cf9edd4fab76f",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 7,
-        "width": 3,
-        "height": 1
-    },
-    {
-        "id": "3ce73b937f8daf19",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 9,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "6cb88192de689305",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 11,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "8f9fa4ad86d870ec",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 12,
-        "width": 3,
-        "height": 1
-    },
-    {
-        "id": "7d896fbb189e2738",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 14,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "77c14f2e089f97e3",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 16,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "8700f886d8367ed1",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 18,
-        "width": 8,
-        "height": 1
-    },
-    {
-        "id": "6fc42c6b1d2fc154",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 22,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "df0b9011190c500c",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "2540c0d0.abd4d",
-        "order": 1,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "b2cce06f95dd25cb",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "2540c0d0.abd4d",
-        "order": 2,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "d8e9caaab1fd2013",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "2540c0d0.abd4d",
-        "order": 6,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "96f9a0dfa96731e9",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "3afcf0f2.7f9b6",
-        "order": 4,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "e7d87a1144949637",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "3afcf0f2.7f9b6",
-        "order": 6,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "4eb1eccb4baaed57",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "3afcf0f2.7f9b6",
-        "order": 18,
-        "width": 3,
-        "height": 1
-    },
-    {
-        "id": "c5dc843d5657698b",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "4f87eabd.cfaf34",
-        "order": 1,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "50f59f7eec810648",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "4f87eabd.cfaf34",
-        "order": 4,
-        "width": 2,
-        "height": 1
     },
     {
         "id": "062a318632513a2a",
@@ -24501,7 +24262,7 @@
         "label": "",
         "tooltip": "",
         "group": "20076456.83052c",
-        "order": 4,
+        "order": 3,
         "width": 0,
         "height": 0,
         "passthru": true,
@@ -24533,7 +24294,7 @@
         "label": "",
         "tooltip": "",
         "group": "20076456.83052c",
-        "order": 5,
+        "order": 4,
         "width": 1,
         "height": 1,
         "passthru": true,
@@ -24565,7 +24326,7 @@
         "label": "",
         "tooltip": "",
         "group": "20076456.83052c",
-        "order": 6,
+        "order": 5,
         "width": 1,
         "height": 1,
         "passthru": true,
@@ -50980,7 +50741,8 @@
             "38dcb788c3d27509",
             "c43540e8a91e5ddb",
             "c62c192347b4885f",
-            "1bd1906b906446cb"
+            "1bd1906b906446cb",
+            "a5f101f20d6fd56b"
         ],
         "x": 1035,
         "y": 60,
@@ -51030,7 +50792,8 @@
             "12a3282355da9439",
             "a1c5e02a9d683eb4",
             "51568ccda80f32a2",
-            "248c3c3de68a0207"
+            "248c3c3de68a0207",
+            "bd85cd0b58402731"
         ],
         "x": 1495,
         "y": 60,
@@ -52604,129 +52367,13 @@
         ]
     },
     {
-        "id": "b697eef3a328faa3",
-        "type": "switch",
-        "z": "2e27dea6.c4c362",
-        "g": "2d8d39f1e038a15b",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "GASLOCK",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "IWOC",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 1130,
-        "y": 700,
-        "wires": [
-            [
-                "c69d457b5c9947d3"
-            ],
-            [
-                "7fd83bc995df58ef"
-            ]
-        ]
-    },
-    {
-        "id": "cc3979a324318701",
-        "type": "ui_template",
-        "z": "2e27dea6.c4c362",
-        "g": "2d8d39f1e038a15b",
-        "group": "4456e022e9f57d23",
-        "name": "Menu AVAS",
-        "order": 1,
-        "width": 12,
-        "height": 1,
-        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n\n</head>\n\n<body>\n    <!-- Navigation bar -->\n    <nav>\n        <div class=\"nav nav-pills nav-fill\" id=\"nav-tab\" role=\"tablist\">\n            <a class=\"nav-item nav-link active\" id=\"nav-IWOC-tab\" data-toggle=\"tab\"\n                href=\"#nav-IWOC\" role=\"tab\" aria-controls=\"nav-IWOC\" aria-selected=\"true\"\n                ng-click=\"send({payload:IWOC()})\">IWOC®</a>\n            <a class=\"nav-item nav-link\" id=\"nav-GASLOCK-tab\" data-toggle=\"tab\"\n                href=\"#nav-GASLOCK\" role=\"tab\" aria-controls=\"nav-GASLOCK\" aria-selected=\"false\"\n                ng-click=\"send({payload:GASLOCK()})\">Gaslock</a>\n            <!--<a class=\"nav-item nav-link\" id=\"nav-IPR-tab\" data-toggle=\"tab\" href=\"#nav-IPR\"\n                role=\"tab\" aria-controls=\"nav-IPR\" aria-selected=\"false\"\n                ng-click=\"send({payload:IPR()})\">Gráfica IPR</a>-->\n        </div>\n    </nav>\n\n    <script>\n        this.scope.IWOC = function() { return \"IWOC\"; };\n        this.scope.GASLOCK = function() { return \"GASLOCK\"; };\n        //this.scope.IPR = function() { return \"IPR\"; };\n    </script>\n\n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n</body>\n\n</html>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "x": 970,
-        "y": 700,
-        "wires": [
-            [
-                "b697eef3a328faa3"
-            ]
-        ]
-    },
-    {
-        "id": "6ac61f21b2b7caa6",
-        "type": "switch",
-        "z": "2e27dea6.c4c362",
-        "g": "2d8d39f1e038a15b",
-        "name": "",
-        "property": "#:(memoryOnly)::Navegación.Pantalla",
-        "propertyType": "global",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "AVAS ®",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1130,
-        "y": 660,
-        "wires": [
-            [
-                "7fd83bc995df58ef",
-                "c69d457b5c9947d3"
-            ]
-        ]
-    },
-    {
-        "id": "1d59f095b4eb49a5",
-        "type": "link out",
-        "z": "2e27dea6.c4c362",
-        "g": "2d8d39f1e038a15b",
-        "name": "Menú Entradas/Salidas SWCPRO",
-        "links": [
-            "8a17d991.081178",
-            "805762db.d27b7"
-        ],
-        "x": 1415,
-        "y": 680,
-        "wires": []
-    },
-    {
-        "id": "2f0ccd3aedeb8b83",
-        "type": "link in",
-        "z": "2e27dea6.c4c362",
-        "g": "2d8d39f1e038a15b",
-        "name": "Menú Tendencias SWCPRO",
-        "links": [
-            "4372d5a0.d338dc",
-            "97407954.a004c8"
-        ],
-        "x": 975,
-        "y": 660,
-        "wires": [
-            [
-                "6ac61f21b2b7caa6"
-            ]
-        ]
-    },
-    {
         "id": "49eefc23668eacd0",
         "type": "ui_led",
         "z": "2e27dea6.c4c362",
         "g": "2da065ba546c3529",
         "order": 1,
         "group": "ac27a3905053ab85",
-        "width": "5",
+        "width": 5,
         "height": 1,
         "label": "C2S: {{msg.payload}}",
         "labelPlacement": "right",
@@ -53292,7 +52939,7 @@
         "g": "08268a4bd4859ab8",
         "group": "ac27a3905053ab85",
         "order": 2,
-        "width": "2",
+        "width": 2,
         "height": 1,
         "name": "",
         "label": "Vel Motor:",
@@ -53445,7 +53092,7 @@
         "g": "b76c959d391c2570",
         "group": "ac27a3905053ab85",
         "order": 5,
-        "width": "2",
+        "width": 2,
         "height": 1,
         "name": "",
         "label": "Mtr Hz: ",
@@ -53854,8 +53501,8 @@
         "fwdInMessages": true,
         "resendOnRefresh": false,
         "templateScope": "global",
-        "x": 1090,
-        "y": 920,
+        "x": 1150,
+        "y": 1020,
         "wires": [
             []
         ]
@@ -53875,8 +53522,8 @@
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
-        "x": 1080,
-        "y": 960,
+        "x": 1140,
+        "y": 1060,
         "wires": [
             []
         ]
@@ -53890,8 +53537,8 @@
         "links": [
             "8f8a6a475ac5ee0b"
         ],
-        "x": 955,
-        "y": 1120,
+        "x": 1015,
+        "y": 1220,
         "wires": [
             [
                 "3fb8bbbc0defe6a6",
@@ -53923,8 +53570,8 @@
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
-        "x": 1090,
-        "y": 1080,
+        "x": 1150,
+        "y": 1180,
         "wires": [
             []
         ]
@@ -53944,8 +53591,8 @@
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
-        "x": 1110,
-        "y": 1200,
+        "x": 1170,
+        "y": 1300,
         "wires": [
             []
         ]
@@ -53965,8 +53612,8 @@
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
-        "x": 1070,
-        "y": 1120,
+        "x": 1130,
+        "y": 1220,
         "wires": [
             []
         ]
@@ -53986,8 +53633,8 @@
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
-        "x": 1070,
-        "y": 1240,
+        "x": 1130,
+        "y": 1340,
         "wires": [
             []
         ]
@@ -54007,8 +53654,8 @@
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
-        "x": 1090,
-        "y": 1000,
+        "x": 1150,
+        "y": 1100,
         "wires": [
             []
         ]
@@ -54028,8 +53675,8 @@
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
-        "x": 1110,
-        "y": 1040,
+        "x": 1170,
+        "y": 1140,
         "wires": [
             []
         ]
@@ -54049,8 +53696,8 @@
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
-        "x": 1070,
-        "y": 1160,
+        "x": 1130,
+        "y": 1260,
         "wires": [
             []
         ]
@@ -54060,9 +53707,9 @@
         "type": "ui_template",
         "z": "2e27dea6.c4c362",
         "g": "5c9801fdee1b9e98",
-        "group": "773bb06e2c212557",
-        "name": "Avas",
-        "order": 2,
+        "group": "bf386d7eef4d22ee",
+        "name": "Iwoc",
+        "order": 4,
         "width": "1",
         "height": "1",
         "format": "<script>\n    (function(scope) {\n        scope.$watch('msg', function(data) {\n            var elem = document.getElementById(\"headerStatus\")\n            if(elem !== null) {\n                elem.className = data.payload;\n                elem.innerHTML = data.payload;\n            }\n        });\n    })(scope);\n</script>",
@@ -54070,8 +53717,9 @@
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
-        "x": 1070,
-        "y": 1280,
+        "className": "",
+        "x": 1130,
+        "y": 1380,
         "wires": [
             []
         ]
@@ -54082,7 +53730,7 @@
         "z": "2e27dea6.c4c362",
         "g": "b76c959d391c2570",
         "group": "bf386d7eef4d22ee",
-        "order": 4,
+        "order": 5,
         "width": "2",
         "height": 1,
         "name": "",
@@ -54206,161 +53854,6 @@
         "x": 2420,
         "y": 700,
         "wires": []
-    },
-    {
-        "id": "a620914f0b9d5660",
-        "type": "ui_template",
-        "z": "2e27dea6.c4c362",
-        "g": "2d8d39f1e038a15b",
-        "group": "3aeadfca28a90fa2",
-        "name": "Pantalla IWOC",
-        "order": 1,
-        "width": 12,
-        "height": 1,
-        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n\n</head>\n\n<body>\n    <!-- Navigation bar -->\n    <nav>\n        <div class=\"nav nav-pills nav-fill\" id=\"nav-tab\" role=\"tablist\">\n            <a class=\"nav-item nav-link active\" id=\"nav-IWOC_DATOS-tab\" data-toggle=\"tab\"\n                href=\"#nav-IWOC_DATOS\" role=\"tab\" aria-controls=\"nav-IWOC_DATOS\" aria-selected=\"true\"\n                ng-click=\"send({payload:IWOC_DATOS()})\">Ingreso de datos</a>\n            <a class=\"nav-item nav-link\" id=\"nav-IPR-tab\" data-toggle=\"tab\"\n                href=\"#nav-IPR\" role=\"tab\" aria-controls=\"nav-IPR\" aria-selected=\"false\"\n                ng-click=\"send({payload:IPR()})\">Gráfica IPR</a>\n            <!--<a class=\"nav-item nav-link\" id=\"nav-IPR-tab\" data-toggle=\"tab\" href=\"#nav-IPR\"\n                role=\"tab\" aria-controls=\"nav-IPR\" aria-selected=\"false\"\n                ng-click=\"send({payload:IPR()})\">Gráfica IPR</a>-->\n        </div>\n    </nav>\n\n    <script>\n        this.scope.IWOC_DATOS = function() { return \"IWOC_DATOS\"; };\n        this.scope.IPR = function() { return \"IPR\"; };\n        //this.scope.IPR = function() { return \"IPR\"; };\n    </script>\n\n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n</body>\n\n</html>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "x": 980,
-        "y": 800,
-        "wires": [
-            [
-                "0e5ee6115fb5ad29"
-            ]
-        ]
-    },
-    {
-        "id": "0e5ee6115fb5ad29",
-        "type": "switch",
-        "z": "2e27dea6.c4c362",
-        "g": "2d8d39f1e038a15b",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "IWOC_DATOS",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "IPR",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 1130,
-        "y": 800,
-        "wires": [
-            [
-                "7fd83bc995df58ef"
-            ],
-            [
-                "01926c4d328468d3"
-            ]
-        ]
-    },
-    {
-        "id": "7fd83bc995df58ef",
-        "type": "change",
-        "z": "2e27dea6.c4c362",
-        "g": "2d8d39f1e038a15b",
-        "name": "IWOC_DATOS",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"AVAS_®_GASLOCK\",\t                \"AVAS_®_GRAFICA_IPR\"],\t       \"show\":[ \"AVAS_®_IWOC_DATOS\",\t                \"AVAS_®_Status_Bar\"]\t   }\t}",
-                "tot": "jsonata"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1300,
-        "y": 780,
-        "wires": [
-            [
-                "777ffb34744decce"
-            ]
-        ]
-    },
-    {
-        "id": "01926c4d328468d3",
-        "type": "change",
-        "z": "2e27dea6.c4c362",
-        "g": "2d8d39f1e038a15b",
-        "name": "GRAFICA_IPR",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"AVAS_®_GASLOCK\",\t                \"AVAS_®_IWOC_DATOS\"],\t       \"show\":[ \"AVAS_®_GRAFICA_IPR\",\t                \"AVAS_®_Status_Bar\"]\t   }\t}",
-                "tot": "jsonata"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1300,
-        "y": 820,
-        "wires": [
-            [
-                "777ffb34744decce"
-            ]
-        ]
-    },
-    {
-        "id": "777ffb34744decce",
-        "type": "link out",
-        "z": "2e27dea6.c4c362",
-        "g": "2d8d39f1e038a15b",
-        "name": "",
-        "links": [
-            "805762db.d27b7",
-            "8a17d991.081178"
-        ],
-        "x": 1415,
-        "y": 800,
-        "wires": []
-    },
-    {
-        "id": "c69d457b5c9947d3",
-        "type": "change",
-        "z": "2e27dea6.c4c362",
-        "g": "2d8d39f1e038a15b",
-        "name": "GASLOCK",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"AVAS_®_GASLOCK\"],\t       \"show\":[ \"AVAS_®_IWOC\"]\t   }\t}",
-                "tot": "jsonata"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1290,
-        "y": 680,
-        "wires": [
-            [
-                "1d59f095b4eb49a5"
-            ]
-        ]
     },
     {
         "id": "2f485b39cb7e83e3",
@@ -61166,7 +60659,8 @@
             "d5003268072de1ac",
             "a7f401bea33a0d89",
             "12a3282355da9439",
-            "a1c5e02a9d683eb4"
+            "a1c5e02a9d683eb4",
+            "bd85cd0b58402731"
         ],
         "x": 335,
         "y": 450,
@@ -61206,7 +60700,8 @@
             "1d59f095b4eb49a5",
             "777ffb34744decce",
             "3cb555ec39e1b50a",
-            "10d0df396dc90c03"
+            "10d0df396dc90c03",
+            "a5f101f20d6fd56b"
         ],
         "x": 95,
         "y": 450,
@@ -80464,16 +79959,19 @@
         "name": "",
         "label": "PMP [ft]",
         "tooltip": "",
-        "group": "773bb06e2c212557",
+        "group": "68940c7bea9d80a2",
         "order": 2,
-        "width": 6,
+        "width": "3",
         "height": 1,
         "passthru": true,
         "mode": "text",
         "delay": 300,
         "topic": "",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "str",
         "x": 480,
-        "y": 160,
+        "y": 120,
         "wires": [
             [
                 "fe9c53b6.0ee09"
@@ -80488,16 +79986,19 @@
         "name": "",
         "label": "Profundidad de descarga [ft]",
         "tooltip": "",
-        "group": "773bb06e2c212557",
+        "group": "68940c7bea9d80a2",
         "order": 3,
-        "width": 6,
+        "width": "3",
         "height": 1,
         "passthru": true,
         "mode": "text",
         "delay": 300,
         "topic": "",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "str",
         "x": 540,
-        "y": 200,
+        "y": 160,
         "wires": [
             [
                 "72d873dd.bb8b2c"
@@ -80512,16 +80013,19 @@
         "name": "",
         "label": "Profundidad de sensor [ft]",
         "tooltip": "",
-        "group": "773bb06e2c212557",
+        "group": "68940c7bea9d80a2",
         "order": 4,
-        "width": 6,
+        "width": "3",
         "height": 1,
         "passthru": true,
         "mode": "text",
         "delay": 300,
         "topic": "",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "str",
         "x": 530,
-        "y": 240,
+        "y": 200,
         "wires": [
             [
                 "500f3da0.344694"
@@ -80536,41 +80040,23 @@
         "name": "",
         "label": "Profundidad de Entrada [ft]",
         "tooltip": "",
-        "group": "773bb06e2c212557",
+        "group": "68940c7bea9d80a2",
         "order": 5,
-        "width": 6,
+        "width": "3",
         "height": 1,
         "passthru": true,
         "mode": "text",
         "delay": 300,
         "topic": "",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "str",
         "x": 540,
-        "y": 280,
+        "y": 240,
         "wires": [
             [
                 "68bf1bb.d9b73e4"
             ]
-        ]
-    },
-    {
-        "id": "247192cff28fc5d3",
-        "type": "ui_template",
-        "z": "c280ee8f58f61044",
-        "g": "c920676a5fbb9bc8",
-        "group": "773bb06e2c212557",
-        "name": "Ingresar Estado Mecánico",
-        "order": 1,
-        "width": 12,
-        "height": 1,
-        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n\n</head>\n\n<body>\n    <h5><b>Ingresar datos de estado mecánico:</b></h5>\n</body>\n\n</html>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "x": 530,
-        "y": 120,
-        "wires": [
-            []
         ]
     },
     {
@@ -80581,29 +80067,8 @@
         "name": "Propiedades de fluido",
         "info": "",
         "x": 520,
-        "y": 320,
+        "y": 280,
         "wires": []
-    },
-    {
-        "id": "3b50a2e3080d2f80",
-        "type": "ui_template",
-        "z": "c280ee8f58f61044",
-        "g": "c920676a5fbb9bc8",
-        "group": "773bb06e2c212557",
-        "name": "Ingresar Propiedades de Fluido",
-        "order": 6,
-        "width": 12,
-        "height": 1,
-        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n\n</head>\n\n<body>\n    <h5><b>Ingresar datos de propiedades de fluido:</b></h5>\n</body>\n\n</html>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "x": 550,
-        "y": 360,
-        "wires": [
-            []
-        ]
     },
     {
         "id": "68d812f885240acb",
@@ -80613,16 +80078,19 @@
         "name": "",
         "label": "API",
         "tooltip": "",
-        "group": "773bb06e2c212557",
+        "group": "90c0022f5eae925a",
         "order": 7,
-        "width": 4,
+        "width": "3",
         "height": 1,
         "passthru": true,
         "mode": "text",
         "delay": 300,
         "topic": "",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "str",
         "x": 470,
-        "y": 400,
+        "y": 320,
         "wires": [
             [
                 "144d85f.39e447a"
@@ -80637,16 +80105,19 @@
         "name": "",
         "label": "Temperatura de fondo [ºF]",
         "tooltip": "",
-        "group": "773bb06e2c212557",
+        "group": "90c0022f5eae925a",
         "order": 8,
-        "width": 4,
+        "width": "3",
         "height": 1,
         "passthru": true,
         "mode": "text",
         "delay": 300,
         "topic": "",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "str",
         "x": 530,
-        "y": 440,
+        "y": 360,
         "wires": [
             [
                 "75ecbaf4.e5a914"
@@ -80661,16 +80132,19 @@
         "name": "",
         "label": "Densidad del agua [ρ]",
         "tooltip": "",
-        "group": "773bb06e2c212557",
+        "group": "90c0022f5eae925a",
         "order": 9,
-        "width": 4,
+        "width": "3",
         "height": 1,
         "passthru": true,
         "mode": "text",
         "delay": 300,
         "topic": "",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "str",
         "x": 520,
-        "y": 480,
+        "y": 400,
         "wires": [
             [
                 "b8f5a967.a9c448"
@@ -80685,29 +80159,8 @@
         "name": "Prueba de producción",
         "info": "",
         "x": 520,
-        "y": 520,
+        "y": 440,
         "wires": []
-    },
-    {
-        "id": "9e7f116fdd15872c",
-        "type": "ui_template",
-        "z": "c280ee8f58f61044",
-        "g": "c920676a5fbb9bc8",
-        "group": "773bb06e2c212557",
-        "name": "Ingresar Prueba de Producción",
-        "order": 10,
-        "width": 12,
-        "height": 1,
-        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n\n</head>\n\n<body>\n    <h5><b>Ingresar datos prueba de producción:</b></h5>\n</body>\n\n</html>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "x": 550,
-        "y": 560,
-        "wires": [
-            []
-        ]
     },
     {
         "id": "44fed69b2fc8ec3a",
@@ -80717,16 +80170,19 @@
         "name": "",
         "label": "PWF Prueba [psi]",
         "tooltip": "",
-        "group": "773bb06e2c212557",
-        "order": 11,
-        "width": 6,
+        "group": "0cb60887cd63d581",
+        "order": 1,
+        "width": "3",
         "height": 1,
         "passthru": true,
         "mode": "text",
         "delay": 300,
         "topic": "",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "str",
         "x": 510,
-        "y": 600,
+        "y": 480,
         "wires": [
             [
                 "f9a2608d.84b6f"
@@ -80741,16 +80197,19 @@
         "name": "",
         "label": "BSW Prueba [%]",
         "tooltip": "",
-        "group": "773bb06e2c212557",
-        "order": 12,
-        "width": 6,
+        "group": "0cb60887cd63d581",
+        "order": 2,
+        "width": "3",
         "height": 1,
         "passthru": true,
         "mode": "text",
         "delay": 300,
         "topic": "",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "str",
         "x": 510,
-        "y": 640,
+        "y": 520,
         "wires": [
             [
                 "8d85bed3.e80e"
@@ -80765,16 +80224,19 @@
         "name": "",
         "label": "Q Prueba [BPD]",
         "tooltip": "",
-        "group": "773bb06e2c212557",
-        "order": 13,
-        "width": 6,
+        "group": "0cb60887cd63d581",
+        "order": 3,
+        "width": "3",
         "height": 1,
         "passthru": true,
         "mode": "text",
         "delay": 300,
         "topic": "",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "str",
         "x": 500,
-        "y": 680,
+        "y": 560,
         "wires": [
             [
                 "e9fbe4c2.81bcc8"
@@ -80789,16 +80251,19 @@
         "name": "",
         "label": "Velocidad de prueba [Hz]",
         "tooltip": "",
-        "group": "773bb06e2c212557",
-        "order": 14,
-        "width": 6,
-        "height": 1,
+        "group": "0cb60887cd63d581",
+        "order": 4,
+        "width": "3",
+        "height": "1",
         "passthru": true,
         "mode": "text",
         "delay": 300,
         "topic": "",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "str",
         "x": 530,
-        "y": 720,
+        "y": 600,
         "wires": [
             [
                 "a99d2c43.563ca"
@@ -80813,29 +80278,8 @@
         "name": "Datos gráfica IPR",
         "info": "",
         "x": 500,
-        "y": 760,
+        "y": 640,
         "wires": []
-    },
-    {
-        "id": "04ee3aece1870b9f",
-        "type": "ui_template",
-        "z": "c280ee8f58f61044",
-        "g": "c920676a5fbb9bc8",
-        "group": "773bb06e2c212557",
-        "name": "Ingresar Datos para gráfica IPR",
-        "order": 15,
-        "width": 12,
-        "height": 1,
-        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n\n</head>\n\n<body>\n    <h5><b>Ingresar Datos para gráfica IPR</b></h5>\n</body>\n\n</html>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "x": 550,
-        "y": 800,
-        "wires": [
-            []
-        ]
     },
     {
         "id": "fc52222c9241d3d8",
@@ -80845,16 +80289,19 @@
         "name": "",
         "label": "Presión de yacimiento [psi]",
         "tooltip": "",
-        "group": "773bb06e2c212557",
-        "order": 16,
-        "width": 4,
+        "group": "0c116f2baac7c7f8",
+        "order": 1,
+        "width": "3",
         "height": 1,
         "passthru": true,
         "mode": "text",
         "delay": 300,
         "topic": "",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "str",
         "x": 540,
-        "y": 840,
+        "y": 680,
         "wires": [
             [
                 "4bdf00ae.20f57"
@@ -80869,16 +80316,19 @@
         "name": "",
         "label": "PWF Crítica [psi]",
         "tooltip": "",
-        "group": "773bb06e2c212557",
-        "order": 17,
-        "width": 4,
+        "group": "0c116f2baac7c7f8",
+        "order": 2,
+        "width": "3",
         "height": 1,
         "passthru": true,
         "mode": "text",
         "delay": 300,
         "topic": "",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "str",
         "x": 510,
-        "y": 880,
+        "y": 720,
         "wires": [
             [
                 "7cad0caf.316bc4"
@@ -80893,16 +80343,19 @@
         "name": "",
         "label": "Presión de Burbuja [psi]",
         "tooltip": "",
-        "group": "773bb06e2c212557",
-        "order": 18,
-        "width": 4,
+        "group": "0c116f2baac7c7f8",
+        "order": 3,
+        "width": "3",
         "height": 1,
         "passthru": true,
         "mode": "text",
         "delay": 300,
         "topic": "",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "str",
         "x": 530,
-        "y": 920,
+        "y": 760,
         "wires": [
             [
                 "6bff5a6a.c8a6b4"
@@ -80930,7 +80383,7 @@
         "to": "",
         "reg": false,
         "x": 870,
-        "y": 160,
+        "y": 120,
         "wires": [
             []
         ]
@@ -80956,7 +80409,7 @@
         "to": "",
         "reg": false,
         "x": 940,
-        "y": 200,
+        "y": 160,
         "wires": [
             []
         ]
@@ -80982,7 +80435,7 @@
         "to": "",
         "reg": false,
         "x": 930,
-        "y": 240,
+        "y": 200,
         "wires": [
             []
         ]
@@ -81008,7 +80461,7 @@
         "to": "",
         "reg": false,
         "x": 930,
-        "y": 280,
+        "y": 240,
         "wires": [
             []
         ]
@@ -81034,7 +80487,7 @@
         "to": "",
         "reg": false,
         "x": 890,
-        "y": 400,
+        "y": 320,
         "wires": [
             []
         ]
@@ -81060,7 +80513,7 @@
         "to": "",
         "reg": false,
         "x": 950,
-        "y": 440,
+        "y": 360,
         "wires": [
             []
         ]
@@ -81086,7 +80539,7 @@
         "to": "",
         "reg": false,
         "x": 940,
-        "y": 480,
+        "y": 400,
         "wires": [
             []
         ]
@@ -81112,7 +80565,7 @@
         "to": "",
         "reg": false,
         "x": 920,
-        "y": 600,
+        "y": 480,
         "wires": [
             []
         ]
@@ -81138,7 +80591,7 @@
         "to": "",
         "reg": false,
         "x": 920,
-        "y": 640,
+        "y": 520,
         "wires": [
             []
         ]
@@ -81164,7 +80617,7 @@
         "to": "",
         "reg": false,
         "x": 910,
-        "y": 680,
+        "y": 560,
         "wires": [
             []
         ]
@@ -81190,7 +80643,7 @@
         "to": "",
         "reg": false,
         "x": 950,
-        "y": 720,
+        "y": 600,
         "wires": [
             []
         ]
@@ -81216,7 +80669,7 @@
         "to": "",
         "reg": false,
         "x": 920,
-        "y": 840,
+        "y": 680,
         "wires": [
             []
         ]
@@ -81242,7 +80695,7 @@
         "to": "",
         "reg": false,
         "x": 890,
-        "y": 880,
+        "y": 720,
         "wires": [
             []
         ]
@@ -81268,7 +80721,7 @@
         "to": "",
         "reg": false,
         "x": 910,
-        "y": 920,
+        "y": 760,
         "wires": [
             []
         ]
@@ -81383,14 +80836,15 @@
         "name": "",
         "order": 1,
         "width": 12,
-        "height": 10,
+        "height": "11",
         "format": "<div ng-bind-html=\"msg.payload | trusted\"></div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
+        "className": "",
         "x": 880,
-        "y": 1040,
+        "y": 880,
         "wires": [
             []
         ]
@@ -81405,7 +80859,7 @@
             "97407954.a004c8"
         ],
         "x": 125,
-        "y": 1040,
+        "y": 880,
         "wires": [
             [
                 "c632db8e6e969497"
@@ -81431,7 +80885,7 @@
         "repair": false,
         "outputs": 1,
         "x": 260,
-        "y": 1040,
+        "y": 880,
         "wires": [
             [
                 "a4488ab195f24a79"
@@ -81457,7 +80911,7 @@
         "payload": "true",
         "payloadType": "bool",
         "x": 290,
-        "y": 1080,
+        "y": 920,
         "wires": [
             [
                 "a4488ab195f24a79"
@@ -81477,7 +80931,7 @@
         "template": "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n    \n  </head>\n  <body>\n    <div class=\"disable-select\">\n        <div class=\"container\">\n            <div class=\"row justify-content-center\" style=\"background-color:#fcfcfc;\">\n                <div class=\"co-12\">{{{chart}}}</div>\n            </div>\n        </div>\n    </div>\n  </body>\n  <script src=\"http://localhost:1880/apexcharts/dist/apexcharts.js\"></script>\n  <style>\n    .disable-select {\n        user-select: none; /* supported by Chrome and Opera /\n        -webkit-user-select: none; / Safari /\n       -khtml-user-select: none; / Konqueror HTML /\n       -moz-user-select: none; / Firefox /\n       -ms-user-select: none; / Internet Explorer/Edge */\n    }\n  </style>\n</html>",
         "output": "str",
         "x": 740,
-        "y": 1040,
+        "y": 880,
         "wires": [
             [
                 "dadd83b07b70f7a7"
@@ -81494,7 +80948,7 @@
             "ad87cee4.7dbb5"
         ],
         "x": 345,
-        "y": 1000,
+        "y": 840,
         "wires": [
             [
                 "a4488ab195f24a79"
@@ -81514,7 +80968,7 @@
         "finalize": "",
         "libs": [],
         "x": 460,
-        "y": 1040,
+        "y": 880,
         "wires": [
             [
                 "5eb73b2ba006366d"
@@ -81534,7 +80988,7 @@
         "template": "<div id=\"chart\"></div>\n<script>\n    var options = {\n            series:[{\n                name: \"Presión de fondo fluyente (PWF)\",\n                data: [{{payload.AxisY}}]\n            }],\n            chart:{\n                height: 330,\n                width: 720,\n                type: 'line',\n                id: 'areachart-2',\n                toolbar:{\n                    show: false\n                },\n                animations:{\n                    enabled: false\n                }\n            },\n            annotations:{\n                yaxis:[\n                    {\n                        y: {{payload.Pcrit}},\n                        borderColor: '#c71e1e',\n                        label:{\n                            borderColor:'#c71e1e',\n                            position: 'left',\n                            position: 'top',\n                            offsetX: 90,\n                            offsetY: 0,                        \n                            style: {\n                                color:'#fff',\n                                background:'#000000',\n                                fontSize: '14px',\n                            },\n                            text:'Pc: ' + ({{payload.Pcrit}}).toFixed(2) + ' psi',\n                        }\n                    }, \n                    {\n                        y: {{payload.Pwf}},\n                        borderColor: '#c71e1e',\n                        label: {\n                            borderColor: '#c71e1e',\n                            offsetX: 0,\n                            offsetY: 15,\n                            style:{\n                                color: '#fff',\n                                background: '#000000',\n                                fontSize: '14px',\n                            },\n                            text: 'Pwf: ' + ({{payload.Pwf}}).toFixed(2) + ' psi',\n                        }\n                    }\n                ],\n                xaxis:[\n                    {\n                        x: {{payload.Q0}},\n                        strokeDashArray: 0,\n                        borderColor: '#775DD0',\n                        label:{\n                            borderColor: '#775DD0',\n                            style:{\n                                color: '#fff',\n                                background: '#775DD0',\n                                fontSize: '14px',\n                            },\n                            text: 'Caudal: ' + ({{payload.Q0}}).toFixed(0) + ' BPD' \n                        }\n                    }\n                ],\n                points:[{\n                    x: {{payload.Q0}},\n                    y: {{payload.Pwf}},\n                    marker: {\n                        size: 5,\n                        fillColor: '#32499d',\n                        strokeColor: '#2b2b2b',\n                        radius: 2,\n                        cssClass: 'apexcharts-custom-class'\n                    },\n                    label:{\n                        borderColor: '#2b2b2b',\n                        offsetX: -17,\n                        offsetY: 40,                        \n                        style:{\n                            color: '#fff',\n                            background: '#2b2b2b',\n                            fontSize: '14px',\n                        },\n                        text: 'Q'\n                    }\n                }]\n            },\n            tooltip:{\n                enabled: true\n            },\n            dataLabels:{\n                enabled: false\n            },\n            stroke:{\n                curve: 'straight',\n                width: [3]\n            },\n            grid:{\n                padding:{\n                    right: 30,\n                    left: 20\n                }\n            },\n            //title:{\n            //    text: 'Gráfica IPR',\n            //    align: 'center'\n            //},\n            colors: [\"#c71e1e\"],\n            xaxis:{\n                type: 'numeric',\n                show: true,\n                categories: [{{payload.AxisX}}],\n                title:{\n                    text:\"Caudal [BPD]\",\n                    style: {\n                        color: \"#000000\",\n                        fontSize: '14px',\n                        fontFamily: 'Helvetica, Arial, sans-serif',\n                        fontWeight: 600\n                    },\n                }\n            },\n            yaxis:{\n                title: {\n                    text: \"Presión [psi]\",\n                    style: {\n                        color: \"#000000\",\n                        fontSize: '14px',\n                        fontFamily: 'Helvetica, Arial, sans-serif',\n                        fontWeight: 600\n                    },\n                },\n            }            \n    };\n    \n    var chart = new ApexCharts(document.querySelector(\"#chart\"), options);\n    chart.render();\n</script>\n",
         "output": "str",
         "x": 600,
-        "y": 1040,
+        "y": 880,
         "wires": [
             [
                 "b21c4d3cb687028c"
@@ -87221,7 +86675,7 @@
         "tooltip": "",
         "group": "f3358016775d3d48",
         "order": 17,
-        "width": "2",
+        "width": 2,
         "height": 1,
         "passthru": true,
         "mode": "number",
@@ -102897,8 +102351,8 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1090,
-        "y": 1320,
+        "x": 1150,
+        "y": 1420,
         "wires": [
             []
         ]
@@ -103163,8 +102617,8 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1080,
-        "y": 1360,
+        "x": 1140,
+        "y": 1460,
         "wires": [
             []
         ]
@@ -103214,6 +102668,474 @@
         "y": 540,
         "wires": [
             []
+        ]
+    },
+    {
+        "id": "aae67d7aeefcebb5",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "20076456.83052c",
+        "order": 1,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "5770abad8f87d6a5",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 2,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "ca146c697e334df8",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 4,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "7ee0a99053a2c3b3",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 6,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "07a5d4d892fd3711",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 7,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "fccb11b1dbd95577",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 9,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "71e9e65507b7f061",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 11,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "720e341ff34e095f",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 12,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "6429f981b2cc7fcc",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 14,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "61bf2082200ca895",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 16,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "2615bc07b1a0862c",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 18,
+        "width": 10,
+        "height": 1
+    },
+    {
+        "id": "e4c86989ef5c2ceb",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 22,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "4b39c34005b96362",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "2540c0d0.abd4d",
+        "order": 1,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "8ffd8adffb025878",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "2540c0d0.abd4d",
+        "order": 2,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "dfa0693126a64742",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "2540c0d0.abd4d",
+        "order": 6,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "499f49838cedfc33",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "3afcf0f2.7f9b6",
+        "order": 4,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "c7822d663970781a",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "3afcf0f2.7f9b6",
+        "order": 6,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "ffed19bc96618b08",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "3afcf0f2.7f9b6",
+        "order": 18,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "24dc9eef78b64eee",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "4f87eabd.cfaf34",
+        "order": 1,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "54286b2084a54d8e",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "4f87eabd.cfaf34",
+        "order": 4,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "68940c7bea9d80a2",
+        "type": "ui_group",
+        "name": "Ingresar datos de estado mecánico",
+        "tab": "6315ac3b2a589b9d",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "90c0022f5eae925a",
+        "type": "ui_group",
+        "name": "Ingresar datos de propiedades de fluido",
+        "tab": "6315ac3b2a589b9d",
+        "order": 3,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "0cb60887cd63d581",
+        "type": "ui_group",
+        "name": "Ingresar datos pruebas de producción",
+        "tab": "6315ac3b2a589b9d",
+        "order": 4,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "0c116f2baac7c7f8",
+        "type": "ui_group",
+        "name": "Ingresar datos para gráfica IPR",
+        "tab": "6315ac3b2a589b9d",
+        "order": 5,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "6315ac3b2a589b9d",
+        "type": "ui_tab",
+        "name": "IWOC",
+        "icon": "dashboard",
+        "order": 12,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "0e2b34f0a3929c63",
+        "type": "ui_group",
+        "name": "Navbar_AVAS_DATOS",
+        "tab": "6315ac3b2a589b9d",
+        "order": 1,
+        "disp": false,
+        "width": "12",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "6ecc0f8144fb3cb9",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "0c116f2baac7c7f8",
+        "order": 4,
+        "width": "6",
+        "height": "5",
+        "className": ""
+    },
+    {
+        "id": "22f69512af11d35a",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "0cb60887cd63d581",
+        "order": 8,
+        "width": "6",
+        "height": "5",
+        "className": ""
+    },
+    {
+        "id": "c7c8109bb79e7e46",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "3aeadfca28a90fa2",
+        "order": 2,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "bcd435210241f10b",
+        "type": "ui_template",
+        "z": "2e27dea6.c4c362",
+        "g": "2d8d39f1e038a15b",
+        "group": "0e2b34f0a3929c63",
+        "name": "Pantalla IWOC",
+        "order": 1,
+        "width": 12,
+        "height": 1,
+        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n\n</head>\n\n<body>\n    <!-- Navigation bar -->\n    <nav>\n        <div class=\"nav nav-pills nav-fill\" id=\"nav-tab\" role=\"tablist\">\n            <a class=\"nav-item nav-link active\" id=\"nav-IWOC_DATOS-tab\" data-toggle=\"tab\"\n                href=\"#nav-IWOC_DATOS\" role=\"tab\" aria-controls=\"nav-IWOC_DATOS\" aria-selected=\"true\"\n                ng-click=\"send({payload:IWOC_DATOS()})\">Ingreso de datos</a>\n            <a class=\"nav-item nav-link\" id=\"nav-IPR-tab\" data-toggle=\"tab\"\n                href=\"#nav-IPR\" role=\"tab\" aria-controls=\"nav-IPR\" aria-selected=\"false\"\n                ng-click=\"send({payload:IPR()})\">Gráfica IPR</a>\n        </div>\n    </nav>\n\n    <script>\n        this.scope.IWOC_DATOS = function() { return \"IWOC_DATOS\"; };\n        this.scope.IPR = function() { return \"IPR\"; };\n    </script>\n\n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n</body>\n\n</html>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1100,
+        "y": 680,
+        "wires": [
+            [
+                "bbc502149380a6f4"
+            ]
+        ]
+    },
+    {
+        "id": "bd85cd0b58402731",
+        "type": "link in",
+        "z": "2e27dea6.c4c362",
+        "g": "2d8d39f1e038a15b",
+        "name": "Menú Tendencias SWCPRO",
+        "links": [
+            "4372d5a0.d338dc",
+            "97407954.a004c8"
+        ],
+        "x": 1155,
+        "y": 640,
+        "wires": [
+            [
+                "9dfde348d71f22a2"
+            ]
+        ]
+    },
+    {
+        "id": "9dfde348d71f22a2",
+        "type": "switch",
+        "z": "2e27dea6.c4c362",
+        "g": "2d8d39f1e038a15b",
+        "name": "",
+        "property": "#:(memoryOnly)::Navegación.Pantalla",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "IWOC",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1250,
+        "y": 640,
+        "wires": [
+            [
+                "c8c8b0669e04bbf0"
+            ]
+        ]
+    },
+    {
+        "id": "bbc502149380a6f4",
+        "type": "switch",
+        "z": "2e27dea6.c4c362",
+        "g": "2d8d39f1e038a15b",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "IWOC_DATOS",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "IPR",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1250,
+        "y": 680,
+        "wires": [
+            [
+                "c8c8b0669e04bbf0"
+            ],
+            [
+                "9bf756c0ed256553"
+            ]
+        ]
+    },
+    {
+        "id": "c8c8b0669e04bbf0",
+        "type": "change",
+        "z": "2e27dea6.c4c362",
+        "g": "2d8d39f1e038a15b",
+        "name": "IWOC_DATOS",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"IWOC_GRAFICA_IPR\"],\t       \"show\":[ \"IWOC_IWOC_DATOS\",\t                \"IWOC_Status_Bar\",\t                \"IWOC_Ingresar_datos_de_estado_mecánico\",\t                \"IWOC_Ingresar_datos_de_propiedades_de_fluido\",\t                \"IWOC_Ingresar_datos_pruebas_de_producción\",\t                \"IWOC_Ingresar_datos_para_gráfica_IPR\"]\t   }\t}",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1400,
+        "y": 660,
+        "wires": [
+            [
+                "a5f101f20d6fd56b"
+            ]
+        ]
+    },
+    {
+        "id": "a5f101f20d6fd56b",
+        "type": "link out",
+        "z": "2e27dea6.c4c362",
+        "g": "2d8d39f1e038a15b",
+        "name": "",
+        "links": [
+            "805762db.d27b7",
+            "8a17d991.081178"
+        ],
+        "x": 1515,
+        "y": 680,
+        "wires": []
+    },
+    {
+        "id": "9bf756c0ed256553",
+        "type": "change",
+        "z": "2e27dea6.c4c362",
+        "g": "2d8d39f1e038a15b",
+        "name": "GRAFICA_IPR",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"IWOC_IWOC_DATOS\",\t                \"IWOC_Ingresar_datos_de_estado_mecánico\",\t                \"IWOC_Ingresar_datos_de_propiedades_de_fluido\",\t                \"IWOC_Ingresar_datos_pruebas_de_producción\",\t                \"IWOC_Ingresar_datos_para_gráfica_IPR\"],\t       \"show\":[ \"IWOC_GRAFICA_IPR\"]\t   }\t}",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1400,
+        "y": 700,
+        "wires": [
+            [
+                "a5f101f20d6fd56b"
+            ]
         ]
     }
 ]
