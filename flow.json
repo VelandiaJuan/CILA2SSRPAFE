@@ -1350,7 +1350,9 @@
             "0f2c231df155d32b"
         ],
         "x": 24,
-        "y": 609
+        "y": 609,
+        "w": 2632,
+        "h": 552
     },
     {
         "id": "3cb51855.a66038",
@@ -1365,7 +1367,9 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169
+        "y": 1169,
+        "w": 232,
+        "h": 82
     },
     {
         "id": "27a0641a.d154dc",
@@ -2350,7 +2354,9 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269
+        "y": 1269,
+        "w": 352,
+        "h": 82
     },
     {
         "id": "6202107f.ed9aa",
@@ -2423,7 +2429,9 @@
             "8e77c9d647a0565f"
         ],
         "x": 44,
-        "y": -21
+        "y": -21,
+        "w": 1992,
+        "h": 622
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -2457,7 +2465,9 @@
             "17c1f84a5b3ad8ad"
         ],
         "x": 3224,
-        "y": 19
+        "y": 19,
+        "w": 1284,
+        "h": 1708
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -2478,7 +2488,9 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169
+        "y": 1169,
+        "w": 782,
+        "h": 182
     },
     {
         "id": "086b9d08c3b68939",
@@ -2511,7 +2523,9 @@
             "9d8018f614d8e077"
         ],
         "x": 24,
-        "y": 1359
+        "y": 1359,
+        "w": 1022,
+        "h": 292
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -2537,7 +2551,9 @@
             "6e75b5f5657d3a7e"
         ],
         "x": 24,
-        "y": 1679
+        "y": 1679,
+        "w": 1132,
+        "h": 202
     },
     {
         "id": "afdbbb533d628687",
@@ -2553,7 +2569,9 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679
+        "y": 1679,
+        "w": 332,
+        "h": 82
     },
     {
         "id": "ba075c8cc622876a",
@@ -3376,9 +3394,7 @@
             "8f3bb3f83df36820"
         ],
         "x": 34,
-        "y": 359,
-        "w": 692,
-        "h": 242
+        "y": 359
     },
     {
         "id": "da9df0726c99ccd4",
@@ -3407,9 +3423,7 @@
             "0b885dc22789a069"
         ],
         "x": 34,
-        "y": 19,
-        "w": 812,
-        "h": 262
+        "y": 19
     },
     {
         "id": "2da065ba546c3529",
@@ -3647,9 +3661,7 @@
             "ff82a216b3632441"
         ],
         "x": 914,
-        "y": 19,
-        "w": 352,
-        "h": 242
+        "y": 19
     },
     {
         "id": "0e5fc807c9fa372e",
@@ -4127,7 +4139,9 @@
             "d3fc647f21f7d8eb"
         ],
         "x": 254,
-        "y": 1939
+        "y": 1939,
+        "w": 532,
+        "h": 142
     },
     {
         "id": "5519b13db7a1857a",
@@ -4262,6 +4276,79 @@
         "y": 359,
         "w": 2272,
         "h": 262
+    },
+    {
+        "id": "e4cabd2892b5651b",
+        "type": "group",
+        "z": "830fadc6f5236b78",
+        "name": "Habilitar el double speed control",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "19a1cbedecd70b0b",
+            "663522710551f94d",
+            "e6fa09f375d678ed",
+            "771af929757a0bad",
+            "e5c9efce519be42a",
+            "0e2c72f39a6f522b",
+            "16a17c1e87e4c8c7",
+            "03de534216b35059",
+            "5c2a6bfeeacf3425",
+            "9c653ed5958b9bfe",
+            "cda177c85b21954f",
+            "e3610e70df32ce6e",
+            "44b52a5ca865f32a"
+        ],
+        "x": 114,
+        "y": 999,
+        "w": 862,
+        "h": 242
+    },
+    {
+        "id": "65dbd90af70f1e98",
+        "type": "group",
+        "z": "830fadc6f5236b78",
+        "name": "Adquisión de Data",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "46d5fccb2caf5c6f",
+            "d5b64351ea9799e8",
+            "fb6b90c38f6aa7db",
+            "14ec7dae23d1555b",
+            "24d112a4a561706b",
+            "57450dbd41529225",
+            "f3faf9612e6c7df3",
+            "4ecc1a5be18a461f",
+            "198ef70bf560b890",
+            "f7dfcbf933c3b97a",
+            "9d65fe56ff37ec87",
+            "6820aae1344b079e",
+            "afc20a72f4c90f05",
+            "932eb8b65e7cc7be"
+        ],
+        "x": 114,
+        "y": 599,
+        "w": 882,
+        "h": 348
+    },
+    {
+        "id": "2ceb8ec502cd9a4d",
+        "type": "group",
+        "z": "830fadc6f5236b78",
+        "name": "visualizar Referencia",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "3a58368fdac48060"
+        ],
+        "x": 1134,
+        "y": 559,
+        "w": 192,
+        "h": 82
     },
     {
         "id": "1306de9a.9ba341",
@@ -4938,7 +5025,9 @@
             "1a666ca6835d2d34"
         ],
         "x": 74,
-        "y": 399
+        "y": 399,
+        "w": 852,
+        "h": 132
     },
     {
         "id": "cf985e84.c7693",
@@ -5892,7 +5981,9 @@
             "26836fe8d310f685"
         ],
         "x": 3428,
-        "y": 413
+        "y": 413,
+        "w": 1054,
+        "h": 758
     },
     {
         "id": "7bc9759a9a7ea0be",
@@ -5948,7 +6039,9 @@
             "09240a88f66b7c6f"
         ],
         "x": 3434,
-        "y": 1179
+        "y": 1179,
+        "w": 992,
+        "h": 522
     },
     {
         "id": "dad84feb.d4773",
@@ -7488,7 +7581,9 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 439
+        "y": 439,
+        "w": 402,
+        "h": 362
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -7516,7 +7611,9 @@
             "1f3630da2492d4f9"
         ],
         "x": 3454,
-        "y": 809
+        "y": 809,
+        "w": 1002,
+        "h": 212
     },
     {
         "id": "b6e70888e2a92a81",
@@ -7585,6 +7682,49 @@
         ],
         "x": 2394,
         "y": 1179
+    },
+    {
+        "id": "932eb8b65e7cc7be",
+        "type": "group",
+        "z": "830fadc6f5236b78",
+        "g": "65dbd90af70f1e98",
+        "name": "Confirmación y Calculo de las Velocidades",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "dd15a0bed0cbf685",
+            "a651344ef9b27c95",
+            "daa6060d0e8d7de1",
+            "6ba0fad0bc54e475",
+            "ba844f213c4dc194",
+            "58bde233759fd9a4"
+        ],
+        "x": 154,
+        "y": 799,
+        "w": 792,
+        "h": 122
+    },
+    {
+        "id": "7fd14179472bdff0",
+        "type": "group",
+        "z": "830fadc6f5236b78",
+        "name": "Logica del control de doble velocidad",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "b99924ea9dd30d0c",
+            "3ebd377390004e5d",
+            "7c0cf97370aaa6b7",
+            "2b771903633d12e0",
+            "9394087df0bac993",
+            "33b337abd7c7d4c5"
+        ],
+        "x": 114,
+        "y": 439,
+        "w": 712,
+        "h": 142
     },
     {
         "id": "d25d405a.19cff",
@@ -61505,7 +61645,9 @@
             "32b99eae6c2ebf0c",
             "601364caf3d1d399",
             "3023be06a10a9863",
-            "5a2971a54a238a55"
+            "5a2971a54a238a55",
+            "e3610e70df32ce6e",
+            "24d112a4a561706b"
         ],
         "x": 335,
         "y": 320,
@@ -88620,32 +88762,6 @@
         "wires": []
     },
     {
-        "id": "2ca4a2b51b3c72e4",
-        "type": "ui_gauge",
-        "z": "830fadc6f5236b78",
-        "name": "",
-        "group": "4026595aa6261291",
-        "order": 1,
-        "width": 0,
-        "height": 0,
-        "gtype": "gage",
-        "title": "gauge",
-        "label": "units",
-        "format": "{{value}}",
-        "min": 0,
-        "max": 10,
-        "colors": [
-            "#00b500",
-            "#e6e600",
-            "#ca3838"
-        ],
-        "seg1": "",
-        "seg2": "",
-        "x": 260,
-        "y": 120,
-        "wires": []
-    },
-    {
         "id": "7065d581ac8a3751",
         "type": "ui_text_input",
         "z": "566bb43b9072dd60",
@@ -101275,6 +101391,961 @@
             [
                 "5dea5f3a2e3fb369"
             ]
+        ]
+    },
+    {
+        "id": "dd15a0bed0cbf685",
+        "type": "function",
+        "z": "830fadc6f5236b78",
+        "g": "932eb8b65e7cc7be",
+        "name": "SpeedCalculate",
+        "func": "var ReferenciaImput = 10;\nvar porcentUp = 40;\nvar porcentDown = 60;\n\nif(ReferenciaImput != 0){ // si existe la ReferenciaImput\n    var TPeriodo = 60/ReferenciaImput;\n}\n// calculo del tiempo de subida y tiempo de bajada\nvar Uptime = (porcentUp*TPeriodo)/100;\nvar Downtime = (100 - porcentUp)*TPeriodo/100;\n// calculo de las velocidades\nif(Uptime != 0 && Downtime !=0 ){\n    var upSpeedCalculated = 30 / Uptime;\n    var DownSpeedCalculated = 30 / Downtime;\n    node.status({fill:\"green\",shape:\"ring\",text:\"Configurate\"});\n}\n\n// variables globales\nglobal.set(\"Control_functions.doubleSpeed.upSpeedCalculated\", upSpeedCalculated);\nglobal.set(\"Control_functions.doubleSpeed.DownSpeedCalculated\", DownSpeedCalculated);\n// visualizador de variables\ncontext.set(\"ReferenciaImput\", ReferenciaImput,\"memoryOnly\");\ncontext.set(\"TPeriodo\", TPeriodo,\"memoryOnly\");\ncontext.set(\"porcentUp\", porcentUp,\"memoryOnly\");\ncontext.set(\"porcentDown\", porcentDown,\"memoryOnly\");\ncontext.set(\"Uptime\", Uptime,\"memoryOnly\");\ncontext.set(\"Downtime\", Downtime,\"memoryOnly\");\ncontext.set(\"upSpeedCalculated\", upSpeedCalculated,\"memoryOnly\");\ncontext.set(\"DownSpeedCalculated\", DownSpeedCalculated,\"memoryOnly\");\nreturn msg;\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 840,
+        "y": 840,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "19a1cbedecd70b0b",
+        "type": "ui_switch",
+        "z": "830fadc6f5236b78",
+        "g": "e4cabd2892b5651b",
+        "name": "Habilitar",
+        "label": "Habilitar",
+        "tooltip": "",
+        "group": "4026595aa6261291",
+        "order": 1,
+        "width": "2",
+        "height": "1",
+        "passthru": false,
+        "decouple": "true",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 220,
+        "y": 1120,
+        "wires": [
+            [
+                "663522710551f94d"
+            ]
+        ]
+    },
+    {
+        "id": "663522710551f94d",
+        "type": "switch",
+        "z": "830fadc6f5236b78",
+        "g": "e4cabd2892b5651b",
+        "name": "actual",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 370,
+        "y": 1120,
+        "wires": [
+            [
+                "e6fa09f375d678ed"
+            ],
+            [
+                "771af929757a0bad"
+            ]
+        ]
+    },
+    {
+        "id": "e6fa09f375d678ed",
+        "type": "ui_toast",
+        "z": "830fadc6f5236b78",
+        "g": "e4cabd2892b5651b",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "Aceptar",
+        "cancel": "Cancelar",
+        "raw": false,
+        "className": "",
+        "topic": "¿Desea Activar el Pump off controller?",
+        "name": "confirm",
+        "x": 460,
+        "y": 1080,
+        "wires": [
+            [
+                "0e2c72f39a6f522b"
+            ]
+        ]
+    },
+    {
+        "id": "771af929757a0bad",
+        "type": "ui_toast",
+        "z": "830fadc6f5236b78",
+        "g": "e4cabd2892b5651b",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "Aceptar",
+        "cancel": "Cancelar",
+        "raw": false,
+        "className": "",
+        "topic": "¿Desea Desactivar el Pump off controller?",
+        "name": "confirm",
+        "x": 440,
+        "y": 1160,
+        "wires": [
+            [
+                "e5c9efce519be42a"
+            ]
+        ]
+    },
+    {
+        "id": "e5c9efce519be42a",
+        "type": "switch",
+        "z": "830fadc6f5236b78",
+        "g": "e4cabd2892b5651b",
+        "name": "if",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Aceptar",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Cancelar",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 650,
+        "y": 1180,
+        "wires": [
+            [
+                "5c2a6bfeeacf3425"
+            ],
+            [
+                "9c653ed5958b9bfe"
+            ]
+        ]
+    },
+    {
+        "id": "0e2c72f39a6f522b",
+        "type": "switch",
+        "z": "830fadc6f5236b78",
+        "g": "e4cabd2892b5651b",
+        "name": "if",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Aceptar",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Cancelar",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 610,
+        "y": 1080,
+        "wires": [
+            [
+                "16a17c1e87e4c8c7"
+            ],
+            [
+                "03de534216b35059"
+            ]
+        ]
+    },
+    {
+        "id": "16a17c1e87e4c8c7",
+        "type": "change",
+        "z": "830fadc6f5236b78",
+        "g": "e4cabd2892b5651b",
+        "name": "habilitar",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.doubleSpeed.habilitado",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 760,
+        "y": 1060,
+        "wires": [
+            [
+                "cda177c85b21954f"
+            ]
+        ]
+    },
+    {
+        "id": "03de534216b35059",
+        "type": "change",
+        "z": "830fadc6f5236b78",
+        "g": "e4cabd2892b5651b",
+        "name": "Deshabilitar",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.doubleSpeed.habilitado",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 770,
+        "y": 1100,
+        "wires": [
+            [
+                "cda177c85b21954f"
+            ]
+        ]
+    },
+    {
+        "id": "5c2a6bfeeacf3425",
+        "type": "change",
+        "z": "830fadc6f5236b78",
+        "g": "e4cabd2892b5651b",
+        "name": "Deshabilitar",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.doubleSpeed.habilitado",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 790,
+        "y": 1160,
+        "wires": [
+            [
+                "cda177c85b21954f"
+            ]
+        ]
+    },
+    {
+        "id": "9c653ed5958b9bfe",
+        "type": "change",
+        "z": "830fadc6f5236b78",
+        "g": "e4cabd2892b5651b",
+        "name": "habilitar",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.doubleSpeed.habilitado",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 780,
+        "y": 1200,
+        "wires": [
+            [
+                "cda177c85b21954f"
+            ]
+        ]
+    },
+    {
+        "id": "cda177c85b21954f",
+        "type": "link out",
+        "z": "830fadc6f5236b78",
+        "g": "e4cabd2892b5651b",
+        "name": "botonHabilitarSpeedControlOut",
+        "links": [
+            "e3610e70df32ce6e"
+        ],
+        "x": 935,
+        "y": 1120,
+        "wires": []
+    },
+    {
+        "id": "e3610e70df32ce6e",
+        "type": "link in",
+        "z": "830fadc6f5236b78",
+        "g": "e4cabd2892b5651b",
+        "name": "botonHabilitarSpeedControlInt",
+        "links": [
+            "ad87cee4.7dbb5",
+            "cda177c85b21954f"
+        ],
+        "x": 175,
+        "y": 1040,
+        "wires": [
+            [
+                "44b52a5ca865f32a"
+            ]
+        ]
+    },
+    {
+        "id": "44b52a5ca865f32a",
+        "type": "change",
+        "z": "830fadc6f5236b78",
+        "g": "e4cabd2892b5651b",
+        "name": "habilitado",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Control_functions.doubleSpeed.habilitado",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 200,
+        "y": 1080,
+        "wires": [
+            [
+                "19a1cbedecd70b0b"
+            ]
+        ]
+    },
+    {
+        "id": "46d5fccb2caf5c6f",
+        "type": "ui_text_input",
+        "z": "830fadc6f5236b78",
+        "g": "65dbd90af70f1e98",
+        "name": "",
+        "label": "Porcentaje Subida",
+        "tooltip": "",
+        "group": "4026595aa6261291",
+        "order": 1,
+        "width": "3",
+        "height": "1",
+        "passthru": true,
+        "mode": "number",
+        "delay": 300,
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 530,
+        "y": 680,
+        "wires": [
+            [
+                "fb6b90c38f6aa7db"
+            ]
+        ]
+    },
+    {
+        "id": "d5b64351ea9799e8",
+        "type": "ui_text_input",
+        "z": "830fadc6f5236b78",
+        "g": "65dbd90af70f1e98",
+        "name": "",
+        "label": "Porcentaje Bajada",
+        "tooltip": "",
+        "group": "4026595aa6261291",
+        "order": 1,
+        "width": "3",
+        "height": "1",
+        "passthru": true,
+        "mode": "number",
+        "delay": 300,
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 530,
+        "y": 740,
+        "wires": [
+            [
+                "14ec7dae23d1555b"
+            ]
+        ]
+    },
+    {
+        "id": "3a58368fdac48060",
+        "type": "ui_text",
+        "z": "830fadc6f5236b78",
+        "g": "2ceb8ec502cd9a4d",
+        "group": "4026595aa6261291",
+        "order": 3,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "Referencia",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "",
+        "x": 1230,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "a651344ef9b27c95",
+        "type": "ui_button",
+        "z": "830fadc6f5236b78",
+        "g": "932eb8b65e7cc7be",
+        "name": "",
+        "group": "4026595aa6261291",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Confirmar",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 240,
+        "y": 860,
+        "wires": [
+            [
+                "6ba0fad0bc54e475"
+            ]
+        ]
+    },
+    {
+        "id": "fb6b90c38f6aa7db",
+        "type": "function",
+        "z": "830fadc6f5236b78",
+        "g": "65dbd90af70f1e98",
+        "name": "CalculoDinámicoPorcentaje",
+        "func": "var porcentajeSubida = msg.payload;\nvar porcentajebajada = 0;\nif(porcentajeSubida <= 100 && porcentajeSubida>=0){\n    var porcentajebajada = 100 - porcentajeSubida;\n    node.status({fill:\"green\",shape:\"dot\",text:\"enRango\"});\n}else if(porcentajeSubida > 100){\n    porcentajebajada = 0;\n    porcentajeSubida = 100\n    node.status({fill:\"red\",shape:\"dot\",text:\"Mayora100\"});\n}else{\n    porcentajeSubida = 0;\n    porcentajebajada = 100;\n}\ncontext.set(\"porcentajeSubida\", porcentajeSubida,\"memoryOnly\");\ncontext.set(\"porcentajebajada\", porcentajebajada,\"memoryOnly\");\nflow.set(\"porcentajeSubida\", porcentajeSubida,\"memoryOnly\");\nflow.set(\"porcentajebajada\", porcentajebajada,\"memoryOnly\");\n\n//retornar el valor al siguiente mensaje\nmsg.payload = porcentajebajada;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 800,
+        "y": 680,
+        "wires": [
+            [
+                "f7dfcbf933c3b97a"
+            ]
+        ]
+    },
+    {
+        "id": "14ec7dae23d1555b",
+        "type": "function",
+        "z": "830fadc6f5236b78",
+        "g": "65dbd90af70f1e98",
+        "name": "CalculoDinámicoPorcentaje",
+        "func": "var porcentajebajada = msg.payload;\nvar porcentajeSubida = 0;\nif (porcentajebajada <= 100 && porcentajebajada >= 0) {\n    porcentajeSubida = 100 - porcentajebajada;\n    node.status({ fill: \"green\", shape: \"dot\", text: \"enRango\" });\n} else if (porcentajebajada > 100) {\n    porcentajebajada = 100;\n    porcentajeSubida = 0\n    node.status({ fill: \"red\", shape: \"dot\", text: \"Mayora100\" });\n} else {\n    porcentajeSubida = 100;\n    porcentajebajada = 0;\n}\ncontext.set(\"porcentajeSubida\", porcentajeSubida, \"memoryOnly\");\ncontext.set(\"porcentajebajada\", porcentajebajada, \"memoryOnly\");\nflow.set(\"porcentajeSubida\", porcentajeSubida, \"memoryOnly\");\nflow.set(\"porcentajebajada\", porcentajebajada, \"memoryOnly\");\n\n//retornar el valor al siguiente mensaje\nmsg.payload = porcentajeSubida;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 800,
+        "y": 740,
+        "wires": [
+            [
+                "afc20a72f4c90f05"
+            ]
+        ]
+    },
+    {
+        "id": "daa6060d0e8d7de1",
+        "type": "change",
+        "z": "830fadc6f5236b78",
+        "g": "932eb8b65e7cc7be",
+        "name": "savePercent",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.doubleSpeed.risePercent",
+                "pt": "global",
+                "to": "#:(memoryOnly)::porcentajeSubida",
+                "tot": "flow"
+            },
+            {
+                "t": "set",
+                "p": "Control_functions.doubleSpeed.dropPercent",
+                "pt": "global",
+                "to": "#:(memoryOnly)::porcentajebajada",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 650,
+        "y": 840,
+        "wires": [
+            [
+                "dd15a0bed0cbf685"
+            ]
+        ]
+    },
+    {
+        "id": "24d112a4a561706b",
+        "type": "link in",
+        "z": "830fadc6f5236b78",
+        "g": "65dbd90af70f1e98",
+        "name": "InicializarVariablesDobleVelocidad",
+        "links": [
+            "58bde233759fd9a4",
+            "ad87cee4.7dbb5"
+        ],
+        "x": 155,
+        "y": 680,
+        "wires": [
+            [
+                "57450dbd41529225",
+                "f3faf9612e6c7df3"
+            ]
+        ]
+    },
+    {
+        "id": "57450dbd41529225",
+        "type": "change",
+        "z": "830fadc6f5236b78",
+        "g": "65dbd90af70f1e98",
+        "name": "rise",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Control_functions.doubleSpeed.risePercent",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 330,
+        "y": 680,
+        "wires": [
+            [
+                "46d5fccb2caf5c6f"
+            ]
+        ]
+    },
+    {
+        "id": "f3faf9612e6c7df3",
+        "type": "change",
+        "z": "830fadc6f5236b78",
+        "g": "65dbd90af70f1e98",
+        "name": "drop",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Control_functions.doubleSpeed.dropPercent",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 330,
+        "y": 760,
+        "wires": [
+            [
+                "d5b64351ea9799e8"
+            ]
+        ]
+    },
+    {
+        "id": "4ecc1a5be18a461f",
+        "type": "rbe",
+        "z": "830fadc6f5236b78",
+        "g": "65dbd90af70f1e98",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 330,
+        "y": 640,
+        "wires": [
+            [
+                "46d5fccb2caf5c6f"
+            ]
+        ]
+    },
+    {
+        "id": "198ef70bf560b890",
+        "type": "rbe",
+        "z": "830fadc6f5236b78",
+        "g": "65dbd90af70f1e98",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 330,
+        "y": 720,
+        "wires": [
+            [
+                "d5b64351ea9799e8"
+            ]
+        ]
+    },
+    {
+        "id": "6ba0fad0bc54e475",
+        "type": "ui_toast",
+        "z": "830fadc6f5236b78",
+        "g": "932eb8b65e7cc7be",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "Aceptar",
+        "cancel": "Cancelar",
+        "raw": false,
+        "className": "",
+        "topic": "¿Desea Actualizar Datos del control de doble velocidad?",
+        "name": "confirm",
+        "x": 380,
+        "y": 860,
+        "wires": [
+            [
+                "ba844f213c4dc194"
+            ]
+        ]
+    },
+    {
+        "id": "ba844f213c4dc194",
+        "type": "switch",
+        "z": "830fadc6f5236b78",
+        "g": "932eb8b65e7cc7be",
+        "name": "if",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Aceptar",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Cancelar",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 510,
+        "y": 860,
+        "wires": [
+            [
+                "daa6060d0e8d7de1"
+            ],
+            [
+                "58bde233759fd9a4"
+            ]
+        ]
+    },
+    {
+        "id": "58bde233759fd9a4",
+        "type": "link out",
+        "z": "830fadc6f5236b78",
+        "g": "932eb8b65e7cc7be",
+        "name": "CancelarActualizacionDeDatosDobleVelocidad",
+        "links": [
+            "24d112a4a561706b"
+        ],
+        "x": 595,
+        "y": 880,
+        "wires": []
+    },
+    {
+        "id": "f7dfcbf933c3b97a",
+        "type": "link out",
+        "z": "830fadc6f5236b78",
+        "g": "65dbd90af70f1e98",
+        "name": "labelPorcentajeSubida",
+        "links": [
+            "9d65fe56ff37ec87"
+        ],
+        "x": 955,
+        "y": 680,
+        "wires": []
+    },
+    {
+        "id": "9d65fe56ff37ec87",
+        "type": "link in",
+        "z": "830fadc6f5236b78",
+        "g": "65dbd90af70f1e98",
+        "name": "labelPorcentajedebajadaIn",
+        "links": [
+            "f7dfcbf933c3b97a"
+        ],
+        "x": 255,
+        "y": 720,
+        "wires": [
+            [
+                "198ef70bf560b890"
+            ]
+        ]
+    },
+    {
+        "id": "6820aae1344b079e",
+        "type": "link in",
+        "z": "830fadc6f5236b78",
+        "g": "65dbd90af70f1e98",
+        "name": "labelProcentajeSubidaIn",
+        "links": [
+            "afc20a72f4c90f05"
+        ],
+        "x": 165,
+        "y": 640,
+        "wires": [
+            [
+                "4ecc1a5be18a461f"
+            ]
+        ]
+    },
+    {
+        "id": "afc20a72f4c90f05",
+        "type": "link out",
+        "z": "830fadc6f5236b78",
+        "g": "65dbd90af70f1e98",
+        "name": "labelPorcentajeBajadaOut",
+        "links": [
+            "6820aae1344b079e"
+        ],
+        "x": 955,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "b99924ea9dd30d0c",
+        "type": "function",
+        "z": "830fadc6f5236b78",
+        "g": "7fd14179472bdff0",
+        "name": "logic",
+        "func": "var habilitado = global.get(\"Control_functions.doubleSpeed.habilitado\")||false;\nvar estado = 0;//estado en el que esta el equipo\n\nif(habilitado == true){\n    estado = true;\n    node.status({fill:\"green\",shape:\"ring\",text:estado});\n}else if(habilitado == false){\n    estado = false;\n    node.status({fill:\"red\",shape:\"ring\",text:estado});\n}\n\ncontext.set(\"habilitado\", habilitado,\"memoryOnly\");\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 480,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3ebd377390004e5d",
+        "type": "function",
+        "z": "830fadc6f5236b78",
+        "g": "7fd14179472bdff0",
+        "name": "IdentificarUpDownStroke",
+        "func": "var int1 = msg.payload;//lectura actual\nvar int1_k1 = context.get(\"int1_k1\", \"memoryOnly\")||0;//lecturaAnterior\nvar estado = 0;var color = \"red\";\nvar aux = int1 - int1_k1;\nif(aux >= 0){//está en upstroke\n    estado = \"Upstroke\";color = \"green\";\n}else if(aux < 0 ){//esta un downestroke\n    estado = \"DownStroke\";color = \"yellow\";\n}else {\n    estado = \"DownStroke\";color = \"yellow\";\n}\n// guardando el estado anterior\ncontext.set(\"int1_k1\", int1,\"memoryOnly\" );\ncontext.set(\"int1\", int1,\"memoryOnly\" );\nnode.status({fill:color,shape:\"dot\",text:estado});\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 690,
+        "y": 540,
+        "wires": [
+            []
+        ],
+        "info": "Función que nos permite identificar si \r\nel equipo está en tiempo de subida o de\r\nbajada dependiendo de la entrada del inclinometro"
+    },
+    {
+        "id": "7c0cf97370aaa6b7",
+        "type": "inject",
+        "z": "830fadc6f5236b78",
+        "g": "7fd14179472bdff0",
+        "name": "200ms",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payloadType": "date",
+        "x": 220,
+        "y": 540,
+        "wires": [
+            [
+                "9394087df0bac993"
+            ]
+        ]
+    },
+    {
+        "id": "2b771903633d12e0",
+        "type": "inject",
+        "z": "830fadc6f5236b78",
+        "g": "7fd14179472bdff0",
+        "name": "1s",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payloadType": "date",
+        "x": 230,
+        "y": 480,
+        "wires": [
+            [
+                "b99924ea9dd30d0c"
+            ]
+        ]
+    },
+    {
+        "id": "9394087df0bac993",
+        "type": "function",
+        "z": "830fadc6f5236b78",
+        "g": "7fd14179472bdff0",
+        "name": "senoFunctionSimulación",
+        "func": "var time = msg.payload;\nvar y = 1+(Math.sin(time/5000) * 1);\nmsg.payload = y;\ncontext.set(\"time\",time,\"memoryOnly\")\ncontext.set(\"y\", y,\"memoryOnly\")\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 540,
+        "wires": [
+            [
+                "3ebd377390004e5d",
+                "33b337abd7c7d4c5"
+            ]
+        ]
+    },
+    {
+        "id": "33b337abd7c7d4c5",
+        "type": "ui_chart",
+        "z": "830fadc6f5236b78",
+        "g": "7fd14179472bdff0",
+        "name": "",
+        "group": "4026595aa6261291",
+        "order": 5,
+        "width": "12",
+        "height": "4",
+        "label": "chart",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": "1",
+        "removeOlderPoints": "",
+        "removeOlderUnit": "60",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 630,
+        "y": 500,
+        "wires": [
+            []
         ]
     }
 ]
