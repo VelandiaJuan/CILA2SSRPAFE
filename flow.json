@@ -1238,9 +1238,7 @@
             "bfa48676.a364f8"
         ],
         "x": 54,
-        "y": 19,
-        "w": 432,
-        "h": 149.5
+        "y": 19
     },
     {
         "id": "d929d138.3b512",
@@ -1258,9 +1256,7 @@
             "ebd2954e5785409e"
         ],
         "x": 994,
-        "y": 19,
-        "w": 542,
-        "h": 122
+        "y": 19
     },
     {
         "id": "fcb3da61.429db8",
@@ -1354,9 +1350,7 @@
             "0f2c231df155d32b"
         ],
         "x": 24,
-        "y": 609,
-        "w": 2632,
-        "h": 552
+        "y": 609
     },
     {
         "id": "3cb51855.a66038",
@@ -1371,9 +1365,7 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169,
-        "w": 232,
-        "h": 82
+        "y": 1169
     },
     {
         "id": "27a0641a.d154dc",
@@ -1483,9 +1475,7 @@
             "b6cf54debd6eb4db"
         ],
         "x": 64,
-        "y": 479,
-        "w": 662,
-        "h": 202
+        "y": 479
     },
     {
         "id": "9132da2c.b8c6b8",
@@ -1509,9 +1499,7 @@
             "fd328934.0ddd18"
         ],
         "x": 74,
-        "y": 699,
-        "w": 602,
-        "h": 202
+        "y": 699
     },
     {
         "id": "9b538856.60fb38",
@@ -1689,9 +1677,7 @@
             "312d9def.84df32"
         ],
         "x": 74,
-        "y": 919,
-        "w": 702,
-        "h": 242
+        "y": 919
     },
     {
         "id": "3ae9fbe60d6132ea",
@@ -2222,9 +2208,7 @@
             "c22e3c27600ab315"
         ],
         "x": 994,
-        "y": 159,
-        "w": 612,
-        "h": 242
+        "y": 159
     },
     {
         "id": "d84615.919209e8",
@@ -2350,9 +2334,7 @@
             "181ea2faf2082cc7"
         ],
         "x": 74,
-        "y": 1189,
-        "w": 792,
-        "h": 212
+        "y": 1189
     },
     {
         "id": "06c0dbf1bffe1e21",
@@ -2368,9 +2350,7 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269,
-        "w": 352,
-        "h": 82
+        "y": 1269
     },
     {
         "id": "6202107f.ed9aa",
@@ -2443,9 +2423,7 @@
             "8e77c9d647a0565f"
         ],
         "x": 44,
-        "y": -21,
-        "w": 1992,
-        "h": 622
+        "y": -21
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -2479,9 +2457,7 @@
             "17c1f84a5b3ad8ad"
         ],
         "x": 3224,
-        "y": 19,
-        "w": 1284,
-        "h": 1708
+        "y": 19
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -2502,9 +2478,7 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169,
-        "w": 782,
-        "h": 182
+        "y": 1169
     },
     {
         "id": "086b9d08c3b68939",
@@ -2535,9 +2509,7 @@
             "9661d016b799c47d"
         ],
         "x": 24,
-        "y": 1359,
-        "w": 1022,
-        "h": 292
+        "y": 1359
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -2563,9 +2535,7 @@
             "6e75b5f5657d3a7e"
         ],
         "x": 24,
-        "y": 1679,
-        "w": 1132,
-        "h": 202
+        "y": 1679
     },
     {
         "id": "afdbbb533d628687",
@@ -2581,9 +2551,7 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679,
-        "w": 332,
-        "h": 82
+        "y": 1679
     },
     {
         "id": "ba075c8cc622876a",
@@ -3004,9 +2972,7 @@
             "ca1808e9c0cebc54"
         ],
         "x": 52,
-        "y": 637,
-        "w": 3166,
-        "h": 2556
+        "y": 637
     },
     {
         "id": "3d603bc8c80c2124",
@@ -3026,9 +2992,7 @@
             "8f311859e2329cb0"
         ],
         "x": 54,
-        "y": 379,
-        "w": 902,
-        "h": 82
+        "y": 379
     },
     {
         "id": "4c1b2fd5bfa8819c",
@@ -3044,9 +3008,7 @@
             "af436d3d4e5d33de"
         ],
         "x": 42,
-        "y": 3227,
-        "w": 3020,
-        "h": 1410
+        "y": 3227
     },
     {
         "id": "600556d8bd2ccda4",
@@ -3111,9 +3073,7 @@
             "72c298a02ef42417"
         ],
         "x": 1094,
-        "y": 59,
-        "w": 2342,
-        "h": 532
+        "y": 59
     },
     {
         "id": "a9988da34f9622ff",
@@ -3140,9 +3100,7 @@
             "03552a6ae2d7be66"
         ],
         "x": 34,
-        "y": 39,
-        "w": 1032,
-        "h": 322
+        "y": 39
     },
     {
         "id": "474b22e105b31dff",
@@ -3161,7 +3119,9 @@
             "797d0bfa791a4802"
         ],
         "x": 28,
-        "y": 33
+        "y": 33,
+        "w": 2504,
+        "h": 884
     },
     {
         "id": "82531c262cad7a91",
@@ -3316,9 +3276,7 @@
             "0d38acc234ba861f"
         ],
         "x": 994,
-        "y": 419,
-        "w": 642,
-        "h": 162
+        "y": 419
     },
     {
         "id": "86af7867dc10f4a8",
@@ -3390,9 +3348,7 @@
             "c69d457b5c9947d3"
         ],
         "x": 874,
-        "y": 619,
-        "w": 582,
-        "h": 242
+        "y": 619
     },
     {
         "id": "5dc71a84bf12ae23",
@@ -3474,9 +3430,7 @@
             "d93cba9654c81eec"
         ],
         "x": 2534,
-        "y": 19,
-        "w": 252,
-        "h": 482
+        "y": 19
     },
     {
         "id": "08268a4bd4859ab8",
@@ -3501,9 +3455,7 @@
             "0988d89e2a5ce6e0"
         ],
         "x": 2814,
-        "y": 19,
-        "w": 259,
-        "h": 482
+        "y": 19
     },
     {
         "id": "5c9801fdee1b9e98",
@@ -3532,9 +3484,7 @@
             "ae2375753c90e02b"
         ],
         "x": 914,
-        "y": 879,
-        "w": 312,
-        "h": 522
+        "y": 879
     },
     {
         "id": "c920676a5fbb9bc8",
@@ -3853,9 +3803,7 @@
             "a6e47db946a008cd"
         ],
         "x": 34,
-        "y": 439,
-        "w": 532,
-        "h": 222
+        "y": 439
     },
     {
         "id": "2f8b45342e3650b7",
@@ -3884,9 +3832,7 @@
             "184a7dda9d1b76cb"
         ],
         "x": 794,
-        "y": 479,
-        "w": 792,
-        "h": 322
+        "y": 479
     },
     {
         "id": "80598e2f95da958f",
@@ -3914,9 +3860,7 @@
             "6286e9d5f43bc2d5"
         ],
         "x": 34,
-        "y": 39,
-        "w": 772,
-        "h": 382
+        "y": 39
     },
     {
         "id": "c74afbcc03e36d2f",
@@ -3949,9 +3893,7 @@
             "afb3b055b9af4d9a"
         ],
         "x": 854,
-        "y": 39,
-        "w": 872,
-        "h": 402
+        "y": 39
     },
     {
         "id": "cc623309a24a57e4",
@@ -3972,9 +3914,7 @@
             "12a3282355da9439"
         ],
         "x": 74,
-        "y": 1419,
-        "w": 582,
-        "h": 182
+        "y": 1419
     },
     {
         "id": "69cbede8f851191a",
@@ -3995,9 +3935,7 @@
             "a1c5e02a9d683eb4"
         ],
         "x": 74,
-        "y": 1619,
-        "w": 582,
-        "h": 182
+        "y": 1619
     },
     {
         "id": "f9b757cab0b767da",
@@ -4087,9 +4025,7 @@
             "d3fc647f21f7d8eb"
         ],
         "x": 254,
-        "y": 1939,
-        "w": 532,
-        "h": 142
+        "y": 1939
     },
     {
         "id": "5519b13db7a1857a",
@@ -4148,9 +4084,7 @@
             "e0da6f5132ed3813"
         ],
         "x": 64,
-        "y": 189,
-        "w": 852,
-        "h": 282
+        "y": 189
     },
     {
         "id": "daacc2ec73149b57",
@@ -4291,10 +4225,118 @@
         "nodes": [
             "3a58368fdac48060"
         ],
-        "x": 1134,
-        "y": 559,
+        "x": 1014,
+        "y": 599,
         "w": 192,
         "h": 82
+    },
+    {
+        "id": "7fd14179472bdff0",
+        "type": "group",
+        "z": "830fadc6f5236b78",
+        "name": "Logica del control de doble velocidad",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "b99924ea9dd30d0c",
+            "3ebd377390004e5d",
+            "7c0cf97370aaa6b7",
+            "2b771903633d12e0",
+            "9394087df0bac993",
+            "33b337abd7c7d4c5",
+            "f69d23b5509ba3e9",
+            "edb8f659de8046d0"
+        ],
+        "x": 114,
+        "y": 439,
+        "w": 992,
+        "h": 142
+    },
+    {
+        "id": "b76c959d391c2570",
+        "type": "group",
+        "z": "2e27dea6.c4c362",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "f4d0996a7c4bfa74",
+            "698c633c05f729cf",
+            "0d43cc58b9c941be",
+            "9efccfa00a368131",
+            "a94c97a35546a86e",
+            "b70d1b5d49c30bb1",
+            "db71d8c7a283a526",
+            "ba3a3c9fe2fc1118",
+            "d67948806bd97911",
+            "b2db056afe0c1791",
+            "90e328f62b239dc0",
+            "86035c80d5f22d8d",
+            "e33b148944092a64",
+            "cb79672c96e6b4aa",
+            "fccf76deaf649d1f",
+            "12ea868abb1cf71a",
+            "a7bc481d1310ef82",
+            "4913db07a3d47bea",
+            "1647f8062813fe45",
+            "f5491791b3a40ce6",
+            "c06724961e35475b",
+            "655036f71b58d715",
+            "1406b5f62eb9508b",
+            "c3540e6da9794a1a",
+            "464d0fdf61b7367a",
+            "b3a0c8349cede9e4",
+            "8b09de5e39c95254",
+            "7497db4ff4254a8c",
+            "5d63ee4cab42bd6d",
+            "7bb45d5b1f91ac6a",
+            "ac63ab46173fdc17",
+            "fbdfab3c8173dbc2",
+            "bd25a15650a5b5e9",
+            "393287a25692ad2a",
+            "88c544d46ab913e4",
+            "a47c5c8ff95c8732",
+            "a23537bcef950462",
+            "15203b3cea4ca0e1",
+            "a08260541cd2a004",
+            "6e2c183e6e4f06b3",
+            "c29ee9e2df2e6056",
+            "012e03f671c2acae",
+            "277894d28d5736a2",
+            "0b7f4e018141b9be",
+            "9446c2c790d6404d",
+            "0d2287deafa71c59",
+            "ba384462e0a8929f",
+            "cc91d992a4dabe13",
+            "7b1e818ddc80b47a",
+            "5fc205b8ce0ea501",
+            "fb19437f1c0888b1",
+            "5dfc6b7b369c8853",
+            "1a13394575878a28",
+            "03f4ca30c5f95634",
+            "6de9e90740b3dc91",
+            "e2caf80c3b84171f",
+            "9ce29708d7722f63",
+            "306bd239019fee28",
+            "474dfb3ecc1d5a5b",
+            "b2fda1eeb504af50",
+            "a25dfdce577770fb",
+            "eed786f50efc69c7",
+            "470c111335418ced",
+            "f98005c4ad97a4f7",
+            "b3984ad707d8b981",
+            "2d31373debd0bee9",
+            "a2defc407081fdc7"
+        ],
+        "x": 1734,
+        "y": 19
     },
     {
         "id": "1306de9a.9ba341",
@@ -4971,9 +5013,7 @@
             "1a666ca6835d2d34"
         ],
         "x": 74,
-        "y": 399,
-        "w": 852,
-        "h": 132
+        "y": 399
     },
     {
         "id": "cf985e84.c7693",
@@ -5585,9 +5625,7 @@
             "0d3271d48cdd3dc2"
         ],
         "x": 78,
-        "y": 673,
-        "w": 1724,
-        "h": 2494
+        "y": 673
     },
     {
         "id": "ca1808e9c0cebc54",
@@ -5605,9 +5643,7 @@
             "acf6618644660324"
         ],
         "x": 1828,
-        "y": 663,
-        "w": 1364,
-        "h": 1536.5
+        "y": 663
     },
     {
         "id": "eae7b72d553551bc",
@@ -5624,9 +5660,7 @@
             "7d3d6fba6fb45cf5"
         ],
         "x": 68,
-        "y": 3253,
-        "w": 1284,
-        "h": 894
+        "y": 3253
     },
     {
         "id": "af436d3d4e5d33de",
@@ -5703,9 +5737,7 @@
             "9f7b833ed93f0cc5"
         ],
         "x": 1368,
-        "y": 3263,
-        "w": 1668,
-        "h": 1348
+        "y": 3263
     },
     {
         "id": "b1830307.ee865",
@@ -5766,7 +5798,9 @@
             "bcbd8b8c21a84e24"
         ],
         "x": 54,
-        "y": 59
+        "y": 59,
+        "w": 752,
+        "h": 202
     },
     {
         "id": "4b547685fb66afe1",
@@ -5796,7 +5830,9 @@
             "112b2631e70ae588"
         ],
         "x": 814,
-        "y": 59
+        "y": 59,
+        "w": 892,
+        "h": 292
     },
     {
         "id": "949f80f33ee1d4b6",
@@ -5822,7 +5858,9 @@
             "d132a374aa2bf031"
         ],
         "x": 1704,
-        "y": 59
+        "y": 59,
+        "w": 802,
+        "h": 202
     },
     {
         "id": "797d0bfa791a4802",
@@ -5890,7 +5928,9 @@
             "ab6518c77e0ce523"
         ],
         "x": 54,
-        "y": 359
+        "y": 359,
+        "w": 1912,
+        "h": 532
     },
     {
         "id": "b6f76c1e8ebe8335",
@@ -5935,9 +5975,7 @@
             "26836fe8d310f685"
         ],
         "x": 3428,
-        "y": 413,
-        "w": 1054,
-        "h": 758
+        "y": 413
     },
     {
         "id": "7bc9759a9a7ea0be",
@@ -5992,9 +6030,7 @@
             "09240a88f66b7c6f"
         ],
         "x": 3434,
-        "y": 1179,
-        "w": 992,
-        "h": 522
+        "y": 1179
     },
     {
         "id": "dad84feb.d4773",
@@ -6164,6 +6200,28 @@
         ],
         "x": 1044,
         "y": 419
+    },
+    {
+        "id": "932eb8b65e7cc7be",
+        "type": "group",
+        "z": "830fadc6f5236b78",
+        "g": "65dbd90af70f1e98",
+        "name": "Confirmación y Calculo de las Velocidades",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "dd15a0bed0cbf685",
+            "a651344ef9b27c95",
+            "daa6060d0e8d7de1",
+            "6ba0fad0bc54e475",
+            "ba844f213c4dc194",
+            "58bde233759fd9a4"
+        ],
+        "x": 154,
+        "y": 799,
+        "w": 792,
+        "h": 122
     },
     {
         "id": "a80677cf.4274c8",
@@ -7000,9 +7058,7 @@
             "5da923b060b7d724"
         ],
         "x": 104,
-        "y": 699,
-        "w": 1242,
-        "h": 862
+        "y": 699
     },
     {
         "id": "b670eeac81e3a4e1",
@@ -7032,9 +7088,7 @@
             "6b6e6135b877d85a"
         ],
         "x": 124,
-        "y": 2959,
-        "w": 862,
-        "h": 182
+        "y": 2959
     },
     {
         "id": "404043e2f2ac38f5",
@@ -7090,9 +7144,7 @@
             "da3df13ea266ba47"
         ],
         "x": 1854,
-        "y": 689,
-        "w": 1292,
-        "h": 718
+        "y": 689
     },
     {
         "id": "acf6618644660324",
@@ -7159,9 +7211,7 @@
             "8daf2335c61c98d8"
         ],
         "x": 1874,
-        "y": 1519,
-        "w": 1292,
-        "h": 654.5
+        "y": 1519
     },
     {
         "id": "0d3271d48cdd3dc2",
@@ -7372,9 +7422,7 @@
             "f26884a752f635f5"
         ],
         "x": 114,
-        "y": 1579,
-        "w": 1662,
-        "h": 1322
+        "y": 1579
     },
     {
         "id": "7d3d6fba6fb45cf5",
@@ -7441,9 +7489,7 @@
             "43e435b1bf98945c"
         ],
         "x": 94,
-        "y": 3279,
-        "w": 1232,
-        "h": 842
+        "y": 3279
     },
     {
         "id": "01d2b2ec2f34b6be",
@@ -7482,9 +7528,7 @@
             "d4e43509215bf215"
         ],
         "x": 1394,
-        "y": 3289,
-        "w": 1232,
-        "h": 322
+        "y": 3289
     },
     {
         "id": "b4a46197db30977b",
@@ -7524,9 +7568,7 @@
             "592f8a1403a12574"
         ],
         "x": 1394,
-        "y": 3609,
-        "w": 722,
-        "h": 442
+        "y": 3609
     },
     {
         "id": "36fa9c99094e8f47",
@@ -7550,9 +7592,7 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 439,
-        "w": 402,
-        "h": 362
+        "y": 439
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -7580,9 +7620,7 @@
             "1f3630da2492d4f9"
         ],
         "x": 3454,
-        "y": 809,
-        "w": 1002,
-        "h": 212
+        "y": 809
     },
     {
         "id": "b6e70888e2a92a81",
@@ -7650,52 +7688,7 @@
             "43a7fe4169e0b657"
         ],
         "x": 2394,
-        "y": 1179,
-        "w": 572,
-        "h": 202
-    },
-    {
-        "id": "932eb8b65e7cc7be",
-        "type": "group",
-        "z": "830fadc6f5236b78",
-        "g": "65dbd90af70f1e98",
-        "name": "Confirmación y Calculo de las Velocidades",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "dd15a0bed0cbf685",
-            "a651344ef9b27c95",
-            "daa6060d0e8d7de1",
-            "6ba0fad0bc54e475",
-            "ba844f213c4dc194",
-            "58bde233759fd9a4"
-        ],
-        "x": 154,
-        "y": 799,
-        "w": 792,
-        "h": 122
-    },
-    {
-        "id": "7fd14179472bdff0",
-        "type": "group",
-        "z": "830fadc6f5236b78",
-        "name": "Logica del control de doble velocidad",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "b99924ea9dd30d0c",
-            "3ebd377390004e5d",
-            "7c0cf97370aaa6b7",
-            "2b771903633d12e0",
-            "9394087df0bac993",
-            "33b337abd7c7d4c5"
-        ],
-        "x": 114,
-        "y": 439,
-        "w": 712,
-        "h": 142
+        "y": 1179
     },
     {
         "id": "d25d405a.19cff",
@@ -10935,6 +10928,28 @@
         "order": 23,
         "width": "5",
         "height": 1,
+        "className": ""
+    },
+    {
+        "id": "8e7a02e2103fe586",
+        "type": "ui_group",
+        "name": "Status_Bar",
+        "tab": "415c32a74f3175cf",
+        "order": 5,
+        "disp": false,
+        "width": "12",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "bc605737706ec846",
+        "type": "ui_group",
+        "name": "Status_Bar",
+        "tab": "a1df2961a39cdb81",
+        "order": 6,
+        "disp": false,
+        "width": "12",
+        "collapse": false,
         "className": ""
     },
     {
@@ -101275,8 +101290,8 @@
         "format": "{{msg.payload}}",
         "layout": "row-left",
         "className": "",
-        "x": 1230,
-        "y": 600,
+        "x": 1110,
+        "y": 640,
         "wires": []
     },
     {
@@ -101655,7 +101670,7 @@
         "z": "830fadc6f5236b78",
         "g": "7fd14179472bdff0",
         "name": "IdentificarUpDownStroke",
-        "func": "var int1 = msg.payload;//lectura actual\nvar int1_k1 = context.get(\"int1_k1\", \"memoryOnly\")||0;//lecturaAnterior\nvar estado = 0;var color = \"red\";\nvar aux = int1 - int1_k1;\nif(aux >= 0){//está en upstroke\n    estado = \"Upstroke\";color = \"green\";\n}else if(aux < 0 ){//esta un downestroke\n    estado = \"DownStroke\";color = \"yellow\";\n}else {\n    estado = \"DownStroke\";color = \"yellow\";\n}\n// guardando el estado anterior\ncontext.set(\"int1_k1\", int1,\"memoryOnly\" );\ncontext.set(\"int1\", int1,\"memoryOnly\" );\nnode.status({fill:color,shape:\"dot\",text:estado});\nreturn msg;",
+        "func": "// logica de control speed control habilitada\nvar habilitado = global.get(\"Control_functions.doubleSpeed.habilitado\")||false;\nvar int1 = msg.payload;//lectura actual\nvar int1_k1 = context.get(\"int1_k1\", \"memoryOnly\")||0;//lecturaAnterior\nvar estado = 0;var color = \"red\";\nif(habilitado == true){\n    var aux = int1 - int1_k1;\n    if(aux >= 0){//está en upstroke\n        estado = \"Upstroke\";color = \"green\";\n    }else if(aux < 0 ){//esta un downestroke\n        estado = \"DownStroke\";color = \"yellow\";\n    }else {\n        estado = \"limbo\";color = \"yellow\";\n    }\n    // guardando el estado anterior\n    context.set(\"int1_k1\", int1,\"memoryOnly\" );\n    context.set(\"int1\", int1,\"memoryOnly\" );\n}else{\n    estado = \"Disabled\";color = \"red\";\n}\nnode.status({fill:color,shape:\"dot\",text:estado});\nmsg.payload = estado;\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -101664,7 +101679,9 @@
         "x": 690,
         "y": 540,
         "wires": [
-            []
+            [
+                "f69d23b5509ba3e9"
+            ]
         ],
         "info": "Función que nos permite identificar si \r\nel equipo está en tiempo de subida o de\r\nbajada dependiendo de la entrada del inclinometro"
     },
@@ -101791,115 +101808,6 @@
         "wires": [
             []
         ]
-    },
-    {
-        "id": "b76c959d391c2570",
-        "type": "group",
-        "z": "2e27dea6.c4c362",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "f4d0996a7c4bfa74",
-            "698c633c05f729cf",
-            "0d43cc58b9c941be",
-            "9efccfa00a368131",
-            "a94c97a35546a86e",
-            "b70d1b5d49c30bb1",
-            "db71d8c7a283a526",
-            "ba3a3c9fe2fc1118",
-            "d67948806bd97911",
-            "b2db056afe0c1791",
-            "90e328f62b239dc0",
-            "86035c80d5f22d8d",
-            "e33b148944092a64",
-            "cb79672c96e6b4aa",
-            "fccf76deaf649d1f",
-            "12ea868abb1cf71a",
-            "a7bc481d1310ef82",
-            "4913db07a3d47bea",
-            "1647f8062813fe45",
-            "f5491791b3a40ce6",
-            "c06724961e35475b",
-            "655036f71b58d715",
-            "1406b5f62eb9508b",
-            "c3540e6da9794a1a",
-            "464d0fdf61b7367a",
-            "b3a0c8349cede9e4",
-            "8b09de5e39c95254",
-            "7497db4ff4254a8c",
-            "5d63ee4cab42bd6d",
-            "7bb45d5b1f91ac6a",
-            "ac63ab46173fdc17",
-            "fbdfab3c8173dbc2",
-            "bd25a15650a5b5e9",
-            "393287a25692ad2a",
-            "88c544d46ab913e4",
-            "a47c5c8ff95c8732",
-            "a23537bcef950462",
-            "15203b3cea4ca0e1",
-            "a08260541cd2a004",
-            "6e2c183e6e4f06b3",
-            "c29ee9e2df2e6056",
-            "012e03f671c2acae",
-            "277894d28d5736a2",
-            "0b7f4e018141b9be",
-            "9446c2c790d6404d",
-            "0d2287deafa71c59",
-            "ba384462e0a8929f",
-            "cc91d992a4dabe13",
-            "7b1e818ddc80b47a",
-            "5fc205b8ce0ea501",
-            "fb19437f1c0888b1",
-            "5dfc6b7b369c8853",
-            "1a13394575878a28",
-            "03f4ca30c5f95634",
-            "6de9e90740b3dc91",
-            "e2caf80c3b84171f",
-            "9ce29708d7722f63",
-            "306bd239019fee28",
-            "474dfb3ecc1d5a5b",
-            "b2fda1eeb504af50",
-            "a25dfdce577770fb",
-            "eed786f50efc69c7",
-            "470c111335418ced",
-            "f98005c4ad97a4f7",
-            "b3984ad707d8b981",
-            "2d31373debd0bee9",
-            "a2defc407081fdc7"
-        ],
-        "x": 1734,
-        "y": 19,
-        "w": 772,
-        "h": 922
-    },
-    {
-        "id": "8e7a02e2103fe586",
-        "type": "ui_group",
-        "name": "Status_Bar",
-        "tab": "415c32a74f3175cf",
-        "order": 5,
-        "disp": false,
-        "width": "12",
-        "collapse": false,
-        "className": ""
-    },
-    {
-        "id": "bc605737706ec846",
-        "type": "ui_group",
-        "name": "Status_Bar",
-        "tab": "a1df2961a39cdb81",
-        "order": 6,
-        "disp": false,
-        "width": "12",
-        "collapse": false,
-        "className": ""
     },
     {
         "id": "f5491791b3a40ce6",
@@ -103257,6 +103165,53 @@
         "className": "",
         "x": 1080,
         "y": 1360,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f69d23b5509ba3e9",
+        "type": "rbe",
+        "z": "830fadc6f5236b78",
+        "g": "7fd14179472bdff0",
+        "name": "block",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 870,
+        "y": 540,
+        "wires": [
+            [
+                "edb8f659de8046d0"
+            ]
+        ]
+    },
+    {
+        "id": "edb8f659de8046d0",
+        "type": "change",
+        "z": "830fadc6f5236b78",
+        "g": "7fd14179472bdff0",
+        "name": "saveState",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.doubleSpeed.state",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1020,
+        "y": 540,
         "wires": [
             []
         ]
