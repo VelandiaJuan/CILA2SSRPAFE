@@ -1957,9 +1957,7 @@
             "1b8cd32f8a397c41"
         ],
         "x": 1534,
-        "y": 359,
-        "w": 1192,
-        "h": 802
+        "y": 359
     },
     {
         "id": "99671f60976b1d2a",
@@ -1993,9 +1991,7 @@
             "64eb3a5330da4f87"
         ],
         "x": 1544,
-        "y": 39,
-        "w": 1482,
-        "h": 282
+        "y": 39
     },
     {
         "id": "95daead77be77494",
@@ -2042,9 +2038,7 @@
             "0990c77b15bde411"
         ],
         "x": 994,
-        "y": 649,
-        "w": 532,
-        "h": 732
+        "y": 649
     },
     {
         "id": "87fca62744442ad4",
@@ -2083,9 +2077,7 @@
             "19a66bb9.eaa504"
         ],
         "x": 44,
-        "y": 409,
-        "w": 702,
-        "h": 272
+        "y": 409
     },
     {
         "id": "a7f58aaec292b159",
@@ -2128,9 +2120,7 @@
             "30359a42be66cafb"
         ],
         "x": 44,
-        "y": 689,
-        "w": 812,
-        "h": 272
+        "y": 689
     },
     {
         "id": "37b64a70f39dda06",
@@ -2169,9 +2159,7 @@
             "e0a3fe6a.f68a1"
         ],
         "x": 44,
-        "y": 969,
-        "w": 742,
-        "h": 272
+        "y": 969
     },
     {
         "id": "ee5753bdd6eedb72",
@@ -2196,9 +2184,7 @@
             "ddc7c55f2c0f73c9"
         ],
         "x": 44,
-        "y": 219,
-        "w": 812,
-        "h": 182
+        "y": 219
     },
     {
         "id": "931b0370.afc1b",
@@ -3390,7 +3376,9 @@
             "8f3bb3f83df36820"
         ],
         "x": 34,
-        "y": 359
+        "y": 359,
+        "w": 692,
+        "h": 242
     },
     {
         "id": "da9df0726c99ccd4",
@@ -3419,7 +3407,9 @@
             "0b885dc22789a069"
         ],
         "x": 34,
-        "y": 19
+        "y": 19,
+        "w": 812,
+        "h": 262
     },
     {
         "id": "2da065ba546c3529",
@@ -3657,7 +3647,9 @@
             "ff82a216b3632441"
         ],
         "x": 914,
-        "y": 19
+        "y": 19,
+        "w": 352,
+        "h": 242
     },
     {
         "id": "0e5fc807c9fa372e",
@@ -3683,7 +3675,9 @@
             "faf280f1a56572a2"
         ],
         "x": 154,
-        "y": 1059
+        "y": 1059,
+        "w": 912,
+        "h": 282
     },
     {
         "id": "99fd9c5cbd90ceb5",
@@ -3700,7 +3694,9 @@
             "5e3e278f18c43297"
         ],
         "x": 154,
-        "y": 1359
+        "y": 1359,
+        "w": 492,
+        "h": 122
     },
     {
         "id": "aecdec289959a88b",
@@ -3729,7 +3725,9 @@
             "601364caf3d1d399"
         ],
         "x": 154,
-        "y": 619
+        "y": 619,
+        "w": 1092,
+        "h": 282
     },
     {
         "id": "dfdd865d8cf81492",
@@ -3747,7 +3745,9 @@
             "cea17bf2805a1d9b"
         ],
         "x": 154,
-        "y": 919
+        "y": 919,
+        "w": 772,
+        "h": 122
     },
     {
         "id": "6c6732761a2613b5",
@@ -4153,7 +4153,9 @@
             "a0b90b4f54fbae9f"
         ],
         "x": 654,
-        "y": 1359
+        "y": 1359,
+        "w": 1142,
+        "h": 222
     },
     {
         "id": "9ff47da5fe193161",
@@ -4256,8 +4258,10 @@
             "38bb4c51f24c95f2",
             "d5eb026a704fd13b"
         ],
-        "x": 154,
-        "y": 359
+        "x": 334,
+        "y": 359,
+        "w": 2272,
+        "h": 262
     },
     {
         "id": "1306de9a.9ba341",
@@ -86782,7 +86786,7 @@
         "z": "8c6f930882747645",
         "g": "aecdec289959a88b",
         "name": "Set Parametros de Tiempo",
-        "func": "var ton = global.get(\"Control.Controlon_off.ton\") || 0;\nvar toff = global.get(\"Control.Controlon_off.toff\") || 0;\nvar Frecuencia = global.get(\"controlSRP.Variador.Frecuencia\")||0;\nvar Dc = global.get(\"controlSRP.Variador.Dc\") || 0;\nvar nPolosMotor = global.get(\"controlSRP.Variador.nPolosMotor\") || 0;\nvar Dm = global.get(\"controlSRP.Variador.Dm\") || 0;\nvar rgb = global.get(\"controlSRP.Variador.rgb\") || 0;\nif(msg.payload == true){\n    //conversión ton\n    var InputSeconds = ton;\n    var Days = parseInt(InputSeconds / 86400);\n    var Hours = parseInt((InputSeconds - (Days) * 86400) / 3600);\n    var SegRest = parseInt(InputSeconds - (Hours * 3600) - (Days * 86400));\n    var min = parseInt(SegRest / 60);\n    var seconds = parseInt(SegRest - (min * 60));\n    context.set(\"Days\", (Days));\n    context.set(\"InputSeconds\", InputSeconds);\n    context.set(\"Hours\", Hours);\n    context.set(\"SegRest\", SegRest);\n    context.set(\"min\", min);\n    context.set(\"seconds\", seconds);\n    Days = { payload: Days };\n    Hours = { payload: Hours };\n    min = { payload: min };\n    seconds = { payload: seconds };\n    //Conversión toff\n    var InputSeconds2 = toff;\n    var Days2 = parseInt(InputSeconds2 / 86400);\n    var Hours2 = parseInt((InputSeconds2 - (Days2) * 86400) / 3600);\n    var SegRest2 = parseInt(InputSeconds2 - (Hours2 * 3600) - (Days2 * 86400));\n    var min2 = parseInt(SegRest2 / 60);\n    var seconds2 = parseInt(SegRest2 - (min2 * 60));\n    context.set(\"Days2\", (Days2));\n    context.set(\"InputSeconds2\", InputSeconds2);\n    context.set(\"Hours2\", Hours2);\n    context.set(\"SegRest2\", SegRest2);\n    context.set(\"min2\", min2);\n    context.set(\"seconds2\", seconds2);\n    //conversión Hz a SPM\n    var spm = (Frecuencia * 60 * Dm) / (rgb * nPolosMotor * Dc);\n    context.set(\"Dc\", Dc, \"memoryOnly\")\n    context.set(\"nPolosMotor\", nPolosMotor, \"memoryOnly\")\n    context.set(\"Dm\", Dm, \"memoryOnly\")\n// Declaración de parametros en msg.\n    Days2 = { payload: Days2 };\n    Hours2 = { payload: Hours2 };\n    min2 = { payload: min2 };\n    seconds2 = { payload: seconds2 };\n    return [Hours, min, seconds,Hours2, min2, seconds2,spm];\n}\n",
+        "func": "var ton = global.get(\"Control_functions.Controlon_off.ton\") || 0;\nvar toff = global.get(\"Control_functions.Controlon_off.toff\") || 0;\n\nif(msg.payload == true){\n    //conversión ton\n    var InputSeconds = ton;\n    var Days = parseInt(InputSeconds / 86400);\n    var Hours = parseInt((InputSeconds - (Days) * 86400) / 3600);\n    var SegRest = parseInt(InputSeconds - (Hours * 3600) - (Days * 86400));\n    var min = parseInt(SegRest / 60);\n    var seconds = parseInt(SegRest - (min * 60));\n    context.set(\"Days\", (Days));\n    context.set(\"InputSeconds\", InputSeconds);\n    context.set(\"Hours\", Hours);\n    context.set(\"SegRest\", SegRest);\n    context.set(\"min\", min);\n    context.set(\"seconds\", seconds);\n    Days = { payload: Days };\n    Hours = { payload: Hours };\n    min = { payload: min };\n    seconds = { payload: seconds };\n    //Conversión toff\n    var InputSeconds2 = toff;\n    var Days2 = parseInt(InputSeconds2 / 86400);\n    var Hours2 = parseInt((InputSeconds2 - (Days2) * 86400) / 3600);\n    var SegRest2 = parseInt(InputSeconds2 - (Hours2 * 3600) - (Days2 * 86400));\n    var min2 = parseInt(SegRest2 / 60);\n    var seconds2 = parseInt(SegRest2 - (min2 * 60));\n    context.set(\"Days2\", (Days2));\n    context.set(\"InputSeconds2\", InputSeconds2);\n    context.set(\"Hours2\", Hours2);\n    context.set(\"SegRest2\", SegRest2);\n    context.set(\"min2\", min2);\n    context.set(\"seconds2\", seconds2);\n// Declaración de parametros en msg.\n    Days2 = { payload: Days2 };\n    Hours2 = { payload: Hours2 };\n    min2 = { payload: min2 };\n    seconds2 = { payload: seconds2 };\n    return [Hours, min, seconds,Hours2, min2, seconds2,spm];\n}\n",
         "outputs": 6,
         "noerr": 0,
         "initialize": "",
@@ -86823,8 +86827,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 260,
-        "y": 480,
+        "x": 440,
+        "y": 440,
         "wires": [
             [
                 "59b49fb27febc74f"
@@ -86839,11 +86843,11 @@
         "type": "change",
         "z": "8c6f930882747645",
         "g": "b3c73c66a9a23564",
-        "name": "",
+        "name": "timeTon",
         "rules": [
             {
                 "t": "set",
-                "p": "Control.Controlon_off.ton",
+                "p": "Control_functions.Controlon_off.ton",
                 "pt": "global",
                 "to": "payload",
                 "tot": "msg"
@@ -86854,8 +86858,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 520,
-        "y": 440,
+        "x": 600,
+        "y": 420,
         "wires": [
             [
                 "38bb4c51f24c95f2"
@@ -86867,11 +86871,11 @@
         "type": "change",
         "z": "8c6f930882747645",
         "g": "b3c73c66a9a23564",
-        "name": "",
+        "name": "timeToff",
         "rules": [
             {
                 "t": "set",
-                "p": "Control.Controlon_off.toff",
+                "p": "Control_functions.Controlon_off.toff",
                 "pt": "global",
                 "to": "payload",
                 "tot": "msg"
@@ -86882,8 +86886,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 520,
-        "y": 480,
+        "x": 600,
+        "y": 460,
         "wires": [
             [
                 "38bb4c51f24c95f2"
@@ -87441,7 +87445,7 @@
         "z": "8c6f930882747645",
         "g": "0e5fc807c9fa372e",
         "name": "LogicaControlOnOff",
-        "func": "var habilitado = global.get(\"Control.Controlon_off.habilitado\")||false;\nvar ton = global.get(\"Control.Controlon_off.ton\") || 0;//tiempo de alta\nvar toff = global.get(\"Control.Controlon_off.toff\") || 0;//tiempo de baja\nvar estado = global.get(\"Control.Controlon_off.estado\") || false;//estado del equipo\nvar Frecuencia = global.get(\"controlSRP.Variador.Frecuencia\") || 0;//Freuencia del variador\nvar At_Setpt_Spd = global.get(\"C2S.Drive_Status.At_Setpt_Spd\",\"memoryOnly\")||0;//llegó a referencia el VSD\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\",\"memoryOnly\")||false;\nvar ctr = context.get(\"ctr\",ctr)||0;\nvar time = 0;\nif (habilitado == true && comunicacion == true) {\n    //visualizar estado del habilitado\n    node.status({ fill: \"green\", shape: \"dot\", text: \"habilitado\" });\n    if (toff != 0 && ton != 0) {\n        // logica para cambiar entre estados\n        if (estado == true) {\n            node.status({ fill: \"green\", shape: \"dot\", text: estado });\n            if (At_Setpt_Spd == 1){//El VSD ya llegó a la referencia\n                ctr = ctr + 1;\n            }else{\n                ctr = ctr;\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = ton - ctr;\n            if (ton == ctr) {\n                global.set(\"Control.Controlon_off.estado\", false);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > ton) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        } else if(estado == false){\n            node.status({ fill: \"red\", shape: \"dot\", text: estado });\n            if (At_Setpt_Spd == 0){//El VSD ya se paro\n                ctr = ctr + 1;\n            }else{\n                ctr = ctr;\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = toff - ctr;\n            if (toff == ctr) {\n                global.set(\"Control.Controlon_off.estado\", true);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > toff) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        }\n        time = { payload: time };\n        estado = { payload: estado };\n        return [estado, time];\n    } else {\n        node.status({ fill: \"red\", shape: \"dot\", text: \"tiemposNoConfigurados\" });\n    }\n} else if (habilitado == false && comunicacion == true) {\n    node.status({ fill: \"red\", shape: \"dot\", text: \"Deshabilitado\" });\n    global.set(\"Control.Controlon_off.estado\", true);\n    context.set(\"ctr\", 0)//setear el contador\n    time = { payload: time };\n    estado = { payload: \"deshabilitado\" };\n    return [estado, time];\n}else if (comunicacion == false){\n    node.status({ fill: \"red\", shape: \"dot\", text: \"falloComunicacion\" });\n    global.set(\"Control.Controlon_off.estado\", false);//setee el estado de activar en bajo\n    context.set(\"ctr\", 0)//setear el contador\n    time = 0;\n    time = { payload: time };\n    estado = { payload: \"falloComunicacion\" };\n    return [estado, time];\n}\n// set variables\ncontext.set(\"habilitado\",habilitado,\"memoryOnly\");\ncontext.set(\"estado\",estado,\"memoryOnly\");\ncontext.set(\"toff\",toff,\"memoryOnly\");\ncontext.set(\"ton\",ton,\"memoryOnly\");\ncontext.set(\"time\",time,\"memoryOnly\");\n",
+        "func": "var habilitado = global.get(\"Control_functions.Controlon_off.habilitado\")||false;\nvar ton = global.get(\"Control_functions.Controlon_off.ton\") || 0;//tiempo de alta\nvar toff = global.get(\"Control_functions.Controlon_off.toff\") || 0;//tiempo de baja\nvar estado = global.get(\"Control_functions.Controlon_off.estado\") || false;//estado del equipo\nvar At_Setpt_Spd = global.get(\"C2S.Drive_Status.At_Setpt_Spd\",\"memoryOnly\")||0;//llegó a referencia el VSD\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\",\"memoryOnly\")||false;\nvar ctr = context.get(\"ctr\",ctr)||0;\nvar time = 0;\nif (habilitado == true && comunicacion == true) {\n    //visualizar estado del habilitado\n    node.status({ fill: \"green\", shape: \"dot\", text: \"habilitado\" });\n    if (toff != 0 && ton != 0) {\n        // logica para cambiar entre estados\n        if (estado == true) {\n            node.status({ fill: \"green\", shape: \"dot\", text: estado });\n            if (At_Setpt_Spd == 1){//El VSD ya llegó a la referencia\n                ctr = ctr + 1;\n            }else{\n                ctr = ctr;\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = ton - ctr;\n            if (ton == ctr) {\n                global.set(\"Control_functions.Controlon_off.estado\", false);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > ton) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        } else if(estado == false){\n            node.status({ fill: \"red\", shape: \"dot\", text: estado });\n            if (At_Setpt_Spd == 0){//El VSD ya se paro\n                ctr = ctr + 1;\n            }else{\n                ctr = ctr;\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = toff - ctr;\n            if (toff == ctr) {\n                global.set(\"Control_functions.Controlon_off.estado\", true);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > toff) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        }\n        time = { payload: time };\n        estado = { payload: estado };\n        return [estado, time];\n    } else {\n        node.status({ fill: \"red\", shape: \"dot\", text: \"tiemposNoConfigurados\" });\n        time = { payload: 0 };\n        estado = { payload: \"tiemposNoConfigurados\"  };\n        return [estado, time];\n    }\n} else if (habilitado == false && comunicacion == true) {\n    node.status({ fill: \"red\", shape: \"dot\", text: \"Deshabilitado\" });\n    global.set(\"Control_functions.Controlon_off.estado\", true);\n    context.set(\"ctr\", 0)//setear el contador\n    time = { payload: time };\n    estado = { payload: \"deshabilitado\" };\n    return [estado, time];\n}else if (comunicacion == false){\n    node.status({ fill: \"red\", shape: \"dot\", text: \"falloComunicacion\" });\n    global.set(\"Control_functions.Controlon_off.estado\", false);//setee el estado de activar en bajo\n    context.set(\"ctr\", 0)//setear el contador\n    time = 0;\n    time = { payload: time };\n    estado = { payload: \"falloComunicacion\" };\n    return [estado, time];\n}\n// set variables\ncontext.set(\"habilitado\",habilitado,\"memoryOnly\");\ncontext.set(\"estado\",estado,\"memoryOnly\");\ncontext.set(\"toff\",toff,\"memoryOnly\");\ncontext.set(\"ton\",ton,\"memoryOnly\");\ncontext.set(\"time\",time,\"memoryOnly\");\n",
         "outputs": 2,
         "noerr": 0,
         "initialize": "",
@@ -87722,7 +87726,7 @@
         "rules": [
             {
                 "t": "set",
-                "p": "Control.Controlon_off.habilitado",
+                "p": "Control_functions.Controlon_off.habilitado",
                 "pt": "global",
                 "to": "true",
                 "tot": "bool"
@@ -87863,7 +87867,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "Control.Controlon_off.habilitado",
+                "to": "Control_functions.Controlon_off.habilitado",
                 "tot": "global"
             }
         ],
@@ -87947,7 +87951,7 @@
         "rules": [
             {
                 "t": "set",
-                "p": "Control.Controlon_off.habilitado",
+                "p": "Control_functions.Controlon_off.habilitado",
                 "pt": "global",
                 "to": "false",
                 "tot": "bool"
@@ -88063,7 +88067,7 @@
         "rules": [
             {
                 "t": "set",
-                "p": "Control.Controlon_off.habilitado",
+                "p": "Control_functions.Controlon_off.habilitado",
                 "pt": "global",
                 "to": "false",
                 "tot": "bool"
@@ -88091,7 +88095,7 @@
         "rules": [
             {
                 "t": "set",
-                "p": "Control.Controlon_off.habilitado",
+                "p": "Control_functions.Controlon_off.habilitado",
                 "pt": "global",
                 "to": "true",
                 "tot": "bool"
