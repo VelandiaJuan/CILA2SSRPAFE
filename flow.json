@@ -3119,9 +3119,7 @@
             "797d0bfa791a4802"
         ],
         "x": 28,
-        "y": 33,
-        "w": 2504,
-        "h": 884
+        "y": 33
     },
     {
         "id": "82531c262cad7a91",
@@ -3344,9 +3342,7 @@
             "a5f101f20d6fd56b"
         ],
         "x": 994,
-        "y": 599,
-        "w": 562,
-        "h": 142
+        "y": 599
     },
     {
         "id": "5dc71a84bf12ae23",
@@ -3482,9 +3478,7 @@
             "ae2375753c90e02b"
         ],
         "x": 974,
-        "y": 979,
-        "w": 312,
-        "h": 522
+        "y": 979
     },
     {
         "id": "c920676a5fbb9bc8",
@@ -3533,9 +3527,7 @@
             "16bbc2506679bb34"
         ],
         "x": 54,
-        "y": 39,
-        "w": 1172,
-        "h": 948
+        "y": 39
     },
     {
         "id": "c585d878c0dbfaf0",
@@ -3579,7 +3571,9 @@
             "faf280f1a56572a2"
         ],
         "x": 154,
-        "y": 1059
+        "y": 1059,
+        "w": 912,
+        "h": 282
     },
     {
         "id": "99fd9c5cbd90ceb5",
@@ -3596,7 +3590,9 @@
             "5e3e278f18c43297"
         ],
         "x": 154,
-        "y": 1359
+        "y": 1359,
+        "w": 492,
+        "h": 122
     },
     {
         "id": "aecdec289959a88b",
@@ -3625,7 +3621,9 @@
             "601364caf3d1d399"
         ],
         "x": 154,
-        "y": 619
+        "y": 619,
+        "w": 1092,
+        "h": 282
     },
     {
         "id": "dfdd865d8cf81492",
@@ -3643,7 +3641,9 @@
             "cea17bf2805a1d9b"
         ],
         "x": 154,
-        "y": 919
+        "y": 919,
+        "w": 772,
+        "h": 122
     },
     {
         "id": "6c6732761a2613b5",
@@ -4049,7 +4049,9 @@
             "a0b90b4f54fbae9f"
         ],
         "x": 654,
-        "y": 1359
+        "y": 1359,
+        "w": 1142,
+        "h": 222
     },
     {
         "id": "9ff47da5fe193161",
@@ -4153,7 +4155,9 @@
             "d5eb026a704fd13b"
         ],
         "x": 334,
-        "y": 359
+        "y": 359,
+        "w": 2272,
+        "h": 262
     },
     {
         "id": "e4cabd2892b5651b",
@@ -4244,12 +4248,20 @@
             "9394087df0bac993",
             "33b337abd7c7d4c5",
             "f69d23b5509ba3e9",
-            "edb8f659de8046d0"
+            "edb8f659de8046d0",
+            "9da85b9e2c8fef00",
+            "33e780fd53e383dc",
+            "9bffd0e993c85e67",
+            "fc5b732df81a41ac",
+            "2d333ee7b58d941e",
+            "2d33fba2790a0926",
+            "e34b368f3408ddbb",
+            "073ccf040962e195"
         ],
         "x": 114,
-        "y": 439,
+        "y": 219,
         "w": 992,
-        "h": 142
+        "h": 322
     },
     {
         "id": "b76c959d391c2570",
@@ -5796,9 +5808,7 @@
             "bcbd8b8c21a84e24"
         ],
         "x": 54,
-        "y": 59,
-        "w": 752,
-        "h": 202
+        "y": 59
     },
     {
         "id": "4b547685fb66afe1",
@@ -5828,9 +5838,7 @@
             "112b2631e70ae588"
         ],
         "x": 814,
-        "y": 59,
-        "w": 892,
-        "h": 292
+        "y": 59
     },
     {
         "id": "949f80f33ee1d4b6",
@@ -5856,9 +5864,7 @@
             "d132a374aa2bf031"
         ],
         "x": 1704,
-        "y": 59,
-        "w": 802,
-        "h": 202
+        "y": 59
     },
     {
         "id": "797d0bfa791a4802",
@@ -5926,9 +5932,7 @@
             "ab6518c77e0ce523"
         ],
         "x": 54,
-        "y": 359,
-        "w": 1912,
-        "h": 532
+        "y": 359
     },
     {
         "id": "b6f76c1e8ebe8335",
@@ -6133,9 +6137,7 @@
             "5eb73b2ba006366d"
         ],
         "x": 84,
-        "y": 799,
-        "w": 882,
-        "h": 162
+        "y": 799
     },
     {
         "id": "1112a5e0c336769a",
@@ -10712,6 +10714,302 @@
         "width": "12",
         "collapse": false,
         "className": ""
+    },
+    {
+        "id": "aae67d7aeefcebb5",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "20076456.83052c",
+        "order": 1,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "5770abad8f87d6a5",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 2,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "ca146c697e334df8",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 4,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "7ee0a99053a2c3b3",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 6,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "07a5d4d892fd3711",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 7,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "fccb11b1dbd95577",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 9,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "71e9e65507b7f061",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 11,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "720e341ff34e095f",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 12,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "6429f981b2cc7fcc",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 14,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "61bf2082200ca895",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 16,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "2615bc07b1a0862c",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 18,
+        "width": 10,
+        "height": 1
+    },
+    {
+        "id": "e4c86989ef5c2ceb",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 22,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "4b39c34005b96362",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "2540c0d0.abd4d",
+        "order": 1,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "8ffd8adffb025878",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "2540c0d0.abd4d",
+        "order": 2,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "dfa0693126a64742",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "2540c0d0.abd4d",
+        "order": 6,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "499f49838cedfc33",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "3afcf0f2.7f9b6",
+        "order": 4,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "c7822d663970781a",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "3afcf0f2.7f9b6",
+        "order": 6,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "ffed19bc96618b08",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "3afcf0f2.7f9b6",
+        "order": 18,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "24dc9eef78b64eee",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "4f87eabd.cfaf34",
+        "order": 1,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "54286b2084a54d8e",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "4f87eabd.cfaf34",
+        "order": 4,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "68940c7bea9d80a2",
+        "type": "ui_group",
+        "name": "Ingresar datos de estado mecánico",
+        "tab": "6315ac3b2a589b9d",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "90c0022f5eae925a",
+        "type": "ui_group",
+        "name": "Ingresar datos de propiedades de fluido",
+        "tab": "6315ac3b2a589b9d",
+        "order": 3,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "0cb60887cd63d581",
+        "type": "ui_group",
+        "name": "Ingresar datos pruebas de producción",
+        "tab": "6315ac3b2a589b9d",
+        "order": 4,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "0c116f2baac7c7f8",
+        "type": "ui_group",
+        "name": "Ingresar datos para gráfica IPR",
+        "tab": "6315ac3b2a589b9d",
+        "order": 5,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "6315ac3b2a589b9d",
+        "type": "ui_tab",
+        "name": "IWOC",
+        "icon": "dashboard",
+        "order": 12,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "0e2b34f0a3929c63",
+        "type": "ui_group",
+        "name": "Navbar_AVAS_DATOS",
+        "tab": "6315ac3b2a589b9d",
+        "order": 1,
+        "disp": false,
+        "width": "12",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "6ecc0f8144fb3cb9",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "0c116f2baac7c7f8",
+        "order": 4,
+        "width": "6",
+        "height": "5",
+        "className": ""
+    },
+    {
+        "id": "22f69512af11d35a",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "0cb60887cd63d581",
+        "order": 8,
+        "width": "6",
+        "height": "5",
+        "className": ""
+    },
+    {
+        "id": "c7c8109bb79e7e46",
+        "type": "ui_spacer",
+        "z": "2e27dea6.c4c362",
+        "name": "spacer",
+        "group": "3aeadfca28a90fa2",
+        "order": 2,
+        "width": 1,
+        "height": 1
     },
     {
         "id": "8c24ec8f.cf43c",
@@ -100403,7 +100701,7 @@
         "cancel": "Cancelar",
         "raw": false,
         "className": "",
-        "topic": "¿Desea Activar el Pump off controller?",
+        "topic": "¿Desea Activar el doble Velocidad controller?",
         "name": "confirm",
         "x": 460,
         "y": 1080,
@@ -100427,7 +100725,7 @@
         "cancel": "Cancelar",
         "raw": false,
         "className": "",
-        "topic": "¿Desea Desactivar el Pump off controller?",
+        "topic": "¿Desea Desactivar el doble velocidad controller?",
         "name": "confirm",
         "x": 440,
         "y": 1160,
@@ -100756,8 +101054,8 @@
         "name": "",
         "group": "4026595aa6261291",
         "order": 4,
-        "width": 0,
-        "height": 0,
+        "width": "2",
+        "height": "1",
         "passthru": false,
         "label": "Confirmar",
         "tooltip": "",
@@ -101106,16 +101404,25 @@
         "z": "830fadc6f5236b78",
         "g": "7fd14179472bdff0",
         "name": "logic",
-        "func": "var habilitado = global.get(\"Control_functions.doubleSpeed.habilitado\")||false;\nvar estado = 0;//estado en el que esta el equipo\n\nif(habilitado == true){\n    estado = true;\n    node.status({fill:\"green\",shape:\"ring\",text:estado});\n}else if(habilitado == false){\n    estado = false;\n    node.status({fill:\"red\",shape:\"ring\",text:estado});\n}\n\ncontext.set(\"habilitado\", habilitado,\"memoryOnly\");\nreturn msg;",
-        "outputs": 1,
+        "func": "var habilitado = global.get(\"Control_functions.doubleSpeed.habilitado\")||false;\nvar state = global.get(\"Control_functions.doubleSpeed.state\")||false;//si está upstroke o DownStroke\nvar upSpeedCalculated = global.get(\"Control_functions.doubleSpeed.upSpeedCalculated\")||false;//Velocidad de subida\nvar DownSpeedCalculated = global.get(\"Control_functions.doubleSpeed.DownSpeedCalculated\")||false;//Velocidad de bajada\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\",\"memoryOnly\")||false;//comunicación VSD\nvar estadoPrograma = 0;//estadoPrograma en el que esta el equipo\nvar comando = 0; //arranque o parada del equipo\nvar referencia = 0;//referencia que se debe setear\n\n\nif(habilitado == true && comunicacion == true){\n    if (state == \"Upstroke\"){\n        referencia = upSpeedCalculated;\n    } else if (state == \"DownStroke\"){\n        referencia = DownSpeedCalculated;\n    }\n    estadoPrograma = \"Activo\";\n    comando = true;\n}else if(habilitado == false && comunicacion == true){\n    estadoPrograma = \"Deshabilitado\";\n}else if(comunicacion == false){\n    estadoPrograma = \"fallo de comunicacion\";\n}\n\nnode.status({fill:\"red\",shape:\"ring\",text:estadoPrograma});\ncontext.set(\"habilitado\", habilitado,\"memoryOnly\");\ncontext.set(\"comunicacion\", comunicacion,\"memoryOnly\");\ncontext.set(\"estadoPrograma\", estadoPrograma,\"memoryOnly\");\ncontext.set(\"state\", state,\"memoryOnly\");\ncontext.set(\"upSpeedCalculated\", upSpeedCalculated,\"memoryOnly\");\ncontext.set(\"DownSpeedCalculated\", DownSpeedCalculated,\"memoryOnly\");\ncontext.set(\"referencia\", referencia,\"memoryOnly\");\n// estructura para enviar los mensajes\ncomando = { payload: comando };\nestadoPrograma = { payload: estadoPrograma};\nreferencia = { payload: referencia};\nreturn [comando,estadoPrograma,referencia];",
+        "outputs": 3,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 370,
-        "y": 480,
+        "x": 350,
+        "y": 360,
         "wires": [
-            []
+            [
+                "fc5b732df81a41ac",
+                "2d33fba2790a0926"
+            ],
+            [
+                "2d333ee7b58d941e"
+            ],
+            [
+                "9da85b9e2c8fef00"
+            ]
         ]
     },
     {
@@ -101131,7 +101438,7 @@
         "finalize": "",
         "libs": [],
         "x": 690,
-        "y": 540,
+        "y": 460,
         "wires": [
             [
                 "f69d23b5509ba3e9"
@@ -101161,7 +101468,7 @@
         "topic": "",
         "payloadType": "date",
         "x": 220,
-        "y": 540,
+        "y": 460,
         "wires": [
             [
                 "9394087df0bac993"
@@ -101189,8 +101496,8 @@
         "onceDelay": 0.1,
         "topic": "",
         "payloadType": "date",
-        "x": 230,
-        "y": 480,
+        "x": 210,
+        "y": 360,
         "wires": [
             [
                 "b99924ea9dd30d0c"
@@ -101210,7 +101517,7 @@
         "finalize": "",
         "libs": [],
         "x": 430,
-        "y": 540,
+        "y": 460,
         "wires": [
             [
                 "3ebd377390004e5d",
@@ -102637,7 +102944,7 @@
         "property": "payload",
         "topi": "topic",
         "x": 870,
-        "y": 540,
+        "y": 460,
         "wires": [
             [
                 "edb8f659de8046d0"
@@ -102665,306 +102972,10 @@
         "to": "",
         "reg": false,
         "x": 1020,
-        "y": 540,
+        "y": 460,
         "wires": [
             []
         ]
-    },
-    {
-        "id": "aae67d7aeefcebb5",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "20076456.83052c",
-        "order": 1,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "5770abad8f87d6a5",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 2,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "ca146c697e334df8",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 4,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "7ee0a99053a2c3b3",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 6,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "07a5d4d892fd3711",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 7,
-        "width": 3,
-        "height": 1
-    },
-    {
-        "id": "fccb11b1dbd95577",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 9,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "71e9e65507b7f061",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 11,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "720e341ff34e095f",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 12,
-        "width": 3,
-        "height": 1
-    },
-    {
-        "id": "6429f981b2cc7fcc",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 14,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "61bf2082200ca895",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 16,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "2615bc07b1a0862c",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 18,
-        "width": 10,
-        "height": 1
-    },
-    {
-        "id": "e4c86989ef5c2ceb",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 22,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "4b39c34005b96362",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "2540c0d0.abd4d",
-        "order": 1,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "8ffd8adffb025878",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "2540c0d0.abd4d",
-        "order": 2,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "dfa0693126a64742",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "2540c0d0.abd4d",
-        "order": 6,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "499f49838cedfc33",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "3afcf0f2.7f9b6",
-        "order": 4,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "c7822d663970781a",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "3afcf0f2.7f9b6",
-        "order": 6,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "ffed19bc96618b08",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "3afcf0f2.7f9b6",
-        "order": 18,
-        "width": 3,
-        "height": 1
-    },
-    {
-        "id": "24dc9eef78b64eee",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "4f87eabd.cfaf34",
-        "order": 1,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "54286b2084a54d8e",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "4f87eabd.cfaf34",
-        "order": 4,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "68940c7bea9d80a2",
-        "type": "ui_group",
-        "name": "Ingresar datos de estado mecánico",
-        "tab": "6315ac3b2a589b9d",
-        "order": 2,
-        "disp": true,
-        "width": "6",
-        "collapse": false,
-        "className": ""
-    },
-    {
-        "id": "90c0022f5eae925a",
-        "type": "ui_group",
-        "name": "Ingresar datos de propiedades de fluido",
-        "tab": "6315ac3b2a589b9d",
-        "order": 3,
-        "disp": true,
-        "width": "6",
-        "collapse": false,
-        "className": ""
-    },
-    {
-        "id": "0cb60887cd63d581",
-        "type": "ui_group",
-        "name": "Ingresar datos pruebas de producción",
-        "tab": "6315ac3b2a589b9d",
-        "order": 4,
-        "disp": true,
-        "width": "6",
-        "collapse": false,
-        "className": ""
-    },
-    {
-        "id": "0c116f2baac7c7f8",
-        "type": "ui_group",
-        "name": "Ingresar datos para gráfica IPR",
-        "tab": "6315ac3b2a589b9d",
-        "order": 5,
-        "disp": true,
-        "width": "6",
-        "collapse": false,
-        "className": ""
-    },
-    {
-        "id": "6315ac3b2a589b9d",
-        "type": "ui_tab",
-        "name": "IWOC",
-        "icon": "dashboard",
-        "order": 12,
-        "disabled": false,
-        "hidden": false
-    },
-    {
-        "id": "0e2b34f0a3929c63",
-        "type": "ui_group",
-        "name": "Navbar_AVAS_DATOS",
-        "tab": "6315ac3b2a589b9d",
-        "order": 1,
-        "disp": false,
-        "width": "12",
-        "collapse": false,
-        "className": ""
-    },
-    {
-        "id": "6ecc0f8144fb3cb9",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "0c116f2baac7c7f8",
-        "order": 4,
-        "width": "6",
-        "height": "5",
-        "className": ""
-    },
-    {
-        "id": "22f69512af11d35a",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "0cb60887cd63d581",
-        "order": 8,
-        "width": "6",
-        "height": "5",
-        "className": ""
-    },
-    {
-        "id": "c7c8109bb79e7e46",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "3aeadfca28a90fa2",
-        "order": 2,
-        "width": 1,
-        "height": 1
     },
     {
         "id": "bcd435210241f10b",
@@ -103136,6 +103147,164 @@
             [
                 "a5f101f20d6fd56b"
             ]
+        ]
+    },
+    {
+        "id": "9da85b9e2c8fef00",
+        "type": "function",
+        "z": "830fadc6f5236b78",
+        "g": "7fd14179472bdff0",
+        "name": "habilitado Ref?",
+        "func": "var habilitado = global.get(\"Control_functions.doubleSpeed.habilitado\") || false;\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\", \"memoryOnly\") || false;//comunicación VSD\nnode.status({fill:\"red\",shape:\"dot\",text:msg.payload});\ncontext.set(\"habilitado\",habilitado,\"memoryOnly\");\nif(habilitado == true && comunicacion == true){\n    return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 540,
+        "y": 400,
+        "wires": [
+            [
+                "33e780fd53e383dc"
+            ]
+        ]
+    },
+    {
+        "id": "33e780fd53e383dc",
+        "type": "subflow:222e9a8dc8f57193",
+        "z": "830fadc6f5236b78",
+        "g": "7fd14179472bdff0",
+        "name": "",
+        "x": 750,
+        "y": 400,
+        "wires": [
+            [
+                "9bffd0e993c85e67"
+            ]
+        ]
+    },
+    {
+        "id": "9bffd0e993c85e67",
+        "type": "subflow:1fbf295f73cccb97",
+        "z": "830fadc6f5236b78",
+        "g": "7fd14179472bdff0",
+        "name": "",
+        "x": 960,
+        "y": 400,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "fc5b732df81a41ac",
+        "type": "debug",
+        "z": "830fadc6f5236b78",
+        "g": "7fd14179472bdff0",
+        "name": "",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": true,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "payload",
+        "statusType": "auto",
+        "x": 450,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "2d333ee7b58d941e",
+        "type": "debug",
+        "z": "830fadc6f5236b78",
+        "g": "7fd14179472bdff0",
+        "name": "",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": true,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "payload",
+        "statusType": "auto",
+        "x": 530,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "e34b368f3408ddbb",
+        "type": "change",
+        "z": "830fadc6f5236b78",
+        "g": "7fd14179472bdff0",
+        "name": "Arranque",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Start",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Basic",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 700,
+        "y": 280,
+        "wires": [
+            [
+                "073ccf040962e195"
+            ]
+        ]
+    },
+    {
+        "id": "073ccf040962e195",
+        "type": "subflow:c8b77ff3.ab501",
+        "z": "830fadc6f5236b78",
+        "g": "7fd14179472bdff0",
+        "name": "",
+        "x": 860,
+        "y": 280,
+        "wires": [
+            [],
+            []
+        ]
+    },
+    {
+        "id": "2d33fba2790a0926",
+        "type": "switch",
+        "z": "830fadc6f5236b78",
+        "g": "7fd14179472bdff0",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 510,
+        "y": 300,
+        "wires": [
+            [
+                "e34b368f3408ddbb"
+            ],
+            []
         ]
     }
 ]
