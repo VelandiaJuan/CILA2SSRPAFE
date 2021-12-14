@@ -1350,7 +1350,9 @@
             "0f2c231df155d32b"
         ],
         "x": 24,
-        "y": 609
+        "y": 609,
+        "w": 2632,
+        "h": 552
     },
     {
         "id": "3cb51855.a66038",
@@ -1365,7 +1367,9 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169
+        "y": 1169,
+        "w": 232,
+        "h": 82
     },
     {
         "id": "27a0641a.d154dc",
@@ -2350,7 +2354,9 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269
+        "y": 1269,
+        "w": 352,
+        "h": 82
     },
     {
         "id": "6202107f.ed9aa",
@@ -2423,7 +2429,9 @@
             "8e77c9d647a0565f"
         ],
         "x": 44,
-        "y": -21
+        "y": -21,
+        "w": 1992,
+        "h": 622
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -2457,7 +2465,9 @@
             "17c1f84a5b3ad8ad"
         ],
         "x": 3224,
-        "y": 19
+        "y": 19,
+        "w": 1284,
+        "h": 1708
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -2478,7 +2488,9 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169
+        "y": 1169,
+        "w": 782,
+        "h": 182
     },
     {
         "id": "086b9d08c3b68939",
@@ -2509,7 +2521,9 @@
             "9661d016b799c47d"
         ],
         "x": 24,
-        "y": 1359
+        "y": 1359,
+        "w": 1022,
+        "h": 292
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -2535,7 +2549,9 @@
             "6e75b5f5657d3a7e"
         ],
         "x": 24,
-        "y": 1679
+        "y": 1679,
+        "w": 1132,
+        "h": 202
     },
     {
         "id": "afdbbb533d628687",
@@ -2551,7 +2567,9 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679
+        "y": 1679,
+        "w": 332,
+        "h": 82
     },
     {
         "id": "ba075c8cc622876a",
@@ -4023,7 +4041,9 @@
             "d3fc647f21f7d8eb"
         ],
         "x": 254,
-        "y": 1939
+        "y": 1939,
+        "w": 532,
+        "h": 142
     },
     {
         "id": "5519b13db7a1857a",
@@ -5023,7 +5043,9 @@
             "1a666ca6835d2d34"
         ],
         "x": 74,
-        "y": 399
+        "y": 399,
+        "w": 852,
+        "h": 132
     },
     {
         "id": "cf985e84.c7693",
@@ -5977,7 +5999,9 @@
             "26836fe8d310f685"
         ],
         "x": 3428,
-        "y": 413
+        "y": 413,
+        "w": 1054,
+        "h": 758
     },
     {
         "id": "7bc9759a9a7ea0be",
@@ -6032,7 +6056,9 @@
             "09240a88f66b7c6f"
         ],
         "x": 3434,
-        "y": 1179
+        "y": 1179,
+        "w": 992,
+        "h": 522
     },
     {
         "id": "dad84feb.d4773",
@@ -6218,7 +6244,8 @@
             "daa6060d0e8d7de1",
             "6ba0fad0bc54e475",
             "ba844f213c4dc194",
-            "58bde233759fd9a4"
+            "58bde233759fd9a4",
+            "8c31ed06289e5136"
         ],
         "x": 154,
         "y": 799,
@@ -7594,7 +7621,9 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 439
+        "y": 439,
+        "w": 402,
+        "h": 362
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -7622,7 +7651,9 @@
             "1f3630da2492d4f9"
         ],
         "x": 3454,
-        "y": 809
+        "y": 809,
+        "w": 1002,
+        "h": 212
     },
     {
         "id": "b6e70888e2a92a81",
@@ -100610,7 +100641,7 @@
         "z": "830fadc6f5236b78",
         "g": "932eb8b65e7cc7be",
         "name": "SpeedCalculate",
-        "func": "var ReferenciaImput = 10;\nvar porcentUp = 40;\nvar porcentDown = 60;\n\nif(ReferenciaImput != 0){ // si existe la ReferenciaImput\n    var TPeriodo = 60/ReferenciaImput;\n}\n// calculo del tiempo de subida y tiempo de bajada\nvar Uptime = (porcentUp*TPeriodo)/100;\nvar Downtime = (100 - porcentUp)*TPeriodo/100;\n// calculo de las velocidades\nif(Uptime != 0 && Downtime !=0 ){\n    var upSpeedCalculated = 30 / Uptime;\n    var DownSpeedCalculated = 30 / Downtime;\n    node.status({fill:\"green\",shape:\"ring\",text:\"Configurate\"});\n}\n\n// variables globales\nglobal.set(\"Control_functions.doubleSpeed.upSpeedCalculated\", upSpeedCalculated);\nglobal.set(\"Control_functions.doubleSpeed.DownSpeedCalculated\", DownSpeedCalculated);\n// visualizador de variables\ncontext.set(\"ReferenciaImput\", ReferenciaImput,\"memoryOnly\");\ncontext.set(\"TPeriodo\", TPeriodo,\"memoryOnly\");\ncontext.set(\"porcentUp\", porcentUp,\"memoryOnly\");\ncontext.set(\"porcentDown\", porcentDown,\"memoryOnly\");\ncontext.set(\"Uptime\", Uptime,\"memoryOnly\");\ncontext.set(\"Downtime\", Downtime,\"memoryOnly\");\ncontext.set(\"upSpeedCalculated\", upSpeedCalculated,\"memoryOnly\");\ncontext.set(\"DownSpeedCalculated\", DownSpeedCalculated,\"memoryOnly\");\nreturn msg;\n\n",
+        "func": "var ReferenciaImput = global.get(\"Input.Operation.spm\", \"memoryOnly\") || 0;\nvar porcentUp = global.get(\"Control_functions.doubleSpeed.risePercent\")||0;\nvar porcentDown = global.get(\"Control_functions.doubleSpeed.dropPercent\") || 0;;\n\nif(ReferenciaImput != 0){ // si existe la ReferenciaImput\n    var TPeriodo = 60/ReferenciaImput;\n}\n// calculo del tiempo de subida y tiempo de bajada\nvar Uptime = (porcentUp*TPeriodo)/100;\nvar Downtime = (100 - porcentUp)*TPeriodo/100;\n// calculo de las velocidades\nif(Uptime != 0 && Downtime !=0 ){\n    var upSpeedCalculated = 30 / Uptime;\n    var DownSpeedCalculated = 30 / Downtime;\n    node.status({fill:\"green\",shape:\"ring\",text:\"Configurate\"});\n}\n\n// variables globales\nglobal.set(\"Control_functions.doubleSpeed.upSpeedCalculated\", upSpeedCalculated);\nglobal.set(\"Control_functions.doubleSpeed.DownSpeedCalculated\", DownSpeedCalculated);\n// visualizador de variables\ncontext.set(\"ReferenciaImput\", ReferenciaImput,\"memoryOnly\");\ncontext.set(\"TPeriodo\", TPeriodo,\"memoryOnly\");\ncontext.set(\"porcentUp\", porcentUp,\"memoryOnly\");\ncontext.set(\"porcentDown\", porcentDown,\"memoryOnly\");\ncontext.set(\"Uptime\", Uptime,\"memoryOnly\");\ncontext.set(\"Downtime\", Downtime,\"memoryOnly\");\ncontext.set(\"upSpeedCalculated\", upSpeedCalculated,\"memoryOnly\");\ncontext.set(\"DownSpeedCalculated\", DownSpeedCalculated,\"memoryOnly\");\nreturn msg;\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -103305,6 +103336,36 @@
                 "e34b368f3408ddbb"
             ],
             []
+        ]
+    },
+    {
+        "id": "8c31ed06289e5136",
+        "type": "inject",
+        "z": "830fadc6f5236b78",
+        "g": "932eb8b65e7cc7be",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 770,
+        "y": 880,
+        "wires": [
+            [
+                "dd15a0bed0cbf685"
+            ]
         ]
     }
 ]
