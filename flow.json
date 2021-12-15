@@ -1705,7 +1705,9 @@
             "996a9142c814ab39"
         ],
         "x": 24,
-        "y": 429
+        "y": 429,
+        "w": 712,
+        "h": 242
     },
     {
         "id": "6abd418f.d175b",
@@ -1720,7 +1722,9 @@
             "b2f2659a.67f648"
         ],
         "x": 18,
-        "y": 23
+        "y": 23,
+        "w": 1754,
+        "h": 394
     },
     {
         "id": "8c207e440fb46f33",
@@ -1736,7 +1740,9 @@
             "9f77b0d829ad914b"
         ],
         "x": 514,
-        "y": 769
+        "y": 769,
+        "w": 282,
+        "h": 82
     },
     {
         "id": "38940f8.c9c27f",
@@ -2300,7 +2306,9 @@
             "dad84feb.d4773"
         ],
         "x": 28,
-        "y": 23
+        "y": 23,
+        "w": 2970,
+        "h": 1284
     },
     {
         "id": "83483662ea05d247",
@@ -2672,7 +2680,9 @@
             "b88575ca75fdb4f5"
         ],
         "x": 754,
-        "y": 429
+        "y": 429,
+        "w": 922,
+        "h": 82
     },
     {
         "id": "d175fb986dc9e991",
@@ -2692,7 +2702,9 @@
             "36c70d85dac8cd26"
         ],
         "x": 754,
-        "y": 519
+        "y": 519,
+        "w": 922,
+        "h": 82
     },
     {
         "id": "62fac95632266b01",
@@ -3588,7 +3600,9 @@
             "faf280f1a56572a2"
         ],
         "x": 154,
-        "y": 1059
+        "y": 1059,
+        "w": 912,
+        "h": 282
     },
     {
         "id": "99fd9c5cbd90ceb5",
@@ -3605,7 +3619,9 @@
             "5e3e278f18c43297"
         ],
         "x": 154,
-        "y": 1359
+        "y": 1359,
+        "w": 492,
+        "h": 122
     },
     {
         "id": "aecdec289959a88b",
@@ -3634,7 +3650,9 @@
             "601364caf3d1d399"
         ],
         "x": 154,
-        "y": 619
+        "y": 619,
+        "w": 1092,
+        "h": 282
     },
     {
         "id": "dfdd865d8cf81492",
@@ -3652,7 +3670,9 @@
             "cea17bf2805a1d9b"
         ],
         "x": 154,
-        "y": 919
+        "y": 919,
+        "w": 772,
+        "h": 122
     },
     {
         "id": "6c6732761a2613b5",
@@ -4060,7 +4080,9 @@
             "a0b90b4f54fbae9f"
         ],
         "x": 654,
-        "y": 1359
+        "y": 1359,
+        "w": 1142,
+        "h": 222
     },
     {
         "id": "9ff47da5fe193161",
@@ -4164,7 +4186,9 @@
             "d5eb026a704fd13b"
         ],
         "x": 334,
-        "y": 359
+        "y": 359,
+        "w": 2272,
+        "h": 262
     },
     {
         "id": "e4cabd2892b5651b",
@@ -4190,7 +4214,9 @@
             "44b52a5ca865f32a"
         ],
         "x": 114,
-        "y": 999
+        "y": 999,
+        "w": 862,
+        "h": 242
     },
     {
         "id": "65dbd90af70f1e98",
@@ -4217,7 +4243,9 @@
             "932eb8b65e7cc7be"
         ],
         "x": 114,
-        "y": 599
+        "y": 599,
+        "w": 882,
+        "h": 388
     },
     {
         "id": "2ceb8ec502cd9a4d",
@@ -4240,7 +4268,9 @@
             "6d6d439b9fc092eb"
         ],
         "x": 1014,
-        "y": 599
+        "y": 599,
+        "w": 692,
+        "h": 282
     },
     {
         "id": "7fd14179472bdff0",
@@ -4262,13 +4292,12 @@
             "33e780fd53e383dc",
             "9bffd0e993c85e67",
             "fc5b732df81a41ac",
-            "2d333ee7b58d941e",
-            "2d33fba2790a0926",
-            "e34b368f3408ddbb",
-            "073ccf040962e195"
+            "2d333ee7b58d941e"
         ],
         "x": 114,
-        "y": 219
+        "y": 259,
+        "w": 992,
+        "h": 242
     },
     {
         "id": "b76c959d391c2570",
@@ -4723,7 +4752,9 @@
             "c30439cc.4bcb68"
         ],
         "x": 44,
-        "y": 49
+        "y": 49,
+        "w": 1422,
+        "h": 212
     },
     {
         "id": "b2f2659a.67f648",
@@ -4751,7 +4782,9 @@
             "de16ee9e71fc7646"
         ],
         "x": 44,
-        "y": 269
+        "y": 269,
+        "w": 1702,
+        "h": 122
     },
     {
         "id": "70a63b74.44894c",
@@ -4932,7 +4965,9 @@
             "3b884b2fd586554b"
         ],
         "x": 54,
-        "y": 49
+        "y": 49,
+        "w": 2762,
+        "h": 302
     },
     {
         "id": "8f8a192b.bb2ef8",
@@ -4960,7 +4995,9 @@
             "4e19cfd4.3982f"
         ],
         "x": 1894,
-        "y": 439
+        "y": 439,
+        "w": 1062,
+        "h": 232
     },
     {
         "id": "b9df7528.923398",
@@ -4976,7 +5013,9 @@
             "65994a87.9d5eb4"
         ],
         "x": 1888,
-        "y": 683
+        "y": 683,
+        "w": 1084,
+        "h": 134
     },
     {
         "id": "6625e1db09743bc3",
@@ -6127,7 +6166,9 @@
             "a1791b3eb78738f2"
         ],
         "x": 54,
-        "y": 359
+        "y": 359,
+        "w": 1752,
+        "h": 922
     },
     {
         "id": "16bbc2506679bb34",
@@ -6236,7 +6277,9 @@
             "d95eee71384d9b10"
         ],
         "x": 154,
-        "y": 799
+        "y": 799,
+        "w": 792,
+        "h": 162
     },
     {
         "id": "a80677cf.4274c8",
@@ -6387,7 +6430,9 @@
             "f4363e16.f1813"
         ],
         "x": 1914,
-        "y": 709
+        "y": 709,
+        "w": 1032,
+        "h": 82
     },
     {
         "id": "dd4ef7f.6489508",
@@ -19368,6 +19413,13 @@
                 "p": "C2S.Last_Reference.Value",
                 "pt": "global",
                 "to": "#:(memoryOnly)::Input.Operation.Reference",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "C2S.Last_Reference.ValueSpm",
+                "pt": "global",
+                "to": "#:(memoryOnly)::Input.Operation.spm",
                 "tot": "global"
             },
             {
@@ -100613,7 +100665,7 @@
         "z": "830fadc6f5236b78",
         "g": "932eb8b65e7cc7be",
         "name": "SpeedCalculate",
-        "func": "var ReferenciaImput = global.get(\"C2S.Implicit.spm\", \"memoryOnly\") || 0;\nvar porcentUp = global.get(\"Control_functions.doubleSpeed.risePercent\")||0;\nvar porcentDown = global.get(\"Control_functions.doubleSpeed.dropPercent\") || 0;;\n\nif(ReferenciaImput != 0){ // si existe la ReferenciaImput\n    var TPeriodo = 60/ReferenciaImput;\n}\n// calculo del tiempo de subida y tiempo de bajada\nvar Uptime = (porcentUp*TPeriodo)/100;\nvar Downtime = (100 - porcentUp)*TPeriodo/100;\n// calculo de las velocidades\nif(Uptime != 0 && Downtime !=0 ){\n    var upSpeedCalculated = 30 / Uptime;\n    var DownSpeedCalculated = 30 / Downtime;\n    node.status({fill:\"green\",shape:\"ring\",text:\"Configurate\"});\n}\n\n// variables globales\nglobal.set(\"Control_functions.doubleSpeed.upSpeedCalculated\", upSpeedCalculated);\nglobal.set(\"Control_functions.doubleSpeed.DownSpeedCalculated\", DownSpeedCalculated);\n// visualizador de variables\ncontext.set(\"ReferenciaImput\", ReferenciaImput,\"memoryOnly\");\ncontext.set(\"TPeriodo\", TPeriodo,\"memoryOnly\");\ncontext.set(\"porcentUp\", porcentUp,\"memoryOnly\");\ncontext.set(\"porcentDown\", porcentDown,\"memoryOnly\");\ncontext.set(\"Uptime\", Uptime,\"memoryOnly\");\ncontext.set(\"Downtime\", Downtime,\"memoryOnly\");\ncontext.set(\"upSpeedCalculated\", upSpeedCalculated,\"memoryOnly\");\ncontext.set(\"DownSpeedCalculated\", DownSpeedCalculated,\"memoryOnly\");\nreturn msg;\n\n",
+        "func": "var ReferenciaImput = global.get(\"C2S.Last_Reference.ValueSpm\") || 0;\nvar porcentUp = global.get(\"Control_functions.doubleSpeed.risePercent\")||0;\nvar porcentDown = global.get(\"Control_functions.doubleSpeed.dropPercent\") || 0;;\n\nif(ReferenciaImput != 0){ // si existe la ReferenciaImput\n    var TPeriodo = 60/ReferenciaImput;\n}\n// calculo del tiempo de subida y tiempo de bajada\nvar Uptime = (porcentUp*TPeriodo)/100;\nvar Downtime = (100 - porcentUp)*TPeriodo/100;\n// calculo de las velocidades\nif(Uptime != 0 && Downtime !=0 ){\n    var upSpeedCalculated = 30 / Uptime;\n    var DownSpeedCalculated = 30 / Downtime;\n    node.status({fill:\"green\",shape:\"ring\",text:\"Configurate\"});\n}\n\n// variables globales\nglobal.set(\"Control_functions.doubleSpeed.upSpeedCalculated\", upSpeedCalculated);\nglobal.set(\"Control_functions.doubleSpeed.DownSpeedCalculated\", DownSpeedCalculated);\n// visualizador de variables\ncontext.set(\"ReferenciaImput\", ReferenciaImput,\"memoryOnly\");\ncontext.set(\"TPeriodo\", TPeriodo,\"memoryOnly\");\ncontext.set(\"porcentUp\", porcentUp,\"memoryOnly\");\ncontext.set(\"porcentDown\", porcentDown,\"memoryOnly\");\ncontext.set(\"Uptime\", Uptime,\"memoryOnly\");\ncontext.set(\"Downtime\", Downtime,\"memoryOnly\");\ncontext.set(\"upSpeedCalculated\", upSpeedCalculated,\"memoryOnly\");\ncontext.set(\"DownSpeedCalculated\", DownSpeedCalculated,\"memoryOnly\");\nreturn msg;\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -101419,8 +101471,7 @@
         "y": 360,
         "wires": [
             [
-                "fc5b732df81a41ac",
-                "2d33fba2790a0926"
+                "fc5b732df81a41ac"
             ],
             [
                 "2d333ee7b58d941e"
@@ -103121,7 +103172,7 @@
         "finalize": "",
         "libs": [],
         "x": 540,
-        "y": 400,
+        "y": 380,
         "wires": [
             [
                 "33e780fd53e383dc"
@@ -103134,8 +103185,8 @@
         "z": "830fadc6f5236b78",
         "g": "7fd14179472bdff0",
         "name": "",
-        "x": 750,
-        "y": 400,
+        "x": 740,
+        "y": 380,
         "wires": [
             [
                 "9bffd0e993c85e67"
@@ -103148,8 +103199,8 @@
         "z": "830fadc6f5236b78",
         "g": "7fd14179472bdff0",
         "name": "",
-        "x": 960,
-        "y": 400,
+        "x": 940,
+        "y": 380,
         "wires": [
             []
         ]
@@ -103168,8 +103219,8 @@
         "targetType": "msg",
         "statusVal": "payload",
         "statusType": "auto",
-        "x": 450,
-        "y": 260,
+        "x": 530,
+        "y": 300,
         "wires": []
     },
     {
@@ -103189,82 +103240,6 @@
         "x": 530,
         "y": 340,
         "wires": []
-    },
-    {
-        "id": "e34b368f3408ddbb",
-        "type": "change",
-        "z": "830fadc6f5236b78",
-        "g": "7fd14179472bdff0",
-        "name": "Arranque",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "Start",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Basic",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 700,
-        "y": 280,
-        "wires": [
-            [
-                "073ccf040962e195"
-            ]
-        ]
-    },
-    {
-        "id": "073ccf040962e195",
-        "type": "subflow:c8b77ff3.ab501",
-        "z": "830fadc6f5236b78",
-        "g": "7fd14179472bdff0",
-        "name": "",
-        "x": 860,
-        "y": 280,
-        "wires": [
-            [],
-            []
-        ]
-    },
-    {
-        "id": "2d33fba2790a0926",
-        "type": "switch",
-        "z": "830fadc6f5236b78",
-        "g": "7fd14179472bdff0",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            },
-            {
-                "t": "false"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 510,
-        "y": 300,
-        "wires": [
-            [
-                "e34b368f3408ddbb"
-            ],
-            []
-        ]
     },
     {
         "id": "8c31ed06289e5136",
@@ -103411,7 +103386,7 @@
         "z": "830fadc6f5236b78",
         "g": "2ceb8ec502cd9a4d",
         "name": "referencia",
-        "func": "var referencia = global.get(\"C2S.Implicit.spm\",\"memoryOnly\")||0;\nreferencia = parseFloat(referencia.toFixed(2));\ncontext.set(\"referencia\", referencia,\"memoryOnly\");\nnode.status({fill:\"green\",shape:\"dot\",text:referencia});\nmsg.payload = referencia;\nreturn msg;",
+        "func": "var referencia = global.get(\"C2S.Last_Reference.ValueSpm\")||0;\nreferencia = parseFloat(referencia.toFixed(2));\ncontext.set(\"referencia\", referencia,\"memoryOnly\");\nnode.status({fill:\"green\",shape:\"dot\",text:referencia});\nmsg.payload = referencia;\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
