@@ -1027,9 +1027,7 @@
             "0f2c231df155d32b"
         ],
         "x": 24,
-        "y": 609,
-        "w": 2632,
-        "h": 552
+        "y": 609
     },
     {
         "id": "3cb51855.a66038",
@@ -1044,9 +1042,7 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169,
-        "w": 232,
-        "h": 82
+        "y": 1169
     },
     {
         "id": "27a0641a.d154dc",
@@ -1382,9 +1378,7 @@
             "996a9142c814ab39"
         ],
         "x": 24,
-        "y": 429,
-        "w": 712,
-        "h": 242
+        "y": 429
     },
     {
         "id": "6abd418f.d175b",
@@ -1399,9 +1393,7 @@
             "b2f2659a.67f648"
         ],
         "x": 18,
-        "y": 23,
-        "w": 1754,
-        "h": 394
+        "y": 23
     },
     {
         "id": "8c207e440fb46f33",
@@ -1417,9 +1409,7 @@
             "9f77b0d829ad914b"
         ],
         "x": 514,
-        "y": 769,
-        "w": 282,
-        "h": 82
+        "y": 769
     },
     {
         "id": "38940f8.c9c27f",
@@ -1983,9 +1973,7 @@
             "dad84feb.d4773"
         ],
         "x": 28,
-        "y": 23,
-        "w": 2970,
-        "h": 1284
+        "y": 23
     },
     {
         "id": "83483662ea05d247",
@@ -2039,9 +2027,7 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269,
-        "w": 352,
-        "h": 82
+        "y": 1269
     },
     {
         "id": "6202107f.ed9aa",
@@ -2113,9 +2099,7 @@
             "8e77c9d647a0565f"
         ],
         "x": 44,
-        "y": -21,
-        "w": 1992,
-        "h": 622
+        "y": -21
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -2149,9 +2133,7 @@
             "17c1f84a5b3ad8ad"
         ],
         "x": 3224,
-        "y": 19,
-        "w": 1284,
-        "h": 1708
+        "y": 19
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -2172,9 +2154,7 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169,
-        "w": 782,
-        "h": 182
+        "y": 1169
     },
     {
         "id": "086b9d08c3b68939",
@@ -2205,9 +2185,7 @@
             "9661d016b799c47d"
         ],
         "x": 24,
-        "y": 1359,
-        "w": 1022,
-        "h": 292
+        "y": 1359
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -2233,9 +2211,7 @@
             "6e75b5f5657d3a7e"
         ],
         "x": 24,
-        "y": 1679,
-        "w": 1132,
-        "h": 202
+        "y": 1679
     },
     {
         "id": "afdbbb533d628687",
@@ -2251,9 +2227,7 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679,
-        "w": 332,
-        "h": 82
+        "y": 1679
     },
     {
         "id": "ba075c8cc622876a",
@@ -2357,9 +2331,7 @@
             "b88575ca75fdb4f5"
         ],
         "x": 754,
-        "y": 429,
-        "w": 922,
-        "h": 82
+        "y": 429
     },
     {
         "id": "d175fb986dc9e991",
@@ -2379,9 +2351,7 @@
             "36c70d85dac8cd26"
         ],
         "x": 754,
-        "y": 519,
-        "w": 922,
-        "h": 82
+        "y": 519
     },
     {
         "id": "62fac95632266b01",
@@ -2930,9 +2900,6 @@
             "8922c43ad20938eb",
             "4c27e6b08edf0ffc",
             "5a403bee88f4887f",
-            "1a9479c0c148315d",
-            "57b5faf0f037b042",
-            "f4501448d9191b7b",
             "4ca8e0820f935840",
             "082a723ceab423ec",
             "27d4bdc826a2723e",
@@ -2940,9 +2907,6 @@
             "c993389e6e990cfd",
             "70ad2919de1ae077",
             "202cf8054adfc6b7",
-            "1fe5c77b3dcf541a",
-            "d39ad64818549a08",
-            "e2e69505cf885090",
             "9ad45e910407f2fc",
             "3c93f37a8a56e69f",
             "b1565b6948288f5a",
@@ -3233,9 +3197,7 @@
             "16bbc2506679bb34"
         ],
         "x": 54,
-        "y": 39,
-        "w": 1172,
-        "h": 948
+        "y": 39
     },
     {
         "id": "c585d878c0dbfaf0",
@@ -3279,9 +3241,7 @@
             "faf280f1a56572a2"
         ],
         "x": 154,
-        "y": 1059,
-        "w": 912,
-        "h": 282
+        "y": 1059
     },
     {
         "id": "99fd9c5cbd90ceb5",
@@ -3298,9 +3258,7 @@
             "5e3e278f18c43297"
         ],
         "x": 154,
-        "y": 1359,
-        "w": 492,
-        "h": 122
+        "y": 1359
     },
     {
         "id": "aecdec289959a88b",
@@ -3329,9 +3287,7 @@
             "601364caf3d1d399"
         ],
         "x": 154,
-        "y": 619,
-        "w": 1092,
-        "h": 282
+        "y": 619
     },
     {
         "id": "dfdd865d8cf81492",
@@ -3349,9 +3305,7 @@
             "cea17bf2805a1d9b"
         ],
         "x": 154,
-        "y": 919,
-        "w": 772,
-        "h": 122
+        "y": 919
     },
     {
         "id": "6c6732761a2613b5",
@@ -3731,9 +3685,7 @@
             "d3fc647f21f7d8eb"
         ],
         "x": 254,
-        "y": 1939,
-        "w": 532,
-        "h": 142
+        "y": 1939
     },
     {
         "id": "5519b13db7a1857a",
@@ -3759,9 +3711,7 @@
             "a0b90b4f54fbae9f"
         ],
         "x": 654,
-        "y": 1359,
-        "w": 1142,
-        "h": 222
+        "y": 1359
     },
     {
         "id": "9ff47da5fe193161",
@@ -3865,9 +3815,7 @@
             "d5eb026a704fd13b"
         ],
         "x": 334,
-        "y": 359,
-        "w": 2272,
-        "h": 262
+        "y": 359
     },
     {
         "id": "e4cabd2892b5651b",
@@ -3970,13 +3918,12 @@
             "9da85b9e2c8fef00",
             "33e780fd53e383dc",
             "9bffd0e993c85e67",
-            "fc5b732df81a41ac",
             "2d333ee7b58d941e"
         ],
         "x": 114,
-        "y": 259,
+        "y": 279,
         "w": 992,
-        "h": 242
+        "h": 222
     },
     {
         "id": "b76c959d391c2570",
@@ -4062,6 +4009,162 @@
         ],
         "x": 1734,
         "y": 19
+    },
+    {
+        "id": "0e051c2facee0b6d",
+        "type": "group",
+        "z": "5b797a7252061594",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "669d48362aab5462",
+            "95c43fb903491d90",
+            "88aa372d9f142abb",
+            "43cf85d7e6446196",
+            "7840027d26950120",
+            "026c16341902ac6e",
+            "0ba194b3e3201c24",
+            "0166a96fef75d7e0",
+            "30abba8e1a3fc30d",
+            "9c3dee85d44d1262",
+            "7a49e574f01e63e3",
+            "b10dde08e37cf6fb",
+            "39bfcbb2ffaadf0b",
+            "c5ff3b637274f424",
+            "5eec715863afb6ce",
+            "90db7ddb11817711"
+        ],
+        "x": 14,
+        "y": 419,
+        "w": 1632,
+        "h": 262
+    },
+    {
+        "id": "162691d3abd26ddb",
+        "type": "group",
+        "z": "5b797a7252061594",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "af924b4f843e4897",
+            "66a80404a34ef8ec",
+            "72ff3c659cbbde2e",
+            "dcb81139066302bc",
+            "40edf97b9e74fe77",
+            "2fca714561895878",
+            "ef6a2bf3cec32bc7",
+            "40f34678ca6a5a58",
+            "cb58314994c14f05",
+            "3d352895e2124f87",
+            "5eb63a5352f330ac",
+            "3f170170735fb414",
+            "5c08c4bb6a359a6e",
+            "4ba7844e7747726a"
+        ],
+        "x": 834,
+        "y": 139,
+        "w": 1102,
+        "h": 282
+    },
+    {
+        "id": "bca72b7420df46a9",
+        "type": "group",
+        "z": "5b797a7252061594",
+        "name": "Tendencia Principal",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "8a30dd5c5f275190",
+            "cb14c568e7814e18",
+            "fecbd80b94bd22a1",
+            "d264a0cf20ef8465"
+        ],
+        "x": 34,
+        "y": 979,
+        "w": 492,
+        "h": 122
+    },
+    {
+        "id": "f4c2cbbaa70a9690",
+        "type": "group",
+        "z": "5b797a7252061594",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "67e33f7379b1e61d",
+            "d246ab2f0d047355",
+            "f51b76d6d7bb12c1",
+            "161b3cf9cb706517",
+            "5bd87e8897c65df8",
+            "baca85e0e09173c6",
+            "7be5fa40a5b5bb8d",
+            "7830a7569ec98231",
+            "d3b5dacca519fb6d",
+            "2d176b4a5abe6bb5",
+            "51e0c40e9d0e6a02",
+            "2143bfbe4eac74b5",
+            "2994dea1d4713a60",
+            "9c91555f5426d4fa"
+        ],
+        "x": 14,
+        "y": 739,
+        "w": 1252,
+        "h": 222
+    },
+    {
+        "id": "fd781041a7a8fbec",
+        "type": "group",
+        "z": "5b797a7252061594",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "ca2d0743d5c66f4b",
+            "1288da21affea7b5",
+            "3adf23d809d6c4be",
+            "32d64fe4ad850758",
+            "3c43afe9b1eb7173",
+            "80901eaf0bd2bd2c",
+            "b5d4777974a036c2",
+            "3f8a201b6c5c41c9",
+            "068156972e59138f",
+            "d4420f349182dc92",
+            "e8670388edf896e2",
+            "601c579721df20ef",
+            "1fcb90134a8f3ddb"
+        ],
+        "x": -6,
+        "y": 99,
+        "w": 812,
+        "h": 302
     },
     {
         "id": "1306de9a.9ba341",
@@ -4431,9 +4534,7 @@
             "c30439cc.4bcb68"
         ],
         "x": 44,
-        "y": 49,
-        "w": 1422,
-        "h": 212
+        "y": 49
     },
     {
         "id": "b2f2659a.67f648",
@@ -4461,9 +4562,7 @@
             "de16ee9e71fc7646"
         ],
         "x": 44,
-        "y": 269,
-        "w": 1702,
-        "h": 122
+        "y": 269
     },
     {
         "id": "70a63b74.44894c",
@@ -4644,9 +4743,7 @@
             "3b884b2fd586554b"
         ],
         "x": 54,
-        "y": 49,
-        "w": 2762,
-        "h": 302
+        "y": 49
     },
     {
         "id": "8f8a192b.bb2ef8",
@@ -4674,9 +4771,7 @@
             "4e19cfd4.3982f"
         ],
         "x": 1894,
-        "y": 439,
-        "w": 1062,
-        "h": 232
+        "y": 439
     },
     {
         "id": "b9df7528.923398",
@@ -4692,9 +4787,7 @@
             "65994a87.9d5eb4"
         ],
         "x": 1888,
-        "y": 683,
-        "w": 1084,
-        "h": 134
+        "y": 683
     },
     {
         "id": "6625e1db09743bc3",
@@ -4748,9 +4841,7 @@
             "1a666ca6835d2d34"
         ],
         "x": 74,
-        "y": 399,
-        "w": 852,
-        "h": 132
+        "y": 399
     },
     {
         "id": "cf985e84.c7693",
@@ -5704,9 +5795,7 @@
             "26836fe8d310f685"
         ],
         "x": 3428,
-        "y": 413,
-        "w": 1054,
-        "h": 758
+        "y": 413
     },
     {
         "id": "7bc9759a9a7ea0be",
@@ -5761,9 +5850,7 @@
             "09240a88f66b7c6f"
         ],
         "x": 3434,
-        "y": 1179,
-        "w": 992,
-        "h": 522
+        "y": 1179
     },
     {
         "id": "dad84feb.d4773",
@@ -5845,9 +5932,7 @@
             "a1791b3eb78738f2"
         ],
         "x": 54,
-        "y": 359,
-        "w": 1752,
-        "h": 922
+        "y": 359
     },
     {
         "id": "16bbc2506679bb34",
@@ -5870,9 +5955,7 @@
             "5eb73b2ba006366d"
         ],
         "x": 84,
-        "y": 799,
-        "w": 882,
-        "h": 162
+        "y": 799
     },
     {
         "id": "1112a5e0c336769a",
@@ -6111,9 +6194,7 @@
             "f4363e16.f1813"
         ],
         "x": 1914,
-        "y": 709,
-        "w": 1032,
-        "h": 82
+        "y": 709
     },
     {
         "id": "dd4ef7f.6489508",
@@ -7333,9 +7414,7 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 439,
-        "w": 402,
-        "h": 362
+        "y": 439
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -7363,9 +7442,7 @@
             "1f3630da2492d4f9"
         ],
         "x": 3454,
-        "y": 809,
-        "w": 1002,
-        "h": 212
+        "y": 809
     },
     {
         "id": "b6e70888e2a92a81",
@@ -7434,162 +7511,6 @@
         ],
         "x": 2394,
         "y": 1179
-    },
-    {
-        "id": "0e051c2facee0b6d",
-        "type": "group",
-        "z": "5b797a7252061594",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "669d48362aab5462",
-            "95c43fb903491d90",
-            "88aa372d9f142abb",
-            "43cf85d7e6446196",
-            "7840027d26950120",
-            "026c16341902ac6e",
-            "0ba194b3e3201c24",
-            "0166a96fef75d7e0",
-            "30abba8e1a3fc30d",
-            "9c3dee85d44d1262",
-            "7a49e574f01e63e3",
-            "b10dde08e37cf6fb",
-            "39bfcbb2ffaadf0b",
-            "c5ff3b637274f424",
-            "5eec715863afb6ce",
-            "90db7ddb11817711"
-        ],
-        "x": 14,
-        "y": 419,
-        "w": 1632,
-        "h": 262
-    },
-    {
-        "id": "162691d3abd26ddb",
-        "type": "group",
-        "z": "5b797a7252061594",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "af924b4f843e4897",
-            "66a80404a34ef8ec",
-            "72ff3c659cbbde2e",
-            "dcb81139066302bc",
-            "40edf97b9e74fe77",
-            "2fca714561895878",
-            "ef6a2bf3cec32bc7",
-            "40f34678ca6a5a58",
-            "cb58314994c14f05",
-            "3d352895e2124f87",
-            "5eb63a5352f330ac",
-            "3f170170735fb414",
-            "5c08c4bb6a359a6e",
-            "4ba7844e7747726a"
-        ],
-        "x": 834,
-        "y": 139,
-        "w": 1102,
-        "h": 282
-    },
-    {
-        "id": "bca72b7420df46a9",
-        "type": "group",
-        "z": "5b797a7252061594",
-        "name": "Tendencia Principal",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "8a30dd5c5f275190",
-            "cb14c568e7814e18",
-            "fecbd80b94bd22a1",
-            "d264a0cf20ef8465"
-        ],
-        "x": 34,
-        "y": 979,
-        "w": 492,
-        "h": 122
-    },
-    {
-        "id": "f4c2cbbaa70a9690",
-        "type": "group",
-        "z": "5b797a7252061594",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "67e33f7379b1e61d",
-            "d246ab2f0d047355",
-            "f51b76d6d7bb12c1",
-            "161b3cf9cb706517",
-            "5bd87e8897c65df8",
-            "baca85e0e09173c6",
-            "7be5fa40a5b5bb8d",
-            "7830a7569ec98231",
-            "d3b5dacca519fb6d",
-            "2d176b4a5abe6bb5",
-            "51e0c40e9d0e6a02",
-            "2143bfbe4eac74b5",
-            "2994dea1d4713a60",
-            "9c91555f5426d4fa"
-        ],
-        "x": 14,
-        "y": 739,
-        "w": 1252,
-        "h": 222
-    },
-    {
-        "id": "fd781041a7a8fbec",
-        "type": "group",
-        "z": "5b797a7252061594",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "ca2d0743d5c66f4b",
-            "1288da21affea7b5",
-            "3adf23d809d6c4be",
-            "32d64fe4ad850758",
-            "3c43afe9b1eb7173",
-            "80901eaf0bd2bd2c",
-            "b5d4777974a036c2",
-            "3f8a201b6c5c41c9",
-            "068156972e59138f",
-            "d4420f349182dc92",
-            "e8670388edf896e2",
-            "601c579721df20ef",
-            "1fcb90134a8f3ddb"
-        ],
-        "x": -6,
-        "y": 99,
-        "w": 812,
-        "h": 302
     },
     {
         "id": "d25d405a.19cff",
@@ -99268,8 +99189,8 @@
         "z": "830fadc6f5236b78",
         "g": "7fd14179472bdff0",
         "name": "logic",
-        "func": "var habilitado = global.get(\"Control_functions.doubleSpeed.habilitado\")||false;\nvar state = global.get(\"Control_functions.doubleSpeed.state\")||false;//si está upstroke o DownStroke\nvar upSpeedCalculated = global.get(\"Control_functions.doubleSpeed.upSpeedCalculated\")||false;//Velocidad de subida\nvar DownSpeedCalculated = global.get(\"Control_functions.doubleSpeed.DownSpeedCalculated\")||false;//Velocidad de bajada\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\",\"memoryOnly\")||false;//comunicación VSD\nvar estadoPrograma = 0;//estadoPrograma en el que esta el equipo\nvar comando = 0; //arranque o parada del equipo\nvar referencia = global.get(\"C2S.Last_Reference.ValueSpm\")||0;//referencia que se debe setear\n\n\nif(habilitado == true && comunicacion == true){\n    if (state == \"Upstroke\"){\n        referencia = upSpeedCalculated;\n    } else if (state == \"DownStroke\"){\n        referencia = DownSpeedCalculated;\n    }\n    estadoPrograma = \"Activo\";\n    comando = true;\n}else if(habilitado == false && comunicacion == true){\n    estadoPrograma = \"Deshabilitado\";\n}else if(comunicacion == false){\n    estadoPrograma = \"fallo de comunicacion\";\n}\n\nnode.status({fill:\"red\",shape:\"ring\",text:estadoPrograma});\ncontext.set(\"habilitado\", habilitado,\"memoryOnly\");\ncontext.set(\"comunicacion\", comunicacion,\"memoryOnly\");\ncontext.set(\"estadoPrograma\", estadoPrograma,\"memoryOnly\");\ncontext.set(\"state\", state,\"memoryOnly\");\ncontext.set(\"upSpeedCalculated\", upSpeedCalculated,\"memoryOnly\");\ncontext.set(\"DownSpeedCalculated\", DownSpeedCalculated,\"memoryOnly\");\ncontext.set(\"referencia\", referencia,\"memoryOnly\");\n// estructura para enviar los mensajes\ncomando = { payload: comando };\nestadoPrograma = { payload: estadoPrograma};\nreferencia = { payload: referencia};\nreturn [comando,estadoPrograma,referencia];",
-        "outputs": 3,
+        "func": "var habilitado = global.get(\"Control_functions.doubleSpeed.habilitado\")||false;\nvar state = global.get(\"Control_functions.doubleSpeed.state\")||false;//si está upstroke o DownStroke\nvar upSpeedCalculated = global.get(\"Control_functions.doubleSpeed.upSpeedCalculated\")||false;//Velocidad de subida\nvar DownSpeedCalculated = global.get(\"Control_functions.doubleSpeed.DownSpeedCalculated\")||false;//Velocidad de bajada\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\",\"memoryOnly\")||false;//comunicación VSD\nvar estadoPrograma = 0;//estadoPrograma en el que esta el equipo\nvar referencia = global.get(\"C2S.Last_Reference.ValueSpm\")||0;//referencia que se debe setear\nvar active = global.get(\"C2S.Drive_Status.Active\",\"memoryOnly\")||0;\n\n\nif(habilitado == true && comunicacion == true && active == 1){//está listo para arrancar\n    if (state == \"Upstroke\"){\n        referencia = upSpeedCalculated;\n    } else if (state == \"DownStroke\"){\n        referencia = DownSpeedCalculated;\n    }\n    estadoPrograma = \"Activo\";\n} else if (habilitado == true && comunicacion == true && active == 0){\n    //variador no está arrancandO\n    estadoPrograma = \"VSDNoactive\";\n}\nelse if (habilitado == false && comunicacion == true  && active == 1){\n    estadoPrograma = \"Deshabilitado\";\n}else if(comunicacion == false){\n    estadoPrograma = \"fallo de comunicacion\";\n}\n\nnode.status({fill:\"red\",shape:\"ring\",text:estadoPrograma});\ncontext.set(\"habilitado\", habilitado,\"memoryOnly\");\ncontext.set(\"comunicacion\", comunicacion,\"memoryOnly\");\ncontext.set(\"estadoPrograma\", estadoPrograma,\"memoryOnly\");\ncontext.set(\"state\", state,\"memoryOnly\");\ncontext.set(\"upSpeedCalculated\", upSpeedCalculated,\"memoryOnly\");\ncontext.set(\"DownSpeedCalculated\", DownSpeedCalculated,\"memoryOnly\");\ncontext.set(\"referencia\", referencia,\"memoryOnly\");\ncontext.set(\"active\", active,\"memoryOnly\");\n// estructura para enviar los mensajes\nestadoPrograma = { payload: estadoPrograma};\nreferencia = { payload: referencia};\nreturn [estadoPrograma,referencia];",
+        "outputs": 2,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -99277,9 +99198,6 @@
         "x": 350,
         "y": 360,
         "wires": [
-            [
-                "fc5b732df81a41ac"
-            ],
             [
                 "2d333ee7b58d941e"
             ],
@@ -100972,7 +100890,7 @@
         "z": "830fadc6f5236b78",
         "g": "7fd14179472bdff0",
         "name": "habilitado Ref?",
-        "func": "var habilitado = global.get(\"Control_functions.doubleSpeed.habilitado\") || false;\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\", \"memoryOnly\") || false;//comunicación VSD\nnode.status({fill:\"red\",shape:\"dot\",text:msg.payload});\ncontext.set(\"habilitado\",habilitado,\"memoryOnly\");\nif(habilitado == true && comunicacion == true){\n    global.set(\"C2S.Last_Reference.Value\",msg.payload);\n    return msg;\n}",
+        "func": "var habilitado = global.get(\"Control_functions.doubleSpeed.habilitado\") || false;\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\", \"memoryOnly\") || false;//comunicación VSD\nvar active = global.get(\"C2S.Drive_Status.Active\", \"memoryOnly\") || 0;\nnode.status({fill:\"red\",shape:\"dot\",text:msg.payload});\ncontext.set(\"habilitado\",habilitado,\"memoryOnly\");\nif(habilitado == true && comunicacion == true && active == 1){\n    global.set(\"C2S.Last_Reference.Value\",msg.payload);\n    return msg;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -101013,29 +100931,11 @@
         ]
     },
     {
-        "id": "fc5b732df81a41ac",
-        "type": "debug",
-        "z": "830fadc6f5236b78",
-        "g": "7fd14179472bdff0",
-        "name": "",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": true,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "payload",
-        "statusType": "auto",
-        "x": 530,
-        "y": 300,
-        "wires": []
-    },
-    {
         "id": "2d333ee7b58d941e",
         "type": "debug",
         "z": "830fadc6f5236b78",
         "g": "7fd14179472bdff0",
-        "name": "",
+        "name": "estado",
         "active": false,
         "tosidebar": true,
         "console": false,
@@ -101044,8 +100944,8 @@
         "targetType": "msg",
         "statusVal": "payload",
         "statusType": "auto",
-        "x": 530,
-        "y": 340,
+        "x": 510,
+        "y": 320,
         "wires": []
     },
     {
