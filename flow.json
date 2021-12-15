@@ -2421,7 +2421,6 @@
             "6ca75ec1.b729e",
             "6a4b869a.479368",
             "28f9623a0f710b9d",
-            "64b7b9d400f004f1",
             "4bc8056a8d8aa493",
             "a60ba637963ad5a7",
             "8d434edf9bd913e2",
@@ -3589,9 +3588,7 @@
             "faf280f1a56572a2"
         ],
         "x": 154,
-        "y": 1059,
-        "w": 912,
-        "h": 282
+        "y": 1059
     },
     {
         "id": "99fd9c5cbd90ceb5",
@@ -3608,9 +3605,7 @@
             "5e3e278f18c43297"
         ],
         "x": 154,
-        "y": 1359,
-        "w": 492,
-        "h": 122
+        "y": 1359
     },
     {
         "id": "aecdec289959a88b",
@@ -3639,9 +3634,7 @@
             "601364caf3d1d399"
         ],
         "x": 154,
-        "y": 619,
-        "w": 1092,
-        "h": 282
+        "y": 619
     },
     {
         "id": "dfdd865d8cf81492",
@@ -3659,9 +3652,7 @@
             "cea17bf2805a1d9b"
         ],
         "x": 154,
-        "y": 919,
-        "w": 772,
-        "h": 122
+        "y": 919
     },
     {
         "id": "6c6732761a2613b5",
@@ -4069,9 +4060,7 @@
             "a0b90b4f54fbae9f"
         ],
         "x": 654,
-        "y": 1359,
-        "w": 1142,
-        "h": 222
+        "y": 1359
     },
     {
         "id": "9ff47da5fe193161",
@@ -4175,9 +4164,7 @@
             "d5eb026a704fd13b"
         ],
         "x": 334,
-        "y": 359,
-        "w": 2272,
-        "h": 262
+        "y": 359
     },
     {
         "id": "e4cabd2892b5651b",
@@ -4203,9 +4190,7 @@
             "44b52a5ca865f32a"
         ],
         "x": 114,
-        "y": 999,
-        "w": 862,
-        "h": 242
+        "y": 999
     },
     {
         "id": "65dbd90af70f1e98",
@@ -4232,9 +4217,7 @@
             "932eb8b65e7cc7be"
         ],
         "x": 114,
-        "y": 599,
-        "w": 882,
-        "h": 348
+        "y": 599
     },
     {
         "id": "2ceb8ec502cd9a4d",
@@ -4245,12 +4228,19 @@
             "label": true
         },
         "nodes": [
-            "3a58368fdac48060"
+            "3a58368fdac48060",
+            "182115e70d02be15",
+            "e0745701b791b87b",
+            "6e45636243380c11",
+            "1fee5b8b9ef43b98",
+            "10d0f9cce1324323",
+            "460641f0743752f2",
+            "d0958b60d0661966",
+            "ac714586c67e977a",
+            "6d6d439b9fc092eb"
         ],
         "x": 1014,
-        "y": 599,
-        "w": 192,
-        "h": 82
+        "y": 599
     },
     {
         "id": "7fd14179472bdff0",
@@ -4266,7 +4256,6 @@
             "7c0cf97370aaa6b7",
             "2b771903633d12e0",
             "9394087df0bac993",
-            "33b337abd7c7d4c5",
             "f69d23b5509ba3e9",
             "edb8f659de8046d0",
             "9da85b9e2c8fef00",
@@ -4279,9 +4268,7 @@
             "073ccf040962e195"
         ],
         "x": 114,
-        "y": 219,
-        "w": 992,
-        "h": 322
+        "y": 219
     },
     {
         "id": "b76c959d391c2570",
@@ -6245,12 +6232,11 @@
             "6ba0fad0bc54e475",
             "ba844f213c4dc194",
             "58bde233759fd9a4",
-            "8c31ed06289e5136"
+            "8c31ed06289e5136",
+            "d95eee71384d9b10"
         ],
         "x": 154,
-        "y": 799,
-        "w": 792,
-        "h": 122
+        "y": 799
     },
     {
         "id": "a80677cf.4274c8",
@@ -15873,7 +15859,8 @@
             "dd3279e.534be88",
             "65e9bd38.989f24",
             "3ab3e5be8fa6444d",
-            "f5491791b3a40ce6"
+            "f5491791b3a40ce6",
+            "460641f0743752f2"
         ],
         "x": 1265,
         "y": 1210,
@@ -18043,7 +18030,7 @@
                 "p": "payload"
             }
         ],
-        "repeat": "10",
+        "repeat": "1",
         "crontab": "",
         "once": false,
         "onceDelay": "",
@@ -18063,6 +18050,7 @@
         "id": "ceeefb06d082c67d",
         "type": "subflow:1fbf295f73cccb97",
         "z": "902fc438.e5d758",
+        "d": true,
         "g": "ef45fa052227c233",
         "name": "",
         "env": [],
@@ -22646,24 +22634,6 @@
         "wires": []
     },
     {
-        "id": "64b7b9d400f004f1",
-        "type": "function",
-        "z": "902fc438.e5d758",
-        "g": "6202107f.ed9aa",
-        "name": "ConversionSPM a Hz Anterior",
-        "func": "var spm = msg.payload;\nvar Dc = global.get(\"C2S.Motor_Control.Nameplate.Dc\") || 0;\nvar nPolosMotor = global.get(\"C2S.Motor_Control.Nameplate.Poles\") || 0;\nvar Dm = global.get(\"C2S.Motor_Control.Nameplate.Dm\") || 0;\nvar rgb = global.get(\"C2S.Motor_Control.Nameplate.RGB\") || 0;//RELACION DEL GEAR\ncontext.set(\"Dc\", Dc, \"memoryOnly\")\ncontext.set(\"spm\", spm, \"memoryOnly\")\ncontext.set(\"nPolosMotor\", nPolosMotor, \"memoryOnly\")\ncontext.set(\"rgb\", rgb, \"memoryOnly\")\ncontext.set(\"Dm\", Dm, \"memoryOnly\")\n// condicion que valida que esten creadas todas las variables\nif (Dc != 0 && Dm != 0 && rgb != 0 && nPolosMotor != 0) {\n    // calculo de la ecuación\n    var hz = (spm * nPolosMotor * rgb * Dc) / (60 * Dm);\n    hz = parseFloat(hz.toFixed(2))\n    msg.payload = hz;\n    node.status({ fill: \"green\", shape: \"dot\", text: \"Configurado\" });\n    context.set(\"hz\", hz, \"memoryOnly\")\n    global.set(\"Input.Operation.Reference\",hz,\"memoryOnly\");\n    return msg;\n} else {\n    node.status({ fill: \"red\", shape: \"dot\", text: \"NoConfigurado\" });\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1110,
-        "y": 380,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "c4ca92f3df7aa2b1",
         "type": "function",
         "z": "902fc438.e5d758",
@@ -22690,7 +22660,8 @@
         "g": "b2fff3b09f0ae95c",
         "name": "TendenciaPrincipal",
         "links": [
-            "46db26d7af2e0781"
+            "46db26d7af2e0781",
+            "ae99f68c08d8c44b"
         ],
         "x": 605,
         "y": 2040,
@@ -60927,7 +60898,8 @@
             "3023be06a10a9863",
             "5a2971a54a238a55",
             "e3610e70df32ce6e",
-            "24d112a4a561706b"
+            "24d112a4a561706b",
+            "1fee5b8b9ef43b98"
         ],
         "x": 335,
         "y": 320,
@@ -100641,7 +100613,7 @@
         "z": "830fadc6f5236b78",
         "g": "932eb8b65e7cc7be",
         "name": "SpeedCalculate",
-        "func": "var ReferenciaImput = global.get(\"Input.Operation.spm\", \"memoryOnly\") || 0;\nvar porcentUp = global.get(\"Control_functions.doubleSpeed.risePercent\")||0;\nvar porcentDown = global.get(\"Control_functions.doubleSpeed.dropPercent\") || 0;;\n\nif(ReferenciaImput != 0){ // si existe la ReferenciaImput\n    var TPeriodo = 60/ReferenciaImput;\n}\n// calculo del tiempo de subida y tiempo de bajada\nvar Uptime = (porcentUp*TPeriodo)/100;\nvar Downtime = (100 - porcentUp)*TPeriodo/100;\n// calculo de las velocidades\nif(Uptime != 0 && Downtime !=0 ){\n    var upSpeedCalculated = 30 / Uptime;\n    var DownSpeedCalculated = 30 / Downtime;\n    node.status({fill:\"green\",shape:\"ring\",text:\"Configurate\"});\n}\n\n// variables globales\nglobal.set(\"Control_functions.doubleSpeed.upSpeedCalculated\", upSpeedCalculated);\nglobal.set(\"Control_functions.doubleSpeed.DownSpeedCalculated\", DownSpeedCalculated);\n// visualizador de variables\ncontext.set(\"ReferenciaImput\", ReferenciaImput,\"memoryOnly\");\ncontext.set(\"TPeriodo\", TPeriodo,\"memoryOnly\");\ncontext.set(\"porcentUp\", porcentUp,\"memoryOnly\");\ncontext.set(\"porcentDown\", porcentDown,\"memoryOnly\");\ncontext.set(\"Uptime\", Uptime,\"memoryOnly\");\ncontext.set(\"Downtime\", Downtime,\"memoryOnly\");\ncontext.set(\"upSpeedCalculated\", upSpeedCalculated,\"memoryOnly\");\ncontext.set(\"DownSpeedCalculated\", DownSpeedCalculated,\"memoryOnly\");\nreturn msg;\n\n",
+        "func": "var ReferenciaImput = global.get(\"C2S.Implicit.spm\", \"memoryOnly\") || 0;\nvar porcentUp = global.get(\"Control_functions.doubleSpeed.risePercent\")||0;\nvar porcentDown = global.get(\"Control_functions.doubleSpeed.dropPercent\") || 0;;\n\nif(ReferenciaImput != 0){ // si existe la ReferenciaImput\n    var TPeriodo = 60/ReferenciaImput;\n}\n// calculo del tiempo de subida y tiempo de bajada\nvar Uptime = (porcentUp*TPeriodo)/100;\nvar Downtime = (100 - porcentUp)*TPeriodo/100;\n// calculo de las velocidades\nif(Uptime != 0 && Downtime !=0 ){\n    var upSpeedCalculated = 30 / Uptime;\n    var DownSpeedCalculated = 30 / Downtime;\n    node.status({fill:\"green\",shape:\"ring\",text:\"Configurate\"});\n}\n\n// variables globales\nglobal.set(\"Control_functions.doubleSpeed.upSpeedCalculated\", upSpeedCalculated);\nglobal.set(\"Control_functions.doubleSpeed.DownSpeedCalculated\", DownSpeedCalculated);\n// visualizador de variables\ncontext.set(\"ReferenciaImput\", ReferenciaImput,\"memoryOnly\");\ncontext.set(\"TPeriodo\", TPeriodo,\"memoryOnly\");\ncontext.set(\"porcentUp\", porcentUp,\"memoryOnly\");\ncontext.set(\"porcentDown\", porcentDown,\"memoryOnly\");\ncontext.set(\"Uptime\", Uptime,\"memoryOnly\");\ncontext.set(\"Downtime\", Downtime,\"memoryOnly\");\ncontext.set(\"upSpeedCalculated\", upSpeedCalculated,\"memoryOnly\");\ncontext.set(\"DownSpeedCalculated\", DownSpeedCalculated,\"memoryOnly\");\nreturn msg;\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -100650,7 +100622,9 @@
         "x": 840,
         "y": 840,
         "wires": [
-            []
+            [
+                "d95eee71384d9b10"
+            ]
         ]
     },
     {
@@ -101015,7 +100989,7 @@
         "tooltip": "",
         "group": "4026595aa6261291",
         "order": 1,
-        "width": "3",
+        "width": "2",
         "height": "1",
         "passthru": true,
         "mode": "number",
@@ -101042,7 +101016,7 @@
         "tooltip": "",
         "group": "4026595aa6261291",
         "order": 1,
-        "width": "3",
+        "width": "2",
         "height": "1",
         "passthru": true,
         "mode": "number",
@@ -101073,7 +101047,7 @@
         "format": "{{msg.payload}}",
         "layout": "row-left",
         "className": "",
-        "x": 1110,
+        "x": 1570,
         "y": 640,
         "wires": []
     },
@@ -101088,7 +101062,7 @@
         "width": "2",
         "height": "1",
         "passthru": false,
-        "label": "Confirmar",
+        "label": "Actualizar",
         "tooltip": "",
         "color": "",
         "bgcolor": "",
@@ -101435,7 +101409,7 @@
         "z": "830fadc6f5236b78",
         "g": "7fd14179472bdff0",
         "name": "logic",
-        "func": "var habilitado = global.get(\"Control_functions.doubleSpeed.habilitado\")||false;\nvar state = global.get(\"Control_functions.doubleSpeed.state\")||false;//si está upstroke o DownStroke\nvar upSpeedCalculated = global.get(\"Control_functions.doubleSpeed.upSpeedCalculated\")||false;//Velocidad de subida\nvar DownSpeedCalculated = global.get(\"Control_functions.doubleSpeed.DownSpeedCalculated\")||false;//Velocidad de bajada\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\",\"memoryOnly\")||false;//comunicación VSD\nvar estadoPrograma = 0;//estadoPrograma en el que esta el equipo\nvar comando = 0; //arranque o parada del equipo\nvar referencia = 0;//referencia que se debe setear\n\n\nif(habilitado == true && comunicacion == true){\n    if (state == \"Upstroke\"){\n        referencia = upSpeedCalculated;\n    } else if (state == \"DownStroke\"){\n        referencia = DownSpeedCalculated;\n    }\n    estadoPrograma = \"Activo\";\n    comando = true;\n}else if(habilitado == false && comunicacion == true){\n    estadoPrograma = \"Deshabilitado\";\n}else if(comunicacion == false){\n    estadoPrograma = \"fallo de comunicacion\";\n}\n\nnode.status({fill:\"red\",shape:\"ring\",text:estadoPrograma});\ncontext.set(\"habilitado\", habilitado,\"memoryOnly\");\ncontext.set(\"comunicacion\", comunicacion,\"memoryOnly\");\ncontext.set(\"estadoPrograma\", estadoPrograma,\"memoryOnly\");\ncontext.set(\"state\", state,\"memoryOnly\");\ncontext.set(\"upSpeedCalculated\", upSpeedCalculated,\"memoryOnly\");\ncontext.set(\"DownSpeedCalculated\", DownSpeedCalculated,\"memoryOnly\");\ncontext.set(\"referencia\", referencia,\"memoryOnly\");\n// estructura para enviar los mensajes\ncomando = { payload: comando };\nestadoPrograma = { payload: estadoPrograma};\nreferencia = { payload: referencia};\nreturn [comando,estadoPrograma,referencia];",
+        "func": "var habilitado = global.get(\"Control_functions.doubleSpeed.habilitado\")||false;\nvar state = global.get(\"Control_functions.doubleSpeed.state\")||false;//si está upstroke o DownStroke\nvar upSpeedCalculated = global.get(\"Control_functions.doubleSpeed.upSpeedCalculated\")||false;//Velocidad de subida\nvar DownSpeedCalculated = global.get(\"Control_functions.doubleSpeed.DownSpeedCalculated\")||false;//Velocidad de bajada\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\",\"memoryOnly\")||false;//comunicación VSD\nvar estadoPrograma = 0;//estadoPrograma en el que esta el equipo\nvar comando = 0; //arranque o parada del equipo\nvar referencia = context.get(\"referencia\",\"memoryOnly\")||0;//referencia que se debe setear\n\n\nif(habilitado == true && comunicacion == true){\n    if (state == \"Upstroke\"){\n        referencia = upSpeedCalculated;\n    } else if (state == \"DownStroke\"){\n        referencia = DownSpeedCalculated;\n    }\n    estadoPrograma = \"Activo\";\n    comando = true;\n}else if(habilitado == false && comunicacion == true){\n    estadoPrograma = \"Deshabilitado\";\n}else if(comunicacion == false){\n    estadoPrograma = \"fallo de comunicacion\";\n}\n\nnode.status({fill:\"red\",shape:\"ring\",text:estadoPrograma});\ncontext.set(\"habilitado\", habilitado,\"memoryOnly\");\ncontext.set(\"comunicacion\", comunicacion,\"memoryOnly\");\ncontext.set(\"estadoPrograma\", estadoPrograma,\"memoryOnly\");\ncontext.set(\"state\", state,\"memoryOnly\");\ncontext.set(\"upSpeedCalculated\", upSpeedCalculated,\"memoryOnly\");\ncontext.set(\"DownSpeedCalculated\", DownSpeedCalculated,\"memoryOnly\");\ncontext.set(\"referencia\", referencia,\"memoryOnly\");\n// estructura para enviar los mensajes\ncomando = { payload: comando };\nestadoPrograma = { payload: estadoPrograma};\nreferencia = { payload: referencia};\nreturn [comando,estadoPrograma,referencia];",
         "outputs": 3,
         "noerr": 0,
         "initialize": "",
@@ -101551,54 +101525,8 @@
         "y": 460,
         "wires": [
             [
-                "3ebd377390004e5d",
-                "33b337abd7c7d4c5"
+                "3ebd377390004e5d"
             ]
-        ]
-    },
-    {
-        "id": "33b337abd7c7d4c5",
-        "type": "ui_chart",
-        "z": "830fadc6f5236b78",
-        "g": "7fd14179472bdff0",
-        "name": "",
-        "group": "4026595aa6261291",
-        "order": 5,
-        "width": "12",
-        "height": "4",
-        "label": "chart",
-        "chartType": "line",
-        "legend": "false",
-        "xformat": "HH:mm:ss",
-        "interpolate": "linear",
-        "nodata": "",
-        "dot": false,
-        "ymin": "",
-        "ymax": "",
-        "removeOlder": "1",
-        "removeOlderPoints": "",
-        "removeOlderUnit": "60",
-        "cutout": 0,
-        "useOneColor": false,
-        "useUTC": false,
-        "colors": [
-            "#1f77b4",
-            "#aec7e8",
-            "#ff7f0e",
-            "#2ca02c",
-            "#98df8a",
-            "#d62728",
-            "#ff9896",
-            "#9467bd",
-            "#c5b0d5"
-        ],
-        "outputs": 1,
-        "useDifferentColor": false,
-        "className": "",
-        "x": 630,
-        "y": 500,
-        "wires": [
-            []
         ]
     },
     {
@@ -103186,7 +103114,7 @@
         "z": "830fadc6f5236b78",
         "g": "7fd14179472bdff0",
         "name": "habilitado Ref?",
-        "func": "var habilitado = global.get(\"Control_functions.doubleSpeed.habilitado\") || false;\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\", \"memoryOnly\") || false;//comunicación VSD\nnode.status({fill:\"red\",shape:\"dot\",text:msg.payload});\ncontext.set(\"habilitado\",habilitado,\"memoryOnly\");\nif(habilitado == true && comunicacion == true){\n    return msg;\n}",
+        "func": "var habilitado = global.get(\"Control_functions.doubleSpeed.habilitado\") || false;\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\", \"memoryOnly\") || false;//comunicación VSD\nnode.status({fill:\"red\",shape:\"dot\",text:msg.payload});\ncontext.set(\"habilitado\",habilitado,\"memoryOnly\");\nif(habilitado == true && comunicacion == true){\n    global.set(\"C2S.Last_Reference.Value\",msg.payload);\n    return msg;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -103360,11 +103288,269 @@
         "topic": "",
         "payload": "",
         "payloadType": "date",
-        "x": 770,
-        "y": 880,
+        "x": 700,
+        "y": 920,
         "wires": [
             [
                 "dd15a0bed0cbf685"
+            ]
+        ]
+    },
+    {
+        "id": "182115e70d02be15",
+        "type": "ui_text",
+        "z": "830fadc6f5236b78",
+        "g": "2ceb8ec502cd9a4d",
+        "group": "4026595aa6261291",
+        "order": 3,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "Velocidad Subida",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "",
+        "x": 1590,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "e0745701b791b87b",
+        "type": "ui_text",
+        "z": "830fadc6f5236b78",
+        "g": "2ceb8ec502cd9a4d",
+        "group": "4026595aa6261291",
+        "order": 3,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "Velocidad Bajada",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "",
+        "x": 1590,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "6e45636243380c11",
+        "type": "function",
+        "z": "830fadc6f5236b78",
+        "g": "2ceb8ec502cd9a4d",
+        "name": "VelocidadSubida",
+        "func": "var velocidadSubida = global.get(\"Control_functions.doubleSpeed.upSpeedCalculated\")||0;\nvelocidadSubida = parseFloat(velocidadSubida.toFixed(2));\ncontext.set(\"velocidadSubida\", velocidadSubida,\"memoryOnly\");\nnode.status({fill:\"green\",shape:\"dot\",text:velocidadSubida});\nmsg.payload = velocidadSubida\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1370,
+        "y": 700,
+        "wires": [
+            [
+                "182115e70d02be15"
+            ]
+        ]
+    },
+    {
+        "id": "1fee5b8b9ef43b98",
+        "type": "link in",
+        "z": "830fadc6f5236b78",
+        "g": "2ceb8ec502cd9a4d",
+        "name": "mostrarVelocidadSubidaSpeedControl",
+        "links": [
+            "ad87cee4.7dbb5",
+            "d95eee71384d9b10"
+        ],
+        "x": 1175,
+        "y": 720,
+        "wires": [
+            [
+                "6e45636243380c11",
+                "10d0f9cce1324323",
+                "ac714586c67e977a"
+            ]
+        ]
+    },
+    {
+        "id": "d95eee71384d9b10",
+        "type": "link out",
+        "z": "830fadc6f5236b78",
+        "g": "932eb8b65e7cc7be",
+        "name": "SalidaCalculoSpeedControl",
+        "links": [
+            "1fee5b8b9ef43b98"
+        ],
+        "x": 895,
+        "y": 900,
+        "wires": []
+    },
+    {
+        "id": "10d0f9cce1324323",
+        "type": "function",
+        "z": "830fadc6f5236b78",
+        "g": "2ceb8ec502cd9a4d",
+        "name": "Velocidadbajada",
+        "func": "var velocidadbajada = global.get(\"Control_functions.doubleSpeed.DownSpeedCalculated\")||0;\nvelocidadbajada = parseFloat(velocidadbajada.toFixed(2));\ncontext.set(\"velocidadbajada\", velocidadbajada,\"memoryOnly\");\nnode.status({fill:\"green\",shape:\"dot\",text:velocidadbajada});\nmsg.payload = velocidadbajada;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1360,
+        "y": 760,
+        "wires": [
+            [
+                "e0745701b791b87b"
+            ]
+        ]
+    },
+    {
+        "id": "ac714586c67e977a",
+        "type": "function",
+        "z": "830fadc6f5236b78",
+        "g": "2ceb8ec502cd9a4d",
+        "name": "referencia",
+        "func": "var referencia = global.get(\"C2S.Implicit.spm\",\"memoryOnly\")||0;\nreferencia = parseFloat(referencia.toFixed(2));\ncontext.set(\"referencia\", referencia,\"memoryOnly\");\nnode.status({fill:\"green\",shape:\"dot\",text:referencia});\nmsg.payload = referencia;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1340,
+        "y": 640,
+        "wires": [
+            [
+                "3a58368fdac48060"
+            ]
+        ]
+    },
+    {
+        "id": "460641f0743752f2",
+        "type": "link in",
+        "z": "830fadc6f5236b78",
+        "g": "2ceb8ec502cd9a4d",
+        "name": "refreshReferenciaDoubleSpeed",
+        "links": [
+            "ecf98f3f.4a704"
+        ],
+        "x": 1055,
+        "y": 640,
+        "wires": [
+            [
+                "d0958b60d0661966"
+            ]
+        ]
+    },
+    {
+        "id": "d0958b60d0661966",
+        "type": "switch",
+        "z": "830fadc6f5236b78",
+        "g": "2ceb8ec502cd9a4d",
+        "name": "pantalla",
+        "property": "Navegación.Pantalla",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Otras Funciones de Control",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1180,
+        "y": 640,
+        "wires": [
+            [
+                "ac714586c67e977a"
+            ]
+        ]
+    },
+    {
+        "id": "6d6d439b9fc092eb",
+        "type": "ui_chart",
+        "z": "830fadc6f5236b78",
+        "g": "2ceb8ec502cd9a4d",
+        "name": "GraficoPrincipalDoubleSpeedControl",
+        "group": "4026595aa6261291",
+        "order": 5,
+        "width": "12",
+        "height": "4",
+        "label": "chart",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": "1",
+        "removeOlderPoints": "",
+        "removeOlderUnit": "60",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1530,
+        "y": 840,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9d5241c05da1b3a8",
+        "type": "switch",
+        "z": "830fadc6f5236b78",
+        "name": "Pantalla",
+        "property": "#:(memoryOnly)::Navegación.Pantalla",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Otras Funciones de Control",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1240,
+        "y": 840,
+        "wires": [
+            [
+                "6d6d439b9fc092eb"
+            ]
+        ]
+    },
+    {
+        "id": "ae99f68c08d8c44b",
+        "type": "link in",
+        "z": "830fadc6f5236b78",
+        "name": "TendenciaPumpOffController",
+        "links": [
+            "d3fc647f21f7d8eb"
+        ],
+        "x": 1135,
+        "y": 840,
+        "wires": [
+            [
+                "9d5241c05da1b3a8"
             ]
         ]
     }
