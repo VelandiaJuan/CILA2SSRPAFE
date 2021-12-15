@@ -3887,16 +3887,12 @@
             "9d65fe56ff37ec87",
             "6820aae1344b079e",
             "afc20a72f4c90f05",
-            "932eb8b65e7cc7be",
-            "3bfac3a66c6867e0",
-            "c6f294ee43b0f86a",
-            "a02ea239138840dc",
-            "e455a45a3fd12f79"
+            "932eb8b65e7cc7be"
         ],
         "x": 114,
-        "y": 519,
-        "w": 892,
-        "h": 468
+        "y": 599,
+        "w": 882,
+        "h": 368
     },
     {
         "id": "2ceb8ec502cd9a4d",
@@ -3917,11 +3913,10 @@
             "d0958b60d0661966",
             "ac714586c67e977a",
             "6d6d439b9fc092eb",
-            "8b73c905779be010",
             "9d5241c05da1b3a8",
             "ae99f68c08d8c44b",
             "11cdf377e409913a",
-            "b04209faff673e1e"
+            "86a9047e4057bacf"
         ],
         "x": 1014,
         "y": 599,
@@ -6076,16 +6071,12 @@
             "6ba0fad0bc54e475",
             "ba844f213c4dc194",
             "58bde233759fd9a4",
-            "d95eee71384d9b10",
-            "ee7928b1b44fbb05",
-            "77eddfe2707bfc75",
-            "a760365af3233bcf",
-            "bd7fc39a65fb3b80"
+            "d95eee71384d9b10"
         ],
-        "x": 144,
+        "x": 154,
         "y": 799,
-        "w": 802,
-        "h": 162
+        "w": 792,
+        "h": 142
     },
     {
         "id": "a80677cf.4274c8",
@@ -8346,7 +8337,6 @@
         "serialStopbits": "1",
         "serialParity": "none",
         "serialConnectionDelay": "100",
-        "serialAsciiResponseStartDelimiter": "",
         "unit_id": 1,
         "commandDelay": 1,
         "clientTimeout": 1000,
@@ -9762,8 +9752,7 @@
         "order": 7,
         "disp": false,
         "width": "12",
-        "collapse": false,
-        "className": ""
+        "collapse": false
     },
     {
         "id": "c4af1abf6fb99202",
@@ -10311,8 +10300,7 @@
         "order": 18,
         "disp": true,
         "width": "12",
-        "collapse": false,
-        "className": ""
+        "collapse": false
     },
     {
         "id": "062a318632513a2a",
@@ -10502,8 +10490,7 @@
         "group": "4b33f8ea.b34188",
         "order": 23,
         "width": "5",
-        "height": 1,
-        "className": ""
+        "height": 1
     },
     {
         "id": "8e7a02e2103fe586",
@@ -10513,8 +10500,7 @@
         "order": 5,
         "disp": false,
         "width": "12",
-        "collapse": false,
-        "className": ""
+        "collapse": false
     },
     {
         "id": "bc605737706ec846",
@@ -10524,8 +10510,7 @@
         "order": 6,
         "disp": false,
         "width": "12",
-        "collapse": false,
-        "className": ""
+        "collapse": false
     },
     {
         "id": "aae67d7aeefcebb5",
@@ -10735,8 +10720,7 @@
         "order": 2,
         "disp": true,
         "width": "6",
-        "collapse": false,
-        "className": ""
+        "collapse": false
     },
     {
         "id": "90c0022f5eae925a",
@@ -10746,8 +10730,7 @@
         "order": 3,
         "disp": true,
         "width": "6",
-        "collapse": false,
-        "className": ""
+        "collapse": false
     },
     {
         "id": "0cb60887cd63d581",
@@ -10757,8 +10740,7 @@
         "order": 4,
         "disp": true,
         "width": "6",
-        "collapse": false,
-        "className": ""
+        "collapse": false
     },
     {
         "id": "0c116f2baac7c7f8",
@@ -10768,8 +10750,7 @@
         "order": 5,
         "disp": true,
         "width": "6",
-        "collapse": false,
-        "className": ""
+        "collapse": false
     },
     {
         "id": "6315ac3b2a589b9d",
@@ -10788,8 +10769,7 @@
         "order": 1,
         "disp": false,
         "width": "12",
-        "collapse": false,
-        "className": ""
+        "collapse": false
     },
     {
         "id": "6ecc0f8144fb3cb9",
@@ -10799,8 +10779,7 @@
         "group": "0c116f2baac7c7f8",
         "order": 4,
         "width": "6",
-        "height": "5",
-        "className": ""
+        "height": "5"
     },
     {
         "id": "22f69512af11d35a",
@@ -10810,8 +10789,7 @@
         "group": "0cb60887cd63d581",
         "order": 8,
         "width": "6",
-        "height": "5",
-        "className": ""
+        "height": "5"
     },
     {
         "id": "c7c8109bb79e7e46",
@@ -13510,7 +13488,6 @@
         "label": "Mtr Hz: ",
         "format": "{{msg.payload}}",
         "layout": "col-center",
-        "className": "",
         "x": 610,
         "y": 1500,
         "wires": []
@@ -15448,7 +15425,6 @@
         "label": "Operación:",
         "format": " {{msg.payload}}",
         "layout": "row-spread",
-        "className": "",
         "x": 1410,
         "y": 290,
         "wires": []
@@ -16110,7 +16086,6 @@
         "label": "Ref SRP: ",
         "format": "  {{msg.payload}}",
         "layout": "row-center",
-        "className": "",
         "x": 620,
         "y": 330,
         "wires": []
@@ -16128,7 +16103,6 @@
         "label": "Vel Actual(spm): ",
         "format": "<font size=7px> {{msg.payload}}",
         "layout": "col-center",
-        "className": "",
         "x": 640,
         "y": 1450,
         "wires": []
@@ -25394,7 +25368,6 @@
         "payload": "",
         "topic": "",
         "topicType": "str",
-        "className": "",
         "x": 140,
         "y": 360,
         "wires": [
@@ -30574,8 +30547,6 @@
         "mode": "number",
         "delay": "300",
         "topic": "Accel",
-        "sendOnBlur": true,
-        "className": "",
         "topicType": "str",
         "x": 480,
         "y": 160,
@@ -30625,8 +30596,6 @@
         "mode": "number",
         "delay": "300",
         "topic": "",
-        "sendOnBlur": true,
-        "className": "",
         "topicType": "str",
         "x": 470,
         "y": 320,
@@ -30652,8 +30621,6 @@
         "mode": "number",
         "delay": "300",
         "topic": "",
-        "sendOnBlur": true,
-        "className": "",
         "topicType": "str",
         "x": 470,
         "y": 360,
@@ -32209,7 +32176,6 @@
         "payload": "",
         "topic": "",
         "topicType": "str",
-        "className": "",
         "x": 440,
         "y": 2060,
         "wires": [
@@ -48654,7 +48620,6 @@
         "mode": "number",
         "delay": 300,
         "topic": "topic",
-        "sendOnBlur": true,
         "topicType": "msg",
         "x": 450,
         "y": 3180,
@@ -48680,7 +48645,6 @@
         "mode": "number",
         "delay": 300,
         "topic": "topic",
-        "sendOnBlur": true,
         "topicType": "msg",
         "x": 490,
         "y": 3220,
@@ -48788,7 +48752,6 @@
         "mode": "number",
         "delay": 300,
         "topic": "topic",
-        "sendOnBlur": true,
         "topicType": "msg",
         "x": 440,
         "y": 3260,
@@ -48830,7 +48793,6 @@
         "label": "Relación Total",
         "format": "{{msg.payload}}",
         "layout": "row-left",
-        "className": "",
         "x": 1080,
         "y": 3220,
         "wires": []
@@ -49193,7 +49155,6 @@
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
-        "className": "",
         "x": 160,
         "y": 570,
         "wires": [
@@ -49573,7 +49534,6 @@
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
-        "className": "",
         "x": 210,
         "y": 1040,
         "wires": [
@@ -50116,7 +50076,6 @@
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
-        "className": "",
         "x": 240,
         "y": 1280,
         "wires": [
@@ -51176,7 +51135,6 @@
         "label": "Vel Motor:",
         "format": "{{msg.payload}}",
         "layout": "row-center",
-        "className": "",
         "x": 2980,
         "y": 100,
         "wires": []
@@ -51194,7 +51152,6 @@
         "label": "Vel Motor:",
         "format": "  {{msg.payload}}",
         "layout": "row-center",
-        "className": "",
         "x": 2980,
         "y": 140,
         "wires": []
@@ -51212,7 +51169,6 @@
         "label": "Vel Motor:",
         "format": "  {{msg.payload}}",
         "layout": "row-center",
-        "className": "",
         "x": 2980,
         "y": 180,
         "wires": []
@@ -51230,7 +51186,6 @@
         "label": "Vel Motor:",
         "format": "  {{msg.payload}}",
         "layout": "row-center",
-        "className": "",
         "x": 2980,
         "y": 260,
         "wires": []
@@ -51248,7 +51203,6 @@
         "label": "Vel Motor:",
         "format": "  {{msg.payload}}",
         "layout": "row-center",
-        "className": "",
         "x": 2980,
         "y": 300,
         "wires": []
@@ -51266,7 +51220,6 @@
         "label": "Vel Motor:",
         "format": "  {{msg.payload}}",
         "layout": "row-center",
-        "className": "",
         "x": 2980,
         "y": 340,
         "wires": []
@@ -51284,7 +51237,6 @@
         "label": "Vel Motor:",
         "format": "  {{msg.payload}}",
         "layout": "row-center",
-        "className": "",
         "x": 2980,
         "y": 380,
         "wires": []
@@ -51329,7 +51281,6 @@
         "label": "Mtr Hz: ",
         "format": "{{msg.payload}}",
         "layout": "row-center",
-        "className": "",
         "x": 2240,
         "y": 260,
         "wires": []
@@ -51347,7 +51298,6 @@
         "label": "Mtr Hz: ",
         "format": "{{msg.payload}}",
         "layout": "row-center",
-        "className": "",
         "x": 2240,
         "y": 100,
         "wires": []
@@ -51365,7 +51315,6 @@
         "label": "Mtr Hz: ",
         "format": "{{msg.payload}}",
         "layout": "row-center",
-        "className": "",
         "x": 2240,
         "y": 180,
         "wires": []
@@ -51383,7 +51332,6 @@
         "label": "Mtr Hz: ",
         "format": "{{msg.payload}}",
         "layout": "row-center",
-        "className": "",
         "x": 2240,
         "y": 340,
         "wires": []
@@ -51401,7 +51349,6 @@
         "label": "Mtr Hz: ",
         "format": "{{msg.payload}}",
         "layout": "row-center",
-        "className": "",
         "x": 2240,
         "y": 420,
         "wires": []
@@ -51419,7 +51366,6 @@
         "label": "Mtr Hz: ",
         "format": "{{msg.payload}}",
         "layout": "row-center",
-        "className": "",
         "x": 2240,
         "y": 500,
         "wires": []
@@ -51437,7 +51383,6 @@
         "label": "Mtr Hz: ",
         "format": "{{msg.payload}}",
         "layout": "row-center",
-        "className": "",
         "x": 2240,
         "y": 580,
         "wires": []
@@ -51455,7 +51400,6 @@
         "label": "Vel. Act:",
         "format": "{{msg.payload}} spm",
         "layout": "row-center",
-        "className": "",
         "x": 2420,
         "y": 220,
         "wires": []
@@ -51473,7 +51417,6 @@
         "label": "Vel. Act:",
         "format": "{{msg.payload}} spm",
         "layout": "row-center",
-        "className": "",
         "x": 2420,
         "y": 60,
         "wires": []
@@ -51491,7 +51434,6 @@
         "label": "Vel. Act:",
         "format": "{{msg.payload}} spm",
         "layout": "row-center",
-        "className": "",
         "x": 2420,
         "y": 140,
         "wires": []
@@ -51509,7 +51451,6 @@
         "label": "Vel. Act:",
         "format": "{{msg.payload}} spm",
         "layout": "row-center",
-        "className": "",
         "x": 2420,
         "y": 300,
         "wires": []
@@ -51527,7 +51468,6 @@
         "label": "Vel. Act:",
         "format": "{{msg.payload}} spm",
         "layout": "row-center",
-        "className": "",
         "x": 2420,
         "y": 380,
         "wires": []
@@ -51545,7 +51485,6 @@
         "label": "Vel. Act:",
         "format": "{{msg.payload}} spm",
         "layout": "row-center",
-        "className": "",
         "x": 2420,
         "y": 460,
         "wires": []
@@ -51563,7 +51502,6 @@
         "label": "Vel. Act:",
         "format": "{{msg.payload}} spm",
         "layout": "row-center",
-        "className": "",
         "x": 2420,
         "y": 540,
         "wires": []
@@ -51658,7 +51596,6 @@
         "label": "Vel Motor:",
         "format": "  {{msg.payload}}",
         "layout": "row-center",
-        "className": "",
         "x": 2980,
         "y": 220,
         "wires": []
@@ -51676,7 +51613,6 @@
         "label": "Mtr Hz: ",
         "format": "{{msg.payload}}",
         "layout": "row-center",
-        "className": "",
         "x": 2240,
         "y": 660,
         "wires": []
@@ -51694,7 +51630,6 @@
         "label": "Vel. Act:",
         "format": "{{msg.payload}} spm",
         "layout": "row-center",
-        "className": "",
         "x": 2420,
         "y": 620,
         "wires": []
@@ -51712,7 +51647,6 @@
         "label": "Vel. Act:",
         "format": "{{msg.payload}} spm",
         "layout": "row-center",
-        "className": "",
         "x": 2420,
         "y": 780,
         "wires": []
@@ -51948,7 +51882,6 @@
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
-        "className": "",
         "x": 1130,
         "y": 1380,
         "wires": [
@@ -51968,7 +51901,6 @@
         "label": "Mtr Hz: ",
         "format": "{{msg.payload}}",
         "layout": "row-center",
-        "className": "",
         "x": 2240,
         "y": 740,
         "wires": []
@@ -51986,7 +51918,6 @@
         "label": "Vel Motor:",
         "format": "  {{msg.payload}}",
         "layout": "row-center",
-        "className": "",
         "x": 2980,
         "y": 60,
         "wires": []
@@ -52081,7 +52012,6 @@
         "label": "Vel. Act:",
         "format": "{{msg.payload}} spm",
         "layout": "row-center",
-        "className": "",
         "x": 2420,
         "y": 700,
         "wires": []
@@ -64288,7 +64218,6 @@
         "payload": "",
         "topic": "",
         "topicType": "str",
-        "className": "",
         "x": 2580,
         "y": 780,
         "wires": [
@@ -78201,8 +78130,6 @@
         "mode": "text",
         "delay": 300,
         "topic": "",
-        "sendOnBlur": true,
-        "className": "",
         "topicType": "str",
         "x": 480,
         "y": 120,
@@ -78228,8 +78155,6 @@
         "mode": "text",
         "delay": 300,
         "topic": "",
-        "sendOnBlur": true,
-        "className": "",
         "topicType": "str",
         "x": 540,
         "y": 160,
@@ -78255,8 +78180,6 @@
         "mode": "text",
         "delay": 300,
         "topic": "",
-        "sendOnBlur": true,
-        "className": "",
         "topicType": "str",
         "x": 530,
         "y": 200,
@@ -78282,8 +78205,6 @@
         "mode": "text",
         "delay": 300,
         "topic": "",
-        "sendOnBlur": true,
-        "className": "",
         "topicType": "str",
         "x": 540,
         "y": 240,
@@ -78320,8 +78241,6 @@
         "mode": "text",
         "delay": 300,
         "topic": "",
-        "sendOnBlur": true,
-        "className": "",
         "topicType": "str",
         "x": 470,
         "y": 320,
@@ -78347,8 +78266,6 @@
         "mode": "text",
         "delay": 300,
         "topic": "",
-        "sendOnBlur": true,
-        "className": "",
         "topicType": "str",
         "x": 530,
         "y": 360,
@@ -78374,8 +78291,6 @@
         "mode": "text",
         "delay": 300,
         "topic": "",
-        "sendOnBlur": true,
-        "className": "",
         "topicType": "str",
         "x": 520,
         "y": 400,
@@ -78412,8 +78327,6 @@
         "mode": "text",
         "delay": 300,
         "topic": "",
-        "sendOnBlur": true,
-        "className": "",
         "topicType": "str",
         "x": 510,
         "y": 480,
@@ -78439,8 +78352,6 @@
         "mode": "text",
         "delay": 300,
         "topic": "",
-        "sendOnBlur": true,
-        "className": "",
         "topicType": "str",
         "x": 510,
         "y": 520,
@@ -78466,8 +78377,6 @@
         "mode": "text",
         "delay": 300,
         "topic": "",
-        "sendOnBlur": true,
-        "className": "",
         "topicType": "str",
         "x": 500,
         "y": 560,
@@ -78493,8 +78402,6 @@
         "mode": "text",
         "delay": 300,
         "topic": "",
-        "sendOnBlur": true,
-        "className": "",
         "topicType": "str",
         "x": 530,
         "y": 600,
@@ -78531,8 +78438,6 @@
         "mode": "text",
         "delay": 300,
         "topic": "",
-        "sendOnBlur": true,
-        "className": "",
         "topicType": "str",
         "x": 540,
         "y": 680,
@@ -78558,8 +78463,6 @@
         "mode": "text",
         "delay": 300,
         "topic": "",
-        "sendOnBlur": true,
-        "className": "",
         "topicType": "str",
         "x": 510,
         "y": 720,
@@ -78585,8 +78488,6 @@
         "mode": "text",
         "delay": 300,
         "topic": "",
-        "sendOnBlur": true,
-        "className": "",
         "topicType": "str",
         "x": 530,
         "y": 760,
@@ -79076,7 +78977,6 @@
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
-        "className": "",
         "x": 880,
         "y": 880,
         "wires": [
@@ -82024,7 +81924,6 @@
         "label": "",
         "format": "<font size=4px>Datos de Producción",
         "layout": "row-left",
-        "className": "",
         "x": 1240,
         "y": 80,
         "wires": []
@@ -84915,7 +84814,6 @@
         "mode": "number",
         "delay": 300,
         "topic": "topic",
-        "sendOnBlur": true,
         "topicType": "str",
         "x": 270,
         "y": 960,
@@ -84964,7 +84862,6 @@
         ],
         "outputs": 1,
         "useDifferentColor": false,
-        "className": "",
         "x": 530,
         "y": 1400,
         "wires": [
@@ -84997,7 +84894,6 @@
         "officon": "",
         "offcolor": "",
         "animate": true,
-        "className": "",
         "x": 1010,
         "y": 1460,
         "wires": [
@@ -85186,7 +85082,6 @@
         "ok": "Aceptar",
         "cancel": "Cancelar",
         "raw": false,
-        "className": "",
         "topic": "¿Desea Activar el Pump off controller?",
         "name": "confirm",
         "x": 1320,
@@ -85302,7 +85197,6 @@
         "ok": "Aceptar",
         "cancel": "Cancelar",
         "raw": false,
-        "className": "",
         "topic": "¿Desea Desactivar el Pump off controller?",
         "name": "confirm",
         "x": 1360,
@@ -85429,7 +85323,6 @@
         "label": "Estado",
         "format": "{{msg.payload}}",
         "layout": "row-spread",
-        "className": "",
         "x": 660,
         "y": 1160,
         "wires": []
@@ -98277,7 +98170,6 @@
         "label": "Llenado",
         "format": "<font size =6px>{{msg.payload}}",
         "layout": "col-center",
-        "className": "",
         "x": 4120,
         "y": 240,
         "wires": []
@@ -98444,7 +98336,6 @@
         "officon": "",
         "offcolor": "",
         "animate": false,
-        "className": "",
         "x": 220,
         "y": 1120,
         "wires": [
@@ -98496,7 +98387,6 @@
         "ok": "Aceptar",
         "cancel": "Cancelar",
         "raw": false,
-        "className": "",
         "topic": "¿Desea Activar el doble Velocidad controller?",
         "name": "confirm",
         "x": 460,
@@ -98520,7 +98410,6 @@
         "ok": "Aceptar",
         "cancel": "Cancelar",
         "raw": false,
-        "className": "",
         "topic": "¿Desea Desactivar el doble velocidad controller?",
         "name": "confirm",
         "x": 440,
@@ -98786,8 +98675,6 @@
         "mode": "number",
         "delay": 300,
         "topic": "topic",
-        "sendOnBlur": true,
-        "className": "",
         "topicType": "msg",
         "x": 530,
         "y": 680,
@@ -98813,8 +98700,6 @@
         "mode": "number",
         "delay": 300,
         "topic": "topic",
-        "sendOnBlur": true,
-        "className": "",
         "topicType": "msg",
         "x": 530,
         "y": 740,
@@ -98837,7 +98722,6 @@
         "label": "Referencia",
         "format": "{{msg.payload}}",
         "layout": "row-left",
-        "className": "",
         "x": 1570,
         "y": 640,
         "wires": []
@@ -98857,7 +98741,6 @@
         "tooltip": "",
         "color": "",
         "bgcolor": "",
-        "className": "",
         "icon": "",
         "payload": "",
         "payloadType": "str",
@@ -98887,8 +98770,7 @@
         "y": 680,
         "wires": [
             [
-                "f7dfcbf933c3b97a",
-                "c6f294ee43b0f86a"
+                "f7dfcbf933c3b97a"
             ]
         ]
     },
@@ -98908,8 +98790,7 @@
         "y": 740,
         "wires": [
             [
-                "afc20a72f4c90f05",
-                "c6f294ee43b0f86a"
+                "afc20a72f4c90f05"
             ]
         ]
     },
@@ -99078,7 +98959,6 @@
         "ok": "Aceptar",
         "cancel": "Cancelar",
         "raw": false,
-        "className": "",
         "topic": "¿Desea Actualizar Datos del control de doble velocidad?",
         "name": "confirm",
         "x": 380,
@@ -99130,7 +99010,8 @@
         "g": "932eb8b65e7cc7be",
         "name": "CancelarActualizacionDeDatosDobleVelocidad",
         "links": [
-            "24d112a4a561706b"
+            "24d112a4a561706b",
+            "1fee5b8b9ef43b98"
         ],
         "x": 595,
         "y": 880,
@@ -99144,7 +99025,8 @@
         "name": "labelPorcentajeSubida",
         "links": [
             "9d65fe56ff37ec87",
-            "77eddfe2707bfc75"
+            "77eddfe2707bfc75",
+            "11cdf377e409913a"
         ],
         "x": 955,
         "y": 680,
@@ -99192,7 +99074,8 @@
         "name": "labelPorcentajeBajadaOut",
         "links": [
             "6820aae1344b079e",
-            "77eddfe2707bfc75"
+            "77eddfe2707bfc75",
+            "11cdf377e409913a"
         ],
         "x": 955,
         "y": 740,
@@ -100387,7 +100270,6 @@
         "label": "Mtr Hz: ",
         "format": "{{msg.payload}}",
         "layout": "row-center",
-        "className": "",
         "x": 2240,
         "y": 820,
         "wires": []
@@ -100407,7 +100289,6 @@
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
-        "className": "",
         "x": 1150,
         "y": 1420,
         "wires": [
@@ -100427,7 +100308,6 @@
         "label": "Vel Motor:",
         "format": "  {{msg.payload}}",
         "layout": "row-center",
-        "className": "",
         "x": 2980,
         "y": 420,
         "wires": []
@@ -100445,7 +100325,6 @@
         "label": "Vel. Act:",
         "format": "{{msg.payload}} spm",
         "layout": "row-center",
-        "className": "",
         "x": 2420,
         "y": 860,
         "wires": []
@@ -100558,7 +100437,6 @@
         "label": "Mtr Hz: ",
         "format": "{{msg.payload}}",
         "layout": "row-center",
-        "className": "",
         "x": 2240,
         "y": 900,
         "wires": []
@@ -100653,7 +100531,6 @@
         "label": "Vel Motor:",
         "format": "  {{msg.payload}}",
         "layout": "row-center",
-        "className": "",
         "x": 2980,
         "y": 460,
         "wires": []
@@ -100673,7 +100550,6 @@
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
-        "className": "",
         "x": 1140,
         "y": 1460,
         "wires": [
@@ -100742,7 +100618,6 @@
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
-        "className": "",
         "x": 1100,
         "y": 680,
         "wires": [
@@ -100976,7 +100851,6 @@
         "label": "Velocidad Subida",
         "format": "{{msg.payload}}",
         "layout": "row-left",
-        "className": "",
         "x": 1590,
         "y": 700,
         "wires": []
@@ -100994,7 +100868,6 @@
         "label": "Velocidad Bajada",
         "format": "{{msg.payload}}",
         "layout": "row-left",
-        "className": "",
         "x": 1590,
         "y": 820,
         "wires": []
@@ -101026,10 +100899,11 @@
         "g": "2ceb8ec502cd9a4d",
         "name": "mostrarVelocidadSubidaSpeedControl",
         "links": [
+            "58bde233759fd9a4",
             "ad87cee4.7dbb5",
             "d95eee71384d9b10"
         ],
-        "x": 1175,
+        "x": 1135,
         "y": 720,
         "wires": [
             [
@@ -101173,7 +101047,6 @@
         ],
         "outputs": 1,
         "useDifferentColor": false,
-        "className": "",
         "x": 1530,
         "y": 880,
         "wires": [
@@ -102768,8 +102641,6 @@
         "mode": "number",
         "delay": "300",
         "topic": "",
-        "sendOnBlur": true,
-        "className": "",
         "topicType": "str",
         "x": 450,
         "y": 440,
@@ -102849,8 +102720,6 @@
         "mode": "number",
         "delay": "300",
         "topic": "",
-        "sendOnBlur": true,
-        "className": "",
         "topicType": "str",
         "x": 470,
         "y": 480,
@@ -103110,162 +102979,27 @@
         "wires": []
     },
     {
-        "id": "ee7928b1b44fbb05",
-        "type": "function",
-        "z": "830fadc6f5236b78",
-        "g": "932eb8b65e7cc7be",
-        "name": "InitialSpeedCalculate",
-        "func": "var ReferenciaImput = global.get(\"C2S.Last_Reference.ValueSpm\") || 0;\nvar porcentUp = global.get(\"Control_functions.doubleSpeed.risePercent\")||0;\nvar porcentDown = global.get(\"Control_functions.doubleSpeed.dropPercent\") || 0;;\n\nif(ReferenciaImput != 0){ // si existe la ReferenciaImput\n    var TPeriodo = 60/ReferenciaImput;\n}\n// calculo del tiempo de subida y tiempo de bajada\nvar Uptime = (porcentUp*TPeriodo)/100;\nvar Downtime = (100 - porcentUp)*TPeriodo/100;\n// calculo de las velocidades\nif(Uptime != 0 && Downtime !=0 ){\n    var upSpeedCalculated = 30 / Uptime;\n    var DownSpeedCalculated = 30 / Downtime;\n    node.status({fill:\"green\",shape:\"ring\",text:\"Configurate\"});\n}\n\n// variables globales\nflow.set(\"upSpeedCalculated\", upSpeedCalculated);\nflow.set(\"DownSpeedCalculated\", DownSpeedCalculated);\n// visualizador de variables\ncontext.set(\"ReferenciaImput\", ReferenciaImput,\"memoryOnly\");\ncontext.set(\"TPeriodo\", TPeriodo,\"memoryOnly\");\ncontext.set(\"porcentUp\", porcentUp,\"memoryOnly\");\ncontext.set(\"porcentDown\", porcentDown,\"memoryOnly\");\ncontext.set(\"Uptime\", Uptime,\"memoryOnly\");\ncontext.set(\"Downtime\", Downtime,\"memoryOnly\");\ncontext.set(\"upSpeedCalculated\", upSpeedCalculated,\"memoryOnly\");\ncontext.set(\"DownSpeedCalculated\", DownSpeedCalculated,\"memoryOnly\");\nreturn msg;\n\n",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 520,
-        "y": 920,
-        "wires": [
-            [
-                "a760365af3233bcf"
-            ]
-        ]
-    },
-    {
-        "id": "77eddfe2707bfc75",
-        "type": "link in",
-        "z": "830fadc6f5236b78",
-        "g": "932eb8b65e7cc7be",
-        "name": "CalculoInicialDeLaVelocidadDoubleSpeed",
-        "links": [
-            "afc20a72f4c90f05",
-            "f7dfcbf933c3b97a"
-        ],
-        "x": 185,
-        "y": 920,
-        "wires": [
-            [
-                "bd7fc39a65fb3b80"
-            ]
-        ]
-    },
-    {
-        "id": "8b73c905779be010",
-        "type": "function",
-        "z": "830fadc6f5236b78",
-        "g": "2ceb8ec502cd9a4d",
-        "name": "VelocidadSubida",
-        "func": "var velocidadSubida = flow.get(\"upSpeedCalculated\")||0;\nvelocidadSubida = parseFloat(velocidadSubida.toFixed(2));\ncontext.set(\"velocidadSubida\", velocidadSubida,\"memoryOnly\");\nnode.status({fill:\"green\",shape:\"dot\",text:velocidadSubida});\nmsg.payload = velocidadSubida\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1370,
-        "y": 760,
-        "wires": [
-            [
-                "182115e70d02be15"
-            ]
-        ]
-    },
-    {
-        "id": "a760365af3233bcf",
-        "type": "link out",
-        "z": "830fadc6f5236b78",
-        "g": "932eb8b65e7cc7be",
-        "name": "salidaInicialVelocidadCalculadaSpeedControl",
-        "links": [
-            "11cdf377e409913a"
-        ],
-        "x": 655,
-        "y": 920,
-        "wires": []
-    },
-    {
         "id": "11cdf377e409913a",
         "type": "link in",
         "z": "830fadc6f5236b78",
         "g": "2ceb8ec502cd9a4d",
         "name": "mostrarCalculoInicialSpeedControl",
         "links": [
-            "a760365af3233bcf"
+            "afc20a72f4c90f05",
+            "f7dfcbf933c3b97a"
         ],
-        "x": 1175,
+        "x": 1235,
         "y": 760,
         "wires": [
             [
-                "8b73c905779be010",
-                "b04209faff673e1e"
+                "133a6558e1a8c7d2"
             ]
         ]
     },
     {
-        "id": "b04209faff673e1e",
-        "type": "function",
-        "z": "830fadc6f5236b78",
-        "g": "2ceb8ec502cd9a4d",
-        "name": "Velocidadbajada",
-        "func": "var velocidadbajada = flow.get(\"DownSpeedCalculated\")||0;\nvelocidadbajada = parseFloat(velocidadbajada.toFixed(2));\ncontext.set(\"velocidadbajada\", velocidadbajada,\"memoryOnly\");\nnode.status({fill:\"green\",shape:\"dot\",text:velocidadbajada});\nmsg.payload = velocidadbajada;\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1360,
-        "y": 800,
-        "wires": [
-            [
-                "e0745701b791b87b"
-            ]
-        ]
-    },
-    {
-        "id": "bd7fc39a65fb3b80",
-        "type": "delay",
-        "z": "830fadc6f5236b78",
-        "g": "932eb8b65e7cc7be",
-        "name": "",
-        "pauseType": "delay",
-        "timeout": "250",
-        "timeoutUnits": "milliseconds",
-        "rate": "1",
-        "nbRateUnits": "1",
-        "rateUnits": "second",
-        "randomFirst": "1",
-        "randomLast": "5",
-        "randomUnits": "seconds",
-        "drop": false,
-        "allowrate": false,
-        "x": 290,
-        "y": 920,
-        "wires": [
-            [
-                "ee7928b1b44fbb05"
-            ]
-        ]
-    },
-    {
-        "id": "3bfac3a66c6867e0",
-        "type": "ui_text",
-        "z": "830fadc6f5236b78",
-        "g": "65dbd90af70f1e98",
-        "group": "4026595aa6261291",
-        "order": 3,
-        "width": "2",
-        "height": "1",
-        "name": "",
-        "label": "Velocidad Subida",
-        "format": "{{msg.payload}}",
-        "layout": "col-center",
-        "className": "",
-        "x": 870,
-        "y": 560,
-        "wires": []
-    },
-    {
-        "id": "c6f294ee43b0f86a",
+        "id": "133a6558e1a8c7d2",
         "type": "change",
         "z": "830fadc6f5236b78",
-        "g": "65dbd90af70f1e98",
         "name": "savePercent",
         "rules": [
             {
@@ -103278,7 +103012,7 @@
             {
                 "t": "set",
                 "p": "P_bajada",
-                "pt": "global",
+                "pt": "flow",
                 "to": "#:(memoryOnly)::porcentajebajada",
                 "tot": "flow"
             }
@@ -103288,53 +103022,35 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 630,
-        "y": 600,
+        "x": 1350,
+        "y": 760,
         "wires": [
             [
-                "a02ea239138840dc"
+                "86a9047e4057bacf"
             ]
         ]
     },
     {
-        "id": "a02ea239138840dc",
+        "id": "86a9047e4057bacf",
         "type": "function",
         "z": "830fadc6f5236b78",
-        "g": "65dbd90af70f1e98",
-        "name": "SpeedCalculate",
+        "g": "2ceb8ec502cd9a4d",
+        "name": "SpeedCalculateDinamic",
         "func": "var ReferenciaImput = global.get(\"C2S.Last_Reference.ValueSpm\") || 0;\nvar porcentUp = flow.get(\"P_subida\")||0;\nvar porcentDown = flow.get(\"P_bajada\") || 0;;\n\nif(ReferenciaImput != 0){ // si existe la ReferenciaImput\n    var TPeriodo = 60/ReferenciaImput;\n}\n// calculo del tiempo de subida y tiempo de bajada\nvar Uptime = (porcentUp*TPeriodo)/100;\nvar Downtime = (100 - porcentUp)*TPeriodo/100;\n// calculo de las velocidades\nif(Uptime != 0 && Downtime !=0 ){\n    var upSpeedCalculated = {payload:30 / Uptime};\n    var DownSpeedCalculated = {payload:30 / Downtime};\n    node.status({fill:\"green\",shape:\"ring\",text:\"Configurate\"});\n    return[upSpeedCalculated,DownSpeedCalculated];\n}\n// visualizador de variables\ncontext.set(\"ReferenciaImput\", ReferenciaImput,\"memoryOnly\");\ncontext.set(\"TPeriodo\", TPeriodo,\"memoryOnly\");\ncontext.set(\"porcentUp\", porcentUp,\"memoryOnly\");\ncontext.set(\"porcentDown\", porcentDown,\"memoryOnly\");\ncontext.set(\"Uptime\", Uptime,\"memoryOnly\");\ncontext.set(\"Downtime\", Downtime,\"memoryOnly\");\ncontext.set(\"upSpeedCalculated\", upSpeedCalculated,\"memoryOnly\");\ncontext.set(\"DownSpeedCalculated\", DownSpeedCalculated,\"memoryOnly\");\n\n\n",
         "outputs": 2,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 820,
-        "y": 600,
+        "x": 1550,
+        "y": 760,
         "wires": [
             [
-                "3bfac3a66c6867e0"
+                "182115e70d02be15"
             ],
             [
-                "e455a45a3fd12f79"
+                "e0745701b791b87b"
             ]
         ]
-    },
-    {
-        "id": "e455a45a3fd12f79",
-        "type": "ui_text",
-        "z": "830fadc6f5236b78",
-        "g": "65dbd90af70f1e98",
-        "group": "4026595aa6261291",
-        "order": 3,
-        "width": "2",
-        "height": "1",
-        "name": "",
-        "label": "Velocidad bajada",
-        "format": "{{msg.payload}}",
-        "layout": "col-center",
-        "className": "",
-        "x": 890,
-        "y": 640,
-        "wires": []
     }
 ]
