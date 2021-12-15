@@ -1027,7 +1027,9 @@
             "0f2c231df155d32b"
         ],
         "x": 24,
-        "y": 609
+        "y": 609,
+        "w": 2632,
+        "h": 552
     },
     {
         "id": "3cb51855.a66038",
@@ -1042,7 +1044,9 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169
+        "y": 1169,
+        "w": 232,
+        "h": 82
     },
     {
         "id": "27a0641a.d154dc",
@@ -2027,7 +2031,9 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269
+        "y": 1269,
+        "w": 352,
+        "h": 82
     },
     {
         "id": "6202107f.ed9aa",
@@ -2099,7 +2105,9 @@
             "8e77c9d647a0565f"
         ],
         "x": 44,
-        "y": -21
+        "y": -21,
+        "w": 1992,
+        "h": 622
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -2133,7 +2141,9 @@
             "17c1f84a5b3ad8ad"
         ],
         "x": 3224,
-        "y": 19
+        "y": 19,
+        "w": 1284,
+        "h": 1708
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -2154,7 +2164,9 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169
+        "y": 1169,
+        "w": 782,
+        "h": 182
     },
     {
         "id": "086b9d08c3b68939",
@@ -2185,7 +2197,9 @@
             "9661d016b799c47d"
         ],
         "x": 24,
-        "y": 1359
+        "y": 1359,
+        "w": 1022,
+        "h": 292
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -2211,7 +2225,9 @@
             "6e75b5f5657d3a7e"
         ],
         "x": 24,
-        "y": 1679
+        "y": 1679,
+        "w": 1132,
+        "h": 202
     },
     {
         "id": "afdbbb533d628687",
@@ -2227,7 +2243,9 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679
+        "y": 1679,
+        "w": 332,
+        "h": 82
     },
     {
         "id": "ba075c8cc622876a",
@@ -3685,7 +3703,9 @@
             "d3fc647f21f7d8eb"
         ],
         "x": 254,
-        "y": 1939
+        "y": 1939,
+        "w": 532,
+        "h": 142
     },
     {
         "id": "5519b13db7a1857a",
@@ -3873,8 +3893,8 @@
         ],
         "x": 114,
         "y": 599,
-        "w": 882,
-        "h": 348
+        "w": 968,
+        "h": 375.5
     },
     {
         "id": "2ceb8ec502cd9a4d",
@@ -3900,7 +3920,7 @@
             "11cdf377e409913a",
             "86a9047e4057bacf"
         ],
-        "x": 1014,
+        "x": 1254,
         "y": 599,
         "w": 692,
         "h": 322
@@ -4851,7 +4871,9 @@
             "1a666ca6835d2d34"
         ],
         "x": 74,
-        "y": 399
+        "y": 399,
+        "w": 852,
+        "h": 132
     },
     {
         "id": "cf985e84.c7693",
@@ -5805,7 +5827,9 @@
             "26836fe8d310f685"
         ],
         "x": 3428,
-        "y": 413
+        "y": 413,
+        "w": 1054,
+        "h": 758
     },
     {
         "id": "7bc9759a9a7ea0be",
@@ -5860,7 +5884,9 @@
             "09240a88f66b7c6f"
         ],
         "x": 3434,
-        "y": 1179
+        "y": 1179,
+        "w": 992,
+        "h": 522
     },
     {
         "id": "dad84feb.d4773",
@@ -6046,12 +6072,17 @@
             "6ba0fad0bc54e475",
             "ba844f213c4dc194",
             "58bde233759fd9a4",
-            "d95eee71384d9b10"
+            "d95eee71384d9b10",
+            "4193e0b589bdd7e8",
+            "0c7e810b831f1140",
+            "2915404d918e6500",
+            "caba6930587fef43",
+            "a6ae08b25206a8fb"
         ],
         "x": 154,
         "y": 799,
-        "w": 682,
-        "h": 122
+        "w": 902,
+        "h": 149.5
     },
     {
         "id": "a80677cf.4274c8",
@@ -7422,7 +7453,9 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 439
+        "y": 439,
+        "w": 402,
+        "h": 362
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -7450,7 +7483,9 @@
             "1f3630da2492d4f9"
         ],
         "x": 3454,
-        "y": 809
+        "y": 809,
+        "w": 1002,
+        "h": 212
     },
     {
         "id": "b6e70888e2a92a81",
@@ -49971,7 +50006,9 @@
             "657637f78708a5e9",
             "6375a216d9ba350e",
             "6f05a009383c5e7c",
-            "e4e1f55820bbf3ef"
+            "e4e1f55820bbf3ef",
+            "2915404d918e6500",
+            "a6ae08b25206a8fb"
         ],
         "x": 1035,
         "y": 320,
@@ -55650,7 +55687,9 @@
             "d5a38b1725c19aab",
             "657637f78708a5e9",
             "e4e1f55820bbf3ef",
-            "6fb7736af2631081"
+            "6fb7736af2631081",
+            "2915404d918e6500",
+            "a6ae08b25206a8fb"
         ],
         "x": 381,
         "y": 80,
@@ -98267,7 +98306,7 @@
         "z": "830fadc6f5236b78",
         "g": "932eb8b65e7cc7be",
         "name": "SpeedCalculate",
-        "func": "var ReferenciaImput = global.get(\"C2S.Last_Reference.ValueSpm\") || 0;\n// var porcentUp = global.get(\"Control_functions.doubleSpeed.risePercent\")||0;\n// var porcentDown = global.get(\"Control_functions.doubleSpeed.dropPercent\") || 0;;\nvar porcentUp = flow.get(\"porcentajeSubida\",\"memoryOnly\")||0;\nvar porcentDown = flow.get(\"porcentajebajada\", \"memoryOnly\") || 0;\n\nvar MaxLimitSPM = global.get(\"C2S.Speed_Control.MaxLimitSPM\") || 0;\nvar MinLimitSPM = global.get(\"C2S.Speed_Control.MinLimitSPM\") || 0;\n\nif(ReferenciaImput != 0){ // si existe la ReferenciaImput\n    var TPeriodo = 60/ReferenciaImput;\n}\n// calculo del tiempo de subida y tiempo de bajada\nvar Uptime = (porcentUp*TPeriodo)/100;\nvar Downtime = (100 - porcentUp)*TPeriodo/100;\n// calculo de las velocidades\nif(Uptime != 0 && Downtime !=0 ){\n    var upSpeedCalculated = 30 / Uptime;\n    var DownSpeedCalculated = 30 / Downtime;\n    if (((MinLimitSPM <= upSpeedCalculated) && (MaxLimitSPM >= upSpeedCalculated)) && ((MinLimitSPM <= DownSpeedCalculated) && (MaxLimitSPM >= DownSpeedCalculated))  ){\n        // si los parametros seteados estan en rango\n        global.set(\"Control_functions.doubleSpeed.upSpeedCalculated\", upSpeedCalculated);\n        global.set(\"Control_functions.doubleSpeed.DownSpeedCalculated\", DownSpeedCalculated);\n        // guardar los % una vez validado los límites\n        global.set(\"Control_functions.doubleSpeed.risePercent\", porcentUp) ;\n        global.set(\"Control_functions.doubleSpeed.dropPercent\", porcentDown) ;\n        node.status({fill:\"green\",shape:\"ring\",text:\"InRange\"});\n    }else{\n        // no está en rango de operación\n        node.status({fill:\"red\",shape:\"ring\",text:\"OutRange\"});\n        //no guarda las variables\n    }\n}else{\n    node.status({fill:\"yellow\",shape:\"ring\",text:\"Time%Fail\"});\n}\n\n// variables globales\n// visualizador de variables\ncontext.set(\"ReferenciaImput\", ReferenciaImput,\"memoryOnly\");\ncontext.set(\"TPeriodo\", TPeriodo,\"memoryOnly\");\ncontext.set(\"porcentUp\", porcentUp,\"memoryOnly\");\ncontext.set(\"porcentDown\", porcentDown,\"memoryOnly\");\ncontext.set(\"Uptime\", Uptime,\"memoryOnly\");\ncontext.set(\"Downtime\", Downtime,\"memoryOnly\");\ncontext.set(\"upSpeedCalculated\", upSpeedCalculated,\"memoryOnly\");\ncontext.set(\"MaxLimitSPM\", MaxLimitSPM,\"memoryOnly\");\ncontext.set(\"MinLimitSPM\", MinLimitSPM,\"memoryOnly\");\nreturn msg;\n\n",
+        "func": "var ReferenciaImput = global.get(\"C2S.Last_Reference.ValueSpm\") || 0;//última Referencia inyectada\nvar porcentUp = flow.get(\"porcentajeSubida\",\"memoryOnly\")||0;//variable de flujo adquision HMI\nvar porcentDown = flow.get(\"porcentajebajada\", \"memoryOnly\") || 0;//variable de flujo adquision HMI\nvar MaxLimitSPM = global.get(\"C2S.Speed_Control.MaxLimitSPM\") || 0;\nvar MinLimitSPM = global.get(\"C2S.Speed_Control.MinLimitSPM\") || 0;\nvar state;\n\nif(ReferenciaImput != 0){ // si existe la ReferenciaImput\n    var TPeriodo = 60/ReferenciaImput;\n}\n// calculo del tiempo de subida y tiempo de bajada\nvar Uptime = (porcentUp*TPeriodo)/100;\nvar Downtime = (100 - porcentUp)*TPeriodo/100;\n// calculo de las velocidades\nif(Uptime != 0 && Downtime !=0 ){\n    var upSpeedCalculated = 30 / Uptime;\n    var DownSpeedCalculated = 30 / Downtime;\n    if (((MinLimitSPM <= upSpeedCalculated) && (MaxLimitSPM >= upSpeedCalculated)) && ((MinLimitSPM <= DownSpeedCalculated) && (MaxLimitSPM >= DownSpeedCalculated))  ){\n        // si los parametros seteados estan en rango\n        global.set(\"Control_functions.doubleSpeed.upSpeedCalculated\", upSpeedCalculated);\n        global.set(\"Control_functions.doubleSpeed.DownSpeedCalculated\", DownSpeedCalculated);\n        // guardar los % una vez validado los límites\n        global.set(\"Control_functions.doubleSpeed.risePercent\", porcentUp) ;\n        global.set(\"Control_functions.doubleSpeed.dropPercent\", porcentDown) ;\n        state = \"InRange\";\n        node.status({fill:\"green\",shape:\"ring\",text:state});\n    }else{\n        // no está en rango de operación\n        state = \"OutRange\";\n        node.status({fill:\"red\",shape:\"ring\",text:state});\n        //no guarda las variables\n    }\n}else{\n    state = \"TimeFail\";\n    node.status({fill:\"yellow\",shape:\"ring\",text:state});\n}\n\n// variables globales\n// visualizador de variables\ncontext.set(\"ReferenciaImput\", ReferenciaImput,\"memoryOnly\");\ncontext.set(\"TPeriodo\", TPeriodo,\"memoryOnly\");\ncontext.set(\"porcentUp\", porcentUp,\"memoryOnly\");\ncontext.set(\"porcentDown\", porcentDown,\"memoryOnly\");\ncontext.set(\"Uptime\", Uptime,\"memoryOnly\");\ncontext.set(\"Downtime\", Downtime,\"memoryOnly\");\ncontext.set(\"upSpeedCalculated\", upSpeedCalculated,\"memoryOnly\");\ncontext.set(\"MaxLimitSPM\", MaxLimitSPM,\"memoryOnly\");\ncontext.set(\"MinLimitSPM\", MinLimitSPM,\"memoryOnly\");\ncontext.set(\"state\", state,\"memoryOnly\");\n\n//menssage alert\nmsg.alert = state;\nreturn msg;\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -98277,7 +98316,8 @@
         "y": 840,
         "wires": [
             [
-                "d95eee71384d9b10"
+                "d95eee71384d9b10",
+                "4193e0b589bdd7e8"
             ]
         ]
     },
@@ -98695,7 +98735,7 @@
         "label": "Referencia",
         "format": "{{msg.payload}}",
         "layout": "row-left",
-        "x": 1570,
+        "x": 1810,
         "y": 640,
         "wires": []
     },
@@ -100790,7 +100830,7 @@
         "label": "Velocidad Subida",
         "format": "{{msg.payload}}",
         "layout": "row-left",
-        "x": 1590,
+        "x": 1830,
         "y": 700,
         "wires": []
     },
@@ -100807,7 +100847,7 @@
         "label": "Velocidad Bajada",
         "format": "{{msg.payload}}",
         "layout": "row-left",
-        "x": 1590,
+        "x": 1830,
         "y": 820,
         "wires": []
     },
@@ -100823,7 +100863,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1370,
+        "x": 1610,
         "y": 700,
         "wires": [
             [
@@ -100842,7 +100882,7 @@
             "ad87cee4.7dbb5",
             "d95eee71384d9b10"
         ],
-        "x": 1135,
+        "x": 1375,
         "y": 720,
         "wires": [
             [
@@ -100878,7 +100918,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1360,
+        "x": 1600,
         "y": 840,
         "wires": [
             [
@@ -100898,7 +100938,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1340,
+        "x": 1580,
         "y": 640,
         "wires": [
             [
@@ -100915,7 +100955,7 @@
         "links": [
             "ecf98f3f.4a704"
         ],
-        "x": 1055,
+        "x": 1295,
         "y": 640,
         "wires": [
             [
@@ -100941,7 +100981,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 1180,
+        "x": 1420,
         "y": 640,
         "wires": [
             [
@@ -100987,7 +101027,7 @@
         ],
         "outputs": 1,
         "useDifferentColor": false,
-        "x": 1530,
+        "x": 1770,
         "y": 880,
         "wires": [
             []
@@ -101011,7 +101051,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 1240,
+        "x": 1480,
         "y": 880,
         "wires": [
             [
@@ -101028,7 +101068,7 @@
         "links": [
             "d3fc647f21f7d8eb"
         ],
-        "x": 1115,
+        "x": 1355,
         "y": 880,
         "wires": [
             [
@@ -102928,7 +102968,7 @@
             "afc20a72f4c90f05",
             "f7dfcbf933c3b97a"
         ],
-        "x": 1235,
+        "x": 1475,
         "y": 760,
         "wires": [
             [
@@ -102982,7 +103022,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1550,
+        "x": 1790,
         "y": 760,
         "wires": [
             [
@@ -103031,5 +103071,143 @@
                 "6fc284d752239ac0"
             ]
         ]
+    },
+    {
+        "id": "4193e0b589bdd7e8",
+        "type": "switch",
+        "z": "830fadc6f5236b78",
+        "g": "932eb8b65e7cc7be",
+        "name": "",
+        "property": "alert",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "InRange",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "OutRange",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "TimeFail",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 3,
+        "x": 740,
+        "y": 900,
+        "wires": [
+            [
+                "0c7e810b831f1140"
+            ],
+            [
+                "caba6930587fef43"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "0c7e810b831f1140",
+        "type": "change",
+        "z": "830fadc6f5236b78",
+        "g": "932eb8b65e7cc7be",
+        "name": "mensaje",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "ReferenciaControlDobleVelocidadCorrecta",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Control Speed",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 920,
+        "y": 860,
+        "wires": [
+            [
+                "2915404d918e6500"
+            ]
+        ]
+    },
+    {
+        "id": "2915404d918e6500",
+        "type": "link out",
+        "z": "830fadc6f5236b78",
+        "g": "932eb8b65e7cc7be",
+        "name": "mensajeReferenciaDoubleSpeedCambiada",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 1015,
+        "y": 860,
+        "wires": []
+    },
+    {
+        "id": "caba6930587fef43",
+        "type": "change",
+        "z": "830fadc6f5236b78",
+        "g": "932eb8b65e7cc7be",
+        "name": "mensaje",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Fuera de Rango",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Control Speed",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 920,
+        "y": 900,
+        "wires": [
+            [
+                "a6ae08b25206a8fb"
+            ]
+        ]
+    },
+    {
+        "id": "a6ae08b25206a8fb",
+        "type": "link out",
+        "z": "830fadc6f5236b78",
+        "g": "932eb8b65e7cc7be",
+        "name": "ErrorReferenciaDoubleSpeedCambiada",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 1015,
+        "y": 900,
+        "wires": []
     }
 ]
