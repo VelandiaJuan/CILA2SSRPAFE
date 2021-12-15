@@ -1027,9 +1027,7 @@
             "0f2c231df155d32b"
         ],
         "x": 24,
-        "y": 609,
-        "w": 2632,
-        "h": 552
+        "y": 609
     },
     {
         "id": "3cb51855.a66038",
@@ -1044,9 +1042,7 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169,
-        "w": 232,
-        "h": 82
+        "y": 1169
     },
     {
         "id": "27a0641a.d154dc",
@@ -2031,9 +2027,7 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269,
-        "w": 352,
-        "h": 82
+        "y": 1269
     },
     {
         "id": "6202107f.ed9aa",
@@ -2105,9 +2099,7 @@
             "8e77c9d647a0565f"
         ],
         "x": 44,
-        "y": -21,
-        "w": 1992,
-        "h": 622
+        "y": -21
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -2141,9 +2133,7 @@
             "17c1f84a5b3ad8ad"
         ],
         "x": 3224,
-        "y": 19,
-        "w": 1284,
-        "h": 1708
+        "y": 19
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -2164,9 +2154,7 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169,
-        "w": 782,
-        "h": 182
+        "y": 1169
     },
     {
         "id": "086b9d08c3b68939",
@@ -2197,9 +2185,7 @@
             "9661d016b799c47d"
         ],
         "x": 24,
-        "y": 1359,
-        "w": 1022,
-        "h": 292
+        "y": 1359
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -2225,9 +2211,7 @@
             "6e75b5f5657d3a7e"
         ],
         "x": 24,
-        "y": 1679,
-        "w": 1132,
-        "h": 202
+        "y": 1679
     },
     {
         "id": "afdbbb533d628687",
@@ -2243,9 +2227,7 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679,
-        "w": 332,
-        "h": 82
+        "y": 1679
     },
     {
         "id": "ba075c8cc622876a",
@@ -3703,9 +3685,7 @@
             "d3fc647f21f7d8eb"
         ],
         "x": 254,
-        "y": 1939,
-        "w": 532,
-        "h": 142
+        "y": 1939
     },
     {
         "id": "5519b13db7a1857a",
@@ -3887,12 +3867,14 @@
             "9d65fe56ff37ec87",
             "6820aae1344b079e",
             "afc20a72f4c90f05",
-            "932eb8b65e7cc7be"
+            "932eb8b65e7cc7be",
+            "6fc284d752239ac0",
+            "c9ef5029dfa1dca4"
         ],
         "x": 114,
         "y": 599,
         "w": 882,
-        "h": 368
+        "h": 348
     },
     {
         "id": "2ceb8ec502cd9a4d",
@@ -4869,9 +4851,7 @@
             "1a666ca6835d2d34"
         ],
         "x": 74,
-        "y": 399,
-        "w": 852,
-        "h": 132
+        "y": 399
     },
     {
         "id": "cf985e84.c7693",
@@ -5825,9 +5805,7 @@
             "26836fe8d310f685"
         ],
         "x": 3428,
-        "y": 413,
-        "w": 1054,
-        "h": 758
+        "y": 413
     },
     {
         "id": "7bc9759a9a7ea0be",
@@ -5882,9 +5860,7 @@
             "09240a88f66b7c6f"
         ],
         "x": 3434,
-        "y": 1179,
-        "w": 992,
-        "h": 522
+        "y": 1179
     },
     {
         "id": "dad84feb.d4773",
@@ -6067,7 +6043,6 @@
         "nodes": [
             "dd15a0bed0cbf685",
             "a651344ef9b27c95",
-            "daa6060d0e8d7de1",
             "6ba0fad0bc54e475",
             "ba844f213c4dc194",
             "58bde233759fd9a4",
@@ -6075,8 +6050,8 @@
         ],
         "x": 154,
         "y": 799,
-        "w": 792,
-        "h": 142
+        "w": 682,
+        "h": 122
     },
     {
         "id": "a80677cf.4274c8",
@@ -7447,9 +7422,7 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 439,
-        "w": 402,
-        "h": 362
+        "y": 439
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -7477,9 +7450,7 @@
             "1f3630da2492d4f9"
         ],
         "x": 3454,
-        "y": 809,
-        "w": 1002,
-        "h": 212
+        "y": 809
     },
     {
         "id": "b6e70888e2a92a81",
@@ -98296,13 +98267,13 @@
         "z": "830fadc6f5236b78",
         "g": "932eb8b65e7cc7be",
         "name": "SpeedCalculate",
-        "func": "var ReferenciaImput = global.get(\"C2S.Last_Reference.ValueSpm\") || 0;\nvar porcentUp = global.get(\"Control_functions.doubleSpeed.risePercent\")||0;\nvar porcentDown = global.get(\"Control_functions.doubleSpeed.dropPercent\") || 0;;\n\nif(ReferenciaImput != 0){ // si existe la ReferenciaImput\n    var TPeriodo = 60/ReferenciaImput;\n}\n// calculo del tiempo de subida y tiempo de bajada\nvar Uptime = (porcentUp*TPeriodo)/100;\nvar Downtime = (100 - porcentUp)*TPeriodo/100;\n// calculo de las velocidades\nif(Uptime != 0 && Downtime !=0 ){\n    var upSpeedCalculated = 30 / Uptime;\n    var DownSpeedCalculated = 30 / Downtime;\n    node.status({fill:\"green\",shape:\"ring\",text:\"Configurate\"});\n}\n\n// variables globales\nglobal.set(\"Control_functions.doubleSpeed.upSpeedCalculated\", upSpeedCalculated);\nglobal.set(\"Control_functions.doubleSpeed.DownSpeedCalculated\", DownSpeedCalculated);\n// visualizador de variables\ncontext.set(\"ReferenciaImput\", ReferenciaImput,\"memoryOnly\");\ncontext.set(\"TPeriodo\", TPeriodo,\"memoryOnly\");\ncontext.set(\"porcentUp\", porcentUp,\"memoryOnly\");\ncontext.set(\"porcentDown\", porcentDown,\"memoryOnly\");\ncontext.set(\"Uptime\", Uptime,\"memoryOnly\");\ncontext.set(\"Downtime\", Downtime,\"memoryOnly\");\ncontext.set(\"upSpeedCalculated\", upSpeedCalculated,\"memoryOnly\");\ncontext.set(\"DownSpeedCalculated\", DownSpeedCalculated,\"memoryOnly\");\nreturn msg;\n\n",
+        "func": "var ReferenciaImput = global.get(\"C2S.Last_Reference.ValueSpm\") || 0;\n// var porcentUp = global.get(\"Control_functions.doubleSpeed.risePercent\")||0;\n// var porcentDown = global.get(\"Control_functions.doubleSpeed.dropPercent\") || 0;;\nvar porcentUp = flow.get(\"porcentajeSubida\",\"memoryOnly\")||0;\nvar porcentDown = flow.get(\"porcentajebajada\", \"memoryOnly\") || 0;\n\nvar MaxLimitSPM = global.get(\"C2S.Speed_Control.MaxLimitSPM\") || 0;\nvar MinLimitSPM = global.get(\"C2S.Speed_Control.MinLimitSPM\") || 0;\n\nif(ReferenciaImput != 0){ // si existe la ReferenciaImput\n    var TPeriodo = 60/ReferenciaImput;\n}\n// calculo del tiempo de subida y tiempo de bajada\nvar Uptime = (porcentUp*TPeriodo)/100;\nvar Downtime = (100 - porcentUp)*TPeriodo/100;\n// calculo de las velocidades\nif(Uptime != 0 && Downtime !=0 ){\n    var upSpeedCalculated = 30 / Uptime;\n    var DownSpeedCalculated = 30 / Downtime;\n    if (((MinLimitSPM <= upSpeedCalculated) && (MaxLimitSPM >= upSpeedCalculated)) && ((MinLimitSPM <= DownSpeedCalculated) && (MaxLimitSPM >= DownSpeedCalculated))  ){\n        // si los parametros seteados estan en rango\n        global.set(\"Control_functions.doubleSpeed.upSpeedCalculated\", upSpeedCalculated);\n        global.set(\"Control_functions.doubleSpeed.DownSpeedCalculated\", DownSpeedCalculated);\n        // guardar los % una vez validado los límites\n        global.set(\"Control_functions.doubleSpeed.risePercent\", porcentUp) ;\n        global.set(\"Control_functions.doubleSpeed.dropPercent\", porcentDown) ;\n        node.status({fill:\"green\",shape:\"ring\",text:\"InRange\"});\n    }else{\n        // no está en rango de operación\n        node.status({fill:\"red\",shape:\"ring\",text:\"OutRange\"});\n        //no guarda las variables\n    }\n}else{\n    node.status({fill:\"yellow\",shape:\"ring\",text:\"Time%Fail\"});\n}\n\n// variables globales\n// visualizador de variables\ncontext.set(\"ReferenciaImput\", ReferenciaImput,\"memoryOnly\");\ncontext.set(\"TPeriodo\", TPeriodo,\"memoryOnly\");\ncontext.set(\"porcentUp\", porcentUp,\"memoryOnly\");\ncontext.set(\"porcentDown\", porcentDown,\"memoryOnly\");\ncontext.set(\"Uptime\", Uptime,\"memoryOnly\");\ncontext.set(\"Downtime\", Downtime,\"memoryOnly\");\ncontext.set(\"upSpeedCalculated\", upSpeedCalculated,\"memoryOnly\");\ncontext.set(\"MaxLimitSPM\", MaxLimitSPM,\"memoryOnly\");\ncontext.set(\"MinLimitSPM\", MinLimitSPM,\"memoryOnly\");\nreturn msg;\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 840,
+        "x": 680,
         "y": 840,
         "wires": [
             [
@@ -98680,7 +98651,8 @@
         "y": 680,
         "wires": [
             [
-                "fb6b90c38f6aa7db"
+                "fb6b90c38f6aa7db",
+                "c9ef5029dfa1dca4"
             ]
         ]
     },
@@ -98705,7 +98677,8 @@
         "y": 740,
         "wires": [
             [
-                "14ec7dae23d1555b"
+                "14ec7dae23d1555b",
+                "c9ef5029dfa1dca4"
             ]
         ]
     },
@@ -98767,7 +98740,7 @@
         "finalize": "",
         "libs": [],
         "x": 800,
-        "y": 680,
+        "y": 660,
         "wires": [
             [
                 "f7dfcbf933c3b97a"
@@ -98787,45 +98760,10 @@
         "finalize": "",
         "libs": [],
         "x": 800,
-        "y": 740,
+        "y": 760,
         "wires": [
             [
                 "afc20a72f4c90f05"
-            ]
-        ]
-    },
-    {
-        "id": "daa6060d0e8d7de1",
-        "type": "change",
-        "z": "830fadc6f5236b78",
-        "g": "932eb8b65e7cc7be",
-        "name": "savePercent",
-        "rules": [
-            {
-                "t": "set",
-                "p": "Control_functions.doubleSpeed.risePercent",
-                "pt": "global",
-                "to": "#:(memoryOnly)::porcentajeSubida",
-                "tot": "flow"
-            },
-            {
-                "t": "set",
-                "p": "Control_functions.doubleSpeed.dropPercent",
-                "pt": "global",
-                "to": "#:(memoryOnly)::porcentajebajada",
-                "tot": "flow"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 650,
-        "y": 840,
-        "wires": [
-            [
-                "dd15a0bed0cbf685"
             ]
         ]
     },
@@ -98837,7 +98775,8 @@
         "name": "InicializarVariablesDobleVelocidad",
         "links": [
             "58bde233759fd9a4",
-            "ad87cee4.7dbb5"
+            "ad87cee4.7dbb5",
+            "d95eee71384d9b10"
         ],
         "x": 155,
         "y": 680,
@@ -98853,7 +98792,7 @@
         "type": "change",
         "z": "830fadc6f5236b78",
         "g": "65dbd90af70f1e98",
-        "name": "rise",
+        "name": "drop",
         "rules": [
             {
                 "t": "set",
@@ -98996,7 +98935,7 @@
         "y": 860,
         "wires": [
             [
-                "daa6060d0e8d7de1"
+                "dd15a0bed0cbf685"
             ],
             [
                 "58bde233759fd9a4"
@@ -100920,10 +100859,11 @@
         "g": "932eb8b65e7cc7be",
         "name": "SalidaCalculoSpeedControl",
         "links": [
-            "1fee5b8b9ef43b98"
+            "1fee5b8b9ef43b98",
+            "24d112a4a561706b"
         ],
-        "x": 895,
-        "y": 900,
+        "x": 795,
+        "y": 840,
         "wires": []
     },
     {
@@ -103050,6 +102990,45 @@
             ],
             [
                 "e0745701b791b87b"
+            ]
+        ]
+    },
+    {
+        "id": "6fc284d752239ac0",
+        "type": "ui_toast",
+        "z": "830fadc6f5236b78",
+        "g": "65dbd90af70f1e98",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "topic": "",
+        "name": "spm",
+        "x": 870,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "c9ef5029dfa1dca4",
+        "type": "function",
+        "z": "830fadc6f5236b78",
+        "g": "65dbd90af70f1e98",
+        "name": "alertSPM",
+        "func": "var MaxLimitSPM = global.get(\"C2S.Speed_Control.MaxLimitSPM\")||0;\nvar MinLimitSPM = global.get(\"C2S.Speed_Control.MinLimitSPM\")||0;\nif(MaxLimitSPM == 0 || MinLimitSPM==0  ){\n    msg.topic = \"Configuración\"\n    msg.payload = \"Configure los límites SPM en Conf.VSD\"\n    return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 740,
+        "y": 720,
+        "wires": [
+            [
+                "6fc284d752239ac0"
             ]
         ]
     }
