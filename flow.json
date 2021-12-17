@@ -1645,7 +1645,9 @@
             "1b8cd32f8a397c41"
         ],
         "x": 1534,
-        "y": 359
+        "y": 359,
+        "w": 1192,
+        "h": 802
     },
     {
         "id": "99671f60976b1d2a",
@@ -1679,7 +1681,9 @@
             "64eb3a5330da4f87"
         ],
         "x": 1544,
-        "y": 39
+        "y": 39,
+        "w": 1482,
+        "h": 282
     },
     {
         "id": "95daead77be77494",
@@ -1726,7 +1730,9 @@
             "0990c77b15bde411"
         ],
         "x": 994,
-        "y": 649
+        "y": 649,
+        "w": 532,
+        "h": 732
     },
     {
         "id": "87fca62744442ad4",
@@ -1765,7 +1771,9 @@
             "19a66bb9.eaa504"
         ],
         "x": 44,
-        "y": 409
+        "y": 409,
+        "w": 702,
+        "h": 272
     },
     {
         "id": "a7f58aaec292b159",
@@ -1808,7 +1816,9 @@
             "30359a42be66cafb"
         ],
         "x": 44,
-        "y": 689
+        "y": 689,
+        "w": 812,
+        "h": 272
     },
     {
         "id": "37b64a70f39dda06",
@@ -1847,7 +1857,9 @@
             "e0a3fe6a.f68a1"
         ],
         "x": 44,
-        "y": 969
+        "y": 969,
+        "w": 742,
+        "h": 272
     },
     {
         "id": "ee5753bdd6eedb72",
@@ -1872,7 +1884,9 @@
             "ddc7c55f2c0f73c9"
         ],
         "x": 44,
-        "y": 219
+        "y": 219,
+        "w": 812,
+        "h": 182
     },
     {
         "id": "931b0370.afc1b",
@@ -25403,6 +25417,7 @@
         "passthru": true,
         "decouple": "false",
         "topic": "",
+        "topicType": "str",
         "style": "",
         "onvalue": "true",
         "onvalueType": "bool",
@@ -25412,6 +25427,8 @@
         "offvalueType": "bool",
         "officon": "",
         "offcolor": "",
+        "animate": true,
+        "className": "",
         "x": 540,
         "y": 490,
         "wires": [
@@ -25786,8 +25803,8 @@
         "z": "9941a439.4b17c8",
         "g": "ee5753bdd6eedb72",
         "name": "protec",
-        "property": "name",
-        "propertyType": "msg",
+        "property": "#:(memoryOnly)::Navegación.Pantalla",
+        "propertyType": "global",
         "rules": [
             {
                 "t": "eq",
