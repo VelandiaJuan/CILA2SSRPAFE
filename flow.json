@@ -3899,7 +3899,9 @@
             "44b52a5ca865f32a"
         ],
         "x": 114,
-        "y": 999
+        "y": 999,
+        "w": 862,
+        "h": 242
     },
     {
         "id": "65dbd90af70f1e98",
@@ -3928,7 +3930,9 @@
             "c9ef5029dfa1dca4"
         ],
         "x": 114,
-        "y": 599
+        "y": 599,
+        "w": 968,
+        "h": 375.5
     },
     {
         "id": "2ceb8ec502cd9a4d",
@@ -3955,7 +3959,9 @@
             "86a9047e4057bacf"
         ],
         "x": 1254,
-        "y": 599
+        "y": 599,
+        "w": 692,
+        "h": 322
     },
     {
         "id": "7fd14179472bdff0",
@@ -3987,7 +3993,9 @@
             "6f05a009383c5e7c"
         ],
         "x": 114,
-        "y": 279
+        "y": 279,
+        "w": 1332,
+        "h": 242
     },
     {
         "id": "b76c959d391c2570",
@@ -4108,7 +4116,7 @@
             "b6c43cb90db15418",
             "e560dfdfebe2fd7d"
         ],
-        "x": -26,
+        "x": 14,
         "y": 419,
         "w": 1672,
         "h": 262
@@ -4142,8 +4150,8 @@
             "5c08c4bb6a359a6e",
             "4ba7844e7747726a"
         ],
-        "x": 834,
-        "y": 119,
+        "x": 854,
+        "y": 99,
         "w": 1102,
         "h": 282
     },
@@ -4162,7 +4170,7 @@
             "d264a0cf20ef8465"
         ],
         "x": 14,
-        "y": 1099,
+        "y": 1139,
         "w": 492,
         "h": 122
     },
@@ -4199,20 +4207,20 @@
             "d51c027929acb706",
             "d4b991fc5352d5b7",
             "cf71418b11170ffb",
-            "b3a7e80e155ce75f",
             "30c6cdf8d0a1679b",
             "ebbec5b8d98b5148",
             "1d42906b84ee26d8",
             "5cbb4190237e95e0",
             "c70bd67e0a25b87d",
             "114ea3b0930f2d37",
-            "c7f8c9025eafeb10",
-            "52101cf0a1b74baf"
+            "52101cf0a1b74baf",
+            "e9c61a0f3498e72d",
+            "b99f2acca02fb125"
         ],
         "x": 14,
-        "y": 679,
+        "y": 719,
         "w": 1392,
-        "h": 402
+        "h": 382
     },
     {
         "id": "fd781041a7a8fbec",
@@ -4239,8 +4247,8 @@
             "a67d0c04611f1089",
             "af1bda6ebd18d02c"
         ],
-        "x": -6,
-        "y": 179,
+        "x": 14,
+        "y": 159,
         "w": 812,
         "h": 222
     },
@@ -6128,7 +6136,9 @@
             "a6ae08b25206a8fb"
         ],
         "x": 154,
-        "y": 799
+        "y": 799,
+        "w": 902,
+        "h": 149.5
     },
     {
         "id": "a80677cf.4274c8",
@@ -9886,9 +9896,10 @@
         "name": "surfaceControl",
         "tab": "df82a9eeeb3d8a7c",
         "order": 8,
-        "disp": true,
+        "disp": false,
         "width": "12",
-        "collapse": false
+        "collapse": false,
+        "className": ""
     },
     {
         "id": "5b7d032c3d3749b8",
@@ -10561,206 +10572,6 @@
         "collapse": false
     },
     {
-        "id": "aae67d7aeefcebb5",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "20076456.83052c",
-        "order": 1,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "5770abad8f87d6a5",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 2,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "ca146c697e334df8",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 4,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "7ee0a99053a2c3b3",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 6,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "07a5d4d892fd3711",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 7,
-        "width": 3,
-        "height": 1
-    },
-    {
-        "id": "fccb11b1dbd95577",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 9,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "71e9e65507b7f061",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 11,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "720e341ff34e095f",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 12,
-        "width": 3,
-        "height": 1
-    },
-    {
-        "id": "6429f981b2cc7fcc",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 14,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "61bf2082200ca895",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 16,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "2615bc07b1a0862c",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 18,
-        "width": 10,
-        "height": 1
-    },
-    {
-        "id": "e4c86989ef5c2ceb",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 22,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "4b39c34005b96362",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "2540c0d0.abd4d",
-        "order": 1,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "8ffd8adffb025878",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "2540c0d0.abd4d",
-        "order": 2,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "dfa0693126a64742",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "2540c0d0.abd4d",
-        "order": 6,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "499f49838cedfc33",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "3afcf0f2.7f9b6",
-        "order": 4,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "c7822d663970781a",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "3afcf0f2.7f9b6",
-        "order": 6,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "ffed19bc96618b08",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "3afcf0f2.7f9b6",
-        "order": 18,
-        "width": 3,
-        "height": 1
-    },
-    {
-        "id": "24dc9eef78b64eee",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "4f87eabd.cfaf34",
-        "order": 1,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "54286b2084a54d8e",
-        "type": "ui_spacer",
-        "z": "2e27dea6.c4c362",
-        "name": "spacer",
-        "group": "4f87eabd.cfaf34",
-        "order": 4,
-        "width": 2,
-        "height": 1
-    },
-    {
         "id": "68940c7bea9d80a2",
         "type": "ui_group",
         "name": "Ingresar datos de estado mecánico",
@@ -10850,7 +10661,7 @@
         "height": 1
     },
     {
-        "id": "32b1839ff80e08e1",
+        "id": "9c8a5295f919c0dc",
         "type": "ui_spacer",
         "z": "5b797a7252061594",
         "name": "spacer",
@@ -10860,7 +10671,17 @@
         "height": 1
     },
     {
-        "id": "1ee5c2e5de6c395a",
+        "id": "a5e842dc8d1a7965",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "20076456.83052c",
+        "order": 2,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "f72970bdf9534051",
         "type": "ui_spacer",
         "z": "5b797a7252061594",
         "name": "spacer",
@@ -10870,157 +10691,217 @@
         "height": 1
     },
     {
-        "id": "67d0058bedea7ed1",
+        "id": "12eec68b1f987c95",
         "type": "ui_spacer",
         "z": "5b797a7252061594",
         "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 2,
+        "group": "20076456.83052c",
+        "order": 4,
         "width": 1,
         "height": 1
     },
     {
-        "id": "4e07c9708e261c49",
+        "id": "7316ba12c2e5ccd1",
         "type": "ui_spacer",
         "z": "5b797a7252061594",
         "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 4,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "8a7decf7728d8532",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
+        "group": "20076456.83052c",
         "order": 6,
         "width": 1,
         "height": 1
     },
     {
-        "id": "bf1d7f920859f94a",
+        "id": "19d747cd331159d3",
         "type": "ui_spacer",
         "z": "5b797a7252061594",
         "name": "spacer",
-        "group": "f3358016775d3d48",
+        "group": "20076456.83052c",
         "order": 7,
-        "width": 3,
-        "height": 1
-    },
-    {
-        "id": "20fbb5840ebc9d80",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 9,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "0a7c0c47b9ae9aca",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 11,
         "width": 1,
         "height": 1
     },
     {
-        "id": "1db728291bd475f3",
+        "id": "432edee0d74c7d9d",
         "type": "ui_spacer",
         "z": "5b797a7252061594",
         "name": "spacer",
         "group": "f3358016775d3d48",
-        "order": 12,
-        "width": 3,
-        "height": 1
-    },
-    {
-        "id": "8bb954f94261a5c9",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 14,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "2f361d687d90ebb6",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 16,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "47c12ccbb39ac5d2",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 18,
-        "width": 10,
-        "height": 1
-    },
-    {
-        "id": "a49afa6ee857b887",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 22,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "de6d6359704dd7a6",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "e7f56f40f21d5182",
         "order": 2,
-        "width": 1,
+        "width": 4,
         "height": 1
     },
     {
-        "id": "9854a59b228d9842",
+        "id": "f6efd29393ea581a",
         "type": "ui_spacer",
         "z": "5b797a7252061594",
         "name": "spacer",
-        "group": "e7f56f40f21d5182",
-        "order": 4,
-        "width": 1,
+        "group": "f3358016775d3d48",
+        "order": 5,
+        "width": 12,
         "height": 1
     },
     {
-        "id": "b6dc440224b22d67",
+        "id": "fe4c7bf576023f7c",
         "type": "ui_spacer",
         "z": "5b797a7252061594",
         "name": "spacer",
-        "group": "e7f56f40f21d5182",
+        "group": "f3358016775d3d48",
         "order": 6,
-        "width": 1,
+        "width": 9,
         "height": 1
     },
     {
-        "id": "f1874e67e9df84e5",
+        "id": "1213f9bc754da0e6",
         "type": "ui_spacer",
         "z": "5b797a7252061594",
         "name": "spacer",
-        "group": "e7f56f40f21d5182",
+        "group": "f3358016775d3d48",
         "order": 8,
         "width": 12,
         "height": 1
     },
     {
-        "id": "05739bdedfc5e001",
+        "id": "0f0f1a37f3fa5a42",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 10,
+        "width": 9,
+        "height": 1
+    },
+    {
+        "id": "5a10acdac0825ad4",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 11,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "409769c43c0698aa",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 13,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "cd1767c21124bea5",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 17,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "fb6595712246296d",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 18,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "94b2039a96846e9d",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 19,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "a429d71886df2f5d",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 20,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "694151705ee1b7b3",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 21,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "14ae7a6224916883",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 24,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "8c40e6f33ad8b517",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 25,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "6a50b223f63874c4",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "e7f56f40f21d5182",
+        "order": 2,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "7976941532b24fd2",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "e7f56f40f21d5182",
+        "order": 4,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "81a52cef6941499a",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "e7f56f40f21d5182",
+        "order": 6,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "96398c0c700e6da3",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "e7f56f40f21d5182",
+        "order": 8,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "87bac83fececfab8",
         "type": "ui_spacer",
         "z": "5b797a7252061594",
         "name": "spacer",
@@ -11030,7 +10911,7 @@
         "height": 1
     },
     {
-        "id": "77b84201b5721752",
+        "id": "7bd5fc55aca1572d",
         "type": "ui_spacer",
         "z": "5b797a7252061594",
         "name": "spacer",
@@ -11040,7 +10921,7 @@
         "height": 1
     },
     {
-        "id": "ec9ed31d71bd2e41",
+        "id": "6af3894d22b96784",
         "type": "ui_spacer",
         "z": "5b797a7252061594",
         "name": "spacer",
@@ -11050,47 +10931,47 @@
         "height": 1
     },
     {
-        "id": "2886783b61861dc7",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "e7f56f40f21d5182",
-        "order": 15,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "a1f0cac4a75672a9",
+        "id": "b4a561c0f03d5916",
         "type": "ui_spacer",
         "z": "5b797a7252061594",
         "name": "spacer",
         "group": "e7f56f40f21d5182",
         "order": 16,
+        "width": 9,
+        "height": 1
+    },
+    {
+        "id": "a651fc39d19dad3b",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "e7f56f40f21d5182",
+        "order": 17,
         "width": 12,
         "height": 1
     },
     {
-        "id": "66cddc0e8556b64d",
+        "id": "f4ad9166d0848d3f",
         "type": "ui_spacer",
         "z": "5b797a7252061594",
         "name": "spacer",
         "group": "e7f56f40f21d5182",
         "order": 19,
-        "width": 1,
+        "width": 2,
         "height": 1
     },
     {
-        "id": "62d64de4167e8e29",
+        "id": "c4479149b01e2ff6",
         "type": "ui_spacer",
         "z": "5b797a7252061594",
         "name": "spacer",
         "group": "e7f56f40f21d5182",
-        "order": 21,
+        "order": 23,
         "width": 1,
         "height": 1
     },
     {
-        "id": "331707cbecaa3439",
+        "id": "fd236a150e4386d6",
         "type": "ui_spacer",
         "z": "5b797a7252061594",
         "name": "spacer",
@@ -11100,7 +10981,7 @@
         "height": 1
     },
     {
-        "id": "7083638486e31bd3",
+        "id": "803024a7e9d7db56",
         "type": "ui_spacer",
         "z": "5b797a7252061594",
         "name": "spacer",
@@ -11110,63 +10991,253 @@
         "height": 1
     },
     {
-        "id": "4f1573fc13c6e57e",
+        "id": "c8ee03a7632fb693",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "2540c0d0.abd4d",
+        "order": 3,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "3bc7613bd3020742",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "2540c0d0.abd4d",
+        "order": 4,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "bb09e1725608583b",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "2540c0d0.abd4d",
+        "order": 5,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "92918e2d8e8d4315",
         "type": "ui_spacer",
         "z": "5b797a7252061594",
         "name": "spacer",
         "group": "2540c0d0.abd4d",
         "order": 6,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "67eee5be6b3ed9da",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "2540c0d0.abd4d",
+        "order": 7,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "9e01174022d6b2c6",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "2540c0d0.abd4d",
+        "order": 8,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "4b02af1824f8d8a3",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "2540c0d0.abd4d",
+        "order": 12,
         "width": 6,
         "height": 1
     },
     {
-        "id": "6a909520aaa4c8dc",
+        "id": "8a8fe7eb59feaa4f",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "4026595aa6261291",
+        "order": 8,
+        "width": 10,
+        "height": 1
+    },
+    {
+        "id": "7499301d5f764f0b",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "4026595aa6261291",
+        "order": 9,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "4e7f8c9111c8d570",
         "type": "ui_spacer",
         "z": "5b797a7252061594",
         "name": "spacer",
         "group": "3afcf0f2.7f9b6",
         "order": 4,
-        "width": 1,
+        "width": 4,
         "height": 1
     },
     {
-        "id": "4f2cf3d958d41947",
+        "id": "ed18cc239e79ca68",
         "type": "ui_spacer",
         "z": "5b797a7252061594",
         "name": "spacer",
         "group": "3afcf0f2.7f9b6",
         "order": 6,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "a2d62f73b6342564",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "3afcf0f2.7f9b6",
+        "order": 12,
         "width": 1,
         "height": 1
     },
     {
-        "id": "d824ba3d5b339551",
+        "id": "3380fc399a0182e1",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "3afcf0f2.7f9b6",
+        "order": 13,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "5450c4a6443032a3",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "3afcf0f2.7f9b6",
+        "order": 15,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "36685545b32dd090",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "3afcf0f2.7f9b6",
+        "order": 16,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "51a7eee18e7ff3c5",
         "type": "ui_spacer",
         "z": "5b797a7252061594",
         "name": "spacer",
         "group": "3afcf0f2.7f9b6",
         "order": 18,
-        "width": 3,
+        "width": 1,
         "height": 1
     },
     {
-        "id": "405bf93f9e5cabf2",
+        "id": "c7b153c2568d29e9",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "3afcf0f2.7f9b6",
+        "order": 19,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "87c12853a50c4a2b",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "3afcf0f2.7f9b6",
+        "order": 21,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "9fcc82ed5e125876",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "3afcf0f2.7f9b6",
+        "order": 22,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "03ab0fe9f23007dc",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "3afcf0f2.7f9b6",
+        "order": 24,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "4f5ab36013d88521",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "3afcf0f2.7f9b6",
+        "order": 25,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "1dc1ea81d0f333e9",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "3afcf0f2.7f9b6",
+        "order": 26,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "010831ee1981725c",
+        "type": "ui_spacer",
+        "z": "5b797a7252061594",
+        "name": "spacer",
+        "group": "3afcf0f2.7f9b6",
+        "order": 27,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "08e7d76d6287bf61",
         "type": "ui_spacer",
         "z": "5b797a7252061594",
         "name": "spacer",
         "group": "4f87eabd.cfaf34",
         "order": 1,
-        "width": 2,
+        "width": 8,
         "height": 1
     },
     {
-        "id": "c22551c4713716f7",
+        "id": "ddf071f280945847",
         "type": "ui_spacer",
         "z": "5b797a7252061594",
         "name": "spacer",
         "group": "4f87eabd.cfaf34",
         "order": 4,
-        "width": 2,
+        "width": 8,
         "height": 1
     },
     {
@@ -22471,7 +22542,7 @@
         "label": "",
         "tooltip": "",
         "group": "20076456.83052c",
-        "order": 2,
+        "order": 5,
         "width": 1,
         "height": 1,
         "passthru": true,
@@ -22503,7 +22574,7 @@
         "label": "",
         "tooltip": "",
         "group": "20076456.83052c",
-        "order": 3,
+        "order": 8,
         "width": 0,
         "height": 0,
         "passthru": true,
@@ -22535,7 +22606,7 @@
         "label": "",
         "tooltip": "",
         "group": "20076456.83052c",
-        "order": 4,
+        "order": 9,
         "width": 1,
         "height": 1,
         "passthru": true,
@@ -22567,7 +22638,7 @@
         "label": "",
         "tooltip": "",
         "group": "20076456.83052c",
-        "order": 5,
+        "order": 10,
         "width": 1,
         "height": 1,
         "passthru": true,
@@ -84304,7 +84375,7 @@
         "g": "b3c73c66a9a23564",
         "name": "",
         "group": "f3358016775d3d48",
-        "order": 19,
+        "order": 16,
         "width": 4,
         "height": 1,
         "passthru": false,
@@ -84513,7 +84584,7 @@
         "label": "Marcha (Minutos)",
         "tooltip": "",
         "group": "f3358016775d3d48",
-        "order": 8,
+        "order": 7,
         "width": 3,
         "height": 1,
         "passthru": true,
@@ -84537,7 +84608,7 @@
         "label": "Marcha (Segundos)",
         "tooltip": "",
         "group": "f3358016775d3d48",
-        "order": 13,
+        "order": 12,
         "width": 3,
         "height": 1,
         "passthru": true,
@@ -84561,7 +84632,7 @@
         "label": "Pausa (Horas)",
         "tooltip": "",
         "group": "f3358016775d3d48",
-        "order": 5,
+        "order": 4,
         "width": 3,
         "height": 1,
         "passthru": true,
@@ -84585,7 +84656,7 @@
         "label": "Pausa (Minutos)",
         "tooltip": "",
         "group": "f3358016775d3d48",
-        "order": 10,
+        "order": 9,
         "width": 3,
         "height": 1,
         "passthru": true,
@@ -84609,7 +84680,7 @@
         "label": "Pausa (Segundos)",
         "tooltip": "",
         "group": "f3358016775d3d48",
-        "order": 15,
+        "order": 14,
         "width": 3,
         "height": 1,
         "passthru": true,
@@ -84841,7 +84912,7 @@
         "z": "8c6f930882747645",
         "g": "0e5fc807c9fa372e",
         "group": "f3358016775d3d48",
-        "order": 21,
+        "order": 23,
         "width": 4,
         "height": 1,
         "name": "",
@@ -84861,7 +84932,7 @@
         "label": "Referencia (SPM)",
         "tooltip": "",
         "group": "f3358016775d3d48",
-        "order": 17,
+        "order": 15,
         "width": 2,
         "height": 1,
         "passthru": true,
@@ -84885,7 +84956,7 @@
         "g": "99fd9c5cbd90ceb5",
         "name": "Tendencia principa",
         "group": "f3358016775d3d48",
-        "order": 23,
+        "order": 26,
         "width": 12,
         "height": 4,
         "label": "",
@@ -85370,7 +85441,7 @@
         "z": "8c6f930882747645",
         "g": "0e5fc807c9fa372e",
         "group": "f3358016775d3d48",
-        "order": 20,
+        "order": 22,
         "width": 3,
         "height": 1,
         "name": "",
@@ -88748,7 +88819,7 @@
         "g": "797d0bfa791a4802",
         "name": "",
         "group": "2540c0d0.abd4d",
-        "order": 3,
+        "order": 9,
         "width": 2,
         "height": 1,
         "passthru": false,
@@ -88775,7 +88846,7 @@
         "g": "797d0bfa791a4802",
         "name": "",
         "group": "2540c0d0.abd4d",
-        "order": 4,
+        "order": 10,
         "width": 2,
         "height": 1,
         "passthru": false,
@@ -88803,7 +88874,7 @@
         "g": "797d0bfa791a4802",
         "name": "",
         "group": "2540c0d0.abd4d",
-        "order": 5,
+        "order": 11,
         "width": 2,
         "height": 1,
         "passthru": false,
@@ -94838,7 +94909,7 @@
         "label": "PID Kp",
         "tooltip": "",
         "group": "3afcf0f2.7f9b6",
-        "order": 9,
+        "order": 8,
         "width": 2,
         "height": 1,
         "passthru": true,
@@ -94886,7 +94957,7 @@
         "label": "PID Td",
         "tooltip": "",
         "group": "3afcf0f2.7f9b6",
-        "order": 8,
+        "order": 7,
         "width": 2,
         "height": 1,
         "passthru": true,
@@ -95373,7 +95444,7 @@
         "label": "Δ Max [Hz]",
         "tooltip": "",
         "group": "3afcf0f2.7f9b6",
-        "order": 13,
+        "order": 11,
         "width": 3,
         "height": 1,
         "passthru": false,
@@ -95397,7 +95468,7 @@
         "label": "Δ Min [Hz]",
         "tooltip": "",
         "group": "3afcf0f2.7f9b6",
-        "order": 15,
+        "order": 17,
         "width": 3,
         "height": 1,
         "passthru": false,
@@ -95435,7 +95506,7 @@
         "z": "ebaf6b5134c2a666",
         "g": "cf985e84.c7693",
         "group": "3afcf0f2.7f9b6",
-        "order": 16,
+        "order": 20,
         "width": 3,
         "height": 1,
         "name": "Min",
@@ -95527,7 +95598,7 @@
         "label": "Banda muerta",
         "tooltip": "",
         "group": "3afcf0f2.7f9b6",
-        "order": 11,
+        "order": 28,
         "width": 6,
         "height": 1,
         "passthru": true,
@@ -95695,7 +95766,7 @@
         "g": "dd4ef7f.6489508",
         "name": "",
         "group": "3afcf0f2.7f9b6",
-        "order": 7,
+        "order": 9,
         "width": 6,
         "height": 7,
         "label": "",
@@ -96997,7 +97068,7 @@
         "z": "ebaf6b5134c2a666",
         "g": "cf985e84.c7693",
         "group": "3afcf0f2.7f9b6",
-        "order": 12,
+        "order": 29,
         "width": 6,
         "height": 1,
         "name": "",
@@ -97109,7 +97180,7 @@
         "z": "ebaf6b5134c2a666",
         "g": "cf985e84.c7693",
         "group": "3afcf0f2.7f9b6",
-        "order": 17,
+        "order": 23,
         "width": 3,
         "height": 1,
         "name": "",
@@ -98375,8 +98446,8 @@
         "tooltip": "",
         "group": "4026595aa6261291",
         "order": 1,
-        "width": "2",
-        "height": "1",
+        "width": 2,
+        "height": 1,
         "passthru": false,
         "decouple": "true",
         "topic": "topic",
@@ -98723,9 +98794,9 @@
         "label": "Porcentaje Subida",
         "tooltip": "",
         "group": "4026595aa6261291",
-        "order": 1,
-        "width": "2",
-        "height": "1",
+        "order": 2,
+        "width": 2,
+        "height": 1,
         "passthru": true,
         "mode": "number",
         "delay": 300,
@@ -98749,9 +98820,9 @@
         "label": "Porcentaje Bajada",
         "tooltip": "",
         "group": "4026595aa6261291",
-        "order": 1,
-        "width": "2",
-        "height": "1",
+        "order": 3,
+        "width": 2,
+        "height": 1,
         "passthru": true,
         "mode": "number",
         "delay": 300,
@@ -98772,9 +98843,9 @@
         "z": "830fadc6f5236b78",
         "g": "2ceb8ec502cd9a4d",
         "group": "4026595aa6261291",
-        "order": 3,
-        "width": "2",
-        "height": "1",
+        "order": 4,
+        "width": 2,
+        "height": 1,
         "name": "",
         "label": "Referencia",
         "format": "{{msg.payload}}",
@@ -98790,9 +98861,9 @@
         "g": "932eb8b65e7cc7be",
         "name": "",
         "group": "4026595aa6261291",
-        "order": 4,
-        "width": "2",
-        "height": "1",
+        "order": 7,
+        "width": 2,
+        "height": 1,
         "passthru": false,
         "label": "Actualizar",
         "tooltip": "",
@@ -100867,9 +100938,9 @@
         "z": "830fadc6f5236b78",
         "g": "2ceb8ec502cd9a4d",
         "group": "4026595aa6261291",
-        "order": 3,
-        "width": "2",
-        "height": "1",
+        "order": 5,
+        "width": 2,
+        "height": 1,
         "name": "",
         "label": "Velocidad Subida",
         "format": "{{msg.payload}}",
@@ -100884,9 +100955,9 @@
         "z": "830fadc6f5236b78",
         "g": "2ceb8ec502cd9a4d",
         "group": "4026595aa6261291",
-        "order": 3,
-        "width": "2",
-        "height": "1",
+        "order": 6,
+        "width": 2,
+        "height": 1,
         "name": "",
         "label": "Velocidad Bajada",
         "format": "{{msg.payload}}",
@@ -101040,9 +101111,9 @@
         "g": "2ceb8ec502cd9a4d",
         "name": "GraficoPrincipalDoubleSpeedControl",
         "group": "4026595aa6261291",
-        "order": 5,
-        "width": "12",
-        "height": "4",
+        "order": 10,
+        "width": 12,
+        "height": 4,
         "label": "chart",
         "chartType": "line",
         "legend": "false",
@@ -101171,8 +101242,8 @@
         "delay": 300,
         "topic": "topic",
         "topicType": "msg",
-        "x": 1300,
-        "y": 240,
+        "x": 1320,
+        "y": 220,
         "wires": [
             [
                 "5eb63a5352f330ac"
@@ -101185,15 +101256,15 @@
         "z": "5b797a7252061594",
         "g": "fd781041a7a8fbec",
         "group": "e7f56f40f21d5182",
-        "order": 18,
-        "width": 3,
+        "order": 21,
+        "width": 2,
         "height": 1,
         "name": "",
         "label": "Tiempo:",
         "format": "{{msg.payload}}",
         "layout": "row-spread",
-        "x": 700,
-        "y": 280,
+        "x": 720,
+        "y": 260,
         "wires": []
     },
     {
@@ -101202,7 +101273,7 @@
         "z": "5b797a7252061594",
         "g": "162691d3abd26ddb",
         "name": "",
-        "label": "Porcentaje_Y",
+        "label": "Punto Y (%)",
         "tooltip": "",
         "group": "e7f56f40f21d5182",
         "order": 5,
@@ -101212,9 +101283,11 @@
         "mode": "number",
         "delay": 300,
         "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
         "topicType": "msg",
-        "x": 1300,
-        "y": 200,
+        "x": 1310,
+        "y": 180,
         "wires": [
             [
                 "3d352895e2124f87"
@@ -101227,7 +101300,7 @@
         "z": "5b797a7252061594",
         "g": "162691d3abd26ddb",
         "name": "",
-        "label": "Porcentaje_X",
+        "label": "Punto X (%)",
         "tooltip": "",
         "group": "e7f56f40f21d5182",
         "order": 3,
@@ -101237,9 +101310,11 @@
         "mode": "number",
         "delay": 300,
         "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
         "topicType": "msg",
-        "x": 1300,
-        "y": 160,
+        "x": 1310,
+        "y": 140,
         "wires": [
             [
                 "cb58314994c14f05"
@@ -101267,8 +101342,8 @@
         "onceDelay": 0.1,
         "topic": "",
         "payloadType": "date",
-        "x": 110,
-        "y": 260,
+        "x": 130,
+        "y": 240,
         "wires": [
             [
                 "a67d0c04611f1089"
@@ -101289,8 +101364,8 @@
         "targetType": "msg",
         "statusVal": "payload",
         "statusType": "auto",
-        "x": 350,
-        "y": 220,
+        "x": 370,
+        "y": 200,
         "wires": []
     },
     {
@@ -101305,8 +101380,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 480,
-        "y": 320,
+        "x": 500,
+        "y": 300,
         "wires": [
             [
                 "ca2d0743d5c66f4b",
@@ -101328,8 +101403,8 @@
         "targetType": "msg",
         "statusVal": "payload",
         "statusType": "auto",
-        "x": 700,
-        "y": 320,
+        "x": 720,
+        "y": 300,
         "wires": []
     },
     {
@@ -101339,14 +101414,14 @@
         "g": "fd781041a7a8fbec",
         "group": "e7f56f40f21d5182",
         "order": 20,
-        "width": 4,
+        "width": 2,
         "height": 1,
         "name": "",
         "label": "Estado:",
         "format": "{{msg.payload}}",
         "layout": "row-spread",
-        "x": 480,
-        "y": 260,
+        "x": 500,
+        "y": 240,
         "wires": []
     },
     {
@@ -101361,8 +101436,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1040,
-        "y": 200,
+        "x": 1060,
+        "y": 180,
         "wires": [
             [
                 "72ff3c659cbbde2e"
@@ -101404,8 +101479,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1680,
-        "y": 160,
+        "x": 1700,
+        "y": 140,
         "wires": [
             []
         ]
@@ -101430,8 +101505,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1680,
-        "y": 200,
+        "x": 1700,
+        "y": 180,
         "wires": [
             []
         ]
@@ -101456,8 +101531,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1680,
-        "y": 240,
+        "x": 1700,
+        "y": 220,
         "wires": [
             []
         ]
@@ -101479,8 +101554,8 @@
         "delay": 300,
         "topic": "topic",
         "topicType": "msg",
-        "x": 1310,
-        "y": 280,
+        "x": 1330,
+        "y": 260,
         "wires": [
             [
                 "3f170170735fb414"
@@ -101504,8 +101579,8 @@
         "delay": 300,
         "topic": "topic",
         "topicType": "msg",
-        "x": 1310,
-        "y": 320,
+        "x": 1330,
+        "y": 300,
         "wires": [
             [
                 "5c08c4bb6a359a6e"
@@ -101518,19 +101593,21 @@
         "z": "5b797a7252061594",
         "g": "162691d3abd26ddb",
         "name": "",
-        "label": "Numero de Intentos",
+        "label": "# de Intentos",
         "tooltip": "",
         "group": "e7f56f40f21d5182",
         "order": 7,
-        "width": 3,
+        "width": 2,
         "height": 1,
         "passthru": true,
         "mode": "number",
         "delay": 300,
         "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
         "topicType": "msg",
         "x": 1310,
-        "y": 360,
+        "y": 340,
         "wires": [
             [
                 "4ba7844e7747726a"
@@ -101557,8 +101634,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1690,
-        "y": 280,
+        "x": 1710,
+        "y": 260,
         "wires": [
             []
         ]
@@ -101583,8 +101660,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1700,
-        "y": 320,
+        "x": 1720,
+        "y": 300,
         "wires": [
             []
         ]
@@ -101609,8 +101686,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1670,
-        "y": 360,
+        "x": 1690,
+        "y": 340,
         "wires": [
             []
         ]
@@ -101662,8 +101739,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 490,
-        "y": 960,
+        "x": 610,
+        "y": 1020,
         "wires": [
             [
                 "161b3cf9cb706517"
@@ -101688,8 +101765,8 @@
         "raw": false,
         "topic": "¿Desea Activar el Control Superficie?",
         "name": "confirm",
-        "x": 660,
-        "y": 920,
+        "x": 800,
+        "y": 960,
         "wires": [
             [
                 "baca85e0e09173c6"
@@ -101711,8 +101788,8 @@
         "raw": false,
         "topic": "¿Desea Desactivar el Control Superficie?",
         "name": "confirm",
-        "x": 700,
-        "y": 980,
+        "x": 800,
+        "y": 1040,
         "wires": [
             [
                 "7be5fa40a5b5bb8d"
@@ -101742,8 +101819,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 790,
-        "y": 920,
+        "x": 950,
+        "y": 960,
         "wires": [
             [
                 "7830a7569ec98231"
@@ -101776,8 +101853,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 830,
-        "y": 1020,
+        "x": 950,
+        "y": 1040,
         "wires": [
             [
                 "2d176b4a5abe6bb5"
@@ -101807,8 +101884,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 940,
-        "y": 900,
+        "x": 1100,
+        "y": 940,
         "wires": [
             [
                 "2143bfbe4eac74b5"
@@ -101835,8 +101912,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 950,
-        "y": 940,
+        "x": 1110,
+        "y": 980,
         "wires": [
             [
                 "2143bfbe4eac74b5"
@@ -101863,8 +101940,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 970,
-        "y": 1000,
+        "x": 1110,
+        "y": 1020,
         "wires": [
             [
                 "2143bfbe4eac74b5",
@@ -101892,8 +101969,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 960,
-        "y": 1040,
+        "x": 1100,
+        "y": 1060,
         "wires": [
             [
                 "2143bfbe4eac74b5"
@@ -101909,8 +101986,8 @@
         "links": [
             "39bfcbb2ffaadf0b"
         ],
-        "x": 875,
-        "y": 200,
+        "x": 895,
+        "y": 180,
         "wires": [
             [
                 "66a80404a34ef8ec"
@@ -101926,7 +102003,7 @@
         "links": [
             "2994dea1d4713a60"
         ],
-        "x": 1075,
+        "x": 1335,
         "y": 960,
         "wires": []
     },
@@ -101959,7 +102036,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 120,
+        "x": 160,
         "y": 580,
         "wires": [
             [
@@ -101999,7 +102076,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 420,
+        "x": 460,
         "y": 520,
         "wires": [
             [
@@ -102027,7 +102104,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1430,
+        "x": 1470,
         "y": 540,
         "wires": [
             []
@@ -102045,7 +102122,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 970,
+        "x": 1010,
         "y": 580,
         "wires": [
             [
@@ -102068,7 +102145,7 @@
         "raw": false,
         "topic": "",
         "name": "SPM",
-        "x": 1010,
+        "x": 1050,
         "y": 540,
         "wires": [
             [
@@ -102099,7 +102176,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 1150,
+        "x": 1190,
         "y": 540,
         "wires": [
             [
@@ -102132,8 +102209,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1300,
-        "y": 480,
+        "x": 1460,
+        "y": 500,
         "wires": [
             [
                 "b6c43cb90db15418"
@@ -102160,7 +102237,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1380,
+        "x": 1420,
         "y": 580,
         "wires": [
             [
@@ -102175,7 +102252,7 @@
         "g": "0e051c2facee0b6d",
         "name": "",
         "group": "e7f56f40f21d5182",
-        "order": 17,
+        "order": 15,
         "width": 3,
         "height": 1,
         "passthru": false,
@@ -102188,7 +102265,7 @@
         "payloadType": "bool",
         "topic": "topic",
         "topicType": "str",
-        "x": 760,
+        "x": 800,
         "y": 580,
         "wires": [
             [
@@ -102216,7 +102293,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 420,
+        "x": 460,
         "y": 560,
         "wires": [
             [
@@ -102244,7 +102321,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 420,
+        "x": 460,
         "y": 600,
         "wires": [
             [
@@ -102272,7 +102349,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 420,
+        "x": 460,
         "y": 640,
         "wires": [
             [
@@ -102289,7 +102366,7 @@
         "links": [
             "af924b4f843e4897"
         ],
-        "x": 1515,
+        "x": 1555,
         "y": 580,
         "wires": []
     },
@@ -102307,8 +102384,8 @@
         "targetType": "msg",
         "statusVal": "payload",
         "statusType": "auto",
-        "x": 600,
-        "y": 220,
+        "x": 620,
+        "y": 200,
         "wires": []
     },
     {
@@ -102325,7 +102402,7 @@
         "targetType": "msg",
         "statusVal": "payload",
         "statusType": "auto",
-        "x": 140,
+        "x": 180,
         "y": 480,
         "wires": []
     },
@@ -102336,7 +102413,7 @@
         "g": "bca72b7420df46a9",
         "name": "Tendencia principa",
         "group": "e7f56f40f21d5182",
-        "order": 23,
+        "order": 24,
         "width": 12,
         "height": 4,
         "label": "",
@@ -102368,7 +102445,7 @@
         "outputs": 1,
         "useDifferentColor": false,
         "x": 390,
-        "y": 1140,
+        "y": 1180,
         "wires": [
             []
         ]
@@ -102388,7 +102465,7 @@
         "statusVal": "payload",
         "statusType": "auto",
         "x": 340,
-        "y": 1180,
+        "y": 1220,
         "wires": []
     },
     {
@@ -102401,7 +102478,7 @@
             "d3fc647f21f7d8eb"
         ],
         "x": 55,
-        "y": 1160,
+        "y": 1200,
         "wires": [
             [
                 "d264a0cf20ef8465"
@@ -102427,7 +102504,7 @@
         "repair": false,
         "outputs": 1,
         "x": 180,
-        "y": 1160,
+        "y": 1200,
         "wires": [
             [
                 "cb14c568e7814e18",
@@ -102449,8 +102526,8 @@
         "targetType": "msg",
         "statusVal": "payload",
         "statusType": "auto",
-        "x": 1150,
-        "y": 1020,
+        "x": 1290,
+        "y": 1060,
         "wires": []
     },
     {
@@ -102467,7 +102544,7 @@
         "targetType": "msg",
         "statusVal": "payload",
         "statusType": "auto",
-        "x": 320,
+        "x": 360,
         "y": 460,
         "wires": []
     },
@@ -102485,7 +102562,7 @@
         "targetType": "msg",
         "statusVal": "payload",
         "statusType": "auto",
-        "x": 480,
+        "x": 540,
         "y": 460,
         "wires": []
     },
@@ -102504,8 +102581,8 @@
         "raw": false,
         "topic": "Información del Control de Superficie",
         "name": "",
-        "x": 460,
-        "y": 360,
+        "x": 480,
+        "y": 340,
         "wires": []
     },
     {
@@ -103896,8 +103973,8 @@
         "z": "5b797a7252061594",
         "g": "f4c2cbbaa70a9690",
         "name": "Calculo Punto de Operación",
-        "func": "//Declaración de variables, si no se agrega nada que se inicialize en 0 y false\nvar habilitadoCS = global.get(\"Control_functions.SurfaceControl.habilitadoCS\") || false;\nvar Estado_Dinagrama;\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\", \"memoryOnly\") || false;\nvar Alert_Dinagrama;\nvar Alert_Dinagrama2;\nvar Disparo = flow.get(\"Control_functions.SurfaceControl.Disparo\") || false;\nvar Actual_pos = parseFloat(flow.get(\"Actual_pos\")) || 0.0;\nvar POC_aux = flow.get(\"POC_aux\") || false;\nvar POC_aux2 = flow.get(\"POC_aux2\") || false;\nvar POC_indice = flow.get(\"POC_indice\") || 0;\nvar POC_indice2 = flow.get(\"POC_indice2\") || 0;\nvar POC_actual = flow.get(\"POC_actual\") || 0;\nvar Porcentaje_X = parseFloat(global.get(\"Control_functions.SurfaceControl.Porcent_X\")) || 0.0;\nvar Porcentaje_Y = parseFloat(global.get(\"Control_functions.SurfaceControl.Porcent_Y\")) || 0.0;\nvar Num_intentos = global.get(\"Control_functions.SurfaceControl.Intentos\") || 0;\nvar Point_Y_Real = flow.get(\"Point_Y_Real\")||0;\nvar Point_X_Real = flow.get(\"Point_X_Real\")||0;\nvar POC_carga_arriba = flow.get(\"POC_carga_arriba\")||0;\nvar POC_carga_abajo = flow.get(\"POC_carga_abajo\")||0;\n\n//Vector x posicion\nvar x = [0.033277, 0.298705, 0.669662, 1.142543, 1.738089, 2.445315, 3.24979, 4.16783, 5.191564, 6.2639, 7.402083, 8.644076, 9.995452, 11.436207, 12.939613, 14.526823, 16.207429, 17.955852, 19.767089, 21.661885, 23.624661, 25.635197, 27.697951, 29.828932, 31.998408, 34.196706, 36.431962, 38.706677, 41.013411, 43.348044, 45.724339, 48.149071,\n    50.476498, 52.779014, 55.120742, 57.459779, 59.748734, 62.024175, 64.298563, 66.545006, 68.754159, 70.919379, 73.046079, 75.123682, 77.140381, 79.09421, 80.977625, 82.811451, 84.579372, 86.249988, 87.835515, 89.337428, 90.736624, 92.029825, 93.241625, 94.357514, 95.357404, 96.268926, 97.088471, 97.786361, 98.380386, 98.874318, 99.279144,\n    99.586828, 99.810243, 99.950044, 100, 99.969048, 99.84817, 99.656304, 99.38845, 99.04231, 98.631415, 98.154287, 97.60945, 97.003055, 96.349038, 95.605669, 94.789098, 93.9618, 93.076469, 92.111869, 91.121867, 90.096869, 89.000145, 87.842846, 86.656537, 85.425313, 84.132857, 82.808357, 81.434432, 79.999276, 78.532158, 77.02775, 75.449812,\n    73.823023, 72.176406, 70.472903, 68.718008, 66.958862, 65.136436, 63.233183, 61.321827, 59.397612, 57.405607, 55.372212, 53.344732, 51.283979, 49.176999, 47.05716, 44.92315, 42.768083, 40.577774, 38.367145, 36.162597, 33.921988, 31.66278, 29.433932, 27.208785, 25.003011, 22.846217, 20.749532, 18.705578, 16.740837, 14.852849, 12.993374,\n    11.230657, 9.571503, 8.026405, 6.6034, 5.317899, 4.165887, 3.161054, 2.300859, 1.572431, 0.977982, 0.51571, 0.198895, 0.033277, 0];\n\n//Vector y carga\nvar y = [9.325307, 9.676723, 9.676723, 9.580882, 9.788537, 9.820484, 9.596856, 9.676723, 9.548935, 9.485041, 10.012166, 10.363582, 10.475396, 10.730972, 10.90668, 11.002521, 11.258096, 11.433804, 11.513671, 11.717333, 11.835137, 11.917001, 11.809181, 11.631476, 11.226149, 10.970574, 10.794866, 10.651104, 10.459423, 10.267741, 10.139953,\n    9.996192, 9.820484, 9.628803, 9.516988, 9.692696, 9.900351, 10.07606, 10.187874, 10.315662, 10.331635, 10.331635, 10.443449, 10.507343, 10.443449, 10.53929, 10.699025, 10.571237, 10.251768, 9.980219, 9.804511, 9.612829, 9.405174, 9.357254, 9.34128, 9.149599, 8.97389, 9.021811, 8.92597, 8.734288, 8.909997, 9.245439, 9.437121, 9.532962,\n    9.75659, 9.884378, 9.932298, 9.964245, 9.900351, 9.996192, 9.948272, 10.028139, 10.139953, 9.964245, 9.628803, 9.469068, 9.469068, 9.34128, 9.149599, 9.245439, 9.29336, 9.117652, 9.053758, 9.245439, 9.181545, 9.085705, 9.373227, 9.70867, 9.692696, 9.644776, 9.788537, 9.868405, 9.628803, 9.548935, 9.612829, 9.421147, 9.165572, 9.037784,\n    8.814156, 8.350925, 7.903668, 7.759907, 7.711987, 7.456411, 7.200836, 7.168889, 7.041101, 6.705658, 6.561897, 6.753579, 6.929287, 7.184862, 7.536279, 7.855748, 7.919642, 7.887695, 8.09535, 8.318978, 8.334952, 8.526633, 8.766235, 8.734288, 8.686368, 8.718315, 8.414819, 8.223138, 8.366899, 8.350925, 8.366899, 8.51066, 8.478713, 8.382872,\n    8.494686, 8.51066, 8.55858, 8.750262, 8.941944, 9.229466, 9.373227, 9.29336];\n\nvar Max_Desp_s = 0;\nvar Min_Desp_s = 0;\nvar Max_Carga_s = 0;\nvar Min_Carga_s = 0;\n\n//Se inicializa las variables con el valor de la posición 0 de cada vector.\nMax_Desp_s = x[0];\nMin_Desp_s = x[0];\nMax_Carga_s = y[0];\nMin_Carga_s = y[0];\n\nif (habilitadoCS == true && comunicacion == true) {\n    //visualizar estado del habilitado\n    node.status({ fill: \"green\", shape: \"dot\", text: \"habilitado\" });\n\n    //Condición de que el % sea mayor a 0 y menor a 100\n    if (Porcentaje_X > 0 && Porcentaje_Y > 0 && Porcentaje_X <= 100 && Porcentaje_Y <= 100) {\n\n        if (Disparo == false) {\n            Alert_Dinagrama = {payload:\"Verificando Punto de Operación, Por favor Espere\"};\n            //Encontrar el valor maximo y minimo del vector X.\n            for (var i = 0; i < x.length; i++) {\n                if (x[i] > Max_Desp_s) {\n                    Max_Desp_s = x[i];\n                }\n                if (x[i] < Min_Desp_s) {\n                    Min_Desp_s = x[i];\n                }\n            }\n            context.set(\"Min_Desp_s\", Min_Desp_s);//Seteo el minimo valor del vector X\n            context.set(\"Max_Desp_s\", Max_Desp_s);//Seteo el maximo valor del vector X\n\n            //Calcula el valor de X real\n            Point_X_Real = (((Max_Desp_s - Min_Desp_s) * Porcentaje_X) / 100.0) + Min_Desp_s;\n            flow.set(\"Point_X_Real\", Point_X_Real);//Seteo el valor hallado en la anterior ecucación\n\n            //Recorre el vector en busca del punto up y del punto down\n            for (var j = 0; j < x.length; j++) {\n                if (Actual_pos < x[j]) {\n                    if (Actual_pos > Point_X_Real && POC_aux == false) {\n                        POC_aux = true;\n                        POC_indice = j;\n                        context.set(\"POC_indice\", POC_indice);\n                    }\n                }\n                if (Actual_pos > x[j] && POC_aux == true) {\n                    if (Actual_pos < Point_X_Real && POC_aux2 == false) {\n                        POC_aux2 = true;\n                        POC_indice2 = j;\n                        context.set(\"POC_indice2\", POC_indice2);\n                    }\n\n                }\n                Actual_pos = x[j];\n                flow.set(\"Actual_pos\", Actual_pos);//Setea el valor que esta en la posición j del vector Y\n            }\n\n            POC_aux = false;//Indica evaluar de nuevo\n            flow.set(\"POC_aux\", POC_aux);\n            POC_aux2 = false;//Indica evaluar de nuevo\n            flow.set(\"POC_aux2\", POC_aux2);\n\n            //Indicar los puntos de up stroke y down stroke\n            POC_carga_arriba = y[POC_indice];//up\n            flow.set(\"POC_carga_arriba\",POC_carga_arriba);\n            POC_carga_abajo = y[POC_indice2];//down\n            flow.set(\"POC_carga_abajo\", POC_carga_abajo);\n\n            //Encontrar el valor maximo y minimo del vector Y.\n            for (var k = 0; k < y.length; k++) {\n                if (y[k] > Max_Carga_s) {\n                    Max_Carga_s = y[k];\n                }\n                if (y[k] < Min_Carga_s) {\n                    Min_Carga_s = y[k];\n                }\n            }\n            context.set(\"Min_Carga_s\", Min_Carga_s); //Seteo el minimo valor del vector Y\n            context.set(\"Max_Carga_s\", Max_Carga_s); //Seteo el maximo valor del vector Y\n\n            //Calcular el valor de Y real\n            Point_Y_Real = (((Max_Carga_s - Min_Carga_s) * Porcentaje_Y) / 100.0) + Min_Carga_s;\n            flow.set(\"Point_Y_Real\", Point_Y_Real);//Seteo el valor hallado en la anterior ecucación\n\n            //Evaluar si el punto esta por fuera o por dentro.\n            if (Point_Y_Real > POC_carga_arriba || Point_Y_Real < POC_carga_abajo) {\n                var POC_trigger = true;//Define si el punto está por fuera o por dentro\n                context.set(\"POC_trigger\", POC_trigger);\n                node.status({ fill: \"green\", shape: \"dot\", text: \"punto fuera del rango\" });\n                Alert_Dinagrama2 = { payload: \"punto fuera del rango\" };\n            } else {\n                POC_trigger = false;//Indica que el punto esta dentro del rango\n                node.status({ fill: \"green\", shape: \"dot\", text: \"punto dentro del rango\" });\n                Alert_Dinagrama2 = { payload: \"punto dentro del rango\" };\n            }\n            //Contar el número de intentos\n            if (POC_actual <= Num_intentos) {\n                if (POC_trigger == true) {\n                    POC_actual += 1;\n                    flow.set(\"POC_actual\", POC_actual);\n                    Alert_Dinagrama = {payload:\"Intento:\"+ POC_actual};\n                } else {\n                    POC_actual = 0;\n                    flow.set(\"POC_actual\", POC_actual);\n                }\n            }\n            \n            //Dsiparosi sobrepasa el número de intentos\n            if (POC_actual > Num_intentos) {\n                Alert_Dinagrama = { payload: \"Ha superado  el número de intentos, se apagará el equipo\" };\n                Disparo = true;//activa el disparo\n                flow.set(\"Control_functions.SurfaceControl.Disparo\", Disparo);\n                Estado_Dinagrama = { payload: false };//Apaga el equipo\n                POC_actual = 0;\n                flow.set(\"POC_actual\",POC_actual);\n                return [Disparo, Estado_Dinagrama, Alert_Dinagrama,Alert_Dinagrama2];\n            }\n            POC_trigger = false\n            context.set(\"POC_carga_arriba\", POC_carga_arriba);\n            context.set(\"Point_Y_Real\", Point_Y_Real);\n            \n        }\n        \n    }else{\n        Alert_Dinagrama = {payload:\"Valor % Erroneos\"};\n        return [Disparo, Estado_Dinagrama, Alert_Dinagrama,Alert_Dinagrama2];\n    }\n}\ncontext.set(\"Control_functions.SurfaceControl.Disparo\", Disparo);\ncontext.set(\"Estado_Dinagrama\",Estado_Dinagrama);\ncontext.set(\"POC_actual\",POC_actual);\nreturn [Disparo, Estado_Dinagrama, Alert_Dinagrama,Alert_Dinagrama2];\n\n",
-        "outputs": 4,
+        "func": "//Declaración de variables, si no se agrega nada que se inicialize en 0 y false\nvar habilitadoCS = global.get(\"Control_functions.SurfaceControl.habilitadoCS\") || false;\nvar Estado_Dinagrama;\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\", \"memoryOnly\") || false;\nvar Alert_Dinagrama;\nvar Alert_Dinagrama2;\nvar Alert_intentos;\nvar Disparo = flow.get(\"Control_functions.SurfaceControl.Disparo\") || false;\nvar Actual_pos = parseFloat(flow.get(\"Actual_pos\")) || 0.0;\nvar POC_aux = flow.get(\"POC_aux\") || false;\nvar POC_aux2 = flow.get(\"POC_aux2\") || false;\nvar POC_indice = flow.get(\"POC_indice\") || 0;\nvar POC_indice2 = flow.get(\"POC_indice2\") || 0;\nvar POC_actual = flow.get(\"POC_actual\") || 0;\nvar Porcentaje_X = parseFloat(global.get(\"Control_functions.SurfaceControl.Porcent_X\")) || 0.0;\nvar Porcentaje_Y = parseFloat(global.get(\"Control_functions.SurfaceControl.Porcent_Y\")) || 0.0;\nvar Num_intentos = global.get(\"Control_functions.SurfaceControl.Intentos\") || 0;\nvar Point_Y_Real = flow.get(\"Point_Y_Real\")||0;\nvar Point_X_Real = flow.get(\"Point_X_Real\")||0;\nvar POC_carga_arriba = flow.get(\"POC_carga_arriba\")||0;\nvar POC_carga_abajo = flow.get(\"POC_carga_abajo\")||0;\n\n//Vector x posicion\nvar x = [0.033277, 0.298705, 0.669662, 1.142543, 1.738089, 2.445315, 3.24979, 4.16783, 5.191564, 6.2639, 7.402083, 8.644076, 9.995452, 11.436207, 12.939613, 14.526823, 16.207429, 17.955852, 19.767089, 21.661885, 23.624661, 25.635197, 27.697951, 29.828932, 31.998408, 34.196706, 36.431962, 38.706677, 41.013411, 43.348044, 45.724339, 48.149071,\n    50.476498, 52.779014, 55.120742, 57.459779, 59.748734, 62.024175, 64.298563, 66.545006, 68.754159, 70.919379, 73.046079, 75.123682, 77.140381, 79.09421, 80.977625, 82.811451, 84.579372, 86.249988, 87.835515, 89.337428, 90.736624, 92.029825, 93.241625, 94.357514, 95.357404, 96.268926, 97.088471, 97.786361, 98.380386, 98.874318, 99.279144,\n    99.586828, 99.810243, 99.950044, 100, 99.969048, 99.84817, 99.656304, 99.38845, 99.04231, 98.631415, 98.154287, 97.60945, 97.003055, 96.349038, 95.605669, 94.789098, 93.9618, 93.076469, 92.111869, 91.121867, 90.096869, 89.000145, 87.842846, 86.656537, 85.425313, 84.132857, 82.808357, 81.434432, 79.999276, 78.532158, 77.02775, 75.449812,\n    73.823023, 72.176406, 70.472903, 68.718008, 66.958862, 65.136436, 63.233183, 61.321827, 59.397612, 57.405607, 55.372212, 53.344732, 51.283979, 49.176999, 47.05716, 44.92315, 42.768083, 40.577774, 38.367145, 36.162597, 33.921988, 31.66278, 29.433932, 27.208785, 25.003011, 22.846217, 20.749532, 18.705578, 16.740837, 14.852849, 12.993374,\n    11.230657, 9.571503, 8.026405, 6.6034, 5.317899, 4.165887, 3.161054, 2.300859, 1.572431, 0.977982, 0.51571, 0.198895, 0.033277, 0];\n\n//Vector y carga\nvar y = [9.325307, 9.676723, 9.676723, 9.580882, 9.788537, 9.820484, 9.596856, 9.676723, 9.548935, 9.485041, 10.012166, 10.363582, 10.475396, 10.730972, 10.90668, 11.002521, 11.258096, 11.433804, 11.513671, 11.717333, 11.835137, 11.917001, 11.809181, 11.631476, 11.226149, 10.970574, 10.794866, 10.651104, 10.459423, 10.267741, 10.139953,\n    9.996192, 9.820484, 9.628803, 9.516988, 9.692696, 9.900351, 10.07606, 10.187874, 10.315662, 10.331635, 10.331635, 10.443449, 10.507343, 10.443449, 10.53929, 10.699025, 10.571237, 10.251768, 9.980219, 9.804511, 9.612829, 9.405174, 9.357254, 9.34128, 9.149599, 8.97389, 9.021811, 8.92597, 8.734288, 8.909997, 9.245439, 9.437121, 9.532962,\n    9.75659, 9.884378, 9.932298, 9.964245, 9.900351, 9.996192, 9.948272, 10.028139, 10.139953, 9.964245, 9.628803, 9.469068, 9.469068, 9.34128, 9.149599, 9.245439, 9.29336, 9.117652, 9.053758, 9.245439, 9.181545, 9.085705, 9.373227, 9.70867, 9.692696, 9.644776, 9.788537, 9.868405, 9.628803, 9.548935, 9.612829, 9.421147, 9.165572, 9.037784,\n    8.814156, 8.350925, 7.903668, 7.759907, 7.711987, 7.456411, 7.200836, 7.168889, 7.041101, 6.705658, 6.561897, 6.753579, 6.929287, 7.184862, 7.536279, 7.855748, 7.919642, 7.887695, 8.09535, 8.318978, 8.334952, 8.526633, 8.766235, 8.734288, 8.686368, 8.718315, 8.414819, 8.223138, 8.366899, 8.350925, 8.366899, 8.51066, 8.478713, 8.382872,\n    8.494686, 8.51066, 8.55858, 8.750262, 8.941944, 9.229466, 9.373227, 9.29336];\n\nvar Max_Desp_s = 0;\nvar Min_Desp_s = 0;\nvar Max_Carga_s = 0;\nvar Min_Carga_s = 0;\n\n//Se inicializa las variables con el valor de la posición 0 de cada vector.\nMax_Desp_s = x[0];\nMin_Desp_s = x[0];\nMax_Carga_s = y[0];\nMin_Carga_s = y[0];\n\nif (habilitadoCS == true && comunicacion == true) {\n    //visualizar estado del habilitado\n    node.status({ fill: \"green\", shape: \"dot\", text: \"habilitado\" });\n\n    //Condición de que el % sea mayor a 0 y menor a 100\n    if (Porcentaje_X > 0 && Porcentaje_Y > 0 && Porcentaje_X <= 100 && Porcentaje_Y <= 100) {\n\n        if (Disparo == false) {\n            Alert_Dinagrama = {payload:\"Verificando Punto de Operación, Por favor Espere\"};\n            //Encontrar el valor maximo y minimo del vector X.\n            for (var i = 0; i < x.length; i++) {\n                if (x[i] > Max_Desp_s) {\n                    Max_Desp_s = x[i];\n                }\n                if (x[i] < Min_Desp_s) {\n                    Min_Desp_s = x[i];\n                }\n            }\n            context.set(\"Min_Desp_s\", Min_Desp_s);//Seteo el minimo valor del vector X\n            context.set(\"Max_Desp_s\", Max_Desp_s);//Seteo el maximo valor del vector X\n\n            //Calcula el valor de X real\n            Point_X_Real = (((Max_Desp_s - Min_Desp_s) * Porcentaje_X) / 100.0) + Min_Desp_s;\n            flow.set(\"Point_X_Real\", Point_X_Real);//Seteo el valor hallado en la anterior ecucación\n\n            //Recorre el vector en busca del punto up y del punto down\n            for (var j = 0; j < x.length; j++) {\n                if (Actual_pos < x[j]) {\n                    if (Actual_pos > Point_X_Real && POC_aux == false) {\n                        POC_aux = true;\n                        POC_indice = j;\n                        context.set(\"POC_indice\", POC_indice);\n                    }\n                }\n                if (Actual_pos > x[j] && POC_aux == true) {\n                    if (Actual_pos < Point_X_Real && POC_aux2 == false) {\n                        POC_aux2 = true;\n                        POC_indice2 = j;\n                        context.set(\"POC_indice2\", POC_indice2);\n                    }\n\n                }\n                Actual_pos = x[j];\n                flow.set(\"Actual_pos\", Actual_pos);//Setea el valor que esta en la posición j del vector Y\n            }\n\n            POC_aux = false;//Indica evaluar de nuevo\n            flow.set(\"POC_aux\", POC_aux);\n            POC_aux2 = false;//Indica evaluar de nuevo\n            flow.set(\"POC_aux2\", POC_aux2);\n\n            //Indicar los puntos de up stroke y down stroke\n            POC_carga_arriba = y[POC_indice];//up\n            flow.set(\"POC_carga_arriba\",POC_carga_arriba);\n            POC_carga_abajo = y[POC_indice2];//down\n            flow.set(\"POC_carga_abajo\", POC_carga_abajo);\n\n            //Encontrar el valor maximo y minimo del vector Y.\n            for (var k = 0; k < y.length; k++) {\n                if (y[k] > Max_Carga_s) {\n                    Max_Carga_s = y[k];\n                }\n                if (y[k] < Min_Carga_s) {\n                    Min_Carga_s = y[k];\n                }\n            }\n            context.set(\"Min_Carga_s\", Min_Carga_s); //Seteo el minimo valor del vector Y\n            context.set(\"Max_Carga_s\", Max_Carga_s); //Seteo el maximo valor del vector Y\n\n            //Calcular el valor de Y real\n            Point_Y_Real = (((Max_Carga_s - Min_Carga_s) * Porcentaje_Y) / 100.0) + Min_Carga_s;\n            flow.set(\"Point_Y_Real\", Point_Y_Real);//Seteo el valor hallado en la anterior ecucación\n\n            //Evaluar si el punto esta por fuera o por dentro.\n            if (Point_Y_Real > POC_carga_arriba || Point_Y_Real < POC_carga_abajo) {\n                var POC_trigger = true;//Define si el punto está por fuera o por dentro\n                context.set(\"POC_trigger\", POC_trigger);\n                node.status({ fill: \"green\", shape: \"dot\", text: \"Fuera del rango\" });\n                Alert_Dinagrama2 = { payload: \"Fuera del rango\" };\n            } else {\n                POC_trigger = false;//Indica que el punto esta dentro del rango\n                node.status({ fill: \"green\", shape: \"dot\", text: \"punto dentro del rango\" });\n                Alert_Dinagrama2 = { payload: \"Dentro del rango\" };\n            }\n            //Contar el número de intentos\n            if (POC_actual <= Num_intentos) {\n                if (POC_trigger == true) {\n                    POC_actual += 1;\n                    flow.set(\"POC_actual\", POC_actual);\n                    Alert_intentos = {payload: POC_actual};\n                } else {\n                    POC_actual = 0;\n                    flow.set(\"POC_actual\", POC_actual);\n                }\n            }\n            \n            //Dsiparosi sobrepasa el número de intentos\n            if (POC_actual > Num_intentos) {\n                Alert_Dinagrama = { payload: \"Ha superado  el número de intentos, se apagará el equipo\" };\n                Disparo = true;//activa el disparo\n                flow.set(\"Control_functions.SurfaceControl.Disparo\", Disparo);\n                Estado_Dinagrama = { payload: false };//Apaga el equipo\n                POC_actual = 0;\n                flow.set(\"POC_actual\",POC_actual);\n                return [Disparo, Estado_Dinagrama, Alert_Dinagrama,Alert_Dinagrama2];\n            }\n            POC_trigger = false\n            context.set(\"POC_carga_arriba\", POC_carga_arriba);\n            context.set(\"Point_Y_Real\", Point_Y_Real);\n            \n        }\n        \n    }else{\n        Alert_Dinagrama = {payload:\"Valor % Erroneos\"};\n        return [Disparo, Estado_Dinagrama, Alert_Dinagrama,Alert_Dinagrama2];\n    }\n}else if(habilitadoCS == false){\n    Alert_Dinagrama2 = {payload:\".....\"};\n}\ncontext.set(\"Control_functions.SurfaceControl.Disparo\", Disparo);\ncontext.set(\"Estado_Dinagrama\",Estado_Dinagrama);\ncontext.set(\"POC_actual\",POC_actual);\nreturn [Disparo, Estado_Dinagrama, Alert_Dinagrama, Alert_Dinagrama2, Alert_intentos];\n\n",
+        "outputs": 5,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -103906,8 +103983,7 @@
         "y": 900,
         "wires": [
             [
-                "d51c027929acb706",
-                "b3a7e80e155ce75f"
+                "d51c027929acb706"
             ],
             [
                 "92a8a189b18c536e",
@@ -103917,7 +103993,10 @@
                 "52101cf0a1b74baf"
             ],
             [
-                "c7f8c9025eafeb10"
+                "e9c61a0f3498e72d"
+            ],
+            [
+                "b99f2acca02fb125"
             ]
         ]
     },
@@ -103933,8 +104012,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 180,
-        "y": 320,
+        "x": 200,
+        "y": 300,
         "wires": [
             [
                 "b5d4777974a036c2",
@@ -103970,8 +104049,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 560,
-        "y": 740,
+        "x": 640,
+        "y": 760,
         "wires": [
             []
         ]
@@ -103996,8 +104075,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 770,
-        "y": 800,
+        "x": 870,
+        "y": 840,
         "wires": [
             []
         ]
@@ -104017,7 +104096,7 @@
                 "vt": "str"
             }
         ],
-        "repeat": "20",
+        "repeat": "60",
         "crontab": "",
         "once": false,
         "onceDelay": 0.1,
@@ -104046,26 +104125,8 @@
         "raw": false,
         "topic": "Información del Control de Superficie",
         "name": "",
-        "x": 750,
-        "y": 840,
-        "wires": []
-    },
-    {
-        "id": "b3a7e80e155ce75f",
-        "type": "debug",
-        "z": "5b797a7252061594",
-        "g": "f4c2cbbaa70a9690",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": true,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "payload",
-        "statusType": "auto",
-        "x": 350,
-        "y": 760,
+        "x": 810,
+        "y": 880,
         "wires": []
     },
     {
@@ -104087,8 +104148,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 790,
-        "y": 760,
+        "x": 690,
+        "y": 800,
         "wires": [
             [
                 "1d42906b84ee26d8"
@@ -104125,8 +104186,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1100,
-        "y": 720,
+        "x": 840,
+        "y": 760,
         "wires": [
             [
                 "5cbb4190237e95e0"
@@ -104160,8 +104221,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1090,
-        "y": 760,
+        "x": 830,
+        "y": 800,
         "wires": [
             [
                 "5cbb4190237e95e0"
@@ -104174,8 +104235,8 @@
         "z": "5b797a7252061594",
         "g": "f4c2cbbaa70a9690",
         "name": "",
-        "x": 1320,
-        "y": 740,
+        "x": 980,
+        "y": 780,
         "wires": [
             [],
             []
@@ -104190,8 +104251,8 @@
         "links": [
             "c70bd67e0a25b87d"
         ],
-        "x": 1235,
-        "y": 620,
+        "x": 1315,
+        "y": 480,
         "wires": []
     },
     {
@@ -104220,8 +104281,8 @@
         "links": [
             "e560dfdfebe2fd7d"
         ],
-        "x": 1455,
-        "y": 480,
+        "x": 1595,
+        "y": 500,
         "wires": []
     },
     {
@@ -104233,7 +104294,7 @@
         "links": [
             "b6c43cb90db15418"
         ],
-        "x": 15,
+        "x": 55,
         "y": 620,
         "wires": [
             [
@@ -104250,8 +104311,8 @@
         "links": [
             "af1bda6ebd18d02c"
         ],
-        "x": 695,
-        "y": 720,
+        "x": 575,
+        "y": 800,
         "wires": [
             [
                 "30c6cdf8d0a1679b"
@@ -104267,28 +104328,8 @@
         "links": [
             "114ea3b0930f2d37"
         ],
-        "x": 215,
-        "y": 220,
-        "wires": []
-    },
-    {
-        "id": "c7f8c9025eafeb10",
-        "type": "ui_toast",
-        "z": "5b797a7252061594",
-        "g": "f4c2cbbaa70a9690",
-        "position": "top left",
-        "displayTime": "3",
-        "highlight": "",
-        "sendall": true,
-        "outputs": 0,
-        "ok": "OK",
-        "cancel": "",
-        "raw": false,
-        "className": "",
-        "topic": "Información del Control de Superficie",
-        "name": "",
-        "x": 750,
-        "y": 880,
+        "x": 235,
+        "y": 200,
         "wires": []
     },
     {
@@ -104308,12 +104349,48 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "x": 580,
+        "x": 640,
         "y": 880,
         "wires": [
             [
                 "cf71418b11170ffb"
             ]
         ]
+    },
+    {
+        "id": "e9c61a0f3498e72d",
+        "type": "ui_text",
+        "z": "5b797a7252061594",
+        "g": "f4c2cbbaa70a9690",
+        "group": "e7f56f40f21d5182",
+        "order": 18,
+        "width": 3,
+        "height": 1,
+        "name": "",
+        "label": "Punto de Operación:",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 680,
+        "y": 920,
+        "wires": []
+    },
+    {
+        "id": "b99f2acca02fb125",
+        "type": "ui_text",
+        "z": "5b797a7252061594",
+        "g": "f4c2cbbaa70a9690",
+        "group": "e7f56f40f21d5182",
+        "order": 22,
+        "width": 2,
+        "height": 1,
+        "name": "",
+        "label": "Intentos:",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 640,
+        "y": 960,
+        "wires": []
     }
 ]
