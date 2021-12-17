@@ -3246,8 +3246,7 @@
             "337b45b67a7e1518",
             "16aadb577f484ba8",
             "f9aa5d06fd27dc2c",
-            "444951382a661254",
-            "78f6ced11ef15429"
+            "444951382a661254"
         ],
         "x": 154,
         "y": 779,
@@ -3826,9 +3825,7 @@
             "44b52a5ca865f32a"
         ],
         "x": 114,
-        "y": 999,
-        "w": 862,
-        "h": 242
+        "y": 999
     },
     {
         "id": "65dbd90af70f1e98",
@@ -3857,9 +3854,7 @@
             "c9ef5029dfa1dca4"
         ],
         "x": 114,
-        "y": 599,
-        "w": 968,
-        "h": 375.5
+        "y": 599
     },
     {
         "id": "2ceb8ec502cd9a4d",
@@ -3886,9 +3881,7 @@
             "86a9047e4057bacf"
         ],
         "x": 1254,
-        "y": 599,
-        "w": 692,
-        "h": 322
+        "y": 599
     },
     {
         "id": "7fd14179472bdff0",
@@ -3920,9 +3913,7 @@
             "6f05a009383c5e7c"
         ],
         "x": 114,
-        "y": 279,
-        "w": 1332,
-        "h": 242
+        "y": 279
     },
     {
         "id": "b76c959d391c2570",
@@ -6039,9 +6030,7 @@
             "a6ae08b25206a8fb"
         ],
         "x": 154,
-        "y": 799,
-        "w": 902,
-        "h": 149.5
+        "y": 799
     },
     {
         "id": "a80677cf.4274c8",
@@ -84618,7 +84607,7 @@
         "z": "8c6f930882747645",
         "g": "0e5fc807c9fa372e",
         "name": "LogicaControlOnOff",
-        "func": "var habilitado = global.get(\"Control_functions.Controlon_off.habilitado\")||false;\nvar ton = global.get(\"Control_functions.Controlon_off.ton\") || 0;//tiempo de alta\nvar toff = global.get(\"Control_functions.Controlon_off.toff\") || 0;//tiempo de baja\nvar estado = global.get(\"Control_functions.Controlon_off.estado\") || false;//estado del equipo\nvar buttonComand = global.get(\"Control_functions.Controlon_off.buttonComand\") || false;//boton de arranque del sistema\nvar At_Setpt_Spd = global.get(\"C2S.Drive_Status.At_Setpt_Spd\",\"memoryOnly\")||0;//llegó a referencia el VSD\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\",\"memoryOnly\")||false;\nvar ctr = context.get(\"ctr\",ctr)||0;\nvar time = 0;\nvar flag = context.get(\"flag\",\"memoryOnly\")||false; //seteo de flag para identificar si ya ha llegado a la referencia\nif (habilitado == true && comunicacion == true) {\n    //visualizar estado del habilitado\n    node.status({ fill: \"green\", shape: \"dot\", text: \"habilitado\" });\n    if (toff != 0 && ton != 0) {\n        // logica para cambiar entre estados\n        if (estado == true && buttonComand == true ) {\n            node.status({ fill: \"green\", shape: \"dot\", text: estado });\n            if (At_Setpt_Spd == 1){//El VSD ya llegó a la referencia\n                ctr = ctr + 1;\n                flag = true;\n            }else if(flag == true){//seguir contando el tiempo\n                ctr = ctr + 1;\n            }\n            else{\n                ctr = ctr;//No aumente el tiempo\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = ton - ctr;\n            if (ton == ctr) {\n                global.set(\"Control_functions.Controlon_off.estado\", false);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > ton) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        } else if (estado == false && buttonComand == true){\n            node.status({ fill: \"red\", shape: \"dot\", text: estado });\n            if (At_Setpt_Spd == 0){//El VSD ya se paro\n                ctr = ctr + 1;\n                flag = false;//seteo de la flag\n            }\n            else{\n                ctr = ctr;\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = toff - ctr;\n            if (toff == ctr) {\n                global.set(\"Control_functions.Controlon_off.estado\", true);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > toff) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        }else {\n            estado = \"pausa\";\n            time = 0;\n        }\n\n    } else {\n        node.status({ fill: \"red\", shape: \"dot\", text: \"tiemposNoConfigurados\" });\n        time = 0;\n        estado = \"tiemposNoConfigurados\";\n        flag = false;\n    }\n} else if (habilitado == false && comunicacion == true) {\n    global.set(\"Control_functions.Controlon_off.estado\", true);\n    context.set(\"ctr\", 0)//setear el contador\n    time = time ;\n    estado = \"deshabilitado\";\n    flag = false\n    node.status({ fill: \"red\", shape: \"dot\", text: estado });\n}else if (comunicacion == false){\n    node.status({ fill: \"red\", shape: \"dot\", text: \"falloComunicacion\" });\n    global.set(\"Control_functions.Controlon_off.estado\", false);//setee el estado de activar en bajo\n    context.set(\"ctr\", 0)//setear el contador\n    time = 0;\n    estado = \"falloComunicacion\";\n    flag = false\n}\n// set variables\ncontext.set(\"habilitado\",habilitado,\"memoryOnly\");\ncontext.set(\"estado\",estado,\"memoryOnly\");\ncontext.set(\"toff\",toff,\"memoryOnly\");\ncontext.set(\"ton\",ton,\"memoryOnly\");\ncontext.set(\"time\",time,\"memoryOnly\");\ncontext.set(\"time\",time,\"memoryOnly\");\ncontext.set(\"buttonComand\", buttonComand,\"memoryOnly\");\ncontext.set(\"At_Setpt_Spd\", At_Setpt_Spd,\"memoryOnly\");\ncontext.set(\"flag\", flag,\"memoryOnly\");\n\ntime = { payload: time };\nestado = { payload: estado };\nreturn [estado, time];\n",
+        "func": "var habilitado = global.get(\"Control_functions.Controlon_off.habilitado\")||false;\nvar ton = global.get(\"Control_functions.Controlon_off.ton\") || 0;//tiempo de alta\nvar toff = global.get(\"Control_functions.Controlon_off.toff\") || 0;//tiempo de baja\nvar estado = global.get(\"Control_functions.Controlon_off.estado\") || false;//estado del equipo\nvar buttonComand = global.get(\"Control_functions.Controlon_off.buttonComand\") || false;//boton de arranque del sistema\nvar At_Setpt_Spd = global.get(\"C2S.Drive_Status.At_Setpt_Spd\",\"memoryOnly\")||0;//llegó a referencia el VSD\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\",\"memoryOnly\")||false;\n// flag de estado del arranque automatico\nvar AutomaticRestart = global.get(\"Control_functions.ActiveCF.AutomaticRestart\",\"memoryOnly\")||false;\nvar flagArranqueAutomatico = context.get(\"flagArranqueAutomatico\",\"memoryOnly\")||false;\nvar ctr = context.get(\"ctr\",ctr)||0;\nvar time = 0;\nvar flag = context.get(\"flag\",\"memoryOnly\")||false; //seteo de flag para identificar si ya ha llegado a la referencia\nif (habilitado == true && comunicacion == true) {\n    //visualizar estado del habilitado\n    node.status({ fill: \"green\", shape: \"dot\", text: \"habilitado\" });\n    if (toff != 0 && ton != 0) {\n        // logica para cambiar entre estados\n        if (AutomaticRestart == true && flagArranqueAutomatico == false){\n            node.status({ fill: \"yellow\", shape: \"dot\", text: \"esperandoArranque\" });\n            buttonComand = false;//se ejecuta una sola vez\n            estado = true;\n            flagArranqueAutomatico = true;//ya se ejecuto el arranque automatico\n        }else if(flagArranqueAutomatico == true){\n            buttonComand = true;//inicie la operación\n            flagArranqueAutomatico = false;\n        }\n        if (estado == true && buttonComand == true ) {\n            node.status({ fill: \"green\", shape: \"dot\", text: estado });\n            if (At_Setpt_Spd == 1){//El VSD ya llegó a la referencia\n                ctr = ctr + 1;\n                flag = true;\n            }else if(flag == true){//seguir contando el tiempo\n                ctr = ctr + 1;\n            }\n            else{\n                ctr = ctr;//No aumente el tiempo\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = ton - ctr;\n            if (ton == ctr) {\n                global.set(\"Control_functions.Controlon_off.estado\", false);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > ton) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        } else if (estado == false && buttonComand == true){\n            node.status({ fill: \"red\", shape: \"dot\", text: estado });\n            if (At_Setpt_Spd == 0){//El VSD ya se paro\n                ctr = ctr + 1;\n                flag = false;//seteo de la flag\n            }\n            else{\n                ctr = ctr;\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = toff - ctr;\n            if (toff == ctr) {\n                global.set(\"Control_functions.Controlon_off.estado\", true);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > toff) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        }else {\n            estado = \"pausa\";\n            time = 0;\n        }\n\n    } else {\n        node.status({ fill: \"red\", shape: \"dot\", text: \"tiemposNoConfigurados\" });\n        time = 0;\n        estado = \"tiemposNoConfigurados\";\n        flag = false;\n    }\n} else if (habilitado == false && comunicacion == true) {\n    global.set(\"Control_functions.Controlon_off.estado\", true);\n    context.set(\"ctr\", 0)//setear el contador\n    time = time ;\n    estado = \"deshabilitado\";\n    flag = false\n    node.status({ fill: \"red\", shape: \"dot\", text: estado });\n}else if (comunicacion == false){\n    node.status({ fill: \"red\", shape: \"dot\", text: \"falloComunicacion\" });\n    global.set(\"Control_functions.Controlon_off.estado\", false);//setee el estado de activar en bajo\n    context.set(\"ctr\", 0)//setear el contador\n    time = 0;\n    estado = \"falloComunicacion\";\n    flag = false\n}\n// set variables\ncontext.set(\"habilitado\",habilitado,\"memoryOnly\");\ncontext.set(\"estado\",estado,\"memoryOnly\");\ncontext.set(\"toff\",toff,\"memoryOnly\");\ncontext.set(\"ton\",ton,\"memoryOnly\");\ncontext.set(\"time\",time,\"memoryOnly\");\ncontext.set(\"time\",time,\"memoryOnly\");\ncontext.set(\"buttonComand\", buttonComand,\"memoryOnly\");\ncontext.set(\"At_Setpt_Spd\", At_Setpt_Spd,\"memoryOnly\");\ncontext.set(\"flag\", flag,\"memoryOnly\");\n\ntime = { payload: time };\nestado = { payload: estado };\nreturn [estado, time];\n",
         "outputs": 2,
         "noerr": 0,
         "initialize": "",
@@ -102857,23 +102846,5 @@
         "x": 710,
         "y": 820,
         "wires": []
-    },
-    {
-        "id": "78f6ced11ef15429",
-        "type": "function",
-        "z": "8c6f930882747645",
-        "g": "0e5fc807c9fa372e",
-        "name": "arranqueAutomatico",
-        "func": "\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 380,
-        "y": 900,
-        "wires": [
-            []
-        ]
     }
 ]
