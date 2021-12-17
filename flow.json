@@ -2660,7 +2660,9 @@
             "ca1808e9c0cebc54"
         ],
         "x": 52,
-        "y": 637
+        "y": 637,
+        "w": 3166,
+        "h": 2556
     },
     {
         "id": "3d603bc8c80c2124",
@@ -2680,7 +2682,9 @@
             "8f311859e2329cb0"
         ],
         "x": 54,
-        "y": 379
+        "y": 379,
+        "w": 902,
+        "h": 82
     },
     {
         "id": "4c1b2fd5bfa8819c",
@@ -2696,7 +2700,9 @@
             "af436d3d4e5d33de"
         ],
         "x": 42,
-        "y": 3227
+        "y": 3227,
+        "w": 3020,
+        "h": 1410
     },
     {
         "id": "600556d8bd2ccda4",
@@ -2761,7 +2767,9 @@
             "72c298a02ef42417"
         ],
         "x": 1094,
-        "y": 59
+        "y": 59,
+        "w": 2342,
+        "h": 532
     },
     {
         "id": "a9988da34f9622ff",
@@ -2788,7 +2796,9 @@
             "03552a6ae2d7be66"
         ],
         "x": 34,
-        "y": 39
+        "y": 39,
+        "w": 1032,
+        "h": 322
     },
     {
         "id": "474b22e105b31dff",
@@ -3259,7 +3269,9 @@
             "444951382a661254"
         ],
         "x": 154,
-        "y": 779
+        "y": 779,
+        "w": 1132,
+        "h": 342
     },
     {
         "id": "99fd9c5cbd90ceb5",
@@ -3276,7 +3288,9 @@
             "5e3e278f18c43297"
         ],
         "x": 154,
-        "y": 1159
+        "y": 1159,
+        "w": 492,
+        "h": 122
     },
     {
         "id": "aecdec289959a88b",
@@ -3306,7 +3320,9 @@
             "c029b9bec80247e8"
         ],
         "x": 154,
-        "y": 459
+        "y": 459,
+        "w": 1092,
+        "h": 282
     },
     {
         "id": "6c6732761a2613b5",
@@ -3712,7 +3728,9 @@
             "a0b90b4f54fbae9f"
         ],
         "x": 674,
-        "y": 1159
+        "y": 1159,
+        "w": 1142,
+        "h": 222
     },
     {
         "id": "9ff47da5fe193161",
@@ -3795,7 +3813,9 @@
             "d5eb026a704fd13b"
         ],
         "x": 154,
-        "y": 179
+        "y": 179,
+        "w": 1392,
+        "h": 162
     },
     {
         "id": "e4cabd2892b5651b",
@@ -3821,7 +3841,9 @@
             "44b52a5ca865f32a"
         ],
         "x": 114,
-        "y": 999
+        "y": 999,
+        "w": 862,
+        "h": 242
     },
     {
         "id": "65dbd90af70f1e98",
@@ -3850,7 +3872,9 @@
             "c9ef5029dfa1dca4"
         ],
         "x": 114,
-        "y": 599
+        "y": 599,
+        "w": 968,
+        "h": 375.5
     },
     {
         "id": "2ceb8ec502cd9a4d",
@@ -3877,7 +3901,9 @@
             "86a9047e4057bacf"
         ],
         "x": 1254,
-        "y": 599
+        "y": 599,
+        "w": 692,
+        "h": 322
     },
     {
         "id": "7fd14179472bdff0",
@@ -3909,7 +3935,9 @@
             "6f05a009383c5e7c"
         ],
         "x": 114,
-        "y": 279
+        "y": 279,
+        "w": 1332,
+        "h": 242
     },
     {
         "id": "b76c959d391c2570",
@@ -4028,7 +4056,9 @@
             "90db7ddb11817711"
         ],
         "x": 14,
-        "y": 419
+        "y": 419,
+        "w": 1632,
+        "h": 262
     },
     {
         "id": "162691d3abd26ddb",
@@ -4060,7 +4090,9 @@
             "4ba7844e7747726a"
         ],
         "x": 834,
-        "y": 139
+        "y": 139,
+        "w": 1102,
+        "h": 282
     },
     {
         "id": "bca72b7420df46a9",
@@ -4077,7 +4109,9 @@
             "d264a0cf20ef8465"
         ],
         "x": 34,
-        "y": 979
+        "y": 979,
+        "w": 492,
+        "h": 122
     },
     {
         "id": "f4c2cbbaa70a9690",
@@ -4109,7 +4143,9 @@
             "9c91555f5426d4fa"
         ],
         "x": 14,
-        "y": 739
+        "y": 739,
+        "w": 1252,
+        "h": 222
     },
     {
         "id": "fd781041a7a8fbec",
@@ -4140,7 +4176,9 @@
             "1fcb90134a8f3ddb"
         ],
         "x": -6,
-        "y": 99
+        "y": 99,
+        "w": 812,
+        "h": 302
     },
     {
         "id": "71f3a9d8fc88e0b6",
@@ -4196,12 +4234,14 @@
         },
         "nodes": [
             "19b1b4eb161c6ff9",
-            "f3725f49b1e49b20"
+            "f3725f49b1e49b20",
+            "6a9062bd190db550",
+            "df8e483d5526c510"
         ],
         "x": 124,
-        "y": 411.5,
-        "w": 362,
-        "h": 97
+        "y": 339,
+        "w": 422,
+        "h": 169.5
     },
     {
         "id": "0e0b9759209dfb2f",
@@ -4226,12 +4266,15 @@
             "15c1e0773b168946",
             "9696f09381a60de7",
             "58fbed31930cda5b",
-            "2c118930b46d3082"
+            "2c118930b46d3082",
+            "c4690bdaf9d079a9",
+            "053889d47fbf2da6",
+            "16c476702b10173c"
         ],
         "x": 334,
         "y": 779,
-        "w": 572,
-        "h": 282
+        "w": 592,
+        "h": 322
     },
     {
         "id": "07f02b70dd167ae5",
@@ -4250,9 +4293,54 @@
             "4d5f8287ab4ef699"
         ],
         "x": 334,
-        "y": 1079,
+        "y": 1119,
         "w": 912,
         "h": 102
+    },
+    {
+        "id": "7d20e2da985dd33b",
+        "type": "group",
+        "z": "29bf75edf21541c4",
+        "name": "Simular",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "cf0d339c5e409c52",
+            "806bf1b9eefa1219",
+            "69a889a8cd8d4fc7",
+            "9241969966300523",
+            "a142cd930e28191e",
+            "040b83ef654b39e2",
+            "0c8aedf11c2f50af",
+            "dc483fcd7b3e9cd8",
+            "57d5f08136554ce9",
+            "e006cde8fe53d84f",
+            "8379ae719076bc5b",
+            "b8bf43fb333c88c5",
+            "17f0cfed3a423e5f"
+        ],
+        "x": 94,
+        "y": 1299,
+        "w": 1042,
+        "h": 222
+    },
+    {
+        "id": "27eadf663f119ea4",
+        "type": "group",
+        "z": "29bf75edf21541c4",
+        "name": "Simulación de Data",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "1d57ea6914ce1d68",
+            "0e9820a7fbc95a17"
+        ],
+        "x": 754,
+        "y": 339,
+        "w": 322,
+        "h": 82
     },
     {
         "id": "1306de9a.9ba341",
@@ -5547,7 +5635,9 @@
             "0d3271d48cdd3dc2"
         ],
         "x": 78,
-        "y": 673
+        "y": 673,
+        "w": 1724,
+        "h": 2494
     },
     {
         "id": "ca1808e9c0cebc54",
@@ -5565,7 +5655,9 @@
             "acf6618644660324"
         ],
         "x": 1828,
-        "y": 663
+        "y": 663,
+        "w": 1364,
+        "h": 1536.5
     },
     {
         "id": "eae7b72d553551bc",
@@ -5582,7 +5674,9 @@
             "7d3d6fba6fb45cf5"
         ],
         "x": 68,
-        "y": 3253
+        "y": 3253,
+        "w": 1284,
+        "h": 894
     },
     {
         "id": "af436d3d4e5d33de",
@@ -5659,7 +5753,9 @@
             "9f7b833ed93f0cc5"
         ],
         "x": 1368,
-        "y": 3263
+        "y": 3263,
+        "w": 1668,
+        "h": 1348
     },
     {
         "id": "b1830307.ee865",
@@ -6138,7 +6234,9 @@
             "a6ae08b25206a8fb"
         ],
         "x": 154,
-        "y": 799
+        "y": 799,
+        "w": 902,
+        "h": 149.5
     },
     {
         "id": "a80677cf.4274c8",
@@ -6975,7 +7073,9 @@
             "5da923b060b7d724"
         ],
         "x": 104,
-        "y": 699
+        "y": 699,
+        "w": 1242,
+        "h": 862
     },
     {
         "id": "b670eeac81e3a4e1",
@@ -7005,7 +7105,9 @@
             "6b6e6135b877d85a"
         ],
         "x": 124,
-        "y": 2959
+        "y": 2959,
+        "w": 862,
+        "h": 182
     },
     {
         "id": "404043e2f2ac38f5",
@@ -7061,7 +7163,9 @@
             "da3df13ea266ba47"
         ],
         "x": 1854,
-        "y": 689
+        "y": 689,
+        "w": 1292,
+        "h": 718
     },
     {
         "id": "acf6618644660324",
@@ -7128,7 +7232,9 @@
             "8daf2335c61c98d8"
         ],
         "x": 1874,
-        "y": 1519
+        "y": 1519,
+        "w": 1292,
+        "h": 654.5
     },
     {
         "id": "0d3271d48cdd3dc2",
@@ -7339,7 +7445,9 @@
             "f26884a752f635f5"
         ],
         "x": 114,
-        "y": 1579
+        "y": 1579,
+        "w": 1662,
+        "h": 1322
     },
     {
         "id": "7d3d6fba6fb45cf5",
@@ -7406,7 +7514,9 @@
             "43e435b1bf98945c"
         ],
         "x": 94,
-        "y": 3279
+        "y": 3279,
+        "w": 1232,
+        "h": 842
     },
     {
         "id": "01d2b2ec2f34b6be",
@@ -7445,7 +7555,9 @@
             "d4e43509215bf215"
         ],
         "x": 1394,
-        "y": 3289
+        "y": 3289,
+        "w": 1232,
+        "h": 322
     },
     {
         "id": "b4a46197db30977b",
@@ -7485,7 +7597,9 @@
             "592f8a1403a12574"
         ],
         "x": 1394,
-        "y": 3609
+        "y": 3609,
+        "w": 722,
+        "h": 442
     },
     {
         "id": "36fa9c99094e8f47",
@@ -7605,35 +7719,9 @@
             "43a7fe4169e0b657"
         ],
         "x": 2394,
-        "y": 1179
-    },
-    {
-        "id": "7d20e2da985dd33b",
-        "type": "group",
-        "z": "29bf75edf21541c4",
-        "name": "Simular",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "cf0d339c5e409c52",
-            "806bf1b9eefa1219",
-            "69a889a8cd8d4fc7",
-            "9241969966300523",
-            "a142cd930e28191e",
-            "040b83ef654b39e2",
-            "0c8aedf11c2f50af",
-            "dc483fcd7b3e9cd8",
-            "57d5f08136554ce9",
-            "e006cde8fe53d84f",
-            "8379ae719076bc5b",
-            "b8bf43fb333c88c5",
-            "17f0cfed3a423e5f"
-        ],
-        "x": 114,
-        "y": 1239,
-        "w": 1042,
-        "h": 222
+        "y": 1179,
+        "w": 572,
+        "h": 202
     },
     {
         "id": "d25d405a.19cff",
@@ -84712,6 +84800,7 @@
         "id": "46db26d7af2e0781",
         "type": "link in",
         "z": "8c6f930882747645",
+        "d": true,
         "g": "99fd9c5cbd90ceb5",
         "name": "TendenciaPumpOffController",
         "links": [
@@ -97492,7 +97581,7 @@
         "z": "edcda77493e16eaa",
         "g": "acf6618644660324",
         "name": "Limpiar CARGA",
-        "func": "var ES = Object.values(flow.get(\"ES.EA.Funciones.Lista_Simple\"));\nvar status = ES.indexOf(\"CARGA\");\n\nif(status != -1){\n    return;\n} \nelse{\n    return {'payload':0};\n}",
+        "func": "var ES = Object.values(flow.get(\"ES.EA.Funciones.Lista_Simple\")||0);\nvar status = ES.indexOf(\"CARGA\");\n\nif(status != -1){\n    return;\n} \nelse{\n    return {'payload':0};\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -100339,6 +100428,7 @@
         "id": "ae99f68c08d8c44b",
         "type": "link in",
         "z": "830fadc6f5236b78",
+        "d": true,
         "g": "2ceb8ec502cd9a4d",
         "name": "TendenciaPumpOffController",
         "links": [
@@ -101740,7 +101830,7 @@
         "z": "5b797a7252061594",
         "g": "bca72b7420df46a9",
         "name": "",
-        "active": true,
+        "active": false,
         "tosidebar": true,
         "console": false,
         "tostatus": true,
@@ -103091,7 +103181,7 @@
         "z": "29bf75edf21541c4",
         "g": "abfc5c293f394682",
         "name": "logic",
-        "func": "var habilitado = global.get(\"Control_functions.ControlDownhole.habilitado\")||false;\nvar time = global.get(\"Control_functions.ControlDownhole.time\")||0;\nvar LL = global.get(\"Control_functions.ControlDownhole.LL\")||0;\nvar L = global.get(\"Control_functions.ControlDownhole.L\")||0;\nvar Fillage = global.get(\"Control_functions.ControlDownhole.Fillage\")||0;\nvar estado,contador,comando,color;//Variables Visualizadoras\nif(habilitado == true){\n    estado = \"habilitado\";color = \"green\";\n}else{\n    estado = \"deshabilitado\";color = \"red\";\n}\n\nnode.status({fill:color,shape:\"dot\",text:estado});\ncontext.set(\"habilitado\", habilitado,\"memoryOnly\");\n\nreturn [{payload:comando},{payload:estado}, { payload:contador}];",
+        "func": "var habilitado = global.get(\"Control_functions.ControlDownhole.habilitado\")||false;\nvar time = global.get(\"Control_functions.ControlDownhole.time\")||0;\nvar LL = global.get(\"Control_functions.ControlDownhole.LL\")||0;\nvar L = global.get(\"Control_functions.ControlDownhole.L\")||0;\nvar Fillage = global.get(\"Control_functions.ControlDownhole.Fillage\")||0;\nvar preFillage = context.get(\"preFillage\",\"memoryOnly\")||0;\nvar estado,contador,comando,color;//Variables Visualizadoras\nif(habilitado == true){\n    estado = \"habilitado\";color = \"green\";\n    // validacion de los limites\n\n}else{\n    estado = \"deshabilitado\";color = \"red\";\n}\n\nnode.status({fill:color,shape:\"dot\",text:estado});\ncontext.set(\"habilitado\", habilitado,\"memoryOnly\");\n\nreturn [{payload:comando},{payload:estado}, { payload:contador}];",
         "outputs": 3,
         "noerr": 0,
         "initialize": "",
@@ -103341,7 +103431,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 420,
-        "y": 1140,
+        "y": 1180,
         "wires": [
             [
                 "5a120549fd249ab0"
@@ -103363,7 +103453,8 @@
             [
                 "e7512774416a9544",
                 "58fbed31930cda5b",
-                "2c118930b46d3082"
+                "2c118930b46d3082",
+                "16c476702b10173c"
             ]
         ]
     },
@@ -103443,7 +103534,7 @@
         "topic": "",
         "name": "SPM",
         "x": 690,
-        "y": 1140,
+        "y": 1180,
         "wires": [
             [
                 "6b38f10a1ac11889"
@@ -103474,7 +103565,7 @@
         "repair": false,
         "outputs": 2,
         "x": 810,
-        "y": 1140,
+        "y": 1180,
         "wires": [
             [
                 "4785a528a2131ee5"
@@ -103495,7 +103586,7 @@
         "finalize": "",
         "libs": [],
         "x": 560,
-        "y": 1140,
+        "y": 1180,
         "wires": [
             [
                 "665c4cd99575e4bf"
@@ -103507,15 +103598,15 @@
         "type": "function",
         "z": "29bf75edf21541c4",
         "g": "07f02b70dd167ae5",
-        "name": "ActualizarTiempo",
-        "func": "// adquision del tiempo \nvar segundos = flow.get(\"segundos\",\"memoryOnly\")||0;\nvar minutos = flow.get(\"minutos\",\"memoryOnly\")||0;\nvar horas = flow.get(\"horas\",\"memoryOnly\")||0;\nvar time = horas*3600+(minutos*60)+segundos;\nglobal.set(\"Control_functions.ControlDownhole.time\",time);\n// adquisión de los niveles de alarma\nvar L = flow.get(\"L\",\"memoryOnly\")||0;\nvar LL = flow.get(\"LL\",\"memoryOnly\")||0; \nglobal.set(\"Control_functions.ControlDownhole.L\", L);\nglobal.set(\"Control_functions.ControlDownhole.LL\", LL);\nif(segundos == 0 && minutos == 0 && segundos == 0 && L == 0 && LL == 0){\n    msg.payload = \"Los valores seteados estan en Cero\";\n    msg.topic = \"Alerta\";\n}else{\n    msg.payload = \"Valores Guardados\";\n    msg.topic = \"Guardando\";\n}\nreturn msg;",
+        "name": "ActualizarData",
+        "func": "// adquision del tiempo \nvar segundos = flow.get(\"segundos\",\"memoryOnly\")||0;\nvar minutos = flow.get(\"minutos\",\"memoryOnly\")||0;\nvar horas = flow.get(\"horas\",\"memoryOnly\")||0;\nvar time = horas*3600+(minutos*60)+segundos;\nglobal.set(\"Control_functions.ControlDownhole.time\",time);\n// adquisión de los niveles de alarma\nvar L = flow.get(\"L\",\"memoryOnly\")||0;\nvar LL = flow.get(\"LL\",\"memoryOnly\")||0; \nvar intentosHMI = flow.get(\"intentosHMI\",\"memoryOnly\")||0;\nglobal.set(\"Control_functions.ControlDownhole.L\", L);\nglobal.set(\"Control_functions.ControlDownhole.LL\", LL);\nglobal.set(\"Control_functions.ControlDownhole.intentosHMI\", LL);\nif(segundos == 0 && minutos == 0 && segundos == 0 && L == 0 && LL == 0){\n    msg.payload = \"Los valores seteados estan en Cero\";\n    msg.topic = \"Alerta\";\n}else{\n    msg.payload = \"Valores Guardados\";\n    msg.topic = \"Guardando\";\n}\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 990,
-        "y": 1120,
+        "x": 980,
+        "y": 1160,
         "wires": [
             [
                 "4d5f8287ab4ef699"
@@ -103539,7 +103630,7 @@
         "topic": "",
         "name": "alert",
         "x": 1170,
-        "y": 1120,
+        "y": 1160,
         "wires": []
     },
     {
@@ -103724,8 +103815,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 990,
-        "y": 1280,
+        "x": 970,
+        "y": 1340,
         "wires": [
             [
                 "b8bf43fb333c88c5"
@@ -103742,8 +103833,8 @@
             "b8bf43fb333c88c5",
             "ad87cee4.7dbb5"
         ],
-        "x": 155,
-        "y": 1360,
+        "x": 135,
+        "y": 1420,
         "wires": [
             [
                 "69a889a8cd8d4fc7"
@@ -103770,8 +103861,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 260,
-        "y": 1360,
+        "x": 240,
+        "y": 1420,
         "wires": [
             [
                 "17f0cfed3a423e5f"
@@ -103794,8 +103885,8 @@
         "className": "",
         "topic": "¿Desea Simular?",
         "name": "confirm",
-        "x": 700,
-        "y": 1320,
+        "x": 680,
+        "y": 1380,
         "wires": [
             [
                 "a142cd930e28191e"
@@ -103825,8 +103916,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 850,
-        "y": 1320,
+        "x": 830,
+        "y": 1380,
         "wires": [
             [
                 "cf0d339c5e409c52"
@@ -103856,8 +103947,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 990,
-        "y": 1340,
+        "x": 970,
+        "y": 1400,
         "wires": [
             [
                 "b8bf43fb333c88c5"
@@ -103883,8 +103974,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 570,
-        "y": 1360,
+        "x": 550,
+        "y": 1420,
         "wires": [
             [
                 "9241969966300523"
@@ -103910,8 +104001,8 @@
         "className": "",
         "topic": "¿Desea Desactivar Simulacion?",
         "name": "confirm",
-        "x": 700,
-        "y": 1380,
+        "x": 680,
+        "y": 1440,
         "wires": [
             [
                 "57d5f08136554ce9"
@@ -103941,8 +104032,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 830,
-        "y": 1380,
+        "x": 810,
+        "y": 1440,
         "wires": [
             [
                 "e006cde8fe53d84f"
@@ -103972,8 +104063,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 990,
-        "y": 1380,
+        "x": 970,
+        "y": 1440,
         "wires": [
             [
                 "b8bf43fb333c88c5"
@@ -104000,8 +104091,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 980,
-        "y": 1420,
+        "x": 960,
+        "y": 1480,
         "wires": [
             [
                 "b8bf43fb333c88c5"
@@ -104017,8 +104108,8 @@
         "links": [
             "806bf1b9eefa1219"
         ],
-        "x": 1115,
-        "y": 1340,
+        "x": 1095,
+        "y": 1400,
         "wires": []
     },
     {
@@ -104048,11 +104139,185 @@
         "offcolor": "",
         "animate": false,
         "className": "",
-        "x": 410,
-        "y": 1360,
+        "x": 390,
+        "y": 1420,
         "wires": [
             [
                 "0c8aedf11c2f50af"
+            ]
+        ]
+    },
+    {
+        "id": "1d57ea6914ce1d68",
+        "type": "ui_slider",
+        "z": "29bf75edf21541c4",
+        "g": "27eadf663f119ea4",
+        "name": "",
+        "label": "slider",
+        "tooltip": "",
+        "group": "5ad0dad73b82700f",
+        "order": 9,
+        "width": "3",
+        "height": "1",
+        "passthru": true,
+        "outs": "all",
+        "topic": "topic",
+        "topicType": "msg",
+        "min": 0,
+        "max": "100",
+        "step": 1,
+        "className": "",
+        "x": 830,
+        "y": 380,
+        "wires": [
+            [
+                "0e9820a7fbc95a17"
+            ]
+        ]
+    },
+    {
+        "id": "0e9820a7fbc95a17",
+        "type": "function",
+        "z": "29bf75edf21541c4",
+        "g": "27eadf663f119ea4",
+        "name": "simulacion",
+        "func": "var simulacion = global.get(\"Control_functions.ControlDownhole.simulacion\")||false;\nif(simulacion == true){\n    global.set(\"Control_functions.ControlDownhole.Fillage\",msg.payload);\n    return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 980,
+        "y": 380,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6a9062bd190db550",
+        "type": "function",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "DeterminarDisparo",
+        "func": "var habilitado = global.get(\"Control_functions.ControlDownhole.habilitado\") || false;\nvar LL = global.get(\"Control_functions.ControlDownhole.LL\") || 0;\nvar L = global.get(\"Control_functions.ControlDownhole.L\") || 0;\nvar Fillage = global.get(\"Control_functions.ControlDownhole.Fillage\") || 0;\nvar intentosHMI = global.get(\"Control_functions.ControlDownhole.intentosHMI\") || 0;\nvar intentos = context.get(\"intentos\",\"memoryOnly\")||0;\nvar estado,color;\nif(habilitado == true){\n    estado = \"habilitado\";color = \"green\";\n    if(Fillage <= LL){//aumentar intento\n        intentos = intentos + 1;\n        global.set(\"Control_functions.ControlDownhole.intentos\", intentos);\n        if (intentos >= intentosHMI){//genere el disparo\n            msg.payload = \"Disparo Poc DownholeControl\";\n            msg.topic = \"Poc Control\";\n            intentos = 0; // setee el contador\n        }\n    }else if(Fillage <= L){//Alarma por bajo \n        msg.payload = \"Alarma Poc DownholeControl\";\n        msg.topic = \"Poc Control\";\n    }\n    node.status({fill:color,shape:\"ring\",text:estado});\n    context.set(\"intentos\", intentos,\"memoryOnly\");\n    context.set(\"intentosHMI\", intentosHMI,\"memoryOnly\");\n    context.set(\"mensaje\", msg.payload,\"memoryOnly\");\n    return msg;\n}else{\n    estado = \"Deshabilitado\";color = \"red\";\n}\n\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 380,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "df8e483d5526c510",
+        "type": "inject",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "4",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payloadType": "date",
+        "x": 250,
+        "y": 380,
+        "wires": [
+            [
+                "6a9062bd190db550"
+            ]
+        ]
+    },
+    {
+        "id": "c4690bdaf9d079a9",
+        "type": "ui_text_input",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "intentosHMI",
+        "label": "#Intentos",
+        "tooltip": "",
+        "group": "5ad0dad73b82700f",
+        "order": 2,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": 300,
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 670,
+        "y": 1060,
+        "wires": [
+            [
+                "053889d47fbf2da6"
+            ]
+        ]
+    },
+    {
+        "id": "053889d47fbf2da6",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "intentosHMI",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::intentosHMI",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 830,
+        "y": 1060,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "16c476702b10173c",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "L",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Control_functions.ControlDownhole.intentosHMI",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 490,
+        "y": 1060,
+        "wires": [
+            [
+                "c4690bdaf9d079a9"
             ]
         ]
     }
