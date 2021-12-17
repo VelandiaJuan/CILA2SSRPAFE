@@ -147,16 +147,16 @@
         "info": ""
     },
     {
-        "id": "5b797a7252061594",
+        "id": "29bf75edf21541c4",
         "type": "tab",
-        "label": "SurfaceControl",
+        "label": "downholeControl",
         "disabled": false,
         "info": ""
     },
     {
-        "id": "29bf75edf21541c4",
+        "id": "5b797a7252061594",
         "type": "tab",
-        "label": "downholeControl",
+        "label": "SurfaceControl",
         "disabled": false,
         "info": ""
     },
@@ -880,7 +880,7 @@
         "type": "subflow",
         "name": "ConversionSPM",
         "info": "",
-        "category": "",
+        "category": "conversion",
         "in": [
             {
                 "x": 40,
@@ -905,7 +905,10 @@
             }
         ],
         "env": [],
-        "meta": {},
+        "meta": {
+            "module": "ConversionSPM",
+            "type": "conversion"
+        },
         "color": "#DDAA99"
     },
     {
@@ -1035,9 +1038,7 @@
             "0d7d36d911e2cbb3"
         ],
         "x": 24,
-        "y": 609,
-        "w": 2632,
-        "h": 552
+        "y": 609
     },
     {
         "id": "3cb51855.a66038",
@@ -1052,9 +1053,7 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169,
-        "w": 232,
-        "h": 82
+        "y": 1169
     },
     {
         "id": "27a0641a.d154dc",
@@ -2040,9 +2039,7 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269,
-        "w": 352,
-        "h": 82
+        "y": 1269
     },
     {
         "id": "6202107f.ed9aa",
@@ -2114,9 +2111,7 @@
             "7035c5bac0894530"
         ],
         "x": 44,
-        "y": -21,
-        "w": 1992,
-        "h": 622
+        "y": -21
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -2150,9 +2145,7 @@
             "17c1f84a5b3ad8ad"
         ],
         "x": 3224,
-        "y": 19,
-        "w": 1284,
-        "h": 1708
+        "y": 19
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -2173,9 +2166,7 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169,
-        "w": 782,
-        "h": 182
+        "y": 1169
     },
     {
         "id": "086b9d08c3b68939",
@@ -2206,9 +2197,7 @@
             "9661d016b799c47d"
         ],
         "x": 24,
-        "y": 1359,
-        "w": 1022,
-        "h": 292
+        "y": 1359
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -2234,9 +2223,7 @@
             "6e75b5f5657d3a7e"
         ],
         "x": 24,
-        "y": 1679,
-        "w": 1132,
-        "h": 202
+        "y": 1679
     },
     {
         "id": "afdbbb533d628687",
@@ -2252,9 +2239,7 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679,
-        "w": 332,
-        "h": 82
+        "y": 1679
     },
     {
         "id": "ba075c8cc622876a",
@@ -3317,7 +3302,8 @@
             "8882cfc722ea1459",
             "3382bad7b114f1e6",
             "64b02a4c080ef7e5",
-            "601364caf3d1d399"
+            "601364caf3d1d399",
+            "c029b9bec80247e8"
         ],
         "x": 154,
         "y": 459
@@ -3700,9 +3686,7 @@
             "d3fc647f21f7d8eb"
         ],
         "x": 254,
-        "y": 1939,
-        "w": 532,
-        "h": 142
+        "y": 1939
     },
     {
         "id": "5519b13db7a1857a",
@@ -3793,14 +3777,9 @@
         "id": "b3c73c66a9a23564",
         "type": "group",
         "z": "8c6f930882747645",
+        "name": "Actualización de Datos",
         "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
+            "label": true
         },
         "nodes": [
             "7ee511cdb739a5fb",
@@ -4049,9 +4028,7 @@
             "90db7ddb11817711"
         ],
         "x": 14,
-        "y": 419,
-        "w": 1632,
-        "h": 262
+        "y": 419
     },
     {
         "id": "162691d3abd26ddb",
@@ -4083,9 +4060,7 @@
             "4ba7844e7747726a"
         ],
         "x": 834,
-        "y": 139,
-        "w": 1102,
-        "h": 282
+        "y": 139
     },
     {
         "id": "bca72b7420df46a9",
@@ -4102,9 +4077,7 @@
             "d264a0cf20ef8465"
         ],
         "x": 34,
-        "y": 979,
-        "w": 492,
-        "h": 122
+        "y": 979
     },
     {
         "id": "f4c2cbbaa70a9690",
@@ -4136,9 +4109,7 @@
             "9c91555f5426d4fa"
         ],
         "x": 14,
-        "y": 739,
-        "w": 1252,
-        "h": 222
+        "y": 739
     },
     {
         "id": "fd781041a7a8fbec",
@@ -4169,9 +4140,119 @@
             "1fcb90134a8f3ddb"
         ],
         "x": -6,
-        "y": 99,
-        "w": 812,
-        "h": 302
+        "y": 99
+    },
+    {
+        "id": "71f3a9d8fc88e0b6",
+        "type": "group",
+        "z": "29bf75edf21541c4",
+        "name": "Visual DownholeControl",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "f4c9c3723cd71f51"
+        ],
+        "x": 134,
+        "y": 779,
+        "w": 172,
+        "h": 82
+    },
+    {
+        "id": "73546535bd657e5f",
+        "type": "group",
+        "z": "29bf75edf21541c4",
+        "name": "habilitar y notificaciones",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "ced12ce9e0972ff3",
+            "d0bd353a8ba51cbe",
+            "e1b89909d96fe783",
+            "d1a5e195d17f0ddc",
+            "c865addd37166432",
+            "62268d3397b6364b",
+            "b36558086ba90ba7",
+            "f6f1bab08276e2ab",
+            "68b3c91504be4a88",
+            "3abe5558b5b3860e",
+            "3f5376850997a18e",
+            "8b6795e7e350310b",
+            "bb22ffcb688c15d2"
+        ],
+        "x": 134,
+        "y": 539,
+        "w": 1042,
+        "h": 222
+    },
+    {
+        "id": "abfc5c293f394682",
+        "type": "group",
+        "z": "29bf75edf21541c4",
+        "name": "LogicaDownholeControl",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "19b1b4eb161c6ff9",
+            "f3725f49b1e49b20"
+        ],
+        "x": 124,
+        "y": 411.5,
+        "w": 362,
+        "h": 97
+    },
+    {
+        "id": "0e0b9759209dfb2f",
+        "type": "group",
+        "z": "29bf75edf21541c4",
+        "name": "Adquision de Valores",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "60e05cf6d23d5a62",
+            "da18049a93fd08ce",
+            "fabc8904f925bf1a",
+            "e73ea06d928d93fc",
+            "27b6e126d7be66ee",
+            "b653c185a1701b36",
+            "e7512774416a9544",
+            "2cb88eaf70893679",
+            "ef0728cdc37ecb09",
+            "72d9d930aa80e772",
+            "adf840b123b41585",
+            "15c1e0773b168946",
+            "9696f09381a60de7",
+            "58fbed31930cda5b",
+            "2c118930b46d3082"
+        ],
+        "x": 334,
+        "y": 779,
+        "w": 572,
+        "h": 282
+    },
+    {
+        "id": "07f02b70dd167ae5",
+        "type": "group",
+        "z": "29bf75edf21541c4",
+        "name": "ConfirmaciónData",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "8a7b53380e66ae12",
+            "5a120549fd249ab0",
+            "665c4cd99575e4bf",
+            "6b38f10a1ac11889",
+            "4785a528a2131ee5",
+            "4d5f8287ab4ef699"
+        ],
+        "x": 334,
+        "y": 1079,
+        "w": 912,
+        "h": 102
     },
     {
         "id": "1306de9a.9ba341",
@@ -4854,9 +4935,7 @@
             "1a666ca6835d2d34"
         ],
         "x": 74,
-        "y": 399,
-        "w": 852,
-        "h": 132
+        "y": 399
     },
     {
         "id": "cf985e84.c7693",
@@ -5810,9 +5889,7 @@
             "26836fe8d310f685"
         ],
         "x": 3428,
-        "y": 413,
-        "w": 1054,
-        "h": 758
+        "y": 413
     },
     {
         "id": "7bc9759a9a7ea0be",
@@ -5867,9 +5944,7 @@
             "09240a88f66b7c6f"
         ],
         "x": 3434,
-        "y": 1179,
-        "w": 992,
-        "h": 522
+        "y": 1179
     },
     {
         "id": "dad84feb.d4773",
@@ -7434,9 +7509,7 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 439,
-        "w": 402,
-        "h": 362
+        "y": 439
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -7464,9 +7537,7 @@
             "1f3630da2492d4f9"
         ],
         "x": 3454,
-        "y": 809,
-        "w": 1002,
-        "h": 212
+        "y": 809
     },
     {
         "id": "b6e70888e2a92a81",
@@ -7535,6 +7606,34 @@
         ],
         "x": 2394,
         "y": 1179
+    },
+    {
+        "id": "7d20e2da985dd33b",
+        "type": "group",
+        "z": "29bf75edf21541c4",
+        "name": "Simular",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "cf0d339c5e409c52",
+            "806bf1b9eefa1219",
+            "69a889a8cd8d4fc7",
+            "9241969966300523",
+            "a142cd930e28191e",
+            "040b83ef654b39e2",
+            "0c8aedf11c2f50af",
+            "dc483fcd7b3e9cd8",
+            "57d5f08136554ce9",
+            "e006cde8fe53d84f",
+            "8379ae719076bc5b",
+            "b8bf43fb333c88c5",
+            "17f0cfed3a423e5f"
+        ],
+        "x": 114,
+        "y": 1239,
+        "w": 1042,
+        "h": 222
     },
     {
         "id": "d25d405a.19cff",
@@ -8618,7 +8717,7 @@
         "type": "ui_group",
         "name": "Tendencia",
         "tab": "df82a9eeeb3d8a7c",
-        "order": 8,
+        "order": 9,
         "disp": true,
         "width": "8",
         "collapse": false
@@ -8628,7 +8727,7 @@
         "type": "ui_group",
         "name": "Control",
         "tab": "df82a9eeeb3d8a7c",
-        "order": 9,
+        "order": 11,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -8658,7 +8757,7 @@
         "type": "ui_group",
         "name": "Sintonización",
         "tab": "df82a9eeeb3d8a7c",
-        "order": 11,
+        "order": 13,
         "disp": true,
         "width": "12",
         "collapse": false
@@ -9226,7 +9325,7 @@
         "type": "ui_group",
         "name": "Status_Bar",
         "tab": "df82a9eeeb3d8a7c",
-        "order": 16,
+        "order": 17,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -9736,7 +9835,7 @@
         "type": "ui_group",
         "name": "PumpOff",
         "tab": "df82a9eeeb3d8a7c",
-        "order": 7,
+        "order": 8,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -9804,7 +9903,7 @@
         "type": "ui_group",
         "name": "VelocidadDoble",
         "tab": "df82a9eeeb3d8a7c",
-        "order": 9,
+        "order": 12,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -9824,7 +9923,7 @@
         "type": "ui_group",
         "name": "surfaceControl",
         "tab": "df82a9eeeb3d8a7c",
-        "order": 8,
+        "order": 10,
         "disp": true,
         "width": "12",
         "collapse": false
@@ -10593,7 +10692,7 @@
         "type": "ui_group",
         "name": "downholeControl",
         "tab": "df82a9eeeb3d8a7c",
-        "order": 17,
+        "order": 16,
         "disp": true,
         "width": "12",
         "collapse": false
@@ -58435,7 +58534,10 @@
             "5a2971a54a238a55",
             "e3610e70df32ce6e",
             "24d112a4a561706b",
-            "1fee5b8b9ef43b98"
+            "1fee5b8b9ef43b98",
+            "d0bd353a8ba51cbe",
+            "2cb88eaf70893679",
+            "806bf1b9eefa1219"
         ],
         "x": 335,
         "y": 320,
@@ -84315,7 +84417,6 @@
         "y": 980,
         "wires": [
             [
-                "faf280f1a56572a2",
                 "f9aa5d06fd27dc2c"
             ],
             [
@@ -84969,8 +85070,8 @@
         "label": "Estado",
         "format": "{{msg.payload}}",
         "layout": "row-spread",
-        "x": 660,
-        "y": 920,
+        "x": 840,
+        "y": 900,
         "wires": []
     },
     {
@@ -102530,7 +102631,8 @@
         "y": 860,
         "wires": [
             [
-                "a9fa933108e9d4d1"
+                "a9fa933108e9d4d1",
+                "faf280f1a56572a2"
             ]
         ]
     },
@@ -102602,6 +102704,1355 @@
         "wires": [
             [
                 "7d229a445e26240e"
+            ]
+        ]
+    },
+    {
+        "id": "f4c9c3723cd71f51",
+        "type": "ui_gauge",
+        "z": "29bf75edf21541c4",
+        "g": "71f3a9d8fc88e0b6",
+        "name": "",
+        "group": "5ad0dad73b82700f",
+        "order": 0,
+        "width": "2",
+        "height": "2",
+        "gtype": "gage",
+        "title": "LLenado",
+        "label": "%",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#ff0000",
+            "#e6e600",
+            "#00ff80"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 220,
+        "y": 820,
+        "wires": []
+    },
+    {
+        "id": "ced12ce9e0972ff3",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "73546535bd657e5f",
+        "name": "habilitar",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.ControlDownhole.habilitado",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1000,
+        "y": 580,
+        "wires": [
+            [
+                "8b6795e7e350310b"
+            ]
+        ]
+    },
+    {
+        "id": "d0bd353a8ba51cbe",
+        "type": "link in",
+        "z": "29bf75edf21541c4",
+        "g": "73546535bd657e5f",
+        "name": "swichDownholeControl",
+        "links": [
+            "8b6795e7e350310b",
+            "ad87cee4.7dbb5"
+        ],
+        "x": 175,
+        "y": 660,
+        "wires": [
+            [
+                "e1b89909d96fe783"
+            ]
+        ]
+    },
+    {
+        "id": "e1b89909d96fe783",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "73546535bd657e5f",
+        "name": "habilitado",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Control_functions.ControlDownhole.habilitado",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 280,
+        "y": 660,
+        "wires": [
+            [
+                "bb22ffcb688c15d2"
+            ]
+        ]
+    },
+    {
+        "id": "d1a5e195d17f0ddc",
+        "type": "ui_toast",
+        "z": "29bf75edf21541c4",
+        "g": "73546535bd657e5f",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "Aceptar",
+        "cancel": "Cancelar",
+        "raw": false,
+        "topic": "¿Desea Activar el Pump off controller?",
+        "name": "confirm",
+        "x": 720,
+        "y": 620,
+        "wires": [
+            [
+                "c865addd37166432"
+            ]
+        ]
+    },
+    {
+        "id": "c865addd37166432",
+        "type": "switch",
+        "z": "29bf75edf21541c4",
+        "g": "73546535bd657e5f",
+        "name": "if",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Aceptar",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Cancelar",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 870,
+        "y": 620,
+        "wires": [
+            [
+                "ced12ce9e0972ff3"
+            ],
+            [
+                "62268d3397b6364b"
+            ]
+        ]
+    },
+    {
+        "id": "62268d3397b6364b",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "73546535bd657e5f",
+        "name": "Deshabilitar",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.ControlDownhole.habilitado",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1010,
+        "y": 640,
+        "wires": [
+            [
+                "8b6795e7e350310b"
+            ]
+        ]
+    },
+    {
+        "id": "b36558086ba90ba7",
+        "type": "switch",
+        "z": "29bf75edf21541c4",
+        "g": "73546535bd657e5f",
+        "name": "actual",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 590,
+        "y": 660,
+        "wires": [
+            [
+                "d1a5e195d17f0ddc"
+            ],
+            [
+                "f6f1bab08276e2ab"
+            ]
+        ]
+    },
+    {
+        "id": "f6f1bab08276e2ab",
+        "type": "ui_toast",
+        "z": "29bf75edf21541c4",
+        "g": "73546535bd657e5f",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "Aceptar",
+        "cancel": "Cancelar",
+        "raw": false,
+        "topic": "¿Desea Desactivar el Pump off controller?",
+        "name": "confirm",
+        "x": 720,
+        "y": 680,
+        "wires": [
+            [
+                "68b3c91504be4a88"
+            ]
+        ]
+    },
+    {
+        "id": "68b3c91504be4a88",
+        "type": "switch",
+        "z": "29bf75edf21541c4",
+        "g": "73546535bd657e5f",
+        "name": "if",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Aceptar",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Cancelar",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 850,
+        "y": 680,
+        "wires": [
+            [
+                "3abe5558b5b3860e"
+            ],
+            [
+                "3f5376850997a18e"
+            ]
+        ]
+    },
+    {
+        "id": "3abe5558b5b3860e",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "73546535bd657e5f",
+        "name": "Deshabilitar",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.ControlDownhole.habilitado",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1010,
+        "y": 680,
+        "wires": [
+            [
+                "8b6795e7e350310b"
+            ]
+        ]
+    },
+    {
+        "id": "3f5376850997a18e",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "73546535bd657e5f",
+        "name": "habilitar",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.ControlDownhole.habilitado",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1000,
+        "y": 720,
+        "wires": [
+            [
+                "8b6795e7e350310b"
+            ]
+        ]
+    },
+    {
+        "id": "8b6795e7e350310b",
+        "type": "link out",
+        "z": "29bf75edf21541c4",
+        "g": "73546535bd657e5f",
+        "name": "mensajeConfirmacionhabilitarDownhole",
+        "links": [
+            "d0bd353a8ba51cbe"
+        ],
+        "x": 1135,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "bb22ffcb688c15d2",
+        "type": "ui_switch",
+        "z": "29bf75edf21541c4",
+        "g": "73546535bd657e5f",
+        "name": "",
+        "label": "switch",
+        "tooltip": "",
+        "group": "5ad0dad73b82700f",
+        "order": 1,
+        "width": "3",
+        "height": "1",
+        "passthru": false,
+        "decouple": "true",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 470,
+        "y": 660,
+        "wires": [
+            [
+                "b36558086ba90ba7"
+            ]
+        ]
+    },
+    {
+        "id": "19b1b4eb161c6ff9",
+        "type": "function",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "logic",
+        "func": "var habilitado = global.get(\"Control_functions.ControlDownhole.habilitado\")||false;\nvar time = global.get(\"Control_functions.ControlDownhole.time\")||0;\nvar LL = global.get(\"Control_functions.ControlDownhole.LL\")||0;\nvar L = global.get(\"Control_functions.ControlDownhole.L\")||0;\nvar Fillage = global.get(\"Control_functions.ControlDownhole.Fillage\")||0;\nvar estado,contador,comando,color;//Variables Visualizadoras\nif(habilitado == true){\n    estado = \"habilitado\";color = \"green\";\n}else{\n    estado = \"deshabilitado\";color = \"red\";\n}\n\nnode.status({fill:color,shape:\"dot\",text:estado});\ncontext.set(\"habilitado\", habilitado,\"memoryOnly\");\n\nreturn [{payload:comando},{payload:estado}, { payload:contador}];",
+        "outputs": 3,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 460,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "f3725f49b1e49b20",
+        "type": "inject",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payloadType": "date",
+        "x": 240,
+        "y": 460,
+        "wires": [
+            [
+                "19b1b4eb161c6ff9"
+            ]
+        ]
+    },
+    {
+        "id": "60e05cf6d23d5a62",
+        "type": "ui_text_input",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "",
+        "label": "horas",
+        "tooltip": "",
+        "group": "5ad0dad73b82700f",
+        "order": 2,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": 300,
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 630,
+        "y": 840,
+        "wires": [
+            [
+                "e73ea06d928d93fc"
+            ]
+        ]
+    },
+    {
+        "id": "da18049a93fd08ce",
+        "type": "ui_text_input",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "",
+        "label": "minutos",
+        "tooltip": "",
+        "group": "5ad0dad73b82700f",
+        "order": 2,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": 300,
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 640,
+        "y": 880,
+        "wires": [
+            [
+                "27b6e126d7be66ee"
+            ]
+        ]
+    },
+    {
+        "id": "fabc8904f925bf1a",
+        "type": "ui_text_input",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "",
+        "label": "segundos",
+        "tooltip": "",
+        "group": "5ad0dad73b82700f",
+        "order": 2,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": 300,
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 640,
+        "y": 920,
+        "wires": [
+            [
+                "b653c185a1701b36"
+            ]
+        ]
+    },
+    {
+        "id": "e73ea06d928d93fc",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "horas",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::horas",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 810,
+        "y": 840,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "27b6e126d7be66ee",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "minutos",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::minutos",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 820,
+        "y": 880,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b653c185a1701b36",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "segundos",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::segundos",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 820,
+        "y": 920,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e7512774416a9544",
+        "type": "function",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "",
+        "func": "var time = 1000000;\nvar InputSeconds = time;\nvar Days = parseInt(InputSeconds / 86400);\nvar Hours = parseInt((InputSeconds - (Days) * 86400) / 3600);\nvar SegRest = parseInt(InputSeconds - (Hours * 3600) - (Days * 86400));\nvar min = parseInt(SegRest / 60);\nvar seconds = parseInt(SegRest - (min * 60));\ncontext.set(\"Days\", Days,\"memoryOnly\")\ncontext.set(\"Hours\", Hours,\"memoryOnly\")\ncontext.set(\"min\", min,\"memoryOnly\")\ncontext.set(\"seconds\", seconds,\"memoryOnly\")\n\nHours = {payload: Hours};\nmin = {payload: min};\nseconds = {payload: seconds};\n\nreturn [Hours,min,seconds];",
+        "outputs": 3,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 480,
+        "y": 880,
+        "wires": [
+            [
+                "60e05cf6d23d5a62"
+            ],
+            [
+                "da18049a93fd08ce"
+            ],
+            [
+                "fabc8904f925bf1a"
+            ]
+        ]
+    },
+    {
+        "id": "8a7b53380e66ae12",
+        "type": "ui_button",
+        "z": "29bf75edf21541c4",
+        "g": "07f02b70dd167ae5",
+        "name": "",
+        "group": "5ad0dad73b82700f",
+        "order": 5,
+        "width": "2",
+        "height": "1",
+        "passthru": false,
+        "label": "Actualizar",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 420,
+        "y": 1140,
+        "wires": [
+            [
+                "5a120549fd249ab0"
+            ]
+        ]
+    },
+    {
+        "id": "2cb88eaf70893679",
+        "type": "link in",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "adquisionTiempoDownholeController",
+        "links": [
+            "ad87cee4.7dbb5"
+        ],
+        "x": 375,
+        "y": 880,
+        "wires": [
+            [
+                "e7512774416a9544",
+                "58fbed31930cda5b",
+                "2c118930b46d3082"
+            ]
+        ]
+    },
+    {
+        "id": "ef0728cdc37ecb09",
+        "type": "inject",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 440,
+        "y": 820,
+        "wires": [
+            [
+                "e7512774416a9544"
+            ]
+        ]
+    },
+    {
+        "id": "c029b9bec80247e8",
+        "type": "inject",
+        "z": "8c6f930882747645",
+        "g": "aecdec289959a88b",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 280,
+        "y": 700,
+        "wires": [
+            [
+                "64b02a4c080ef7e5"
+            ]
+        ]
+    },
+    {
+        "id": "665c4cd99575e4bf",
+        "type": "ui_toast",
+        "z": "29bf75edf21541c4",
+        "g": "07f02b70dd167ae5",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "red",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "Aceptar",
+        "cancel": "Cancelar",
+        "raw": false,
+        "topic": "",
+        "name": "SPM",
+        "x": 690,
+        "y": 1140,
+        "wires": [
+            [
+                "6b38f10a1ac11889"
+            ]
+        ]
+    },
+    {
+        "id": "6b38f10a1ac11889",
+        "type": "switch",
+        "z": "29bf75edf21541c4",
+        "g": "07f02b70dd167ae5",
+        "name": "if",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Aceptar",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Cancelar",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 810,
+        "y": 1140,
+        "wires": [
+            [
+                "4785a528a2131ee5"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "5a120549fd249ab0",
+        "type": "function",
+        "z": "29bf75edf21541c4",
+        "g": "07f02b70dd167ae5",
+        "name": "Mensaje",
+        "func": "\nmsg.payload = \"¿Desea Actualizar Datos DownholeControl?\";\nmsg.topic = \"Confirmación\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 560,
+        "y": 1140,
+        "wires": [
+            [
+                "665c4cd99575e4bf"
+            ]
+        ]
+    },
+    {
+        "id": "4785a528a2131ee5",
+        "type": "function",
+        "z": "29bf75edf21541c4",
+        "g": "07f02b70dd167ae5",
+        "name": "ActualizarTiempo",
+        "func": "// adquision del tiempo \nvar segundos = flow.get(\"segundos\",\"memoryOnly\")||0;\nvar minutos = flow.get(\"minutos\",\"memoryOnly\")||0;\nvar horas = flow.get(\"horas\",\"memoryOnly\")||0;\nvar time = horas*3600+(minutos*60)+segundos;\nglobal.set(\"Control_functions.ControlDownhole.time\",time);\n// adquisión de los niveles de alarma\nvar L = flow.get(\"L\",\"memoryOnly\")||0;\nvar LL = flow.get(\"LL\",\"memoryOnly\")||0; \nglobal.set(\"Control_functions.ControlDownhole.L\", L);\nglobal.set(\"Control_functions.ControlDownhole.LL\", LL);\nif(segundos == 0 && minutos == 0 && segundos == 0 && L == 0 && LL == 0){\n    msg.payload = \"Los valores seteados estan en Cero\";\n    msg.topic = \"Alerta\";\n}else{\n    msg.payload = \"Valores Guardados\";\n    msg.topic = \"Guardando\";\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 990,
+        "y": 1120,
+        "wires": [
+            [
+                "4d5f8287ab4ef699"
+            ]
+        ]
+    },
+    {
+        "id": "4d5f8287ab4ef699",
+        "type": "ui_toast",
+        "z": "29bf75edf21541c4",
+        "g": "07f02b70dd167ae5",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "alert",
+        "x": 1170,
+        "y": 1120,
+        "wires": []
+    },
+    {
+        "id": "72d9d930aa80e772",
+        "type": "ui_text_input",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "LL",
+        "label": "LL",
+        "tooltip": "",
+        "group": "5ad0dad73b82700f",
+        "order": 2,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": 300,
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 630,
+        "y": 980,
+        "wires": [
+            [
+                "adf840b123b41585"
+            ]
+        ]
+    },
+    {
+        "id": "adf840b123b41585",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "LL",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::LL",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 810,
+        "y": 980,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "15c1e0773b168946",
+        "type": "ui_text_input",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "L",
+        "label": "L",
+        "tooltip": "",
+        "group": "5ad0dad73b82700f",
+        "order": 2,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": 300,
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 630,
+        "y": 1020,
+        "wires": [
+            [
+                "9696f09381a60de7"
+            ]
+        ]
+    },
+    {
+        "id": "9696f09381a60de7",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "L",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::L",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 810,
+        "y": 1020,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "58fbed31930cda5b",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "LL",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Control_functions.ControlDownhole.LL",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 490,
+        "y": 980,
+        "wires": [
+            [
+                "72d9d930aa80e772"
+            ]
+        ]
+    },
+    {
+        "id": "2c118930b46d3082",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "L",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Control_functions.ControlDownhole.L",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 490,
+        "y": 1020,
+        "wires": [
+            [
+                "15c1e0773b168946"
+            ]
+        ]
+    },
+    {
+        "id": "cf0d339c5e409c52",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "7d20e2da985dd33b",
+        "name": "simulacion",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.ControlDownhole.simulacion",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 990,
+        "y": 1280,
+        "wires": [
+            [
+                "b8bf43fb333c88c5"
+            ]
+        ]
+    },
+    {
+        "id": "806bf1b9eefa1219",
+        "type": "link in",
+        "z": "29bf75edf21541c4",
+        "g": "7d20e2da985dd33b",
+        "name": "swichDownholeControl",
+        "links": [
+            "b8bf43fb333c88c5",
+            "ad87cee4.7dbb5"
+        ],
+        "x": 155,
+        "y": 1360,
+        "wires": [
+            [
+                "69a889a8cd8d4fc7"
+            ]
+        ]
+    },
+    {
+        "id": "69a889a8cd8d4fc7",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "7d20e2da985dd33b",
+        "name": "habilitado",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Control_functions.ControlDownhole.simulacion",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 260,
+        "y": 1360,
+        "wires": [
+            [
+                "17f0cfed3a423e5f"
+            ]
+        ]
+    },
+    {
+        "id": "9241969966300523",
+        "type": "ui_toast",
+        "z": "29bf75edf21541c4",
+        "g": "7d20e2da985dd33b",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "Aceptar",
+        "cancel": "Cancelar",
+        "raw": false,
+        "className": "",
+        "topic": "¿Desea Simular?",
+        "name": "confirm",
+        "x": 700,
+        "y": 1320,
+        "wires": [
+            [
+                "a142cd930e28191e"
+            ]
+        ]
+    },
+    {
+        "id": "a142cd930e28191e",
+        "type": "switch",
+        "z": "29bf75edf21541c4",
+        "g": "7d20e2da985dd33b",
+        "name": "if",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Aceptar",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Cancelar",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 850,
+        "y": 1320,
+        "wires": [
+            [
+                "cf0d339c5e409c52"
+            ],
+            [
+                "040b83ef654b39e2"
+            ]
+        ]
+    },
+    {
+        "id": "040b83ef654b39e2",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "7d20e2da985dd33b",
+        "name": "Deshabilitar",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.ControlDownhole.simulacion",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 990,
+        "y": 1340,
+        "wires": [
+            [
+                "b8bf43fb333c88c5"
+            ]
+        ]
+    },
+    {
+        "id": "0c8aedf11c2f50af",
+        "type": "switch",
+        "z": "29bf75edf21541c4",
+        "g": "7d20e2da985dd33b",
+        "name": "actual",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 570,
+        "y": 1360,
+        "wires": [
+            [
+                "9241969966300523"
+            ],
+            [
+                "dc483fcd7b3e9cd8"
+            ]
+        ]
+    },
+    {
+        "id": "dc483fcd7b3e9cd8",
+        "type": "ui_toast",
+        "z": "29bf75edf21541c4",
+        "g": "7d20e2da985dd33b",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "Aceptar",
+        "cancel": "Cancelar",
+        "raw": false,
+        "className": "",
+        "topic": "¿Desea Desactivar Simulacion?",
+        "name": "confirm",
+        "x": 700,
+        "y": 1380,
+        "wires": [
+            [
+                "57d5f08136554ce9"
+            ]
+        ]
+    },
+    {
+        "id": "57d5f08136554ce9",
+        "type": "switch",
+        "z": "29bf75edf21541c4",
+        "g": "7d20e2da985dd33b",
+        "name": "if",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Aceptar",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Cancelar",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 830,
+        "y": 1380,
+        "wires": [
+            [
+                "e006cde8fe53d84f"
+            ],
+            [
+                "8379ae719076bc5b"
+            ]
+        ]
+    },
+    {
+        "id": "e006cde8fe53d84f",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "7d20e2da985dd33b",
+        "name": "Deshabilitar",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.ControlDownhole.simulacion",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 990,
+        "y": 1380,
+        "wires": [
+            [
+                "b8bf43fb333c88c5"
+            ]
+        ]
+    },
+    {
+        "id": "8379ae719076bc5b",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "7d20e2da985dd33b",
+        "name": "habilitar",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.ControlDownhole.simulacion",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 980,
+        "y": 1420,
+        "wires": [
+            [
+                "b8bf43fb333c88c5"
+            ]
+        ]
+    },
+    {
+        "id": "b8bf43fb333c88c5",
+        "type": "link out",
+        "z": "29bf75edf21541c4",
+        "g": "7d20e2da985dd33b",
+        "name": "mensajeConfirmacionhabilitarDownhole",
+        "links": [
+            "806bf1b9eefa1219"
+        ],
+        "x": 1115,
+        "y": 1340,
+        "wires": []
+    },
+    {
+        "id": "17f0cfed3a423e5f",
+        "type": "ui_switch",
+        "z": "29bf75edf21541c4",
+        "g": "7d20e2da985dd33b",
+        "name": "",
+        "label": "Simulación",
+        "tooltip": "",
+        "group": "5ad0dad73b82700f",
+        "order": 1,
+        "width": "3",
+        "height": "1",
+        "passthru": false,
+        "decouple": "true",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 410,
+        "y": 1360,
+        "wires": [
+            [
+                "0c8aedf11c2f50af"
             ]
         ]
     }
