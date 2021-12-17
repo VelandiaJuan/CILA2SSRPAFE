@@ -915,7 +915,9 @@
             "bfa48676.a364f8"
         ],
         "x": 54,
-        "y": 19
+        "y": 19,
+        "w": 432,
+        "h": 149.5
     },
     {
         "id": "d929d138.3b512",
@@ -933,7 +935,9 @@
             "ebd2954e5785409e"
         ],
         "x": 994,
-        "y": 19
+        "y": 19,
+        "w": 542,
+        "h": 122
     },
     {
         "id": "fcb3da61.429db8",
@@ -1157,7 +1161,9 @@
             "b6cf54debd6eb4db"
         ],
         "x": 64,
-        "y": 479
+        "y": 479,
+        "w": 662,
+        "h": 202
     },
     {
         "id": "9132da2c.b8c6b8",
@@ -1181,7 +1187,9 @@
             "fd328934.0ddd18"
         ],
         "x": 74,
-        "y": 699
+        "y": 699,
+        "w": 602,
+        "h": 202
     },
     {
         "id": "9b538856.60fb38",
@@ -1359,7 +1367,9 @@
             "312d9def.84df32"
         ],
         "x": 74,
-        "y": 919
+        "y": 919,
+        "w": 702,
+        "h": 242
     },
     {
         "id": "3ae9fbe60d6132ea",
@@ -1639,9 +1649,7 @@
             "1b8cd32f8a397c41"
         ],
         "x": 1534,
-        "y": 359,
-        "w": 1192,
-        "h": 802
+        "y": 359
     },
     {
         "id": "99671f60976b1d2a",
@@ -1675,9 +1683,7 @@
             "64eb3a5330da4f87"
         ],
         "x": 1544,
-        "y": 39,
-        "w": 1482,
-        "h": 282
+        "y": 39
     },
     {
         "id": "95daead77be77494",
@@ -1724,9 +1730,7 @@
             "0990c77b15bde411"
         ],
         "x": 994,
-        "y": 649,
-        "w": 532,
-        "h": 732
+        "y": 649
     },
     {
         "id": "87fca62744442ad4",
@@ -1765,9 +1769,7 @@
             "19a66bb9.eaa504"
         ],
         "x": 44,
-        "y": 409,
-        "w": 702,
-        "h": 272
+        "y": 409
     },
     {
         "id": "a7f58aaec292b159",
@@ -1810,9 +1812,7 @@
             "30359a42be66cafb"
         ],
         "x": 44,
-        "y": 689,
-        "w": 812,
-        "h": 272
+        "y": 689
     },
     {
         "id": "37b64a70f39dda06",
@@ -1851,9 +1851,7 @@
             "e0a3fe6a.f68a1"
         ],
         "x": 44,
-        "y": 969,
-        "w": 742,
-        "h": 272
+        "y": 969
     },
     {
         "id": "ee5753bdd6eedb72",
@@ -1878,9 +1876,7 @@
             "ddc7c55f2c0f73c9"
         ],
         "x": 44,
-        "y": 219,
-        "w": 812,
-        "h": 182
+        "y": 219
     },
     {
         "id": "931b0370.afc1b",
@@ -1904,7 +1900,9 @@
             "c22e3c27600ab315"
         ],
         "x": 994,
-        "y": 159
+        "y": 159,
+        "w": 612,
+        "h": 242
     },
     {
         "id": "d84615.919209e8",
@@ -2027,10 +2025,13 @@
             "74b350f0c606df27",
             "c965deeb4ea6dcaa",
             "4c8e37620b8aedf8",
-            "181ea2faf2082cc7"
+            "181ea2faf2082cc7",
+            "fc0f71fc7fab8d0e"
         ],
         "x": 74,
-        "y": 1189
+        "y": 1189,
+        "w": 792,
+        "h": 252
     },
     {
         "id": "06c0dbf1bffe1e21",
@@ -2977,7 +2978,9 @@
             "0d38acc234ba861f"
         ],
         "x": 994,
-        "y": 419
+        "y": 419,
+        "w": 642,
+        "h": 162
     },
     {
         "id": "86af7867dc10f4a8",
@@ -3045,7 +3048,9 @@
             "a5f101f20d6fd56b"
         ],
         "x": 994,
-        "y": 599
+        "y": 599,
+        "w": 562,
+        "h": 142
     },
     {
         "id": "5dc71a84bf12ae23",
@@ -3127,7 +3132,9 @@
             "d93cba9654c81eec"
         ],
         "x": 2534,
-        "y": 19
+        "y": 19,
+        "w": 252,
+        "h": 482
     },
     {
         "id": "08268a4bd4859ab8",
@@ -3152,7 +3159,9 @@
             "0988d89e2a5ce6e0"
         ],
         "x": 2814,
-        "y": 19
+        "y": 19,
+        "w": 259,
+        "h": 482
     },
     {
         "id": "5c9801fdee1b9e98",
@@ -3181,7 +3190,9 @@
             "ae2375753c90e02b"
         ],
         "x": 974,
-        "y": 979
+        "y": 979,
+        "w": 312,
+        "h": 522
     },
     {
         "id": "c920676a5fbb9bc8",
@@ -3384,9 +3395,7 @@
             "3f59808d6a892b13"
         ],
         "x": 534,
-        "y": 159,
-        "w": 652,
-        "h": 242
+        "y": 159
     },
     {
         "id": "8330e7a653863e55",
@@ -3404,9 +3413,7 @@
             "8b3d9fac296bfda2"
         ],
         "x": 34,
-        "y": 159,
-        "w": 482,
-        "h": 142
+        "y": 159
     },
     {
         "id": "7f4726c248df075a",
@@ -3433,9 +3440,7 @@
             "984de93babf87b5a"
         ],
         "x": 14,
-        "y": 419,
-        "w": 592,
-        "h": 322
+        "y": 419
     },
     {
         "id": "1ec8ef96430984c9",
@@ -3454,9 +3459,7 @@
             "31ad55c2c2e4aa56"
         ],
         "x": 14,
-        "y": 779,
-        "w": 652,
-        "h": 82
+        "y": 779
     },
     {
         "id": "b1331148614d9c76",
@@ -3475,9 +3478,7 @@
             "ec85fc31e23ddeeb"
         ],
         "x": 4,
-        "y": 879,
-        "w": 682,
-        "h": 82
+        "y": 879
     },
     {
         "id": "c6e9f26a4dee8c1e",
@@ -3609,7 +3610,9 @@
             "12a3282355da9439"
         ],
         "x": 74,
-        "y": 1419
+        "y": 1439,
+        "w": 582,
+        "h": 182
     },
     {
         "id": "69cbede8f851191a",
@@ -3630,7 +3633,9 @@
             "a1c5e02a9d683eb4"
         ],
         "x": 74,
-        "y": 1619
+        "y": 1639,
+        "w": 582,
+        "h": 182
     },
     {
         "id": "f9b757cab0b767da",
@@ -3783,7 +3788,9 @@
             "e0da6f5132ed3813"
         ],
         "x": 64,
-        "y": 189
+        "y": 189,
+        "w": 852,
+        "h": 282
     },
     {
         "id": "daacc2ec73149b57",
@@ -3866,9 +3873,7 @@
             "44b52a5ca865f32a"
         ],
         "x": 114,
-        "y": 999,
-        "w": 862,
-        "h": 242
+        "y": 999
     },
     {
         "id": "65dbd90af70f1e98",
@@ -3897,9 +3902,7 @@
             "c9ef5029dfa1dca4"
         ],
         "x": 114,
-        "y": 599,
-        "w": 968,
-        "h": 375.5
+        "y": 599
     },
     {
         "id": "2ceb8ec502cd9a4d",
@@ -3926,9 +3929,7 @@
             "86a9047e4057bacf"
         ],
         "x": 1254,
-        "y": 599,
-        "w": 692,
-        "h": 322
+        "y": 599
     },
     {
         "id": "7fd14179472bdff0",
@@ -3960,9 +3961,7 @@
             "6f05a009383c5e7c"
         ],
         "x": 114,
-        "y": 279,
-        "w": 1332,
-        "h": 242
+        "y": 279
     },
     {
         "id": "b76c959d391c2570",
@@ -4047,7 +4046,9 @@
             "a2defc407081fdc7"
         ],
         "x": 1734,
-        "y": 19
+        "y": 19,
+        "w": 772,
+        "h": 922
     },
     {
         "id": "0e051c2facee0b6d",
@@ -6085,9 +6086,7 @@
             "a6ae08b25206a8fb"
         ],
         "x": 154,
-        "y": 799,
-        "w": 902,
-        "h": 149.5
+        "y": 799
     },
     {
         "id": "a80677cf.4274c8",
@@ -9829,7 +9828,7 @@
         "name": "VelocidadDoble",
         "tab": "df82a9eeeb3d8a7c",
         "order": 9,
-        "disp": true,
+        "disp": false,
         "width": "12",
         "collapse": false
     },
@@ -11131,6 +11130,16 @@
         "order": 4,
         "width": 2,
         "height": 1
+    },
+    {
+        "id": "5ad0dad73b82700f",
+        "type": "ui_group",
+        "name": "downholeControl",
+        "tab": "df82a9eeeb3d8a7c",
+        "order": 17,
+        "disp": true,
+        "width": "12",
+        "collapse": false
     },
     {
         "id": "8c24ec8f.cf43c",
@@ -50087,7 +50096,7 @@
         "order": 1,
         "width": 12,
         "height": 1,
-        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n\n</head>\n\n<body>\n    <!-- Navigation bar -->\n    <nav>\n        <div class=\"nav nav-pills nav-fill\" id=\"nav-tab\" role=\"tablist\">\n            <a class=\"nav-item nav-link active\" id=\"nav-ArranqueAuto-tab\" data-toggle=\"tab\"\n                href=\"#nav-ArranqueAuto\" role=\"tab\" aria-controls=\"nav-ArranqueAuto\" aria-selected=\"true\"\n                ng-click=\"send({payload:ArranqueAuto()})\">Arranque automático</a>\n            <a class=\"nav-item nav-link active\" id=\"nav-PumpOff-tab\" data-toggle=\"tab\" href=\"#nav-PumpOff\"\n                role=\"tab\" aria-controls=\"nav-PumpOff\" aria-selected=\"true\"\n                ng-click=\"send({payload:PumpOff()})\">Pump on/off</a>\n            <a class=\"nav-item nav-link\" id=\"nav-surfaceControl-tab\" data-toggle=\"tab\"\n                href=\"#nav-surfaceControl\" role=\"tab\" aria-controls=\"nav-surfaceControl\" aria-selected=\"false\"\n                ng-click=\"send({payload:surfaceControl()})\">control superficie</a>\n            <a class=\"nav-item nav-link\" id=\"nav-VelocidadDoble-tab\" data-toggle=\"tab\" href=\"#nav-VelocidadDoble\"\n                role=\"tab\" aria-controls=\"nav-VelocidadDoble\" aria-selected=\"false\"\n                ng-click=\"send({payload:VelocidadDoble()})\">Doble Velocidad</a>\n        </div>\n    </nav>\n\n    <script>\n        this.scope.ArranqueAuto = function() { return \"ArranqueAuto\"; };\n        this.scope.PumpOff = function() { return \"PumpOff\"; };\n        this.scope.surfaceControl = function() { return \"surfaceControl\"; };\n        this.scope.VelocidadDoble = function() { return \"VelocidadDoble\"; };\n    </script>\n\n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n</body>\n\n</html>",
+        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n\n</head>\n\n<body>\n    <!-- Navigation bar -->\n    <nav>\n        <div class=\"nav nav-pills nav-fill\" id=\"nav-tab\" role=\"tablist\">\n            <a class=\"nav-item nav-link active\" id=\"nav-ArranqueAuto-tab\" data-toggle=\"tab\"\n                href=\"#nav-ArranqueAuto\" role=\"tab\" aria-controls=\"nav-ArranqueAuto\" aria-selected=\"true\"\n                ng-click=\"send({payload:ArranqueAuto()})\">Arranque automático</a>\n            <a class=\"nav-item nav-link active\" id=\"nav-PumpOff-tab\" data-toggle=\"tab\" href=\"#nav-PumpOff\"\n                role=\"tab\" aria-controls=\"nav-PumpOff\" aria-selected=\"false\"\n                ng-click=\"send({payload:PumpOff()})\">Pump on/off</a>\n            <a class=\"nav-item nav-link\" id=\"nav-VelocidadDoble-tab\" data-toggle=\"tab\" href=\"#nav-VelocidadDoble\"\n                role=\"tab\" aria-controls=\"nav-VelocidadDoble\" aria-selected=\"false\"\n                ng-click=\"send({payload:VelocidadDoble()})\">Doble Velocidad</a>\n            <a class=\"nav-item nav-link\" id=\"nav-surfaceControl-tab\" data-toggle=\"tab\"\n                href=\"#nav-surfaceControl\" role=\"tab\" aria-controls=\"nav-surfaceControl\" aria-selected=\"false\"\n                ng-click=\"send({payload:surfaceControl()})\">control superficie</a>\n            <a class=\"nav-item nav-link\" id=\"nav-downholeControl-tab\" data-toggle=\"tab\" href=\"#nav-downholeControl\"\n                role=\"tab\" aria-controls=\"nav-downholeControl\" aria-selected=\"false\"\n                ng-click=\"send({payload:downholeControl()})\">Control Fondo</a>\n        </div>\n    </nav>\n\n    <script>\n        this.scope.ArranqueAuto = function() { return \"ArranqueAuto\"; };\n        this.scope.PumpOff = function() { return \"PumpOff\"; };\n        this.scope.surfaceControl = function() { return \"surfaceControl\"; };\n        this.scope.VelocidadDoble = function() { return \"VelocidadDoble\"; };\n        this.scope.downholeControl = function() { return \"downholeControl\"; };\n    </script>\n\n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n</body>\n\n</html>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
@@ -50124,7 +50133,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Otras_Funciones_de_Control_Configuración\",\t                \"Otras_Funciones_de_Control_Tendencia\",\t                \"Otras_Funciones_de_Control_Control\",\t                \"Otras_Funciones_de_Control_Sintonización\",\t                \"Otras_Funciones_de_Control_TendenciaPID\",\t                \"Otras_Funciones_de_Control_Tendencia\",\t                \"Otras_Funciones_de_Control_Límites_de_Operación\",\t                \"Otras_Funciones_de_Control_Reglas_de_Activación\",\t                \"Otras_Funciones_de_Control_Habilitar/Deshabilitar\",\t                \"Otras_Funciones_de_Control_VelocidadDoble\",\t                \"Otras_Funciones_de_Control_PumpOff\",\t                \"Otras_Funciones_de_Control_Navbar_PID\"],\t       \"show\":[ \"Otras_Funciones_de_Control_Nav_Bar\",\t                \"Otras_Funciones_de_Control_Habilitar_AR\",\t                \"Otras_Funciones_de_Control_Habilitar_AR2\",\t                \"Otras_Funciones_de_Control_Rampas_de_Aceleración\",\t                \"Otras_Funciones_de_Control_Tiempo_de_Rearme\",\t                \"Otras_Funciones_de_Control_No._de_Intentos\"]\t   }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Otras_Funciones_de_Control_Configuración\",\t                \"Otras_Funciones_de_Control_Tendencia\",\t                \"Otras_Funciones_de_Control_Control\",\t                \"Otras_Funciones_de_Control_Sintonización\",\t                \"Otras_Funciones_de_Control_TendenciaPID\",\t                \"Otras_Funciones_de_Control_Tendencia\",\t                \"Otras_Funciones_de_Control_Límites_de_Operación\",\t                \"Otras_Funciones_de_Control_Reglas_de_Activación\",\t                \"Otras_Funciones_de_Control_Habilitar/Deshabilitar\",\t                \"Otras_Funciones_de_Control_VelocidadDoble\",\t                \"Otras_Funciones_de_Control_PumpOff\",\t                \"Otras_Funciones_de_Control_downholeControl\",\t                \"Otras_Funciones_de_Control_Navbar_PID\"],\t       \"show\":[ \"Otras_Funciones_de_Control_Nav_Bar\",\t                \"Otras_Funciones_de_Control_Habilitar_AR\",\t                \"Otras_Funciones_de_Control_Habilitar_AR2\",\t                \"Otras_Funciones_de_Control_Rampas_de_Aceleración\",\t                \"Otras_Funciones_de_Control_Tiempo_de_Rearme\",\t                \"Otras_Funciones_de_Control_No._de_Intentos\"]\t   }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -52098,11 +52107,16 @@
                 "t": "eq",
                 "v": "VelocidadDoble",
                 "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "downholeControl",
+                "vt": "str"
             }
         ],
         "checkall": "true",
         "repair": false,
-        "outputs": 4,
+        "outputs": 5,
         "x": 470,
         "y": 1280,
         "wires": [
@@ -52117,6 +52131,9 @@
             ],
             [
                 "181ea2faf2082cc7"
+            ],
+            [
+                "fc0f71fc7fab8d0e"
             ]
         ]
     },
@@ -52131,7 +52148,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Otras_Funciones_de_Control_Habilitar_AR\",\t                \"Otras_Funciones_de_Control_Habilitar_AR2\",\t                \"Otras_Funciones_de_Control_Rampas_de_Aceleración\",\t                \"Otras_Funciones_de_Control_Tiempo_de_Rearme\",\t                \"Otras_Funciones_de_Control_No._de_Intentos\",\t                \"Otras_Funciones_de_Control_Sintonización\",\t                \"Otras_Funciones_de_Control_surfaceControl\",\t                \"Otras_Funciones_de_Control_VelocidadDoble\"],\t       \"show\":[ \"Otras_Funciones_de_Control_PumpOff\",\t                \"Otras_Funciones_de_Control_Nav_Bar\"]\t            }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Otras_Funciones_de_Control_Habilitar_AR\",\t                \"Otras_Funciones_de_Control_Habilitar_AR2\",\t                \"Otras_Funciones_de_Control_Rampas_de_Aceleración\",\t                \"Otras_Funciones_de_Control_Tiempo_de_Rearme\",\t                \"Otras_Funciones_de_Control_No._de_Intentos\",\t                \"Otras_Funciones_de_Control_Sintonización\",\t                \"Otras_Funciones_de_Control_surfaceControl\",\t                \"Otras_Funciones_de_Control_VelocidadDoble\",\t                \"Otras_Funciones_de_Control_downholeControl\"],\t       \"show\":[ \"Otras_Funciones_de_Control_PumpOff\",\t                \"Otras_Funciones_de_Control_Nav_Bar\"]\t            }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -52159,7 +52176,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[\t           \"Otras_Funciones_de_Control_Habilitar_AR\",\t           \"Otras_Funciones_de_Control_Habilitar_AR2\",\t           \"Otras_Funciones_de_Control_Rampas_de_Aceleración\",\t           \"Otras_Funciones_de_Control_Tiempo_de_Rearme\",\t           \"Otras_Funciones_de_Control_No._de_Intentos\",\t           \"Otras_Funciones_de_Control_Sintonización\",\t           \"Otras_Funciones_de_Control_PumpOff\",\t           \"Otras_Funciones_de_Control_VelocidadDoble\"\t       ],\t       \"show\":[\t           \"Otras_Funciones_de_Control_surfaceControl\",\t           \"Otras_Funciones_de_Control_Nav_Bar\"\t       ]\t            }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[\t           \"Otras_Funciones_de_Control_Habilitar_AR\",\t           \"Otras_Funciones_de_Control_Habilitar_AR2\",\t           \"Otras_Funciones_de_Control_Rampas_de_Aceleración\",\t           \"Otras_Funciones_de_Control_Tiempo_de_Rearme\",\t           \"Otras_Funciones_de_Control_No._de_Intentos\",\t           \"Otras_Funciones_de_Control_Sintonización\",\t           \"Otras_Funciones_de_Control_PumpOff\",\t           \"Otras_Funciones_de_Control_VelocidadDoble\",\t           \"Otras_Funciones_de_Control_downholeControl\"\t       ],\t       \"show\":[\t           \"Otras_Funciones_de_Control_surfaceControl\",\t           \"Otras_Funciones_de_Control_Nav_Bar\"\t       ]\t            }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -52187,7 +52204,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[\t           \"Otras_Funciones_de_Control_Habilitar_AR\",\t           \"Otras_Funciones_de_Control_Habilitar_AR2\",\t           \"Otras_Funciones_de_Control_Rampas_de_Aceleración\",\t           \"Otras_Funciones_de_Control_Tiempo_de_Rearme\",\t           \"Otras_Funciones_de_Control_No._de_Intentos\",\t           \"Otras_Funciones_de_Control_PumpOff\",\t           \"Otras_Funciones_de_Control_surfaceControl\"\t       ],\t       \"show\":[\t           \"Otras_Funciones_de_Control_VelocidadDoble\",\t           \"Otras_Funciones_de_Control_Nav_Bar\"\t       ]\t            }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[\t           \"Otras_Funciones_de_Control_Habilitar_AR\",\t           \"Otras_Funciones_de_Control_Habilitar_AR2\",\t           \"Otras_Funciones_de_Control_Rampas_de_Aceleración\",\t           \"Otras_Funciones_de_Control_Tiempo_de_Rearme\",\t           \"Otras_Funciones_de_Control_No._de_Intentos\",\t           \"Otras_Funciones_de_Control_PumpOff\",\t           \"Otras_Funciones_de_Control_surfaceControl\",\t           \"Otras_Funciones_de_Control_downholeControl\"\t       ],\t       \"show\":[\t           \"Otras_Funciones_de_Control_VelocidadDoble\",\t           \"Otras_Funciones_de_Control_Nav_Bar\"\t       ]\t            }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -52220,7 +52237,7 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "x": 170,
-        "y": 1520,
+        "y": 1540,
         "wires": [
             [
                 "500c506c700c1d2f"
@@ -52256,7 +52273,7 @@
         "repair": false,
         "outputs": 3,
         "x": 330,
-        "y": 1520,
+        "y": 1540,
         "wires": [
             [
                 "eb4b81b7f6d80b82"
@@ -52280,7 +52297,7 @@
             "805762db.d27b7"
         ],
         "x": 615,
-        "y": 1520,
+        "y": 1540,
         "wires": []
     },
     {
@@ -52304,7 +52321,7 @@
         "to": "",
         "reg": false,
         "x": 470,
-        "y": 1480,
+        "y": 1500,
         "wires": [
             [
                 "3cb555ec39e1b50a"
@@ -52332,7 +52349,7 @@
         "to": "",
         "reg": false,
         "x": 480,
-        "y": 1520,
+        "y": 1540,
         "wires": [
             [
                 "3cb555ec39e1b50a"
@@ -52360,7 +52377,7 @@
         "to": "",
         "reg": false,
         "x": 470,
-        "y": 1560,
+        "y": 1580,
         "wires": [
             [
                 "3cb555ec39e1b50a"
@@ -52386,7 +52403,7 @@
         "repair": false,
         "outputs": 1,
         "x": 340,
-        "y": 1460,
+        "y": 1480,
         "wires": [
             [
                 "eb4b81b7f6d80b82"
@@ -52404,7 +52421,7 @@
             "4372d5a0.d338dc"
         ],
         "x": 215,
-        "y": 1460,
+        "y": 1480,
         "wires": [
             [
                 "5b86a87201385669"
@@ -52427,7 +52444,7 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "x": 170,
-        "y": 1720,
+        "y": 1740,
         "wires": [
             [
                 "f258f142685365f9"
@@ -52463,7 +52480,7 @@
         "repair": false,
         "outputs": 3,
         "x": 330,
-        "y": 1720,
+        "y": 1740,
         "wires": [
             [
                 "fe33e19e6f3ad930"
@@ -52487,7 +52504,7 @@
             "805762db.d27b7"
         ],
         "x": 615,
-        "y": 1720,
+        "y": 1740,
         "wires": []
     },
     {
@@ -52511,7 +52528,7 @@
         "to": "",
         "reg": false,
         "x": 480,
-        "y": 1680,
+        "y": 1700,
         "wires": [
             [
                 "10d0df396dc90c03"
@@ -52539,7 +52556,7 @@
         "to": "",
         "reg": false,
         "x": 480,
-        "y": 1720,
+        "y": 1740,
         "wires": [
             [
                 "10d0df396dc90c03"
@@ -52567,7 +52584,7 @@
         "to": "",
         "reg": false,
         "x": 500,
-        "y": 1760,
+        "y": 1780,
         "wires": [
             [
                 "10d0df396dc90c03"
@@ -52593,7 +52610,7 @@
         "repair": false,
         "outputs": 1,
         "x": 330,
-        "y": 1660,
+        "y": 1680,
         "wires": [
             [
                 "fe33e19e6f3ad930"
@@ -52611,7 +52628,7 @@
             "4372d5a0.d338dc"
         ],
         "x": 215,
-        "y": 1660,
+        "y": 1680,
         "wires": [
             [
                 "24cbb0c1657e1589"
@@ -102826,6 +102843,34 @@
         "wires": [
             [
                 "337b45b67a7e1518"
+            ]
+        ]
+    },
+    {
+        "id": "fc0f71fc7fab8d0e",
+        "type": "change",
+        "z": "2e27dea6.c4c362",
+        "g": "e1e65313b5eaa836",
+        "name": "downholeControl",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\t   \"group\":{\t       \"hide\":[\t           \"Otras_Funciones_de_Control_Habilitar_AR\",\t           \"Otras_Funciones_de_Control_Habilitar_AR2\",\t           \"Otras_Funciones_de_Control_Rampas_de_Aceleración\",\t           \"Otras_Funciones_de_Control_Tiempo_de_Rearme\",\t           \"Otras_Funciones_de_Control_No._de_Intentos\",\t           \"Otras_Funciones_de_Control_PumpOff\",\t           \"Otras_Funciones_de_Control_VelocidadDoble\",\t           \"Otras_Funciones_de_Control_surfaceControl\"\t       ],\t       \"show\":[\t           \"Otras_Funciones_de_Control_downholeControl\",\t           \"Otras_Funciones_de_Control_Nav_Bar\"\t       ]\t            }\t}",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 650,
+        "y": 1400,
+        "wires": [
+            [
+                "eb0d147d1d43c8ac"
             ]
         ]
     }
