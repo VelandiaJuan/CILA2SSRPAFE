@@ -902,6 +902,59 @@
         "color": "#DDAA99"
     },
     {
+        "id": "1517c169dc02830b",
+        "type": "subflow",
+        "name": "VSDBasic (2)",
+        "info": "",
+        "category": "VSD",
+        "in": [
+            {
+                "x": 90,
+                "y": 200,
+                "wires": [
+                    {
+                        "id": "598301c72795e22e"
+                    }
+                ]
+            }
+        ],
+        "out": [
+            {
+                "x": 1090,
+                "y": 220,
+                "wires": [
+                    {
+                        "id": "0ca6fd931e890a21",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 2190,
+                "y": 190,
+                "wires": [
+                    {
+                        "id": "cdd00d7a4e1cdfd0",
+                        "port": 0
+                    }
+                ]
+            }
+        ],
+        "env": [],
+        "color": "#E9967A",
+        "icon": "font-awesome/fa-mail-forward",
+        "status": {
+            "x": 1270,
+            "y": 270,
+            "wires": [
+                {
+                    "id": "4d40620b9e46dcd2",
+                    "port": 0
+                }
+            ]
+        }
+    },
+    {
         "id": "1d0c3cb2.7129f3",
         "type": "group",
         "z": "2e27dea6.c4c362",
@@ -3246,9 +3299,7 @@
             "16aadb577f484ba8"
         ],
         "x": 154,
-        "y": 899,
-        "w": 912,
-        "h": 302
+        "y": 899
     },
     {
         "id": "99fd9c5cbd90ceb5",
@@ -3265,9 +3316,7 @@
             "5e3e278f18c43297"
         ],
         "x": 154,
-        "y": 1219,
-        "w": 492,
-        "h": 122
+        "y": 1219
     },
     {
         "id": "aecdec289959a88b",
@@ -3296,9 +3345,7 @@
             "601364caf3d1d399"
         ],
         "x": 154,
-        "y": 459,
-        "w": 1092,
-        "h": 282
+        "y": 459
     },
     {
         "id": "dfdd865d8cf81492",
@@ -3316,9 +3363,7 @@
             "cea17bf2805a1d9b"
         ],
         "x": 154,
-        "y": 759,
-        "w": 772,
-        "h": 122
+        "y": 759
     },
     {
         "id": "6c6732761a2613b5",
@@ -3724,9 +3769,7 @@
             "a0b90b4f54fbae9f"
         ],
         "x": 654,
-        "y": 1219,
-        "w": 1142,
-        "h": 222
+        "y": 1219
     },
     {
         "id": "9ff47da5fe193161",
@@ -3830,9 +3873,7 @@
             "d5eb026a704fd13b"
         ],
         "x": 154,
-        "y": 179,
-        "w": 2272,
-        "h": 262
+        "y": 179
     },
     {
         "id": "e4cabd2892b5651b",
@@ -4062,10 +4103,15 @@
             "39bfcbb2ffaadf0b",
             "c5ff3b637274f424",
             "5eec715863afb6ce",
-            "90db7ddb11817711"
+            "90db7ddb11817711",
+            "73cf0b0de7a2e0fc",
+            "b6c43cb90db15418",
+            "e560dfdfebe2fd7d"
         ],
-        "x": 14,
-        "y": 419
+        "x": -26,
+        "y": 419,
+        "w": 1672,
+        "h": 262
     },
     {
         "id": "162691d3abd26ddb",
@@ -4097,7 +4143,9 @@
             "4ba7844e7747726a"
         ],
         "x": 834,
-        "y": 139
+        "y": 119,
+        "w": 1102,
+        "h": 282
     },
     {
         "id": "bca72b7420df46a9",
@@ -4113,8 +4161,10 @@
             "fecbd80b94bd22a1",
             "d264a0cf20ef8465"
         ],
-        "x": 34,
-        "y": 979
+        "x": 14,
+        "y": 1099,
+        "w": 492,
+        "h": 122
     },
     {
         "id": "f4c2cbbaa70a9690",
@@ -4143,10 +4193,26 @@
             "51e0c40e9d0e6a02",
             "2143bfbe4eac74b5",
             "2994dea1d4713a60",
-            "9c91555f5426d4fa"
+            "9c91555f5426d4fa",
+            "d55131aebe542dea",
+            "92a8a189b18c536e",
+            "d51c027929acb706",
+            "d4b991fc5352d5b7",
+            "cf71418b11170ffb",
+            "b3a7e80e155ce75f",
+            "30c6cdf8d0a1679b",
+            "ebbec5b8d98b5148",
+            "1d42906b84ee26d8",
+            "5cbb4190237e95e0",
+            "c70bd67e0a25b87d",
+            "114ea3b0930f2d37",
+            "c7f8c9025eafeb10",
+            "52101cf0a1b74baf"
         ],
         "x": 14,
-        "y": 739
+        "y": 679,
+        "w": 1392,
+        "h": 402
     },
     {
         "id": "fd781041a7a8fbec",
@@ -4163,21 +4229,20 @@
         },
         "nodes": [
             "ca2d0743d5c66f4b",
-            "1288da21affea7b5",
             "3adf23d809d6c4be",
             "32d64fe4ad850758",
             "3c43afe9b1eb7173",
             "80901eaf0bd2bd2c",
             "b5d4777974a036c2",
             "3f8a201b6c5c41c9",
-            "068156972e59138f",
-            "d4420f349182dc92",
-            "e8670388edf896e2",
-            "601c579721df20ef",
-            "1fcb90134a8f3ddb"
+            "1fcb90134a8f3ddb",
+            "a67d0c04611f1089",
+            "af1bda6ebd18d02c"
         ],
         "x": -6,
-        "y": 99
+        "y": 179,
+        "w": 812,
+        "h": 222
     },
     {
         "id": "1306de9a.9ba341",
@@ -101082,7 +101147,7 @@
         "offcolor": "",
         "animate": false,
         "x": 340,
-        "y": 900,
+        "y": 1020,
         "wires": [
             [
                 "f51b76d6d7bb12c1"
@@ -101107,7 +101172,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 1300,
-        "y": 260,
+        "y": 240,
         "wires": [
             [
                 "5eb63a5352f330ac"
@@ -101149,7 +101214,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 1300,
-        "y": 220,
+        "y": 200,
         "wires": [
             [
                 "3d352895e2124f87"
@@ -101174,39 +101239,10 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 1300,
-        "y": 180,
+        "y": 160,
         "wires": [
             [
                 "cb58314994c14f05"
-            ]
-        ]
-    },
-    {
-        "id": "1288da21affea7b5",
-        "type": "function",
-        "z": "5b797a7252061594",
-        "g": "fd781041a7a8fbec",
-        "name": "Logica Control Artificial",
-        "func": "var habilitadoCS = global.get(\"Control_functions.SurfaceControl.habilitadoCS\") || false;\nvar Estado_Dinagrama = global.get(\"Control_functions.SurfaceControl.Estado_Dinagrama\")||false;\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\", \"memoryOnly\") || false;\nvar time = 0;\nvar Alert_Dinagrama;\nvar ctr2 = context.get(\"ctr2\", ctr2) || 0;\nvar Disparo = context.get(\"Disparo\",Disparo)||false;\nvar Tiempo_susp = global.get(\"Control_functions.SurfaceControl.time_susp\")||0;\n//Declaración de variables, si no se agrega nada que se inicialize en 0 y false\nvar Actual_pos = parseFloat(flow.get(\"Actual_pos\")) || 0.0;\nvar POC_aux = flow.get(\"POC_aux\") || false;\nvar POC_aux2 = flow.get(\"POC_aux2\") || false;\nvar POC_indice = flow.get(\"POC_indice\") || 0;\nvar POC_indice2 = flow.get(\"POC_indice2\") || 0;\nvar POC_actual = flow.get(\"POC_actual\") || 0;\nvar Porcentaje_X = global.get(\"Control_functions.SurfaceControl.Porcent_X\")||0;\nvar Porcentaje_Y = global.get(\"Control_functions.SurfaceControl.Porcent_Y\")||0;\nvar Num_intentos = global.get(\"Control_functions.SurfaceControl.Intentos\")||0;\n\n//Vector x posicion\nvar x = [0.033277, 0.298705, 0.669662, 1.142543, 1.738089, 2.445315, 3.24979, 4.16783, 5.191564, 6.2639, 7.402083, 8.644076, 9.995452, 11.436207, 12.939613, 14.526823, 16.207429, 17.955852, 19.767089, 21.661885, 23.624661, 25.635197, 27.697951, 29.828932, 31.998408, 34.196706, 36.431962, 38.706677, 41.013411, 43.348044, 45.724339, 48.149071,\n    50.476498, 52.779014, 55.120742, 57.459779, 59.748734, 62.024175, 64.298563, 66.545006, 68.754159, 70.919379, 73.046079, 75.123682, 77.140381, 79.09421, 80.977625, 82.811451, 84.579372, 86.249988, 87.835515, 89.337428, 90.736624, 92.029825, 93.241625, 94.357514, 95.357404, 96.268926, 97.088471, 97.786361, 98.380386, 98.874318, 99.279144,\n    99.586828, 99.810243, 99.950044, 100, 99.969048, 99.84817, 99.656304, 99.38845, 99.04231, 98.631415, 98.154287, 97.60945, 97.003055, 96.349038, 95.605669, 94.789098, 93.9618, 93.076469, 92.111869, 91.121867, 90.096869, 89.000145, 87.842846, 86.656537, 85.425313, 84.132857, 82.808357, 81.434432, 79.999276, 78.532158, 77.02775, 75.449812,\n    73.823023, 72.176406, 70.472903, 68.718008, 66.958862, 65.136436, 63.233183, 61.321827, 59.397612, 57.405607, 55.372212, 53.344732, 51.283979, 49.176999, 47.05716, 44.92315, 42.768083, 40.577774, 38.367145, 36.162597, 33.921988, 31.66278, 29.433932, 27.208785, 25.003011, 22.846217, 20.749532, 18.705578, 16.740837, 14.852849, 12.993374,\n    11.230657, 9.571503, 8.026405, 6.6034, 5.317899, 4.165887, 3.161054, 2.300859, 1.572431, 0.977982, 0.51571, 0.198895, 0.033277, 0];\n\n//Vector y carga\nvar y = [9.325307, 9.676723, 9.676723, 9.580882, 9.788537, 9.820484, 9.596856, 9.676723, 9.548935, 9.485041, 10.012166, 10.363582, 10.475396, 10.730972, 10.90668, 11.002521, 11.258096, 11.433804, 11.513671, 11.717333, 11.835137, 11.917001, 11.809181, 11.631476, 11.226149, 10.970574, 10.794866, 10.651104, 10.459423, 10.267741, 10.139953,\n    9.996192, 9.820484, 9.628803, 9.516988, 9.692696, 9.900351, 10.07606, 10.187874, 10.315662, 10.331635, 10.331635, 10.443449, 10.507343, 10.443449, 10.53929, 10.699025, 10.571237, 10.251768, 9.980219, 9.804511, 9.612829, 9.405174, 9.357254, 9.34128, 9.149599, 8.97389, 9.021811, 8.92597, 8.734288, 8.909997, 9.245439, 9.437121, 9.532962,\n    9.75659, 9.884378, 9.932298, 9.964245, 9.900351, 9.996192, 9.948272, 10.028139, 10.139953, 9.964245, 9.628803, 9.469068, 9.469068, 9.34128, 9.149599, 9.245439, 9.29336, 9.117652, 9.053758, 9.245439, 9.181545, 9.085705, 9.373227, 9.70867, 9.692696, 9.644776, 9.788537, 9.868405, 9.628803, 9.548935, 9.612829, 9.421147, 9.165572, 9.037784,\n    8.814156, 8.350925, 7.903668, 7.759907, 7.711987, 7.456411, 7.200836, 7.168889, 7.041101, 6.705658, 6.561897, 6.753579, 6.929287, 7.184862, 7.536279, 7.855748, 7.919642, 7.887695, 8.09535, 8.318978, 8.334952, 8.526633, 8.766235, 8.734288, 8.686368, 8.718315, 8.414819, 8.223138, 8.366899, 8.350925, 8.366899, 8.51066, 8.478713, 8.382872,\n    8.494686, 8.51066, 8.55858, 8.750262, 8.941944, 9.229466, 9.373227, 9.29336];\n\nvar Max_Desp_s = 0;\nvar Min_Desp_s = 0;\nvar Max_Carga_s = 0;\nvar Min_Carga_s = 0;\n\n//Se inicializa las variables con el valor de la posición 0 de cada vector.\nMax_Desp_s = x[0];\nMin_Desp_s = x[0];\nMax_Carga_s = y[0];\nMin_Carga_s = y[0];\n\nif (habilitadoCS == true && comunicacion == true){\n    //visualizar estado del habilitado\n     node.status({ fill: \"green\", shape: \"dot\", text: \"habilitado\" });\n\n    //Condición de que el % sea mayor a 0\n    if (Porcentaje_X > 0 && Porcentaje_Y > 0 && Porcentaje_X <= 100 && Porcentaje_Y <= 100){\n\n        if(Estado_Dinagrama == true){\n            Alert_Dinagrama = \"Verificando Punto de Operación\"\n            //Encontrar el valor maximo y minimo del vector X.\n            for (var i = 0; i < x.length; i++) {\n                if (x[i] > Max_Desp_s) {\n                    Max_Desp_s = x[i];\n                }\n                if (x[i] < Min_Desp_s) {\n                    Min_Desp_s = x[i];\n                }\n            }\n            context.set(\"Min_Desp_s\", Min_Desp_s);//Seteo el minimo valor del vector X\n            context.set(\"Max_Desp_s\", Max_Desp_s);//Seteo el maximo valor del vector X\n\n            //Calcula el valor de X real\n            var Point_X_Real = (((Max_Desp_s - Min_Desp_s) * Porcentaje_X) / 100.0) + Min_Desp_s;\n            context.set(\"Point_X_Real\", Point_X_Real);//Seteo el valor hallado en la anterior ecucación\n\n            //Recorre el vector en busca del punto up y del punto down\n            for (var j = 0; j < x.length; j++) {\n                if (Actual_pos < x[j]) {\n                    if (Actual_pos > Point_X_Real && POC_aux == false) {\n                        POC_aux = true;\n                        POC_indice = j;\n                        context.set(\"POC_indice\", POC_indice);\n                    }\n                }\n                if (Actual_pos > x[j] && POC_aux == true) {\n                    if (Actual_pos < Point_X_Real && POC_aux2 == false) {\n                        POC_aux2 = true;\n                        POC_indice2 = j;\n                        context.set(\"POC_indice2\", POC_indice2);\n\n                    }\n\n                }\n                Actual_pos = x[j];\n                flow.set(\"Actual_pos\", Actual_pos);//Setea el valor que esta en la posición j del vector Y\n\n            }\n\n            POC_aux = false;//Indica evaluar de nuevo\n            flow.set(\"POC_aux\", POC_aux);\n            POC_aux2 = false;//Indica evaluar de nuevo\n            flow.set(\"POC_aux2\", POC_aux2);\n\n            //Indicar los puntos de up stroke y down stroke\n            var POC_carga_arriba = y[POC_indice];//up\n            var POC_carga_abajo = y[POC_indice2];//down\n\n            //Encontrar el valor maximo y minimo del vector Y.\n            for (var k = 0; k < y.length; k++) {\n                if (y[k] > Max_Carga_s) {\n                    Max_Carga_s = y[k];\n                }\n                if (y[k] < Min_Carga_s) {\n                    Min_Carga_s = y[k];\n                }\n            }\n            context.set(\"Min_Carga_s\", Min_Carga_s); //Seteo el minimo valor del vector Y\n            context.set(\"Max_Carga_s\", Max_Carga_s); //Seteo el maximo valor del vector Y\n\n            //Calcular el valor de Y real\n            var Point_Y_Real = (((Max_Carga_s - Min_Carga_s) * Porcentaje_Y) / 100.0) + Min_Carga_s;\n            context.set(\"Point_Y_Real\", Point_Y_Real);//Seteo el valor hallado en la anterior ecucación\n\n            //Evaluar si el punto esta por fuera o por dentro.\n            if (Point_Y_Real > POC_carga_arriba || Point_Y_Real < POC_carga_abajo) {\n                var POC_trigger = true;//Define si el punto está por fuera o por dentro\n                context.set(\"POC_trigger\", POC_trigger);\n                node.status({ fill: \"green\", shape: \"dot\", text: \"punto fuera del rango\" });\n                Alert_Dinagrama = {payload:\"punto fuera del rango\"};\n                time = { payload: time };\n                Estado_Dinagrama = { payload: Estado_Dinagrama };\n\n            } else {\n                POC_trigger = false;//Indica que el punto esta dentro del rango\n                node.status({ fill: \"green\", shape: \"dot\", text: \"punto dentro del rango\" }); \n                Alert_Dinagrama = {payload:\"punto dentro del rango\"};\n                global.set(\"Control_functions.SurfaceControl.Estado_Dinagrama\", true);\n                time = { payload: time };\n                Estado_Dinagrama = { payload: Estado_Dinagrama };\n                return [Estado_Dinagrama, time,Alert_Dinagrama];\n\n            }\n\n            //Contar el número de intentos\n            if (POC_actual <= Num_intentos + 1) {\n                if (POC_trigger == true) {\n                    POC_actual += 1;\n                    flow.set(\"POC_actual\", POC_actual);\n                } else {\n                    POC_actual = 0;\n                    flow.set(\"POC_actual\", POC_actual);\n                }\n\n\n            }\n\n            //Dsiparosi sobrepasa el número de intentos\n            if (POC_actual > Num_intentos) {\n                Alert_Dinagrama = {payload:\"Ha superado  el número de intentos, se apagará el equipo\"};\n                Disparo = true;//activa el disparo\n                context.set(\"Disparo\", Disparo);\n                global.set(\"Control_functions.SurfaceControl.Estado_Dinagrama\", false);//Desactiva el estado para iniciar\n                Estado_Dinagrama = { payload: false };\n                return [Estado_Dinagrama, time, Alert_Dinagrama];\n            }\n            POC_trigger = false\n            context.set(\"POC_carga_arriba\", POC_carga_arriba);\n            context.set(\"Point_Y_Real\", Point_Y_Real);\n        }\n\n        if (Disparo == true && Estado_Dinagrama == false) {//Empieza el conteo de suspensión del control para despues volver evaluar.\n            ctr2 += 1; //contador para el tiempo de espera\n            context.set(\"ctr2\", ctr2);\n            time = Tiempo_susp - ctr2;\n            if (Tiempo_susp == ctr2) {\n                POC_actual = 0;//setea el número de intentos\n                flow.set(\"POC_actual\", POC_actual);\n                Disparo = false;\n                context.set(\"Disparo\",Disparo);\n                global.set(\"Control_functions.SurfaceControl.Estado_Dinagrama\", true);\n                context.set(\"ctr2\", 0)//setear el contador\n                Alert_Dinagrama = {payload:\"Se encenderá el equipo,Calculando Punto de Operación\"};\n                time = { payload: time };\n                Estado_Dinagrama = { payload: true };\n                return [Estado_Dinagrama, time,Alert_Dinagrama];\n            } else if (ctr2 > Tiempo_susp) {\n                //caso en el cual se cambia el tiempo del contador por pantalla\n                context.set(\"ctr2\", 0)//setear el contador\n            }\n            time = { payload: time };\n            Estado_Dinagrama = { payload: Estado_Dinagrama };\n            return[Estado_Dinagrama,time,Alert_Dinagrama];\n        }\n    }else{\n        Alert_Dinagrama = {payload:\"Valor Erroneo\"};\n        return[Estado_Dinagrama,time,Alert_Dinagrama];\n\n    }\n}else if(habilitadoCS == false && comunicacion == true){\n    global.set(\"Control_functions.SurfaceControl.Estado_Dinagrama\", true);\n    context.set(\"time\",0);\n    context.set(\"ctr2\",0);\n\n\n}\ncontext.set(\"time\",time);\ncontext.set(\"ctr2\",ctr2);\ncontext.set(\"Tiempo_susp\",Tiempo_susp);\ncontext.set(\"habilitadoCS\", habilitadoCS, \"memoryOnly\");\ncontext.set(\"Estado_Dinagrama\", Estado_Dinagrama, \"memoryOnly\");\ncontext.set(\"Disparo\",Disparo,\"memoryOnly\");",
-        "outputs": 3,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 220,
-        "y": 320,
-        "wires": [
-            [
-                "32d64fe4ad850758",
-                "b5d4777974a036c2",
-                "068156972e59138f"
-            ],
-            [
-                "3c43afe9b1eb7173",
-                "3f8a201b6c5c41c9"
-            ],
-            [
-                "1fcb90134a8f3ddb"
             ]
         ]
     },
@@ -101225,7 +101261,7 @@
                 "vt": "str"
             }
         ],
-        "repeat": "10",
+        "repeat": "1",
         "crontab": "",
         "once": false,
         "onceDelay": 0.1,
@@ -101235,7 +101271,7 @@
         "y": 260,
         "wires": [
             [
-                "1288da21affea7b5"
+                "a67d0c04611f1089"
             ]
         ]
     },
@@ -101326,7 +101362,7 @@
         "finalize": "",
         "libs": [],
         "x": 1040,
-        "y": 220,
+        "y": 200,
         "wires": [
             [
                 "72ff3c659cbbde2e"
@@ -101369,7 +101405,7 @@
         "to": "",
         "reg": false,
         "x": 1680,
-        "y": 180,
+        "y": 160,
         "wires": [
             []
         ]
@@ -101395,7 +101431,7 @@
         "to": "",
         "reg": false,
         "x": 1680,
-        "y": 220,
+        "y": 200,
         "wires": [
             []
         ]
@@ -101421,7 +101457,7 @@
         "to": "",
         "reg": false,
         "x": 1680,
-        "y": 260,
+        "y": 240,
         "wires": [
             []
         ]
@@ -101444,7 +101480,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 1310,
-        "y": 300,
+        "y": 280,
         "wires": [
             [
                 "3f170170735fb414"
@@ -101469,7 +101505,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 1310,
-        "y": 340,
+        "y": 320,
         "wires": [
             [
                 "5c08c4bb6a359a6e"
@@ -101494,7 +101530,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 1310,
-        "y": 380,
+        "y": 360,
         "wires": [
             [
                 "4ba7844e7747726a"
@@ -101522,7 +101558,7 @@
         "to": "",
         "reg": false,
         "x": 1690,
-        "y": 300,
+        "y": 280,
         "wires": [
             []
         ]
@@ -101548,7 +101584,7 @@
         "to": "",
         "reg": false,
         "x": 1700,
-        "y": 340,
+        "y": 320,
         "wires": [
             []
         ]
@@ -101574,7 +101610,7 @@
         "to": "",
         "reg": false,
         "x": 1670,
-        "y": 380,
+        "y": 360,
         "wires": [
             []
         ]
@@ -101600,7 +101636,7 @@
         "to": "",
         "reg": false,
         "x": 180,
-        "y": 840,
+        "y": 960,
         "wires": [
             [
                 "67e33f7379b1e61d"
@@ -101627,7 +101663,7 @@
         "repair": false,
         "outputs": 2,
         "x": 490,
-        "y": 840,
+        "y": 960,
         "wires": [
             [
                 "161b3cf9cb706517"
@@ -101653,7 +101689,7 @@
         "topic": "¿Desea Activar el Control Superficie?",
         "name": "confirm",
         "x": 660,
-        "y": 800,
+        "y": 920,
         "wires": [
             [
                 "baca85e0e09173c6"
@@ -101676,7 +101712,7 @@
         "topic": "¿Desea Desactivar el Control Superficie?",
         "name": "confirm",
         "x": 700,
-        "y": 860,
+        "y": 980,
         "wires": [
             [
                 "7be5fa40a5b5bb8d"
@@ -101707,7 +101743,7 @@
         "repair": false,
         "outputs": 2,
         "x": 790,
-        "y": 800,
+        "y": 920,
         "wires": [
             [
                 "7830a7569ec98231"
@@ -101741,7 +101777,7 @@
         "repair": false,
         "outputs": 2,
         "x": 830,
-        "y": 900,
+        "y": 1020,
         "wires": [
             [
                 "2d176b4a5abe6bb5"
@@ -101772,7 +101808,7 @@
         "to": "",
         "reg": false,
         "x": 940,
-        "y": 780,
+        "y": 900,
         "wires": [
             [
                 "2143bfbe4eac74b5"
@@ -101800,7 +101836,7 @@
         "to": "",
         "reg": false,
         "x": 950,
-        "y": 820,
+        "y": 940,
         "wires": [
             [
                 "2143bfbe4eac74b5"
@@ -101828,7 +101864,7 @@
         "to": "",
         "reg": false,
         "x": 970,
-        "y": 880,
+        "y": 1000,
         "wires": [
             [
                 "2143bfbe4eac74b5",
@@ -101857,7 +101893,7 @@
         "to": "",
         "reg": false,
         "x": 960,
-        "y": 920,
+        "y": 1040,
         "wires": [
             [
                 "2143bfbe4eac74b5"
@@ -101874,7 +101910,7 @@
             "39bfcbb2ffaadf0b"
         ],
         "x": 875,
-        "y": 220,
+        "y": 200,
         "wires": [
             [
                 "66a80404a34ef8ec"
@@ -101891,7 +101927,7 @@
             "2994dea1d4713a60"
         ],
         "x": 1075,
-        "y": 840,
+        "y": 960,
         "wires": []
     },
     {
@@ -101904,7 +101940,7 @@
             "2143bfbe4eac74b5"
         ],
         "x": 55,
-        "y": 840,
+        "y": 960,
         "wires": [
             [
                 "d246ab2f0d047355"
@@ -102068,7 +102104,8 @@
         "wires": [
             [
                 "88aa372d9f142abb",
-                "0ba194b3e3201c24"
+                "0ba194b3e3201c24",
+                "73cf0b0de7a2e0fc"
             ],
             [
                 "0166a96fef75d7e0"
@@ -102099,7 +102136,7 @@
         "y": 480,
         "wires": [
             [
-                "669d48362aab5462"
+                "b6c43cb90db15418"
             ]
         ]
     },
@@ -102293,106 +102330,6 @@
         "wires": []
     },
     {
-        "id": "068156972e59138f",
-        "type": "switch",
-        "z": "5b797a7252061594",
-        "g": "fd781041a7a8fbec",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "true"
-            },
-            {
-                "t": "false"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 290,
-        "y": 160,
-        "wires": [
-            [
-                "d4420f349182dc92"
-            ],
-            [
-                "e8670388edf896e2"
-            ]
-        ]
-    },
-    {
-        "id": "d4420f349182dc92",
-        "type": "change",
-        "z": "5b797a7252061594",
-        "g": "fd781041a7a8fbec",
-        "name": "Arranque",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "Start",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Basic",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 440,
-        "y": 140,
-        "wires": [
-            [
-                "601c579721df20ef"
-            ]
-        ]
-    },
-    {
-        "id": "e8670388edf896e2",
-        "type": "change",
-        "z": "5b797a7252061594",
-        "g": "fd781041a7a8fbec",
-        "name": "Pare",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "Stop",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "Basic",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 430,
-        "y": 180,
-        "wires": [
-            [
-                "601c579721df20ef"
-            ]
-        ]
-    },
-    {
         "id": "8a30dd5c5f275190",
         "type": "ui_chart",
         "z": "5b797a7252061594",
@@ -102430,8 +102367,8 @@
         ],
         "outputs": 1,
         "useDifferentColor": false,
-        "x": 410,
-        "y": 1020,
+        "x": 390,
+        "y": 1140,
         "wires": [
             []
         ]
@@ -102450,8 +102387,8 @@
         "targetType": "full",
         "statusVal": "payload",
         "statusType": "auto",
-        "x": 360,
-        "y": 1060,
+        "x": 340,
+        "y": 1180,
         "wires": []
     },
     {
@@ -102463,8 +102400,8 @@
         "links": [
             "d3fc647f21f7d8eb"
         ],
-        "x": 75,
-        "y": 1040,
+        "x": 55,
+        "y": 1160,
         "wires": [
             [
                 "d264a0cf20ef8465"
@@ -102489,26 +102426,13 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 200,
-        "y": 1040,
+        "x": 180,
+        "y": 1160,
         "wires": [
             [
                 "cb14c568e7814e18",
                 "8a30dd5c5f275190"
             ]
-        ]
-    },
-    {
-        "id": "601c579721df20ef",
-        "type": "subflow:c8b77ff3.ab501",
-        "z": "5b797a7252061594",
-        "g": "fd781041a7a8fbec",
-        "name": "",
-        "x": 600,
-        "y": 160,
-        "wires": [
-            [],
-            []
         ]
     },
     {
@@ -102526,7 +102450,7 @@
         "statusVal": "payload",
         "statusType": "auto",
         "x": 1150,
-        "y": 900,
+        "y": 1020,
         "wires": []
     },
     {
@@ -103285,6 +103209,1110 @@
         "wires": [
             [
                 "337b45b67a7e1518"
+            ]
+        ]
+    },
+    {
+        "id": "eab490d853e4385a",
+        "type": "change",
+        "z": "1517c169dc02830b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(file)::C2S.Command.Run",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
+            },
+            {
+                "t": "set",
+                "p": "#:(file)::C2S.Command.Reset",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 490,
+        "y": 440,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a59523ab899f4cf0",
+        "type": "change",
+        "z": "1517c169dc02830b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(file)::C2S.Command.Run",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            },
+            {
+                "t": "set",
+                "p": "#:(file)::C2S.Command.Reset",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 490,
+        "y": 480,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d47ce76e29334e5b",
+        "type": "change",
+        "z": "1517c169dc02830b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "C2S.Command.Reset",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 540,
+        "y": 520,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0ca6fd931e890a21",
+        "type": "function",
+        "z": "1517c169dc02830b",
+        "name": "LogicCommand",
+        "func": "var Direction = global.get(\"C2S.Drive_Status.Command_dir\",\"memoryOnly\");\n\n//Mensaje de salida\nif(msg.payload == 'Start'){\n    if(Direction == 0){\n        msg.command = \"Arranque 'Reverse'\";\n    }\n    else{\n        msg.command = \"Arranque 'Forward'\";\n    }\n    msg.payload = 2;\n}\nelse if(msg.payload == 'Stop'){\n    msg.command = \"Parada del equipo\";\n    msg.payload = 1\n}\nelse if(msg.payload == 'Reset'){\n    msg.command = \"Reset del equipo\";\n    msg.payload = 8;\n    \n}\nelse if(msg.payload == 'Forward'){\n    msg.command = \"Cambio sentido de giro a 'Forward'\";\n    msg.payload = 16;\n}\nelse if(msg.payload == 'Reverse'){\n    msg.command = \"Cambio sentido de giro a 'Reverse'\";\n    msg.payload = 32;\n}\nreturn msg",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 920,
+        "y": 190,
+        "wires": [
+            [
+                "4d40620b9e46dcd2",
+                "dac54d0ae976fe12",
+                "6174c9c1d914dc9c",
+                "2d77bdc543dbb58a"
+            ]
+        ]
+    },
+    {
+        "id": "0f66a0d7feb4cf42",
+        "type": "switch",
+        "z": "1517c169dc02830b",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Start",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Stop",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Reset",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 3,
+        "x": 340,
+        "y": 150,
+        "wires": [
+            [
+                "6d77dec2c8de9555"
+            ],
+            [
+                "c02d5d5aad296697"
+            ],
+            [
+                "3a55490179331848"
+            ]
+        ]
+    },
+    {
+        "id": "598301c72795e22e",
+        "type": "switch",
+        "z": "1517c169dc02830b",
+        "name": "",
+        "property": "topic",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Basic",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Direction",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 180,
+        "y": 200,
+        "wires": [
+            [
+                "0f66a0d7feb4cf42"
+            ],
+            [
+                "908e1adb52d43413"
+            ]
+        ]
+    },
+    {
+        "id": "908e1adb52d43413",
+        "type": "switch",
+        "z": "1517c169dc02830b",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "num"
+            },
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 340,
+        "y": 250,
+        "wires": [
+            [
+                "4172a9773deaeaeb"
+            ],
+            [
+                "625fe540d3967554"
+            ]
+        ]
+    },
+    {
+        "id": "4172a9773deaeaeb",
+        "type": "change",
+        "z": "1517c169dc02830b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Forward",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 510,
+        "y": 230,
+        "wires": [
+            [
+                "0ca6fd931e890a21"
+            ]
+        ]
+    },
+    {
+        "id": "625fe540d3967554",
+        "type": "change",
+        "z": "1517c169dc02830b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Reverse",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 510,
+        "y": 270,
+        "wires": [
+            [
+                "0ca6fd931e890a21"
+            ]
+        ]
+    },
+    {
+        "id": "4d40620b9e46dcd2",
+        "type": "change",
+        "z": "1517c169dc02830b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "command",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1150,
+        "y": 270,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e9d508d9804fd545",
+        "type": "pccc out",
+        "z": "1517c169dc02830b",
+        "endpoint": "e9d237aaf9318e74",
+        "variable": "CommandWord",
+        "name": "",
+        "x": 1460,
+        "y": 110,
+        "wires": []
+    },
+    {
+        "id": "dac54d0ae976fe12",
+        "type": "delay",
+        "z": "1517c169dc02830b",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "500",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 1090,
+        "y": 110,
+        "wires": [
+            [
+                "ec950f81be8b57d1"
+            ]
+        ]
+    },
+    {
+        "id": "ec950f81be8b57d1",
+        "type": "change",
+        "z": "1517c169dc02830b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "0",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1260,
+        "y": 110,
+        "wires": [
+            [
+                "e9d508d9804fd545"
+            ]
+        ]
+    },
+    {
+        "id": "b29190fb4422fcb4",
+        "type": "delay",
+        "z": "1517c169dc02830b",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "4",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "x": 1640,
+        "y": 190,
+        "wires": [
+            [
+                "80064d49f3083c58"
+            ]
+        ]
+    },
+    {
+        "id": "363428d30395fa05",
+        "type": "change",
+        "z": "1517c169dc02830b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Active0",
+                "pt": "flow",
+                "to": "#:(memoryOnly)::C2S.Drive_Status.Active",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1420,
+        "y": 190,
+        "wires": [
+            [
+                "b29190fb4422fcb4"
+            ]
+        ]
+    },
+    {
+        "id": "80064d49f3083c58",
+        "type": "change",
+        "z": "1517c169dc02830b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Active1",
+                "pt": "flow",
+                "to": "#:(memoryOnly)::C2S.Drive_Status.Active",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1860,
+        "y": 190,
+        "wires": [
+            [
+                "cdd00d7a4e1cdfd0"
+            ]
+        ]
+    },
+    {
+        "id": "cdd00d7a4e1cdfd0",
+        "type": "function",
+        "z": "1517c169dc02830b",
+        "name": "Arranque/Parada",
+        "func": "var Active0     = flow.get(\"Active0\",'memoryOnly');\nvar Active1     = flow.get(\"Active1\",'memoryOnly');\nvar Arranque    = ((msg.command == \"Arranque 'Forward'\") || (msg.command==\"Arranque 'Reverse'\")) ? true:false;\nvar Parada      = msg.command == \"Parada del equipo\" ? true:false;\ndelete msg.topic;\n// Arranque exitoso\nif(Arranque && Active0 == 0 && Active0 != Active1){\n    msg.payload =\"Arranque exitoso\";\n    global.set(\"C2S.FlagStatus\",true);\n}\n// Arranque fallido\nelse if(Arranque && Active0 == 0 && Active0 == Active1){\n    msg.payload = \"Arranque fallido\";\n}\n// Parada Exitosa\nelse if (Parada && Active0 == 1 && Active0 != Active1){\n    msg.payload = \"Parada exitosa\";\n    global.set(\"C2S.FlagStatus\", false);\n}\n// Parada Fallida\nelse if (Parada && Active0 == 1 && Active0 == Active1){\n    msg.payload = \"Parada fallida\";\n}\nelse{\n    return;\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2050,
+        "y": 190,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "71d57a44c92a101f",
+        "type": "inject",
+        "z": "1517c169dc02830b",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "10",
+        "topic": "",
+        "payload": "0",
+        "payloadType": "num",
+        "x": 1290,
+        "y": 70,
+        "wires": [
+            [
+                "e9d508d9804fd545"
+            ]
+        ]
+    },
+    {
+        "id": "2d77bdc543dbb58a",
+        "type": "function",
+        "z": "1517c169dc02830b",
+        "name": "Bloque de arranque por protección",
+        "func": "var Prot = global.get(\"Protections.General\",'memoryOnly')||false;\nvar FallaGeneral = global.get(\"IO.Functions.DO['Falla general']\",\"memoryOnly\")||false;\nif ((Prot || FallaGeneral) &&  ((msg.command == \"Arranque 'Reverse'\") || (msg.command == \"Arranque 'Forward'\")) ){return;}\nelse{return msg;}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1520,
+        "y": 150,
+        "wires": [
+            [
+                "e9d508d9804fd545"
+            ]
+        ]
+    },
+    {
+        "id": "6174c9c1d914dc9c",
+        "type": "switch",
+        "z": "1517c169dc02830b",
+        "name": "comando",
+        "property": "command",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "cont",
+                "v": "Arranque",
+                "vt": "str"
+            },
+            {
+                "t": "cont",
+                "v": "Parada",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1250,
+        "y": 190,
+        "wires": [
+            [
+                "363428d30395fa05"
+            ],
+            [
+                "84f431c8316f8bfd"
+            ]
+        ]
+    },
+    {
+        "id": "84f431c8316f8bfd",
+        "type": "change",
+        "z": "1517c169dc02830b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::Active0",
+                "pt": "flow",
+                "to": "#:(memoryOnly)::C2S.Drive_Status.Active",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1420,
+        "y": 230,
+        "wires": [
+            [
+                "8cc3a55a904f556b"
+            ]
+        ]
+    },
+    {
+        "id": "8cc3a55a904f556b",
+        "type": "function",
+        "z": "1517c169dc02830b",
+        "name": "time",
+        "func": "var rampadesc = global.get(\"C2S.Speed_Control.Decel\")||0;\nvar hzmotor = global.get(\"C2S.Motor_Control.Nameplate.Hertz\")||60;\nvar frecact = global.get(\"C2S.Implicit.Output_Frequency\",\"memoryOnly\")||0;\nmsg.delay = parseInt((Math.abs(frecact/hzmotor)*rampadesc)*1000+2000);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1580,
+        "y": 230,
+        "wires": [
+            [
+                "c298628121a24e5d"
+            ]
+        ]
+    },
+    {
+        "id": "c298628121a24e5d",
+        "type": "delay",
+        "z": "1517c169dc02830b",
+        "name": "",
+        "pauseType": "delayv",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 1710,
+        "y": 230,
+        "wires": [
+            [
+                "80064d49f3083c58"
+            ]
+        ]
+    },
+    {
+        "id": "6d77dec2c8de9555",
+        "type": "change",
+        "z": "1517c169dc02830b",
+        "name": "Arranque",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Start",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 520,
+        "y": 110,
+        "wires": [
+            [
+                "0ca6fd931e890a21"
+            ]
+        ]
+    },
+    {
+        "id": "c02d5d5aad296697",
+        "type": "change",
+        "z": "1517c169dc02830b",
+        "name": "Parada",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Stop",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 520,
+        "y": 150,
+        "wires": [
+            [
+                "0ca6fd931e890a21"
+            ]
+        ]
+    },
+    {
+        "id": "3a55490179331848",
+        "type": "change",
+        "z": "1517c169dc02830b",
+        "name": "Reset",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Reset",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 510,
+        "y": 190,
+        "wires": [
+            [
+                "0ca6fd931e890a21"
+            ]
+        ]
+    },
+    {
+        "id": "d55131aebe542dea",
+        "type": "function",
+        "z": "5b797a7252061594",
+        "g": "f4c2cbbaa70a9690",
+        "name": "Calculo Punto de Operación",
+        "func": "//Declaración de variables, si no se agrega nada que se inicialize en 0 y false\nvar habilitadoCS = global.get(\"Control_functions.SurfaceControl.habilitadoCS\") || false;\nvar Estado_Dinagrama;\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\", \"memoryOnly\") || false;\nvar Alert_Dinagrama;\nvar Alert_Dinagrama2;\nvar Disparo = flow.get(\"Control_functions.SurfaceControl.Disparo\") || false;\nvar Actual_pos = parseFloat(flow.get(\"Actual_pos\")) || 0.0;\nvar POC_aux = flow.get(\"POC_aux\") || false;\nvar POC_aux2 = flow.get(\"POC_aux2\") || false;\nvar POC_indice = flow.get(\"POC_indice\") || 0;\nvar POC_indice2 = flow.get(\"POC_indice2\") || 0;\nvar POC_actual = flow.get(\"POC_actual\") || 0;\nvar Porcentaje_X = parseFloat(global.get(\"Control_functions.SurfaceControl.Porcent_X\")) || 0.0;\nvar Porcentaje_Y = parseFloat(global.get(\"Control_functions.SurfaceControl.Porcent_Y\")) || 0.0;\nvar Num_intentos = global.get(\"Control_functions.SurfaceControl.Intentos\") || 0;\nvar Point_Y_Real = flow.get(\"Point_Y_Real\")||0;\nvar Point_X_Real = flow.get(\"Point_X_Real\")||0;\nvar POC_carga_arriba = flow.get(\"POC_carga_arriba\")||0;\nvar POC_carga_abajo = flow.get(\"POC_carga_abajo\")||0;\n\n//Vector x posicion\nvar x = [0.033277, 0.298705, 0.669662, 1.142543, 1.738089, 2.445315, 3.24979, 4.16783, 5.191564, 6.2639, 7.402083, 8.644076, 9.995452, 11.436207, 12.939613, 14.526823, 16.207429, 17.955852, 19.767089, 21.661885, 23.624661, 25.635197, 27.697951, 29.828932, 31.998408, 34.196706, 36.431962, 38.706677, 41.013411, 43.348044, 45.724339, 48.149071,\n    50.476498, 52.779014, 55.120742, 57.459779, 59.748734, 62.024175, 64.298563, 66.545006, 68.754159, 70.919379, 73.046079, 75.123682, 77.140381, 79.09421, 80.977625, 82.811451, 84.579372, 86.249988, 87.835515, 89.337428, 90.736624, 92.029825, 93.241625, 94.357514, 95.357404, 96.268926, 97.088471, 97.786361, 98.380386, 98.874318, 99.279144,\n    99.586828, 99.810243, 99.950044, 100, 99.969048, 99.84817, 99.656304, 99.38845, 99.04231, 98.631415, 98.154287, 97.60945, 97.003055, 96.349038, 95.605669, 94.789098, 93.9618, 93.076469, 92.111869, 91.121867, 90.096869, 89.000145, 87.842846, 86.656537, 85.425313, 84.132857, 82.808357, 81.434432, 79.999276, 78.532158, 77.02775, 75.449812,\n    73.823023, 72.176406, 70.472903, 68.718008, 66.958862, 65.136436, 63.233183, 61.321827, 59.397612, 57.405607, 55.372212, 53.344732, 51.283979, 49.176999, 47.05716, 44.92315, 42.768083, 40.577774, 38.367145, 36.162597, 33.921988, 31.66278, 29.433932, 27.208785, 25.003011, 22.846217, 20.749532, 18.705578, 16.740837, 14.852849, 12.993374,\n    11.230657, 9.571503, 8.026405, 6.6034, 5.317899, 4.165887, 3.161054, 2.300859, 1.572431, 0.977982, 0.51571, 0.198895, 0.033277, 0];\n\n//Vector y carga\nvar y = [9.325307, 9.676723, 9.676723, 9.580882, 9.788537, 9.820484, 9.596856, 9.676723, 9.548935, 9.485041, 10.012166, 10.363582, 10.475396, 10.730972, 10.90668, 11.002521, 11.258096, 11.433804, 11.513671, 11.717333, 11.835137, 11.917001, 11.809181, 11.631476, 11.226149, 10.970574, 10.794866, 10.651104, 10.459423, 10.267741, 10.139953,\n    9.996192, 9.820484, 9.628803, 9.516988, 9.692696, 9.900351, 10.07606, 10.187874, 10.315662, 10.331635, 10.331635, 10.443449, 10.507343, 10.443449, 10.53929, 10.699025, 10.571237, 10.251768, 9.980219, 9.804511, 9.612829, 9.405174, 9.357254, 9.34128, 9.149599, 8.97389, 9.021811, 8.92597, 8.734288, 8.909997, 9.245439, 9.437121, 9.532962,\n    9.75659, 9.884378, 9.932298, 9.964245, 9.900351, 9.996192, 9.948272, 10.028139, 10.139953, 9.964245, 9.628803, 9.469068, 9.469068, 9.34128, 9.149599, 9.245439, 9.29336, 9.117652, 9.053758, 9.245439, 9.181545, 9.085705, 9.373227, 9.70867, 9.692696, 9.644776, 9.788537, 9.868405, 9.628803, 9.548935, 9.612829, 9.421147, 9.165572, 9.037784,\n    8.814156, 8.350925, 7.903668, 7.759907, 7.711987, 7.456411, 7.200836, 7.168889, 7.041101, 6.705658, 6.561897, 6.753579, 6.929287, 7.184862, 7.536279, 7.855748, 7.919642, 7.887695, 8.09535, 8.318978, 8.334952, 8.526633, 8.766235, 8.734288, 8.686368, 8.718315, 8.414819, 8.223138, 8.366899, 8.350925, 8.366899, 8.51066, 8.478713, 8.382872,\n    8.494686, 8.51066, 8.55858, 8.750262, 8.941944, 9.229466, 9.373227, 9.29336];\n\nvar Max_Desp_s = 0;\nvar Min_Desp_s = 0;\nvar Max_Carga_s = 0;\nvar Min_Carga_s = 0;\n\n//Se inicializa las variables con el valor de la posición 0 de cada vector.\nMax_Desp_s = x[0];\nMin_Desp_s = x[0];\nMax_Carga_s = y[0];\nMin_Carga_s = y[0];\n\nif (habilitadoCS == true && comunicacion == true) {\n    //visualizar estado del habilitado\n    node.status({ fill: \"green\", shape: \"dot\", text: \"habilitado\" });\n\n    //Condición de que el % sea mayor a 0 y menor a 100\n    if (Porcentaje_X > 0 && Porcentaje_Y > 0 && Porcentaje_X <= 100 && Porcentaje_Y <= 100) {\n\n        if (Disparo == false) {\n            Alert_Dinagrama = {payload:\"Verificando Punto de Operación, Por favor Espere\"};\n            //Encontrar el valor maximo y minimo del vector X.\n            for (var i = 0; i < x.length; i++) {\n                if (x[i] > Max_Desp_s) {\n                    Max_Desp_s = x[i];\n                }\n                if (x[i] < Min_Desp_s) {\n                    Min_Desp_s = x[i];\n                }\n            }\n            context.set(\"Min_Desp_s\", Min_Desp_s);//Seteo el minimo valor del vector X\n            context.set(\"Max_Desp_s\", Max_Desp_s);//Seteo el maximo valor del vector X\n\n            //Calcula el valor de X real\n            Point_X_Real = (((Max_Desp_s - Min_Desp_s) * Porcentaje_X) / 100.0) + Min_Desp_s;\n            flow.set(\"Point_X_Real\", Point_X_Real);//Seteo el valor hallado en la anterior ecucación\n\n            //Recorre el vector en busca del punto up y del punto down\n            for (var j = 0; j < x.length; j++) {\n                if (Actual_pos < x[j]) {\n                    if (Actual_pos > Point_X_Real && POC_aux == false) {\n                        POC_aux = true;\n                        POC_indice = j;\n                        context.set(\"POC_indice\", POC_indice);\n                    }\n                }\n                if (Actual_pos > x[j] && POC_aux == true) {\n                    if (Actual_pos < Point_X_Real && POC_aux2 == false) {\n                        POC_aux2 = true;\n                        POC_indice2 = j;\n                        context.set(\"POC_indice2\", POC_indice2);\n                    }\n\n                }\n                Actual_pos = x[j];\n                flow.set(\"Actual_pos\", Actual_pos);//Setea el valor que esta en la posición j del vector Y\n            }\n\n            POC_aux = false;//Indica evaluar de nuevo\n            flow.set(\"POC_aux\", POC_aux);\n            POC_aux2 = false;//Indica evaluar de nuevo\n            flow.set(\"POC_aux2\", POC_aux2);\n\n            //Indicar los puntos de up stroke y down stroke\n            POC_carga_arriba = y[POC_indice];//up\n            flow.set(\"POC_carga_arriba\",POC_carga_arriba);\n            POC_carga_abajo = y[POC_indice2];//down\n            flow.set(\"POC_carga_abajo\", POC_carga_abajo);\n\n            //Encontrar el valor maximo y minimo del vector Y.\n            for (var k = 0; k < y.length; k++) {\n                if (y[k] > Max_Carga_s) {\n                    Max_Carga_s = y[k];\n                }\n                if (y[k] < Min_Carga_s) {\n                    Min_Carga_s = y[k];\n                }\n            }\n            context.set(\"Min_Carga_s\", Min_Carga_s); //Seteo el minimo valor del vector Y\n            context.set(\"Max_Carga_s\", Max_Carga_s); //Seteo el maximo valor del vector Y\n\n            //Calcular el valor de Y real\n            Point_Y_Real = (((Max_Carga_s - Min_Carga_s) * Porcentaje_Y) / 100.0) + Min_Carga_s;\n            flow.set(\"Point_Y_Real\", Point_Y_Real);//Seteo el valor hallado en la anterior ecucación\n\n            //Evaluar si el punto esta por fuera o por dentro.\n            if (Point_Y_Real > POC_carga_arriba || Point_Y_Real < POC_carga_abajo) {\n                var POC_trigger = true;//Define si el punto está por fuera o por dentro\n                context.set(\"POC_trigger\", POC_trigger);\n                node.status({ fill: \"green\", shape: \"dot\", text: \"punto fuera del rango\" });\n                Alert_Dinagrama2 = { payload: \"punto fuera del rango\" };\n            } else {\n                POC_trigger = false;//Indica que el punto esta dentro del rango\n                node.status({ fill: \"green\", shape: \"dot\", text: \"punto dentro del rango\" });\n                Alert_Dinagrama2 = { payload: \"punto dentro del rango\" };\n            }\n            //Contar el número de intentos\n            if (POC_actual <= Num_intentos) {\n                if (POC_trigger == true) {\n                    POC_actual += 1;\n                    flow.set(\"POC_actual\", POC_actual);\n                    Alert_Dinagrama = {payload:\"Intento:\"+ POC_actual};\n                } else {\n                    POC_actual = 0;\n                    flow.set(\"POC_actual\", POC_actual);\n                }\n            }\n            \n            //Dsiparosi sobrepasa el número de intentos\n            if (POC_actual > Num_intentos) {\n                Alert_Dinagrama = { payload: \"Ha superado  el número de intentos, se apagará el equipo\" };\n                Disparo = true;//activa el disparo\n                flow.set(\"Control_functions.SurfaceControl.Disparo\", Disparo);\n                Estado_Dinagrama = { payload: false };//Apaga el equipo\n                POC_actual = 0;\n                flow.set(\"POC_actual\",POC_actual);\n                return [Disparo, Estado_Dinagrama, Alert_Dinagrama,Alert_Dinagrama2];\n            }\n            POC_trigger = false\n            context.set(\"POC_carga_arriba\", POC_carga_arriba);\n            context.set(\"Point_Y_Real\", Point_Y_Real);\n            \n        }\n        \n    }else{\n        Alert_Dinagrama = {payload:\"Valor % Erroneos\"};\n        return [Disparo, Estado_Dinagrama, Alert_Dinagrama,Alert_Dinagrama2];\n    }\n}\ncontext.set(\"Control_functions.SurfaceControl.Disparo\", Disparo);\ncontext.set(\"Estado_Dinagrama\",Estado_Dinagrama);\ncontext.set(\"POC_actual\",POC_actual);\nreturn [Disparo, Estado_Dinagrama, Alert_Dinagrama,Alert_Dinagrama2];\n\n",
+        "outputs": 4,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 360,
+        "y": 900,
+        "wires": [
+            [
+                "d51c027929acb706",
+                "b3a7e80e155ce75f"
+            ],
+            [
+                "92a8a189b18c536e",
+                "30c6cdf8d0a1679b"
+            ],
+            [
+                "52101cf0a1b74baf"
+            ],
+            [
+                "c7f8c9025eafeb10"
+            ]
+        ]
+    },
+    {
+        "id": "a67d0c04611f1089",
+        "type": "function",
+        "z": "5b797a7252061594",
+        "g": "fd781041a7a8fbec",
+        "name": "Logica Control Artificial",
+        "func": "//Declaración de variables, si no se agrega nada que se inicialize en 0 y false\nvar habilitadoCS = global.get(\"Control_functions.SurfaceControl.habilitadoCS\") || false;\nvar Estado_Dinagrama = global.get(\"Control_functions.SurfaceControl.Estado_Dinagrama\")||false;\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\", \"memoryOnly\") || false;\nvar time = 0;\nvar Alert_Dinagrama;\nvar ctr2 = context.get(\"ctr2\", ctr2) || 0;\nvar DisparoBreaker = flow.get(\"Control_functions.SurfaceControl.Disparo\")||false;\nvar Tiempo_susp = global.get(\"Control_functions.SurfaceControl.time_susp\")||0;\nvar POC_actual = flow.get(\"POC_actual\") || 0;\n\nif(comunicacion == true && habilitadoCS == true){\n\n    if (DisparoBreaker == true && Estado_Dinagrama == false) {//Empieza el conteo de suspensión del control para despues volver evaluar.\n        ctr2 += 1; //contador para el tiempo de espera\n        context.set(\"ctr2\", ctr2);\n        time = Tiempo_susp - ctr2;\n        if (Tiempo_susp == ctr2) {\n            POC_actual = 0;//setea el número de intentos\n            flow.set(\"POC_actual\", POC_actual);\n            DisparoBreaker = false;\n            flow.set(\"Control_functions.SurfaceControl.Disparo\", DisparoBreaker);\n            global.set(\"Control_functions.SurfaceControl.Estado_Dinagrama\", true);\n            context.set(\"ctr2\", 0)//setear el contador\n            Alert_Dinagrama = { payload: \"Se encenderá el equipo,Calculando Punto de Operación\" };\n            time = { payload: time };\n            Estado_Dinagrama = { payload: true };\n            return [Estado_Dinagrama, time, Alert_Dinagrama];\n        } else if (ctr2 > Tiempo_susp) {\n            //caso en el cual se cambia el tiempo del contador por pantalla\n            context.set(\"ctr2\", 0)//setear el contador\n        }\n        time = { payload: time };\n        Estado_Dinagrama = { payload: Estado_Dinagrama };\n        return [Estado_Dinagrama, time, Alert_Dinagrama];\n    }\n    return [Estado_Dinagrama, time, Alert_Dinagrama];\n\n} else if (habilitadoCS == false && comunicacion == true) {\n    context.set(\"time\", 0);\n    context.set(\"ctr2\", 0);\n}\nif (comunicacion == false) {\n    Estado_Dinagrama = { payload: false };\n    time = { payload: 0 };\n    return [Estado_Dinagrama, time, Alert_Dinagrama];\n}    \ncontext.set(\"time\",time);\ncontext.set(\"ctr2\",ctr2);\ncontext.set(\"Tiempo_susp\",Tiempo_susp);\ncontext.set(\"habilitadoCS\", habilitadoCS, \"memoryOnly\");\ncontext.set(\"Estado_Dinagrama\", Estado_Dinagrama, \"memoryOnly\");\ncontext.set(\"DisparoBreaker\", DisparoBreaker,\"memoryOnly\");",
+        "outputs": 3,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 180,
+        "y": 320,
+        "wires": [
+            [
+                "b5d4777974a036c2",
+                "32d64fe4ad850758",
+                "af1bda6ebd18d02c"
+            ],
+            [
+                "3c43afe9b1eb7173",
+                "3f8a201b6c5c41c9"
+            ],
+            [
+                "1fcb90134a8f3ddb"
+            ]
+        ]
+    },
+    {
+        "id": "d51c027929acb706",
+        "type": "change",
+        "z": "5b797a7252061594",
+        "g": "f4c2cbbaa70a9690",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Disparo",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 560,
+        "y": 740,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "92a8a189b18c536e",
+        "type": "change",
+        "z": "5b797a7252061594",
+        "g": "f4c2cbbaa70a9690",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.SurfaceControl.Estado_Dinagrama",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 770,
+        "y": 800,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d4b991fc5352d5b7",
+        "type": "inject",
+        "z": "5b797a7252061594",
+        "g": "f4c2cbbaa70a9690",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payloadType": "date",
+        "x": 200,
+        "y": 820,
+        "wires": [
+            [
+                "d55131aebe542dea"
+            ]
+        ]
+    },
+    {
+        "id": "cf71418b11170ffb",
+        "type": "ui_toast",
+        "z": "5b797a7252061594",
+        "g": "f4c2cbbaa70a9690",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "topic": "Información del Control de Superficie",
+        "name": "",
+        "x": 750,
+        "y": 840,
+        "wires": []
+    },
+    {
+        "id": "b3a7e80e155ce75f",
+        "type": "debug",
+        "z": "5b797a7252061594",
+        "g": "f4c2cbbaa70a9690",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": true,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "payload",
+        "statusType": "auto",
+        "x": 350,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "30c6cdf8d0a1679b",
+        "type": "switch",
+        "z": "5b797a7252061594",
+        "g": "f4c2cbbaa70a9690",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 790,
+        "y": 760,
+        "wires": [
+            [
+                "1d42906b84ee26d8"
+            ],
+            [
+                "ebbec5b8d98b5148"
+            ]
+        ]
+    },
+    {
+        "id": "1d42906b84ee26d8",
+        "type": "change",
+        "z": "5b797a7252061594",
+        "g": "f4c2cbbaa70a9690",
+        "name": "Arranque",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Start",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Basic",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1100,
+        "y": 720,
+        "wires": [
+            [
+                "5cbb4190237e95e0"
+            ]
+        ]
+    },
+    {
+        "id": "ebbec5b8d98b5148",
+        "type": "change",
+        "z": "5b797a7252061594",
+        "g": "f4c2cbbaa70a9690",
+        "name": "Pare",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Stop",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Basic",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1090,
+        "y": 760,
+        "wires": [
+            [
+                "5cbb4190237e95e0"
+            ]
+        ]
+    },
+    {
+        "id": "5cbb4190237e95e0",
+        "type": "subflow:c8b77ff3.ab501",
+        "z": "5b797a7252061594",
+        "g": "f4c2cbbaa70a9690",
+        "name": "",
+        "x": 1320,
+        "y": 740,
+        "wires": [
+            [],
+            []
+        ]
+    },
+    {
+        "id": "73cf0b0de7a2e0fc",
+        "type": "link out",
+        "z": "5b797a7252061594",
+        "g": "0e051c2facee0b6d",
+        "name": "",
+        "links": [
+            "c70bd67e0a25b87d"
+        ],
+        "x": 1235,
+        "y": 620,
+        "wires": []
+    },
+    {
+        "id": "c70bd67e0a25b87d",
+        "type": "link in",
+        "z": "5b797a7252061594",
+        "g": "f4c2cbbaa70a9690",
+        "name": "ActualizarDatosControlSurface",
+        "links": [
+            "73cf0b0de7a2e0fc"
+        ],
+        "x": 155,
+        "y": 900,
+        "wires": [
+            [
+                "d55131aebe542dea"
+            ]
+        ]
+    },
+    {
+        "id": "b6c43cb90db15418",
+        "type": "link out",
+        "z": "5b797a7252061594",
+        "g": "0e051c2facee0b6d",
+        "name": "",
+        "links": [
+            "e560dfdfebe2fd7d"
+        ],
+        "x": 1455,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "e560dfdfebe2fd7d",
+        "type": "link in",
+        "z": "5b797a7252061594",
+        "g": "0e051c2facee0b6d",
+        "name": "SetaeaValores_Tiempo_Porcentaje_ControlSurface",
+        "links": [
+            "b6c43cb90db15418"
+        ],
+        "x": 15,
+        "y": 620,
+        "wires": [
+            [
+                "669d48362aab5462"
+            ]
+        ]
+    },
+    {
+        "id": "114ea3b0930f2d37",
+        "type": "link in",
+        "z": "5b797a7252061594",
+        "g": "f4c2cbbaa70a9690",
+        "name": "SeteaEstadoDinagrama_SurfaceControl",
+        "links": [
+            "af1bda6ebd18d02c"
+        ],
+        "x": 695,
+        "y": 720,
+        "wires": [
+            [
+                "30c6cdf8d0a1679b"
+            ]
+        ]
+    },
+    {
+        "id": "af1bda6ebd18d02c",
+        "type": "link out",
+        "z": "5b797a7252061594",
+        "g": "fd781041a7a8fbec",
+        "name": "",
+        "links": [
+            "114ea3b0930f2d37"
+        ],
+        "x": 215,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "c7f8c9025eafeb10",
+        "type": "ui_toast",
+        "z": "5b797a7252061594",
+        "g": "f4c2cbbaa70a9690",
+        "position": "top left",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "Información del Control de Superficie",
+        "name": "",
+        "x": 750,
+        "y": 880,
+        "wires": []
+    },
+    {
+        "id": "52101cf0a1b74baf",
+        "type": "delay",
+        "z": "5b797a7252061594",
+        "g": "f4c2cbbaa70a9690",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "2",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "x": 580,
+        "y": 880,
+        "wires": [
+            [
+                "cf71418b11170ffb"
             ]
         ]
     }
