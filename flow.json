@@ -1071,9 +1071,7 @@
             "0d7d36d911e2cbb3"
         ],
         "x": 24,
-        "y": 609,
-        "w": 2632,
-        "h": 552
+        "y": 609
     },
     {
         "id": "3cb51855.a66038",
@@ -1088,9 +1086,7 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169,
-        "w": 232,
-        "h": 82
+        "y": 1169
     },
     {
         "id": "27a0641a.d154dc",
@@ -2076,9 +2072,7 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269,
-        "w": 352,
-        "h": 82
+        "y": 1269
     },
     {
         "id": "6202107f.ed9aa",
@@ -2150,9 +2144,7 @@
             "7035c5bac0894530"
         ],
         "x": 44,
-        "y": -21,
-        "w": 1992,
-        "h": 622
+        "y": -21
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -2186,9 +2178,7 @@
             "17c1f84a5b3ad8ad"
         ],
         "x": 3224,
-        "y": 19,
-        "w": 1284,
-        "h": 1708
+        "y": 19
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -2209,9 +2199,7 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169,
-        "w": 782,
-        "h": 182
+        "y": 1169
     },
     {
         "id": "086b9d08c3b68939",
@@ -2242,9 +2230,7 @@
             "9661d016b799c47d"
         ],
         "x": 24,
-        "y": 1359,
-        "w": 1022,
-        "h": 292
+        "y": 1359
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -2270,9 +2256,7 @@
             "6e75b5f5657d3a7e"
         ],
         "x": 24,
-        "y": 1679,
-        "w": 1132,
-        "h": 202
+        "y": 1679
     },
     {
         "id": "afdbbb533d628687",
@@ -2288,9 +2272,7 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679,
-        "w": 332,
-        "h": 82
+        "y": 1679
     },
     {
         "id": "ba075c8cc622876a",
@@ -2711,9 +2693,7 @@
             "ca1808e9c0cebc54"
         ],
         "x": 52,
-        "y": 637,
-        "w": 3166,
-        "h": 2556
+        "y": 637
     },
     {
         "id": "3d603bc8c80c2124",
@@ -2733,9 +2713,7 @@
             "8f311859e2329cb0"
         ],
         "x": 54,
-        "y": 379,
-        "w": 902,
-        "h": 82
+        "y": 379
     },
     {
         "id": "4c1b2fd5bfa8819c",
@@ -2751,9 +2729,7 @@
             "af436d3d4e5d33de"
         ],
         "x": 42,
-        "y": 3227,
-        "w": 3020,
-        "h": 1410
+        "y": 3227
     },
     {
         "id": "600556d8bd2ccda4",
@@ -2818,9 +2794,7 @@
             "72c298a02ef42417"
         ],
         "x": 1094,
-        "y": 59,
-        "w": 2342,
-        "h": 532
+        "y": 59
     },
     {
         "id": "a9988da34f9622ff",
@@ -2847,9 +2821,7 @@
             "03552a6ae2d7be66"
         ],
         "x": 34,
-        "y": 39,
-        "w": 1032,
-        "h": 322
+        "y": 39
     },
     {
         "id": "474b22e105b31dff",
@@ -3320,9 +3292,7 @@
             "3fe6ba310d6fe1c0"
         ],
         "x": 154,
-        "y": 779,
-        "w": 1132,
-        "h": 342
+        "y": 779
     },
     {
         "id": "99fd9c5cbd90ceb5",
@@ -3339,9 +3309,7 @@
             "5e3e278f18c43297"
         ],
         "x": 154,
-        "y": 1159,
-        "w": 492,
-        "h": 122
+        "y": 1159
     },
     {
         "id": "aecdec289959a88b",
@@ -3371,9 +3339,7 @@
             "c029b9bec80247e8"
         ],
         "x": 154,
-        "y": 459,
-        "w": 1092,
-        "h": 282
+        "y": 459
     },
     {
         "id": "6c6732761a2613b5",
@@ -3427,7 +3393,9 @@
             "3f59808d6a892b13"
         ],
         "x": 534,
-        "y": 159
+        "y": 159,
+        "w": 652,
+        "h": 242
     },
     {
         "id": "8330e7a653863e55",
@@ -3445,7 +3413,9 @@
             "8b3d9fac296bfda2"
         ],
         "x": 34,
-        "y": 159
+        "y": 159,
+        "w": 482,
+        "h": 142
     },
     {
         "id": "7f4726c248df075a",
@@ -3472,7 +3442,9 @@
             "984de93babf87b5a"
         ],
         "x": 14,
-        "y": 419
+        "y": 419,
+        "w": 592,
+        "h": 322
     },
     {
         "id": "1ec8ef96430984c9",
@@ -3491,7 +3463,9 @@
             "31ad55c2c2e4aa56"
         ],
         "x": 14,
-        "y": 779
+        "y": 779,
+        "w": 652,
+        "h": 82
     },
     {
         "id": "b1331148614d9c76",
@@ -3510,7 +3484,9 @@
             "ec85fc31e23ddeeb"
         ],
         "x": 4,
-        "y": 879
+        "y": 879,
+        "w": 682,
+        "h": 82
     },
     {
         "id": "c6e9f26a4dee8c1e",
@@ -3753,9 +3729,7 @@
             "d3fc647f21f7d8eb"
         ],
         "x": 254,
-        "y": 1939,
-        "w": 532,
-        "h": 142
+        "y": 1939
     },
     {
         "id": "5519b13db7a1857a",
@@ -3781,9 +3755,7 @@
             "a0b90b4f54fbae9f"
         ],
         "x": 674,
-        "y": 1159,
-        "w": 1142,
-        "h": 222
+        "y": 1159
     },
     {
         "id": "9ff47da5fe193161",
@@ -3866,9 +3838,7 @@
             "d5eb026a704fd13b"
         ],
         "x": 154,
-        "y": 179,
-        "w": 1392,
-        "h": 162
+        "y": 179
     },
     {
         "id": "e4cabd2892b5651b",
@@ -3894,9 +3864,7 @@
             "44b52a5ca865f32a"
         ],
         "x": 114,
-        "y": 999,
-        "w": 862,
-        "h": 242
+        "y": 999
     },
     {
         "id": "65dbd90af70f1e98",
@@ -3925,9 +3893,7 @@
             "c9ef5029dfa1dca4"
         ],
         "x": 114,
-        "y": 599,
-        "w": 968,
-        "h": 375.5
+        "y": 599
     },
     {
         "id": "2ceb8ec502cd9a4d",
@@ -3954,9 +3920,7 @@
             "86a9047e4057bacf"
         ],
         "x": 1254,
-        "y": 599,
-        "w": 692,
-        "h": 322
+        "y": 599
     },
     {
         "id": "7fd14179472bdff0",
@@ -3988,9 +3952,7 @@
             "6f05a009383c5e7c"
         ],
         "x": 114,
-        "y": 279,
-        "w": 1332,
-        "h": 242
+        "y": 279
     },
     {
         "id": "b76c959d391c2570",
@@ -4109,9 +4071,7 @@
             "90db7ddb11817711"
         ],
         "x": 14,
-        "y": 419,
-        "w": 1632,
-        "h": 262
+        "y": 419
     },
     {
         "id": "162691d3abd26ddb",
@@ -4143,9 +4103,7 @@
             "4ba7844e7747726a"
         ],
         "x": 834,
-        "y": 139,
-        "w": 1102,
-        "h": 282
+        "y": 139
     },
     {
         "id": "bca72b7420df46a9",
@@ -4162,9 +4120,7 @@
             "d264a0cf20ef8465"
         ],
         "x": 34,
-        "y": 979,
-        "w": 492,
-        "h": 122
+        "y": 979
     },
     {
         "id": "f4c2cbbaa70a9690",
@@ -4196,9 +4152,7 @@
             "9c91555f5426d4fa"
         ],
         "x": 14,
-        "y": 739,
-        "w": 1252,
-        "h": 222
+        "y": 739
     },
     {
         "id": "fd781041a7a8fbec",
@@ -4229,9 +4183,7 @@
             "1fcb90134a8f3ddb"
         ],
         "x": -6,
-        "y": 99,
-        "w": 812,
-        "h": 302
+        "y": 99
     },
     {
         "id": "73546535bd657e5f",
@@ -4277,12 +4229,19 @@
             "73f3e1d4adf1b4f2",
             "b6ccf7628a758b36",
             "b862b007fadc3854",
-            "f29cf89058d2bf0c"
+            "f29cf89058d2bf0c",
+            "c64adff573b33d8e",
+            "5ba3bd2da473a65e",
+            "f87215caf347b889",
+            "c35adde9b5af3493",
+            "136cc9da70140a0c",
+            "220a7441ff50bfd3",
+            "f90a82bb260e58f9"
         ],
         "x": 124,
-        "y": 299,
-        "w": 782,
-        "h": 202
+        "y": 219,
+        "w": 1062,
+        "h": 282
     },
     {
         "id": "0e0b9759209dfb2f",
@@ -4379,8 +4338,8 @@
             "0e9820a7fbc95a17",
             "5b99a9cea8e23964"
         ],
-        "x": 934,
-        "y": 299,
+        "x": 1194,
+        "y": 539,
         "w": 532,
         "h": 82
     },
@@ -5065,9 +5024,7 @@
             "1a666ca6835d2d34"
         ],
         "x": 74,
-        "y": 399,
-        "w": 852,
-        "h": 132
+        "y": 399
     },
     {
         "id": "cf985e84.c7693",
@@ -5679,9 +5636,7 @@
             "0d3271d48cdd3dc2"
         ],
         "x": 78,
-        "y": 673,
-        "w": 1724,
-        "h": 2494
+        "y": 673
     },
     {
         "id": "ca1808e9c0cebc54",
@@ -5699,9 +5654,7 @@
             "acf6618644660324"
         ],
         "x": 1828,
-        "y": 663,
-        "w": 1364,
-        "h": 1536.5
+        "y": 663
     },
     {
         "id": "eae7b72d553551bc",
@@ -5718,9 +5671,7 @@
             "7d3d6fba6fb45cf5"
         ],
         "x": 68,
-        "y": 3253,
-        "w": 1284,
-        "h": 894
+        "y": 3253
     },
     {
         "id": "af436d3d4e5d33de",
@@ -5797,9 +5748,7 @@
             "9f7b833ed93f0cc5"
         ],
         "x": 1368,
-        "y": 3263,
-        "w": 1668,
-        "h": 1348
+        "y": 3263
     },
     {
         "id": "b1830307.ee865",
@@ -6029,9 +5978,7 @@
             "26836fe8d310f685"
         ],
         "x": 3428,
-        "y": 413,
-        "w": 1054,
-        "h": 758
+        "y": 413
     },
     {
         "id": "7bc9759a9a7ea0be",
@@ -6086,9 +6033,7 @@
             "09240a88f66b7c6f"
         ],
         "x": 3434,
-        "y": 1179,
-        "w": 992,
-        "h": 522
+        "y": 1179
     },
     {
         "id": "dad84feb.d4773",
@@ -6282,9 +6227,7 @@
             "a6ae08b25206a8fb"
         ],
         "x": 154,
-        "y": 799,
-        "w": 902,
-        "h": 149.5
+        "y": 799
     },
     {
         "id": "a80677cf.4274c8",
@@ -7121,9 +7064,7 @@
             "5da923b060b7d724"
         ],
         "x": 104,
-        "y": 699,
-        "w": 1242,
-        "h": 862
+        "y": 699
     },
     {
         "id": "b670eeac81e3a4e1",
@@ -7153,9 +7094,7 @@
             "6b6e6135b877d85a"
         ],
         "x": 124,
-        "y": 2959,
-        "w": 862,
-        "h": 182
+        "y": 2959
     },
     {
         "id": "404043e2f2ac38f5",
@@ -7211,9 +7150,7 @@
             "da3df13ea266ba47"
         ],
         "x": 1854,
-        "y": 689,
-        "w": 1292,
-        "h": 718
+        "y": 689
     },
     {
         "id": "acf6618644660324",
@@ -7280,9 +7217,7 @@
             "8daf2335c61c98d8"
         ],
         "x": 1874,
-        "y": 1519,
-        "w": 1292,
-        "h": 654.5
+        "y": 1519
     },
     {
         "id": "0d3271d48cdd3dc2",
@@ -7493,9 +7428,7 @@
             "f26884a752f635f5"
         ],
         "x": 114,
-        "y": 1579,
-        "w": 1662,
-        "h": 1322
+        "y": 1579
     },
     {
         "id": "7d3d6fba6fb45cf5",
@@ -7562,9 +7495,7 @@
             "43e435b1bf98945c"
         ],
         "x": 94,
-        "y": 3279,
-        "w": 1232,
-        "h": 842
+        "y": 3279
     },
     {
         "id": "01d2b2ec2f34b6be",
@@ -7603,9 +7534,7 @@
             "d4e43509215bf215"
         ],
         "x": 1394,
-        "y": 3289,
-        "w": 1232,
-        "h": 322
+        "y": 3289
     },
     {
         "id": "b4a46197db30977b",
@@ -7645,9 +7574,7 @@
             "592f8a1403a12574"
         ],
         "x": 1394,
-        "y": 3609,
-        "w": 722,
-        "h": 442
+        "y": 3609
     },
     {
         "id": "36fa9c99094e8f47",
@@ -7671,9 +7598,7 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 439,
-        "w": 402,
-        "h": 362
+        "y": 439
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -7701,9 +7626,7 @@
             "1f3630da2492d4f9"
         ],
         "x": 3454,
-        "y": 809,
-        "w": 1002,
-        "h": 212
+        "y": 809
     },
     {
         "id": "b6e70888e2a92a81",
@@ -7771,9 +7694,7 @@
             "43a7fe4169e0b657"
         ],
         "x": 2394,
-        "y": 1179,
-        "w": 572,
-        "h": 202
+        "y": 1179
     },
     {
         "id": "d25d405a.19cff",
@@ -81201,7 +81122,7 @@
         "z": "0919ca8b08ef5398",
         "g": "7f4726c248df075a",
         "name": "setVarPou",
-        "func": "var NumeroMuestras = flow.get(\"NumeroMuestras\")||0;\nvar Desp_CD = flow.get(\"Desp_CD\")||0;\nvar Esfu_CD = flow.get(\"Esfu_CD\")||0;\nvar Tramo = flow.get(\"Tramo\")||0;\nvar DX = flow.get(\"DX\")||0;\nvar UM = createArray(3, 520);\nvar UV = createArray(520);\nvar Numero_de_sartas = flow.get(\"numSarta\") || 0;\nvar SPM_Feedback = flow.get(\"SPM_Feedback\")||0;\nvar nCab = flow.get(\"nCab\")||0;\nvar DCprom = flow.get(\"DCprom\")||0;\nvar DiametroTubing = flow.get(\"DiametroTubing\")||0;\nvar PresionCasing = flow.get(\"PresionCasing\")||0;\nvar T = SPM_Feedback;\nvar np = 1.0, DT_0 = 0, DT1, Rho, gc = 32.2, Cest, LongOptm;\nvar AreaTubing, AreaCabilla, CargaCabezal, DT_Gl;\nvar V = 0.1;//identificar Value\nvar nt1 = Numero_de_sartas - 1;\nvar T_Matrix = NumeroMuestras;\nvar A = Tramo[nt1][15];\nvar E = Tramo[nt1][14];\nvar M = Tramo[nt1][18] - 1.0;\nvar L = Tramo[nt1][12];\nvar LM = M + 1.0;\nvar N = (T_Matrix) + 2.0 * (M - 1.0 + np);\nvar NT = Math.round(T_Matrix);\nvar NTI = NT;\n\nif ((L != 0.0) && (T_Matrix != 149)) {\n    LongOptm = (2.0 / (149.0 - (T_Matrix))) * L;\n}\nif (((T_Matrix) + 2.0 * (LM)) > 500.0) {\n    nCab = LongOptm;\n    var Ajustar_Datos = 1.0;\n    M = Tramo[nt1][18] - 1.0;\n    M = parseInt(M);\n}\n// setear las variables\nfor (let j = 0; j <= 1; j++) {\n    for (let z = 0; z <= 499; z++) {\n        UM[j][z] = 0.0;\n        UV[z] = 0.0;\n    }\n}\n// (* ------- Llenado de las dos Primeras filas de la matriz U---------*)\nfor (let j = 0; j <= NumeroMuestras - 1; j++) {\n    UM[0][j] = -(Desp_CD[j]) / (12.0);\n    if ((E != 0.0) && (A != 0)) {\n    // segunda  ley de hooke segunda linea \n        UM[1][j] = (Esfu_CD[j] * 1000.0) * (DX / (E * A * 144.0)) + UM[0][j];\n    }\n}\n\nM = parseInt(M);//truncar valores del ciclo for\nfor (let j = 0; j <= M; j++) {\n    UM[0][NumeroMuestras + j] = UM[0][j];\n    UM[1][NumeroMuestras + j] = UM[1][j];\n}\nif (T != 0) {\n    DT1 = 60.0 / T / ((NTI) - 1.0);\n}\nNT = N;\nif (T != 0) {\n    DT_0 = 60.0 / T / ((NTI) - 1.0);\n}\nif (M != 0.0) {\n    DX = L / (M);\n}\nE = Tramo[Numero_de_sartas - 1][14];\nRho = Tramo[Numero_de_sartas - 1][13];\nif ((Rho != 0.0) && (V != 0.0) && (DT_0 != 0.0)) {\n    V = Math.sqrt(144.0 * E * gc / Rho);\n    Cest = DX / V / DT_0;;\n}\nAreaTubing = (3.1416 / 4.0) * Math.pow(DiametroTubing, 2.0);\nAreaCabilla = (3.1416 / 4.0) * Math.pow(DCprom, 2.0);\nCargaCabezal = ((AreaTubing - AreaCabilla) * PresionCasing) / 1000.0;\n\n// variables utilizadas en otras rutinas\nDT_Gl = DT1;\n// VARIABLES DE FLUJO\nflow.set(\"UM\", UM);\nflow.set(\"UV\", UV);\nflow.set(\"DX\", DX);\nflow.set(\"nCab\", nCab);\nflow.set(\"AreaTubing\", AreaTubing);\nflow.set(\"AreaCabilla\", AreaCabilla);\nflow.set(\"CargaCabezal\", CargaCabezal);\nflow.set(\"DT_Gl\", DT_Gl);\nflow.set(\"M\", M);\n\n// VARIABLES DE CONTEXTO\ncontext.set(\"A\", A, \"memoryOnly\");\ncontext.set(\"E\", E, \"memoryOnly\");\ncontext.set(\"DX\", DX, \"memoryOnly\");\ncontext.set(\"M\", M, \"memoryOnly\");\ncontext.set(\"UM\", UM, \"memoryOnly\");\ncontext.set(\"aDQUISIONUM\", UM, \"memoryOnly\");\ncontext.set(\"Desp_CD\", Desp_CD, \"memoryOnly\");\ncontext.set(\"Esfu_CD\", Esfu_CD, \"memoryOnly\");\ncontext.set(\"Tramo\", Tramo, \"memoryOnly\");\ncontext.set(\"nt1\", nt1, \"memoryOnly\");\ncontext.set(\"L\", L, \"memoryOnly\");\ncontext.set(\"T_Matrix\", T_Matrix, \"memoryOnly\");\ncontext.set(\"LongOptm\", LongOptm, \"memoryOnly\");\ncontext.set(\"nCab\", nCab, \"memoryOnly\");\ncontext.set(\"LM\", LM, \"memoryOnly\");\ncontext.set(\"np\", np, \"memoryOnly\");\ncontext.set(\"T\", T, \"memoryOnly\");\ncontext.set(\"DT_0\", DT_0, \"memoryOnly\");\ncontext.set(\"NTI\", NTI, \"memoryOnly\");\ncontext.set(\"SPM_Feedback\", SPM_Feedback, \"memoryOnly\");\ncontext.set(\"DT1\", DT1, \"memoryOnly\");\ncontext.set(\"Rho\", Rho, \"memoryOnly\");\ncontext.set(\"V\", V, \"memoryOnly\");\ncontext.set(\"gc\", gc, \"memoryOnly\");\ncontext.set(\"Cest\", Cest, \"memoryOnly\");\ncontext.set(\"nCab\", nCab, \"memoryOnly\");\ncontext.set(\"AreaTubing\", AreaTubing, \"memoryOnly\");\ncontext.set(\"AreaCabilla\", AreaCabilla, \"memoryOnly\");\ncontext.set(\"CargaCabezal\", CargaCabezal, \"memoryOnly\");\ncontext.set(\"DiametroTubing\", DiametroTubing, \"memoryOnly\");\ncontext.set(\"DCprom\", DCprom, \"memoryOnly\");\ncontext.set(\"PresionCasing\", PresionCasing, \"memoryOnly\");\ncontext.set(\"DT_Gl\", DT_Gl, \"memoryOnly\");\ncontext.set(\"UV\", UV, \"memoryOnly\");\ncontext.set(\"N\", N, \"memoryOnly\");\ncontext.set(\"NT\", NT, \"memoryOnly\");\ncontext.set(\"NumeroMuestras\", NumeroMuestras, \"memoryOnly\");\nreturn msg;\nfunction createArray(length) {\n    var arr = new Array(length || 0),\n        i = length;\n\n    if (arguments.length > 1) {\n        var args = Array.prototype.slice.call(arguments, 1);\n        while (i--) arr[length - 1 - i] = createArray.apply(this, args);\n    }\n\n    return arr;\n}",
+        "func": "var NumeroMuestras = flow.get(\"NumeroMuestras\")||0;\nvar Desp_CD = flow.get(\"Desp_CD\")||0;\nvar Esfu_CD = flow.get(\"Esfu_CD\")||0;\nvar Tramo = flow.get(\"Tramo\")||0;\nvar DX = flow.get(\"DX\")||0;\nvar UM = createArray(3, 520);\nvar UV = createArray(520);\nvar Numero_de_sartas = flow.get(\"numSarta\") || 0;\nvar SPM_Feedback = flow.get(\"SPM_Feedback\")||0;\nvar nCab = flow.get(\"nCab\")||0;\nvar DCprom = flow.get(\"DCprom\")||0;\nvar DiametroTubing = flow.get(\"DiametroTubing\")||0;\nvar PresionCasing = flow.get(\"PresionCasing\")||0;\nvar T = SPM_Feedback;\nvar np = 1.0, DT_0 = 0, DT1, Rho, gc = 32.2, Cest, LongOptm;\nvar AreaTubing, AreaCabilla, CargaCabezal, DT_Gl;\nvar V = 0.1;//identificar Value\nvar nt1 = Numero_de_sartas - 1;\nvar T_Matrix = NumeroMuestras;\nvar A = Tramo[nt1][15];\nvar E = Tramo[nt1][14];\nvar M = Tramo[nt1][18] - 1.0;\nvar L = Tramo[nt1][12];\nvar LM = M + 1.0;\nvar N = (T_Matrix) + 2.0 * (M - 1.0 + np);\nvar NT = Math.round(T_Matrix);\nvar NTI = NT;\n\nif ((L != 0.0) && (T_Matrix != 149)) {\n    LongOptm = (2.0 / (149.0 - (T_Matrix))) * L;\n}\nif (((T_Matrix) + 2.0 * (LM)) > 500.0) {\n    nCab = LongOptm;\n    var Ajustar_Datos = 1.0;\n    M = Tramo[nt1][18] - 1.0;\n    M = parseInt(M);\n}\n// setear las variables\nfor (let j = 0; j <= 1; j++) {\n    for (let z = 0; z <= 499; z++) {\n        UM[j][z] = 0.0;\n        UV[z] = 0.0;\n    }\n}\n// (* ------- Llenado de las dos Primeras filas de la matriz U---------*)\nfor (let j = 0; j <= NumeroMuestras - 1; j++) {\n    UM[0][j] = -(Desp_CD[j]) / (12.0);\n    if ((E != 0.0) && (A != 0)) {\n    // segunda  ley de hooke segunda linea \n        UM[1][j] = (Esfu_CD[j] * 1000.0) * (DX / (E * A * 144.0)) + UM[0][j];\n    }\n}\n\nM = parseInt(M);//truncar valores del ciclo for\nfor (let j = 0; j <= (2*M); j++) {\n    UM[0][NumeroMuestras + j] = UM[0][j];\n    UM[1][NumeroMuestras + j] = UM[1][j];\n}\nif (T != 0) {\n    DT1 = 60.0 / T / ((NTI) - 1.0);\n}\nNT = N;\nif (T != 0) {\n    DT_0 = 60.0 / T / ((NTI) - 1.0);\n}\nif (M != 0.0) {\n    DX = L / (M);\n}\nE = Tramo[Numero_de_sartas - 1][14];\nRho = Tramo[Numero_de_sartas - 1][13];\nif ((Rho != 0.0) && (V != 0.0) && (DT_0 != 0.0)) {\n    V = Math.sqrt(144.0 * E * gc / Rho);\n    Cest = DX / V / DT_0;;\n}\nAreaTubing = (3.1416 / 4.0) * Math.pow(DiametroTubing, 2.0);\nAreaCabilla = (3.1416 / 4.0) * Math.pow(DCprom, 2.0);\nCargaCabezal = ((AreaTubing - AreaCabilla) * PresionCasing) / 1000.0;\n\n// variables utilizadas en otras rutinas\nDT_Gl = DT1;\n// VARIABLES DE FLUJO\nflow.set(\"UM\", UM);\nflow.set(\"UV\", UV);\nflow.set(\"DX\", DX);\nflow.set(\"nCab\", nCab);\nflow.set(\"AreaTubing\", AreaTubing);\nflow.set(\"AreaCabilla\", AreaCabilla);\nflow.set(\"CargaCabezal\", CargaCabezal);\nflow.set(\"DT_Gl\", DT_Gl);\nflow.set(\"M\", M);\n\n// VARIABLES DE CONTEXTO\ncontext.set(\"A\", A, \"memoryOnly\");\ncontext.set(\"E\", E, \"memoryOnly\");\ncontext.set(\"DX\", DX, \"memoryOnly\");\ncontext.set(\"M\", M, \"memoryOnly\");\ncontext.set(\"UM\", UM, \"memoryOnly\");\ncontext.set(\"aDQUISIONUM\", UM, \"memoryOnly\");\ncontext.set(\"Desp_CD\", Desp_CD, \"memoryOnly\");\ncontext.set(\"Esfu_CD\", Esfu_CD, \"memoryOnly\");\ncontext.set(\"Tramo\", Tramo, \"memoryOnly\");\ncontext.set(\"nt1\", nt1, \"memoryOnly\");\ncontext.set(\"L\", L, \"memoryOnly\");\ncontext.set(\"T_Matrix\", T_Matrix, \"memoryOnly\");\ncontext.set(\"LongOptm\", LongOptm, \"memoryOnly\");\ncontext.set(\"nCab\", nCab, \"memoryOnly\");\ncontext.set(\"LM\", LM, \"memoryOnly\");\ncontext.set(\"np\", np, \"memoryOnly\");\ncontext.set(\"T\", T, \"memoryOnly\");\ncontext.set(\"DT_0\", DT_0, \"memoryOnly\");\ncontext.set(\"NTI\", NTI, \"memoryOnly\");\ncontext.set(\"SPM_Feedback\", SPM_Feedback, \"memoryOnly\");\ncontext.set(\"DT1\", DT1, \"memoryOnly\");\ncontext.set(\"Rho\", Rho, \"memoryOnly\");\ncontext.set(\"V\", V, \"memoryOnly\");\ncontext.set(\"gc\", gc, \"memoryOnly\");\ncontext.set(\"Cest\", Cest, \"memoryOnly\");\ncontext.set(\"nCab\", nCab, \"memoryOnly\");\ncontext.set(\"AreaTubing\", AreaTubing, \"memoryOnly\");\ncontext.set(\"AreaCabilla\", AreaCabilla, \"memoryOnly\");\ncontext.set(\"CargaCabezal\", CargaCabezal, \"memoryOnly\");\ncontext.set(\"DiametroTubing\", DiametroTubing, \"memoryOnly\");\ncontext.set(\"DCprom\", DCprom, \"memoryOnly\");\ncontext.set(\"PresionCasing\", PresionCasing, \"memoryOnly\");\ncontext.set(\"DT_Gl\", DT_Gl, \"memoryOnly\");\ncontext.set(\"UV\", UV, \"memoryOnly\");\ncontext.set(\"N\", N, \"memoryOnly\");\ncontext.set(\"NT\", NT, \"memoryOnly\");\ncontext.set(\"NumeroMuestras\", NumeroMuestras, \"memoryOnly\");\nreturn msg;\nfunction createArray(length) {\n    var arr = new Array(length || 0),\n        i = length;\n\n    if (arguments.length > 1) {\n        var args = Array.prototype.slice.call(arguments, 1);\n        while (i--) arr[length - 1 - i] = createArray.apply(this, args);\n    }\n\n    return arr;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -81274,7 +81195,7 @@
         "fieldType": "msg",
         "format": "handlebars",
         "syntax": "mustache",
-        "template": "<!doctype html>\n<html lang=\"en\">\n<script>{{{script}}}</script>\n<style>{{{style}}}</style>\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n    {{!-- Libreria para la creacion de los PLOTs 3D --}}\n    <script src=\"http://localhost:1880/SocketRodPoint/lib/js/plotly-2.3.0.min.js\"></script>\n    \n  </head>\n  <body>\n\n    {{!-- variables invisibles --}}\n    <div id=\"x\" ng-bind-html=\"msg.x\" style=\"display:none\"></div>\n    {{!-- <div id=\"xvisual\" ng-bind-html=\"msg.x\" ></div> --}}\n    <div id=\"y\" ng-bind-html=\"msg.y\" style=\"display:none\"></div>\n    <div id=\"demo\" onclick=\"myFunction()\">Mostrar</div>\n     <div id='myDiv2'><!-- Plotly chart will be drawn inside this DIV --></div>\n     <script>\n            function myFunction() {\n                var x = document.getElementById(\"x\").innerHTML;//adquision de data desde nodered\n                var y = document.getElementById(\"y\").innerHTML;//adquision de data desde nodered\n                var x1 = x.split(\",\")\n                var y1 = y.split(\",\")\n                for(i = 0; i < x1.length; i++) {\n                    x1[i] = Redondeo(x1[i]);\n                    y1[i] = Redondeo(y1[i]);\n                }\n\n                var trace1  = {\n                    x: x1,\n                    y: y1,\n                    name: 'Dynagrama',\n                    type: 'scatter'\n                };\n                var trace2  = {\n                    x: [60],\n                    y: [8],\n                    name: 'Pump Off',\n                    mode: 'scatter'\n                };\n                var layout = {\n                    title: 'Dinagrama de Fondo',\n                    autosize: false,\n                    width: 720,\n                    height: 520,\n                    yaxis: {\n                        title: 'Carga [Klb]',\n                        tickmode: 'array',\n                        automargin: true,\n                        titlefont: { size:12 },\n                    },\n\n                    xaxis: {\n                        title: 'Posición [in]',\n                        automargin: true,\n                        titlefont: { size:12 },\n                    },\n                    images: [\n                            {\n                                source: \"http://localhost:1880/swcpro-images/hlogo.png\",\n                                xref: \"paper\",\n                                yref: \"paper\",\n                                sizing: \"stretch\",\n                                x: 0.25,\n                                y: 0,\n                                sizex: 0.6,\n                                sizey: 1,\n                                opacity: 0.1,\n                                xanchor: \"left\",\n                                yanchor: \"bottom\"\n                            }],\n                };\n\n                var data = [trace1,trace2];\n                Plotly.newPlot('myDiv2', data,layout);\n                \n                //document.getElementById(\"demo\").innerHTML = x1[1];\n                // alert(\"Calculo Completo\");\n                // funciones utilizadas\n                function Redondeo(x) {\n                    return Number.parseFloat(x).toFixed(2);\n                }\n            }\n    </script>\n\n    <script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n    <script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n    <script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script>\n  </body>\n  \n  <style>\n    .disable-select {\n        user-select: none; /* supported by Chrome and Opera /\n        -webkit-user-select: none; / Safari /\n       -khtml-user-select: none; / Konqueror HTML /\n       -moz-user-select: none; / Firefox /\n       -ms-user-select: none; / Internet Explorer/Edge */\n    }\n  </style>\n</html>",
+        "template": "<!doctype html>\n<html lang=\"en\">\n<script>{{{script}}}</script>\n<style>{{{style}}}</style>\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n    {{!-- Libreria para la creacion de los PLOTs 3D --}}\n    <script src=\"http://localhost:1880/SocketRodPoint/lib/js/plotly-2.3.0.min.js\"></script>\n    \n  </head>\n  <body>\n\n    {{!-- variables invisibles --}}\n    <div id=\"x\" ng-bind-html=\"msg.x\" style=\"display:none\"></div>\n    {{!-- <div id=\"xvisual\" ng-bind-html=\"msg.x\" ></div> --}}\n    <div id=\"y\" ng-bind-html=\"msg.y\" style=\"display:none\"></div>\n    <div id=\"demo\" onclick=\"myFunction()\">Mostrar</div>\n     <div id='myDiv2'><!-- Plotly chart will be drawn inside this DIV --></div>\n     <script>\n            function myFunction() {\n                var x = document.getElementById(\"x\").innerHTML;//adquision de data desde nodered\n                var y = document.getElementById(\"y\").innerHTML;//adquision de data desde nodered\n                var x1 = x.split(\",\")\n                var y1 = y.split(\",\")\n                for(i = 0; i < x1.length; i++) {\n                    x1[i] = Redondeo(x1[i]);\n                    y1[i] = Redondeo(y1[i]);\n                }\n\n                var trace1  = {\n                    x: x1,\n                    y: y1,\n                    name: 'Dynagrama',\n                    type: 'scatter'\n                };\n                var trace2  = {\n                    x: [40],\n                    y: [2],\n                    name: 'Pump Off',\n                    mode: 'scatter'\n                };\n                var layout = {\n                    title: 'Dinagrama de Fondo',\n                    autosize: false,\n                    width: 720,\n                    height: 520,\n                    yaxis: {\n                        title: 'Carga [Klb]',\n                        tickmode: 'array',\n                        automargin: true,\n                        titlefont: { size:12 },\n                    },\n\n                    xaxis: {\n                        title: 'Posición [in]',\n                        automargin: true,\n                        titlefont: { size:12 },\n                    },\n                    images: [\n                            {\n                                source: \"http://localhost:1880/swcpro-images/hlogo.png\",\n                                xref: \"paper\",\n                                yref: \"paper\",\n                                sizing: \"stretch\",\n                                x: 0.25,\n                                y: 0,\n                                sizex: 0.6,\n                                sizey: 1,\n                                opacity: 0.1,\n                                xanchor: \"left\",\n                                yanchor: \"bottom\"\n                            }],\n                };\n\n                var data = [trace1,trace2];\n                Plotly.newPlot('myDiv2', data,layout);\n                \n                //document.getElementById(\"demo\").innerHTML = x1[1];\n                // alert(\"Calculo Completo\");\n                // funciones utilizadas\n                function Redondeo(x) {\n                    return Number.parseFloat(x).toFixed(2);\n                }\n            }\n    </script>\n\n    <script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n    <script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n    <script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script>\n  </body>\n  \n  <style>\n    .disable-select {\n        user-select: none; /* supported by Chrome and Opera /\n        -webkit-user-select: none; / Safari /\n       -khtml-user-select: none; / Konqueror HTML /\n       -moz-user-select: none; / Firefox /\n       -ms-user-select: none; / Internet Explorer/Edge */\n    }\n  </style>\n</html>",
         "output": "str",
         "x": 420,
         "y": 820,
@@ -81331,7 +81252,7 @@
         "z": "0919ca8b08ef5398",
         "g": "7f4726c248df075a",
         "name": "AcotarVector",
-        "func": "// variables del dinagrama de fondo\nvar Desp_CD_F1 = flow.get(\"Desp_CD_F1\")||0;\nvar Esfu_CD_F1 = flow.get(\"Esfu_CD_F1\")||0;\n// variables acotadas del dinagrama de fondo\nvar Desp_CD=[],Esfu_CD=[];\nvar finalPoint = 0 ; //Define el valor donde acaba los dinagramas\n// tamaños de los vectores\nvar sizex = Desp_CD_F1.length\nvar sizey = Esfu_CD_F1.length\nif ((Desp_CD_F1 != 0) && (Esfu_CD_F1 != 0) && (sizex == sizey)){\n    // existe el vector de desplazamiento y esfuerzo\n    node.status({fill:\"green\",shape:\"dot\",text:\"Calculo\"});\n    // identificar donde se acaba el vector \n    for (let i = 0; i < sizex; i++) {\n        // si los siguientes pasos del vector son cero\n        if (Desp_CD_F1[i] == 0 && Desp_CD_F1[i + 1] == 0 && Desp_CD_F1[i+2] == 0 ){\n            finalPoint = i;\n            break;//Termina el Ciclo For\n        }\n        \n    }\n    for (let i = 0; i < finalPoint; i++) {\n        Desp_CD[i] = Desp_CD_F1[i];\n        Esfu_CD[i] = Esfu_CD_F1[i];\n    }\n    // guardar las variables globales\n    global.set(\"Dinagrama.fondo.Desp_CD\", Desp_CD);\n    global.set(\"Dinagrama.fondo.Esfu_CD\", Esfu_CD);\n}else{\n    // no existen los vectores de desplazamiento y espuerzo\n    node.status({fill:\"red\",shape:\"dot\",text:\"NoCalculo\"});\n}\n\n// visualizacion de variables\ncontext.set(\"sizex\", sizex,\"memoryOnly\");\ncontext.set(\"sizey\", sizey,\"memoryOnly\");\ncontext.set(\"finalPoint\", finalPoint,\"memoryOnly\");\ncontext.set(\"Desp\", Desp_CD,\"memoryOnly\");\ncontext.set(\"Esfu\", Esfu_CD,\"memoryOnly\");\ncontext.set(\"Desp_CD_F1\", Desp_CD_F1,\"memoryOnly\");\ncontext.set(\"Esfu_CD_F1\", Esfu_CD_F1,\"memoryOnly\");\nreturn msg;",
+        "func": "// variables del dinagrama de fondo\nvar Desp_CD_F1 = flow.get(\"Desp_CD_F1\")||0;\nvar Esfu_CD_F1 = flow.get(\"Esfu_CD_F1\")||0;\n// variables acotadas del dinagrama de fondo\nvar Desp_CD=[],Esfu_CD=[];\nvar finalPoint = 0 ; //Define el valor donde acaba los dinagramas\n// tamaños de los vectores\nvar sizex = Desp_CD_F1.length\nvar sizey = Esfu_CD_F1.length\nif ((Desp_CD_F1 != 0) && (Esfu_CD_F1 != 0) && (sizex == sizey)){\n    // existe el vector de desplazamiento y esfuerzo\n    node.status({fill:\"green\",shape:\"dot\",text:\"Calculo\"});\n    // identificar donde se acaba el vector \n    for (let i = 0; i < sizex; i++) {\n        // si los siguientes pasos del vector son cero\n        if (Desp_CD_F1[i] == 0 && Desp_CD_F1[i + 1] == 0 && Desp_CD_F1[i+2] == 0 ){\n            finalPoint = i;\n            break;//Termina el Ciclo For\n        }\n        \n    }\n    for (let i = 0; i < finalPoint; i++) {\n        Desp_CD[i] = Desp_CD_F1[i];\n        Esfu_CD[i] = Esfu_CD_F1[i];\n    }\n    Desp_CD.push(Desp_CD[0]);\n    Esfu_CD.push(Esfu_CD[0]);\n    // cerrar el dinagrama de fondo\n    // guardar las variables globales\n    global.set(\"Dinagrama.fondo.Desp_CD\", Desp_CD);\n    global.set(\"Dinagrama.fondo.Esfu_CD\", Esfu_CD);\n}else{\n    // no existen los vectores de desplazamiento y espuerzo\n    node.status({fill:\"red\",shape:\"dot\",text:\"NoCalculo\"});\n}\n\n// visualizacion de variables\ncontext.set(\"sizex\", sizex,\"memoryOnly\");\ncontext.set(\"sizey\", sizey,\"memoryOnly\");\ncontext.set(\"finalPoint\", finalPoint,\"memoryOnly\");\ncontext.set(\"Desp\", Desp_CD,\"memoryOnly\");\ncontext.set(\"Esfu\", Esfu_CD,\"memoryOnly\");\ncontext.set(\"Desp_CD_F1\", Desp_CD_F1,\"memoryOnly\");\ncontext.set(\"Esfu_CD_F1\", Esfu_CD_F1,\"memoryOnly\");\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -81353,7 +81274,7 @@
         "fieldType": "msg",
         "format": "handlebars",
         "syntax": "mustache",
-        "template": "<!doctype html>\n<html lang=\"en\">\n<script>{{{script}}}</script>\n<style>{{{style}}}</style>\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n    {{!-- Libreria para la creacion de los PLOTs 3D --}}\n    <script src=\"http://localhost:1880/SocketRodPoint/lib/js/plotly-2.3.0.min.js\"></script>\n    \n  </head>\n  <body>\n\n    {{!-- variables invisibles --}}\n    <div id=\"x\" ng-bind-html=\"msg.x\" style=\"display:none\"></div>\n    {{!-- <div id=\"xvisual\" ng-bind-html=\"msg.x\" ></div> --}}\n    <div id=\"y\" ng-bind-html=\"msg.y\" style=\"display:none\"></div>\n    <div id=\"demo\" onclick=\"myFunction()\">Mostrar</div>\n     <div id='myDiv2'><!-- Plotly chart will be drawn inside this DIV --></div>\n     <script>\n            function myFunction() {\n                var x = document.getElementById(\"x\").innerHTML;//adquision de data desde nodered\n                var y = document.getElementById(\"y\").innerHTML;//adquision de data desde nodered\n                var x1 = x.split(\",\")\n                var y1 = y.split(\",\")\n                for(i = 0; i < x1.length; i++) {\n                    x1[i] = Redondeo(x1[i]);\n                    y1[i] = Redondeo(y1[i]);\n                }\n\n                var trace1  = {\n                    x: x1,\n                    y: y1,\n                    name: 'Dynagrama',\n                    type: 'scatter'\n                };\n                var trace2  = {\n                    x: [60],\n                    y: [8],\n                    name: 'Pump Off',\n                    mode: 'scatter'\n                };\n                var layout = {\n                    title: 'Dinagrama de Fondo',\n                    autosize: false,\n                    width: 720,\n                    height: 520,\n                    yaxis: {\n                        title: 'Carga [Klb]',\n                        tickmode: 'array',\n                        automargin: true,\n                        titlefont: { size:12 },\n                    },\n\n                    xaxis: {\n                        title: 'Posición [in]',\n                        automargin: true,\n                        titlefont: { size:12 },\n                    },\n                    images: [\n                            {\n                                source: \"http://localhost:1880/swcpro-images/hlogo.png\",\n                                xref: \"paper\",\n                                yref: \"paper\",\n                                sizing: \"stretch\",\n                                x: 0.25,\n                                y: 0,\n                                sizex: 0.6,\n                                sizey: 1,\n                                opacity: 0.1,\n                                xanchor: \"left\",\n                                yanchor: \"bottom\"\n                            }],\n                };\n\n                var data = [trace1,trace2];\n                Plotly.newPlot('myDiv2', data,layout);\n                \n                //document.getElementById(\"demo\").innerHTML = x1[1];\n                // alert(\"Calculo Completo\");\n                // funciones utilizadas\n                function Redondeo(x) {\n                    return Number.parseFloat(x).toFixed(2);\n                }\n            }\n    </script>\n\n    <script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n    <script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n    <script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script>\n  </body>\n  \n  <style>\n    .disable-select {\n        user-select: none; /* supported by Chrome and Opera /\n        -webkit-user-select: none; / Safari /\n       -khtml-user-select: none; / Konqueror HTML /\n       -moz-user-select: none; / Firefox /\n       -ms-user-select: none; / Internet Explorer/Edge */\n    }\n  </style>\n</html>",
+        "template": "<!doctype html>\n<html lang=\"en\">\n<script>{{{script}}}</script>\n<style>{{{style}}}</style>\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n    {{!-- Libreria para la creacion de los PLOTs 3D --}}\n    <script src=\"http://localhost:1880/SocketRodPoint/lib/js/plotly-2.3.0.min.js\"></script>\n    \n  </head>\n  <body>\n\n    {{!-- variables invisibles --}}\n    <div id=\"x\" ng-bind-html=\"msg.x\" style=\"display:none\"></div>\n    {{!-- <div id=\"xvisual\" ng-bind-html=\"msg.x\" ></div> --}}\n    <div id=\"y\" ng-bind-html=\"msg.y\" style=\"display:none\"></div>\n    <div id=\"demo\" onclick=\"myFunction()\">Mostrar</div>\n     <div id='myDiv2'><!-- Plotly chart will be drawn inside this DIV --></div>\n     <script>\n            function myFunction() {\n                var x = document.getElementById(\"x\").innerHTML;//adquision de data desde nodered\n                var y = document.getElementById(\"y\").innerHTML;//adquision de data desde nodered\n                var x1 = x.split(\",\")\n                var y1 = y.split(\",\")\n                for(i = 0; i < x1.length; i++) {\n                    x1[i] = Redondeo(x1[i]);\n                    y1[i] = Redondeo(y1[i]);\n                }\n\n                var trace1  = {\n                    x: x1,\n                    y: y1,\n                    name: 'Dynagrama',\n                    type: 'scatter'\n                };\n                var trace2  = {\n                    x: [40],\n                    y: [2],\n                    name: 'Pump Off',\n                    mode: 'scatter'\n                };\n                var layout = {\n                    title: 'Dinagrama de Fondo',\n                    autosize: false,\n                    width: 720,\n                    height: 520,\n                    yaxis: {\n                        title: 'Carga [Klb]',\n                        tickmode: 'array',\n                        automargin: true,\n                        titlefont: { size:12 },\n                    },\n\n                    xaxis: {\n                        title: 'Posición [in]',\n                        automargin: true,\n                        titlefont: { size:12 },\n                    },\n                    images: [\n                            {\n                                source: \"http://localhost:1880/swcpro-images/hlogo.png\",\n                                xref: \"paper\",\n                                yref: \"paper\",\n                                sizing: \"stretch\",\n                                x: 0.25,\n                                y: 0,\n                                sizex: 0.6,\n                                sizey: 1,\n                                opacity: 0.1,\n                                xanchor: \"left\",\n                                yanchor: \"bottom\"\n                            }],\n                };\n\n                var data = [trace1,trace2];\n                Plotly.newPlot('myDiv2', data,layout);\n                \n                //document.getElementById(\"demo\").innerHTML = x1[1];\n                // alert(\"Calculo Completo\");\n                // funciones utilizadas\n                function Redondeo(x) {\n                    return Number.parseFloat(x).toFixed(2);\n                }\n            }\n    </script>\n\n    <script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n    <script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n    <script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script>\n  </body>\n  \n  <style>\n    .disable-select {\n        user-select: none; /* supported by Chrome and Opera /\n        -webkit-user-select: none; / Safari /\n       -khtml-user-select: none; / Konqueror HTML /\n       -moz-user-select: none; / Firefox /\n       -ms-user-select: none; / Internet Explorer/Edge */\n    }\n  </style>\n</html>",
         "output": "str",
         "x": 410,
         "y": 920,
@@ -103199,7 +103120,7 @@
         "z": "29bf75edf21541c4",
         "g": "abfc5c293f394682",
         "name": "logic",
-        "func": "var habilitado = global.get(\"Control_functions.ControlDownhole.habilitado\")||false;\nvar time = global.get(\"Control_functions.ControlDownhole.time\")||0;\nvar state = global.get(\"Control_functions.ControlDownhole.state\") || \"Normal\";\nvar ctr = context.get(\"ctr\",\"memoryOnly\")||0;\nvar contador,comando,color;//Variables Visualizadoras\nif(habilitado == true){\n    if (state == \"Disparo\"){\n        comando = false;//Dispare el equipo\n        ctr = ctr + 1;//aumnetar el conteo\n        contador = time - ctr;//visualizar de tiempo\n        if(ctr >= time){//cuando ya cumplio el tiempo\n            comando = true;\n            state = \"Normal\";\n            ctr = 0;\n        }else{\n            ctr = ctr;\n        }\n    } else if (state == \"Alarma\"){// estado de alarma\n        contador = 0;\n    } else if (state == \"Normal\"){\n        contador = 0;\n    }\n    // validacion de los limites\n\n}else{\n    color = \"red\";\n    contador = 0;\n}\n// variables globales\nglobal.set(\"Control_functions.ControlDownhole.state\",state);\n// visualización\nnode.status({fill:color,shape:\"dot\",text:state});\n\ncontext.set(\"habilitado\", habilitado,\"memoryOnly\");\ncontext.set(\"time\", time,\"memoryOnly\");\ncontext.set(\"state\", state,\"memoryOnly\");\ncontext.set(\"ctr\", ctr,\"memoryOnly\");\nreturn [{payload:comando},{payload:state},{ payload:contador}];",
+        "func": "var habilitado = global.get(\"Control_functions.ControlDownhole.habilitado\")||false;\nvar time = global.get(\"Control_functions.ControlDownhole.time\")||0;//tiempo para rearrancar\nvar state = global.get(\"Control_functions.ControlDownhole.state\") || \"Normal\";\nvar ctr = context.get(\"ctr\",\"memoryOnly\")||0;//contador interno\nvar At_Setpt_Spd = global.get(\"C2S.Drive_Status.At_Setpt_Spd\", \"memoryOnly\") || 0;//llegó a referencia el VSD\nvar contador,comando,color;//Variables Visualizadoras\nif(habilitado == true){\n    if (state == \"Disparo\"){\n        comando = false;//Dispare el equipo\n        if (At_Setpt_Spd == 0){\n            ctr = ctr + 1;//aumnetar el conteo\n        }else{\n            ctr = ctr;\n        }\n        contador = time - ctr;//visualizar de tiempo\n        if(ctr >= time){//cuando ya cumplio el tiempo\n            comando = true;\n            state = \"Normal\";\n            ctr = 0;\n        }else{\n            ctr = ctr;\n        }\n    } else if (state == \"Alarma\"){// estado de alarma\n        color = \"yellow\";\n        contador = 0;\n    } else if (state == \"Normal\"){\n        contador = 0;\n    }\n    // validacion de los limites\n}else{\n    color = \"red\";\n    contador = 0;\n}\n// variables globales\nglobal.set(\"Control_functions.ControlDownhole.state\",state);\n// visualización\nnode.status({fill:color,shape:\"dot\",text:state});\n\ncontext.set(\"habilitado\", habilitado,\"memoryOnly\");\ncontext.set(\"time\", time,\"memoryOnly\");\ncontext.set(\"state\", state,\"memoryOnly\");\ncontext.set(\"ctr\", ctr,\"memoryOnly\");\ncontext.set(\"At_Setpt_Spd\", At_Setpt_Spd,\"memoryOnly\");\nreturn [{payload:comando},{payload:state},{ payload:contador}];",
         "outputs": 3,
         "noerr": 0,
         "initialize": "",
@@ -103209,7 +103130,8 @@
         "y": 420,
         "wires": [
             [
-                "b862b007fadc3854"
+                "b862b007fadc3854",
+                "c64adff573b33d8e"
             ],
             [
                 "73f3e1d4adf1b4f2"
@@ -104175,8 +104097,8 @@
         "min": 0,
         "max": "100",
         "step": 1,
-        "x": 1040,
-        "y": 340,
+        "x": 1300,
+        "y": 580,
         "wires": [
             [
                 "0e9820a7fbc95a17"
@@ -104195,8 +104117,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1210,
-        "y": 340,
+        "x": 1470,
+        "y": 580,
         "wires": [
             [
                 "5b99a9cea8e23964"
@@ -104209,8 +104131,8 @@
         "z": "29bf75edf21541c4",
         "g": "abfc5c293f394682",
         "name": "DeterminarDisparo",
-        "func": "var habilitado = global.get(\"Control_functions.ControlDownhole.habilitado\") || false;\nvar LL = global.get(\"Control_functions.ControlDownhole.LL\") || 0;\nvar L = global.get(\"Control_functions.ControlDownhole.L\") || 0;\nvar Fillage = global.get(\"Control_functions.ControlDownhole.Fillage\") || 0;\nvar state = global.get(\"Control_functions.ControlDownhole.state\") || \"Normal\";\nvar intentosHMI = global.get(\"Control_functions.ControlDownhole.intentosHMI\") || 0;\nvar intentos = context.get(\"intentos\",\"memoryOnly\")||0;\nvar color;\nif(habilitado == true){\n    if (Fillage <= LL && state != \"Disparo\"){//aumentar intento\n        intentos = intentos + 1;\n        global.set(\"Control_functions.ControlDownhole.intentos\", intentos);\n        if (intentos >= intentosHMI){//genere el disparo\n            state = \"Disparo\";color = \"red\";\n            msg.payload = \"Disparo Poc DownholeControl\";\n            msg.topic = \"Poc Control\";\n            intentos = 0; // setee el contador\n        }\n    }else if(Fillage <= L && Fillage > LL){//Alarma por bajo \n        state = \"Alarma\";color = \"yellow\";\n        msg.payload = \"Alarma Poc DownholeControl\";\n        msg.topic = \"Poc Control\";\n    } else if (state == \"Disparo\"){\n        state = \"Disparo\";color = \"red\";\n    }else{\n        state = \"Normal\";color = \"green\";\n    }\n    node.status({fill:color,shape:\"ring\",text:state});\n    context.set(\"intentos\", intentos,\"memoryOnly\");\n    context.set(\"intentosHMI\", intentosHMI,\"memoryOnly\");\n    context.set(\"mensaje\", msg.payload,\"memoryOnly\");\n    context.set(\"L\", L,\"memoryOnly\");\n    context.set(\"LL\", LL,\"memoryOnly\");\n    context.set(\"state\", state,\"memoryOnly\");\n    context.set(\"Fillage\", Fillage,\"memoryOnly\");\n    // variables globales\n    global.set(\"Control_functions.ControlDownhole.state\",state);\n    return msg;\n}else{\n    //si esta deshablitado\n    node.status({fill:\"red\",shape:\"ring\",text:habilitado});\n}\n\n\n",
-        "outputs": 1,
+        "func": "var habilitado = global.get(\"Control_functions.ControlDownhole.habilitado\") || false;\nvar LL = global.get(\"Control_functions.ControlDownhole.LL\") || 0;\nvar L = global.get(\"Control_functions.ControlDownhole.L\") || 0;\nvar Fillage = global.get(\"Control_functions.ControlDownhole.Fillage\") || 0;\nvar state = global.get(\"Control_functions.ControlDownhole.state\") || \"Normal\";\nvar intentosHMI = global.get(\"Control_functions.ControlDownhole.intentosHMI\") || 0;\nvar intentos = context.get(\"intentos\",\"memoryOnly\")||0;\nvar color;\nif(habilitado == true){\n    if (Fillage <= LL && state != \"Disparo\"){//aumentar intento\n        intentos = intentos + 1;\n        global.set(\"Control_functions.ControlDownhole.intentos\", intentos);\n        if (intentos >= intentosHMI){//genere el disparo\n            state = \"Disparo\";color = \"red\";\n            msg.payload = \"Disparo Poc DownholeControl\";\n            msg.topic = \"Poc Control\";\n            intentos = 0; // setee el contador\n        }\n    }else if(Fillage <= L && Fillage > LL){//Alarma por bajo \n        state = \"Alarma\";color = \"yellow\";\n        msg.payload = \"Alarma Poc DownholeControl\";\n        msg.topic = \"Poc Control\";\n    } else if (state == \"Disparo\"){\n        state = \"Disparo\";color = \"red\";\n    }else{\n        state = \"Normal\";color = \"green\";\n    }\n    node.status({fill:color,shape:\"ring\",text:state});\n    context.set(\"intentos\", intentos,\"memoryOnly\");\n    context.set(\"intentosHMI\", intentosHMI,\"memoryOnly\");\n    context.set(\"mensaje\", msg.payload,\"memoryOnly\");\n    context.set(\"L\", L,\"memoryOnly\");\n    context.set(\"LL\", LL,\"memoryOnly\");\n    context.set(\"state\", state,\"memoryOnly\");\n    context.set(\"Fillage\", Fillage,\"memoryOnly\");\n    // variables globales\n    global.set(\"Control_functions.ControlDownhole.state\",state);\n}else{\n    //si esta deshablitado\n    context.set(\"intentos\",0,\"memoryOnly\");//setear el contador\n    node.status({fill:\"red\",shape:\"ring\",text:habilitado});\n}\nstate = { payload: state}\nintentos = {payload: intentos}\nreturn [state,intentos];\n\n",
+        "outputs": 2,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -104218,7 +104140,12 @@
         "x": 430,
         "y": 340,
         "wires": [
-            []
+            [
+                "f90a82bb260e58f9"
+            ],
+            [
+                "220a7441ff50bfd3"
+            ]
         ]
     },
     {
@@ -104352,8 +104279,8 @@
         ],
         "seg1": "",
         "seg2": "",
-        "x": 1380,
-        "y": 340,
+        "x": 1640,
+        "y": 580,
         "wires": []
     },
     {
@@ -104397,7 +104324,7 @@
         "type": "debug",
         "z": "29bf75edf21541c4",
         "g": "abfc5c293f394682",
-        "name": "",
+        "name": "comando",
         "active": false,
         "tosidebar": true,
         "console": false,
@@ -104406,7 +104333,7 @@
         "targetType": "msg",
         "statusVal": "payload",
         "statusType": "auto",
-        "x": 570,
+        "x": 680,
         "y": 380,
         "wires": []
     },
@@ -104437,5 +104364,175 @@
                 "b6ccf7628a758b36"
             ]
         ]
+    },
+    {
+        "id": "c64adff573b33d8e",
+        "type": "rbe",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 660,
+        "y": 340,
+        "wires": [
+            [
+                "5ba3bd2da473a65e"
+            ]
+        ]
+    },
+    {
+        "id": "5ba3bd2da473a65e",
+        "type": "switch",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 790,
+        "y": 340,
+        "wires": [
+            [
+                "f87215caf347b889"
+            ],
+            [
+                "c35adde9b5af3493"
+            ]
+        ]
+    },
+    {
+        "id": "f87215caf347b889",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "Arranque",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Start",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Basic",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 940,
+        "y": 320,
+        "wires": [
+            [
+                "136cc9da70140a0c"
+            ]
+        ]
+    },
+    {
+        "id": "c35adde9b5af3493",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "Pare",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Stop",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Basic",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 930,
+        "y": 360,
+        "wires": [
+            [
+                "136cc9da70140a0c"
+            ]
+        ]
+    },
+    {
+        "id": "136cc9da70140a0c",
+        "type": "subflow:c8b77ff3.ab501",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "",
+        "x": 1100,
+        "y": 320,
+        "wires": [
+            [],
+            []
+        ]
+    },
+    {
+        "id": "220a7441ff50bfd3",
+        "type": "debug",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "intentos",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": true,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "payload",
+        "statusType": "auto",
+        "x": 600,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "f90a82bb260e58f9",
+        "type": "debug",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "estado",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": true,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "payload",
+        "statusType": "auto",
+        "x": 590,
+        "y": 260,
+        "wires": []
     }
 ]
