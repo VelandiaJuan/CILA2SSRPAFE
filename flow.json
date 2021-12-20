@@ -3292,7 +3292,9 @@
             "3fe6ba310d6fe1c0"
         ],
         "x": 154,
-        "y": 779
+        "y": 779,
+        "w": 1132,
+        "h": 342
     },
     {
         "id": "99fd9c5cbd90ceb5",
@@ -3309,7 +3311,9 @@
             "5e3e278f18c43297"
         ],
         "x": 154,
-        "y": 1159
+        "y": 1159,
+        "w": 492,
+        "h": 122
     },
     {
         "id": "aecdec289959a88b",
@@ -3339,7 +3343,9 @@
             "c029b9bec80247e8"
         ],
         "x": 154,
-        "y": 459
+        "y": 459,
+        "w": 1092,
+        "h": 282
     },
     {
         "id": "6c6732761a2613b5",
@@ -3755,7 +3761,9 @@
             "a0b90b4f54fbae9f"
         ],
         "x": 674,
-        "y": 1159
+        "y": 1159,
+        "w": 1142,
+        "h": 222
     },
     {
         "id": "9ff47da5fe193161",
@@ -3838,7 +3846,9 @@
             "d5eb026a704fd13b"
         ],
         "x": 154,
-        "y": 179
+        "y": 179,
+        "w": 1392,
+        "h": 162
     },
     {
         "id": "e4cabd2892b5651b",
@@ -3864,7 +3874,9 @@
             "44b52a5ca865f32a"
         ],
         "x": 114,
-        "y": 999
+        "y": 999,
+        "w": 862,
+        "h": 242
     },
     {
         "id": "65dbd90af70f1e98",
@@ -3893,7 +3905,9 @@
             "c9ef5029dfa1dca4"
         ],
         "x": 114,
-        "y": 599
+        "y": 599,
+        "w": 968,
+        "h": 375.5
     },
     {
         "id": "2ceb8ec502cd9a4d",
@@ -3920,7 +3934,9 @@
             "86a9047e4057bacf"
         ],
         "x": 1254,
-        "y": 599
+        "y": 599,
+        "w": 692,
+        "h": 322
     },
     {
         "id": "7fd14179472bdff0",
@@ -3952,7 +3968,9 @@
             "6f05a009383c5e7c"
         ],
         "x": 114,
-        "y": 279
+        "y": 279,
+        "w": 1332,
+        "h": 242
     },
     {
         "id": "b76c959d391c2570",
@@ -4208,8 +4226,8 @@
             "8b6795e7e350310b",
             "bb22ffcb688c15d2"
         ],
-        "x": 134,
-        "y": 539,
+        "x": 234,
+        "y": 639,
         "w": 1042,
         "h": 222
     },
@@ -4235,13 +4253,19 @@
             "f87215caf347b889",
             "c35adde9b5af3493",
             "136cc9da70140a0c",
-            "220a7441ff50bfd3",
-            "f90a82bb260e58f9"
+            "f90a82bb260e58f9",
+            "ddd09a126914e360",
+            "2f923bf00fd6503f",
+            "b56f728504cd4913",
+            "18e1ef5a1e4a3756",
+            "3327cfa838294b44",
+            "f46982b09d8c3604",
+            "6dbcf2d4b6e2c256"
         ],
-        "x": 124,
-        "y": 219,
-        "w": 1062,
-        "h": 282
+        "x": 114,
+        "y": 179,
+        "w": 1072,
+        "h": 422
     },
     {
         "id": "0e0b9759209dfb2f",
@@ -4271,8 +4295,8 @@
             "053889d47fbf2da6",
             "16c476702b10173c"
         ],
-        "x": 334,
-        "y": 779,
+        "x": 234,
+        "y": 879,
         "w": 592,
         "h": 322
     },
@@ -4292,8 +4316,8 @@
             "4785a528a2131ee5",
             "4d5f8287ab4ef699"
         ],
-        "x": 334,
-        "y": 1119,
+        "x": 234,
+        "y": 1219,
         "w": 912,
         "h": 102
     },
@@ -4320,8 +4344,8 @@
             "b8bf43fb333c88c5",
             "17f0cfed3a423e5f"
         ],
-        "x": 94,
-        "y": 1299,
+        "x": 234,
+        "y": 1339,
         "w": 1042,
         "h": 222
     },
@@ -6227,7 +6251,9 @@
             "a6ae08b25206a8fb"
         ],
         "x": 154,
-        "y": 799
+        "y": 799,
+        "w": 902,
+        "h": 149.5
     },
     {
         "id": "a80677cf.4274c8",
@@ -17168,7 +17194,8 @@
         "name": "BotonDetenerPantallaPrincipal",
         "links": [
             "3f9513f6724de73e",
-            "2f233a4c9cf3a4b2"
+            "2f233a4c9cf3a4b2",
+            "3327cfa838294b44"
         ],
         "x": 1577,
         "y": 1090,
@@ -102621,7 +102648,8 @@
         "g": "fcb3da61.429db8",
         "name": "BotonArrancarPantallaPrincipal",
         "links": [
-            "16aadb577f484ba8"
+            "16aadb577f484ba8",
+            "18e1ef5a1e4a3756"
         ],
         "x": 1975,
         "y": 1040,
@@ -102785,8 +102813,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1000,
-        "y": 580,
+        "x": 1100,
+        "y": 680,
         "wires": [
             [
                 "8b6795e7e350310b"
@@ -102803,8 +102831,8 @@
             "8b6795e7e350310b",
             "ad87cee4.7dbb5"
         ],
-        "x": 175,
-        "y": 660,
+        "x": 275,
+        "y": 760,
         "wires": [
             [
                 "e1b89909d96fe783"
@@ -102831,8 +102859,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 280,
-        "y": 660,
+        "x": 380,
+        "y": 760,
         "wires": [
             [
                 "bb22ffcb688c15d2"
@@ -102854,8 +102882,8 @@
         "raw": false,
         "topic": "¿Desea Activar el Pump off controller?",
         "name": "confirm",
-        "x": 720,
-        "y": 620,
+        "x": 820,
+        "y": 720,
         "wires": [
             [
                 "c865addd37166432"
@@ -102885,8 +102913,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 870,
-        "y": 620,
+        "x": 970,
+        "y": 720,
         "wires": [
             [
                 "ced12ce9e0972ff3"
@@ -102916,8 +102944,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1010,
-        "y": 640,
+        "x": 1110,
+        "y": 740,
         "wires": [
             [
                 "8b6795e7e350310b"
@@ -102943,8 +102971,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 590,
-        "y": 660,
+        "x": 690,
+        "y": 760,
         "wires": [
             [
                 "d1a5e195d17f0ddc"
@@ -102969,8 +102997,8 @@
         "raw": false,
         "topic": "¿Desea Desactivar el Pump off controller?",
         "name": "confirm",
-        "x": 720,
-        "y": 680,
+        "x": 820,
+        "y": 780,
         "wires": [
             [
                 "68b3c91504be4a88"
@@ -103000,8 +103028,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 850,
-        "y": 680,
+        "x": 950,
+        "y": 780,
         "wires": [
             [
                 "3abe5558b5b3860e"
@@ -103031,8 +103059,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1010,
-        "y": 680,
+        "x": 1110,
+        "y": 780,
         "wires": [
             [
                 "8b6795e7e350310b"
@@ -103059,8 +103087,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1000,
-        "y": 720,
+        "x": 1100,
+        "y": 820,
         "wires": [
             [
                 "8b6795e7e350310b"
@@ -103076,8 +103104,8 @@
         "links": [
             "d0bd353a8ba51cbe"
         ],
-        "x": 1135,
-        "y": 640,
+        "x": 1235,
+        "y": 740,
         "wires": []
     },
     {
@@ -103106,8 +103134,8 @@
         "officon": "",
         "offcolor": "",
         "animate": false,
-        "x": 470,
-        "y": 660,
+        "x": 570,
+        "y": 760,
         "wires": [
             [
                 "b36558086ba90ba7"
@@ -103120,7 +103148,7 @@
         "z": "29bf75edf21541c4",
         "g": "abfc5c293f394682",
         "name": "logic",
-        "func": "var habilitado = global.get(\"Control_functions.ControlDownhole.habilitado\")||false;\nvar time = global.get(\"Control_functions.ControlDownhole.time\")||0;//tiempo para rearrancar\nvar state = global.get(\"Control_functions.ControlDownhole.state\") || \"Normal\";\nvar ctr = context.get(\"ctr\",\"memoryOnly\")||0;//contador interno\nvar At_Setpt_Spd = global.get(\"C2S.Drive_Status.At_Setpt_Spd\", \"memoryOnly\") || 0;//llegó a referencia el VSD\nvar contador,comando,color;//Variables Visualizadoras\nif(habilitado == true){\n    if (state == \"Disparo\"){\n        comando = false;//Dispare el equipo\n        if (At_Setpt_Spd == 0){\n            ctr = ctr + 1;//aumnetar el conteo\n        }else{\n            ctr = ctr;\n        }\n        contador = time - ctr;//visualizar de tiempo\n        if(ctr >= time){//cuando ya cumplio el tiempo\n            comando = true;\n            state = \"Normal\";\n            ctr = 0;\n        }else{\n            ctr = ctr;\n        }\n    } else if (state == \"Alarma\"){// estado de alarma\n        color = \"yellow\";\n        contador = 0;\n    } else if (state == \"Normal\"){\n        contador = 0;\n    }\n    // validacion de los limites\n}else{\n    color = \"red\";\n    contador = 0;\n}\n// variables globales\nglobal.set(\"Control_functions.ControlDownhole.state\",state);\n// visualización\nnode.status({fill:color,shape:\"dot\",text:state});\n\ncontext.set(\"habilitado\", habilitado,\"memoryOnly\");\ncontext.set(\"time\", time,\"memoryOnly\");\ncontext.set(\"state\", state,\"memoryOnly\");\ncontext.set(\"ctr\", ctr,\"memoryOnly\");\ncontext.set(\"At_Setpt_Spd\", At_Setpt_Spd,\"memoryOnly\");\nreturn [{payload:comando},{payload:state},{ payload:contador}];",
+        "func": "var habilitado = global.get(\"Control_functions.ControlDownhole.habilitado\")||false;\nvar time = global.get(\"Control_functions.ControlDownhole.time\")||0;//tiempo para rearrancar\nvar state = global.get(\"Control_functions.ControlDownhole.state\") || \"Normal\";\nvar ctr = context.get(\"ctr\",\"memoryOnly\")||0;//contador interno\nvar At_Setpt_Spd = global.get(\"C2S.Drive_Status.At_Setpt_Spd\", \"memoryOnly\") || 0;//llegó a referencia el VSD\nvar contador,comando,color;//Variables Visualizadoras\nif(habilitado == true){\n    if (state == \"Disparo\"){\n        comando = false;//Dispare el equipo\n        if (At_Setpt_Spd == 0){\n            ctr = ctr + 1;//aumnetar el conteo\n        }else{\n            ctr = ctr;\n        }\n        contador = time - ctr;//visualizar de tiempo\n        if(ctr >= time){//cuando ya cumplio el tiempo\n            comando = true;\n            state = \"Normal\";\n            ctr = 0;\n        }else{\n            ctr = ctr;\n        }\n    } else if (state == \"Alarma\"){// estado de alarma\n        color = \"yellow\";\n        contador = 0;\n    } else if (state == \"Normal\"){\n        contador = 0;\n    }\n}else{\n    state = \"deshabilitado\"\n    color = \"red\";\n    contador = 0;\n}\n// variables globales\nglobal.set(\"Control_functions.ControlDownhole.state\",state);\n// visualización\nnode.status({fill:color,shape:\"dot\",text:state});\n\ncontext.set(\"habilitado\", habilitado,\"memoryOnly\");\ncontext.set(\"time\", time,\"memoryOnly\");\ncontext.set(\"state\", state,\"memoryOnly\");\ncontext.set(\"ctr\", ctr,\"memoryOnly\");\ncontext.set(\"At_Setpt_Spd\", At_Setpt_Spd,\"memoryOnly\");\nreturn [{payload:comando},{payload:state},{ payload:contador}];",
         "outputs": 3,
         "noerr": 0,
         "initialize": "",
@@ -103134,7 +103162,8 @@
                 "c64adff573b33d8e"
             ],
             [
-                "73f3e1d4adf1b4f2"
+                "73f3e1d4adf1b4f2",
+                "b56f728504cd4913"
             ],
             [
                 "f29cf89058d2bf0c"
@@ -103187,8 +103216,8 @@
         "delay": 300,
         "topic": "topic",
         "topicType": "msg",
-        "x": 630,
-        "y": 840,
+        "x": 530,
+        "y": 940,
         "wires": [
             [
                 "e73ea06d928d93fc"
@@ -103212,8 +103241,8 @@
         "delay": 300,
         "topic": "topic",
         "topicType": "msg",
-        "x": 640,
-        "y": 880,
+        "x": 540,
+        "y": 980,
         "wires": [
             [
                 "27b6e126d7be66ee"
@@ -103237,8 +103266,8 @@
         "delay": 300,
         "topic": "topic",
         "topicType": "msg",
-        "x": 640,
-        "y": 920,
+        "x": 540,
+        "y": 1020,
         "wires": [
             [
                 "b653c185a1701b36"
@@ -103265,8 +103294,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 810,
-        "y": 840,
+        "x": 710,
+        "y": 940,
         "wires": [
             []
         ]
@@ -103291,8 +103320,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 820,
-        "y": 880,
+        "x": 720,
+        "y": 980,
         "wires": [
             []
         ]
@@ -103317,8 +103346,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 820,
-        "y": 920,
+        "x": 720,
+        "y": 1020,
         "wires": [
             []
         ]
@@ -103335,8 +103364,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 480,
-        "y": 880,
+        "x": 380,
+        "y": 980,
         "wires": [
             [
                 "60e05cf6d23d5a62"
@@ -103369,8 +103398,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 420,
-        "y": 1180,
+        "x": 320,
+        "y": 1280,
         "wires": [
             [
                 "5a120549fd249ab0"
@@ -103386,8 +103415,8 @@
         "links": [
             "ad87cee4.7dbb5"
         ],
-        "x": 375,
-        "y": 880,
+        "x": 275,
+        "y": 980,
         "wires": [
             [
                 "e7512774416a9544",
@@ -103419,8 +103448,8 @@
         "topic": "",
         "payload": "",
         "payloadType": "date",
-        "x": 440,
-        "y": 820,
+        "x": 340,
+        "y": 920,
         "wires": [
             [
                 "e7512774416a9544"
@@ -103472,8 +103501,8 @@
         "raw": false,
         "topic": "",
         "name": "SPM",
-        "x": 690,
-        "y": 1180,
+        "x": 590,
+        "y": 1280,
         "wires": [
             [
                 "6b38f10a1ac11889"
@@ -103503,8 +103532,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 810,
-        "y": 1180,
+        "x": 710,
+        "y": 1280,
         "wires": [
             [
                 "4785a528a2131ee5"
@@ -103524,8 +103553,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 560,
-        "y": 1180,
+        "x": 460,
+        "y": 1280,
         "wires": [
             [
                 "665c4cd99575e4bf"
@@ -103544,8 +103573,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 980,
-        "y": 1160,
+        "x": 880,
+        "y": 1260,
         "wires": [
             [
                 "4d5f8287ab4ef699"
@@ -103567,8 +103596,8 @@
         "raw": false,
         "topic": "",
         "name": "alert",
-        "x": 1170,
-        "y": 1160,
+        "x": 1070,
+        "y": 1260,
         "wires": []
     },
     {
@@ -103588,8 +103617,8 @@
         "delay": 300,
         "topic": "topic",
         "topicType": "msg",
-        "x": 630,
-        "y": 980,
+        "x": 530,
+        "y": 1080,
         "wires": [
             [
                 "adf840b123b41585"
@@ -103616,8 +103645,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 810,
-        "y": 980,
+        "x": 710,
+        "y": 1080,
         "wires": [
             []
         ]
@@ -103639,8 +103668,8 @@
         "delay": 300,
         "topic": "topic",
         "topicType": "msg",
-        "x": 630,
-        "y": 1020,
+        "x": 530,
+        "y": 1120,
         "wires": [
             [
                 "9696f09381a60de7"
@@ -103667,8 +103696,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 810,
-        "y": 1020,
+        "x": 710,
+        "y": 1120,
         "wires": [
             []
         ]
@@ -103693,8 +103722,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 490,
-        "y": 980,
+        "x": 390,
+        "y": 1080,
         "wires": [
             [
                 "72d9d930aa80e772"
@@ -103721,8 +103750,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 490,
-        "y": 1020,
+        "x": 390,
+        "y": 1120,
         "wires": [
             [
                 "15c1e0773b168946"
@@ -103749,8 +103778,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 970,
-        "y": 1340,
+        "x": 1110,
+        "y": 1380,
         "wires": [
             [
                 "b8bf43fb333c88c5"
@@ -103767,8 +103796,8 @@
             "b8bf43fb333c88c5",
             "ad87cee4.7dbb5"
         ],
-        "x": 135,
-        "y": 1420,
+        "x": 275,
+        "y": 1460,
         "wires": [
             [
                 "69a889a8cd8d4fc7"
@@ -103795,8 +103824,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 240,
-        "y": 1420,
+        "x": 380,
+        "y": 1460,
         "wires": [
             [
                 "17f0cfed3a423e5f"
@@ -103818,8 +103847,8 @@
         "raw": false,
         "topic": "¿Desea Simular?",
         "name": "confirm",
-        "x": 680,
-        "y": 1380,
+        "x": 820,
+        "y": 1420,
         "wires": [
             [
                 "a142cd930e28191e"
@@ -103849,8 +103878,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 830,
-        "y": 1380,
+        "x": 970,
+        "y": 1420,
         "wires": [
             [
                 "cf0d339c5e409c52"
@@ -103880,8 +103909,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 970,
-        "y": 1400,
+        "x": 1110,
+        "y": 1440,
         "wires": [
             [
                 "b8bf43fb333c88c5"
@@ -103907,8 +103936,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 550,
-        "y": 1420,
+        "x": 690,
+        "y": 1460,
         "wires": [
             [
                 "9241969966300523"
@@ -103933,8 +103962,8 @@
         "raw": false,
         "topic": "¿Desea Desactivar Simulacion?",
         "name": "confirm",
-        "x": 680,
-        "y": 1440,
+        "x": 820,
+        "y": 1480,
         "wires": [
             [
                 "57d5f08136554ce9"
@@ -103964,8 +103993,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 810,
-        "y": 1440,
+        "x": 950,
+        "y": 1480,
         "wires": [
             [
                 "e006cde8fe53d84f"
@@ -103995,8 +104024,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 970,
-        "y": 1440,
+        "x": 1110,
+        "y": 1480,
         "wires": [
             [
                 "b8bf43fb333c88c5"
@@ -104023,8 +104052,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 960,
-        "y": 1480,
+        "x": 1100,
+        "y": 1520,
         "wires": [
             [
                 "b8bf43fb333c88c5"
@@ -104040,8 +104069,8 @@
         "links": [
             "806bf1b9eefa1219"
         ],
-        "x": 1095,
-        "y": 1400,
+        "x": 1235,
+        "y": 1440,
         "wires": []
     },
     {
@@ -104070,8 +104099,8 @@
         "officon": "",
         "offcolor": "",
         "animate": false,
-        "x": 390,
-        "y": 1420,
+        "x": 530,
+        "y": 1460,
         "wires": [
             [
                 "0c8aedf11c2f50af"
@@ -104138,13 +104167,13 @@
         "finalize": "",
         "libs": [],
         "x": 430,
-        "y": 340,
+        "y": 260,
         "wires": [
             [
                 "f90a82bb260e58f9"
             ],
             [
-                "220a7441ff50bfd3"
+                "ddd09a126914e360"
             ]
         ]
     },
@@ -104170,7 +104199,7 @@
         "topic": "",
         "payloadType": "date",
         "x": 250,
-        "y": 340,
+        "y": 260,
         "wires": [
             [
                 "6a9062bd190db550"
@@ -104194,8 +104223,8 @@
         "delay": 300,
         "topic": "topic",
         "topicType": "msg",
-        "x": 670,
-        "y": 1060,
+        "x": 570,
+        "y": 1160,
         "wires": [
             [
                 "053889d47fbf2da6"
@@ -104222,8 +104251,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 830,
-        "y": 1060,
+        "x": 730,
+        "y": 1160,
         "wires": [
             []
         ]
@@ -104248,8 +104277,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 490,
-        "y": 1060,
+        "x": 390,
+        "y": 1160,
         "wires": [
             [
                 "c4690bdaf9d079a9"
@@ -104297,7 +104326,7 @@
         "targetType": "msg",
         "statusVal": "payload",
         "statusType": "auto",
-        "x": 570,
+        "x": 590,
         "y": 420,
         "wires": []
     },
@@ -104315,8 +104344,8 @@
         "targetType": "msg",
         "statusVal": "payload",
         "statusType": "auto",
-        "x": 790,
-        "y": 460,
+        "x": 710,
+        "y": 560,
         "wires": []
     },
     {
@@ -104333,8 +104362,8 @@
         "targetType": "msg",
         "statusVal": "payload",
         "statusType": "auto",
-        "x": 680,
-        "y": 380,
+        "x": 560,
+        "y": 320,
         "wires": []
     },
     {
@@ -104357,11 +104386,12 @@
         "z": "29bf75edf21541c4",
         "g": "abfc5c293f394682",
         "name": "",
-        "x": 580,
-        "y": 460,
+        "x": 520,
+        "y": 520,
         "wires": [
             [
-                "b6ccf7628a758b36"
+                "b6ccf7628a758b36",
+                "2f923bf00fd6503f"
             ]
         ]
     },
@@ -104378,8 +104408,8 @@
         "septopics": true,
         "property": "payload",
         "topi": "topic",
-        "x": 660,
-        "y": 340,
+        "x": 550,
+        "y": 380,
         "wires": [
             [
                 "5ba3bd2da473a65e"
@@ -104500,24 +104530,6 @@
         ]
     },
     {
-        "id": "220a7441ff50bfd3",
-        "type": "debug",
-        "z": "29bf75edf21541c4",
-        "g": "abfc5c293f394682",
-        "name": "intentos",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": true,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "payload",
-        "statusType": "auto",
-        "x": 600,
-        "y": 300,
-        "wires": []
-    },
-    {
         "id": "f90a82bb260e58f9",
         "type": "debug",
         "z": "29bf75edf21541c4",
@@ -104532,7 +104544,144 @@
         "statusVal": "payload",
         "statusType": "auto",
         "x": 590,
-        "y": 260,
+        "y": 220,
         "wires": []
+    },
+    {
+        "id": "ddd09a126914e360",
+        "type": "ui_text",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "group": "5ad0dad73b82700f",
+        "order": 11,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "#Intentos",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "x": 600,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "2f923bf00fd6503f",
+        "type": "ui_text",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "group": "5ad0dad73b82700f",
+        "order": 11,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "tiempo",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "x": 690,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "b56f728504cd4913",
+        "type": "ui_text",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "group": "5ad0dad73b82700f",
+        "order": 11,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "estado",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "x": 570,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "6dbcf2d4b6e2c256",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "buttonComandOn",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.ControlDownhole.buttonComand",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 290,
+        "y": 500,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "18e1ef5a1e4a3756",
+        "type": "link in",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "ArrancarDownholeControl",
+        "links": [
+            "0d7d36d911e2cbb3"
+        ],
+        "x": 155,
+        "y": 500,
+        "wires": [
+            [
+                "6dbcf2d4b6e2c256"
+            ]
+        ]
+    },
+    {
+        "id": "3327cfa838294b44",
+        "type": "link in",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "DetenerDonwholeControl",
+        "links": [
+            "f1f7bfacfe0754bf"
+        ],
+        "x": 155,
+        "y": 560,
+        "wires": [
+            [
+                "f46982b09d8c3604"
+            ]
+        ]
+    },
+    {
+        "id": "f46982b09d8c3604",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "buttonComandOff",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.ControlDownhole.buttonComand",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 290,
+        "y": 560,
+        "wires": [
+            []
+        ]
     }
 ]
