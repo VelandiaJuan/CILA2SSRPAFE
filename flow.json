@@ -958,7 +958,9 @@
             "bfa48676.a364f8"
         ],
         "x": 54,
-        "y": 19
+        "y": 19,
+        "w": 432,
+        "h": 149.5
     },
     {
         "id": "d929d138.3b512",
@@ -976,7 +978,9 @@
             "ebd2954e5785409e"
         ],
         "x": 994,
-        "y": 19
+        "y": 19,
+        "w": 542,
+        "h": 122
     },
     {
         "id": "fcb3da61.429db8",
@@ -1071,7 +1075,9 @@
             "0d7d36d911e2cbb3"
         ],
         "x": 24,
-        "y": 609
+        "y": 609,
+        "w": 2632,
+        "h": 552
     },
     {
         "id": "3cb51855.a66038",
@@ -1086,7 +1092,9 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169
+        "y": 1169,
+        "w": 232,
+        "h": 82
     },
     {
         "id": "27a0641a.d154dc",
@@ -1196,7 +1204,9 @@
             "b6cf54debd6eb4db"
         ],
         "x": 64,
-        "y": 479
+        "y": 479,
+        "w": 662,
+        "h": 202
     },
     {
         "id": "9132da2c.b8c6b8",
@@ -1220,7 +1230,9 @@
             "fd328934.0ddd18"
         ],
         "x": 74,
-        "y": 699
+        "y": 699,
+        "w": 602,
+        "h": 202
     },
     {
         "id": "9b538856.60fb38",
@@ -1398,7 +1410,9 @@
             "312d9def.84df32"
         ],
         "x": 74,
-        "y": 919
+        "y": 919,
+        "w": 702,
+        "h": 242
     },
     {
         "id": "3ae9fbe60d6132ea",
@@ -1929,7 +1943,9 @@
             "c22e3c27600ab315"
         ],
         "x": 994,
-        "y": 159
+        "y": 159,
+        "w": 612,
+        "h": 242
     },
     {
         "id": "d84615.919209e8",
@@ -2056,7 +2072,9 @@
             "fc0f71fc7fab8d0e"
         ],
         "x": 74,
-        "y": 1189
+        "y": 1189,
+        "w": 792,
+        "h": 252
     },
     {
         "id": "06c0dbf1bffe1e21",
@@ -2072,7 +2090,9 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269
+        "y": 1269,
+        "w": 352,
+        "h": 82
     },
     {
         "id": "6202107f.ed9aa",
@@ -2144,7 +2164,9 @@
             "7035c5bac0894530"
         ],
         "x": 44,
-        "y": -21
+        "y": -21,
+        "w": 1992,
+        "h": 622
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -2178,7 +2200,9 @@
             "17c1f84a5b3ad8ad"
         ],
         "x": 3224,
-        "y": 19
+        "y": 19,
+        "w": 1284,
+        "h": 1708
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -2199,7 +2223,9 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169
+        "y": 1169,
+        "w": 782,
+        "h": 182
     },
     {
         "id": "086b9d08c3b68939",
@@ -2230,7 +2256,9 @@
             "9661d016b799c47d"
         ],
         "x": 24,
-        "y": 1359
+        "y": 1359,
+        "w": 1022,
+        "h": 292
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -2256,7 +2284,9 @@
             "6e75b5f5657d3a7e"
         ],
         "x": 24,
-        "y": 1679
+        "y": 1679,
+        "w": 1132,
+        "h": 202
     },
     {
         "id": "afdbbb533d628687",
@@ -2272,7 +2302,9 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679
+        "y": 1679,
+        "w": 332,
+        "h": 82
     },
     {
         "id": "ba075c8cc622876a",
@@ -2989,7 +3021,9 @@
             "0d38acc234ba861f"
         ],
         "x": 994,
-        "y": 419
+        "y": 419,
+        "w": 642,
+        "h": 162
     },
     {
         "id": "86af7867dc10f4a8",
@@ -3057,7 +3091,9 @@
             "a5f101f20d6fd56b"
         ],
         "x": 994,
-        "y": 599
+        "y": 599,
+        "w": 562,
+        "h": 142
     },
     {
         "id": "5dc71a84bf12ae23",
@@ -3139,7 +3175,9 @@
             "d93cba9654c81eec"
         ],
         "x": 2534,
-        "y": 19
+        "y": 19,
+        "w": 252,
+        "h": 482
     },
     {
         "id": "08268a4bd4859ab8",
@@ -3164,7 +3202,9 @@
             "0988d89e2a5ce6e0"
         ],
         "x": 2814,
-        "y": 19
+        "y": 19,
+        "w": 259,
+        "h": 482
     },
     {
         "id": "5c9801fdee1b9e98",
@@ -3193,7 +3233,9 @@
             "ae2375753c90e02b"
         ],
         "x": 974,
-        "y": 979
+        "y": 979,
+        "w": 312,
+        "h": 522
     },
     {
         "id": "c920676a5fbb9bc8",
@@ -3292,9 +3334,7 @@
             "3fe6ba310d6fe1c0"
         ],
         "x": 154,
-        "y": 779,
-        "w": 1132,
-        "h": 342
+        "y": 779
     },
     {
         "id": "99fd9c5cbd90ceb5",
@@ -3311,9 +3351,7 @@
             "5e3e278f18c43297"
         ],
         "x": 154,
-        "y": 1159,
-        "w": 492,
-        "h": 122
+        "y": 1159
     },
     {
         "id": "aecdec289959a88b",
@@ -3343,9 +3381,7 @@
             "c029b9bec80247e8"
         ],
         "x": 154,
-        "y": 459,
-        "w": 1092,
-        "h": 282
+        "y": 459
     },
     {
         "id": "6c6732761a2613b5",
@@ -3399,9 +3435,7 @@
             "3f59808d6a892b13"
         ],
         "x": 534,
-        "y": 159,
-        "w": 652,
-        "h": 242
+        "y": 159
     },
     {
         "id": "8330e7a653863e55",
@@ -3419,9 +3453,7 @@
             "8b3d9fac296bfda2"
         ],
         "x": 34,
-        "y": 159,
-        "w": 482,
-        "h": 142
+        "y": 159
     },
     {
         "id": "7f4726c248df075a",
@@ -3448,9 +3480,7 @@
             "984de93babf87b5a"
         ],
         "x": 14,
-        "y": 419,
-        "w": 592,
-        "h": 322
+        "y": 419
     },
     {
         "id": "1ec8ef96430984c9",
@@ -3469,9 +3499,7 @@
             "31ad55c2c2e4aa56"
         ],
         "x": 14,
-        "y": 779,
-        "w": 652,
-        "h": 82
+        "y": 779
     },
     {
         "id": "b1331148614d9c76",
@@ -3490,9 +3518,7 @@
             "ec85fc31e23ddeeb"
         ],
         "x": 4,
-        "y": 879,
-        "w": 682,
-        "h": 82
+        "y": 879
     },
     {
         "id": "c6e9f26a4dee8c1e",
@@ -3624,7 +3650,9 @@
             "12a3282355da9439"
         ],
         "x": 74,
-        "y": 1439
+        "y": 1439,
+        "w": 582,
+        "h": 182
     },
     {
         "id": "69cbede8f851191a",
@@ -3645,7 +3673,9 @@
             "a1c5e02a9d683eb4"
         ],
         "x": 74,
-        "y": 1639
+        "y": 1639,
+        "w": 582,
+        "h": 182
     },
     {
         "id": "f9b757cab0b767da",
@@ -3735,7 +3765,9 @@
             "d3fc647f21f7d8eb"
         ],
         "x": 254,
-        "y": 1939
+        "y": 1939,
+        "w": 532,
+        "h": 142
     },
     {
         "id": "5519b13db7a1857a",
@@ -3761,9 +3793,7 @@
             "a0b90b4f54fbae9f"
         ],
         "x": 674,
-        "y": 1159,
-        "w": 1142,
-        "h": 222
+        "y": 1159
     },
     {
         "id": "9ff47da5fe193161",
@@ -3796,7 +3826,9 @@
             "e0da6f5132ed3813"
         ],
         "x": 64,
-        "y": 189
+        "y": 189,
+        "w": 852,
+        "h": 282
     },
     {
         "id": "daacc2ec73149b57",
@@ -3846,9 +3878,7 @@
             "d5eb026a704fd13b"
         ],
         "x": 154,
-        "y": 179,
-        "w": 1392,
-        "h": 162
+        "y": 179
     },
     {
         "id": "e4cabd2892b5651b",
@@ -4055,7 +4085,9 @@
             "a2defc407081fdc7"
         ],
         "x": 1734,
-        "y": 19
+        "y": 19,
+        "w": 772,
+        "h": 922
     },
     {
         "id": "0e051c2facee0b6d",
@@ -4089,7 +4121,9 @@
             "90db7ddb11817711"
         ],
         "x": 14,
-        "y": 419
+        "y": 419,
+        "w": 1632,
+        "h": 262
     },
     {
         "id": "162691d3abd26ddb",
@@ -4121,7 +4155,9 @@
             "4ba7844e7747726a"
         ],
         "x": 834,
-        "y": 139
+        "y": 139,
+        "w": 1102,
+        "h": 282
     },
     {
         "id": "bca72b7420df46a9",
@@ -4138,7 +4174,9 @@
             "d264a0cf20ef8465"
         ],
         "x": 34,
-        "y": 979
+        "y": 979,
+        "w": 492,
+        "h": 122
     },
     {
         "id": "f4c2cbbaa70a9690",
@@ -4170,7 +4208,9 @@
             "9c91555f5426d4fa"
         ],
         "x": 14,
-        "y": 739
+        "y": 739,
+        "w": 1252,
+        "h": 222
     },
     {
         "id": "fd781041a7a8fbec",
@@ -4201,7 +4241,9 @@
             "1fcb90134a8f3ddb"
         ],
         "x": -6,
-        "y": 99
+        "y": 99,
+        "w": 812,
+        "h": 302
     },
     {
         "id": "73546535bd657e5f",
@@ -4244,7 +4286,6 @@
             "f3725f49b1e49b20",
             "6a9062bd190db550",
             "df8e483d5526c510",
-            "73f3e1d4adf1b4f2",
             "b6ccf7628a758b36",
             "b862b007fadc3854",
             "f29cf89058d2bf0c",
@@ -4260,11 +4301,17 @@
             "18e1ef5a1e4a3756",
             "3327cfa838294b44",
             "f46982b09d8c3604",
-            "6dbcf2d4b6e2c256"
+            "6dbcf2d4b6e2c256",
+            "3b0a2770dbde331a",
+            "ebeff795103c0e85",
+            "820a4c65386459ee",
+            "acea7f0548a0c249",
+            "1c62e654a77531dc",
+            "1a13e58e8e1995f8"
         ],
         "x": 114,
         "y": 179,
-        "w": 1072,
+        "w": 1012,
         "h": 422
     },
     {
@@ -5048,7 +5095,9 @@
             "1a666ca6835d2d34"
         ],
         "x": 74,
-        "y": 399
+        "y": 399,
+        "w": 852,
+        "h": 132
     },
     {
         "id": "cf985e84.c7693",
@@ -6002,7 +6051,9 @@
             "26836fe8d310f685"
         ],
         "x": 3428,
-        "y": 413
+        "y": 413,
+        "w": 1054,
+        "h": 758
     },
     {
         "id": "7bc9759a9a7ea0be",
@@ -6057,7 +6108,9 @@
             "09240a88f66b7c6f"
         ],
         "x": 3434,
-        "y": 1179
+        "y": 1179,
+        "w": 992,
+        "h": 522
     },
     {
         "id": "dad84feb.d4773",
@@ -7624,7 +7677,9 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 439
+        "y": 439,
+        "w": 402,
+        "h": 362
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -7652,7 +7707,9 @@
             "1f3630da2492d4f9"
         ],
         "x": 3454,
-        "y": 809
+        "y": 809,
+        "w": 1002,
+        "h": 212
     },
     {
         "id": "b6e70888e2a92a81",
@@ -49849,7 +49906,8 @@
             "6f05a009383c5e7c",
             "e4e1f55820bbf3ef",
             "2915404d918e6500",
-            "a6ae08b25206a8fb"
+            "a6ae08b25206a8fb",
+            "1a13e58e8e1995f8"
         ],
         "x": 1035,
         "y": 320,
@@ -49900,7 +49958,8 @@
             "ff630c91071231bc",
             "e9429ad0db54453c",
             "e12e6e5df4e84760",
-            "f26884a752f635f5"
+            "f26884a752f635f5",
+            "3b0a2770dbde331a"
         ],
         "x": 1035,
         "y": 360,
@@ -53765,7 +53824,8 @@
             "02637e406d6ed608",
             "61b7325ebb260248",
             "e12e6e5df4e84760",
-            "f26884a752f635f5"
+            "f26884a752f635f5",
+            "3b0a2770dbde331a"
         ],
         "x": 1281,
         "y": 80,
@@ -55538,7 +55598,8 @@
             "e4e1f55820bbf3ef",
             "6fb7736af2631081",
             "2915404d918e6500",
-            "a6ae08b25206a8fb"
+            "a6ae08b25206a8fb",
+            "1a13e58e8e1995f8"
         ],
         "x": 381,
         "y": 80,
@@ -103114,7 +103175,7 @@
         "z": "29bf75edf21541c4",
         "g": "73546535bd657e5f",
         "name": "",
-        "label": "switch",
+        "label": "Habilitar",
         "tooltip": "",
         "group": "5ad0dad73b82700f",
         "order": 1,
@@ -103134,7 +103195,7 @@
         "officon": "",
         "offcolor": "",
         "animate": false,
-        "x": 570,
+        "x": 540,
         "y": 760,
         "wires": [
             [
@@ -103148,7 +103209,7 @@
         "z": "29bf75edf21541c4",
         "g": "abfc5c293f394682",
         "name": "logic",
-        "func": "var habilitado = global.get(\"Control_functions.ControlDownhole.habilitado\")||false;\nvar buttonComand = global.get(\"Control_functions.ControlDownhole.buttonComand\")||false;\nvar time = global.get(\"Control_functions.ControlDownhole.time\")||0;//tiempo para rearrancar\nvar state = global.get(\"Control_functions.ControlDownhole.state\") || \"Normal\";//estado general del control\nvar ctr = context.get(\"ctr\",\"memoryOnly\")||0;//contador interno\nvar At_Setpt_Spd = global.get(\"C2S.Drive_Status.At_Setpt_Spd\", \"memoryOnly\") || 0;//llegó a referencia el VSD\nvar contador,comando,color;//Variables Visualizadoras\nif (habilitado == true && buttonComand == true){\n    if (state == \"Disparo\"){\n        comando = false;//Dispare el equipo\n        if (At_Setpt_Spd == 0){\n            ctr = ctr + 1;//aumnetar el conteo\n        }else{\n            ctr = ctr;\n        }\n        contador = time - ctr;//visualizar de tiempo\n        if(ctr >= time){//cuando ya cumplio el tiempo\n            comando = true;\n            state = \"Normal\";\n            ctr = 0;\n        }else{\n            ctr = ctr;\n        }\n    } else if (state == \"Alarma\"){// estado de alarma\n        color = \"yellow\";\n        contador = 0;\n    } else if (state == \"Normal\"){\n        contador = 0;\n    }\n} else if (habilitado == true && buttonComand == false){//habilitado pero no arrancado\n    state = \"esperandoArranque\"\n    color = \"red\";\n    contador = 0;\n}else{//deshablitado\n    state = \"Deshabilitado\"\n    color = \"red\";\n    contador = 0;\n}\n// variables globales\nglobal.set(\"Control_functions.ControlDownhole.state\",state);\n// visualización\nnode.status({fill:color,shape:\"dot\",text:state});\n\ncontext.set(\"habilitado\", habilitado,\"memoryOnly\");\ncontext.set(\"time\", time,\"memoryOnly\");\ncontext.set(\"state\", state,\"memoryOnly\");\ncontext.set(\"ctr\", ctr,\"memoryOnly\");\ncontext.set(\"At_Setpt_Spd\", At_Setpt_Spd,\"memoryOnly\");\nreturn [{payload:comando},{payload:state},{ payload:contador}];",
+        "func": "var habilitado = global.get(\"Control_functions.ControlDownhole.habilitado\")||false;\nvar buttonComand = global.get(\"Control_functions.ControlDownhole.buttonComand\")||false;\nvar time = global.get(\"Control_functions.ControlDownhole.time\")||0;//tiempo para rearrancar\nvar state = global.get(\"Control_functions.ControlDownhole.state\") || \"Normal\";//estado general del control\nvar ctr = context.get(\"ctr\",\"memoryOnly\")||0;//contador interno\nvar At_Setpt_Spd = global.get(\"C2S.Drive_Status.At_Setpt_Spd\", \"memoryOnly\") || 0;//llegó a referencia el VSD\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\", \"memoryOnly\") || false;//comunicación con el drive\nvar contador,comando,color;//Variables Visualizadoras\nif (habilitado == true && buttonComand == true && comunicacion == true){\n    if (state == \"Disparo\"){\n        comando = false;//Dispare el equipo\n        if (At_Setpt_Spd == 0){\n            ctr = ctr + 1;//aumnetar el conteo\n        }else{\n            ctr = ctr;\n        }\n        contador = time - ctr;//visualizar de tiempo\n        if(ctr >= time){//cuando ya cumplio el tiempo\n            comando = true;\n            state = \"Normal\"; color = \"green\";\n            ctr = 0;\n        }else{\n            ctr = ctr;\n        }\n    } else if (state == \"Alarma\"){// estado de alarma\n        color = \"yellow\";\n        contador = 0;\n    } else if (state == \"Normal\"){\n        contador = 0;\n    }\n} else if (habilitado == true && buttonComand == false && comunicacion == true){//habilitado pero no arrancado\n    state = \"esperandoArranque\"\n    color = \"red\";\n    contador = 0;\n}else if(comunicacion == false){\n    state = \"falloComunicación\"\n    color = \"blue\";\n    contador = 0;\n}\nelse{//deshablitado\n    state = \"Deshabilitado\"\n    color = \"red\";\n    contador = 0;\n}\n// variables globales\nglobal.set(\"Control_functions.ControlDownhole.state\",state);\n// visualización\nnode.status({fill:color,shape:\"dot\",text:state});\n\ncontext.set(\"habilitado\", habilitado,\"memoryOnly\");\ncontext.set(\"time\", time,\"memoryOnly\");\ncontext.set(\"state\", state,\"memoryOnly\");\ncontext.set(\"ctr\", ctr,\"memoryOnly\");\ncontext.set(\"At_Setpt_Spd\", At_Setpt_Spd,\"memoryOnly\");\ncontext.set(\"comunicacion\", comunicacion,\"memoryOnly\");\nreturn [{payload:comando},{payload:state},{ payload:contador}];",
         "outputs": 3,
         "noerr": 0,
         "initialize": "",
@@ -103162,8 +103223,8 @@
                 "c64adff573b33d8e"
             ],
             [
-                "73f3e1d4adf1b4f2",
-                "b56f728504cd4913"
+                "b56f728504cd4913",
+                "820a4c65386459ee"
             ],
             [
                 "f29cf89058d2bf0c"
@@ -103208,7 +103269,7 @@
         "label": "horas",
         "tooltip": "",
         "group": "5ad0dad73b82700f",
-        "order": 2,
+        "order": 3,
         "width": 2,
         "height": 1,
         "passthru": true,
@@ -103233,7 +103294,7 @@
         "label": "minutos",
         "tooltip": "",
         "group": "5ad0dad73b82700f",
-        "order": 2,
+        "order": 4,
         "width": 2,
         "height": 1,
         "passthru": true,
@@ -103258,7 +103319,7 @@
         "label": "segundos",
         "tooltip": "",
         "group": "5ad0dad73b82700f",
-        "order": 2,
+        "order": 5,
         "width": 2,
         "height": 1,
         "passthru": true,
@@ -103385,7 +103446,7 @@
         "g": "07f02b70dd167ae5",
         "name": "",
         "group": "5ad0dad73b82700f",
-        "order": 5,
+        "order": 14,
         "width": "2",
         "height": "1",
         "passthru": false,
@@ -103609,7 +103670,7 @@
         "label": "LL",
         "tooltip": "",
         "group": "5ad0dad73b82700f",
-        "order": 2,
+        "order": 6,
         "width": 2,
         "height": 1,
         "passthru": true,
@@ -103660,7 +103721,7 @@
         "label": "L",
         "tooltip": "",
         "group": "5ad0dad73b82700f",
-        "order": 2,
+        "order": 7,
         "width": 2,
         "height": 1,
         "passthru": true,
@@ -104082,7 +104143,7 @@
         "label": "Simulación",
         "tooltip": "",
         "group": "5ad0dad73b82700f",
-        "order": 1,
+        "order": 2,
         "width": "3",
         "height": "1",
         "passthru": false,
@@ -104215,7 +104276,7 @@
         "label": "#Intentos",
         "tooltip": "",
         "group": "5ad0dad73b82700f",
-        "order": 2,
+        "order": 8,
         "width": 2,
         "height": 1,
         "passthru": true,
@@ -104292,7 +104353,7 @@
         "g": "27eadf663f119ea4",
         "name": "",
         "group": "5ad0dad73b82700f",
-        "order": 0,
+        "order": 13,
         "width": "2",
         "height": "2",
         "gtype": "gage",
@@ -104310,24 +104371,6 @@
         "seg2": "",
         "x": 1640,
         "y": 580,
-        "wires": []
-    },
-    {
-        "id": "73f3e1d4adf1b4f2",
-        "type": "debug",
-        "z": "29bf75edf21541c4",
-        "g": "abfc5c293f394682",
-        "name": "",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": true,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "payload",
-        "statusType": "auto",
-        "x": 590,
-        "y": 420,
         "wires": []
     },
     {
@@ -104435,8 +104478,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 790,
-        "y": 340,
+        "x": 670,
+        "y": 380,
         "wires": [
             [
                 "f87215caf347b889"
@@ -104473,8 +104516,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 940,
-        "y": 320,
+        "x": 840,
+        "y": 360,
         "wires": [
             [
                 "136cc9da70140a0c"
@@ -104508,8 +104551,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 930,
-        "y": 360,
+        "x": 830,
+        "y": 400,
         "wires": [
             [
                 "136cc9da70140a0c"
@@ -104522,8 +104565,8 @@
         "z": "29bf75edf21541c4",
         "g": "abfc5c293f394682",
         "name": "",
-        "x": 1100,
-        "y": 320,
+        "x": 1040,
+        "y": 360,
         "wires": [
             [],
             []
@@ -104553,7 +104596,7 @@
         "z": "29bf75edf21541c4",
         "g": "abfc5c293f394682",
         "group": "5ad0dad73b82700f",
-        "order": 11,
+        "order": 10,
         "width": "2",
         "height": "1",
         "name": "",
@@ -104587,7 +104630,7 @@
         "z": "29bf75edf21541c4",
         "g": "abfc5c293f394682",
         "group": "5ad0dad73b82700f",
-        "order": 11,
+        "order": 12,
         "width": "2",
         "height": "1",
         "name": "",
@@ -104683,5 +104726,128 @@
         "wires": [
             []
         ]
+    },
+    {
+        "id": "ebeff795103c0e85",
+        "type": "function",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "Alarma",
+        "func": "msg.payload = \"Alarma % Llenado\";\nmsg.topic = \"DownholeControl\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 860,
+        "y": 440,
+        "wires": [
+            [
+                "3b0a2770dbde331a"
+            ]
+        ]
+    },
+    {
+        "id": "3b0a2770dbde331a",
+        "type": "link out",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "",
+        "links": [
+            "52f1e35a6b450a62",
+            "8eacc47.e177438"
+        ],
+        "x": 955,
+        "y": 440,
+        "wires": []
+    },
+    {
+        "id": "820a4c65386459ee",
+        "type": "rbe",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 570,
+        "y": 420,
+        "wires": [
+            [
+                "acea7f0548a0c249"
+            ]
+        ]
+    },
+    {
+        "id": "acea7f0548a0c249",
+        "type": "switch",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Alarma",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Disparo",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 710,
+        "y": 460,
+        "wires": [
+            [
+                "ebeff795103c0e85"
+            ],
+            [
+                "1c62e654a77531dc"
+            ]
+        ]
+    },
+    {
+        "id": "1c62e654a77531dc",
+        "type": "function",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "Disparo",
+        "func": "msg.payload = \"Disparo % Llenado\";\nmsg.topic = \"DownholeControl\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 860,
+        "y": 480,
+        "wires": [
+            [
+                "1a13e58e8e1995f8"
+            ]
+        ]
+    },
+    {
+        "id": "1a13e58e8e1995f8",
+        "type": "link out",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 955,
+        "y": 480,
+        "wires": []
     }
 ]
