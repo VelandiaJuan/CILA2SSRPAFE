@@ -1038,7 +1038,9 @@
             "0d7d36d911e2cbb3"
         ],
         "x": 24,
-        "y": 609
+        "y": 609,
+        "w": 2632,
+        "h": 552
     },
     {
         "id": "3cb51855.a66038",
@@ -1053,7 +1055,9 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169
+        "y": 1169,
+        "w": 232,
+        "h": 82
     },
     {
         "id": "27a0641a.d154dc",
@@ -2039,7 +2043,9 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269
+        "y": 1269,
+        "w": 352,
+        "h": 82
     },
     {
         "id": "6202107f.ed9aa",
@@ -2111,7 +2117,9 @@
             "7035c5bac0894530"
         ],
         "x": 44,
-        "y": -21
+        "y": -21,
+        "w": 1992,
+        "h": 622
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -2145,7 +2153,9 @@
             "17c1f84a5b3ad8ad"
         ],
         "x": 3224,
-        "y": 19
+        "y": 19,
+        "w": 1284,
+        "h": 1708
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -2166,7 +2176,9 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169
+        "y": 1169,
+        "w": 782,
+        "h": 182
     },
     {
         "id": "086b9d08c3b68939",
@@ -2197,7 +2209,9 @@
             "9661d016b799c47d"
         ],
         "x": 24,
-        "y": 1359
+        "y": 1359,
+        "w": 1022,
+        "h": 292
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -2223,7 +2237,9 @@
             "6e75b5f5657d3a7e"
         ],
         "x": 24,
-        "y": 1679
+        "y": 1679,
+        "w": 1132,
+        "h": 202
     },
     {
         "id": "afdbbb533d628687",
@@ -2239,7 +2255,9 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679
+        "y": 1679,
+        "w": 332,
+        "h": 82
     },
     {
         "id": "ba075c8cc622876a",
@@ -2660,9 +2678,7 @@
             "ca1808e9c0cebc54"
         ],
         "x": 52,
-        "y": 637,
-        "w": 3166,
-        "h": 2556
+        "y": 637
     },
     {
         "id": "3d603bc8c80c2124",
@@ -2682,9 +2698,7 @@
             "8f311859e2329cb0"
         ],
         "x": 54,
-        "y": 379,
-        "w": 902,
-        "h": 82
+        "y": 379
     },
     {
         "id": "4c1b2fd5bfa8819c",
@@ -2700,9 +2714,7 @@
             "af436d3d4e5d33de"
         ],
         "x": 42,
-        "y": 3227,
-        "w": 3020,
-        "h": 1410
+        "y": 3227
     },
     {
         "id": "600556d8bd2ccda4",
@@ -2767,9 +2779,7 @@
             "72c298a02ef42417"
         ],
         "x": 1094,
-        "y": 59,
-        "w": 2342,
-        "h": 532
+        "y": 59
     },
     {
         "id": "a9988da34f9622ff",
@@ -2796,9 +2806,7 @@
             "03552a6ae2d7be66"
         ],
         "x": 34,
-        "y": 39,
-        "w": 1032,
-        "h": 322
+        "y": 39
     },
     {
         "id": "474b22e105b31dff",
@@ -3702,7 +3710,9 @@
             "d3fc647f21f7d8eb"
         ],
         "x": 254,
-        "y": 1939
+        "y": 1939,
+        "w": 532,
+        "h": 142
     },
     {
         "id": "5519b13db7a1857a",
@@ -3841,9 +3851,7 @@
             "44b52a5ca865f32a"
         ],
         "x": 114,
-        "y": 999,
-        "w": 862,
-        "h": 242
+        "y": 999
     },
     {
         "id": "65dbd90af70f1e98",
@@ -3872,9 +3880,7 @@
             "c9ef5029dfa1dca4"
         ],
         "x": 114,
-        "y": 599,
-        "w": 968,
-        "h": 375.5
+        "y": 599
     },
     {
         "id": "2ceb8ec502cd9a4d",
@@ -3901,9 +3907,7 @@
             "86a9047e4057bacf"
         ],
         "x": 1254,
-        "y": 599,
-        "w": 692,
-        "h": 322
+        "y": 599
     },
     {
         "id": "7fd14179472bdff0",
@@ -3935,9 +3939,7 @@
             "6f05a009383c5e7c"
         ],
         "x": 114,
-        "y": 279,
-        "w": 1332,
-        "h": 242
+        "y": 279
     },
     {
         "id": "b76c959d391c2570",
@@ -4181,22 +4183,6 @@
         "h": 302
     },
     {
-        "id": "71f3a9d8fc88e0b6",
-        "type": "group",
-        "z": "29bf75edf21541c4",
-        "name": "Visual DownholeControl",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "f4c9c3723cd71f51"
-        ],
-        "x": 134,
-        "y": 779,
-        "w": 172,
-        "h": 82
-    },
-    {
         "id": "73546535bd657e5f",
         "type": "group",
         "z": "29bf75edf21541c4",
@@ -4329,17 +4315,18 @@
         "id": "27eadf663f119ea4",
         "type": "group",
         "z": "29bf75edf21541c4",
-        "name": "Simulación de Data",
+        "name": "Visual",
         "style": {
             "label": true
         },
         "nodes": [
             "1d57ea6914ce1d68",
-            "0e9820a7fbc95a17"
+            "0e9820a7fbc95a17",
+            "5b99a9cea8e23964"
         ],
-        "x": 754,
-        "y": 339,
-        "w": 322,
+        "x": 594,
+        "y": 359,
+        "w": 532,
         "h": 82
     },
     {
@@ -5023,7 +5010,9 @@
             "1a666ca6835d2d34"
         ],
         "x": 74,
-        "y": 399
+        "y": 399,
+        "w": 852,
+        "h": 132
     },
     {
         "id": "cf985e84.c7693",
@@ -5635,9 +5624,7 @@
             "0d3271d48cdd3dc2"
         ],
         "x": 78,
-        "y": 673,
-        "w": 1724,
-        "h": 2494
+        "y": 673
     },
     {
         "id": "ca1808e9c0cebc54",
@@ -5655,9 +5642,7 @@
             "acf6618644660324"
         ],
         "x": 1828,
-        "y": 663,
-        "w": 1364,
-        "h": 1536.5
+        "y": 663
     },
     {
         "id": "eae7b72d553551bc",
@@ -5674,9 +5659,7 @@
             "7d3d6fba6fb45cf5"
         ],
         "x": 68,
-        "y": 3253,
-        "w": 1284,
-        "h": 894
+        "y": 3253
     },
     {
         "id": "af436d3d4e5d33de",
@@ -5753,9 +5736,7 @@
             "9f7b833ed93f0cc5"
         ],
         "x": 1368,
-        "y": 3263,
-        "w": 1668,
-        "h": 1348
+        "y": 3263
     },
     {
         "id": "b1830307.ee865",
@@ -5985,7 +5966,9 @@
             "26836fe8d310f685"
         ],
         "x": 3428,
-        "y": 413
+        "y": 413,
+        "w": 1054,
+        "h": 758
     },
     {
         "id": "7bc9759a9a7ea0be",
@@ -6040,7 +6023,9 @@
             "09240a88f66b7c6f"
         ],
         "x": 3434,
-        "y": 1179
+        "y": 1179,
+        "w": 992,
+        "h": 522
     },
     {
         "id": "dad84feb.d4773",
@@ -6234,9 +6219,7 @@
             "a6ae08b25206a8fb"
         ],
         "x": 154,
-        "y": 799,
-        "w": 902,
-        "h": 149.5
+        "y": 799
     },
     {
         "id": "a80677cf.4274c8",
@@ -7073,9 +7056,7 @@
             "5da923b060b7d724"
         ],
         "x": 104,
-        "y": 699,
-        "w": 1242,
-        "h": 862
+        "y": 699
     },
     {
         "id": "b670eeac81e3a4e1",
@@ -7105,9 +7086,7 @@
             "6b6e6135b877d85a"
         ],
         "x": 124,
-        "y": 2959,
-        "w": 862,
-        "h": 182
+        "y": 2959
     },
     {
         "id": "404043e2f2ac38f5",
@@ -7163,9 +7142,7 @@
             "da3df13ea266ba47"
         ],
         "x": 1854,
-        "y": 689,
-        "w": 1292,
-        "h": 718
+        "y": 689
     },
     {
         "id": "acf6618644660324",
@@ -7232,9 +7209,7 @@
             "8daf2335c61c98d8"
         ],
         "x": 1874,
-        "y": 1519,
-        "w": 1292,
-        "h": 654.5
+        "y": 1519
     },
     {
         "id": "0d3271d48cdd3dc2",
@@ -7445,9 +7420,7 @@
             "f26884a752f635f5"
         ],
         "x": 114,
-        "y": 1579,
-        "w": 1662,
-        "h": 1322
+        "y": 1579
     },
     {
         "id": "7d3d6fba6fb45cf5",
@@ -7514,9 +7487,7 @@
             "43e435b1bf98945c"
         ],
         "x": 94,
-        "y": 3279,
-        "w": 1232,
-        "h": 842
+        "y": 3279
     },
     {
         "id": "01d2b2ec2f34b6be",
@@ -7555,9 +7526,7 @@
             "d4e43509215bf215"
         ],
         "x": 1394,
-        "y": 3289,
-        "w": 1232,
-        "h": 322
+        "y": 3289
     },
     {
         "id": "b4a46197db30977b",
@@ -7597,9 +7566,7 @@
             "592f8a1403a12574"
         ],
         "x": 1394,
-        "y": 3609,
-        "w": 722,
-        "h": 442
+        "y": 3609
     },
     {
         "id": "36fa9c99094e8f47",
@@ -7623,7 +7590,9 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 439
+        "y": 439,
+        "w": 402,
+        "h": 362
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -7651,7 +7620,9 @@
             "1f3630da2492d4f9"
         ],
         "x": 3454,
-        "y": 809
+        "y": 809,
+        "w": 1002,
+        "h": 212
     },
     {
         "id": "b6e70888e2a92a81",
@@ -7719,9 +7690,7 @@
             "43a7fe4169e0b657"
         ],
         "x": 2394,
-        "y": 1179,
-        "w": 572,
-        "h": 202
+        "y": 1179
     },
     {
         "id": "d25d405a.19cff",
@@ -25284,7 +25253,6 @@
         "officon": "",
         "offcolor": "",
         "animate": true,
-        "className": "",
         "x": 540,
         "y": 490,
         "wires": [
@@ -102798,34 +102766,6 @@
         ]
     },
     {
-        "id": "f4c9c3723cd71f51",
-        "type": "ui_gauge",
-        "z": "29bf75edf21541c4",
-        "g": "71f3a9d8fc88e0b6",
-        "name": "",
-        "group": "5ad0dad73b82700f",
-        "order": 0,
-        "width": "2",
-        "height": "2",
-        "gtype": "gage",
-        "title": "LLenado",
-        "label": "%",
-        "format": "{{value}}",
-        "min": 0,
-        "max": "100",
-        "colors": [
-            "#ff0000",
-            "#e6e600",
-            "#00ff80"
-        ],
-        "seg1": "",
-        "seg2": "",
-        "className": "",
-        "x": 220,
-        "y": 820,
-        "wires": []
-    },
-    {
         "id": "ced12ce9e0972ff3",
         "type": "change",
         "z": "29bf75edf21541c4",
@@ -103166,7 +103106,6 @@
         "officon": "",
         "offcolor": "",
         "animate": false,
-        "className": "",
         "x": 470,
         "y": 660,
         "wires": [
@@ -103181,7 +103120,7 @@
         "z": "29bf75edf21541c4",
         "g": "abfc5c293f394682",
         "name": "logic",
-        "func": "var habilitado = global.get(\"Control_functions.ControlDownhole.habilitado\")||false;\nvar time = global.get(\"Control_functions.ControlDownhole.time\")||0;\nvar LL = global.get(\"Control_functions.ControlDownhole.LL\")||0;\nvar L = global.get(\"Control_functions.ControlDownhole.L\")||0;\nvar Fillage = global.get(\"Control_functions.ControlDownhole.Fillage\")||0;\nvar preFillage = context.get(\"preFillage\",\"memoryOnly\")||0;\nvar estado,contador,comando,color;//Variables Visualizadoras\nif(habilitado == true){\n    estado = \"habilitado\";color = \"green\";\n    // validacion de los limites\n\n}else{\n    estado = \"deshabilitado\";color = \"red\";\n}\n\nnode.status({fill:color,shape:\"dot\",text:estado});\ncontext.set(\"habilitado\", habilitado,\"memoryOnly\");\n\nreturn [{payload:comando},{payload:estado}, { payload:contador}];",
+        "func": "var habilitado = global.get(\"Control_functions.ControlDownhole.habilitado\")||false;\nvar time = global.get(\"Control_functions.ControlDownhole.time\")||0;\nvar state = global.get(\"Control_functions.ControlDownhole.state\") || \"Normal\";\nvar estado,contador,comando,color;//Variables Visualizadoras\nif(habilitado == true){\n    estado = \"habilitado\";color = \"green\";\n    // validacion de los limites\n\n}else{\n    estado = \"deshabilitado\";color = \"red\";\n}\n\nnode.status({fill:color,shape:\"dot\",text:estado});\ncontext.set(\"habilitado\", habilitado,\"memoryOnly\");\ncontext.set(\"time\", time,\"memoryOnly\");\ncontext.set(\"state\", state,\"memoryOnly\");\n\nreturn [{payload:comando},{payload:estado},{ payload:contador}];",
         "outputs": 3,
         "noerr": 0,
         "initialize": "",
@@ -103240,8 +103179,6 @@
         "mode": "number",
         "delay": 300,
         "topic": "topic",
-        "sendOnBlur": true,
-        "className": "",
         "topicType": "msg",
         "x": 630,
         "y": 840,
@@ -103267,8 +103204,6 @@
         "mode": "number",
         "delay": 300,
         "topic": "topic",
-        "sendOnBlur": true,
-        "className": "",
         "topicType": "msg",
         "x": 640,
         "y": 880,
@@ -103294,8 +103229,6 @@
         "mode": "number",
         "delay": 300,
         "topic": "topic",
-        "sendOnBlur": true,
-        "className": "",
         "topicType": "msg",
         "x": 640,
         "y": 920,
@@ -103424,7 +103357,6 @@
         "tooltip": "",
         "color": "",
         "bgcolor": "",
-        "className": "",
         "icon": "",
         "payload": "",
         "payloadType": "str",
@@ -103599,7 +103531,7 @@
         "z": "29bf75edf21541c4",
         "g": "07f02b70dd167ae5",
         "name": "ActualizarData",
-        "func": "// adquision del tiempo \nvar segundos = flow.get(\"segundos\",\"memoryOnly\")||0;\nvar minutos = flow.get(\"minutos\",\"memoryOnly\")||0;\nvar horas = flow.get(\"horas\",\"memoryOnly\")||0;\nvar time = horas*3600+(minutos*60)+segundos;\nglobal.set(\"Control_functions.ControlDownhole.time\",time);\n// adquisión de los niveles de alarma\nvar L = flow.get(\"L\",\"memoryOnly\")||0;\nvar LL = flow.get(\"LL\",\"memoryOnly\")||0; \nvar intentosHMI = flow.get(\"intentosHMI\",\"memoryOnly\")||0;\nglobal.set(\"Control_functions.ControlDownhole.L\", L);\nglobal.set(\"Control_functions.ControlDownhole.LL\", LL);\nglobal.set(\"Control_functions.ControlDownhole.intentosHMI\", LL);\nif(segundos == 0 && minutos == 0 && segundos == 0 && L == 0 && LL == 0){\n    msg.payload = \"Los valores seteados estan en Cero\";\n    msg.topic = \"Alerta\";\n}else{\n    msg.payload = \"Valores Guardados\";\n    msg.topic = \"Guardando\";\n}\nreturn msg;",
+        "func": "// adquision del tiempo \nvar segundos = flow.get(\"segundos\",\"memoryOnly\")||0;\nvar minutos = flow.get(\"minutos\",\"memoryOnly\")||0;\nvar horas = flow.get(\"horas\",\"memoryOnly\")||0;\nvar time = horas*3600+(minutos*60)+segundos;\nglobal.set(\"Control_functions.ControlDownhole.time\",time);\n// adquisión de los niveles de alarma\nvar L = flow.get(\"L\",\"memoryOnly\")||0;\nvar LL = flow.get(\"LL\",\"memoryOnly\")||0; \nvar intentosHMI = flow.get(\"intentosHMI\",\"memoryOnly\")||0;\nglobal.set(\"Control_functions.ControlDownhole.L\", L);\nglobal.set(\"Control_functions.ControlDownhole.LL\", LL);\nglobal.set(\"Control_functions.ControlDownhole.intentosHMI\", intentosHMI);\nif(segundos == 0 && minutos == 0 && segundos == 0 && L == 0 && LL == 0){\n    msg.payload = \"Los valores seteados estan en Cero\";\n    msg.topic = \"Alerta\";\n}else{\n    msg.payload = \"Valores Guardados\";\n    msg.topic = \"Guardando\";\n}\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -103626,7 +103558,6 @@
         "ok": "OK",
         "cancel": "",
         "raw": false,
-        "className": "",
         "topic": "",
         "name": "alert",
         "x": 1170,
@@ -103649,8 +103580,6 @@
         "mode": "number",
         "delay": 300,
         "topic": "topic",
-        "sendOnBlur": true,
-        "className": "",
         "topicType": "msg",
         "x": 630,
         "y": 980,
@@ -103702,8 +103631,6 @@
         "mode": "number",
         "delay": 300,
         "topic": "topic",
-        "sendOnBlur": true,
-        "className": "",
         "topicType": "msg",
         "x": 630,
         "y": 1020,
@@ -103882,7 +103809,6 @@
         "ok": "Aceptar",
         "cancel": "Cancelar",
         "raw": false,
-        "className": "",
         "topic": "¿Desea Simular?",
         "name": "confirm",
         "x": 680,
@@ -103998,7 +103924,6 @@
         "ok": "Aceptar",
         "cancel": "Cancelar",
         "raw": false,
-        "className": "",
         "topic": "¿Desea Desactivar Simulacion?",
         "name": "confirm",
         "x": 680,
@@ -104138,7 +104063,6 @@
         "officon": "",
         "offcolor": "",
         "animate": false,
-        "className": "",
         "x": 390,
         "y": 1420,
         "wires": [
@@ -104153,7 +104077,7 @@
         "z": "29bf75edf21541c4",
         "g": "27eadf663f119ea4",
         "name": "",
-        "label": "slider",
+        "label": "% Simulación",
         "tooltip": "",
         "group": "5ad0dad73b82700f",
         "order": 9,
@@ -104166,9 +104090,8 @@
         "min": 0,
         "max": "100",
         "step": 1,
-        "className": "",
-        "x": 830,
-        "y": 380,
+        "x": 700,
+        "y": 400,
         "wires": [
             [
                 "0e9820a7fbc95a17"
@@ -104187,10 +104110,12 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 980,
-        "y": 380,
+        "x": 870,
+        "y": 400,
         "wires": [
-            []
+            [
+                "5b99a9cea8e23964"
+            ]
         ]
     },
     {
@@ -104199,7 +104124,7 @@
         "z": "29bf75edf21541c4",
         "g": "abfc5c293f394682",
         "name": "DeterminarDisparo",
-        "func": "var habilitado = global.get(\"Control_functions.ControlDownhole.habilitado\") || false;\nvar LL = global.get(\"Control_functions.ControlDownhole.LL\") || 0;\nvar L = global.get(\"Control_functions.ControlDownhole.L\") || 0;\nvar Fillage = global.get(\"Control_functions.ControlDownhole.Fillage\") || 0;\nvar intentosHMI = global.get(\"Control_functions.ControlDownhole.intentosHMI\") || 0;\nvar intentos = context.get(\"intentos\",\"memoryOnly\")||0;\nvar estado,color;\nif(habilitado == true){\n    estado = \"habilitado\";color = \"green\";\n    if(Fillage <= LL){//aumentar intento\n        intentos = intentos + 1;\n        global.set(\"Control_functions.ControlDownhole.intentos\", intentos);\n        if (intentos >= intentosHMI){//genere el disparo\n            msg.payload = \"Disparo Poc DownholeControl\";\n            msg.topic = \"Poc Control\";\n            intentos = 0; // setee el contador\n        }\n    }else if(Fillage <= L){//Alarma por bajo \n        msg.payload = \"Alarma Poc DownholeControl\";\n        msg.topic = \"Poc Control\";\n    }\n    node.status({fill:color,shape:\"ring\",text:estado});\n    context.set(\"intentos\", intentos,\"memoryOnly\");\n    context.set(\"intentosHMI\", intentosHMI,\"memoryOnly\");\n    context.set(\"mensaje\", msg.payload,\"memoryOnly\");\n    return msg;\n}else{\n    estado = \"Deshabilitado\";color = \"red\";\n}\n\n\n",
+        "func": "var habilitado = global.get(\"Control_functions.ControlDownhole.habilitado\") || false;\nvar LL = global.get(\"Control_functions.ControlDownhole.LL\") || 0;\nvar L = global.get(\"Control_functions.ControlDownhole.L\") || 0;\nvar Fillage = global.get(\"Control_functions.ControlDownhole.Fillage\") || 0;\nvar state = global.get(\"Control_functions.ControlDownhole.state\") || \"Normal\";\nvar intentosHMI = global.get(\"Control_functions.ControlDownhole.intentosHMI\") || 0;\nvar intentos = context.get(\"intentos\",\"memoryOnly\")||0;\nvar color;\nif(habilitado == true){\n    if (Fillage <= LL && state != \"Disparo\"){//aumentar intento\n        intentos = intentos + 1;\n        global.set(\"Control_functions.ControlDownhole.intentos\", intentos);\n        if (intentos >= intentosHMI){//genere el disparo\n            state = \"Disparo\";color = \"red\";\n            msg.payload = \"Disparo Poc DownholeControl\";\n            msg.topic = \"Poc Control\";\n            intentos = 0; // setee el contador\n        }\n    }else if(Fillage <= L && Fillage > LL){//Alarma por bajo \n        state = \"Alarma\";color = \"yellow\";\n        msg.payload = \"Alarma Poc DownholeControl\";\n        msg.topic = \"Poc Control\";\n    } else if (state == \"Disparo\"){\n        state = \"Disparo\";color = \"red\";\n    }\n    node.status({fill:color,shape:\"ring\",text:state});\n    context.set(\"intentos\", intentos,\"memoryOnly\");\n    context.set(\"intentosHMI\", intentosHMI,\"memoryOnly\");\n    context.set(\"mensaje\", msg.payload,\"memoryOnly\");\n    context.set(\"L\", L,\"memoryOnly\");\n    context.set(\"LL\", LL,\"memoryOnly\");\n    context.set(\"state\", state,\"memoryOnly\");\n    context.set(\"Fillage\", Fillage,\"memoryOnly\");\n    // variables globales\n    global.set(\"Control_functions.ControlDownhole.state\",state);\n    return msg;\n}else{\n    //si esta deshablitado\n    node.status({fill:\"red\",shape:\"ring\",text:habilitado});\n}\n\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -104226,7 +104151,7 @@
                 "vt": "str"
             }
         ],
-        "repeat": "4",
+        "repeat": "1",
         "crontab": "",
         "once": false,
         "onceDelay": 0.1,
@@ -104256,8 +104181,6 @@
         "mode": "number",
         "delay": 300,
         "topic": "topic",
-        "sendOnBlur": true,
-        "className": "",
         "topicType": "msg",
         "x": 670,
         "y": 1060,
@@ -104320,5 +104243,32 @@
                 "c4690bdaf9d079a9"
             ]
         ]
+    },
+    {
+        "id": "5b99a9cea8e23964",
+        "type": "ui_gauge",
+        "z": "29bf75edf21541c4",
+        "g": "27eadf663f119ea4",
+        "name": "",
+        "group": "5ad0dad73b82700f",
+        "order": 0,
+        "width": "2",
+        "height": "2",
+        "gtype": "gage",
+        "title": "LLenado",
+        "label": "%",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#ff0000",
+            "#e6e600",
+            "#00ff80"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "x": 1040,
+        "y": 400,
+        "wires": []
     }
 ]
