@@ -4340,12 +4340,21 @@
             "2c118930b46d3082",
             "c4690bdaf9d079a9",
             "053889d47fbf2da6",
-            "16c476702b10173c"
+            "16c476702b10173c",
+            "7d2f07543d83329e",
+            "2533749331f9bc2f",
+            "3bf27a8f2e2e30a2",
+            "19ac13ad1ca1de44",
+            "accb539514128b36",
+            "43d15a613a33c867",
+            "17c6f6e24335ee15",
+            "b875bd4532122ff6",
+            "13f3a541f69a175b"
         ],
         "x": 114,
-        "y": 639,
-        "w": 592,
-        "h": 322
+        "y": 619,
+        "w": 792,
+        "h": 462
     },
     {
         "id": "07f02b70dd167ae5",
@@ -4365,8 +4374,8 @@
             "56d051b1b04eb990",
             "c0e57e8a82e6d05a"
         ],
-        "x": 114,
-        "y": 979,
+        "x": 1154,
+        "y": 759,
         "w": 912,
         "h": 122
     },
@@ -4393,8 +4402,8 @@
             "b8bf43fb333c88c5",
             "17f0cfed3a423e5f"
         ],
-        "x": 114,
-        "y": 1139,
+        "x": 1154,
+        "y": 519,
         "w": 1042,
         "h": 222
     },
@@ -103280,7 +103289,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 410,
-        "y": 700,
+        "y": 680,
         "wires": [
             [
                 "e73ea06d928d93fc"
@@ -103305,7 +103314,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 420,
-        "y": 740,
+        "y": 720,
         "wires": [
             [
                 "27b6e126d7be66ee"
@@ -103330,7 +103339,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 420,
-        "y": 780,
+        "y": 760,
         "wires": [
             [
                 "b653c185a1701b36"
@@ -103358,7 +103367,7 @@
         "to": "",
         "reg": false,
         "x": 590,
-        "y": 700,
+        "y": 680,
         "wires": [
             []
         ]
@@ -103384,7 +103393,7 @@
         "to": "",
         "reg": false,
         "x": 600,
-        "y": 740,
+        "y": 720,
         "wires": [
             []
         ]
@@ -103410,7 +103419,7 @@
         "to": "",
         "reg": false,
         "x": 600,
-        "y": 780,
+        "y": 760,
         "wires": [
             []
         ]
@@ -103421,14 +103430,14 @@
         "z": "29bf75edf21541c4",
         "g": "0e0b9759209dfb2f",
         "name": "",
-        "func": "var seconds = global.get(\"Control_functions.ControlDownhole.time\")||0;\n\nvar hour = Math.floor(seconds / 3600);\nhour = parseInt((hour < 10) ? '0' + hour : hour);\nvar minute = Math.floor((seconds / 60) % 60);\nminute = parseInt((minute < 10) ? '0' + minute : minute);\nvar second = seconds % 60;\nsecond = parseInt((second < 10) ? '0' + second : second);\n\n\ncontext.set(\"seconds\", seconds,\"memoryOnly\")\ncontext.set(\"hour\", hour,\"memoryOnly\")\ncontext.set(\"minute\", minute,\"memoryOnly\")\ncontext.set(\"second\", second,\"memoryOnly\")\n\nhour = { payload: hour};\nminute = { payload: minute};\nsecond = { payload: second};\n\nreturn [hour, min, second];",
+        "func": "var seconds = global.get(\"Control_functions.ControlDownhole.time\")||0;\n\nvar hour = Math.floor(seconds / 3600);\nhour = parseInt((hour < 10) ? '0' + hour : hour);\nvar minute = Math.floor((seconds / 60) % 60);\nminute = parseInt((minute < 10) ? '0' + minute : minute);\nvar second = seconds % 60;\nsecond = parseInt((second < 10) ? '0' + second : second);\n\n\ncontext.set(\"seconds\", seconds,\"memoryOnly\")\ncontext.set(\"hour\", hour,\"memoryOnly\")\ncontext.set(\"minute\", minute,\"memoryOnly\")\ncontext.set(\"second\", second,\"memoryOnly\")\n\nhour = { payload: hour};\nminute = { payload: minute};\nsecond = { payload: second};\n\nreturn [hour, minute, second];",
         "outputs": 3,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
         "x": 260,
-        "y": 740,
+        "y": 720,
         "wires": [
             [
                 "60e05cf6d23d5a62"
@@ -103461,8 +103470,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 200,
-        "y": 1040,
+        "x": 1240,
+        "y": 820,
         "wires": [
             [
                 "5a120549fd249ab0"
@@ -103481,7 +103490,7 @@
             "c0e57e8a82e6d05a"
         ],
         "x": 155,
-        "y": 740,
+        "y": 720,
         "wires": [
             [
                 "e7512774416a9544",
@@ -103514,7 +103523,7 @@
         "payload": "",
         "payloadType": "date",
         "x": 220,
-        "y": 680,
+        "y": 660,
         "wires": [
             [
                 "e7512774416a9544"
@@ -103566,8 +103575,8 @@
         "raw": false,
         "topic": "",
         "name": "SPM",
-        "x": 470,
-        "y": 1040,
+        "x": 1510,
+        "y": 820,
         "wires": [
             [
                 "6b38f10a1ac11889"
@@ -103597,8 +103606,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 590,
-        "y": 1040,
+        "x": 1630,
+        "y": 820,
         "wires": [
             [
                 "4785a528a2131ee5"
@@ -103620,8 +103629,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 340,
-        "y": 1040,
+        "x": 1380,
+        "y": 820,
         "wires": [
             [
                 "665c4cd99575e4bf"
@@ -103640,8 +103649,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 760,
-        "y": 1020,
+        "x": 1800,
+        "y": 800,
         "wires": [
             [
                 "4d5f8287ab4ef699",
@@ -103664,8 +103673,8 @@
         "raw": false,
         "topic": "",
         "name": "alert",
-        "x": 950,
-        "y": 1020,
+        "x": 1990,
+        "y": 800,
         "wires": []
     },
     {
@@ -103686,10 +103695,11 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 410,
-        "y": 840,
+        "y": 820,
         "wires": [
             [
-                "adf840b123b41585"
+                "adf840b123b41585",
+                "7d2f07543d83329e"
             ]
         ]
     },
@@ -103714,7 +103724,7 @@
         "to": "",
         "reg": false,
         "x": 590,
-        "y": 840,
+        "y": 820,
         "wires": [
             []
         ]
@@ -103736,11 +103746,12 @@
         "delay": 300,
         "topic": "topic",
         "topicType": "msg",
-        "x": 410,
-        "y": 880,
+        "x": 390,
+        "y": 900,
         "wires": [
             [
-                "9696f09381a60de7"
+                "9696f09381a60de7",
+                "19ac13ad1ca1de44"
             ]
         ]
     },
@@ -103764,8 +103775,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 590,
-        "y": 880,
+        "x": 530,
+        "y": 900,
         "wires": [
             []
         ]
@@ -103790,8 +103801,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 270,
-        "y": 840,
+        "x": 250,
+        "y": 820,
         "wires": [
             [
                 "72d9d930aa80e772"
@@ -103818,8 +103829,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 270,
-        "y": 880,
+        "x": 250,
+        "y": 900,
         "wires": [
             [
                 "15c1e0773b168946"
@@ -103846,8 +103857,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 990,
-        "y": 1180,
+        "x": 2030,
+        "y": 560,
         "wires": [
             [
                 "b8bf43fb333c88c5"
@@ -103864,8 +103875,8 @@
             "b8bf43fb333c88c5",
             "ad87cee4.7dbb5"
         ],
-        "x": 155,
-        "y": 1260,
+        "x": 1195,
+        "y": 640,
         "wires": [
             [
                 "69a889a8cd8d4fc7"
@@ -103892,8 +103903,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 260,
-        "y": 1260,
+        "x": 1300,
+        "y": 640,
         "wires": [
             [
                 "17f0cfed3a423e5f"
@@ -103915,8 +103926,8 @@
         "raw": false,
         "topic": "¿Desea Simular?",
         "name": "confirm",
-        "x": 700,
-        "y": 1220,
+        "x": 1740,
+        "y": 600,
         "wires": [
             [
                 "a142cd930e28191e"
@@ -103946,8 +103957,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 850,
-        "y": 1220,
+        "x": 1890,
+        "y": 600,
         "wires": [
             [
                 "cf0d339c5e409c52"
@@ -103977,8 +103988,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 990,
-        "y": 1240,
+        "x": 2030,
+        "y": 620,
         "wires": [
             [
                 "b8bf43fb333c88c5"
@@ -104004,8 +104015,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 570,
-        "y": 1260,
+        "x": 1610,
+        "y": 640,
         "wires": [
             [
                 "9241969966300523"
@@ -104030,8 +104041,8 @@
         "raw": false,
         "topic": "¿Desea Desactivar Simulacion?",
         "name": "confirm",
-        "x": 700,
-        "y": 1280,
+        "x": 1740,
+        "y": 660,
         "wires": [
             [
                 "57d5f08136554ce9"
@@ -104061,8 +104072,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 830,
-        "y": 1280,
+        "x": 1870,
+        "y": 660,
         "wires": [
             [
                 "e006cde8fe53d84f"
@@ -104092,8 +104103,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 990,
-        "y": 1280,
+        "x": 2030,
+        "y": 660,
         "wires": [
             [
                 "b8bf43fb333c88c5"
@@ -104120,8 +104131,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 980,
-        "y": 1320,
+        "x": 2020,
+        "y": 700,
         "wires": [
             [
                 "b8bf43fb333c88c5"
@@ -104137,8 +104148,8 @@
         "links": [
             "806bf1b9eefa1219"
         ],
-        "x": 1115,
-        "y": 1240,
+        "x": 2155,
+        "y": 620,
         "wires": []
     },
     {
@@ -104167,8 +104178,8 @@
         "officon": "",
         "offcolor": "",
         "animate": false,
-        "x": 410,
-        "y": 1260,
+        "x": 1450,
+        "y": 640,
         "wires": [
             [
                 "0c8aedf11c2f50af"
@@ -104291,11 +104302,12 @@
         "delay": 300,
         "topic": "topic",
         "topicType": "msg",
-        "x": 450,
-        "y": 920,
+        "x": 410,
+        "y": 1000,
         "wires": [
             [
-                "053889d47fbf2da6"
+                "053889d47fbf2da6",
+                "b875bd4532122ff6"
             ]
         ]
     },
@@ -104320,7 +104332,7 @@
         "to": "",
         "reg": false,
         "x": 610,
-        "y": 920,
+        "y": 1000,
         "wires": [
             []
         ]
@@ -104345,8 +104357,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 270,
-        "y": 920,
+        "x": 250,
+        "y": 1000,
         "wires": [
             [
                 "c4690bdaf9d079a9"
@@ -104866,8 +104878,8 @@
         "links": [
             "2cb88eaf70893679"
         ],
-        "x": 675,
-        "y": 1060,
+        "x": 1715,
+        "y": 840,
         "wires": []
     },
     {
@@ -104879,8 +104891,233 @@
         "links": [
             "2cb88eaf70893679"
         ],
-        "x": 915,
-        "y": 1060,
+        "x": 1955,
+        "y": 840,
         "wires": []
+    },
+    {
+        "id": "7d2f07543d83329e",
+        "type": "function",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "limites",
+        "func": "var entrada = msg.payload;\nif(entrada < 0 || entrada > 100){\n    // no se encuentra en el rango\n    msg.payload = 0\n    return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 510,
+        "y": 860,
+        "wires": [
+            [
+                "72d9d930aa80e772",
+                "3bf27a8f2e2e30a2"
+            ]
+        ]
+    },
+    {
+        "id": "2533749331f9bc2f",
+        "type": "ui_toast",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "topic": "",
+        "name": "",
+        "x": 800,
+        "y": 860,
+        "wires": []
+    },
+    {
+        "id": "3bf27a8f2e2e30a2",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "msg",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Límite por Fuera de Rango",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Limite",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 650,
+        "y": 860,
+        "wires": [
+            [
+                "2533749331f9bc2f"
+            ]
+        ]
+    },
+    {
+        "id": "19ac13ad1ca1de44",
+        "type": "function",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "limites",
+        "func": "var entrada = msg.payload;\nif(entrada < 0 || entrada > 100){\n    // no se encuentra en el rango\n    msg.payload = 0\n    return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 510,
+        "y": 940,
+        "wires": [
+            [
+                "accb539514128b36",
+                "15c1e0773b168946"
+            ]
+        ]
+    },
+    {
+        "id": "accb539514128b36",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "msg",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Límite por Fuera de Rango",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Limite",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 650,
+        "y": 940,
+        "wires": [
+            [
+                "43d15a613a33c867"
+            ]
+        ]
+    },
+    {
+        "id": "43d15a613a33c867",
+        "type": "ui_toast",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "topic": "",
+        "name": "",
+        "x": 800,
+        "y": 940,
+        "wires": []
+    },
+    {
+        "id": "17c6f6e24335ee15",
+        "type": "ui_toast",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "topic": "",
+        "name": "",
+        "x": 800,
+        "y": 1040,
+        "wires": []
+    },
+    {
+        "id": "b875bd4532122ff6",
+        "type": "function",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "limites",
+        "func": "var entrada = msg.payload;\nif(entrada <= 0 ){\n    // no se encuentra en el rango\n    msg.payload = 1\n    return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 510,
+        "y": 1040,
+        "wires": [
+            [
+                "13f3a541f69a175b",
+                "c4690bdaf9d079a9"
+            ]
+        ]
+    },
+    {
+        "id": "13f3a541f69a175b",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "msg",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "No se permiten Negativos",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Limite",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 650,
+        "y": 1040,
+        "wires": [
+            [
+                "17c6f6e24335ee15"
+            ]
+        ]
     }
 ]
