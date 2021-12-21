@@ -873,7 +873,7 @@
         "type": "subflow",
         "name": "ConversionSPM",
         "info": "",
-        "category": "",
+        "category": "conversion",
         "in": [
             {
                 "x": 40,
@@ -898,7 +898,10 @@
             }
         ],
         "env": [],
-        "meta": {},
+        "meta": {
+            "module": "ConversionSPM",
+            "type": "conversion"
+        },
         "color": "#DDAA99"
     },
     {
@@ -968,7 +971,9 @@
             "bfa48676.a364f8"
         ],
         "x": 54,
-        "y": 19
+        "y": 19,
+        "w": 432,
+        "h": 149.5
     },
     {
         "id": "d929d138.3b512",
@@ -986,7 +991,9 @@
             "ebd2954e5785409e"
         ],
         "x": 994,
-        "y": 19
+        "y": 19,
+        "w": 542,
+        "h": 122
     },
     {
         "id": "fcb3da61.429db8",
@@ -1210,7 +1217,9 @@
             "b6cf54debd6eb4db"
         ],
         "x": 64,
-        "y": 479
+        "y": 479,
+        "w": 662,
+        "h": 202
     },
     {
         "id": "9132da2c.b8c6b8",
@@ -1234,7 +1243,9 @@
             "fd328934.0ddd18"
         ],
         "x": 74,
-        "y": 699
+        "y": 699,
+        "w": 602,
+        "h": 202
     },
     {
         "id": "9b538856.60fb38",
@@ -1412,7 +1423,9 @@
             "312d9def.84df32"
         ],
         "x": 74,
-        "y": 919
+        "y": 919,
+        "w": 702,
+        "h": 242
     },
     {
         "id": "3ae9fbe60d6132ea",
@@ -1943,7 +1956,9 @@
             "c22e3c27600ab315"
         ],
         "x": 994,
-        "y": 159
+        "y": 159,
+        "w": 612,
+        "h": 242
     },
     {
         "id": "d84615.919209e8",
@@ -2066,10 +2081,13 @@
             "74b350f0c606df27",
             "c965deeb4ea6dcaa",
             "4c8e37620b8aedf8",
-            "181ea2faf2082cc7"
+            "181ea2faf2082cc7",
+            "fc0f71fc7fab8d0e"
         ],
         "x": 74,
-        "y": 1189
+        "y": 1189,
+        "w": 792,
+        "h": 252
     },
     {
         "id": "06c0dbf1bffe1e21",
@@ -2101,7 +2119,6 @@
             "d69d4857.ada828",
             "7def9f62.495c9",
             "7c7e0f85.16d55",
-            "b8ccca4f.5b80d8",
             "eb737131.03a4d",
             "eb59ebb6.a7e4b8",
             "c1cf35bd.94c428",
@@ -2155,8 +2172,9 @@
             "4bc8056a8d8aa493",
             "a60ba637963ad5a7",
             "8d434edf9bd913e2",
-            "c4ca92f3df7aa2b1",
-            "8e77c9d647a0565f"
+            "8e77c9d647a0565f",
+            "927d0ac2c84471a7",
+            "7035c5bac0894530"
         ],
         "x": 44,
         "y": -21,
@@ -3016,7 +3034,9 @@
             "0d38acc234ba861f"
         ],
         "x": 994,
-        "y": 419
+        "y": 419,
+        "w": 642,
+        "h": 162
     },
     {
         "id": "86af7867dc10f4a8",
@@ -3084,7 +3104,9 @@
             "a5f101f20d6fd56b"
         ],
         "x": 994,
-        "y": 599
+        "y": 599,
+        "w": 562,
+        "h": 142
     },
     {
         "id": "5dc71a84bf12ae23",
@@ -3166,7 +3188,9 @@
             "d93cba9654c81eec"
         ],
         "x": 2534,
-        "y": 19
+        "y": 19,
+        "w": 252,
+        "h": 482
     },
     {
         "id": "08268a4bd4859ab8",
@@ -3191,7 +3215,9 @@
             "0988d89e2a5ce6e0"
         ],
         "x": 2814,
-        "y": 19
+        "y": 19,
+        "w": 259,
+        "h": 482
     },
     {
         "id": "5c9801fdee1b9e98",
@@ -3220,7 +3246,9 @@
             "ae2375753c90e02b"
         ],
         "x": 974,
-        "y": 979
+        "y": 979,
+        "w": 312,
+        "h": 522
     },
     {
         "id": "c920676a5fbb9bc8",
@@ -3301,7 +3329,6 @@
         },
         "nodes": [
             "dcf5c1f29197f61c",
-            "f12b81fd13fcdb7c",
             "590065f4322532b6",
             "f415b27484203371",
             "b99b50110c130a3d",
@@ -3314,12 +3341,13 @@
             "2f233a4c9cf3a4b2",
             "ac76e7d8c12f4644",
             "337b45b67a7e1518",
-            "16aadb577f484ba8"
+            "16aadb577f484ba8",
+            "f9aa5d06fd27dc2c",
+            "444951382a661254",
+            "3fe6ba310d6fe1c0"
         ],
         "x": 154,
-        "y": 899,
-        "w": 912,
-        "h": 302
+        "y": 779
     },
     {
         "id": "99fd9c5cbd90ceb5",
@@ -3336,9 +3364,7 @@
             "5e3e278f18c43297"
         ],
         "x": 154,
-        "y": 1219,
-        "w": 492,
-        "h": 122
+        "y": 1159
     },
     {
         "id": "aecdec289959a88b",
@@ -3364,32 +3390,11 @@
             "8882cfc722ea1459",
             "3382bad7b114f1e6",
             "64b02a4c080ef7e5",
-            "601364caf3d1d399"
+            "601364caf3d1d399",
+            "c029b9bec80247e8"
         ],
         "x": 154,
-        "y": 459,
-        "w": 1092,
-        "h": 282
-    },
-    {
-        "id": "dfdd865d8cf81492",
-        "type": "group",
-        "z": "8c6f930882747645",
-        "name": "Adquision de Referencia",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "39be4bfc10709f81",
-            "bdbdada8453f27b6",
-            "63d11ec6f35f6e89",
-            "21ba0901b1fc3ee3",
-            "cea17bf2805a1d9b"
-        ],
-        "x": 154,
-        "y": 759,
-        "w": 772,
-        "h": 122
+        "y": 459
     },
     {
         "id": "6c6732761a2613b5",
@@ -3658,7 +3663,9 @@
             "12a3282355da9439"
         ],
         "x": 74,
-        "y": 1419
+        "y": 1439,
+        "w": 582,
+        "h": 182
     },
     {
         "id": "69cbede8f851191a",
@@ -3679,7 +3686,9 @@
             "a1c5e02a9d683eb4"
         ],
         "x": 74,
-        "y": 1619
+        "y": 1639,
+        "w": 582,
+        "h": 182
     },
     {
         "id": "f9b757cab0b767da",
@@ -3796,10 +3805,8 @@
             "29b8ad76db4ebd2c",
             "a0b90b4f54fbae9f"
         ],
-        "x": 654,
-        "y": 1219,
-        "w": 1142,
-        "h": 222
+        "x": 674,
+        "y": 1159
     },
     {
         "id": "9ff47da5fe193161",
@@ -3832,7 +3839,9 @@
             "e0da6f5132ed3813"
         ],
         "x": 64,
-        "y": 189
+        "y": 189,
+        "w": 852,
+        "h": 282
     },
     {
         "id": "daacc2ec73149b57",
@@ -3864,32 +3873,11 @@
         "id": "b3c73c66a9a23564",
         "type": "group",
         "z": "8c6f930882747645",
+        "name": "Actualización de Datos",
         "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
+            "label": true
         },
         "nodes": [
-            "f592e3bf82a5dd90",
-            "b073c26fe4f7f4ff",
-            "d5a38b1725c19aab",
-            "657637f78708a5e9",
-            "d04a1b94c526416d",
-            "60110bc4fb9bb8c0",
-            "9ad743edda2b3e90",
-            "04f353f29f589ec8",
-            "58a83fb0eaa5e39c",
-            "12cf64424e966ad5",
-            "770489d7d8639fc6",
-            "7bf0b9b2e2fbe996",
-            "45b0660fe455f206",
-            "6375a216d9ba350e",
-            "ec55b3d1c3b499b3",
-            "72c9ac9047c5a640",
             "7ee511cdb739a5fb",
             "59b49fb27febc74f",
             "101db7bfcd62a446",
@@ -3903,9 +3891,7 @@
             "d5eb026a704fd13b"
         ],
         "x": 154,
-        "y": 179,
-        "w": 2272,
-        "h": 262
+        "y": 179
     },
     {
         "id": "e4cabd2892b5651b",
@@ -3931,7 +3917,9 @@
             "44b52a5ca865f32a"
         ],
         "x": 114,
-        "y": 999
+        "y": 999,
+        "w": 862,
+        "h": 242
     },
     {
         "id": "65dbd90af70f1e98",
@@ -3960,7 +3948,9 @@
             "c9ef5029dfa1dca4"
         ],
         "x": 114,
-        "y": 599
+        "y": 599,
+        "w": 968,
+        "h": 375.5
     },
     {
         "id": "2ceb8ec502cd9a4d",
@@ -3987,7 +3977,9 @@
             "86a9047e4057bacf"
         ],
         "x": 1254,
-        "y": 599
+        "y": 599,
+        "w": 692,
+        "h": 322
     },
     {
         "id": "7fd14179472bdff0",
@@ -4019,7 +4011,9 @@
             "6f05a009383c5e7c"
         ],
         "x": 114,
-        "y": 279
+        "y": 279,
+        "w": 1332,
+        "h": 242
     },
     {
         "id": "b76c959d391c2570",
@@ -4104,7 +4098,9 @@
             "a2defc407081fdc7"
         ],
         "x": 1734,
-        "y": 19
+        "y": 19,
+        "w": 772,
+        "h": 922
     },
     {
         "id": "0e051c2facee0b6d",
@@ -6196,7 +6192,9 @@
             "a6ae08b25206a8fb"
         ],
         "x": 154,
-        "y": 799
+        "y": 799,
+        "w": 902,
+        "h": 149.5
     },
     {
         "id": "a80677cf.4274c8",
@@ -7758,9 +7756,9 @@
                 "sx": 75,
                 "sy": 46,
                 "gx": 6,
-                "gy": 6,
+                "gy": 4,
                 "cx": 6,
-                "cy": 6,
+                "cy": 0,
                 "px": 0,
                 "py": 0
             }
@@ -8751,7 +8749,7 @@
         "type": "ui_group",
         "name": "Tendencia",
         "tab": "df82a9eeeb3d8a7c",
-        "order": 8,
+        "order": 9,
         "disp": true,
         "width": "8",
         "collapse": false
@@ -8761,7 +8759,7 @@
         "type": "ui_group",
         "name": "Control",
         "tab": "df82a9eeeb3d8a7c",
-        "order": 9,
+        "order": 11,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -8791,7 +8789,7 @@
         "type": "ui_group",
         "name": "Sintonización",
         "tab": "df82a9eeeb3d8a7c",
-        "order": 11,
+        "order": 13,
         "disp": true,
         "width": "12",
         "collapse": false
@@ -9359,7 +9357,7 @@
         "type": "ui_group",
         "name": "Status_Bar",
         "tab": "df82a9eeeb3d8a7c",
-        "order": 16,
+        "order": 17,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -9869,7 +9867,7 @@
         "type": "ui_group",
         "name": "PumpOff",
         "tab": "df82a9eeeb3d8a7c",
-        "order": 7,
+        "order": 8,
         "disp": false,
         "width": "12",
         "collapse": false
@@ -9937,8 +9935,8 @@
         "type": "ui_group",
         "name": "VelocidadDoble",
         "tab": "df82a9eeeb3d8a7c",
-        "order": 9,
-        "disp": true,
+        "order": 12,
+        "disp": false,
         "width": "12",
         "collapse": false
     },
@@ -12932,6 +12930,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 170,
         "y": 40,
         "wires": [
@@ -15282,7 +15281,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "#:(memoryOnly)::Input.Operation.Reference",
+                "to": "#:(memoryOnly)::Input.Operation.spm",
                 "tot": "global"
             },
             {
@@ -15302,52 +15301,7 @@
         "y": 160,
         "wires": [
             [
-                "b8ccca4f.5b80d8"
-            ]
-        ]
-    },
-    {
-        "id": "b8ccca4f.5b80d8",
-        "type": "switch",
-        "z": "902fc438.e5d758",
-        "g": "6202107f.ed9aa",
-        "name": "lims?",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "gt",
-                "v": "#:(memoryOnly)::C2S.Implicit.Max_Fwd_Speed",
-                "vt": "global"
-            },
-            {
-                "t": "lt",
-                "v": "C2S.Speed_Control.MinLimit",
-                "vt": "global"
-            },
-            {
-                "t": "btwn",
-                "v": "C2S.Speed_Control.MinLimit",
-                "vt": "global",
-                "v2": "#:(memoryOnly)::C2S.Implicit.Max_Fwd_Speed",
-                "v2t": "global"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 3,
-        "x": 1050,
-        "y": 160,
-        "wires": [
-            [
-                "eb737131.03a4d"
-            ],
-            [
-                "eb737131.03a4d"
-            ],
-            [
-                "c1cf35bd.94c428",
-                "c4ca92f3df7aa2b1"
+                "927d0ac2c84471a7"
             ]
         ]
     },
@@ -15357,11 +15311,12 @@
         "z": "902fc438.e5d758",
         "g": "6202107f.ed9aa",
         "name": "evento ref fuera lims",
-        "func": "msg.payload = \"¡Referencia de \"+ msg.payload + \" Hz fuera de límites\";\nmsg.topic = \"Referencia\";\nreturn msg;",
+        "func": "msg.payload = \"¡Referencia de \"+ msg.payload + \" spm fuera de límites\";\nmsg.topic = \"Referencia\";\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 1240,
         "y": 120,
         "wires": [
@@ -15376,7 +15331,7 @@
         "z": "902fc438.e5d758",
         "g": "6202107f.ed9aa",
         "name": "Ref OK",
-        "func": "var sentidogiro = global.get(\"C2S.Drive_Status.Command_dir\",\"memoryOnly\")||0;\nvar spm = global.get(\"C2S.Implicit.spm\",\"memoryOnly\")||0;\nmsg.payload = \"Cambio de referencia a \" + Math.abs(parseFloat(spm.toFixed(2))) + \"spm, Velocidad Motor:\" + Math.abs(parseFloat((msg.payload).toFixed(2))) + \"Hz\";\nmsg.topic = \"Referencia\";\nreturn msg;",
+        "func": "var sentidogiro = global.get(\"C2S.Drive_Status.Command_dir\",\"memoryOnly\")||0;\nvar spm = global.get(\"C2S.Implicit.spm\",\"memoryOnly\")||0;\nvar refMotor = global.get(\"C2S.Implicit.Commanded_SpdRef\", \"memoryOnly\");\nmsg.payload = \"Cambio de referencia a \" + Math.abs(parseFloat(spm.toFixed(2))) + \"spm, Velocidad Motor:\" + Math.abs(parseFloat((refMotor).toFixed(2))) + \"Hz\";\nmsg.topic = \"Referencia\";\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -15549,8 +15504,8 @@
         "links": [
             "4372d5a0.d338dc"
         ],
-        "x": 985,
-        "y": 290,
+        "x": 965,
+        "y": 340,
         "wires": [
             [
                 "1606c10f.56a83f"
@@ -15575,8 +15530,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 1070,
-        "y": 290,
+        "x": 1050,
+        "y": 340,
         "wires": [
             [
                 "7d35cec3.ade78"
@@ -15596,8 +15551,8 @@
         "label": "Operación:",
         "format": " {{msg.payload}}",
         "layout": "row-spread",
-        "x": 1410,
-        "y": 290,
+        "x": 1390,
+        "y": 340,
         "wires": []
     },
     {
@@ -15611,8 +15566,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1240,
-        "y": 290,
+        "x": 1220,
+        "y": 340,
         "wires": [
             [
                 "dd55fa16.314248"
@@ -15630,8 +15585,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1010,
-        "y": 250,
+        "x": 990,
+        "y": 300,
         "wires": [
             [
                 "16923a95.e45025"
@@ -15653,8 +15608,8 @@
         "raw": false,
         "topic": "Modo de control",
         "name": "",
-        "x": 1150,
-        "y": 250,
+        "x": 1130,
+        "y": 300,
         "wires": [
             [
                 "a82882b.f096f8"
@@ -15672,8 +15627,8 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "x": 1340,
-        "y": 250,
+        "x": 1320,
+        "y": 300,
         "wires": [
             [
                 "7d35cec3.ade78",
@@ -15996,7 +15951,7 @@
         "g": "6202107f.ed9aa",
         "name": "",
         "env": [],
-        "x": 1420,
+        "x": 1400,
         "y": 200,
         "wires": [
             []
@@ -16911,8 +16866,8 @@
             "6f1f2fc244d27fc2",
             "ed742163861f3de5"
         ],
-        "x": 1495,
-        "y": 260,
+        "x": 1475,
+        "y": 310,
         "wires": []
     },
     {
@@ -17506,7 +17461,7 @@
         "links": [
             "3f9513f6724de73e",
             "2f233a4c9cf3a4b2",
-            "eae27d6a68cc5bf0"
+            "3327cfa838294b44"
         ],
         "x": 1577,
         "y": 1090,
@@ -20699,26 +20654,6 @@
         "wires": []
     },
     {
-        "id": "c4ca92f3df7aa2b1",
-        "type": "function",
-        "z": "902fc438.e5d758",
-        "g": "6202107f.ed9aa",
-        "name": "conversionSPM",
-        "func": "var Dc = global.get(\"C2S.Motor_Control.Nameplate.Dc\")||0;\nvar nPolosMotor = global.get(\"C2S.Motor_Control.Nameplate.Poles\")||0;\nvar Dm = global.get(\"C2S.Motor_Control.Nameplate.Dm\")||0;\nvar rgb = global.get(\"C2S.Motor_Control.Nameplate.RGB\")||0;//RELACION DEL GEAR\nvar Reference = global.get(\"Input.Operation.Reference\" ,\"memoryOnly\")||0;\n// context.set(\"Dc\", Dc,\"memoryOnly\")\n// context.set(\"spm\", spm,\"memoryOnly\")\n// context.set(\"nPolosMotor\", nPolosMotor,\"memoryOnly\")\n// context.set(\"rgb\", rgb,\"memoryOnly\")\n// context.set(\"Dm\", Dm,\"memoryOnly\")\n// // condicion que valida que esten creadas todas las variables\ncontext.set(\"Reference\", Reference,\"memoryOnly\")\nif (Dc != 0 && Dm != 0 && rgb != 0 && nPolosMotor != 0){\n    // calculo de la ecuación\n    msg.payload = Reference;\n    global.set(\"C2S.Last_Reference.Value\", Reference, \"memoryOnly\");\n    node.status({ fill: \"green\", shape: \"dot\", text: \"Configurado\"});\n    return msg;\n}else{\n    node.status({ fill: \"red\", shape: \"dot\", text: \"NoConfigurado\"});\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1200,
-        "y": 200,
-        "wires": [
-            [
-                "7d229a445e26240e"
-            ]
-        ]
-    },
-    {
         "id": "d3fc647f21f7d8eb",
         "type": "link out",
         "z": "902fc438.e5d758",
@@ -22595,7 +22530,7 @@
         "label": "",
         "tooltip": "",
         "group": "20076456.83052c",
-        "order": 5,
+        "order": 3,
         "width": 1,
         "height": 1,
         "passthru": true,
@@ -22627,7 +22562,7 @@
         "label": "",
         "tooltip": "",
         "group": "20076456.83052c",
-        "order": 8,
+        "order": 5,
         "width": 0,
         "height": 0,
         "passthru": true,
@@ -22659,7 +22594,7 @@
         "label": "",
         "tooltip": "",
         "group": "20076456.83052c",
-        "order": 9,
+        "order": 6,
         "width": 1,
         "height": 1,
         "passthru": true,
@@ -22691,7 +22626,7 @@
         "label": "",
         "tooltip": "",
         "group": "20076456.83052c",
-        "order": 10,
+        "order": 7,
         "width": 1,
         "height": 1,
         "passthru": true,
@@ -25604,6 +25539,7 @@
         "passthru": true,
         "decouple": "false",
         "topic": "",
+        "topicType": "str",
         "style": "",
         "onvalue": "true",
         "onvalueType": "bool",
@@ -25613,6 +25549,7 @@
         "offvalueType": "bool",
         "officon": "",
         "offcolor": "",
+        "animate": true,
         "x": 540,
         "y": 490,
         "wires": [
@@ -25987,8 +25924,8 @@
         "z": "9941a439.4b17c8",
         "g": "ee5753bdd6eedb72",
         "name": "protec",
-        "property": "name",
-        "propertyType": "msg",
+        "property": "#:(memoryOnly)::Navegación.Pantalla",
+        "propertyType": "global",
         "rules": [
             {
                 "t": "eq",
@@ -48795,7 +48732,7 @@
         "delay": 300,
         "topic": "topic",
         "topicType": "msg",
-        "x": 450,
+        "x": 490,
         "y": 3180,
         "wires": [
             [
@@ -48879,7 +48816,9 @@
         "x": 270,
         "y": 3180,
         "wires": [
-            []
+            [
+                "3a7e67ca4c0afafd"
+            ]
         ]
     },
     {
@@ -50119,7 +50058,8 @@
             "22a41d9797f66919",
             "aca963ae8827c5bc",
             "d5a38b1725c19aab",
-            "6fb7736af2631081"
+            "6fb7736af2631081",
+            "6cd860e1377cb2c3"
         ],
         "x": 1035,
         "y": 280,
@@ -50176,7 +50116,9 @@
             "6f05a009383c5e7c",
             "e4e1f55820bbf3ef",
             "2915404d918e6500",
-            "a6ae08b25206a8fb"
+            "a6ae08b25206a8fb",
+            "1a13e58e8e1995f8",
+            "264babaaa7723c2e"
         ],
         "x": 1035,
         "y": 320,
@@ -50227,7 +50169,8 @@
             "ff630c91071231bc",
             "e9429ad0db54453c",
             "e12e6e5df4e84760",
-            "f26884a752f635f5"
+            "f26884a752f635f5",
+            "3b0a2770dbde331a"
         ],
         "x": 1035,
         "y": 360,
@@ -50247,7 +50190,7 @@
         "order": 1,
         "width": 12,
         "height": 1,
-        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n\n</head>\n\n<body>\n    <!-- Navigation bar -->\n    <nav>\n        <div class=\"nav nav-pills nav-fill\" id=\"nav-tab\" role=\"tablist\">\n            <a class=\"nav-item nav-link active\" id=\"nav-ArranqueAuto-tab\" data-toggle=\"tab\"\n                href=\"#nav-ArranqueAuto\" role=\"tab\" aria-controls=\"nav-ArranqueAuto\" aria-selected=\"true\"\n                ng-click=\"send({payload:ArranqueAuto()})\">Arranque automático</a>\n            <a class=\"nav-item nav-link active\" id=\"nav-PumpOff-tab\" data-toggle=\"tab\" href=\"#nav-PumpOff\"\n                role=\"tab\" aria-controls=\"nav-PumpOff\" aria-selected=\"true\"\n                ng-click=\"send({payload:PumpOff()})\">Pump on/off</a>\n            <a class=\"nav-item nav-link\" id=\"nav-surfaceControl-tab\" data-toggle=\"tab\"\n                href=\"#nav-surfaceControl\" role=\"tab\" aria-controls=\"nav-surfaceControl\" aria-selected=\"false\"\n                ng-click=\"send({payload:surfaceControl()})\">control superficie</a>\n            <a class=\"nav-item nav-link\" id=\"nav-VelocidadDoble-tab\" data-toggle=\"tab\" href=\"#nav-VelocidadDoble\"\n                role=\"tab\" aria-controls=\"nav-VelocidadDoble\" aria-selected=\"false\"\n                ng-click=\"send({payload:VelocidadDoble()})\">Doble Velocidad</a>\n        </div>\n    </nav>\n\n    <script>\n        this.scope.ArranqueAuto = function() { return \"ArranqueAuto\"; };\n        this.scope.PumpOff = function() { return \"PumpOff\"; };\n        this.scope.surfaceControl = function() { return \"surfaceControl\"; };\n        this.scope.VelocidadDoble = function() { return \"VelocidadDoble\"; };\n    </script>\n\n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n</body>\n\n</html>",
+        "format": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n\n</head>\n\n<body>\n    <!-- Navigation bar -->\n    <nav>\n        <div class=\"nav nav-pills nav-fill\" id=\"nav-tab\" role=\"tablist\">\n            <a class=\"nav-item nav-link active\" id=\"nav-ArranqueAuto-tab\" data-toggle=\"tab\"\n                href=\"#nav-ArranqueAuto\" role=\"tab\" aria-controls=\"nav-ArranqueAuto\" aria-selected=\"true\"\n                ng-click=\"send({payload:ArranqueAuto()})\">Arranque automático</a>\n            <a class=\"nav-item nav-link active\" id=\"nav-PumpOff-tab\" data-toggle=\"tab\" href=\"#nav-PumpOff\"\n                role=\"tab\" aria-controls=\"nav-PumpOff\" aria-selected=\"false\"\n                ng-click=\"send({payload:PumpOff()})\">Pump on/off</a>\n            <a class=\"nav-item nav-link\" id=\"nav-VelocidadDoble-tab\" data-toggle=\"tab\" href=\"#nav-VelocidadDoble\"\n                role=\"tab\" aria-controls=\"nav-VelocidadDoble\" aria-selected=\"false\"\n                ng-click=\"send({payload:VelocidadDoble()})\">Doble Velocidad</a>\n            <a class=\"nav-item nav-link\" id=\"nav-surfaceControl-tab\" data-toggle=\"tab\"\n                href=\"#nav-surfaceControl\" role=\"tab\" aria-controls=\"nav-surfaceControl\" aria-selected=\"false\"\n                ng-click=\"send({payload:surfaceControl()})\">control superficie</a>\n            <a class=\"nav-item nav-link\" id=\"nav-downholeControl-tab\" data-toggle=\"tab\" href=\"#nav-downholeControl\"\n                role=\"tab\" aria-controls=\"nav-downholeControl\" aria-selected=\"false\"\n                ng-click=\"send({payload:downholeControl()})\">Control Fondo</a>\n        </div>\n    </nav>\n\n    <script>\n        this.scope.ArranqueAuto = function() { return \"ArranqueAuto\"; };\n        this.scope.PumpOff = function() { return \"PumpOff\"; };\n        this.scope.surfaceControl = function() { return \"surfaceControl\"; };\n        this.scope.VelocidadDoble = function() { return \"VelocidadDoble\"; };\n        this.scope.downholeControl = function() { return \"downholeControl\"; };\n    </script>\n\n    <!-- Optional JavaScript -->\n    <!-- jQuery first, then Popper.js, then Bootstrap JS -->\n</body>\n\n</html>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
@@ -50284,7 +50227,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Otras_Funciones_de_Control_Configuración\",\t                \"Otras_Funciones_de_Control_Tendencia\",\t                \"Otras_Funciones_de_Control_Control\",\t                \"Otras_Funciones_de_Control_Sintonización\",\t                \"Otras_Funciones_de_Control_TendenciaPID\",\t                \"Otras_Funciones_de_Control_Tendencia\",\t                \"Otras_Funciones_de_Control_Límites_de_Operación\",\t                \"Otras_Funciones_de_Control_Reglas_de_Activación\",\t                \"Otras_Funciones_de_Control_Habilitar/Deshabilitar\",\t                \"Otras_Funciones_de_Control_VelocidadDoble\",\t                \"Otras_Funciones_de_Control_PumpOff\",\t                \"Otras_Funciones_de_Control_Navbar_PID\"],\t       \"show\":[ \"Otras_Funciones_de_Control_Nav_Bar\",\t                \"Otras_Funciones_de_Control_Habilitar_AR\",\t                \"Otras_Funciones_de_Control_Habilitar_AR2\",\t                \"Otras_Funciones_de_Control_Rampas_de_Aceleración\",\t                \"Otras_Funciones_de_Control_Tiempo_de_Rearme\",\t                \"Otras_Funciones_de_Control_No._de_Intentos\"]\t   }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Otras_Funciones_de_Control_Configuración\",\t                \"Otras_Funciones_de_Control_Tendencia\",\t                \"Otras_Funciones_de_Control_Control\",\t                \"Otras_Funciones_de_Control_Sintonización\",\t                \"Otras_Funciones_de_Control_TendenciaPID\",\t                \"Otras_Funciones_de_Control_Tendencia\",\t                \"Otras_Funciones_de_Control_Límites_de_Operación\",\t                \"Otras_Funciones_de_Control_Reglas_de_Activación\",\t                \"Otras_Funciones_de_Control_Habilitar/Deshabilitar\",\t                \"Otras_Funciones_de_Control_VelocidadDoble\",\t                \"Otras_Funciones_de_Control_PumpOff\",\t                \"Otras_Funciones_de_Control_downholeControl\",\t                \"Otras_Funciones_de_Control_Navbar_PID\"],\t       \"show\":[ \"Otras_Funciones_de_Control_Nav_Bar\",\t                \"Otras_Funciones_de_Control_Habilitar_AR\",\t                \"Otras_Funciones_de_Control_Habilitar_AR2\",\t                \"Otras_Funciones_de_Control_Rampas_de_Aceleración\",\t                \"Otras_Funciones_de_Control_Tiempo_de_Rearme\",\t                \"Otras_Funciones_de_Control_No._de_Intentos\"]\t   }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -52258,11 +52201,16 @@
                 "t": "eq",
                 "v": "VelocidadDoble",
                 "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "downholeControl",
+                "vt": "str"
             }
         ],
         "checkall": "true",
         "repair": false,
-        "outputs": 4,
+        "outputs": 5,
         "x": 470,
         "y": 1280,
         "wires": [
@@ -52277,6 +52225,9 @@
             ],
             [
                 "181ea2faf2082cc7"
+            ],
+            [
+                "fc0f71fc7fab8d0e"
             ]
         ]
     },
@@ -52291,7 +52242,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[ \"Otras_Funciones_de_Control_Habilitar_AR\",\t                \"Otras_Funciones_de_Control_Habilitar_AR2\",\t                \"Otras_Funciones_de_Control_Rampas_de_Aceleración\",\t                \"Otras_Funciones_de_Control_Tiempo_de_Rearme\",\t                \"Otras_Funciones_de_Control_No._de_Intentos\",\t                \"Otras_Funciones_de_Control_Sintonización\",\t                \"Otras_Funciones_de_Control_surfaceControl\",\t                \"Otras_Funciones_de_Control_VelocidadDoble\"],\t       \"show\":[ \"Otras_Funciones_de_Control_PumpOff\",\t                \"Otras_Funciones_de_Control_Nav_Bar\"]\t            }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[ \"Otras_Funciones_de_Control_Habilitar_AR\",\t                \"Otras_Funciones_de_Control_Habilitar_AR2\",\t                \"Otras_Funciones_de_Control_Rampas_de_Aceleración\",\t                \"Otras_Funciones_de_Control_Tiempo_de_Rearme\",\t                \"Otras_Funciones_de_Control_No._de_Intentos\",\t                \"Otras_Funciones_de_Control_Sintonización\",\t                \"Otras_Funciones_de_Control_surfaceControl\",\t                \"Otras_Funciones_de_Control_VelocidadDoble\",\t                \"Otras_Funciones_de_Control_downholeControl\"],\t       \"show\":[ \"Otras_Funciones_de_Control_PumpOff\",\t                \"Otras_Funciones_de_Control_Nav_Bar\"]\t            }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -52319,7 +52270,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[\t           \"Otras_Funciones_de_Control_Habilitar_AR\",\t           \"Otras_Funciones_de_Control_Habilitar_AR2\",\t           \"Otras_Funciones_de_Control_Rampas_de_Aceleración\",\t           \"Otras_Funciones_de_Control_Tiempo_de_Rearme\",\t           \"Otras_Funciones_de_Control_No._de_Intentos\",\t           \"Otras_Funciones_de_Control_Sintonización\",\t           \"Otras_Funciones_de_Control_PumpOff\",\t           \"Otras_Funciones_de_Control_VelocidadDoble\"\t       ],\t       \"show\":[\t           \"Otras_Funciones_de_Control_surfaceControl\",\t           \"Otras_Funciones_de_Control_Nav_Bar\"\t       ]\t            }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[\t           \"Otras_Funciones_de_Control_Habilitar_AR\",\t           \"Otras_Funciones_de_Control_Habilitar_AR2\",\t           \"Otras_Funciones_de_Control_Rampas_de_Aceleración\",\t           \"Otras_Funciones_de_Control_Tiempo_de_Rearme\",\t           \"Otras_Funciones_de_Control_No._de_Intentos\",\t           \"Otras_Funciones_de_Control_Sintonización\",\t           \"Otras_Funciones_de_Control_PumpOff\",\t           \"Otras_Funciones_de_Control_VelocidadDoble\",\t           \"Otras_Funciones_de_Control_downholeControl\"\t       ],\t       \"show\":[\t           \"Otras_Funciones_de_Control_surfaceControl\",\t           \"Otras_Funciones_de_Control_Nav_Bar\"\t       ]\t            }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -52347,7 +52298,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\t   \"group\":{\t       \"hide\":[\t           \"Otras_Funciones_de_Control_Habilitar_AR\",\t           \"Otras_Funciones_de_Control_Habilitar_AR2\",\t           \"Otras_Funciones_de_Control_Rampas_de_Aceleración\",\t           \"Otras_Funciones_de_Control_Tiempo_de_Rearme\",\t           \"Otras_Funciones_de_Control_No._de_Intentos\",\t           \"Otras_Funciones_de_Control_PumpOff\",\t           \"Otras_Funciones_de_Control_surfaceControl\"\t       ],\t       \"show\":[\t           \"Otras_Funciones_de_Control_VelocidadDoble\",\t           \"Otras_Funciones_de_Control_Nav_Bar\"\t       ]\t            }\t}",
+                "to": "{\t   \"group\":{\t       \"hide\":[\t           \"Otras_Funciones_de_Control_Habilitar_AR\",\t           \"Otras_Funciones_de_Control_Habilitar_AR2\",\t           \"Otras_Funciones_de_Control_Rampas_de_Aceleración\",\t           \"Otras_Funciones_de_Control_Tiempo_de_Rearme\",\t           \"Otras_Funciones_de_Control_No._de_Intentos\",\t           \"Otras_Funciones_de_Control_PumpOff\",\t           \"Otras_Funciones_de_Control_surfaceControl\",\t           \"Otras_Funciones_de_Control_downholeControl\"\t       ],\t       \"show\":[\t           \"Otras_Funciones_de_Control_VelocidadDoble\",\t           \"Otras_Funciones_de_Control_Nav_Bar\"\t       ]\t            }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -52380,7 +52331,7 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "x": 170,
-        "y": 1520,
+        "y": 1540,
         "wires": [
             [
                 "500c506c700c1d2f"
@@ -52416,7 +52367,7 @@
         "repair": false,
         "outputs": 3,
         "x": 330,
-        "y": 1520,
+        "y": 1540,
         "wires": [
             [
                 "eb4b81b7f6d80b82"
@@ -52440,7 +52391,7 @@
             "805762db.d27b7"
         ],
         "x": 615,
-        "y": 1520,
+        "y": 1540,
         "wires": []
     },
     {
@@ -52464,7 +52415,7 @@
         "to": "",
         "reg": false,
         "x": 470,
-        "y": 1480,
+        "y": 1500,
         "wires": [
             [
                 "3cb555ec39e1b50a"
@@ -52492,7 +52443,7 @@
         "to": "",
         "reg": false,
         "x": 480,
-        "y": 1520,
+        "y": 1540,
         "wires": [
             [
                 "3cb555ec39e1b50a"
@@ -52520,7 +52471,7 @@
         "to": "",
         "reg": false,
         "x": 470,
-        "y": 1560,
+        "y": 1580,
         "wires": [
             [
                 "3cb555ec39e1b50a"
@@ -52546,7 +52497,7 @@
         "repair": false,
         "outputs": 1,
         "x": 340,
-        "y": 1460,
+        "y": 1480,
         "wires": [
             [
                 "eb4b81b7f6d80b82"
@@ -52564,7 +52515,7 @@
             "4372d5a0.d338dc"
         ],
         "x": 215,
-        "y": 1460,
+        "y": 1480,
         "wires": [
             [
                 "5b86a87201385669"
@@ -52587,7 +52538,7 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "x": 170,
-        "y": 1720,
+        "y": 1740,
         "wires": [
             [
                 "f258f142685365f9"
@@ -52623,7 +52574,7 @@
         "repair": false,
         "outputs": 3,
         "x": 330,
-        "y": 1720,
+        "y": 1740,
         "wires": [
             [
                 "fe33e19e6f3ad930"
@@ -52647,7 +52598,7 @@
             "805762db.d27b7"
         ],
         "x": 615,
-        "y": 1720,
+        "y": 1740,
         "wires": []
     },
     {
@@ -52671,7 +52622,7 @@
         "to": "",
         "reg": false,
         "x": 480,
-        "y": 1680,
+        "y": 1700,
         "wires": [
             [
                 "10d0df396dc90c03"
@@ -52699,7 +52650,7 @@
         "to": "",
         "reg": false,
         "x": 480,
-        "y": 1720,
+        "y": 1740,
         "wires": [
             [
                 "10d0df396dc90c03"
@@ -52727,7 +52678,7 @@
         "to": "",
         "reg": false,
         "x": 500,
-        "y": 1760,
+        "y": 1780,
         "wires": [
             [
                 "10d0df396dc90c03"
@@ -52753,7 +52704,7 @@
         "repair": false,
         "outputs": 1,
         "x": 330,
-        "y": 1660,
+        "y": 1680,
         "wires": [
             [
                 "fe33e19e6f3ad930"
@@ -52771,7 +52722,7 @@
             "4372d5a0.d338dc"
         ],
         "x": 215,
-        "y": 1660,
+        "y": 1680,
         "wires": [
             [
                 "24cbb0c1657e1589"
@@ -54084,7 +54035,8 @@
             "02637e406d6ed608",
             "61b7325ebb260248",
             "e12e6e5df4e84760",
-            "f26884a752f635f5"
+            "f26884a752f635f5",
+            "3b0a2770dbde331a"
         ],
         "x": 1281,
         "y": 80,
@@ -55857,7 +55809,10 @@
             "e4e1f55820bbf3ef",
             "6fb7736af2631081",
             "2915404d918e6500",
-            "a6ae08b25206a8fb"
+            "a6ae08b25206a8fb",
+            "1a13e58e8e1995f8",
+            "6cd860e1377cb2c3",
+            "264babaaa7723c2e"
         ],
         "x": 381,
         "y": 80,
@@ -58940,7 +58895,10 @@
             "5a2971a54a238a55",
             "e3610e70df32ce6e",
             "24d112a4a561706b",
-            "1fee5b8b9ef43b98"
+            "1fee5b8b9ef43b98",
+            "d0bd353a8ba51cbe",
+            "2cb88eaf70893679",
+            "806bf1b9eefa1219"
         ],
         "x": 335,
         "y": 320,
@@ -81465,7 +81423,7 @@
         "z": "0919ca8b08ef5398",
         "g": "7f4726c248df075a",
         "name": "setVarPou",
-        "func": "var NumeroMuestras = flow.get(\"NumeroMuestras\")||0;\nvar Desp_CD = flow.get(\"Desp_CD\")||0;\nvar Esfu_CD = flow.get(\"Esfu_CD\")||0;\nvar Tramo = flow.get(\"Tramo\")||0;\nvar DX = flow.get(\"DX\")||0;\nvar UM = createArray(3, 520);\nvar UV = createArray(520);\nvar Numero_de_sartas = flow.get(\"numSarta\") || 0;\nvar SPM_Feedback = flow.get(\"SPM_Feedback\")||0;\nvar nCab = flow.get(\"nCab\")||0;\nvar DCprom = flow.get(\"DCprom\")||0;\nvar DiametroTubing = flow.get(\"DiametroTubing\")||0;\nvar PresionCasing = flow.get(\"PresionCasing\")||0;\nvar T = SPM_Feedback;\nvar np = 1.0, DT_0 = 0, DT1, Rho, gc = 32.2, Cest, LongOptm;\nvar AreaTubing, AreaCabilla, CargaCabezal, DT_Gl;\nvar V = 0.1;//identificar Value\nvar nt1 = Numero_de_sartas - 1;\nvar T_Matrix = NumeroMuestras;\nvar A = Tramo[nt1][15];\nvar E = Tramo[nt1][14];\nvar M = Tramo[nt1][18] - 1.0;\nvar L = Tramo[nt1][12];\nvar LM = M + 1.0;\nvar N = (T_Matrix) + 2.0 * (M - 1.0 + np);\nvar NT = Math.round(T_Matrix);\nvar NTI = NT;\n\nif ((L != 0.0) && (T_Matrix != 149)) {\n    LongOptm = (2.0 / (149.0 - (T_Matrix))) * L;\n}\nif (((T_Matrix) + 2.0 * (LM)) > 500.0) {\n    nCab = LongOptm;\n    var Ajustar_Datos = 1.0;\n    M = Tramo[nt1][18] - 1.0;\n    M = parseInt(M);\n}\n// setear las variables\nfor (let j = 0; j <= 1; j++) {\n    for (let z = 0; z <= 499; z++) {\n        UM[j][z] = 0.0;\n        UV[z] = 0.0;\n    }\n}\n// (* ------- Llenado de las dos Primeras filas de la matriz U---------*)\nfor (let j = 0; j <= NumeroMuestras - 1; j++) {\n    UM[0][j] = -(Desp_CD[j]) / (12.0);\n    if ((E != 0.0) && (A != 0)) {\n    // segunda  ley de hooke segunda linea \n        UM[1][j] = (Esfu_CD[j] * 1000.0) * (DX / (E * A * 144.0)) + UM[0][j];\n    }\n}\n\nM = parseInt(M);//truncar valores del ciclo for\nfor (let j = 0; j <= M; j++) {\n    UM[0][NumeroMuestras + j] = UM[0][j];\n    UM[1][NumeroMuestras + j] = UM[1][j];\n}\nif (T != 0) {\n    DT1 = 60.0 / T / ((NTI) - 1.0);\n}\nNT = N;\nif (T != 0) {\n    DT_0 = 60.0 / T / ((NTI) - 1.0);\n}\nif (M != 0.0) {\n    DX = L / (M);\n}\nE = Tramo[Numero_de_sartas - 1][14];\nRho = Tramo[Numero_de_sartas - 1][13];\nif ((Rho != 0.0) && (V != 0.0) && (DT_0 != 0.0)) {\n    V = Math.sqrt(144.0 * E * gc / Rho);\n    Cest = DX / V / DT_0;;\n}\nAreaTubing = (3.1416 / 4.0) * Math.pow(DiametroTubing, 2.0);\nAreaCabilla = (3.1416 / 4.0) * Math.pow(DCprom, 2.0);\nCargaCabezal = ((AreaTubing - AreaCabilla) * PresionCasing) / 1000.0;\n\n// variables utilizadas en otras rutinas\nDT_Gl = DT1;\n// VARIABLES DE FLUJO\nflow.set(\"UM\", UM);\nflow.set(\"UV\", UV);\nflow.set(\"DX\", DX);\nflow.set(\"nCab\", nCab);\nflow.set(\"AreaTubing\", AreaTubing);\nflow.set(\"AreaCabilla\", AreaCabilla);\nflow.set(\"CargaCabezal\", CargaCabezal);\nflow.set(\"DT_Gl\", DT_Gl);\nflow.set(\"M\", M);\n\n// VARIABLES DE CONTEXTO\ncontext.set(\"A\", A, \"memoryOnly\");\ncontext.set(\"E\", E, \"memoryOnly\");\ncontext.set(\"DX\", DX, \"memoryOnly\");\ncontext.set(\"M\", M, \"memoryOnly\");\ncontext.set(\"UM\", UM, \"memoryOnly\");\ncontext.set(\"aDQUISIONUM\", UM, \"memoryOnly\");\ncontext.set(\"Desp_CD\", Desp_CD, \"memoryOnly\");\ncontext.set(\"Esfu_CD\", Esfu_CD, \"memoryOnly\");\ncontext.set(\"Tramo\", Tramo, \"memoryOnly\");\ncontext.set(\"nt1\", nt1, \"memoryOnly\");\ncontext.set(\"L\", L, \"memoryOnly\");\ncontext.set(\"T_Matrix\", T_Matrix, \"memoryOnly\");\ncontext.set(\"LongOptm\", LongOptm, \"memoryOnly\");\ncontext.set(\"nCab\", nCab, \"memoryOnly\");\ncontext.set(\"LM\", LM, \"memoryOnly\");\ncontext.set(\"np\", np, \"memoryOnly\");\ncontext.set(\"T\", T, \"memoryOnly\");\ncontext.set(\"DT_0\", DT_0, \"memoryOnly\");\ncontext.set(\"NTI\", NTI, \"memoryOnly\");\ncontext.set(\"SPM_Feedback\", SPM_Feedback, \"memoryOnly\");\ncontext.set(\"DT1\", DT1, \"memoryOnly\");\ncontext.set(\"Rho\", Rho, \"memoryOnly\");\ncontext.set(\"V\", V, \"memoryOnly\");\ncontext.set(\"gc\", gc, \"memoryOnly\");\ncontext.set(\"Cest\", Cest, \"memoryOnly\");\ncontext.set(\"nCab\", nCab, \"memoryOnly\");\ncontext.set(\"AreaTubing\", AreaTubing, \"memoryOnly\");\ncontext.set(\"AreaCabilla\", AreaCabilla, \"memoryOnly\");\ncontext.set(\"CargaCabezal\", CargaCabezal, \"memoryOnly\");\ncontext.set(\"DiametroTubing\", DiametroTubing, \"memoryOnly\");\ncontext.set(\"DCprom\", DCprom, \"memoryOnly\");\ncontext.set(\"PresionCasing\", PresionCasing, \"memoryOnly\");\ncontext.set(\"DT_Gl\", DT_Gl, \"memoryOnly\");\ncontext.set(\"UV\", UV, \"memoryOnly\");\ncontext.set(\"N\", N, \"memoryOnly\");\ncontext.set(\"NT\", NT, \"memoryOnly\");\ncontext.set(\"NumeroMuestras\", NumeroMuestras, \"memoryOnly\");\nreturn msg;\nfunction createArray(length) {\n    var arr = new Array(length || 0),\n        i = length;\n\n    if (arguments.length > 1) {\n        var args = Array.prototype.slice.call(arguments, 1);\n        while (i--) arr[length - 1 - i] = createArray.apply(this, args);\n    }\n\n    return arr;\n}",
+        "func": "var NumeroMuestras = flow.get(\"NumeroMuestras\")||0;\nvar Desp_CD = flow.get(\"Desp_CD\")||0;\nvar Esfu_CD = flow.get(\"Esfu_CD\")||0;\nvar Tramo = flow.get(\"Tramo\")||0;\nvar DX = flow.get(\"DX\")||0;\nvar UM = createArray(3, 520);\nvar UV = createArray(520);\nvar Numero_de_sartas = flow.get(\"numSarta\") || 0;\nvar SPM_Feedback = flow.get(\"SPM_Feedback\")||0;\nvar nCab = flow.get(\"nCab\")||0;\nvar DCprom = flow.get(\"DCprom\")||0;\nvar DiametroTubing = flow.get(\"DiametroTubing\")||0;\nvar PresionCasing = flow.get(\"PresionCasing\")||0;\nvar T = SPM_Feedback;\nvar np = 1.0, DT_0 = 0, DT1, Rho, gc = 32.2, Cest, LongOptm;\nvar AreaTubing, AreaCabilla, CargaCabezal, DT_Gl;\nvar V = 0.1;//identificar Value\nvar nt1 = Numero_de_sartas - 1;\nvar T_Matrix = NumeroMuestras;\nvar A = Tramo[nt1][15];\nvar E = Tramo[nt1][14];\nvar M = Tramo[nt1][18] - 1.0;\nvar L = Tramo[nt1][12];\nvar LM = M + 1.0;\nvar N = (T_Matrix) + 2.0 * (M - 1.0 + np);\nvar NT = Math.round(T_Matrix);\nvar NTI = NT;\n\nif ((L != 0.0) && (T_Matrix != 149)) {\n    LongOptm = (2.0 / (149.0 - (T_Matrix))) * L;\n}\nif (((T_Matrix) + 2.0 * (LM)) > 500.0) {\n    nCab = LongOptm;\n    var Ajustar_Datos = 1.0;\n    M = Tramo[nt1][18] - 1.0;\n    M = parseInt(M);\n}\n// setear las variables\nfor (let j = 0; j <= 1; j++) {\n    for (let z = 0; z <= 499; z++) {\n        UM[j][z] = 0.0;\n        UV[z] = 0.0;\n    }\n}\n// (* ------- Llenado de las dos Primeras filas de la matriz U---------*)\nfor (let j = 0; j <= NumeroMuestras - 1; j++) {\n    UM[0][j] = -(Desp_CD[j]) / (12.0);\n    if ((E != 0.0) && (A != 0)) {\n    // segunda  ley de hooke segunda linea \n        UM[1][j] = (Esfu_CD[j] * 1000.0) * (DX / (E * A * 144.0)) + UM[0][j];\n    }\n}\n\nM = parseInt(M);//truncar valores del ciclo for\nfor (let j = 0; j <= (2*M); j++) {\n    UM[0][NumeroMuestras + j] = UM[0][j];\n    UM[1][NumeroMuestras + j] = UM[1][j];\n}\nif (T != 0) {\n    DT1 = 60.0 / T / ((NTI) - 1.0);\n}\nNT = N;\nif (T != 0) {\n    DT_0 = 60.0 / T / ((NTI) - 1.0);\n}\nif (M != 0.0) {\n    DX = L / (M);\n}\nE = Tramo[Numero_de_sartas - 1][14];\nRho = Tramo[Numero_de_sartas - 1][13];\nif ((Rho != 0.0) && (V != 0.0) && (DT_0 != 0.0)) {\n    V = Math.sqrt(144.0 * E * gc / Rho);\n    Cest = DX / V / DT_0;;\n}\nAreaTubing = (3.1416 / 4.0) * Math.pow(DiametroTubing, 2.0);\nAreaCabilla = (3.1416 / 4.0) * Math.pow(DCprom, 2.0);\nCargaCabezal = ((AreaTubing - AreaCabilla) * PresionCasing) / 1000.0;\n\n// variables utilizadas en otras rutinas\nDT_Gl = DT1;\n// VARIABLES DE FLUJO\nflow.set(\"UM\", UM);\nflow.set(\"UV\", UV);\nflow.set(\"DX\", DX);\nflow.set(\"nCab\", nCab);\nflow.set(\"AreaTubing\", AreaTubing);\nflow.set(\"AreaCabilla\", AreaCabilla);\nflow.set(\"CargaCabezal\", CargaCabezal);\nflow.set(\"DT_Gl\", DT_Gl);\nflow.set(\"M\", M);\n\n// VARIABLES DE CONTEXTO\ncontext.set(\"A\", A, \"memoryOnly\");\ncontext.set(\"E\", E, \"memoryOnly\");\ncontext.set(\"DX\", DX, \"memoryOnly\");\ncontext.set(\"M\", M, \"memoryOnly\");\ncontext.set(\"UM\", UM, \"memoryOnly\");\ncontext.set(\"aDQUISIONUM\", UM, \"memoryOnly\");\ncontext.set(\"Desp_CD\", Desp_CD, \"memoryOnly\");\ncontext.set(\"Esfu_CD\", Esfu_CD, \"memoryOnly\");\ncontext.set(\"Tramo\", Tramo, \"memoryOnly\");\ncontext.set(\"nt1\", nt1, \"memoryOnly\");\ncontext.set(\"L\", L, \"memoryOnly\");\ncontext.set(\"T_Matrix\", T_Matrix, \"memoryOnly\");\ncontext.set(\"LongOptm\", LongOptm, \"memoryOnly\");\ncontext.set(\"nCab\", nCab, \"memoryOnly\");\ncontext.set(\"LM\", LM, \"memoryOnly\");\ncontext.set(\"np\", np, \"memoryOnly\");\ncontext.set(\"T\", T, \"memoryOnly\");\ncontext.set(\"DT_0\", DT_0, \"memoryOnly\");\ncontext.set(\"NTI\", NTI, \"memoryOnly\");\ncontext.set(\"SPM_Feedback\", SPM_Feedback, \"memoryOnly\");\ncontext.set(\"DT1\", DT1, \"memoryOnly\");\ncontext.set(\"Rho\", Rho, \"memoryOnly\");\ncontext.set(\"V\", V, \"memoryOnly\");\ncontext.set(\"gc\", gc, \"memoryOnly\");\ncontext.set(\"Cest\", Cest, \"memoryOnly\");\ncontext.set(\"nCab\", nCab, \"memoryOnly\");\ncontext.set(\"AreaTubing\", AreaTubing, \"memoryOnly\");\ncontext.set(\"AreaCabilla\", AreaCabilla, \"memoryOnly\");\ncontext.set(\"CargaCabezal\", CargaCabezal, \"memoryOnly\");\ncontext.set(\"DiametroTubing\", DiametroTubing, \"memoryOnly\");\ncontext.set(\"DCprom\", DCprom, \"memoryOnly\");\ncontext.set(\"PresionCasing\", PresionCasing, \"memoryOnly\");\ncontext.set(\"DT_Gl\", DT_Gl, \"memoryOnly\");\ncontext.set(\"UV\", UV, \"memoryOnly\");\ncontext.set(\"N\", N, \"memoryOnly\");\ncontext.set(\"NT\", NT, \"memoryOnly\");\ncontext.set(\"NumeroMuestras\", NumeroMuestras, \"memoryOnly\");\nreturn msg;\nfunction createArray(length) {\n    var arr = new Array(length || 0),\n        i = length;\n\n    if (arguments.length > 1) {\n        var args = Array.prototype.slice.call(arguments, 1);\n        while (i--) arr[length - 1 - i] = createArray.apply(this, args);\n    }\n\n    return arr;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -81538,7 +81496,7 @@
         "fieldType": "msg",
         "format": "handlebars",
         "syntax": "mustache",
-        "template": "<!doctype html>\n<html lang=\"en\">\n<script>{{{script}}}</script>\n<style>{{{style}}}</style>\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n    {{!-- Libreria para la creacion de los PLOTs 3D --}}\n    <script src=\"http://localhost:1880/SocketRodPoint/lib/js/plotly-2.3.0.min.js\"></script>\n    \n  </head>\n  <body>\n\n    {{!-- variables invisibles --}}\n    <div id=\"x\" ng-bind-html=\"msg.x\" style=\"display:none\"></div>\n    {{!-- <div id=\"xvisual\" ng-bind-html=\"msg.x\" ></div> --}}\n    <div id=\"y\" ng-bind-html=\"msg.y\" style=\"display:none\"></div>\n    <div id=\"demo\" onclick=\"myFunction()\">Mostrar</div>\n     <div id='myDiv2'><!-- Plotly chart will be drawn inside this DIV --></div>\n     <script>\n            function myFunction() {\n                var x = document.getElementById(\"x\").innerHTML;//adquision de data desde nodered\n                var y = document.getElementById(\"y\").innerHTML;//adquision de data desde nodered\n                var x1 = x.split(\",\")\n                var y1 = y.split(\",\")\n                for(i = 0; i < x1.length; i++) {\n                    x1[i] = Redondeo(x1[i]);\n                    y1[i] = Redondeo(y1[i]);\n                }\n\n                var trace1  = {\n                    x: x1,\n                    y: y1,\n                    name: 'Dynagrama',\n                    type: 'scatter'\n                };\n                var trace2  = {\n                    x: [60],\n                    y: [8],\n                    name: 'Pump Off',\n                    mode: 'scatter'\n                };\n                var layout = {\n                    title: 'Dinagrama de Fondo',\n                    autosize: false,\n                    width: 720,\n                    height: 520,\n                    yaxis: {\n                        title: 'Carga [Klb]',\n                        tickmode: 'array',\n                        automargin: true,\n                        titlefont: { size:12 },\n                    },\n\n                    xaxis: {\n                        title: 'Posición [in]',\n                        automargin: true,\n                        titlefont: { size:12 },\n                    },\n                    images: [\n                            {\n                                source: \"http://localhost:1880/swcpro-images/hlogo.png\",\n                                xref: \"paper\",\n                                yref: \"paper\",\n                                sizing: \"stretch\",\n                                x: 0.25,\n                                y: 0,\n                                sizex: 0.6,\n                                sizey: 1,\n                                opacity: 0.1,\n                                xanchor: \"left\",\n                                yanchor: \"bottom\"\n                            }],\n                };\n\n                var data = [trace1,trace2];\n                Plotly.newPlot('myDiv2', data,layout);\n                \n                //document.getElementById(\"demo\").innerHTML = x1[1];\n                // alert(\"Calculo Completo\");\n                // funciones utilizadas\n                function Redondeo(x) {\n                    return Number.parseFloat(x).toFixed(2);\n                }\n            }\n    </script>\n\n    <script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n    <script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n    <script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script>\n  </body>\n  \n  <style>\n    .disable-select {\n        user-select: none; /* supported by Chrome and Opera /\n        -webkit-user-select: none; / Safari /\n       -khtml-user-select: none; / Konqueror HTML /\n       -moz-user-select: none; / Firefox /\n       -ms-user-select: none; / Internet Explorer/Edge */\n    }\n  </style>\n</html>",
+        "template": "<!doctype html>\n<html lang=\"en\">\n<script>{{{script}}}</script>\n<style>{{{style}}}</style>\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n    {{!-- Libreria para la creacion de los PLOTs 3D --}}\n    <script src=\"http://localhost:1880/SocketRodPoint/lib/js/plotly-2.3.0.min.js\"></script>\n    \n  </head>\n  <body>\n\n    {{!-- variables invisibles --}}\n    <div id=\"x\" ng-bind-html=\"msg.x\" style=\"display:none\"></div>\n    {{!-- <div id=\"xvisual\" ng-bind-html=\"msg.x\" ></div> --}}\n    <div id=\"y\" ng-bind-html=\"msg.y\" style=\"display:none\"></div>\n    <div id=\"demo\" onclick=\"myFunction()\">Mostrar</div>\n     <div id='myDiv2'><!-- Plotly chart will be drawn inside this DIV --></div>\n     <script>\n            function myFunction() {\n                var x = document.getElementById(\"x\").innerHTML;//adquision de data desde nodered\n                var y = document.getElementById(\"y\").innerHTML;//adquision de data desde nodered\n                var x1 = x.split(\",\")\n                var y1 = y.split(\",\")\n                for(i = 0; i < x1.length; i++) {\n                    x1[i] = Redondeo(x1[i]);\n                    y1[i] = Redondeo(y1[i]);\n                }\n\n                var trace1  = {\n                    x: x1,\n                    y: y1,\n                    name: 'Dynagrama',\n                    type: 'scatter'\n                };\n                var trace2  = {\n                    x: [40],\n                    y: [2],\n                    name: 'Pump Off',\n                    mode: 'scatter'\n                };\n                var layout = {\n                    title: 'Dinagrama de Fondo',\n                    autosize: false,\n                    width: 720,\n                    height: 520,\n                    yaxis: {\n                        title: 'Carga [Klb]',\n                        tickmode: 'array',\n                        automargin: true,\n                        titlefont: { size:12 },\n                    },\n\n                    xaxis: {\n                        title: 'Posición [in]',\n                        automargin: true,\n                        titlefont: { size:12 },\n                    },\n                    images: [\n                            {\n                                source: \"http://localhost:1880/swcpro-images/hlogo.png\",\n                                xref: \"paper\",\n                                yref: \"paper\",\n                                sizing: \"stretch\",\n                                x: 0.25,\n                                y: 0,\n                                sizex: 0.6,\n                                sizey: 1,\n                                opacity: 0.1,\n                                xanchor: \"left\",\n                                yanchor: \"bottom\"\n                            }],\n                };\n\n                var data = [trace1,trace2];\n                Plotly.newPlot('myDiv2', data,layout);\n                \n                //document.getElementById(\"demo\").innerHTML = x1[1];\n                // alert(\"Calculo Completo\");\n                // funciones utilizadas\n                function Redondeo(x) {\n                    return Number.parseFloat(x).toFixed(2);\n                }\n            }\n    </script>\n\n    <script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n    <script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n    <script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script>\n  </body>\n  \n  <style>\n    .disable-select {\n        user-select: none; /* supported by Chrome and Opera /\n        -webkit-user-select: none; / Safari /\n       -khtml-user-select: none; / Konqueror HTML /\n       -moz-user-select: none; / Firefox /\n       -ms-user-select: none; / Internet Explorer/Edge */\n    }\n  </style>\n</html>",
         "output": "str",
         "x": 420,
         "y": 820,
@@ -81595,7 +81553,7 @@
         "z": "0919ca8b08ef5398",
         "g": "7f4726c248df075a",
         "name": "AcotarVector",
-        "func": "// variables del dinagrama de fondo\nvar Desp_CD_F1 = flow.get(\"Desp_CD_F1\")||0;\nvar Esfu_CD_F1 = flow.get(\"Esfu_CD_F1\")||0;\n// variables acotadas del dinagrama de fondo\nvar Desp_CD=[],Esfu_CD=[];\nvar finalPoint = 0 ; //Define el valor donde acaba los dinagramas\n// tamaños de los vectores\nvar sizex = Desp_CD_F1.length\nvar sizey = Esfu_CD_F1.length\nif ((Desp_CD_F1 != 0) && (Esfu_CD_F1 != 0) && (sizex == sizey)){\n    // existe el vector de desplazamiento y esfuerzo\n    node.status({fill:\"green\",shape:\"dot\",text:\"Calculo\"});\n    // identificar donde se acaba el vector \n    for (let i = 0; i < sizex; i++) {\n        // si los siguientes pasos del vector son cero\n        if (Desp_CD_F1[i] == 0 && Desp_CD_F1[i + 1] == 0 && Desp_CD_F1[i+2] == 0 ){\n            finalPoint = i;\n            break;//Termina el Ciclo For\n        }\n        \n    }\n    for (let i = 0; i < finalPoint; i++) {\n        Desp_CD[i] = Desp_CD_F1[i];\n        Esfu_CD[i] = Esfu_CD_F1[i];\n    }\n    // guardar las variables globales\n    global.set(\"Dinagrama.fondo.Desp_CD\", Desp_CD);\n    global.set(\"Dinagrama.fondo.Esfu_CD\", Esfu_CD);\n}else{\n    // no existen los vectores de desplazamiento y espuerzo\n    node.status({fill:\"red\",shape:\"dot\",text:\"NoCalculo\"});\n}\n\n// visualizacion de variables\ncontext.set(\"sizex\", sizex,\"memoryOnly\");\ncontext.set(\"sizey\", sizey,\"memoryOnly\");\ncontext.set(\"finalPoint\", finalPoint,\"memoryOnly\");\ncontext.set(\"Desp\", Desp_CD,\"memoryOnly\");\ncontext.set(\"Esfu\", Esfu_CD,\"memoryOnly\");\ncontext.set(\"Desp_CD_F1\", Desp_CD_F1,\"memoryOnly\");\ncontext.set(\"Esfu_CD_F1\", Esfu_CD_F1,\"memoryOnly\");\nreturn msg;",
+        "func": "// variables del dinagrama de fondo\nvar Desp_CD_F1 = flow.get(\"Desp_CD_F1\")||0;\nvar Esfu_CD_F1 = flow.get(\"Esfu_CD_F1\")||0;\n// variables acotadas del dinagrama de fondo\nvar Desp_CD=[],Esfu_CD=[];\nvar finalPoint = 0 ; //Define el valor donde acaba los dinagramas\n// tamaños de los vectores\nvar sizex = Desp_CD_F1.length\nvar sizey = Esfu_CD_F1.length\nif ((Desp_CD_F1 != 0) && (Esfu_CD_F1 != 0) && (sizex == sizey)){\n    // existe el vector de desplazamiento y esfuerzo\n    node.status({fill:\"green\",shape:\"dot\",text:\"Calculo\"});\n    // identificar donde se acaba el vector \n    for (let i = 0; i < sizex; i++) {\n        // si los siguientes pasos del vector son cero\n        if (Desp_CD_F1[i] == 0 && Desp_CD_F1[i + 1] == 0 && Desp_CD_F1[i+2] == 0 ){\n            finalPoint = i;\n            break;//Termina el Ciclo For\n        }\n        \n    }\n    for (let i = 0; i < finalPoint; i++) {\n        Desp_CD[i] = Desp_CD_F1[i];\n        Esfu_CD[i] = Esfu_CD_F1[i];\n    }\n    Desp_CD.push(Desp_CD[0]);\n    Esfu_CD.push(Esfu_CD[0]);\n    // cerrar el dinagrama de fondo\n    // guardar las variables globales\n    global.set(\"Dinagrama.fondo.Desp_CD\", Desp_CD);\n    global.set(\"Dinagrama.fondo.Esfu_CD\", Esfu_CD);\n}else{\n    // no existen los vectores de desplazamiento y espuerzo\n    node.status({fill:\"red\",shape:\"dot\",text:\"NoCalculo\"});\n}\n\n// visualizacion de variables\ncontext.set(\"sizex\", sizex,\"memoryOnly\");\ncontext.set(\"sizey\", sizey,\"memoryOnly\");\ncontext.set(\"finalPoint\", finalPoint,\"memoryOnly\");\ncontext.set(\"Desp\", Desp_CD,\"memoryOnly\");\ncontext.set(\"Esfu\", Esfu_CD,\"memoryOnly\");\ncontext.set(\"Desp_CD_F1\", Desp_CD_F1,\"memoryOnly\");\ncontext.set(\"Esfu_CD_F1\", Esfu_CD_F1,\"memoryOnly\");\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -81617,7 +81575,7 @@
         "fieldType": "msg",
         "format": "handlebars",
         "syntax": "mustache",
-        "template": "<!doctype html>\n<html lang=\"en\">\n<script>{{{script}}}</script>\n<style>{{{style}}}</style>\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n    {{!-- Libreria para la creacion de los PLOTs 3D --}}\n    <script src=\"http://localhost:1880/SocketRodPoint/lib/js/plotly-2.3.0.min.js\"></script>\n    \n  </head>\n  <body>\n\n    {{!-- variables invisibles --}}\n    <div id=\"x\" ng-bind-html=\"msg.x\" style=\"display:none\"></div>\n    {{!-- <div id=\"xvisual\" ng-bind-html=\"msg.x\" ></div> --}}\n    <div id=\"y\" ng-bind-html=\"msg.y\" style=\"display:none\"></div>\n    <div id=\"demo\" onclick=\"myFunction()\">Mostrar</div>\n     <div id='myDiv2'><!-- Plotly chart will be drawn inside this DIV --></div>\n     <script>\n            function myFunction() {\n                var x = document.getElementById(\"x\").innerHTML;//adquision de data desde nodered\n                var y = document.getElementById(\"y\").innerHTML;//adquision de data desde nodered\n                var x1 = x.split(\",\")\n                var y1 = y.split(\",\")\n                for(i = 0; i < x1.length; i++) {\n                    x1[i] = Redondeo(x1[i]);\n                    y1[i] = Redondeo(y1[i]);\n                }\n\n                var trace1  = {\n                    x: x1,\n                    y: y1,\n                    name: 'Dynagrama',\n                    type: 'scatter'\n                };\n                var trace2  = {\n                    x: [60],\n                    y: [8],\n                    name: 'Pump Off',\n                    mode: 'scatter'\n                };\n                var layout = {\n                    title: 'Dinagrama de Fondo',\n                    autosize: false,\n                    width: 720,\n                    height: 520,\n                    yaxis: {\n                        title: 'Carga [Klb]',\n                        tickmode: 'array',\n                        automargin: true,\n                        titlefont: { size:12 },\n                    },\n\n                    xaxis: {\n                        title: 'Posición [in]',\n                        automargin: true,\n                        titlefont: { size:12 },\n                    },\n                    images: [\n                            {\n                                source: \"http://localhost:1880/swcpro-images/hlogo.png\",\n                                xref: \"paper\",\n                                yref: \"paper\",\n                                sizing: \"stretch\",\n                                x: 0.25,\n                                y: 0,\n                                sizex: 0.6,\n                                sizey: 1,\n                                opacity: 0.1,\n                                xanchor: \"left\",\n                                yanchor: \"bottom\"\n                            }],\n                };\n\n                var data = [trace1,trace2];\n                Plotly.newPlot('myDiv2', data,layout);\n                \n                //document.getElementById(\"demo\").innerHTML = x1[1];\n                // alert(\"Calculo Completo\");\n                // funciones utilizadas\n                function Redondeo(x) {\n                    return Number.parseFloat(x).toFixed(2);\n                }\n            }\n    </script>\n\n    <script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n    <script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n    <script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script>\n  </body>\n  \n  <style>\n    .disable-select {\n        user-select: none; /* supported by Chrome and Opera /\n        -webkit-user-select: none; / Safari /\n       -khtml-user-select: none; / Konqueror HTML /\n       -moz-user-select: none; / Firefox /\n       -ms-user-select: none; / Internet Explorer/Edge */\n    }\n  </style>\n</html>",
+        "template": "<!doctype html>\n<html lang=\"en\">\n<script>{{{script}}}</script>\n<style>{{{style}}}</style>\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n    {{!-- Libreria para la creacion de los PLOTs 3D --}}\n    <script src=\"http://localhost:1880/SocketRodPoint/lib/js/plotly-2.3.0.min.js\"></script>\n    \n  </head>\n  <body>\n\n    {{!-- variables invisibles --}}\n    <div id=\"x\" ng-bind-html=\"msg.x\" style=\"display:none\"></div>\n    {{!-- <div id=\"xvisual\" ng-bind-html=\"msg.x\" ></div> --}}\n    <div id=\"y\" ng-bind-html=\"msg.y\" style=\"display:none\"></div>\n    <div id=\"demo\" onclick=\"myFunction()\">Mostrar</div>\n     <div id='myDiv2'><!-- Plotly chart will be drawn inside this DIV --></div>\n     <script>\n            function myFunction() {\n                var x = document.getElementById(\"x\").innerHTML;//adquision de data desde nodered\n                var y = document.getElementById(\"y\").innerHTML;//adquision de data desde nodered\n                var x1 = x.split(\",\")\n                var y1 = y.split(\",\")\n                for(i = 0; i < x1.length; i++) {\n                    x1[i] = Redondeo(x1[i]);\n                    y1[i] = Redondeo(y1[i]);\n                }\n\n                var trace1  = {\n                    x: x1,\n                    y: y1,\n                    name: 'Dynagrama',\n                    type: 'scatter'\n                };\n                var trace2  = {\n                    x: [40],\n                    y: [2],\n                    name: 'Pump Off',\n                    mode: 'scatter'\n                };\n                var layout = {\n                    title: 'Dinagrama de Fondo',\n                    autosize: false,\n                    width: 720,\n                    height: 520,\n                    yaxis: {\n                        title: 'Carga [Klb]',\n                        tickmode: 'array',\n                        automargin: true,\n                        titlefont: { size:12 },\n                    },\n\n                    xaxis: {\n                        title: 'Posición [in]',\n                        automargin: true,\n                        titlefont: { size:12 },\n                    },\n                    images: [\n                            {\n                                source: \"http://localhost:1880/swcpro-images/hlogo.png\",\n                                xref: \"paper\",\n                                yref: \"paper\",\n                                sizing: \"stretch\",\n                                x: 0.25,\n                                y: 0,\n                                sizex: 0.6,\n                                sizey: 1,\n                                opacity: 0.1,\n                                xanchor: \"left\",\n                                yanchor: \"bottom\"\n                            }],\n                };\n\n                var data = [trace1,trace2];\n                Plotly.newPlot('myDiv2', data,layout);\n                \n                //document.getElementById(\"demo\").innerHTML = x1[1];\n                // alert(\"Calculo Completo\");\n                // funciones utilizadas\n                function Redondeo(x) {\n                    return Number.parseFloat(x).toFixed(2);\n                }\n            }\n    </script>\n\n    <script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n    <script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n    <script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script>\n  </body>\n  \n  <style>\n    .disable-select {\n        user-select: none; /* supported by Chrome and Opera /\n        -webkit-user-select: none; / Safari /\n       -khtml-user-select: none; / Konqueror HTML /\n       -moz-user-select: none; / Firefox /\n       -ms-user-select: none; / Internet Explorer/Edge */\n    }\n  </style>\n</html>",
         "output": "str",
         "x": 410,
         "y": 920,
@@ -84357,8 +84315,7 @@
         "wires": [
             [
                 "0ebf6efd7abf9b28",
-                "583e17dd393ca854",
-                "72c9ac9047c5a640"
+                "583e17dd393ca854"
             ],
             [
                 "67163bc2028abe5f"
@@ -84428,7 +84385,7 @@
         "g": "b3c73c66a9a23564",
         "name": "",
         "group": "f3358016775d3d48",
-        "order": 16,
+        "order": 9,
         "width": 4,
         "height": 1,
         "passthru": false,
@@ -84613,7 +84570,7 @@
         "label": "Marcha (Horas)",
         "tooltip": "",
         "group": "f3358016775d3d48",
-        "order": 3,
+        "order": 2,
         "width": 3,
         "height": 1,
         "passthru": true,
@@ -84637,7 +84594,7 @@
         "label": "Marcha (Minutos)",
         "tooltip": "",
         "group": "f3358016775d3d48",
-        "order": 7,
+        "order": 3,
         "width": 3,
         "height": 1,
         "passthru": true,
@@ -84661,7 +84618,7 @@
         "label": "Marcha (Segundos)",
         "tooltip": "",
         "group": "f3358016775d3d48",
-        "order": 12,
+        "order": 4,
         "width": 3,
         "height": 1,
         "passthru": true,
@@ -84685,7 +84642,7 @@
         "label": "Pausa (Horas)",
         "tooltip": "",
         "group": "f3358016775d3d48",
-        "order": 4,
+        "order": 6,
         "width": 3,
         "height": 1,
         "passthru": true,
@@ -84709,7 +84666,7 @@
         "label": "Pausa (Minutos)",
         "tooltip": "",
         "group": "f3358016775d3d48",
-        "order": 9,
+        "order": 7,
         "width": 3,
         "height": 1,
         "passthru": true,
@@ -84733,7 +84690,7 @@
         "label": "Pausa (Segundos)",
         "tooltip": "",
         "group": "f3358016775d3d48",
-        "order": 14,
+        "order": 8,
         "width": 3,
         "height": 1,
         "passthru": true,
@@ -84763,14 +84720,13 @@
         "statusVal": "payload",
         "statusType": "auto",
         "x": 900,
-        "y": 1140,
+        "y": 1060,
         "wires": []
     },
     {
         "id": "f12b81fd13fcdb7c",
         "type": "function",
-        "z": "8c6f930882747645",
-        "g": "0e5fc807c9fa372e",
+        "z": "dc9f1a7a8ca59495",
         "name": "conversionDia",
         "func": "var InputSeconds = msg.payload;\nif(InputSeconds >= 0){\n    // si no genera numeros negativos\n    var Days = parseInt(InputSeconds / 86400);\n    var Hours = parseInt((InputSeconds - (Days) * 86400) / 3600);\n    var SegRest = parseInt(InputSeconds - (Hours * 3600) - (Days * 86400));\n    var Min = parseInt(SegRest / 60);\n    var seconds = parseInt(SegRest - (Min * 60));\n    \n    // conversion a string\n    Days = Days.toString()\n    Hours = Hours.toString()\n    Min = Min.toString()\n    seconds = seconds.toString()\n    //concatenacion\n    var date = Days; date += \":\"; date += Hours; date += \":\"; date += Min; date += \":\";date += seconds;\n    // retornar el mensaje\n    msg.payload = date;\n    // guardar las variables\n    context.set(\"Days\", (Days),\"memoryOnly\");\n    context.set(\"InputSeconds\", InputSeconds, \"memoryOnly\");\n    context.set(\"Hours\", Hours, \"memoryOnly\");\n    context.set(\"SegRest\", SegRest, \"memoryOnly\");\n    context.set(\"Min\", Min, \"memoryOnly\");\n    context.set(\"seconds\", seconds, \"memoryOnly\");\n    context.set(\"date\", date, \"memoryOnly\");\n    return msg;\n}",
         "outputs": 1,
@@ -84778,13 +84734,10 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 710,
-        "y": 1100,
+        "x": 190,
+        "y": 80,
         "wires": [
-            [
-                "dcf5c1f29197f61c",
-                "6511dbcdc6360502"
-            ]
+            []
         ]
     },
     {
@@ -84802,7 +84755,7 @@
         "statusVal": "payload",
         "statusType": "auto",
         "x": 680,
-        "y": 1040,
+        "y": 960,
         "wires": []
     },
     {
@@ -84811,22 +84764,21 @@
         "z": "8c6f930882747645",
         "g": "0e5fc807c9fa372e",
         "name": "LogicaControlOnOff",
-        "func": "var habilitado = global.get(\"Control_functions.Controlon_off.habilitado\")||false;\nvar ton = global.get(\"Control_functions.Controlon_off.ton\") || 0;//tiempo de alta\nvar toff = global.get(\"Control_functions.Controlon_off.toff\") || 0;//tiempo de baja\nvar estado = global.get(\"Control_functions.Controlon_off.estado\") || false;//estado del equipo\nvar buttonComand = global.get(\"Control_functions.Controlon_off.buttonComand\") || false;//boton de arranque del sistema\nvar At_Setpt_Spd = global.get(\"C2S.Drive_Status.At_Setpt_Spd\",\"memoryOnly\")||0;//llegó a referencia el VSD\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\",\"memoryOnly\")||false;\nvar ctr = context.get(\"ctr\",ctr)||0;\nvar time = 0;\nif (habilitado == true && comunicacion == true) {\n    //visualizar estado del habilitado\n    node.status({ fill: \"green\", shape: \"dot\", text: \"habilitado\" });\n    if (toff != 0 && ton != 0) {\n        // logica para cambiar entre estados\n        if (estado == true && buttonComand == true ) {\n            node.status({ fill: \"green\", shape: \"dot\", text: estado });\n            if (At_Setpt_Spd == 1){//El VSD ya llegó a la referencia\n                ctr = ctr + 1;\n            }else{\n                ctr = ctr;\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = ton - ctr;\n            if (ton == ctr) {\n                global.set(\"Control_functions.Controlon_off.estado\", false);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > ton) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        } else if (estado == false && buttonComand == true){\n            node.status({ fill: \"red\", shape: \"dot\", text: estado });\n            if (At_Setpt_Spd == 0){//El VSD ya se paro\n                ctr = ctr + 1;\n            }else{\n                ctr = ctr;\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = toff - ctr;\n            if (toff == ctr) {\n                global.set(\"Control_functions.Controlon_off.estado\", true);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > toff) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        }else {\n            estado = \"pausa\";\n            time = 0;\n        }\n\n    } else {\n        node.status({ fill: \"red\", shape: \"dot\", text: \"tiemposNoConfigurados\" });\n        time = 0;\n        estado = \"tiemposNoConfigurados\";\n\n    }\n} else if (habilitado == false && comunicacion == true) {\n    node.status({ fill: \"red\", shape: \"dot\", text: \"Deshabilitado\" });\n    global.set(\"Control_functions.Controlon_off.estado\", true);\n    context.set(\"ctr\", 0)//setear el contador\n    time = { payload: time };\n    estado = { payload: \"deshabilitado\" };\n\n}else if (comunicacion == false){\n    node.status({ fill: \"red\", shape: \"dot\", text: \"falloComunicacion\" });\n    global.set(\"Control_functions.Controlon_off.estado\", false);//setee el estado de activar en bajo\n    context.set(\"ctr\", 0)//setear el contador\n    time = 0;\n    time = { payload: time };\n    estado = { payload: \"falloComunicacion\" };\n}\n// set variables\ncontext.set(\"habilitado\",habilitado,\"memoryOnly\");\ncontext.set(\"estado\",estado,\"memoryOnly\");\ncontext.set(\"toff\",toff,\"memoryOnly\");\ncontext.set(\"ton\",ton,\"memoryOnly\");\ncontext.set(\"time\",time,\"memoryOnly\");\ncontext.set(\"time\",time,\"memoryOnly\");\ncontext.set(\"buttonComand\", buttonComand,\"memoryOnly\");\n\ntime = { payload: time };\nestado = { payload: estado };\nreturn [estado, time];\n",
+        "func": "var habilitado = global.get(\"Control_functions.Controlon_off.habilitado\")||false;\nvar ton = global.get(\"Control_functions.Controlon_off.ton\") || 0;//tiempo de alta\nvar toff = global.get(\"Control_functions.Controlon_off.toff\") || 0;//tiempo de baja\nvar estado = global.get(\"Control_functions.Controlon_off.estado\") || false;//estado del equipo\nvar buttonComand = global.get(\"Control_functions.Controlon_off.buttonComand\") || false;//boton de arranque del sistema\nvar At_Setpt_Spd = global.get(\"C2S.Drive_Status.At_Setpt_Spd\",\"memoryOnly\")||0;//llegó a referencia el VSD\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\",\"memoryOnly\")||false;\n// flag de estado del arranque automatico\nvar AutomaticRestart = global.get(\"Control_functions.ActiveCF.AutomaticRestart\",\"memoryOnly\")||false;\nvar flagArranqueAutomatico = context.get(\"flagArranqueAutomatico\",\"memoryOnly\")||false;\nvar ctr = context.get(\"ctr\",ctr)||0;\nvar time = 0;\nvar flag = context.get(\"flag\",\"memoryOnly\")||false; //seteo de flag para identificar si ya ha llegado a la referencia\nif (habilitado == true && comunicacion == true) {\n    //visualizar estado del habilitado\n    node.status({ fill: \"green\", shape: \"dot\", text: \"habilitado\" });\n    if (toff != 0 && ton != 0) {\n        // logica para cambiar entre estados\n        if (AutomaticRestart == true && flagArranqueAutomatico == false){\n            node.status({ fill: \"yellow\", shape: \"dot\", text: \"esperandoArranque\" });\n            buttonComand = false;//se ejecuta una sola vez\n            estado = true;\n            flagArranqueAutomatico = true;//ya se ejecuto el arranque automatico\n        }else if(flagArranqueAutomatico == true){\n            buttonComand = true;//inicie la operación\n            flagArranqueAutomatico = false;\n        }\n        if (estado == true && buttonComand == true ) {\n            node.status({ fill: \"green\", shape: \"dot\", text: estado });\n            if (At_Setpt_Spd == 1){//El VSD ya llegó a la referencia\n                ctr = ctr + 1;\n                flag = true;\n            }else if(flag == true){//seguir contando el tiempo\n                ctr = ctr + 1;\n            }\n            else{\n                ctr = ctr;//No aumente el tiempo\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = ton - ctr;\n            if (ton == ctr) {\n                global.set(\"Control_functions.Controlon_off.estado\", false);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > ton) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        } else if (estado == false && buttonComand == true){\n            node.status({ fill: \"red\", shape: \"dot\", text: estado });\n            if (At_Setpt_Spd == 0){//El VSD ya se paro\n                ctr = ctr + 1;\n                flag = false;//seteo de la flag\n            }\n            else{\n                ctr = ctr;\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = toff - ctr;\n            if (toff == ctr) {\n                global.set(\"Control_functions.Controlon_off.estado\", true);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > toff) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        }else {\n            estado = \"pausa\";\n            time = 0;\n        }\n\n    } else {\n        node.status({ fill: \"red\", shape: \"dot\", text: \"tiemposNoConfigurados\" });\n        time = 0;\n        estado = \"tiemposNoConfigurados\";\n        flag = false;\n    }\n} else if (habilitado == false && comunicacion == true) {\n    global.set(\"Control_functions.Controlon_off.estado\", true);\n    context.set(\"ctr\", 0)//setear el contador\n    time = time ;\n    estado = \"deshabilitado\";\n    flag = false\n    node.status({ fill: \"red\", shape: \"dot\", text: estado });\n}else if (comunicacion == false){\n    node.status({ fill: \"red\", shape: \"dot\", text: \"falloComunicacion\" });\n    global.set(\"Control_functions.Controlon_off.estado\", false);//setee el estado de activar en bajo\n    context.set(\"ctr\", 0)//setear el contador\n    time = 0;\n    estado = \"falloComunicacion\";\n    flag = false\n}\n// set variables\ncontext.set(\"habilitado\",habilitado,\"memoryOnly\");\ncontext.set(\"estado\",estado,\"memoryOnly\");\ncontext.set(\"toff\",toff,\"memoryOnly\");\ncontext.set(\"ton\",ton,\"memoryOnly\");\ncontext.set(\"time\",time,\"memoryOnly\");\ncontext.set(\"time\",time,\"memoryOnly\");\ncontext.set(\"buttonComand\", buttonComand,\"memoryOnly\");\ncontext.set(\"At_Setpt_Spd\", At_Setpt_Spd,\"memoryOnly\");\ncontext.set(\"flag\", flag,\"memoryOnly\");\n\ntime = { payload: time };\nestado = { payload: estado };\nreturn [estado, time];\n",
         "outputs": 2,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
         "x": 470,
-        "y": 1060,
+        "y": 980,
         "wires": [
             [
-                "a9fa933108e9d4d1",
-                "faf280f1a56572a2"
+                "f9aa5d06fd27dc2c"
             ],
             [
                 "590065f4322532b6",
-                "f12b81fd13fcdb7c"
+                "3fe6ba310d6fe1c0"
             ]
         ]
     },
@@ -84852,7 +84804,7 @@
         "topic": "",
         "payloadType": "date",
         "x": 270,
-        "y": 1060,
+        "y": 980,
         "wires": [
             [
                 "f415b27484203371"
@@ -84886,8 +84838,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 820,
-        "y": 940,
+        "x": 1020,
+        "y": 860,
         "wires": [
             [
                 "02b49d0144e87541"
@@ -84913,8 +84865,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 670,
-        "y": 960,
+        "x": 830,
+        "y": 860,
         "wires": [
             [
                 "41e58bc56873cf21"
@@ -84951,8 +84903,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 810,
-        "y": 980,
+        "x": 1030,
+        "y": 900,
         "wires": [
             [
                 "02b49d0144e87541"
@@ -84965,7 +84917,7 @@
         "z": "8c6f930882747645",
         "g": "0e5fc807c9fa372e",
         "group": "f3358016775d3d48",
-        "order": 23,
+        "order": 10,
         "width": 4,
         "height": 1,
         "name": "",
@@ -84973,34 +84925,8 @@
         "format": "{{msg.payload}}",
         "layout": "row-spread",
         "x": 900,
-        "y": 1060,
+        "y": 980,
         "wires": []
-    },
-    {
-        "id": "39be4bfc10709f81",
-        "type": "ui_text_input",
-        "z": "8c6f930882747645",
-        "g": "dfdd865d8cf81492",
-        "name": "",
-        "label": "Referencia (SPM)",
-        "tooltip": "",
-        "group": "f3358016775d3d48",
-        "order": 15,
-        "width": 2,
-        "height": 1,
-        "passthru": true,
-        "mode": "number",
-        "delay": 300,
-        "topic": "topic",
-        "topicType": "str",
-        "x": 270,
-        "y": 800,
-        "wires": [
-            [
-                "bdbdada8453f27b6",
-                "63d11ec6f35f6e89"
-            ]
-        ]
     },
     {
         "id": "310dc19abf017f87",
@@ -85009,7 +84935,7 @@
         "g": "99fd9c5cbd90ceb5",
         "name": "Tendencia principa",
         "group": "f3358016775d3d48",
-        "order": 26,
+        "order": 13,
         "width": 12,
         "height": 4,
         "label": "",
@@ -85041,7 +84967,7 @@
         "outputs": 1,
         "useDifferentColor": false,
         "x": 530,
-        "y": 1260,
+        "y": 1200,
         "wires": [
             []
         ]
@@ -85056,7 +84982,7 @@
         "tooltip": "",
         "group": "f3358016775d3d48",
         "order": 1,
-        "width": 2,
+        "width": 3,
         "height": 1,
         "passthru": false,
         "decouple": "true",
@@ -85072,8 +84998,8 @@
         "officon": "",
         "offcolor": "",
         "animate": true,
-        "x": 1010,
-        "y": 1320,
+        "x": 1030,
+        "y": 1260,
         "wires": [
             [
                 "387077f32e7cd82a"
@@ -85100,8 +85026,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1600,
-        "y": 1260,
+        "x": 1620,
+        "y": 1200,
         "wires": [
             [
                 "a0b90b4f54fbae9f"
@@ -85114,8 +85040,8 @@
         "z": "8c6f930882747645",
         "g": "0e5fc807c9fa372e",
         "name": "",
-        "x": 980,
-        "y": 960,
+        "x": 1200,
+        "y": 900,
         "wires": [
             [],
             []
@@ -85136,20 +85062,21 @@
         "statusVal": "payload",
         "statusType": "auto",
         "x": 480,
-        "y": 1300,
+        "y": 1240,
         "wires": []
     },
     {
         "id": "46db26d7af2e0781",
         "type": "link in",
         "z": "8c6f930882747645",
+        "d": true,
         "g": "99fd9c5cbd90ceb5",
         "name": "TendenciaPumpOffController",
         "links": [
             "d3fc647f21f7d8eb"
         ],
         "x": 195,
-        "y": 1280,
+        "y": 1220,
         "wires": [
             [
                 "5e3e278f18c43297"
@@ -85175,7 +85102,7 @@
         "repair": false,
         "outputs": 1,
         "x": 320,
-        "y": 1280,
+        "y": 1220,
         "wires": [
             [
                 "38bcc057bcaf67cb",
@@ -85211,8 +85138,8 @@
             "a0b90b4f54fbae9f",
             "ad87cee4.7dbb5"
         ],
-        "x": 695,
-        "y": 1320,
+        "x": 715,
+        "y": 1260,
         "wires": [
             [
                 "1030cf36c38005cc"
@@ -85239,8 +85166,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 800,
-        "y": 1320,
+        "x": 820,
+        "y": 1260,
         "wires": [
             [
                 "b3bff36608552e64"
@@ -85262,8 +85189,8 @@
         "raw": false,
         "topic": "¿Desea Activar el Pump off controller?",
         "name": "confirm",
-        "x": 1320,
-        "y": 1280,
+        "x": 1340,
+        "y": 1220,
         "wires": [
             [
                 "63327f6fea66164d"
@@ -85293,8 +85220,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 1450,
-        "y": 1280,
+        "x": 1470,
+        "y": 1220,
         "wires": [
             [
                 "03bc4f71e5b948a7"
@@ -85324,8 +85251,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1610,
-        "y": 1300,
+        "x": 1630,
+        "y": 1240,
         "wires": [
             [
                 "a0b90b4f54fbae9f"
@@ -85351,8 +85278,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 1210,
-        "y": 1320,
+        "x": 1230,
+        "y": 1260,
         "wires": [
             [
                 "d47445cdb503041d"
@@ -85377,8 +85304,8 @@
         "raw": false,
         "topic": "¿Desea Desactivar el Pump off controller?",
         "name": "confirm",
-        "x": 1360,
-        "y": 1340,
+        "x": 1380,
+        "y": 1280,
         "wires": [
             [
                 "c8278a13f190d9b7"
@@ -85408,8 +85335,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 1490,
-        "y": 1380,
+        "x": 1510,
+        "y": 1320,
         "wires": [
             [
                 "ac32ae12c492afdb"
@@ -85439,8 +85366,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1630,
-        "y": 1360,
+        "x": 1650,
+        "y": 1300,
         "wires": [
             [
                 "a0b90b4f54fbae9f"
@@ -85467,8 +85394,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1620,
-        "y": 1400,
+        "x": 1640,
+        "y": 1340,
         "wires": [
             [
                 "a0b90b4f54fbae9f"
@@ -85484,8 +85411,8 @@
         "links": [
             "3023be06a10a9863"
         ],
-        "x": 1755,
-        "y": 1300,
+        "x": 1775,
+        "y": 1240,
         "wires": []
     },
     {
@@ -85494,477 +85421,16 @@
         "z": "8c6f930882747645",
         "g": "0e5fc807c9fa372e",
         "group": "f3358016775d3d48",
-        "order": 22,
+        "order": 11,
         "width": 3,
         "height": 1,
         "name": "",
         "label": "Estado",
         "format": "{{msg.payload}}",
         "layout": "row-spread",
-        "x": 660,
-        "y": 1000,
+        "x": 840,
+        "y": 900,
         "wires": []
-    },
-    {
-        "id": "bdbdada8453f27b6",
-        "type": "delay",
-        "z": "8c6f930882747645",
-        "g": "dfdd865d8cf81492",
-        "name": "",
-        "pauseType": "delay",
-        "timeout": "1",
-        "timeoutUnits": "seconds",
-        "rate": "1",
-        "nbRateUnits": "1",
-        "rateUnits": "second",
-        "randomFirst": "1",
-        "randomLast": "5",
-        "randomUnits": "seconds",
-        "drop": false,
-        "allowrate": false,
-        "x": 460,
-        "y": 800,
-        "wires": [
-            [
-                "21ba0901b1fc3ee3"
-            ]
-        ]
-    },
-    {
-        "id": "63d11ec6f35f6e89",
-        "type": "subflow:222e9a8dc8f57193",
-        "z": "8c6f930882747645",
-        "g": "dfdd865d8cf81492",
-        "name": "",
-        "env": [],
-        "x": 460,
-        "y": 840,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "21ba0901b1fc3ee3",
-        "type": "function",
-        "z": "8c6f930882747645",
-        "g": "dfdd865d8cf81492",
-        "name": "AlarmaSPM",
-        "func": "var spm = msg.payload;//spm seteada por la entrada\nvar PoleaGrande = global.get(\"C2S.Motor_Control.Nameplate.PoleaGrande\") || 0;\nvar PoleaPequena = global.get(\"C2S.Motor_Control.Nameplate.PoleaPequena\") || 0;\nvar RGB = global.get(\"C2S.Motor_Control.Nameplate.RGB\") || 0;\nvar RPM = global.get(\"C2S.Motor_Control.Nameplate.RPM\") || 0;\nvar HertzMotor = global.get(\"C2S.Motor_Control.Nameplate.Hertz\") || 0;\n\n// guardar las variables\ncontext.set(\"spm\", spm, \"memoryOnly\");\ncontext.set(\"PoleaGrande\", PoleaGrande, \"memoryOnly\");\ncontext.set(\"PoleaPequena\", PoleaPequena, \"memoryOnly\");\ncontext.set(\"RGB\", RGB, \"memoryOnly\");\ncontext.set(\"RPM\", RPM, \"memoryOnly\");\n\nif ((PoleaGrande == 0) && (RGB == 0) && (RPM == 0) && HertzMotor == 0) {\n    node.status({ fill: \"red\", shape: \"dot\", text: \"NoConfigurado\" });\n    msg.payload = \"Ingrese a Configuración VSD Datos del Motor para Configurar\";\n    msg.topic = \"Caja SRP no Configurada\";\n    return msg\n}else{\n    node.status({ fill: \"green\", shape: \"dot\", text: \"Configurado\" });\n}\n\n\n\n\n// var Dc = global.get(\"C2S.Motor_Control.Nameplate.Dc\") || 0;\n// var nPolosMotor = global.get(\"C2S.Motor_Control.Nameplate.Poles\") || 0;\n// var Dm = global.get(\"C2S.Motor_Control.Nameplate.Dm\") || 0;\n// var rgb = global.get(\"C2S.Motor_Control.Nameplate.RGB\") || 0;//RELACION DEL GEAR\n// context.set(\"Dc\", Dc, \"memoryOnly\")\n// context.set(\"nPolosMotor\", nPolosMotor, \"memoryOnly\")\n// context.set(\"rgb\", rgb, \"memoryOnly\")\n// context.set(\"Dm\", Dm, \"memoryOnly\")\n// // condicion que valida que esten creadas todas las variables\n// if (Dc != 0 && Dm != 0 && rgb != 0 && nPolosMotor != 0) {\n//     node.status({ fill: \"green\", shape: \"dot\", text: \"Configurado\" });\n// } else {\n//     node.status({ fill: \"red\", shape: \"dot\", text: \"NoConfigurado\" });\n//     msg.payload = \"Ingrese a Configuración VSD Datos del Motor para Configurar\";\n//     msg.topic = \"Caja SRP no Configurada\";\n//     return msg\n// }",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 630,
-        "y": 800,
-        "wires": [
-            [
-                "cea17bf2805a1d9b"
-            ]
-        ]
-    },
-    {
-        "id": "cea17bf2805a1d9b",
-        "type": "ui_toast",
-        "z": "8c6f930882747645",
-        "g": "dfdd865d8cf81492",
-        "position": "top right",
-        "displayTime": "3",
-        "highlight": "",
-        "sendall": true,
-        "outputs": 0,
-        "ok": "OK",
-        "cancel": "",
-        "raw": false,
-        "topic": "",
-        "name": "CajaNoConfig",
-        "x": 820,
-        "y": 800,
-        "wires": []
-    },
-    {
-        "id": "f592e3bf82a5dd90",
-        "type": "change",
-        "z": "8c6f930882747645",
-        "g": "b3c73c66a9a23564",
-        "name": "Tracking Reference",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "C2S.Last_Reference.Value",
-                "tot": "global"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 2310,
-        "y": 300,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "b073c26fe4f7f4ff",
-        "type": "change",
-        "z": "8c6f930882747645",
-        "g": "b3c73c66a9a23564",
-        "name": "Ultima Referencia",
-        "rules": [
-            {
-                "t": "set",
-                "p": "C2S.Last_Reference.Value",
-                "pt": "global",
-                "to": "#:(memoryOnly)::Input.Operation.Reference",
-                "tot": "global"
-            },
-            {
-                "t": "set",
-                "p": "C2S.Last_Reference.Source",
-                "pt": "global",
-                "to": "Operación normal",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 2100,
-        "y": 300,
-        "wires": [
-            [
-                "f592e3bf82a5dd90"
-            ]
-        ]
-    },
-    {
-        "id": "d5a38b1725c19aab",
-        "type": "link out",
-        "z": "8c6f930882747645",
-        "g": "b3c73c66a9a23564",
-        "name": "",
-        "links": [
-            "204c251e.8264ca",
-            "207ea8ce.3dea68",
-            "2da816b7.b2be9a"
-        ],
-        "x": 2165,
-        "y": 340,
-        "wires": []
-    },
-    {
-        "id": "657637f78708a5e9",
-        "type": "link out",
-        "z": "8c6f930882747645",
-        "g": "b3c73c66a9a23564",
-        "name": "",
-        "links": [
-            "2da816b7.b2be9a",
-            "cbbbcd1c.7180e",
-            "204c251e.8264ca"
-        ],
-        "x": 2165,
-        "y": 380,
-        "wires": []
-    },
-    {
-        "id": "d04a1b94c526416d",
-        "type": "function",
-        "z": "8c6f930882747645",
-        "g": "b3c73c66a9a23564",
-        "name": "Ref Fail",
-        "func": "msg.payload = \"Falla de comunicación, referencia no recibida\";\nmsg.topic = \"Referencia\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 2070,
-        "y": 380,
-        "wires": [
-            [
-                "657637f78708a5e9"
-            ]
-        ]
-    },
-    {
-        "id": "60110bc4fb9bb8c0",
-        "type": "function",
-        "z": "8c6f930882747645",
-        "g": "b3c73c66a9a23564",
-        "name": "Ref OK",
-        "func": "var sentidogiro = global.get(\"C2S.Drive_Status.Command_dir\",\"memoryOnly\")||0;\nvar spm = global.get(\"C2S.Implicit.spm\",\"memoryOnly\")||0;\nmsg.payload = \"Cambio de referencia a \" + Math.abs(parseFloat(spm.toFixed(2))) + \"spm, Velocidad Motor:\" + Math.abs(parseFloat((msg.payload).toFixed(2))) + \"Hz\";\nmsg.topic = \"Referencia\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 2070,
-        "y": 340,
-        "wires": [
-            [
-                "d5a38b1725c19aab"
-            ]
-        ]
-    },
-    {
-        "id": "9ad743edda2b3e90",
-        "type": "inject",
-        "z": "8c6f930882747645",
-        "g": "b3c73c66a9a23564",
-        "name": "Referencia Drive",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "56",
-        "payloadType": "num",
-        "x": 2110,
-        "y": 260,
-        "wires": [
-            [
-                "b073c26fe4f7f4ff"
-            ]
-        ]
-    },
-    {
-        "id": "04f353f29f589ec8",
-        "type": "switch",
-        "z": "8c6f930882747645",
-        "g": "b3c73c66a9a23564",
-        "name": "send ref?",
-        "property": "verify",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "1",
-                "vt": "num"
-            },
-            {
-                "t": "eq",
-                "v": "0",
-                "vt": "num"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 1930,
-        "y": 360,
-        "wires": [
-            [
-                "60110bc4fb9bb8c0",
-                "b073c26fe4f7f4ff"
-            ],
-            [
-                "d04a1b94c526416d"
-            ]
-        ]
-    },
-    {
-        "id": "58a83fb0eaa5e39c",
-        "type": "function",
-        "z": "8c6f930882747645",
-        "g": "b3c73c66a9a23564",
-        "name": "Sts Ref",
-        "func": "var Commanded_SpdRef = Math.abs(global.get(\"C2S.Implicit.Commanded_SpdRef\", \"memoryOnly\") || 0);\nvar Reference = global.get(\"Input.Operation.Reference\", \"memoryOnly\") || 0;\n\nReference = parseFloat(Reference.toFixed(2));\nCommanded_SpdRef = parseFloat(Commanded_SpdRef.toFixed(2));\ncontext.set(\"Commanded_SpdRef\", Commanded_SpdRef, \"memoryOnly\")\ncontext.set(\"Reference\", Reference, \"memoryOnly\")\nif (Commanded_SpdRef == Reference)\n    msg.verify = 1;\nelse\n    msg.verify = 0;\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1790,
-        "y": 360,
-        "wires": [
-            [
-                "04f353f29f589ec8"
-            ]
-        ]
-    },
-    {
-        "id": "12cf64424e966ad5",
-        "type": "subflow:1fbf295f73cccb97",
-        "z": "8c6f930882747645",
-        "g": "b3c73c66a9a23564",
-        "name": "",
-        "env": [],
-        "x": 1860,
-        "y": 400,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "770489d7d8639fc6",
-        "type": "function",
-        "z": "8c6f930882747645",
-        "g": "b3c73c66a9a23564",
-        "name": "conversionSPM",
-        "func": "var Dc = global.get(\"C2S.Motor_Control.Nameplate.Dc\")||0;\nvar nPolosMotor = global.get(\"C2S.Motor_Control.Nameplate.Poles\")||0;\nvar Dm = global.get(\"C2S.Motor_Control.Nameplate.Dm\")||0;\nvar rgb = global.get(\"C2S.Motor_Control.Nameplate.RGB\")||0;//RELACION DEL GEAR\nvar Reference = global.get(\"Input.Operation.Reference\" ,\"memoryOnly\")||0;\n// context.set(\"Dc\", Dc,\"memoryOnly\")\n// context.set(\"spm\", spm,\"memoryOnly\")\n// context.set(\"nPolosMotor\", nPolosMotor,\"memoryOnly\")\n// context.set(\"rgb\", rgb,\"memoryOnly\")\n// context.set(\"Dm\", Dm,\"memoryOnly\")\n// // condicion que valida que esten creadas todas las variables\ncontext.set(\"Reference\", Reference,\"memoryOnly\")\nif (Dc != 0 && Dm != 0 && rgb != 0 && nPolosMotor != 0){\n    // calculo de la ecuación\n    msg.payload = Reference;\n    global.set(\"C2S.Last_Reference.Value\", Reference, \"memoryOnly\");\n    node.status({ fill: \"green\", shape: \"dot\", text: \"Configurado\"});\n    return msg;\n}else{\n    node.status({ fill: \"red\", shape: \"dot\", text: \"NoConfigurado\"});\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1640,
-        "y": 400,
-        "wires": [
-            [
-                "12cf64424e966ad5"
-            ]
-        ]
-    },
-    {
-        "id": "7bf0b9b2e2fbe996",
-        "type": "delay",
-        "z": "8c6f930882747645",
-        "g": "b3c73c66a9a23564",
-        "name": "",
-        "pauseType": "delay",
-        "timeout": "2",
-        "timeoutUnits": "seconds",
-        "rate": "1",
-        "nbRateUnits": "1",
-        "rateUnits": "second",
-        "randomFirst": "1",
-        "randomLast": "5",
-        "randomUnits": "seconds",
-        "drop": false,
-        "allowrate": false,
-        "x": 1630,
-        "y": 360,
-        "wires": [
-            [
-                "58a83fb0eaa5e39c"
-            ]
-        ]
-    },
-    {
-        "id": "45b0660fe455f206",
-        "type": "function",
-        "z": "8c6f930882747645",
-        "g": "b3c73c66a9a23564",
-        "name": "evento ref fuera lims",
-        "func": "msg.payload = \"¡Referencia de \"+ msg.payload + \" Hz fuera de límites\";\nmsg.topic = \"Referencia\";\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1680,
-        "y": 320,
-        "wires": [
-            [
-                "6375a216d9ba350e"
-            ]
-        ]
-    },
-    {
-        "id": "6375a216d9ba350e",
-        "type": "link out",
-        "z": "8c6f930882747645",
-        "g": "b3c73c66a9a23564",
-        "name": "",
-        "links": [
-            "abe8a848.bbbd88",
-            "cbbbcd1c.7180e",
-            "204c251e.8264ca"
-        ],
-        "x": 1815,
-        "y": 320,
-        "wires": []
-    },
-    {
-        "id": "ec55b3d1c3b499b3",
-        "type": "switch",
-        "z": "8c6f930882747645",
-        "g": "b3c73c66a9a23564",
-        "name": "lims?",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "gt",
-                "v": "#:(memoryOnly)::C2S.Implicit.Max_Fwd_Speed",
-                "vt": "global"
-            },
-            {
-                "t": "lt",
-                "v": "C2S.Speed_Control.MinLimit",
-                "vt": "global"
-            },
-            {
-                "t": "btwn",
-                "v": "C2S.Speed_Control.MinLimit",
-                "vt": "global",
-                "v2": "#:(memoryOnly)::C2S.Implicit.Max_Fwd_Speed",
-                "v2t": "global"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 3,
-        "x": 1490,
-        "y": 360,
-        "wires": [
-            [
-                "45b0660fe455f206"
-            ],
-            [
-                "45b0660fe455f206"
-            ],
-            [
-                "7bf0b9b2e2fbe996",
-                "770489d7d8639fc6"
-            ]
-        ]
-    },
-    {
-        "id": "72c9ac9047c5a640",
-        "type": "change",
-        "z": "8c6f930882747645",
-        "g": "b3c73c66a9a23564",
-        "name": "ref",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "#:(memoryOnly)::Input.Operation.Reference",
-                "tot": "global"
-            },
-            {
-                "t": "set",
-                "p": "Topic",
-                "pt": "msg",
-                "to": "Operación normal",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1350,
-        "y": 400,
-        "wires": [
-            [
-                "ec55b3d1c3b499b3"
-            ]
-        ]
     },
     {
         "id": "d5eb026a704fd13b",
@@ -88872,7 +88338,7 @@
         "g": "797d0bfa791a4802",
         "name": "",
         "group": "2540c0d0.abd4d",
-        "order": 9,
+        "order": 5,
         "width": 2,
         "height": 1,
         "passthru": false,
@@ -88899,7 +88365,7 @@
         "g": "797d0bfa791a4802",
         "name": "",
         "group": "2540c0d0.abd4d",
-        "order": 10,
+        "order": 6,
         "width": 2,
         "height": 1,
         "passthru": false,
@@ -88927,7 +88393,7 @@
         "g": "797d0bfa791a4802",
         "name": "",
         "group": "2540c0d0.abd4d",
-        "order": 11,
+        "order": 7,
         "width": 2,
         "height": 1,
         "passthru": false,
@@ -95521,7 +94987,7 @@
         "label": "Δ Min [Hz]",
         "tooltip": "",
         "group": "3afcf0f2.7f9b6",
-        "order": 17,
+        "order": 16,
         "width": 3,
         "height": 1,
         "passthru": false,
@@ -95542,7 +95008,7 @@
         "z": "ebaf6b5134c2a666",
         "g": "cf985e84.c7693",
         "group": "3afcf0f2.7f9b6",
-        "order": 14,
+        "order": 15,
         "width": 3,
         "height": 1,
         "name": "Max",
@@ -95559,7 +95025,7 @@
         "z": "ebaf6b5134c2a666",
         "g": "cf985e84.c7693",
         "group": "3afcf0f2.7f9b6",
-        "order": 20,
+        "order": 17,
         "width": 3,
         "height": 1,
         "name": "Min",
@@ -95651,7 +95117,7 @@
         "label": "Banda muerta",
         "tooltip": "",
         "group": "3afcf0f2.7f9b6",
-        "order": 28,
+        "order": 13,
         "width": 6,
         "height": 1,
         "passthru": true,
@@ -97121,7 +96587,7 @@
         "z": "ebaf6b5134c2a666",
         "g": "cf985e84.c7693",
         "group": "3afcf0f2.7f9b6",
-        "order": 29,
+        "order": 14,
         "width": 6,
         "height": 1,
         "name": "",
@@ -97233,7 +96699,7 @@
         "z": "ebaf6b5134c2a666",
         "g": "cf985e84.c7693",
         "group": "3afcf0f2.7f9b6",
-        "order": 23,
+        "order": 18,
         "width": 3,
         "height": 1,
         "name": "",
@@ -98384,7 +97850,7 @@
         "z": "edcda77493e16eaa",
         "g": "acf6618644660324",
         "name": "Limpiar CARGA",
-        "func": "var ES = Object.values(flow.get(\"ES.EA.Funciones.Lista_Simple\"));\nvar status = ES.indexOf(\"CARGA\");\n\nif(status != -1){\n    return;\n} \nelse{\n    return {'payload':0};\n}",
+        "func": "var ES = Object.values(flow.get(\"ES.EA.Funciones.Lista_Simple\")||0);\nvar status = ES.indexOf(\"CARGA\");\n\nif(status != -1){\n    return;\n} \nelse{\n    return {'payload':0};\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -101164,7 +100630,7 @@
         "g": "2ceb8ec502cd9a4d",
         "name": "GraficoPrincipalDoubleSpeedControl",
         "group": "4026595aa6261291",
-        "order": 10,
+        "order": 9,
         "width": 12,
         "height": 4,
         "label": "chart",
@@ -101231,6 +100697,7 @@
         "id": "ae99f68c08d8c44b",
         "type": "link in",
         "z": "830fadc6f5236b78",
+        "d": true,
         "g": "2ceb8ec502cd9a4d",
         "name": "TendenciaPumpOffController",
         "links": [
@@ -103235,7 +102702,7 @@
             "f1f7bfacfe0754bf"
         ],
         "x": 215,
-        "y": 1160,
+        "y": 1080,
         "wires": [
             [
                 "ac76e7d8c12f4644"
@@ -103263,7 +102730,7 @@
         "to": "",
         "reg": false,
         "x": 390,
-        "y": 1160,
+        "y": 1080,
         "wires": [
             []
         ]
@@ -103289,7 +102756,7 @@
         "to": "",
         "reg": false,
         "x": 390,
-        "y": 1120,
+        "y": 1040,
         "wires": [
             []
         ]
@@ -103302,7 +102769,7 @@
         "name": "BotonArrancarPantallaPrincipal",
         "links": [
             "16aadb577f484ba8",
-            "e86ea0b1ab03e164"
+            "18e1ef5a1e4a3756"
         ],
         "x": 1975,
         "y": 1040,
@@ -103318,7 +102785,7 @@
             "0d7d36d911e2cbb3"
         ],
         "x": 215,
-        "y": 1120,
+        "y": 1040,
         "wires": [
             [
                 "337b45b67a7e1518"
@@ -105146,5 +104613,2998 @@
                 "4b5ea63c90788cca"
             ]
         ]
+    },
+    {
+        "id": "29bf75edf21541c4",
+        "type": "tab",
+        "label": "downholeControl",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "dc9f1a7a8ca59495",
+        "type": "subflow",
+        "name": "conversionDia",
+        "info": "",
+        "category": "conversion",
+        "in": [
+            {
+                "x": 40,
+                "y": 80,
+                "wires": [
+                    {
+                        "id": "f12b81fd13fcdb7c"
+                    }
+                ]
+            }
+        ],
+        "out": [
+            {
+                "x": 360,
+                "y": 80,
+                "wires": [
+                    {
+                        "id": "f12b81fd13fcdb7c",
+                        "port": 0
+                    }
+                ]
+            }
+        ],
+        "env": [],
+        "meta": {},
+        "color": "#DDAA99"
+    },
+    {
+        "id": "73546535bd657e5f",
+        "type": "group",
+        "z": "29bf75edf21541c4",
+        "name": "Boton Habilitar",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "ced12ce9e0972ff3",
+            "d0bd353a8ba51cbe",
+            "e1b89909d96fe783",
+            "d1a5e195d17f0ddc",
+            "c865addd37166432",
+            "62268d3397b6364b",
+            "b36558086ba90ba7",
+            "f6f1bab08276e2ab",
+            "68b3c91504be4a88",
+            "3abe5558b5b3860e",
+            "3f5376850997a18e",
+            "8b6795e7e350310b",
+            "bb22ffcb688c15d2"
+        ],
+        "x": 1354,
+        "y": 179,
+        "w": 1042,
+        "h": 222
+    },
+    {
+        "id": "abfc5c293f394682",
+        "type": "group",
+        "z": "29bf75edf21541c4",
+        "name": "LogicaDownholeControl",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "19b1b4eb161c6ff9",
+            "f3725f49b1e49b20",
+            "6a9062bd190db550",
+            "df8e483d5526c510",
+            "b6ccf7628a758b36",
+            "b862b007fadc3854",
+            "f29cf89058d2bf0c",
+            "c64adff573b33d8e",
+            "5ba3bd2da473a65e",
+            "f87215caf347b889",
+            "c35adde9b5af3493",
+            "136cc9da70140a0c",
+            "f90a82bb260e58f9",
+            "ddd09a126914e360",
+            "2f923bf00fd6503f",
+            "b56f728504cd4913",
+            "18e1ef5a1e4a3756",
+            "3327cfa838294b44",
+            "f46982b09d8c3604",
+            "6dbcf2d4b6e2c256",
+            "3b0a2770dbde331a",
+            "ebeff795103c0e85",
+            "820a4c65386459ee",
+            "acea7f0548a0c249",
+            "1c62e654a77531dc",
+            "1a13e58e8e1995f8",
+            "6cd860e1377cb2c3",
+            "c4a38461ecefdff9",
+            "ba4ade2274a727fa",
+            "264babaaa7723c2e",
+            "743c2eab596e36db"
+        ],
+        "x": 114,
+        "y": 179,
+        "w": 1182,
+        "h": 442
+    },
+    {
+        "id": "0e0b9759209dfb2f",
+        "type": "group",
+        "z": "29bf75edf21541c4",
+        "name": "Adquision de Valores",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "60e05cf6d23d5a62",
+            "da18049a93fd08ce",
+            "fabc8904f925bf1a",
+            "e73ea06d928d93fc",
+            "27b6e126d7be66ee",
+            "b653c185a1701b36",
+            "e7512774416a9544",
+            "2cb88eaf70893679",
+            "ef0728cdc37ecb09",
+            "72d9d930aa80e772",
+            "adf840b123b41585",
+            "15c1e0773b168946",
+            "9696f09381a60de7",
+            "58fbed31930cda5b",
+            "2c118930b46d3082",
+            "c4690bdaf9d079a9",
+            "053889d47fbf2da6",
+            "16c476702b10173c",
+            "7d2f07543d83329e",
+            "2533749331f9bc2f",
+            "3bf27a8f2e2e30a2",
+            "19ac13ad1ca1de44",
+            "accb539514128b36",
+            "43d15a613a33c867",
+            "17c6f6e24335ee15",
+            "b875bd4532122ff6",
+            "13f3a541f69a175b"
+        ],
+        "x": 114,
+        "y": 639,
+        "w": 792,
+        "h": 462
+    },
+    {
+        "id": "07f02b70dd167ae5",
+        "type": "group",
+        "z": "29bf75edf21541c4",
+        "name": "ConfirmaciónData",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "8a7b53380e66ae12",
+            "5a120549fd249ab0",
+            "665c4cd99575e4bf",
+            "6b38f10a1ac11889",
+            "4785a528a2131ee5",
+            "4d5f8287ab4ef699",
+            "56d051b1b04eb990",
+            "c0e57e8a82e6d05a"
+        ],
+        "x": 1154,
+        "y": 759,
+        "w": 912,
+        "h": 122
+    },
+    {
+        "id": "7d20e2da985dd33b",
+        "type": "group",
+        "z": "29bf75edf21541c4",
+        "name": "Boton Simulacion",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "cf0d339c5e409c52",
+            "806bf1b9eefa1219",
+            "69a889a8cd8d4fc7",
+            "9241969966300523",
+            "a142cd930e28191e",
+            "040b83ef654b39e2",
+            "0c8aedf11c2f50af",
+            "dc483fcd7b3e9cd8",
+            "57d5f08136554ce9",
+            "e006cde8fe53d84f",
+            "8379ae719076bc5b",
+            "b8bf43fb333c88c5",
+            "17f0cfed3a423e5f"
+        ],
+        "x": 1354,
+        "y": 519,
+        "w": 1042,
+        "h": 222
+    },
+    {
+        "id": "27eadf663f119ea4",
+        "type": "group",
+        "z": "29bf75edf21541c4",
+        "name": "Visual",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "1d57ea6914ce1d68",
+            "0e9820a7fbc95a17",
+            "5b99a9cea8e23964"
+        ],
+        "x": 1354,
+        "y": 419,
+        "w": 532,
+        "h": 82
+    },
+    {
+        "id": "5ad0dad73b82700f",
+        "type": "ui_group",
+        "name": "downholeControl",
+        "tab": "df82a9eeeb3d8a7c",
+        "order": 16,
+        "disp": true,
+        "width": "12",
+        "collapse": false
+    },
+    {
+        "id": "5c900a796b309f0b",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "20076456.83052c",
+        "order": 1,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "d3ba18a2bba0c576",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "20076456.83052c",
+        "order": 2,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "a305928829b65c86",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "20076456.83052c",
+        "order": 4,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "9769eabaa425d10c",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 5,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "8f898467e451341c",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 12,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "d26aa55b735532d3",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "e7f56f40f21d5182",
+        "order": 6,
+        "width": 9,
+        "height": 1
+    },
+    {
+        "id": "c48248ba4f5d14b4",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "e7f56f40f21d5182",
+        "order": 8,
+        "width": 9,
+        "height": 1
+    },
+    {
+        "id": "3997fcb1b2d81dd9",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "e7f56f40f21d5182",
+        "order": 10,
+        "width": 9,
+        "height": 1
+    },
+    {
+        "id": "c44e55d4b32847ae",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "e7f56f40f21d5182",
+        "order": 12,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "1cd54373f9577fa5",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "e7f56f40f21d5182",
+        "order": 13,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "0b1115a3b27e55e0",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "e7f56f40f21d5182",
+        "order": 15,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "4d8c1d80cd445b52",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "e7f56f40f21d5182",
+        "order": 17,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "04fac013d130a444",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "2540c0d0.abd4d",
+        "order": 1,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "82f9676de01e9f34",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "2540c0d0.abd4d",
+        "order": 2,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "08311e5f210dc865",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "2540c0d0.abd4d",
+        "order": 3,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "e7ee121f40d6f2b2",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "2540c0d0.abd4d",
+        "order": 4,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "9afb29487ddff60f",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "2540c0d0.abd4d",
+        "order": 8,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "2a69c3162661d101",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "4026595aa6261291",
+        "order": 8,
+        "width": 10,
+        "height": 1
+    },
+    {
+        "id": "a3cbeaefbb57950d",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "3afcf0f2.7f9b6",
+        "order": 4,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "f9c92ab8ade0a295",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "3afcf0f2.7f9b6",
+        "order": 6,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "4a537fe5ca18dbcf",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "3afcf0f2.7f9b6",
+        "order": 12,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "9828240c07de02f8",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "3afcf0f2.7f9b6",
+        "order": 19,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "e8c713644af07c48",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "3afcf0f2.7f9b6",
+        "order": 20,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "364b146f6102c17b",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "4f87eabd.cfaf34",
+        "order": 1,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "fc0f71fc7fab8d0e",
+        "type": "change",
+        "z": "2e27dea6.c4c362",
+        "g": "e1e65313b5eaa836",
+        "name": "downholeControl",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\t   \"group\":{\t       \"hide\":[\t           \"Otras_Funciones_de_Control_Habilitar_AR\",\t           \"Otras_Funciones_de_Control_Habilitar_AR2\",\t           \"Otras_Funciones_de_Control_Rampas_de_Aceleración\",\t           \"Otras_Funciones_de_Control_Tiempo_de_Rearme\",\t           \"Otras_Funciones_de_Control_No._de_Intentos\",\t           \"Otras_Funciones_de_Control_PumpOff\",\t           \"Otras_Funciones_de_Control_VelocidadDoble\",\t           \"Otras_Funciones_de_Control_surfaceControl\"\t       ],\t       \"show\":[\t           \"Otras_Funciones_de_Control_downholeControl\",\t           \"Otras_Funciones_de_Control_Nav_Bar\"\t       ]\t            }\t}",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 650,
+        "y": 1400,
+        "wires": [
+            [
+                "eb0d147d1d43c8ac"
+            ]
+        ]
+    },
+    {
+        "id": "f9aa5d06fd27dc2c",
+        "type": "rbe",
+        "z": "8c6f930882747645",
+        "g": "0e5fc807c9fa372e",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 690,
+        "y": 860,
+        "wires": [
+            [
+                "a9fa933108e9d4d1",
+                "faf280f1a56572a2"
+            ]
+        ]
+    },
+    {
+        "id": "444951382a661254",
+        "type": "comment",
+        "z": "8c6f930882747645",
+        "g": "0e5fc807c9fa372e",
+        "name": "FiltroPorProtección",
+        "info": "Si se está enviando un arranque siempre no\nfuncionan los protecciones debidamente",
+        "x": 710,
+        "y": 820,
+        "wires": []
+    },
+    {
+        "id": "927d0ac2c84471a7",
+        "type": "switch",
+        "z": "902fc438.e5d758",
+        "g": "6202107f.ed9aa",
+        "name": "lims?",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "gt",
+                "v": "C2S.Speed_Control.MaxLimitSPM",
+                "vt": "global"
+            },
+            {
+                "t": "lt",
+                "v": "C2S.Speed_Control.MinLimitSPM",
+                "vt": "global"
+            },
+            {
+                "t": "btwn",
+                "v": "C2S.Speed_Control.MaxLimitSPM",
+                "vt": "global",
+                "v2": "C2S.Speed_Control.MinLimitSPM",
+                "v2t": "global"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 3,
+        "x": 1050,
+        "y": 160,
+        "wires": [
+            [
+                "eb737131.03a4d"
+            ],
+            [
+                "eb737131.03a4d"
+            ],
+            [
+                "c1cf35bd.94c428",
+                "7035c5bac0894530"
+            ]
+        ]
+    },
+    {
+        "id": "7035c5bac0894530",
+        "type": "subflow:222e9a8dc8f57193",
+        "z": "902fc438.e5d758",
+        "g": "6202107f.ed9aa",
+        "name": "",
+        "env": [],
+        "x": 1220,
+        "y": 200,
+        "wires": [
+            [
+                "7d229a445e26240e"
+            ]
+        ]
+    },
+    {
+        "id": "ced12ce9e0972ff3",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "73546535bd657e5f",
+        "name": "habilitar",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.ControlDownhole.habilitado",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2220,
+        "y": 220,
+        "wires": [
+            [
+                "8b6795e7e350310b"
+            ]
+        ]
+    },
+    {
+        "id": "d0bd353a8ba51cbe",
+        "type": "link in",
+        "z": "29bf75edf21541c4",
+        "g": "73546535bd657e5f",
+        "name": "swichDownholeControl",
+        "links": [
+            "8b6795e7e350310b",
+            "ad87cee4.7dbb5"
+        ],
+        "x": 1395,
+        "y": 300,
+        "wires": [
+            [
+                "e1b89909d96fe783"
+            ]
+        ]
+    },
+    {
+        "id": "e1b89909d96fe783",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "73546535bd657e5f",
+        "name": "habilitado",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Control_functions.ControlDownhole.habilitado",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1500,
+        "y": 300,
+        "wires": [
+            [
+                "bb22ffcb688c15d2"
+            ]
+        ]
+    },
+    {
+        "id": "d1a5e195d17f0ddc",
+        "type": "ui_toast",
+        "z": "29bf75edf21541c4",
+        "g": "73546535bd657e5f",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "Aceptar",
+        "cancel": "Cancelar",
+        "raw": false,
+        "topic": "¿Desea Activar el Pump off controller?",
+        "name": "confirm",
+        "x": 1940,
+        "y": 260,
+        "wires": [
+            [
+                "c865addd37166432"
+            ]
+        ]
+    },
+    {
+        "id": "c865addd37166432",
+        "type": "switch",
+        "z": "29bf75edf21541c4",
+        "g": "73546535bd657e5f",
+        "name": "if",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Aceptar",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Cancelar",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 2090,
+        "y": 260,
+        "wires": [
+            [
+                "ced12ce9e0972ff3"
+            ],
+            [
+                "62268d3397b6364b"
+            ]
+        ]
+    },
+    {
+        "id": "62268d3397b6364b",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "73546535bd657e5f",
+        "name": "Deshabilitar",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.ControlDownhole.habilitado",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2230,
+        "y": 280,
+        "wires": [
+            [
+                "8b6795e7e350310b"
+            ]
+        ]
+    },
+    {
+        "id": "b36558086ba90ba7",
+        "type": "switch",
+        "z": "29bf75edf21541c4",
+        "g": "73546535bd657e5f",
+        "name": "actual",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1810,
+        "y": 300,
+        "wires": [
+            [
+                "d1a5e195d17f0ddc"
+            ],
+            [
+                "f6f1bab08276e2ab"
+            ]
+        ]
+    },
+    {
+        "id": "f6f1bab08276e2ab",
+        "type": "ui_toast",
+        "z": "29bf75edf21541c4",
+        "g": "73546535bd657e5f",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "Aceptar",
+        "cancel": "Cancelar",
+        "raw": false,
+        "topic": "¿Desea Desactivar el Pump off controller?",
+        "name": "confirm",
+        "x": 1940,
+        "y": 320,
+        "wires": [
+            [
+                "68b3c91504be4a88"
+            ]
+        ]
+    },
+    {
+        "id": "68b3c91504be4a88",
+        "type": "switch",
+        "z": "29bf75edf21541c4",
+        "g": "73546535bd657e5f",
+        "name": "if",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Aceptar",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Cancelar",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 2070,
+        "y": 320,
+        "wires": [
+            [
+                "3abe5558b5b3860e"
+            ],
+            [
+                "3f5376850997a18e"
+            ]
+        ]
+    },
+    {
+        "id": "3abe5558b5b3860e",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "73546535bd657e5f",
+        "name": "Deshabilitar",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.ControlDownhole.habilitado",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2230,
+        "y": 320,
+        "wires": [
+            [
+                "8b6795e7e350310b"
+            ]
+        ]
+    },
+    {
+        "id": "3f5376850997a18e",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "73546535bd657e5f",
+        "name": "habilitar",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.ControlDownhole.habilitado",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2220,
+        "y": 360,
+        "wires": [
+            [
+                "8b6795e7e350310b"
+            ]
+        ]
+    },
+    {
+        "id": "8b6795e7e350310b",
+        "type": "link out",
+        "z": "29bf75edf21541c4",
+        "g": "73546535bd657e5f",
+        "name": "mensajeConfirmacionhabilitarDownhole",
+        "links": [
+            "d0bd353a8ba51cbe"
+        ],
+        "x": 2355,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "bb22ffcb688c15d2",
+        "type": "ui_switch",
+        "z": "29bf75edf21541c4",
+        "g": "73546535bd657e5f",
+        "name": "",
+        "label": "Habilitar",
+        "tooltip": "",
+        "group": "5ad0dad73b82700f",
+        "order": 1,
+        "width": "3",
+        "height": "1",
+        "passthru": false,
+        "decouple": "true",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "x": 1660,
+        "y": 300,
+        "wires": [
+            [
+                "b36558086ba90ba7"
+            ]
+        ]
+    },
+    {
+        "id": "19b1b4eb161c6ff9",
+        "type": "function",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "logic",
+        "func": "var habilitado = global.get(\"Control_functions.ControlDownhole.habilitado\")||false;\nvar buttonComand = global.get(\"Control_functions.ControlDownhole.buttonComand\")||false;\nvar time = global.get(\"Control_functions.ControlDownhole.time\")||0;//tiempo para rearrancar\nvar state = global.get(\"Control_functions.ControlDownhole.state\") || \"Normal\";//estado general del control\nvar ctr = context.get(\"ctr\",\"memoryOnly\")||0;//contador interno\nvar At_Setpt_Spd = global.get(\"C2S.Drive_Status.At_Setpt_Spd\", \"memoryOnly\") || 0;//llegó a referencia el VSD\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\", \"memoryOnly\") || false;//comunicación con el drive\nvar contador,comando,color;//Variables Visualizadoras\nif (habilitado == true && buttonComand == true && comunicacion == true){\n    if (state == \"Disparo\"){\n        comando = false;//Dispare el equipo\n        if (At_Setpt_Spd == 0){\n            ctr = ctr + 1;//aumnetar el conteo\n        }else{\n            ctr = ctr;\n        }\n        contador = time - ctr;//visualizar de tiempo\n        if(ctr >= time){//cuando ya cumplio el tiempo\n            comando = true;\n            state = \"Normal\"; color = \"green\";\n            ctr = 0;\n        }else{\n            ctr = ctr;\n        }\n    } else if (state == \"Alarma\"){// estado de alarma\n        color = \"yellow\";\n        contador = 0;\n    } else if (state == \"Normal\"){\n        contador = 0;\n    }\n} else if (habilitado == true && buttonComand == false && comunicacion == true){//habilitado pero no arrancado\n    state = \"esperandoArranque\"\n    color = \"red\";\n    contador = 0;\n}else if(comunicacion == false){\n    state = \"falloComunicación\"\n    color = \"blue\";\n    contador = 0;\n}\nelse{//deshablitado\n    state = \"Deshabilitado\"\n    color = \"red\";\n    contador = 0;\n}\n// variables globales\nglobal.set(\"Control_functions.ControlDownhole.state\",state);\n// visualización\nnode.status({fill:color,shape:\"dot\",text:state});\n\ncontext.set(\"habilitado\", habilitado,\"memoryOnly\");\ncontext.set(\"time\", time,\"memoryOnly\");\ncontext.set(\"state\", state,\"memoryOnly\");\ncontext.set(\"ctr\", ctr,\"memoryOnly\");\ncontext.set(\"At_Setpt_Spd\", At_Setpt_Spd,\"memoryOnly\");\ncontext.set(\"comunicacion\", comunicacion,\"memoryOnly\");\nreturn [{payload:comando},{payload:state},{ payload:contador}];",
+        "outputs": 3,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 420,
+        "wires": [
+            [
+                "b862b007fadc3854",
+                "c64adff573b33d8e"
+            ],
+            [
+                "b56f728504cd4913",
+                "820a4c65386459ee"
+            ],
+            [
+                "f29cf89058d2bf0c"
+            ]
+        ]
+    },
+    {
+        "id": "f3725f49b1e49b20",
+        "type": "inject",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payloadType": "date",
+        "x": 240,
+        "y": 420,
+        "wires": [
+            [
+                "19b1b4eb161c6ff9"
+            ]
+        ]
+    },
+    {
+        "id": "60e05cf6d23d5a62",
+        "type": "ui_text_input",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "",
+        "label": "horas",
+        "tooltip": "",
+        "group": "5ad0dad73b82700f",
+        "order": 3,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": 300,
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 410,
+        "y": 700,
+        "wires": [
+            [
+                "e73ea06d928d93fc"
+            ]
+        ]
+    },
+    {
+        "id": "da18049a93fd08ce",
+        "type": "ui_text_input",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "",
+        "label": "minutos",
+        "tooltip": "",
+        "group": "5ad0dad73b82700f",
+        "order": 4,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": 300,
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 420,
+        "y": 740,
+        "wires": [
+            [
+                "27b6e126d7be66ee"
+            ]
+        ]
+    },
+    {
+        "id": "fabc8904f925bf1a",
+        "type": "ui_text_input",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "",
+        "label": "segundos",
+        "tooltip": "",
+        "group": "5ad0dad73b82700f",
+        "order": 5,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": 300,
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 420,
+        "y": 780,
+        "wires": [
+            [
+                "b653c185a1701b36"
+            ]
+        ]
+    },
+    {
+        "id": "e73ea06d928d93fc",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "horas",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::horas",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 590,
+        "y": 700,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "27b6e126d7be66ee",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "minutos",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::minutos",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 600,
+        "y": 740,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b653c185a1701b36",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "segundos",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::segundos",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 600,
+        "y": 780,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e7512774416a9544",
+        "type": "function",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "",
+        "func": "var seconds = global.get(\"Control_functions.ControlDownhole.time\")||0;\n\nvar hour = Math.floor(seconds / 3600);\nhour = parseInt((hour < 10) ? '0' + hour : hour);\nvar minute = Math.floor((seconds / 60) % 60);\nminute = parseInt((minute < 10) ? '0' + minute : minute);\nvar second = seconds % 60;\nsecond = parseInt((second < 10) ? '0' + second : second);\n\n\ncontext.set(\"seconds\", seconds,\"memoryOnly\")\ncontext.set(\"hour\", hour,\"memoryOnly\")\ncontext.set(\"minute\", minute,\"memoryOnly\")\ncontext.set(\"second\", second,\"memoryOnly\")\n\nhour = { payload: hour};\nminute = { payload: minute};\nsecond = { payload: second};\n\nreturn [hour, minute, second];",
+        "outputs": 3,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 260,
+        "y": 740,
+        "wires": [
+            [
+                "60e05cf6d23d5a62"
+            ],
+            [
+                "da18049a93fd08ce"
+            ],
+            [
+                "fabc8904f925bf1a"
+            ]
+        ]
+    },
+    {
+        "id": "8a7b53380e66ae12",
+        "type": "ui_button",
+        "z": "29bf75edf21541c4",
+        "g": "07f02b70dd167ae5",
+        "name": "",
+        "group": "5ad0dad73b82700f",
+        "order": 14,
+        "width": "2",
+        "height": "1",
+        "passthru": false,
+        "label": "Actualizar",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1240,
+        "y": 820,
+        "wires": [
+            [
+                "5a120549fd249ab0"
+            ]
+        ]
+    },
+    {
+        "id": "2cb88eaf70893679",
+        "type": "link in",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "adquisionTiempoDownholeController",
+        "links": [
+            "ad87cee4.7dbb5",
+            "56d051b1b04eb990",
+            "c0e57e8a82e6d05a"
+        ],
+        "x": 155,
+        "y": 740,
+        "wires": [
+            [
+                "e7512774416a9544",
+                "58fbed31930cda5b",
+                "2c118930b46d3082",
+                "16c476702b10173c"
+            ]
+        ]
+    },
+    {
+        "id": "ef0728cdc37ecb09",
+        "type": "inject",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 220,
+        "y": 680,
+        "wires": [
+            [
+                "e7512774416a9544"
+            ]
+        ]
+    },
+    {
+        "id": "c029b9bec80247e8",
+        "type": "inject",
+        "z": "8c6f930882747645",
+        "g": "aecdec289959a88b",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 280,
+        "y": 700,
+        "wires": [
+            [
+                "64b02a4c080ef7e5"
+            ]
+        ]
+    },
+    {
+        "id": "665c4cd99575e4bf",
+        "type": "ui_toast",
+        "z": "29bf75edf21541c4",
+        "g": "07f02b70dd167ae5",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "red",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "Aceptar",
+        "cancel": "Cancelar",
+        "raw": false,
+        "topic": "",
+        "name": "SPM",
+        "x": 1510,
+        "y": 820,
+        "wires": [
+            [
+                "6b38f10a1ac11889"
+            ]
+        ]
+    },
+    {
+        "id": "6b38f10a1ac11889",
+        "type": "switch",
+        "z": "29bf75edf21541c4",
+        "g": "07f02b70dd167ae5",
+        "name": "if",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Aceptar",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Cancelar",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1630,
+        "y": 820,
+        "wires": [
+            [
+                "4785a528a2131ee5"
+            ],
+            [
+                "56d051b1b04eb990"
+            ]
+        ]
+    },
+    {
+        "id": "5a120549fd249ab0",
+        "type": "function",
+        "z": "29bf75edf21541c4",
+        "g": "07f02b70dd167ae5",
+        "name": "Mensaje",
+        "func": "\nmsg.payload = \"¿Desea Actualizar Datos DownholeControl?\";\nmsg.topic = \"Confirmación\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1380,
+        "y": 820,
+        "wires": [
+            [
+                "665c4cd99575e4bf"
+            ]
+        ]
+    },
+    {
+        "id": "4785a528a2131ee5",
+        "type": "function",
+        "z": "29bf75edf21541c4",
+        "g": "07f02b70dd167ae5",
+        "name": "ActualizarData",
+        "func": "// adquision del tiempo \nvar segundos = flow.get(\"segundos\",\"memoryOnly\")||0;\nvar minutos = flow.get(\"minutos\",\"memoryOnly\")||0;\nvar horas = flow.get(\"horas\",\"memoryOnly\")||0;\nvar time = horas*3600+(minutos*60)+segundos;\nglobal.set(\"Control_functions.ControlDownhole.time\",time);\n// adquisión de los niveles de alarma\nvar L = flow.get(\"L\",\"memoryOnly\")||0;\nvar LL = flow.get(\"LL\",\"memoryOnly\")||0; \nvar intentosHMI = flow.get(\"intentosHMI\",\"memoryOnly\")||0;\nglobal.set(\"Control_functions.ControlDownhole.L\", L);\nglobal.set(\"Control_functions.ControlDownhole.LL\", LL);\nglobal.set(\"Control_functions.ControlDownhole.intentosHMI\", intentosHMI);\nif(segundos == 0 && minutos == 0 && segundos == 0 && L == 0 && LL == 0){\n    msg.payload = \"Los valores seteados estan en Cero\";\n    msg.topic = \"Alerta\";\n}else{\n    msg.payload = \"Valores Guardados\";\n    msg.topic = \"Guardando\";\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1800,
+        "y": 800,
+        "wires": [
+            [
+                "4d5f8287ab4ef699",
+                "c0e57e8a82e6d05a"
+            ]
+        ]
+    },
+    {
+        "id": "4d5f8287ab4ef699",
+        "type": "ui_toast",
+        "z": "29bf75edf21541c4",
+        "g": "07f02b70dd167ae5",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "topic": "",
+        "name": "alert",
+        "x": 1990,
+        "y": 800,
+        "wires": []
+    },
+    {
+        "id": "72d9d930aa80e772",
+        "type": "ui_text_input",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "LL",
+        "label": "LL",
+        "tooltip": "",
+        "group": "5ad0dad73b82700f",
+        "order": 6,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": 300,
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 410,
+        "y": 840,
+        "wires": [
+            [
+                "adf840b123b41585",
+                "7d2f07543d83329e"
+            ]
+        ]
+    },
+    {
+        "id": "adf840b123b41585",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "LL",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::LL",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 590,
+        "y": 840,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "15c1e0773b168946",
+        "type": "ui_text_input",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "L",
+        "label": "L",
+        "tooltip": "",
+        "group": "5ad0dad73b82700f",
+        "order": 7,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": 300,
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 390,
+        "y": 920,
+        "wires": [
+            [
+                "9696f09381a60de7",
+                "19ac13ad1ca1de44"
+            ]
+        ]
+    },
+    {
+        "id": "9696f09381a60de7",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "L",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::L",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 530,
+        "y": 920,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "58fbed31930cda5b",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "LL",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Control_functions.ControlDownhole.LL",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 250,
+        "y": 840,
+        "wires": [
+            [
+                "72d9d930aa80e772"
+            ]
+        ]
+    },
+    {
+        "id": "2c118930b46d3082",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "L",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Control_functions.ControlDownhole.L",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 250,
+        "y": 920,
+        "wires": [
+            [
+                "15c1e0773b168946"
+            ]
+        ]
+    },
+    {
+        "id": "cf0d339c5e409c52",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "7d20e2da985dd33b",
+        "name": "simulacion",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.ControlDownhole.simulacion",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2230,
+        "y": 560,
+        "wires": [
+            [
+                "b8bf43fb333c88c5"
+            ]
+        ]
+    },
+    {
+        "id": "806bf1b9eefa1219",
+        "type": "link in",
+        "z": "29bf75edf21541c4",
+        "g": "7d20e2da985dd33b",
+        "name": "swichDownholeControl",
+        "links": [
+            "b8bf43fb333c88c5",
+            "ad87cee4.7dbb5"
+        ],
+        "x": 1395,
+        "y": 640,
+        "wires": [
+            [
+                "69a889a8cd8d4fc7"
+            ]
+        ]
+    },
+    {
+        "id": "69a889a8cd8d4fc7",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "7d20e2da985dd33b",
+        "name": "habilitado",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Control_functions.ControlDownhole.simulacion",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1500,
+        "y": 640,
+        "wires": [
+            [
+                "17f0cfed3a423e5f"
+            ]
+        ]
+    },
+    {
+        "id": "9241969966300523",
+        "type": "ui_toast",
+        "z": "29bf75edf21541c4",
+        "g": "7d20e2da985dd33b",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "Aceptar",
+        "cancel": "Cancelar",
+        "raw": false,
+        "topic": "¿Desea Simular?",
+        "name": "confirm",
+        "x": 1940,
+        "y": 600,
+        "wires": [
+            [
+                "a142cd930e28191e"
+            ]
+        ]
+    },
+    {
+        "id": "a142cd930e28191e",
+        "type": "switch",
+        "z": "29bf75edf21541c4",
+        "g": "7d20e2da985dd33b",
+        "name": "if",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Aceptar",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Cancelar",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 2090,
+        "y": 600,
+        "wires": [
+            [
+                "cf0d339c5e409c52"
+            ],
+            [
+                "040b83ef654b39e2"
+            ]
+        ]
+    },
+    {
+        "id": "040b83ef654b39e2",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "7d20e2da985dd33b",
+        "name": "Deshabilitar",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.ControlDownhole.simulacion",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2230,
+        "y": 620,
+        "wires": [
+            [
+                "b8bf43fb333c88c5"
+            ]
+        ]
+    },
+    {
+        "id": "0c8aedf11c2f50af",
+        "type": "switch",
+        "z": "29bf75edf21541c4",
+        "g": "7d20e2da985dd33b",
+        "name": "actual",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1810,
+        "y": 640,
+        "wires": [
+            [
+                "9241969966300523"
+            ],
+            [
+                "dc483fcd7b3e9cd8"
+            ]
+        ]
+    },
+    {
+        "id": "dc483fcd7b3e9cd8",
+        "type": "ui_toast",
+        "z": "29bf75edf21541c4",
+        "g": "7d20e2da985dd33b",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "Aceptar",
+        "cancel": "Cancelar",
+        "raw": false,
+        "topic": "¿Desea Desactivar Simulacion?",
+        "name": "confirm",
+        "x": 1940,
+        "y": 660,
+        "wires": [
+            [
+                "57d5f08136554ce9"
+            ]
+        ]
+    },
+    {
+        "id": "57d5f08136554ce9",
+        "type": "switch",
+        "z": "29bf75edf21541c4",
+        "g": "7d20e2da985dd33b",
+        "name": "if",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Aceptar",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Cancelar",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 2070,
+        "y": 660,
+        "wires": [
+            [
+                "e006cde8fe53d84f"
+            ],
+            [
+                "8379ae719076bc5b"
+            ]
+        ]
+    },
+    {
+        "id": "e006cde8fe53d84f",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "7d20e2da985dd33b",
+        "name": "Deshabilitar",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.ControlDownhole.simulacion",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2230,
+        "y": 660,
+        "wires": [
+            [
+                "b8bf43fb333c88c5"
+            ]
+        ]
+    },
+    {
+        "id": "8379ae719076bc5b",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "7d20e2da985dd33b",
+        "name": "habilitar",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.ControlDownhole.simulacion",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2220,
+        "y": 700,
+        "wires": [
+            [
+                "b8bf43fb333c88c5"
+            ]
+        ]
+    },
+    {
+        "id": "b8bf43fb333c88c5",
+        "type": "link out",
+        "z": "29bf75edf21541c4",
+        "g": "7d20e2da985dd33b",
+        "name": "mensajeConfirmacionhabilitarDownhole",
+        "links": [
+            "806bf1b9eefa1219"
+        ],
+        "x": 2355,
+        "y": 620,
+        "wires": []
+    },
+    {
+        "id": "17f0cfed3a423e5f",
+        "type": "ui_switch",
+        "z": "29bf75edf21541c4",
+        "g": "7d20e2da985dd33b",
+        "name": "",
+        "label": "Simulación",
+        "tooltip": "",
+        "group": "5ad0dad73b82700f",
+        "order": 2,
+        "width": "3",
+        "height": "1",
+        "passthru": false,
+        "decouple": "true",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "x": 1650,
+        "y": 640,
+        "wires": [
+            [
+                "0c8aedf11c2f50af"
+            ]
+        ]
+    },
+    {
+        "id": "1d57ea6914ce1d68",
+        "type": "ui_slider",
+        "z": "29bf75edf21541c4",
+        "g": "27eadf663f119ea4",
+        "name": "",
+        "label": "% Simulación",
+        "tooltip": "",
+        "group": "5ad0dad73b82700f",
+        "order": 9,
+        "width": "3",
+        "height": "1",
+        "passthru": true,
+        "outs": "all",
+        "topic": "topic",
+        "topicType": "msg",
+        "min": 0,
+        "max": "100",
+        "step": 1,
+        "x": 1460,
+        "y": 460,
+        "wires": [
+            [
+                "0e9820a7fbc95a17"
+            ]
+        ]
+    },
+    {
+        "id": "0e9820a7fbc95a17",
+        "type": "function",
+        "z": "29bf75edf21541c4",
+        "g": "27eadf663f119ea4",
+        "name": "simulacion",
+        "func": "var simulacion = global.get(\"Control_functions.ControlDownhole.simulacion\")||false;\ncontext.set(\"simulacion\", simulacion,\"memoryOnly\");\nif(simulacion == true){\n    context.set(\"fillage\",msg.payload,\"memoryOnly\");\n    global.set(\"Control_functions.ControlDownhole.Fillage\",msg.payload);\n    return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1630,
+        "y": 460,
+        "wires": [
+            [
+                "5b99a9cea8e23964"
+            ]
+        ]
+    },
+    {
+        "id": "6a9062bd190db550",
+        "type": "function",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "DeterminarDisparo",
+        "func": "var habilitado = global.get(\"Control_functions.ControlDownhole.habilitado\") || false;\nvar LL = global.get(\"Control_functions.ControlDownhole.LL\") || 0;\nvar L = global.get(\"Control_functions.ControlDownhole.L\") || 0;\nvar Fillage = global.get(\"Control_functions.ControlDownhole.Fillage\") || 0;\nvar state = global.get(\"Control_functions.ControlDownhole.state\") || \"Normal\";\nvar intentosHMI = global.get(\"Control_functions.ControlDownhole.intentosHMI\") || 0;\nvar intentos = context.get(\"intentos\",\"memoryOnly\")||0;\nvar color;\nif(habilitado == true){\n    if (Fillage <= LL && state != \"Disparo\"){//aumentar intento\n        intentos = intentos + 1;\n        global.set(\"Control_functions.ControlDownhole.intentos\", intentos);\n        if (intentos >= intentosHMI){//genere el disparo\n            state = \"Disparo\";color = \"red\";\n            msg.payload = \"Disparo Poc DownholeControl\";\n            msg.topic = \"Poc Control\";\n            intentos = 0; // setee el contador\n        }\n    }else if(Fillage <= L && Fillage > LL){//Alarma por bajo \n        state = \"Alarma\";color = \"yellow\";\n        msg.payload = \"Alarma Poc DownholeControl\";\n        msg.topic = \"Poc Control\";\n    } else if (state == \"Disparo\"){\n        state = \"Disparo\";color = \"red\";\n    }else{\n        state = \"Normal\";color = \"green\";\n    }\n    node.status({fill:color,shape:\"ring\",text:state});\n    context.set(\"intentos\", intentos,\"memoryOnly\");\n    context.set(\"intentosHMI\", intentosHMI,\"memoryOnly\");\n    context.set(\"mensaje\", msg.payload,\"memoryOnly\");\n    context.set(\"L\", L,\"memoryOnly\");\n    context.set(\"LL\", LL,\"memoryOnly\");\n    context.set(\"state\", state,\"memoryOnly\");\n    context.set(\"Fillage\", Fillage,\"memoryOnly\");\n    // variables globales\n    global.set(\"Control_functions.ControlDownhole.state\",state);\n}else{\n    //si esta deshablitado\n    context.set(\"intentos\",0,\"memoryOnly\");//setear el contador\n    node.status({fill:\"red\",shape:\"ring\",text:habilitado});\n}\nstate = { payload: state}\nintentos = {payload: intentos}\nreturn [state,intentos];\n\n",
+        "outputs": 2,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 260,
+        "wires": [
+            [
+                "f90a82bb260e58f9"
+            ],
+            [
+                "ddd09a126914e360"
+            ]
+        ]
+    },
+    {
+        "id": "df8e483d5526c510",
+        "type": "inject",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payloadType": "date",
+        "x": 250,
+        "y": 260,
+        "wires": [
+            [
+                "6a9062bd190db550"
+            ]
+        ]
+    },
+    {
+        "id": "c4690bdaf9d079a9",
+        "type": "ui_text_input",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "intentosHMI",
+        "label": "#Intentos",
+        "tooltip": "",
+        "group": "5ad0dad73b82700f",
+        "order": 8,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": 300,
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 410,
+        "y": 1020,
+        "wires": [
+            [
+                "053889d47fbf2da6",
+                "b875bd4532122ff6"
+            ]
+        ]
+    },
+    {
+        "id": "053889d47fbf2da6",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "intentosHMI",
+        "rules": [
+            {
+                "t": "set",
+                "p": "#:(memoryOnly)::intentosHMI",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 610,
+        "y": 1020,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "16c476702b10173c",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "L",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Control_functions.ControlDownhole.intentosHMI",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 250,
+        "y": 1020,
+        "wires": [
+            [
+                "c4690bdaf9d079a9"
+            ]
+        ]
+    },
+    {
+        "id": "5b99a9cea8e23964",
+        "type": "ui_gauge",
+        "z": "29bf75edf21541c4",
+        "g": "27eadf663f119ea4",
+        "name": "",
+        "group": "5ad0dad73b82700f",
+        "order": 13,
+        "width": "2",
+        "height": "2",
+        "gtype": "gage",
+        "title": "LLenado",
+        "label": "%",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#ff0000",
+            "#e6e600",
+            "#00ff80"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "x": 1800,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "b6ccf7628a758b36",
+        "type": "debug",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": true,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "payload",
+        "statusType": "auto",
+        "x": 690,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "b862b007fadc3854",
+        "type": "debug",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "comando",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": true,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "payload",
+        "statusType": "auto",
+        "x": 560,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "3fe6ba310d6fe1c0",
+        "type": "subflow:dc9f1a7a8ca59495",
+        "z": "8c6f930882747645",
+        "g": "0e5fc807c9fa372e",
+        "x": 740,
+        "y": 1020,
+        "wires": [
+            [
+                "dcf5c1f29197f61c",
+                "6511dbcdc6360502"
+            ]
+        ]
+    },
+    {
+        "id": "f29cf89058d2bf0c",
+        "type": "subflow:dc9f1a7a8ca59495",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "",
+        "x": 500,
+        "y": 540,
+        "wires": [
+            [
+                "b6ccf7628a758b36",
+                "2f923bf00fd6503f"
+            ]
+        ]
+    },
+    {
+        "id": "c64adff573b33d8e",
+        "type": "rbe",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 550,
+        "y": 380,
+        "wires": [
+            [
+                "5ba3bd2da473a65e"
+            ]
+        ]
+    },
+    {
+        "id": "5ba3bd2da473a65e",
+        "type": "switch",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 670,
+        "y": 380,
+        "wires": [
+            [
+                "f87215caf347b889"
+            ],
+            [
+                "c35adde9b5af3493"
+            ]
+        ]
+    },
+    {
+        "id": "f87215caf347b889",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "Arranque",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Start",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Basic",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 840,
+        "y": 360,
+        "wires": [
+            [
+                "136cc9da70140a0c"
+            ]
+        ]
+    },
+    {
+        "id": "c35adde9b5af3493",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "Pare",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Stop",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Basic",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 830,
+        "y": 400,
+        "wires": [
+            [
+                "136cc9da70140a0c"
+            ]
+        ]
+    },
+    {
+        "id": "136cc9da70140a0c",
+        "type": "subflow:c8b77ff3.ab501",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "",
+        "x": 1040,
+        "y": 360,
+        "wires": [
+            [],
+            [
+                "c4a38461ecefdff9"
+            ]
+        ]
+    },
+    {
+        "id": "f90a82bb260e58f9",
+        "type": "debug",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "estado",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": true,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "payload",
+        "statusType": "auto",
+        "x": 590,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "ddd09a126914e360",
+        "type": "ui_text",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "group": "5ad0dad73b82700f",
+        "order": 10,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "#Intentos",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "x": 600,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "2f923bf00fd6503f",
+        "type": "ui_text",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "group": "5ad0dad73b82700f",
+        "order": 11,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "tiempo",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "x": 670,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "b56f728504cd4913",
+        "type": "ui_text",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "group": "5ad0dad73b82700f",
+        "order": 12,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "estado",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "x": 570,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "6dbcf2d4b6e2c256",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "buttonComandOn",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.ControlDownhole.buttonComand",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 290,
+        "y": 500,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "18e1ef5a1e4a3756",
+        "type": "link in",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "ArrancarDownholeControl",
+        "links": [
+            "0d7d36d911e2cbb3"
+        ],
+        "x": 155,
+        "y": 500,
+        "wires": [
+            [
+                "6dbcf2d4b6e2c256"
+            ]
+        ]
+    },
+    {
+        "id": "3327cfa838294b44",
+        "type": "link in",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "DetenerDonwholeControl",
+        "links": [
+            "f1f7bfacfe0754bf"
+        ],
+        "x": 155,
+        "y": 560,
+        "wires": [
+            [
+                "f46982b09d8c3604"
+            ]
+        ]
+    },
+    {
+        "id": "f46982b09d8c3604",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "buttonComandOff",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.ControlDownhole.buttonComand",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 290,
+        "y": 560,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ebeff795103c0e85",
+        "type": "function",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "Alarma",
+        "func": "msg.payload = \"Alarma % Llenado\";\nmsg.topic = \"DownholeControl\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 860,
+        "y": 440,
+        "wires": [
+            [
+                "3b0a2770dbde331a"
+            ]
+        ]
+    },
+    {
+        "id": "3b0a2770dbde331a",
+        "type": "link out",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "",
+        "links": [
+            "52f1e35a6b450a62",
+            "8eacc47.e177438"
+        ],
+        "x": 955,
+        "y": 440,
+        "wires": []
+    },
+    {
+        "id": "820a4c65386459ee",
+        "type": "rbe",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 570,
+        "y": 420,
+        "wires": [
+            [
+                "acea7f0548a0c249"
+            ]
+        ]
+    },
+    {
+        "id": "acea7f0548a0c249",
+        "type": "switch",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Alarma",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Disparo",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 710,
+        "y": 460,
+        "wires": [
+            [
+                "ebeff795103c0e85"
+            ],
+            [
+                "1c62e654a77531dc"
+            ]
+        ]
+    },
+    {
+        "id": "1c62e654a77531dc",
+        "type": "function",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "Disparo",
+        "func": "msg.payload = \"Disparo % Llenado\";\nmsg.topic = \"DownholeControl\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 860,
+        "y": 480,
+        "wires": [
+            [
+                "1a13e58e8e1995f8"
+            ]
+        ]
+    },
+    {
+        "id": "1a13e58e8e1995f8",
+        "type": "link out",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 955,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "56d051b1b04eb990",
+        "type": "link out",
+        "z": "29bf75edf21541c4",
+        "g": "07f02b70dd167ae5",
+        "name": "CancelaradquisionTiempoDownholeController",
+        "links": [
+            "2cb88eaf70893679"
+        ],
+        "x": 1715,
+        "y": 840,
+        "wires": []
+    },
+    {
+        "id": "c0e57e8a82e6d05a",
+        "type": "link out",
+        "z": "29bf75edf21541c4",
+        "g": "07f02b70dd167ae5",
+        "name": "ActualizarAdquisionTiempoDownholeController",
+        "links": [
+            "2cb88eaf70893679"
+        ],
+        "x": 1955,
+        "y": 840,
+        "wires": []
+    },
+    {
+        "id": "7d2f07543d83329e",
+        "type": "function",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "limites",
+        "func": "var entrada = msg.payload;\nif(entrada < 0 || entrada > 100){\n    // no se encuentra en el rango\n    msg.payload = 0\n    return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 510,
+        "y": 880,
+        "wires": [
+            [
+                "72d9d930aa80e772",
+                "3bf27a8f2e2e30a2"
+            ]
+        ]
+    },
+    {
+        "id": "2533749331f9bc2f",
+        "type": "ui_toast",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "topic": "",
+        "name": "",
+        "x": 800,
+        "y": 880,
+        "wires": []
+    },
+    {
+        "id": "3bf27a8f2e2e30a2",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "msg",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Límite por Fuera de Rango",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Limite",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 650,
+        "y": 880,
+        "wires": [
+            [
+                "2533749331f9bc2f"
+            ]
+        ]
+    },
+    {
+        "id": "19ac13ad1ca1de44",
+        "type": "function",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "limites",
+        "func": "var entrada = msg.payload;\nif(entrada < 0 || entrada > 100){\n    // no se encuentra en el rango\n    msg.payload = 0\n    return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 510,
+        "y": 960,
+        "wires": [
+            [
+                "accb539514128b36",
+                "15c1e0773b168946"
+            ]
+        ]
+    },
+    {
+        "id": "accb539514128b36",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "msg",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Límite por Fuera de Rango",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Limite",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 650,
+        "y": 960,
+        "wires": [
+            [
+                "43d15a613a33c867"
+            ]
+        ]
+    },
+    {
+        "id": "43d15a613a33c867",
+        "type": "ui_toast",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "topic": "",
+        "name": "",
+        "x": 800,
+        "y": 960,
+        "wires": []
+    },
+    {
+        "id": "17c6f6e24335ee15",
+        "type": "ui_toast",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "topic": "",
+        "name": "",
+        "x": 800,
+        "y": 1060,
+        "wires": []
+    },
+    {
+        "id": "b875bd4532122ff6",
+        "type": "function",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "limites",
+        "func": "var entrada = msg.payload;\nif(entrada <= 0 ){\n    // no se encuentra en el rango\n    msg.payload = 1\n    return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 510,
+        "y": 1060,
+        "wires": [
+            [
+                "13f3a541f69a175b",
+                "c4690bdaf9d079a9"
+            ]
+        ]
+    },
+    {
+        "id": "13f3a541f69a175b",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "0e0b9759209dfb2f",
+        "name": "msg",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "No se permiten Negativos",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Limite",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 650,
+        "y": 1060,
+        "wires": [
+            [
+                "17c6f6e24335ee15"
+            ]
+        ]
+    },
+    {
+        "id": "c4a38461ecefdff9",
+        "type": "switch",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "cont",
+                "v": "exito",
+                "vt": "str"
+            },
+            {
+                "t": "cont",
+                "v": "fallid",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1070,
+        "y": 420,
+        "wires": [
+            [
+                "ba4ade2274a727fa"
+            ],
+            [
+                "743c2eab596e36db"
+            ]
+        ]
+    },
+    {
+        "id": "ba4ade2274a727fa",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "Exitoso",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "Arranque exitoso",
+                "fromt": "str",
+                "to": "Arranque local exitoso  Control de Fondo",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "Parada exitosa  ",
+                "fromt": "str",
+                "to": "Parada local exitosa Control de Fondo",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1200,
+        "y": 380,
+        "wires": [
+            [
+                "6cd860e1377cb2c3"
+            ]
+        ]
+    },
+    {
+        "id": "743c2eab596e36db",
+        "type": "change",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "Fallido",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "Arranque fallido",
+                "fromt": "str",
+                "to": "Arranque local fallido  Control de Fondo",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "Parada fallida",
+                "fromt": "str",
+                "to": "Parada local fallida Control de Fondo",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1150,
+        "y": 480,
+        "wires": [
+            [
+                "264babaaa7723c2e"
+            ]
+        ]
+    },
+    {
+        "id": "6cd860e1377cb2c3",
+        "type": "link out",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "",
+        "links": [
+            "207ea8ce.3dea68",
+            "2da816b7.b2be9a"
+        ],
+        "x": 1255,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "264babaaa7723c2e",
+        "type": "link out",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 1235,
+        "y": 480,
+        "wires": []
     }
 ]
