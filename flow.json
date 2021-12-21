@@ -3363,7 +3363,9 @@
             "3fe6ba310d6fe1c0"
         ],
         "x": 154,
-        "y": 779
+        "y": 779,
+        "w": 1132,
+        "h": 342
     },
     {
         "id": "99fd9c5cbd90ceb5",
@@ -3380,7 +3382,9 @@
             "5e3e278f18c43297"
         ],
         "x": 154,
-        "y": 1159
+        "y": 1159,
+        "w": 492,
+        "h": 122
     },
     {
         "id": "aecdec289959a88b",
@@ -3410,7 +3414,9 @@
             "c029b9bec80247e8"
         ],
         "x": 154,
-        "y": 459
+        "y": 459,
+        "w": 1092,
+        "h": 282
     },
     {
         "id": "6c6732761a2613b5",
@@ -3464,9 +3470,7 @@
             "3f59808d6a892b13"
         ],
         "x": 534,
-        "y": 159,
-        "w": 652,
-        "h": 242
+        "y": 159
     },
     {
         "id": "8330e7a653863e55",
@@ -3484,9 +3488,7 @@
             "8b3d9fac296bfda2"
         ],
         "x": 34,
-        "y": 159,
-        "w": 482,
-        "h": 142
+        "y": 159
     },
     {
         "id": "7f4726c248df075a",
@@ -3514,9 +3516,7 @@
             "0d2386914381736d"
         ],
         "x": 14,
-        "y": 419,
-        "w": 592,
-        "h": 382
+        "y": 419
     },
     {
         "id": "1ec8ef96430984c9",
@@ -3537,9 +3537,7 @@
             "ad10672d9f73d738"
         ],
         "x": 14,
-        "y": 819,
-        "w": 652,
-        "h": 122
+        "y": 819
     },
     {
         "id": "b1331148614d9c76",
@@ -3558,9 +3556,7 @@
             "ec85fc31e23ddeeb"
         ],
         "x": 4,
-        "y": 939,
-        "w": 682,
-        "h": 82
+        "y": 939
     },
     {
         "id": "c6e9f26a4dee8c1e",
@@ -3765,9 +3761,7 @@
             "70be0aad67f5cb13"
         ],
         "x": 34,
-        "y": 19,
-        "w": 1472,
-        "h": 522
+        "y": 19
     },
     {
         "id": "bcc9aec3d4bdf28a",
@@ -3833,7 +3827,9 @@
             "a0b90b4f54fbae9f"
         ],
         "x": 674,
-        "y": 1159
+        "y": 1159,
+        "w": 1142,
+        "h": 222
     },
     {
         "id": "9ff47da5fe193161",
@@ -3916,7 +3912,9 @@
             "d5eb026a704fd13b"
         ],
         "x": 154,
-        "y": 179
+        "y": 179,
+        "w": 1392,
+        "h": 162
     },
     {
         "id": "e4cabd2892b5651b",
@@ -4277,11 +4275,16 @@
             "a387a465de75d21a",
             "4b5ea63c90788cca",
             "e86ea0b1ab03e164",
-            "eae27d6a68cc5bf0"
+            "eae27d6a68cc5bf0",
+            "42e694048a914f76",
+            "50d1e356cfda9a55",
+            "7bc22b3b6220fa1e",
+            "a4adb02d388732ad",
+            "598116128905345c"
         ],
         "x": 14,
         "y": 719,
-        "w": 1362,
+        "w": 1382,
         "h": 382
     },
     {
@@ -4310,11 +4313,16 @@
             "180c4a75cf5b98c4",
             "ea0d64d904047243",
             "2eb59ddc78afed60",
-            "69171dd71f370e58"
+            "69171dd71f370e58",
+            "445d1f402aab1a72",
+            "d10003c2b00dd1d9",
+            "76910366cfe3e521",
+            "cc02647885cf85e3",
+            "e665500c8212a516"
         ],
         "x": 14,
         "y": 119,
-        "w": 852,
+        "w": 1062,
         "h": 282
     },
     {
@@ -4430,7 +4438,7 @@
         ],
         "x": 114,
         "y": 639,
-        "w": 802,
+        "w": 792,
         "h": 462
     },
     {
@@ -50228,7 +50236,9 @@
             "aca963ae8827c5bc",
             "d5a38b1725c19aab",
             "6fb7736af2631081",
-            "6cd860e1377cb2c3"
+            "6cd860e1377cb2c3",
+            "cc02647885cf85e3",
+            "7bc22b3b6220fa1e"
         ],
         "x": 1035,
         "y": 280,
@@ -50287,7 +50297,9 @@
             "2915404d918e6500",
             "a6ae08b25206a8fb",
             "1a13e58e8e1995f8",
-            "264babaaa7723c2e"
+            "264babaaa7723c2e",
+            "e665500c8212a516",
+            "a4adb02d388732ad"
         ],
         "x": 1035,
         "y": 320,
@@ -55981,7 +55993,11 @@
             "a6ae08b25206a8fb",
             "1a13e58e8e1995f8",
             "6cd860e1377cb2c3",
-            "264babaaa7723c2e"
+            "264babaaa7723c2e",
+            "cc02647885cf85e3",
+            "e665500c8212a516",
+            "a4adb02d388732ad",
+            "7bc22b3b6220fa1e"
         ],
         "x": 381,
         "y": 80,
@@ -84281,7 +84297,7 @@
         "z": "8c6f930882747645",
         "g": "aecdec289959a88b",
         "name": "Set Parametros de Tiempo",
-        "func": "var ton = global.get(\"Control_functions.Controlon_off.ton\") || 0;\nvar toff = global.get(\"Control_functions.Controlon_off.toff\") || 0;\n\nif(msg.payload == true){\n    //conversión ton\n    var InputSeconds = ton;\n    var Days = parseInt(InputSeconds / 86400);\n    var Hours = parseInt((InputSeconds - (Days) * 86400) / 3600);\n    var SegRest = parseInt(InputSeconds - (Hours * 3600) - (Days * 86400));\n    var min = parseInt(SegRest / 60);\n    var seconds = parseInt(SegRest - (min * 60));\n    context.set(\"Days\", (Days));\n    context.set(\"InputSeconds\", InputSeconds);\n    context.set(\"Hours\", Hours);\n    context.set(\"SegRest\", SegRest);\n    context.set(\"min\", min);\n    context.set(\"seconds\", seconds);\n    Days = { payload: Days };\n    Hours = { payload: Hours };\n    min = { payload: min };\n    seconds = { payload: seconds };\n    //Conversión toff\n    var InputSeconds2 = toff;\n    var Days2 = parseInt(InputSeconds2 / 86400);\n    var Hours2 = parseInt((InputSeconds2 - (Days2) * 86400) / 3600);\n    var SegRest2 = parseInt(InputSeconds2 - (Hours2 * 3600) - (Days2 * 86400));\n    var min2 = parseInt(SegRest2 / 60);\n    var seconds2 = parseInt(SegRest2 - (min2 * 60));\n    context.set(\"Days2\", (Days2));\n    context.set(\"InputSeconds2\", InputSeconds2);\n    context.set(\"Hours2\", Hours2);\n    context.set(\"SegRest2\", SegRest2);\n    context.set(\"min2\", min2);\n    context.set(\"seconds2\", seconds2);\n// Declaración de parametros en msg.\n    Days2 = { payload: Days2 };\n    Hours2 = { payload: Hours2 };\n    min2 = { payload: min2 };\n    seconds2 = { payload: seconds2 };\n    return [Hours, min, seconds,Hours2, min2, seconds2,spm];\n}\n",
+        "func": "var ton = global.get(\"Control_functions.Controlon_off.ton\") || 0;\nvar toff = global.get(\"Control_functions.Controlon_off.toff\") || 0;\n\nif(ton != 0 && toff != 0){\n    //conversión ton\n    var seconds = ton;\n    var hour = Math.floor(seconds / 3600);\n    hour = parseInt((hour < 10) ? '0' + hour : hour);\n    var minute = Math.floor((seconds / 60) % 60);\n    minute = parseInt((minute < 10) ? '0' + minute : minute);\n    var second = seconds % 60;\n    second = parseInt((second < 10) ? '0' + second : second);\n    //Conversión toff\n\n    var seconds2 = toff;\n    var hour2 = Math.floor(seconds2 / 3600);\n    hour2 = parseInt((hour2 < 10) ? '0' + hour2 : hour2);\n    var minute2 = Math.floor((seconds2 / 60) % 60);\n    minute2 = parseInt((minute2 < 10) ? '0' + minute2 : minute2);\n    var second2 = seconds2 % 60;\n    second2 = parseInt((second2 < 10) ? '0' + second2 : second2);\n    // variables de tiempo de entrada\n    hour = { payload: hour };\n    minute = { payload: minute };\n    second = { payload: second };\n    // variables de tiempo de salida\n    hour2 = { payload: hour2 };\n    minute2 = { payload: minute2 };\n    second2 = { payload: second2 };\n// Declaración de parametros en msg.\n    return [hour, minute, second,hour2, minute2, second2];\n}\n",
         "outputs": 6,
         "noerr": 0,
         "initialize": "",
@@ -102163,6 +102179,7 @@
         "id": "fecbd80b94bd22a1",
         "type": "link in",
         "z": "5b797a7252061594",
+        "d": true,
         "g": "bca72b7420df46a9",
         "name": "TendenciaPumpOffController",
         "links": [
@@ -103875,7 +103892,9 @@
         "y": 780,
         "wires": [
             [],
-            []
+            [
+                "42e694048a914f76"
+            ]
         ]
     },
     {
@@ -104696,7 +104715,9 @@
         "y": 160,
         "wires": [
             [],
-            []
+            [
+                "445d1f402aab1a72"
+            ]
         ]
     },
     {
@@ -105591,9 +105612,9 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 280,
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 270,
         "y": 700,
         "wires": [
             [
@@ -107369,5 +107390,285 @@
                 "560c026c2d61acbd"
             ]
         ]
+    },
+    {
+        "id": "cc02647885cf85e3",
+        "type": "link out",
+        "z": "5b797a7252061594",
+        "g": "fd781041a7a8fbec",
+        "name": "",
+        "links": [
+            "207ea8ce.3dea68",
+            "2da816b7.b2be9a"
+        ],
+        "x": 1035,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "445d1f402aab1a72",
+        "type": "switch",
+        "z": "5b797a7252061594",
+        "g": "fd781041a7a8fbec",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "cont",
+                "v": "exito",
+                "vt": "str"
+            },
+            {
+                "t": "cont",
+                "v": "fallid",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 830,
+        "y": 220,
+        "wires": [
+            [
+                "76910366cfe3e521"
+            ],
+            [
+                "d10003c2b00dd1d9"
+            ]
+        ]
+    },
+    {
+        "id": "76910366cfe3e521",
+        "type": "change",
+        "z": "5b797a7252061594",
+        "g": "fd781041a7a8fbec",
+        "name": "Exitoso",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "Arranque exitoso",
+                "fromt": "str",
+                "to": "Arranque local exitoso  Control de Superficie",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "Parada exitosa  ",
+                "fromt": "str",
+                "to": "Parada local exitosa Control de Superficie",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 940,
+        "y": 180,
+        "wires": [
+            [
+                "cc02647885cf85e3"
+            ]
+        ]
+    },
+    {
+        "id": "d10003c2b00dd1d9",
+        "type": "change",
+        "z": "5b797a7252061594",
+        "g": "fd781041a7a8fbec",
+        "name": "Fallido",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "Arranque fallido",
+                "fromt": "str",
+                "to": "Arranque local fallido  Control de Superficie",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "Parada fallida",
+                "fromt": "str",
+                "to": "Parada local fallida Control de Superficie",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 890,
+        "y": 280,
+        "wires": [
+            [
+                "e665500c8212a516"
+            ]
+        ]
+    },
+    {
+        "id": "e665500c8212a516",
+        "type": "link out",
+        "z": "5b797a7252061594",
+        "g": "fd781041a7a8fbec",
+        "name": "",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 995,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "50d1e356cfda9a55",
+        "type": "change",
+        "z": "5b797a7252061594",
+        "g": "f4c2cbbaa70a9690",
+        "name": "Exitoso",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "Arranque exitoso",
+                "fromt": "str",
+                "to": "Arranque local exitoso  Control de Superficie",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "Parada exitosa  ",
+                "fromt": "str",
+                "to": "Parada local exitosa Control de Superficie",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1260,
+        "y": 760,
+        "wires": [
+            [
+                "7bc22b3b6220fa1e"
+            ]
+        ]
+    },
+    {
+        "id": "42e694048a914f76",
+        "type": "switch",
+        "z": "5b797a7252061594",
+        "g": "f4c2cbbaa70a9690",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "cont",
+                "v": "exito",
+                "vt": "str"
+            },
+            {
+                "t": "cont",
+                "v": "fallid",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1130,
+        "y": 800,
+        "wires": [
+            [
+                "50d1e356cfda9a55"
+            ],
+            [
+                "598116128905345c"
+            ]
+        ]
+    },
+    {
+        "id": "598116128905345c",
+        "type": "change",
+        "z": "5b797a7252061594",
+        "g": "f4c2cbbaa70a9690",
+        "name": "Fallido",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "Arranque fallido",
+                "fromt": "str",
+                "to": "Arranque local fallido  Control de Superficie",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "Parada fallida",
+                "fromt": "str",
+                "to": "Parada local fallida Control de Superficie",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1230,
+        "y": 860,
+        "wires": [
+            [
+                "a4adb02d388732ad"
+            ]
+        ]
+    },
+    {
+        "id": "a4adb02d388732ad",
+        "type": "link out",
+        "z": "5b797a7252061594",
+        "g": "f4c2cbbaa70a9690",
+        "name": "",
+        "links": [
+            "2da816b7.b2be9a",
+            "cbbbcd1c.7180e"
+        ],
+        "x": 1335,
+        "y": 860,
+        "wires": []
+    },
+    {
+        "id": "7bc22b3b6220fa1e",
+        "type": "link out",
+        "z": "5b797a7252061594",
+        "g": "f4c2cbbaa70a9690",
+        "name": "",
+        "links": [
+            "207ea8ce.3dea68",
+            "2da816b7.b2be9a"
+        ],
+        "x": 1355,
+        "y": 760,
+        "wires": []
     }
 ]
