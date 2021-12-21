@@ -154,6 +154,13 @@
         "info": ""
     },
     {
+        "id": "29bf75edf21541c4",
+        "type": "tab",
+        "label": "downholeControl",
+        "disabled": false,
+        "info": ""
+    },
+    {
         "id": "bef159b0eb2cf912",
         "type": "tab",
         "label": "Incremento prolongado",
@@ -958,6 +965,39 @@
         }
     },
     {
+        "id": "dc9f1a7a8ca59495",
+        "type": "subflow",
+        "name": "conversionDia",
+        "info": "",
+        "category": "conversion",
+        "in": [
+            {
+                "x": 40,
+                "y": 80,
+                "wires": [
+                    {
+                        "id": "f12b81fd13fcdb7c"
+                    }
+                ]
+            }
+        ],
+        "out": [
+            {
+                "x": 360,
+                "y": 80,
+                "wires": [
+                    {
+                        "id": "f12b81fd13fcdb7c",
+                        "port": 0
+                    }
+                ]
+            }
+        ],
+        "env": [],
+        "meta": {},
+        "color": "#DDAA99"
+    },
+    {
         "id": "1d0c3cb2.7129f3",
         "type": "group",
         "z": "2e27dea6.c4c362",
@@ -971,9 +1011,7 @@
             "bfa48676.a364f8"
         ],
         "x": 54,
-        "y": 19,
-        "w": 432,
-        "h": 149.5
+        "y": 19
     },
     {
         "id": "d929d138.3b512",
@@ -991,9 +1029,7 @@
             "ebd2954e5785409e"
         ],
         "x": 994,
-        "y": 19,
-        "w": 542,
-        "h": 122
+        "y": 19
     },
     {
         "id": "fcb3da61.429db8",
@@ -1088,9 +1124,7 @@
             "0d7d36d911e2cbb3"
         ],
         "x": 24,
-        "y": 609,
-        "w": 2632,
-        "h": 552
+        "y": 609
     },
     {
         "id": "3cb51855.a66038",
@@ -1105,9 +1139,7 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169,
-        "w": 232,
-        "h": 82
+        "y": 1169
     },
     {
         "id": "27a0641a.d154dc",
@@ -1217,9 +1249,7 @@
             "b6cf54debd6eb4db"
         ],
         "x": 64,
-        "y": 479,
-        "w": 662,
-        "h": 202
+        "y": 479
     },
     {
         "id": "9132da2c.b8c6b8",
@@ -1243,9 +1273,7 @@
             "fd328934.0ddd18"
         ],
         "x": 74,
-        "y": 699,
-        "w": 602,
-        "h": 202
+        "y": 699
     },
     {
         "id": "9b538856.60fb38",
@@ -1423,9 +1451,7 @@
             "312d9def.84df32"
         ],
         "x": 74,
-        "y": 919,
-        "w": 702,
-        "h": 242
+        "y": 919
     },
     {
         "id": "3ae9fbe60d6132ea",
@@ -1956,9 +1982,7 @@
             "c22e3c27600ab315"
         ],
         "x": 994,
-        "y": 159,
-        "w": 612,
-        "h": 242
+        "y": 159
     },
     {
         "id": "d84615.919209e8",
@@ -2085,9 +2109,7 @@
             "fc0f71fc7fab8d0e"
         ],
         "x": 74,
-        "y": 1189,
-        "w": 792,
-        "h": 252
+        "y": 1189
     },
     {
         "id": "06c0dbf1bffe1e21",
@@ -2103,9 +2125,7 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269,
-        "w": 352,
-        "h": 82
+        "y": 1269
     },
     {
         "id": "6202107f.ed9aa",
@@ -2177,9 +2197,7 @@
             "7035c5bac0894530"
         ],
         "x": 44,
-        "y": -21,
-        "w": 1992,
-        "h": 622
+        "y": -21
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -2213,9 +2231,7 @@
             "17c1f84a5b3ad8ad"
         ],
         "x": 3224,
-        "y": 19,
-        "w": 1284,
-        "h": 1708
+        "y": 19
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -2236,9 +2252,7 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169,
-        "w": 782,
-        "h": 182
+        "y": 1169
     },
     {
         "id": "086b9d08c3b68939",
@@ -2269,9 +2283,7 @@
             "9661d016b799c47d"
         ],
         "x": 24,
-        "y": 1359,
-        "w": 1022,
-        "h": 292
+        "y": 1359
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -2297,9 +2309,7 @@
             "6e75b5f5657d3a7e"
         ],
         "x": 24,
-        "y": 1679,
-        "w": 1132,
-        "h": 202
+        "y": 1679
     },
     {
         "id": "afdbbb533d628687",
@@ -2315,9 +2325,7 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679,
-        "w": 332,
-        "h": 82
+        "y": 1679
     },
     {
         "id": "ba075c8cc622876a",
@@ -3034,9 +3042,7 @@
             "0d38acc234ba861f"
         ],
         "x": 994,
-        "y": 419,
-        "w": 642,
-        "h": 162
+        "y": 419
     },
     {
         "id": "86af7867dc10f4a8",
@@ -3104,9 +3110,7 @@
             "a5f101f20d6fd56b"
         ],
         "x": 994,
-        "y": 599,
-        "w": 562,
-        "h": 142
+        "y": 599
     },
     {
         "id": "5dc71a84bf12ae23",
@@ -3188,9 +3192,7 @@
             "d93cba9654c81eec"
         ],
         "x": 2534,
-        "y": 19,
-        "w": 252,
-        "h": 482
+        "y": 19
     },
     {
         "id": "08268a4bd4859ab8",
@@ -3215,9 +3217,7 @@
             "0988d89e2a5ce6e0"
         ],
         "x": 2814,
-        "y": 19,
-        "w": 259,
-        "h": 482
+        "y": 19
     },
     {
         "id": "5c9801fdee1b9e98",
@@ -3246,9 +3246,7 @@
             "ae2375753c90e02b"
         ],
         "x": 974,
-        "y": 979,
-        "w": 312,
-        "h": 522
+        "y": 979
     },
     {
         "id": "c920676a5fbb9bc8",
@@ -3347,7 +3345,9 @@
             "3fe6ba310d6fe1c0"
         ],
         "x": 154,
-        "y": 779
+        "y": 779,
+        "w": 1132,
+        "h": 342
     },
     {
         "id": "99fd9c5cbd90ceb5",
@@ -3364,7 +3364,9 @@
             "5e3e278f18c43297"
         ],
         "x": 154,
-        "y": 1159
+        "y": 1159,
+        "w": 492,
+        "h": 122
     },
     {
         "id": "aecdec289959a88b",
@@ -3394,7 +3396,9 @@
             "c029b9bec80247e8"
         ],
         "x": 154,
-        "y": 459
+        "y": 459,
+        "w": 1092,
+        "h": 282
     },
     {
         "id": "6c6732761a2613b5",
@@ -3663,9 +3667,7 @@
             "12a3282355da9439"
         ],
         "x": 74,
-        "y": 1439,
-        "w": 582,
-        "h": 182
+        "y": 1439
     },
     {
         "id": "69cbede8f851191a",
@@ -3686,9 +3688,7 @@
             "a1c5e02a9d683eb4"
         ],
         "x": 74,
-        "y": 1639,
-        "w": 582,
-        "h": 182
+        "y": 1639
     },
     {
         "id": "f9b757cab0b767da",
@@ -3778,9 +3778,7 @@
             "d3fc647f21f7d8eb"
         ],
         "x": 254,
-        "y": 1939,
-        "w": 532,
-        "h": 142
+        "y": 1939
     },
     {
         "id": "5519b13db7a1857a",
@@ -3806,7 +3804,9 @@
             "a0b90b4f54fbae9f"
         ],
         "x": 674,
-        "y": 1159
+        "y": 1159,
+        "w": 1142,
+        "h": 222
     },
     {
         "id": "9ff47da5fe193161",
@@ -3839,9 +3839,7 @@
             "e0da6f5132ed3813"
         ],
         "x": 64,
-        "y": 189,
-        "w": 852,
-        "h": 282
+        "y": 189
     },
     {
         "id": "daacc2ec73149b57",
@@ -3891,7 +3889,9 @@
             "d5eb026a704fd13b"
         ],
         "x": 154,
-        "y": 179
+        "y": 179,
+        "w": 1392,
+        "h": 162
     },
     {
         "id": "e4cabd2892b5651b",
@@ -4098,9 +4098,7 @@
             "a2defc407081fdc7"
         ],
         "x": 1734,
-        "y": 19,
-        "w": 772,
-        "h": 922
+        "y": 19
     },
     {
         "id": "0e051c2facee0b6d",
@@ -4301,6 +4299,191 @@
         "y": 119,
         "w": 852,
         "h": 282
+    },
+    {
+        "id": "73546535bd657e5f",
+        "type": "group",
+        "z": "29bf75edf21541c4",
+        "name": "Boton Habilitar",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "ced12ce9e0972ff3",
+            "d0bd353a8ba51cbe",
+            "e1b89909d96fe783",
+            "d1a5e195d17f0ddc",
+            "c865addd37166432",
+            "62268d3397b6364b",
+            "b36558086ba90ba7",
+            "f6f1bab08276e2ab",
+            "68b3c91504be4a88",
+            "3abe5558b5b3860e",
+            "3f5376850997a18e",
+            "8b6795e7e350310b",
+            "bb22ffcb688c15d2"
+        ],
+        "x": 1354,
+        "y": 179,
+        "w": 1042,
+        "h": 222
+    },
+    {
+        "id": "abfc5c293f394682",
+        "type": "group",
+        "z": "29bf75edf21541c4",
+        "name": "LogicaDownholeControl",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "19b1b4eb161c6ff9",
+            "f3725f49b1e49b20",
+            "6a9062bd190db550",
+            "df8e483d5526c510",
+            "b6ccf7628a758b36",
+            "b862b007fadc3854",
+            "f29cf89058d2bf0c",
+            "c64adff573b33d8e",
+            "5ba3bd2da473a65e",
+            "f87215caf347b889",
+            "c35adde9b5af3493",
+            "136cc9da70140a0c",
+            "f90a82bb260e58f9",
+            "ddd09a126914e360",
+            "2f923bf00fd6503f",
+            "b56f728504cd4913",
+            "18e1ef5a1e4a3756",
+            "3327cfa838294b44",
+            "f46982b09d8c3604",
+            "6dbcf2d4b6e2c256",
+            "3b0a2770dbde331a",
+            "ebeff795103c0e85",
+            "820a4c65386459ee",
+            "acea7f0548a0c249",
+            "1c62e654a77531dc",
+            "1a13e58e8e1995f8",
+            "6cd860e1377cb2c3",
+            "c4a38461ecefdff9",
+            "ba4ade2274a727fa",
+            "264babaaa7723c2e",
+            "743c2eab596e36db"
+        ],
+        "x": 114,
+        "y": 179,
+        "w": 1182,
+        "h": 442
+    },
+    {
+        "id": "0e0b9759209dfb2f",
+        "type": "group",
+        "z": "29bf75edf21541c4",
+        "name": "Adquision de Valores",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "60e05cf6d23d5a62",
+            "da18049a93fd08ce",
+            "fabc8904f925bf1a",
+            "e73ea06d928d93fc",
+            "27b6e126d7be66ee",
+            "b653c185a1701b36",
+            "e7512774416a9544",
+            "2cb88eaf70893679",
+            "ef0728cdc37ecb09",
+            "72d9d930aa80e772",
+            "adf840b123b41585",
+            "15c1e0773b168946",
+            "9696f09381a60de7",
+            "58fbed31930cda5b",
+            "2c118930b46d3082",
+            "c4690bdaf9d079a9",
+            "053889d47fbf2da6",
+            "16c476702b10173c",
+            "7d2f07543d83329e",
+            "2533749331f9bc2f",
+            "3bf27a8f2e2e30a2",
+            "19ac13ad1ca1de44",
+            "accb539514128b36",
+            "43d15a613a33c867",
+            "17c6f6e24335ee15",
+            "b875bd4532122ff6",
+            "13f3a541f69a175b"
+        ],
+        "x": 114,
+        "y": 639,
+        "w": 792,
+        "h": 462
+    },
+    {
+        "id": "07f02b70dd167ae5",
+        "type": "group",
+        "z": "29bf75edf21541c4",
+        "name": "ConfirmaciónData",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "8a7b53380e66ae12",
+            "5a120549fd249ab0",
+            "665c4cd99575e4bf",
+            "6b38f10a1ac11889",
+            "4785a528a2131ee5",
+            "4d5f8287ab4ef699",
+            "56d051b1b04eb990",
+            "c0e57e8a82e6d05a"
+        ],
+        "x": 1154,
+        "y": 759,
+        "w": 912,
+        "h": 122
+    },
+    {
+        "id": "7d20e2da985dd33b",
+        "type": "group",
+        "z": "29bf75edf21541c4",
+        "name": "Boton Simulacion",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "cf0d339c5e409c52",
+            "806bf1b9eefa1219",
+            "69a889a8cd8d4fc7",
+            "9241969966300523",
+            "a142cd930e28191e",
+            "040b83ef654b39e2",
+            "0c8aedf11c2f50af",
+            "dc483fcd7b3e9cd8",
+            "57d5f08136554ce9",
+            "e006cde8fe53d84f",
+            "8379ae719076bc5b",
+            "b8bf43fb333c88c5",
+            "17f0cfed3a423e5f"
+        ],
+        "x": 1354,
+        "y": 519,
+        "w": 1042,
+        "h": 222
+    },
+    {
+        "id": "27eadf663f119ea4",
+        "type": "group",
+        "z": "29bf75edf21541c4",
+        "name": "Visual",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "1d57ea6914ce1d68",
+            "0e9820a7fbc95a17",
+            "5b99a9cea8e23964"
+        ],
+        "x": 1354,
+        "y": 419,
+        "w": 532,
+        "h": 82
     },
     {
         "id": "1306de9a.9ba341",
@@ -4983,9 +5166,7 @@
             "1a666ca6835d2d34"
         ],
         "x": 74,
-        "y": 399,
-        "w": 852,
-        "h": 132
+        "y": 399
     },
     {
         "id": "cf985e84.c7693",
@@ -5939,9 +6120,7 @@
             "26836fe8d310f685"
         ],
         "x": 3428,
-        "y": 413,
-        "w": 1054,
-        "h": 758
+        "y": 413
     },
     {
         "id": "7bc9759a9a7ea0be",
@@ -5996,9 +6175,7 @@
             "09240a88f66b7c6f"
         ],
         "x": 3434,
-        "y": 1179,
-        "w": 992,
-        "h": 522
+        "y": 1179
     },
     {
         "id": "dad84feb.d4773",
@@ -7565,9 +7742,7 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 439,
-        "w": 402,
-        "h": 362
+        "y": 439
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -7595,9 +7770,7 @@
             "1f3630da2492d4f9"
         ],
         "x": 3454,
-        "y": 809,
-        "w": 1002,
-        "h": 212
+        "y": 809
     },
     {
         "id": "b6e70888e2a92a81",
@@ -10781,146 +10954,6 @@
         "height": 1
     },
     {
-        "id": "a28f36b7eee29eed",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 2,
-        "width": 4,
-        "height": 1
-    },
-    {
-        "id": "8c86a5036d14ae8c",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 5,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "9ddc96234ea831c5",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 6,
-        "width": 9,
-        "height": 1
-    },
-    {
-        "id": "96fde72f3a5a05ab",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 8,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "5bbd940b890f72b1",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 10,
-        "width": 9,
-        "height": 1
-    },
-    {
-        "id": "c64f6193b7e3767d",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 11,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "ea16179ed6874991",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 13,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "a4170752666f9013",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 17,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "29fb9bcdab0bdfb2",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 18,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "b5e6dcb0f66dbbf4",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 19,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "1e02ccdf10df102e",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 20,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "83b4ec6231388631",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 21,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "82596af0f1c6dfee",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 24,
-        "width": 5,
-        "height": 1
-    },
-    {
-        "id": "bb1bba1357f554bf",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 25,
-        "width": 12,
-        "height": 1
-    },
-    {
         "id": "f4272704e0f7ea22",
         "type": "ui_spacer",
         "z": "5b797a7252061594",
@@ -10957,66 +10990,6 @@
         "name": "spacer",
         "group": "e7f56f40f21d5182",
         "order": 8,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "a96c93f16623b077",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "e7f56f40f21d5182",
-        "order": 10,
-        "width": 9,
-        "height": 1
-    },
-    {
-        "id": "21e01670d409b0da",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "e7f56f40f21d5182",
-        "order": 12,
-        "width": 9,
-        "height": 1
-    },
-    {
-        "id": "5e198320d41775b9",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "e7f56f40f21d5182",
-        "order": 14,
-        "width": 9,
-        "height": 1
-    },
-    {
-        "id": "13c1909f675af481",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "e7f56f40f21d5182",
-        "order": 16,
-        "width": 9,
-        "height": 1
-    },
-    {
-        "id": "b11bf60144a94288",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "e7f56f40f21d5182",
-        "order": 17,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "872af8f5c5cbad32",
-        "type": "ui_spacer",
-        "z": "5b797a7252061594",
-        "name": "spacer",
-        "group": "e7f56f40f21d5182",
-        "order": 22,
         "width": 1,
         "height": 1
     },
@@ -11289,6 +11262,177 @@
         "order": 4,
         "width": 8,
         "height": 1
+    },
+    {
+        "id": "5ad0dad73b82700f",
+        "type": "ui_group",
+        "name": "downholeControl",
+        "tab": "df82a9eeeb3d8a7c",
+        "order": 16,
+        "disp": true,
+        "width": "12",
+        "collapse": false
+    },
+    {
+        "id": "5c900a796b309f0b",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "20076456.83052c",
+        "order": 1,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "d3ba18a2bba0c576",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "20076456.83052c",
+        "order": 2,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "a305928829b65c86",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "20076456.83052c",
+        "order": 4,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "04fac013d130a444",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "2540c0d0.abd4d",
+        "order": 1,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "82f9676de01e9f34",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "2540c0d0.abd4d",
+        "order": 2,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "08311e5f210dc865",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "2540c0d0.abd4d",
+        "order": 3,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "e7ee121f40d6f2b2",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "2540c0d0.abd4d",
+        "order": 4,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "9afb29487ddff60f",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "2540c0d0.abd4d",
+        "order": 8,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "2a69c3162661d101",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "4026595aa6261291",
+        "order": 8,
+        "width": 10,
+        "height": 1
+    },
+    {
+        "id": "a3cbeaefbb57950d",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "3afcf0f2.7f9b6",
+        "order": 4,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "f9c92ab8ade0a295",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "3afcf0f2.7f9b6",
+        "order": 6,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "4a537fe5ca18dbcf",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "3afcf0f2.7f9b6",
+        "order": 12,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "9828240c07de02f8",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "3afcf0f2.7f9b6",
+        "order": 19,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "e8c713644af07c48",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "3afcf0f2.7f9b6",
+        "order": 20,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "364b146f6102c17b",
+        "type": "ui_spacer",
+        "z": "29bf75edf21541c4",
+        "name": "spacer",
+        "group": "4f87eabd.cfaf34",
+        "order": 1,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "209a210926b86623",
+        "type": "ui_spacer",
+        "z": "8c6f930882747645",
+        "name": "spacer",
+        "group": "f3358016775d3d48",
+        "order": 5,
+        "width": "3",
+        "height": 1,
+        "className": ""
     },
     {
         "id": "8c24ec8f.cf43c",
@@ -84935,7 +85079,7 @@
         "g": "99fd9c5cbd90ceb5",
         "name": "Tendencia principa",
         "group": "f3358016775d3d48",
-        "order": 13,
+        "order": 12,
         "width": 12,
         "height": 4,
         "label": "",
@@ -104613,481 +104757,6 @@
                 "4b5ea63c90788cca"
             ]
         ]
-    },
-    {
-        "id": "29bf75edf21541c4",
-        "type": "tab",
-        "label": "downholeControl",
-        "disabled": false,
-        "info": ""
-    },
-    {
-        "id": "dc9f1a7a8ca59495",
-        "type": "subflow",
-        "name": "conversionDia",
-        "info": "",
-        "category": "conversion",
-        "in": [
-            {
-                "x": 40,
-                "y": 80,
-                "wires": [
-                    {
-                        "id": "f12b81fd13fcdb7c"
-                    }
-                ]
-            }
-        ],
-        "out": [
-            {
-                "x": 360,
-                "y": 80,
-                "wires": [
-                    {
-                        "id": "f12b81fd13fcdb7c",
-                        "port": 0
-                    }
-                ]
-            }
-        ],
-        "env": [],
-        "meta": {},
-        "color": "#DDAA99"
-    },
-    {
-        "id": "73546535bd657e5f",
-        "type": "group",
-        "z": "29bf75edf21541c4",
-        "name": "Boton Habilitar",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "ced12ce9e0972ff3",
-            "d0bd353a8ba51cbe",
-            "e1b89909d96fe783",
-            "d1a5e195d17f0ddc",
-            "c865addd37166432",
-            "62268d3397b6364b",
-            "b36558086ba90ba7",
-            "f6f1bab08276e2ab",
-            "68b3c91504be4a88",
-            "3abe5558b5b3860e",
-            "3f5376850997a18e",
-            "8b6795e7e350310b",
-            "bb22ffcb688c15d2"
-        ],
-        "x": 1354,
-        "y": 179,
-        "w": 1042,
-        "h": 222
-    },
-    {
-        "id": "abfc5c293f394682",
-        "type": "group",
-        "z": "29bf75edf21541c4",
-        "name": "LogicaDownholeControl",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "19b1b4eb161c6ff9",
-            "f3725f49b1e49b20",
-            "6a9062bd190db550",
-            "df8e483d5526c510",
-            "b6ccf7628a758b36",
-            "b862b007fadc3854",
-            "f29cf89058d2bf0c",
-            "c64adff573b33d8e",
-            "5ba3bd2da473a65e",
-            "f87215caf347b889",
-            "c35adde9b5af3493",
-            "136cc9da70140a0c",
-            "f90a82bb260e58f9",
-            "ddd09a126914e360",
-            "2f923bf00fd6503f",
-            "b56f728504cd4913",
-            "18e1ef5a1e4a3756",
-            "3327cfa838294b44",
-            "f46982b09d8c3604",
-            "6dbcf2d4b6e2c256",
-            "3b0a2770dbde331a",
-            "ebeff795103c0e85",
-            "820a4c65386459ee",
-            "acea7f0548a0c249",
-            "1c62e654a77531dc",
-            "1a13e58e8e1995f8",
-            "6cd860e1377cb2c3",
-            "c4a38461ecefdff9",
-            "ba4ade2274a727fa",
-            "264babaaa7723c2e",
-            "743c2eab596e36db"
-        ],
-        "x": 114,
-        "y": 179,
-        "w": 1182,
-        "h": 442
-    },
-    {
-        "id": "0e0b9759209dfb2f",
-        "type": "group",
-        "z": "29bf75edf21541c4",
-        "name": "Adquision de Valores",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "60e05cf6d23d5a62",
-            "da18049a93fd08ce",
-            "fabc8904f925bf1a",
-            "e73ea06d928d93fc",
-            "27b6e126d7be66ee",
-            "b653c185a1701b36",
-            "e7512774416a9544",
-            "2cb88eaf70893679",
-            "ef0728cdc37ecb09",
-            "72d9d930aa80e772",
-            "adf840b123b41585",
-            "15c1e0773b168946",
-            "9696f09381a60de7",
-            "58fbed31930cda5b",
-            "2c118930b46d3082",
-            "c4690bdaf9d079a9",
-            "053889d47fbf2da6",
-            "16c476702b10173c",
-            "7d2f07543d83329e",
-            "2533749331f9bc2f",
-            "3bf27a8f2e2e30a2",
-            "19ac13ad1ca1de44",
-            "accb539514128b36",
-            "43d15a613a33c867",
-            "17c6f6e24335ee15",
-            "b875bd4532122ff6",
-            "13f3a541f69a175b"
-        ],
-        "x": 114,
-        "y": 639,
-        "w": 792,
-        "h": 462
-    },
-    {
-        "id": "07f02b70dd167ae5",
-        "type": "group",
-        "z": "29bf75edf21541c4",
-        "name": "ConfirmaciónData",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "8a7b53380e66ae12",
-            "5a120549fd249ab0",
-            "665c4cd99575e4bf",
-            "6b38f10a1ac11889",
-            "4785a528a2131ee5",
-            "4d5f8287ab4ef699",
-            "56d051b1b04eb990",
-            "c0e57e8a82e6d05a"
-        ],
-        "x": 1154,
-        "y": 759,
-        "w": 912,
-        "h": 122
-    },
-    {
-        "id": "7d20e2da985dd33b",
-        "type": "group",
-        "z": "29bf75edf21541c4",
-        "name": "Boton Simulacion",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "cf0d339c5e409c52",
-            "806bf1b9eefa1219",
-            "69a889a8cd8d4fc7",
-            "9241969966300523",
-            "a142cd930e28191e",
-            "040b83ef654b39e2",
-            "0c8aedf11c2f50af",
-            "dc483fcd7b3e9cd8",
-            "57d5f08136554ce9",
-            "e006cde8fe53d84f",
-            "8379ae719076bc5b",
-            "b8bf43fb333c88c5",
-            "17f0cfed3a423e5f"
-        ],
-        "x": 1354,
-        "y": 519,
-        "w": 1042,
-        "h": 222
-    },
-    {
-        "id": "27eadf663f119ea4",
-        "type": "group",
-        "z": "29bf75edf21541c4",
-        "name": "Visual",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "1d57ea6914ce1d68",
-            "0e9820a7fbc95a17",
-            "5b99a9cea8e23964"
-        ],
-        "x": 1354,
-        "y": 419,
-        "w": 532,
-        "h": 82
-    },
-    {
-        "id": "5ad0dad73b82700f",
-        "type": "ui_group",
-        "name": "downholeControl",
-        "tab": "df82a9eeeb3d8a7c",
-        "order": 16,
-        "disp": true,
-        "width": "12",
-        "collapse": false
-    },
-    {
-        "id": "5c900a796b309f0b",
-        "type": "ui_spacer",
-        "z": "29bf75edf21541c4",
-        "name": "spacer",
-        "group": "20076456.83052c",
-        "order": 1,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "d3ba18a2bba0c576",
-        "type": "ui_spacer",
-        "z": "29bf75edf21541c4",
-        "name": "spacer",
-        "group": "20076456.83052c",
-        "order": 2,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "a305928829b65c86",
-        "type": "ui_spacer",
-        "z": "29bf75edf21541c4",
-        "name": "spacer",
-        "group": "20076456.83052c",
-        "order": 4,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "9769eabaa425d10c",
-        "type": "ui_spacer",
-        "z": "29bf75edf21541c4",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 5,
-        "width": 3,
-        "height": 1
-    },
-    {
-        "id": "8f898467e451341c",
-        "type": "ui_spacer",
-        "z": "29bf75edf21541c4",
-        "name": "spacer",
-        "group": "f3358016775d3d48",
-        "order": 12,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "d26aa55b735532d3",
-        "type": "ui_spacer",
-        "z": "29bf75edf21541c4",
-        "name": "spacer",
-        "group": "e7f56f40f21d5182",
-        "order": 6,
-        "width": 9,
-        "height": 1
-    },
-    {
-        "id": "c48248ba4f5d14b4",
-        "type": "ui_spacer",
-        "z": "29bf75edf21541c4",
-        "name": "spacer",
-        "group": "e7f56f40f21d5182",
-        "order": 8,
-        "width": 9,
-        "height": 1
-    },
-    {
-        "id": "3997fcb1b2d81dd9",
-        "type": "ui_spacer",
-        "z": "29bf75edf21541c4",
-        "name": "spacer",
-        "group": "e7f56f40f21d5182",
-        "order": 10,
-        "width": 9,
-        "height": 1
-    },
-    {
-        "id": "c44e55d4b32847ae",
-        "type": "ui_spacer",
-        "z": "29bf75edf21541c4",
-        "name": "spacer",
-        "group": "e7f56f40f21d5182",
-        "order": 12,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "1cd54373f9577fa5",
-        "type": "ui_spacer",
-        "z": "29bf75edf21541c4",
-        "name": "spacer",
-        "group": "e7f56f40f21d5182",
-        "order": 13,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "0b1115a3b27e55e0",
-        "type": "ui_spacer",
-        "z": "29bf75edf21541c4",
-        "name": "spacer",
-        "group": "e7f56f40f21d5182",
-        "order": 15,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "4d8c1d80cd445b52",
-        "type": "ui_spacer",
-        "z": "29bf75edf21541c4",
-        "name": "spacer",
-        "group": "e7f56f40f21d5182",
-        "order": 17,
-        "width": 4,
-        "height": 1
-    },
-    {
-        "id": "04fac013d130a444",
-        "type": "ui_spacer",
-        "z": "29bf75edf21541c4",
-        "name": "spacer",
-        "group": "2540c0d0.abd4d",
-        "order": 1,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "82f9676de01e9f34",
-        "type": "ui_spacer",
-        "z": "29bf75edf21541c4",
-        "name": "spacer",
-        "group": "2540c0d0.abd4d",
-        "order": 2,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "08311e5f210dc865",
-        "type": "ui_spacer",
-        "z": "29bf75edf21541c4",
-        "name": "spacer",
-        "group": "2540c0d0.abd4d",
-        "order": 3,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "e7ee121f40d6f2b2",
-        "type": "ui_spacer",
-        "z": "29bf75edf21541c4",
-        "name": "spacer",
-        "group": "2540c0d0.abd4d",
-        "order": 4,
-        "width": 12,
-        "height": 1
-    },
-    {
-        "id": "9afb29487ddff60f",
-        "type": "ui_spacer",
-        "z": "29bf75edf21541c4",
-        "name": "spacer",
-        "group": "2540c0d0.abd4d",
-        "order": 8,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "2a69c3162661d101",
-        "type": "ui_spacer",
-        "z": "29bf75edf21541c4",
-        "name": "spacer",
-        "group": "4026595aa6261291",
-        "order": 8,
-        "width": 10,
-        "height": 1
-    },
-    {
-        "id": "a3cbeaefbb57950d",
-        "type": "ui_spacer",
-        "z": "29bf75edf21541c4",
-        "name": "spacer",
-        "group": "3afcf0f2.7f9b6",
-        "order": 4,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "f9c92ab8ade0a295",
-        "type": "ui_spacer",
-        "z": "29bf75edf21541c4",
-        "name": "spacer",
-        "group": "3afcf0f2.7f9b6",
-        "order": 6,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "4a537fe5ca18dbcf",
-        "type": "ui_spacer",
-        "z": "29bf75edf21541c4",
-        "name": "spacer",
-        "group": "3afcf0f2.7f9b6",
-        "order": 12,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "9828240c07de02f8",
-        "type": "ui_spacer",
-        "z": "29bf75edf21541c4",
-        "name": "spacer",
-        "group": "3afcf0f2.7f9b6",
-        "order": 19,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "e8c713644af07c48",
-        "type": "ui_spacer",
-        "z": "29bf75edf21541c4",
-        "name": "spacer",
-        "group": "3afcf0f2.7f9b6",
-        "order": 20,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "364b146f6102c17b",
-        "type": "ui_spacer",
-        "z": "29bf75edf21541c4",
-        "name": "spacer",
-        "group": "4f87eabd.cfaf34",
-        "order": 1,
-        "width": 4,
-        "height": 1
     },
     {
         "id": "fc0f71fc7fab8d0e",
