@@ -1124,7 +1124,9 @@
             "0d7d36d911e2cbb3"
         ],
         "x": 24,
-        "y": 609
+        "y": 609,
+        "w": 2632,
+        "h": 552
     },
     {
         "id": "3cb51855.a66038",
@@ -1139,7 +1141,9 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169
+        "y": 1169,
+        "w": 232,
+        "h": 82
     },
     {
         "id": "27a0641a.d154dc",
@@ -2125,7 +2129,9 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269
+        "y": 1269,
+        "w": 352,
+        "h": 82
     },
     {
         "id": "6202107f.ed9aa",
@@ -2197,7 +2203,9 @@
             "7035c5bac0894530"
         ],
         "x": 44,
-        "y": -21
+        "y": -21,
+        "w": 1992,
+        "h": 622
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -2231,7 +2239,9 @@
             "17c1f84a5b3ad8ad"
         ],
         "x": 3224,
-        "y": 19
+        "y": 19,
+        "w": 1284,
+        "h": 1708
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -2252,7 +2262,9 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169
+        "y": 1169,
+        "w": 782,
+        "h": 182
     },
     {
         "id": "086b9d08c3b68939",
@@ -2283,7 +2295,9 @@
             "9661d016b799c47d"
         ],
         "x": 24,
-        "y": 1359
+        "y": 1359,
+        "w": 1022,
+        "h": 292
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -2309,7 +2323,9 @@
             "6e75b5f5657d3a7e"
         ],
         "x": 24,
-        "y": 1679
+        "y": 1679,
+        "w": 1132,
+        "h": 202
     },
     {
         "id": "afdbbb533d628687",
@@ -2325,7 +2341,9 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679
+        "y": 1679,
+        "w": 332,
+        "h": 82
     },
     {
         "id": "ba075c8cc622876a",
@@ -3345,9 +3363,7 @@
             "3fe6ba310d6fe1c0"
         ],
         "x": 154,
-        "y": 779,
-        "w": 1132,
-        "h": 342
+        "y": 779
     },
     {
         "id": "99fd9c5cbd90ceb5",
@@ -3364,9 +3380,7 @@
             "5e3e278f18c43297"
         ],
         "x": 154,
-        "y": 1159,
-        "w": 492,
-        "h": 122
+        "y": 1159
     },
     {
         "id": "aecdec289959a88b",
@@ -3396,9 +3410,7 @@
             "c029b9bec80247e8"
         ],
         "x": 154,
-        "y": 459,
-        "w": 1092,
-        "h": 282
+        "y": 459
     },
     {
         "id": "6c6732761a2613b5",
@@ -3452,7 +3464,9 @@
             "3f59808d6a892b13"
         ],
         "x": 534,
-        "y": 159
+        "y": 159,
+        "w": 652,
+        "h": 242
     },
     {
         "id": "8330e7a653863e55",
@@ -3470,7 +3484,9 @@
             "8b3d9fac296bfda2"
         ],
         "x": 34,
-        "y": 159
+        "y": 159,
+        "w": 482,
+        "h": 142
     },
     {
         "id": "7f4726c248df075a",
@@ -3494,10 +3510,13 @@
             "63d55e76c47f1c6d",
             "0bfa74f3ee9ac9c6",
             "6832b5cf2eba2c06",
-            "984de93babf87b5a"
+            "984de93babf87b5a",
+            "0d2386914381736d"
         ],
         "x": 14,
-        "y": 419
+        "y": 419,
+        "w": 592,
+        "h": 382
     },
     {
         "id": "1ec8ef96430984c9",
@@ -3513,10 +3532,14 @@
             "b588b191c866978d",
             "e7ec24dcc5895e50",
             "adfb45cdd7e72ad8",
-            "31ad55c2c2e4aa56"
+            "31ad55c2c2e4aa56",
+            "560c026c2d61acbd",
+            "ad10672d9f73d738"
         ],
         "x": 14,
-        "y": 779
+        "y": 819,
+        "w": 652,
+        "h": 122
     },
     {
         "id": "b1331148614d9c76",
@@ -3535,7 +3558,9 @@
             "ec85fc31e23ddeeb"
         ],
         "x": 4,
-        "y": 879
+        "y": 939,
+        "w": 682,
+        "h": 82
     },
     {
         "id": "c6e9f26a4dee8c1e",
@@ -3740,7 +3765,9 @@
             "70be0aad67f5cb13"
         ],
         "x": 34,
-        "y": 19
+        "y": 19,
+        "w": 1472,
+        "h": 522
     },
     {
         "id": "bcc9aec3d4bdf28a",
@@ -3778,7 +3805,9 @@
             "d3fc647f21f7d8eb"
         ],
         "x": 254,
-        "y": 1939
+        "y": 1939,
+        "w": 532,
+        "h": 142
     },
     {
         "id": "5519b13db7a1857a",
@@ -3804,9 +3833,7 @@
             "a0b90b4f54fbae9f"
         ],
         "x": 674,
-        "y": 1159,
-        "w": 1142,
-        "h": 222
+        "y": 1159
     },
     {
         "id": "9ff47da5fe193161",
@@ -3889,9 +3916,7 @@
             "d5eb026a704fd13b"
         ],
         "x": 154,
-        "y": 179,
-        "w": 1392,
-        "h": 162
+        "y": 179
     },
     {
         "id": "e4cabd2892b5651b",
@@ -3917,9 +3942,7 @@
             "44b52a5ca865f32a"
         ],
         "x": 114,
-        "y": 999,
-        "w": 862,
-        "h": 242
+        "y": 999
     },
     {
         "id": "65dbd90af70f1e98",
@@ -3948,9 +3971,7 @@
             "c9ef5029dfa1dca4"
         ],
         "x": 114,
-        "y": 599,
-        "w": 968,
-        "h": 375.5
+        "y": 599
     },
     {
         "id": "2ceb8ec502cd9a4d",
@@ -3977,9 +3998,7 @@
             "86a9047e4057bacf"
         ],
         "x": 1254,
-        "y": 599,
-        "w": 692,
-        "h": 322
+        "y": 599
     },
     {
         "id": "7fd14179472bdff0",
@@ -4011,9 +4030,7 @@
             "6f05a009383c5e7c"
         ],
         "x": 114,
-        "y": 279,
-        "w": 1332,
-        "h": 242
+        "y": 279
     },
     {
         "id": "b76c959d391c2570",
@@ -4413,7 +4430,7 @@
         ],
         "x": 114,
         "y": 639,
-        "w": 792,
+        "w": 802,
         "h": 462
     },
     {
@@ -5166,7 +5183,9 @@
             "1a666ca6835d2d34"
         ],
         "x": 74,
-        "y": 399
+        "y": 399,
+        "w": 852,
+        "h": 132
     },
     {
         "id": "cf985e84.c7693",
@@ -6120,7 +6139,9 @@
             "26836fe8d310f685"
         ],
         "x": 3428,
-        "y": 413
+        "y": 413,
+        "w": 1054,
+        "h": 758
     },
     {
         "id": "7bc9759a9a7ea0be",
@@ -6175,7 +6196,9 @@
             "09240a88f66b7c6f"
         ],
         "x": 3434,
-        "y": 1179
+        "y": 1179,
+        "w": 992,
+        "h": 522
     },
     {
         "id": "dad84feb.d4773",
@@ -6369,9 +6392,7 @@
             "a6ae08b25206a8fb"
         ],
         "x": 154,
-        "y": 799,
-        "w": 902,
-        "h": 149.5
+        "y": 799
     },
     {
         "id": "a80677cf.4274c8",
@@ -7742,7 +7763,9 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 439
+        "y": 439,
+        "w": 402,
+        "h": 362
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -7770,7 +7793,9 @@
             "1f3630da2492d4f9"
         ],
         "x": 3454,
-        "y": 809
+        "y": 809,
+        "w": 1002,
+        "h": 212
     },
     {
         "id": "b6e70888e2a92a81",
@@ -81623,7 +81648,7 @@
         "topic": "",
         "payloadType": "date",
         "x": 130,
-        "y": 820,
+        "y": 860,
         "wires": [
             [
                 "adfb45cdd7e72ad8"
@@ -81643,7 +81668,7 @@
         "template": "<!doctype html>\n<html lang=\"en\">\n<script>{{{script}}}</script>\n<style>{{{style}}}</style>\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n    {{!-- Libreria para la creacion de los PLOTs 3D --}}\n    <script src=\"http://localhost:1880/SocketRodPoint/lib/js/plotly-2.3.0.min.js\"></script>\n    \n  </head>\n  <body>\n\n    {{!-- variables invisibles --}}\n    <div id=\"x\" ng-bind-html=\"msg.x\" style=\"display:none\"></div>\n    {{!-- <div id=\"xvisual\" ng-bind-html=\"msg.x\" ></div> --}}\n    <div id=\"y\" ng-bind-html=\"msg.y\" style=\"display:none\"></div>\n    <div id=\"demo\" onclick=\"myFunction()\">Mostrar</div>\n     <div id='myDiv2'><!-- Plotly chart will be drawn inside this DIV --></div>\n     <script>\n            function myFunction() {\n                var x = document.getElementById(\"x\").innerHTML;//adquision de data desde nodered\n                var y = document.getElementById(\"y\").innerHTML;//adquision de data desde nodered\n                var x1 = x.split(\",\")\n                var y1 = y.split(\",\")\n                for(i = 0; i < x1.length; i++) {\n                    x1[i] = Redondeo(x1[i]);\n                    y1[i] = Redondeo(y1[i]);\n                }\n\n                var trace1  = {\n                    x: x1,\n                    y: y1,\n                    name: 'Dynagrama',\n                    type: 'scatter'\n                };\n                var trace2  = {\n                    x: [40],\n                    y: [2],\n                    name: 'Pump Off',\n                    mode: 'scatter'\n                };\n                var layout = {\n                    title: 'Dinagrama de Fondo',\n                    autosize: false,\n                    width: 720,\n                    height: 520,\n                    yaxis: {\n                        title: 'Carga [Klb]',\n                        tickmode: 'array',\n                        automargin: true,\n                        titlefont: { size:12 },\n                    },\n\n                    xaxis: {\n                        title: 'Posición [in]',\n                        automargin: true,\n                        titlefont: { size:12 },\n                    },\n                    images: [\n                            {\n                                source: \"http://localhost:1880/swcpro-images/hlogo.png\",\n                                xref: \"paper\",\n                                yref: \"paper\",\n                                sizing: \"stretch\",\n                                x: 0.25,\n                                y: 0,\n                                sizex: 0.6,\n                                sizey: 1,\n                                opacity: 0.1,\n                                xanchor: \"left\",\n                                yanchor: \"bottom\"\n                            }],\n                };\n\n                var data = [trace1,trace2];\n                Plotly.newPlot('myDiv2', data,layout);\n                \n                //document.getElementById(\"demo\").innerHTML = x1[1];\n                // alert(\"Calculo Completo\");\n                // funciones utilizadas\n                function Redondeo(x) {\n                    return Number.parseFloat(x).toFixed(2);\n                }\n            }\n    </script>\n\n    <script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n    <script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n    <script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script>\n  </body>\n  \n  <style>\n    .disable-select {\n        user-select: none; /* supported by Chrome and Opera /\n        -webkit-user-select: none; / Safari /\n       -khtml-user-select: none; / Konqueror HTML /\n       -moz-user-select: none; / Firefox /\n       -ms-user-select: none; / Internet Explorer/Edge */\n    }\n  </style>\n</html>",
         "output": "str",
         "x": 420,
-        "y": 820,
+        "y": 860,
         "wires": [
             [
                 "31ad55c2c2e4aa56"
@@ -81663,7 +81688,7 @@
         "finalize": "",
         "libs": [],
         "x": 280,
-        "y": 820,
+        "y": 860,
         "wires": [
             [
                 "e7ec24dcc5895e50"
@@ -81686,7 +81711,7 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "x": 580,
-        "y": 820,
+        "y": 860,
         "wires": [
             []
         ]
@@ -81697,7 +81722,7 @@
         "z": "0919ca8b08ef5398",
         "g": "7f4726c248df075a",
         "name": "AcotarVector",
-        "func": "// variables del dinagrama de fondo\nvar Desp_CD_F1 = flow.get(\"Desp_CD_F1\")||0;\nvar Esfu_CD_F1 = flow.get(\"Esfu_CD_F1\")||0;\n// variables acotadas del dinagrama de fondo\nvar Desp_CD=[],Esfu_CD=[];\nvar finalPoint = 0 ; //Define el valor donde acaba los dinagramas\n// tamaños de los vectores\nvar sizex = Desp_CD_F1.length\nvar sizey = Esfu_CD_F1.length\nif ((Desp_CD_F1 != 0) && (Esfu_CD_F1 != 0) && (sizex == sizey)){\n    // existe el vector de desplazamiento y esfuerzo\n    node.status({fill:\"green\",shape:\"dot\",text:\"Calculo\"});\n    // identificar donde se acaba el vector \n    for (let i = 0; i < sizex; i++) {\n        // si los siguientes pasos del vector son cero\n        if (Desp_CD_F1[i] == 0 && Desp_CD_F1[i + 1] == 0 && Desp_CD_F1[i+2] == 0 ){\n            finalPoint = i;\n            break;//Termina el Ciclo For\n        }\n        \n    }\n    for (let i = 0; i < finalPoint; i++) {\n        Desp_CD[i] = Desp_CD_F1[i];\n        Esfu_CD[i] = Esfu_CD_F1[i];\n    }\n    Desp_CD.push(Desp_CD[0]);\n    Esfu_CD.push(Esfu_CD[0]);\n    // cerrar el dinagrama de fondo\n    // guardar las variables globales\n    global.set(\"Dinagrama.fondo.Desp_CD\", Desp_CD);\n    global.set(\"Dinagrama.fondo.Esfu_CD\", Esfu_CD);\n}else{\n    // no existen los vectores de desplazamiento y espuerzo\n    node.status({fill:\"red\",shape:\"dot\",text:\"NoCalculo\"});\n}\n\n// visualizacion de variables\ncontext.set(\"sizex\", sizex,\"memoryOnly\");\ncontext.set(\"sizey\", sizey,\"memoryOnly\");\ncontext.set(\"finalPoint\", finalPoint,\"memoryOnly\");\ncontext.set(\"Desp\", Desp_CD,\"memoryOnly\");\ncontext.set(\"Esfu\", Esfu_CD,\"memoryOnly\");\ncontext.set(\"Desp_CD_F1\", Desp_CD_F1,\"memoryOnly\");\ncontext.set(\"Esfu_CD_F1\", Esfu_CD_F1,\"memoryOnly\");\nreturn msg;",
+        "func": "// variables del dinagrama de fondo\nvar Desp_CD_F1 = flow.get(\"Desp_CD_F1\")||0;\nvar Esfu_CD_F1 = flow.get(\"Esfu_CD_F1\")||0;\n// variables acotadas del dinagrama de fondo\nvar Desp_CD=[],Esfu_CD=[];\nvar finalPoint = 0 ; //Define el valor donde acaba los dinagramas\n// tamaños de los vectores\nvar sizex = Desp_CD_F1.length\nvar sizey = Esfu_CD_F1.length\nif ((Desp_CD_F1 != 0) && (Esfu_CD_F1 != 0) && (sizex == sizey)){\n    // existe el vector de desplazamiento y esfuerzo\n    node.status({fill:\"green\",shape:\"dot\",text:\"Calculo\"});\n    // identificar donde se acaba el vector \n    for (let i = 0; i < sizex; i++) {\n        // si los siguientes pasos del vector son cero\n        if (Desp_CD_F1[i] == 0 && Desp_CD_F1[i + 1] == 0 && Desp_CD_F1[i+2] == 0 ){\n            finalPoint = i;\n            break;//Termina el Ciclo For\n        }\n        \n    }\n    for (let i = 0; i < finalPoint; i++) {\n        Desp_CD[i] = Desp_CD_F1[i];\n        Esfu_CD[i] = Esfu_CD_F1[i];\n    }\n    Desp_CD.push(Desp_CD[0]);\n    Esfu_CD.push(Esfu_CD[0]);\n    // cerrar el dinagrama de fondo\n    // guardar las variables globales\n    global.set(\"Dinagrama.fondo.Desp_CD\", Desp_CD);\n    global.set(\"Dinagrama.fondo.Esfu_CD\", Esfu_CD);\n    flow.set(\"Desp_CD_F1\", Desp_CD);\n    flow.set(\"Esfu_CD_F1\", Esfu_CD);\n}else{\n    // no existen los vectores de desplazamiento y espuerzo\n    node.status({fill:\"red\",shape:\"dot\",text:\"NoCalculo\"});\n}\n\n// visualizacion de variables\ncontext.set(\"sizex\", sizex,\"memoryOnly\");\ncontext.set(\"sizey\", sizey,\"memoryOnly\");\ncontext.set(\"finalPoint\", finalPoint,\"memoryOnly\");\ncontext.set(\"Desp\", Desp_CD,\"memoryOnly\");\ncontext.set(\"Esfu\", Esfu_CD,\"memoryOnly\");\ncontext.set(\"Desp_CD_F1\", Desp_CD_F1,\"memoryOnly\");\ncontext.set(\"Esfu_CD_F1\", Esfu_CD_F1,\"memoryOnly\");\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -81706,7 +81731,9 @@
         "x": 470,
         "y": 700,
         "wires": [
-            []
+            [
+                "0d2386914381736d"
+            ]
         ]
     },
     {
@@ -81722,7 +81749,7 @@
         "template": "<!doctype html>\n<html lang=\"en\">\n<script>{{{script}}}</script>\n<style>{{{style}}}</style>\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n\n    <!-- Bootstrap CSS -->\n    <link rel=\"stylesheet\" href=\"http://localhost:1880/bootstrap/dist/css/bootstrap.min.css\">\n    {{!-- Libreria para la creacion de los PLOTs 3D --}}\n    <script src=\"http://localhost:1880/SocketRodPoint/lib/js/plotly-2.3.0.min.js\"></script>\n    \n  </head>\n  <body>\n\n    {{!-- variables invisibles --}}\n    <div id=\"x\" ng-bind-html=\"msg.x\" style=\"display:none\"></div>\n    {{!-- <div id=\"xvisual\" ng-bind-html=\"msg.x\" ></div> --}}\n    <div id=\"y\" ng-bind-html=\"msg.y\" style=\"display:none\"></div>\n    <div id=\"demo\" onclick=\"myFunction()\">Mostrar</div>\n     <div id='myDiv2'><!-- Plotly chart will be drawn inside this DIV --></div>\n     <script>\n            function myFunction() {\n                var x = document.getElementById(\"x\").innerHTML;//adquision de data desde nodered\n                var y = document.getElementById(\"y\").innerHTML;//adquision de data desde nodered\n                var x1 = x.split(\",\")\n                var y1 = y.split(\",\")\n                for(i = 0; i < x1.length; i++) {\n                    x1[i] = Redondeo(x1[i]);\n                    y1[i] = Redondeo(y1[i]);\n                }\n\n                var trace1  = {\n                    x: x1,\n                    y: y1,\n                    name: 'Dynagrama',\n                    type: 'scatter'\n                };\n                var trace2  = {\n                    x: [40],\n                    y: [2],\n                    name: 'Pump Off',\n                    mode: 'scatter'\n                };\n                var layout = {\n                    title: 'Dinagrama de Fondo',\n                    autosize: false,\n                    width: 720,\n                    height: 520,\n                    yaxis: {\n                        title: 'Carga [Klb]',\n                        tickmode: 'array',\n                        automargin: true,\n                        titlefont: { size:12 },\n                    },\n\n                    xaxis: {\n                        title: 'Posición [in]',\n                        automargin: true,\n                        titlefont: { size:12 },\n                    },\n                    images: [\n                            {\n                                source: \"http://localhost:1880/swcpro-images/hlogo.png\",\n                                xref: \"paper\",\n                                yref: \"paper\",\n                                sizing: \"stretch\",\n                                x: 0.25,\n                                y: 0,\n                                sizex: 0.6,\n                                sizey: 1,\n                                opacity: 0.1,\n                                xanchor: \"left\",\n                                yanchor: \"bottom\"\n                            }],\n                };\n\n                var data = [trace1,trace2];\n                Plotly.newPlot('myDiv2', data,layout);\n                \n                //document.getElementById(\"demo\").innerHTML = x1[1];\n                // alert(\"Calculo Completo\");\n                // funciones utilizadas\n                function Redondeo(x) {\n                    return Number.parseFloat(x).toFixed(2);\n                }\n            }\n    </script>\n\n    <script src=\"http://localhost:1880/jquery/jquery.min.js\"></script>\n    <script src=\"http://localhost:1880/popper.js/dist/popper.min.js\"></script>\n    <script src=\"http://localhost:1880/bootstrap/dist/js/bootstrap.min.js\"></script>\n  </body>\n  \n  <style>\n    .disable-select {\n        user-select: none; /* supported by Chrome and Opera /\n        -webkit-user-select: none; / Safari /\n       -khtml-user-select: none; / Konqueror HTML /\n       -moz-user-select: none; / Firefox /\n       -ms-user-select: none; / Internet Explorer/Edge */\n    }\n  </style>\n</html>",
         "output": "str",
         "x": 410,
-        "y": 920,
+        "y": 980,
         "wires": [
             [
                 "4334267f8a4d8098"
@@ -81742,7 +81769,7 @@
         "finalize": "",
         "libs": [],
         "x": 280,
-        "y": 920,
+        "y": 980,
         "wires": [
             [
                 "8914746db9ae7a19"
@@ -81771,7 +81798,7 @@
         "topic": "",
         "payloadType": "date",
         "x": 120,
-        "y": 920,
+        "y": 980,
         "wires": [
             [
                 "6f8a9d568196b643"
@@ -81794,7 +81821,7 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "x": 600,
-        "y": 920,
+        "y": 980,
         "wires": [
             []
         ]
@@ -107275,5 +107302,72 @@
         "x": 1235,
         "y": 480,
         "wires": []
+    },
+    {
+        "id": "0d2386914381736d",
+        "type": "function",
+        "z": "0919ca8b08ef5398",
+        "g": "7f4726c248df075a",
+        "name": "FiltroDinagrama",
+        "func": "var Desp_CD_F1 = flow.get(\"Desp_CD_F1\") || 0;\nvar Esfu_CD_F1 = flow.get(\"Esfu_CD_F1\") || 0;\nvar NumeroMuestras = flow.get(\"NumeroMuestras\")||0;\nvar Entro = context.get(\"Entro\")||0;\n// variables auxiliares para el filtro\n\nvar Desp_CD_F0= Desp_CD_F1[0];\nvar Desp_CD_F1P= Desp_CD_F1[1];\nvar Desp_CD_F2P= Desp_CD_F1[2];\nvar Desp_CD_F3= Desp_CD_F1[3];\nvar Desp_CD_F4= Desp_CD_F1[4];\nvar Desp_CD_F5= Desp_CD_F1[5];\nvar Desp_CD_F6= Desp_CD_F1[6];\nvar Desp_CD_F144= Desp_CD_F1[NumeroMuestras - 5];\nvar Desp_CD_F145= Desp_CD_F1[NumeroMuestras - 4];\nvar Desp_CD_F146= Desp_CD_F1[NumeroMuestras - 3];\nvar Desp_CD_F147= Desp_CD_F1[NumeroMuestras - 2];\nvar Desp_CD_F148= Desp_CD_F1[NumeroMuestras - 1];\nvar Desp_CD_F149= Desp_CD_F1[NumeroMuestras];\n\nvar Esfu_CD_F0= Esfu_CD_F1[0];\nvar Esfu_CD_F1P= Esfu_CD_F1[1];\nvar Esfu_CD_F2P= Esfu_CD_F1[2];\nvar Esfu_CD_F3= Esfu_CD_F1[3];\nvar Esfu_CD_F4= Esfu_CD_F1[4];\nvar Esfu_CD_F5= Esfu_CD_F1[5];\nvar Esfu_CD_F6= Esfu_CD_F1[6];\nvar Esfu_CD_F144= Esfu_CD_F1[NumeroMuestras - 5];\nvar Esfu_CD_F145= Esfu_CD_F1[NumeroMuestras - 4];\nvar Esfu_CD_F146= Esfu_CD_F1[NumeroMuestras - 3];\nvar Esfu_CD_F147= Esfu_CD_F1[NumeroMuestras - 2];\nvar Esfu_CD_F148= Esfu_CD_F1[NumeroMuestras - 1];\nvar Esfu_CD_F149= Esfu_CD_F1[NumeroMuestras];\nif (Desp_CD_F1 != 0 && Esfu_CD_F1 != 0){\n    node.status({fill:\"green\",shape:\"ring\",text:\"ok\"});\n    // creación del filtro\n    for (var Conteo12 = 0; Conteo12 <= NumeroMuestras-1; Conteo12++) {\n        if((Conteo12<=(NumeroMuestras-6))&&Conteo12>6){\n            Desp_CD_F1[Conteo12] = (Desp_CD_F1[Conteo12] + Desp_CD_F1[Conteo12 + 1] + Desp_CD_F1[Conteo12 + 2] + Desp_CD_F1[Conteo12 + 3] + Desp_CD_F1[Conteo12 + 4] + Desp_CD_F1[Conteo12 + 5] + Desp_CD_F1[Conteo12 + 6] + Desp_CD_F1[Conteo12 - 1] + Desp_CD_F1[Conteo12 - 2] + Desp_CD_F1[Conteo12 - 3] + Desp_CD_F1[Conteo12 - 4] + Desp_CD_F1[Conteo12 - 5] + Desp_CD_F1[Conteo12 - 6]) / 13.0;\n            Esfu_CD_F1[Conteo12] = (Esfu_CD_F1[Conteo12] + Esfu_CD_F1[Conteo12 + 1] + Esfu_CD_F1[Conteo12 + 2] + Esfu_CD_F1[Conteo12 + 3] + Esfu_CD_F1[Conteo12 + 4] + Esfu_CD_F1[Conteo12 + 5] + Esfu_CD_F1[Conteo12 + 6] + Esfu_CD_F1[Conteo12 - 1] + Esfu_CD_F1[Conteo12 - 2] + Esfu_CD_F1[Conteo12 - 3] + Esfu_CD_F1[Conteo12 - 4] + Esfu_CD_F1[Conteo12 - 5] + Esfu_CD_F1[Conteo12 - 6]) / 13.0;\n        }\n        if(Conteo12 == 0){\n\n            Desp_CD_F1[Conteo12] = (Desp_CD_F1[Conteo12] + Desp_CD_F1[Conteo12 + 1] + Desp_CD_F1[Conteo12 + 2] + Desp_CD_F1[Conteo12 + 3] + Desp_CD_F1[Conteo12 + 4] + Desp_CD_F1[Conteo12 + 5] + Desp_CD_F1[Conteo12 + 6] + Desp_CD_F149 + Desp_CD_F148 + Desp_CD_F147 + Desp_CD_F146 + Desp_CD_F145 + Desp_CD_F144) / 13.0;\n            Esfu_CD_F1[Conteo12] = (Esfu_CD_F1[Conteo12] + Esfu_CD_F1[Conteo12 + 1] + Esfu_CD_F1[Conteo12 + 2] + Esfu_CD_F1[Conteo12 + 3] + Esfu_CD_F1[Conteo12 + 4] + Esfu_CD_F1[Conteo12 + 5] + Esfu_CD_F1[Conteo12 + 6] + Esfu_CD_F149 + Esfu_CD_F148 + Esfu_CD_F147 + Esfu_CD_F146 + Esfu_CD_F145 + Esfu_CD_F144) / 13.0;\n        }\n        if (Conteo12 = 1) {\n        Desp_CD_F1[Conteo12] = (Desp_CD_F1[Conteo12] + Desp_CD_F1[Conteo12 + 1] + Desp_CD_F1[Conteo12 + 2] + Desp_CD_F1[Conteo12 + 3] + Desp_CD_F1[Conteo12 + 4] + Desp_CD_F1[Conteo12 + 5] + Desp_CD_F1[Conteo12 + 6] + Desp_CD_F1[Conteo12 - 1] + Desp_CD_F149 + Desp_CD_F148 + Desp_CD_F147 + Desp_CD_F146 + Desp_CD_F145) / 13.0;\n        Esfu_CD_F1[Conteo12] = (Esfu_CD_F1[Conteo12] + Esfu_CD_F1[Conteo12 + 1] + Esfu_CD_F1[Conteo12 + 2] + Esfu_CD_F1[Conteo12 + 3] + Esfu_CD_F1[Conteo12 + 4] + Esfu_CD_F1[Conteo12 + 5] + Esfu_CD_F1[Conteo12 + 6] + Esfu_CD_F1[Conteo12 - 1] + Esfu_CD_F149 + Esfu_CD_F148 + Esfu_CD_F147 + Esfu_CD_F146 + Esfu_CD_F145) / 13.0;\n        }\n\n        if (Conteo12 = 2){\n        Desp_CD_F1[Conteo12] = (Desp_CD_F1[Conteo12] + Desp_CD_F1[Conteo12 + 1] + Desp_CD_F1[Conteo12 + 2] + Desp_CD_F1[Conteo12 + 3] + Desp_CD_F1[Conteo12 + 4] + Desp_CD_F1[Conteo12 + 5] + Desp_CD_F1[Conteo12 + 6] + Desp_CD_F1[Conteo12 - 1] + Desp_CD_F1[Conteo12 - 2] + Desp_CD_F149 + Desp_CD_F148 + Desp_CD_F147 + Desp_CD_F146) / 13.0;\n        Esfu_CD_F1[Conteo12] = (Esfu_CD_F1[Conteo12] + Esfu_CD_F1[Conteo12 + 1] + Esfu_CD_F1[Conteo12 + 2] + Esfu_CD_F1[Conteo12 + 3] + Esfu_CD_F1[Conteo12 + 4] + Esfu_CD_F1[Conteo12 + 5] + Esfu_CD_F1[Conteo12 + 6] + Esfu_CD_F1[Conteo12 - 1] + Esfu_CD_F1[Conteo12 - 2] + Esfu_CD_F149 + Esfu_CD_F148 + Esfu_CD_F147 + Esfu_CD_F146) / 13.0;\n        }\n\n        if (Conteo12 = 3) {\n        Desp_CD_F1[Conteo12] = (Desp_CD_F1[Conteo12] + Desp_CD_F1[Conteo12 + 1] + Desp_CD_F1[Conteo12 + 2] + Desp_CD_F1[Conteo12 + 3] + Desp_CD_F1[Conteo12 + 4] + Desp_CD_F1[Conteo12 + 5] + Desp_CD_F1[Conteo12 + 6] + Desp_CD_F1[Conteo12 - 1] + Desp_CD_F1[Conteo12 - 2] + Desp_CD_F1[Conteo12 - 3] + Desp_CD_F149 + Desp_CD_F148 + Desp_CD_F147) / 13.0;\n        Esfu_CD_F1[Conteo12] = (Esfu_CD_F1[Conteo12] + Esfu_CD_F1[Conteo12 + 1] + Esfu_CD_F1[Conteo12 + 2] + Esfu_CD_F1[Conteo12 + 3] + Esfu_CD_F1[Conteo12 + 4] + Esfu_CD_F1[Conteo12 + 5] + Esfu_CD_F1[Conteo12 + 6] + Esfu_CD_F1[Conteo12 - 1] + Esfu_CD_F1[Conteo12 - 2] + Esfu_CD_F1[Conteo12 - 3] + Esfu_CD_F149 + Esfu_CD_F148 + Esfu_CD_F147) / 13.0;\n        }\n\n        if (Conteo12 = 4) {\n        Desp_CD_F1[Conteo12] = (Desp_CD_F1[Conteo12] + Desp_CD_F1[Conteo12 + 1] + Desp_CD_F1[Conteo12 + 2] + Desp_CD_F1[Conteo12 + 3] + Desp_CD_F1[Conteo12 + 4] + Desp_CD_F1[Conteo12 + 5] + Desp_CD_F1[Conteo12 + 6] + Desp_CD_F1[Conteo12 - 1] + Desp_CD_F1[Conteo12 - 2] + Desp_CD_F1[Conteo12 - 3] + Desp_CD_F1[Conteo12 - 4] + Desp_CD_F149 + Desp_CD_F148) / 13.0;\n        Esfu_CD_F1[Conteo12] = (Esfu_CD_F1[Conteo12] + Esfu_CD_F1[Conteo12 + 1] + Esfu_CD_F1[Conteo12 + 2] + Esfu_CD_F1[Conteo12 + 3] + Esfu_CD_F1[Conteo12 + 4] + Esfu_CD_F1[Conteo12 + 5] + Esfu_CD_F1[Conteo12 + 6] + Esfu_CD_F1[Conteo12 - 1] + Esfu_CD_F1[Conteo12 - 2] + Esfu_CD_F1[Conteo12 - 3] + Esfu_CD_F1[Conteo12 - 4] + Esfu_CD_F149 + Esfu_CD_F148) / 13.0;\n        }\n\n        if (Conteo12 = 5) {\n        Desp_CD_F1[Conteo12] = (Desp_CD_F1[Conteo12] + Desp_CD_F1[Conteo12 + 1] + Desp_CD_F1[Conteo12 + 2] + Desp_CD_F1[Conteo12 + 3] + Desp_CD_F1[Conteo12 + 4] + Desp_CD_F1[Conteo12 + 5] + Desp_CD_F1[Conteo12 + 6] + Desp_CD_F1[Conteo12 - 1] + Desp_CD_F1[Conteo12 - 2] + Desp_CD_F1[Conteo12 - 3] + Desp_CD_F1[Conteo12 - 4] + Desp_CD_F1[Conteo12 - 5] + Desp_CD_F149) / 13.0;\n        Esfu_CD_F1[Conteo12] = (Esfu_CD_F1[Conteo12] + Esfu_CD_F1[Conteo12 + 1] + Esfu_CD_F1[Conteo12 + 2] + Esfu_CD_F1[Conteo12 + 3] + Esfu_CD_F1[Conteo12 + 4] + Esfu_CD_F1[Conteo12 + 5] + Esfu_CD_F1[Conteo12 + 6] + Esfu_CD_F1[Conteo12 - 1] + Esfu_CD_F1[Conteo12 - 2] + Esfu_CD_F1[Conteo12 - 3] + Esfu_CD_F1[Conteo12 - 4] + Esfu_CD_F1[Conteo12 - 5] + Esfu_CD_F149) / 13.0;\n        }\n\n        if (Conteo12 = 6) {\n        Desp_CD_F1[Conteo12] = (Desp_CD_F1[Conteo12] + Desp_CD_F1[Conteo12 + 1] + Desp_CD_F1[Conteo12 + 2] + Desp_CD_F1[Conteo12 + 3] + Desp_CD_F1[Conteo12 + 4] + Desp_CD_F1[Conteo12 + 5] + Desp_CD_F1[Conteo12 + 6] + Desp_CD_F1[Conteo12 - 1] + Desp_CD_F1[Conteo12 - 2] + Desp_CD_F1[Conteo12 - 3] + Desp_CD_F1[Conteo12 - 4] + Desp_CD_F1[Conteo12 - 5] + Desp_CD_F1[Conteo12 - 6]) / 13.0;\n        Esfu_CD_F1[Conteo12] = (Esfu_CD_F1[Conteo12] + Esfu_CD_F1[Conteo12 + 1] + Esfu_CD_F1[Conteo12 + 2] + Esfu_CD_F1[Conteo12 + 3] + Esfu_CD_F1[Conteo12 + 4] + Esfu_CD_F1[Conteo12 + 5] + Esfu_CD_F1[Conteo12 + 6] + Esfu_CD_F1[Conteo12 - 1] + Esfu_CD_F1[Conteo12 - 2] + Esfu_CD_F1[Conteo12 - 3] + Esfu_CD_F1[Conteo12 - 4] + Esfu_CD_F1[Conteo12 - 5] + Esfu_CD_F1[Conteo12 - 6]) / 13.0;\n        }\n\n\n        if (Conteo12 = NumeroMuestras - 5) {\n        Desp_CD_F1[Conteo12] = (Desp_CD_F1[Conteo12] + Desp_CD_F145 + Desp_CD_F146 + Desp_CD_F147 + Desp_CD_F148 + Desp_CD_F149 + Desp_CD_F0 + Desp_CD_F1[Conteo12 - 1] + Desp_CD_F1[Conteo12 - 2] + Desp_CD_F1[Conteo12 - 3] + Desp_CD_F1[Conteo12 - 4] + Desp_CD_F1[Conteo12 - 5] + Desp_CD_F1[Conteo12 - 6]) / 13.0;\n        Esfu_CD_F1[Conteo12] = (Esfu_CD_F1[Conteo12] + Esfu_CD_F145 + Esfu_CD_F146 + Esfu_CD_F147 + Esfu_CD_F148 + Esfu_CD_F149 + Esfu_CD_F0 + Esfu_CD_F1[Conteo12 - 1] + Esfu_CD_F1[Conteo12 - 2] + Esfu_CD_F1[Conteo12 - 3] + Esfu_CD_F1[Conteo12 - 4] + Esfu_CD_F1[Conteo12 - 5] + Esfu_CD_F1[Conteo12 - 6]) / 13.0;\n        }\n\n        if (Conteo12 = NumeroMuestras - 4) {\n        Desp_CD_F1[Conteo12] = (Desp_CD_F1[Conteo12] + Desp_CD_F149 + Desp_CD_F148 + Desp_CD_F147 + Desp_CD_F146 + Desp_CD_F1P + Desp_CD_F0 + Desp_CD_F1[Conteo12 - 1] + Desp_CD_F1[Conteo12 - 2] + Desp_CD_F1[Conteo12 - 3] + Desp_CD_F1[Conteo12 - 4] + Desp_CD_F1[Conteo12 - 5] + Desp_CD_F1[Conteo12 - 6]) / 13.0;\n        Esfu_CD_F1[Conteo12] = (Esfu_CD_F1[Conteo12] + Esfu_CD_F149 + Esfu_CD_F148 + Esfu_CD_F147 + Esfu_CD_F146 + Esfu_CD_F1P + Esfu_CD_F0 + Esfu_CD_F1[Conteo12 - 1] + Esfu_CD_F1[Conteo12 - 2] + Esfu_CD_F1[Conteo12 - 3] + Esfu_CD_F1[Conteo12 - 4] + Esfu_CD_F1[Conteo12 - 5] + Esfu_CD_F1[Conteo12 - 6]) / 13.0;\n        }\n\n        if (Conteo12 = NumeroMuestras - 3) {\n        Desp_CD_F1[Conteo12] = (Desp_CD_F1[Conteo12] + Desp_CD_F149 + Desp_CD_F148 + Desp_CD_F147 + Desp_CD_F2P + Desp_CD_F1P + Desp_CD_F0 + Desp_CD_F1[Conteo12 - 1] + Desp_CD_F1[Conteo12 - 2] + Desp_CD_F1[Conteo12 - 3] + Desp_CD_F1[Conteo12 - 4] + Desp_CD_F1[Conteo12 - 5] + Desp_CD_F1[Conteo12 - 6]) / 13.0;\n        Esfu_CD_F1[Conteo12] = (Esfu_CD_F1[Conteo12] + Esfu_CD_F149 + Esfu_CD_F148 + Esfu_CD_F147 + Esfu_CD_F2P + Esfu_CD_F1P + Esfu_CD_F0 + Esfu_CD_F1[Conteo12 - 1] + Esfu_CD_F1[Conteo12 - 2] + Esfu_CD_F1[Conteo12 - 3] + Esfu_CD_F1[Conteo12 - 4] + Esfu_CD_F1[Conteo12 - 5] + Esfu_CD_F1[Conteo12 - 6]) / 13.0;\n        }\n\n        if (Conteo12 = NumeroMuestras - 2) {\n        Desp_CD_F1[Conteo12] = (Desp_CD_F1[Conteo12] + Desp_CD_F149 + Desp_CD_F148 + Desp_CD_F3 + Desp_CD_F2P + Desp_CD_F1P + Desp_CD_F0 + Desp_CD_F1[Conteo12 - 1] + Desp_CD_F1[Conteo12 - 2] + Desp_CD_F1[Conteo12 - 3] + Desp_CD_F1[Conteo12 - 4] + Desp_CD_F1[Conteo12 - 5] + Desp_CD_F1[Conteo12 - 6]) / 13.0;\n        Esfu_CD_F1[Conteo12] = (Esfu_CD_F1[Conteo12] + Esfu_CD_F149 + Esfu_CD_F148 + Esfu_CD_F3 + Esfu_CD_F2P + Esfu_CD_F1P + Esfu_CD_F0 + Esfu_CD_F1[Conteo12 - 1] + Esfu_CD_F1[Conteo12 - 2] + Esfu_CD_F1[Conteo12 - 3] + Esfu_CD_F1[Conteo12 - 4] + Esfu_CD_F1[Conteo12 - 5] + Esfu_CD_F1[Conteo12 - 6]) / 13.0;\n        }\n\n        if (Conteo12 = NumeroMuestras - 1) {\n        Desp_CD_F1[Conteo12] = (Desp_CD_F1[Conteo12] + Desp_CD_F149 + Desp_CD_F4 + Desp_CD_F3 + Desp_CD_F2P + Desp_CD_F1P + Desp_CD_F0 + Desp_CD_F1[Conteo12 - 1] + Desp_CD_F1[Conteo12 - 2] + Desp_CD_F1[Conteo12 - 3] + Desp_CD_F1[Conteo12 - 4] + Desp_CD_F1[Conteo12 - 5] + Desp_CD_F1[Conteo12 - 6]) / 13.0;\n        Esfu_CD_F1[Conteo12] = (Esfu_CD_F1[Conteo12] + Esfu_CD_F149 + Esfu_CD_F4 + Esfu_CD_F3 + Esfu_CD_F2P + Esfu_CD_F1P + Esfu_CD_F0 + Esfu_CD_F1[Conteo12 - 1] + Esfu_CD_F1[Conteo12 - 2] + Esfu_CD_F1[Conteo12 - 3] + Esfu_CD_F1[Conteo12 - 4] + Esfu_CD_F1[Conteo12 - 5] + Esfu_CD_F1[Conteo12 - 6]) / 13.0;\n        }\n\n        if (Conteo12 = NumeroMuestras) {\n        Esfu_CD_F1[Conteo12] = Esfu_CD_F1[0];\n        Desp_CD_F1[Conteo12] = Desp_CD_F1[0];\n        }\n        \n    }\n    // guardar los vectores\n    global.set(\"Dinagrama.fondo.Desp_CD\", Desp_CD_F1);\n    global.set(\"Dinagrama.fondo.Esfu_CD\", Esfu_CD_F1);\n    flow.set(\"Desp_CD_F1\",Desp_CD_F1);\n    flow.set(\"Esfu_CD_F1\",Esfu_CD_F1);\n\n}else{\n    node.status({fill:\"green\",shape:\"ring\",text:\"NODinagrama\"});\n}\ncontext.set(\"NumeroMuestras\", NumeroMuestras,\"memoryOnly\");\ncontext.set(\"Esfu_CD_F1\", Esfu_CD_F1,\"memoryOnly\");\ncontext.set(\"Desp_CD_F1\", Desp_CD_F1,\"memoryOnly\");\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 480,
+        "y": 760,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "560c026c2d61acbd",
+        "type": "function",
+        "z": "0919ca8b08ef5398",
+        "g": "1ec8ef96430984c9",
+        "name": "Data",
+        "func": "\n// datos iniciales no borrar\n// var x = [0.033277, 0.298705, 0.669662, 1.142543, 1.738089, 2.445315, 3.24979, 4.16783, 5.191564, 6.2639, 7.402083, 8.644076, 9.995452, 11.436207, 12.939613, 14.526823, 16.207429, 17.955852, 19.767089, 21.661885, 23.624661, 25.635197, 27.697951, 29.828932, 31.998408, 34.196706, 36.431962, 38.706677, 41.013411, 43.348044, 45.724339, 48.149071, 50.476498, 52.779014, 55.120742, 57.459779, 59.748734, 62.024175, 64.298563, 66.545006, 68.754159, 70.919379, 73.046079, 75.123682, 77.140381, 79.09421, 80.977625, 82.811451, 84.579372, 86.249988, 87.835515, 89.337428, 90.736624, 92.029825, 93.241625, 94.357514, 95.357404, 96.268926, 97.088471, 97.786361, 98.380386, 98.874318, 99.279144, 99.586828, 99.810243, 99.950044, 100, 99.969048, 99.84817, 99.656304, 99.38845, 99.04231, 98.631415, 98.154287, 97.60945, 97.003055, 96.349038, 95.605669, 94.789098, 93.9618, 93.076469, 92.111869, 91.121867, 90.096869, 89.000145, 87.842846, 86.656537, 85.425313, 84.132857, 82.808357, 81.434432, 79.999276, 78.532158, 77.02775, 75.449812, 73.823023, 72.176406, 70.472903, 68.718008, 66.958862, 65.136436, 63.233183, 61.321827, 59.397612, 57.405607, 55.372212, 53.344732, 51.283979, 49.176999, 47.05716, 44.92315, 42.768083, 40.577774, 38.367145, 36.162597, 33.921988, 31.66278, 29.433932, 27.208785, 25.003011, 22.846217, 20.749532, 18.705578, 16.740837, 14.852849, 12.993374, 11.230657, 9.571503, 8.026405, 6.6034, 5.317899, 4.165887, 3.161054, 2.300859, 1.572431, 0.977982, 0.51571, 0.198895, 0.033277, 0];\n// var y = [9.325307, 9.676723, 9.676723, 9.580882, 9.788537, 9.820484, 9.596856, 9.676723, 9.548935, 9.485041, 10.012166, 10.363582, 10.475396, 10.730972, 10.90668, 11.002521, 11.258096, 11.433804, 11.513671, 11.717333, 11.835137, 11.917001, 11.809181, 11.631476, 11.226149, 10.970574, 10.794866, 10.651104, 10.459423, 10.267741, 10.139953, 9.996192, 9.820484, 9.628803, 9.516988, 9.692696, 9.900351, 10.07606, 10.187874, 10.315662, 10.331635, 10.331635, 10.443449, 10.507343, 10.443449, 10.53929, 10.699025, 10.571237, 10.251768, 9.980219, 9.804511, 9.612829, 9.405174, 9.357254, 9.34128, 9.149599, 8.97389, 9.021811, 8.92597, 8.734288, 8.909997, 9.245439, 9.437121, 9.532962, 9.75659, 9.884378, 9.932298, 9.964245, 9.900351, 9.996192, 9.948272, 10.028139, 10.139953, 9.964245, 9.628803, 9.469068, 9.469068, 9.34128, 9.149599, 9.245439, 9.29336, 9.117652, 9.053758, 9.245439, 9.181545, 9.085705, 9.373227, 9.70867, 9.692696, 9.644776, 9.788537, 9.868405, 9.628803, 9.548935, 9.612829, 9.421147, 9.165572, 9.037784, 8.814156, 8.350925, 7.903668, 7.759907, 7.711987, 7.456411, 7.200836, 7.168889, 7.041101, 6.705658, 6.561897, 6.753579, 6.929287, 7.184862, 7.536279, 7.855748, 7.919642, 7.887695, 8.09535, 8.318978, 8.334952, 8.526633, 8.766235, 8.734288, 8.686368, 8.718315, 8.414819, 8.223138, 8.366899, 8.350925, 8.366899, 8.51066, 8.478713, 8.382872, 8.494686, 8.51066, 8.55858, 8.750262, 8.941944, 9.229466, 9.373227, 9.29336];\n\nvar x = flow.get(\"Desp_CD_F1\") || 0;\nvar y = flow.get(\"Esfu_CD_F1\") || 0;\ncontext.set(\"x\",x,\"memoryOnly\");\ncontext.set(\"y\",y,\"memoryOnly\");\nif(x != 0 && y != 0){\n    // si esta configurado\n    msg.x = x;\n    msg.y = y;\n    return msg;\n}else{\n    node.status({fill:\"red\",shape:\"dot\",text:\"NoTieneData\"});\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 270,
+        "y": 900,
+        "wires": [
+            [
+                "e7ec24dcc5895e50"
+            ]
+        ]
+    },
+    {
+        "id": "ad10672d9f73d738",
+        "type": "inject",
+        "z": "0919ca8b08ef5398",
+        "g": "1ec8ef96430984c9",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payloadType": "date",
+        "x": 120,
+        "y": 900,
+        "wires": [
+            [
+                "560c026c2d61acbd"
+            ]
+        ]
     }
 ]
