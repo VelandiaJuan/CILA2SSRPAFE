@@ -1,6 +1,6 @@
 {
     "name": "CILA2S_ESP_Rubiales_Recharged_Ultra",
-    "description": "MONOPOZO 15\"",
+    "description": "SRP 10\" AFE",
     "version": "2.0.0",
     "dependencies": {
         "node-red-contrib-finite-statemachine": "2.1.1",
