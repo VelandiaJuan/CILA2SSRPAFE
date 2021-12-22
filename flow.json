@@ -2788,7 +2788,6 @@
         },
         "nodes": [
             "dcf5c1f29197f61c",
-            "590065f4322532b6",
             "f415b27484203371",
             "b99b50110c130a3d",
             "41e58bc56873cf21",
@@ -2803,10 +2802,13 @@
             "f9aa5d06fd27dc2c",
             "444951382a661254",
             "3fe6ba310d6fe1c0",
-            "7e1e2393241c4da6"
+            "7e1e2393241c4da6",
+            "dc25a197792f9812"
         ],
         "x": 154,
-        "y": 779
+        "y": 779,
+        "w": 1152,
+        "h": 342
     },
     {
         "id": "99fd9c5cbd90ceb5",
@@ -2823,7 +2825,9 @@
             "5e3e278f18c43297"
         ],
         "x": 154,
-        "y": 1159
+        "y": 1159,
+        "w": 492,
+        "h": 122
     },
     {
         "id": "aecdec289959a88b",
@@ -2853,7 +2857,9 @@
             "c029b9bec80247e8"
         ],
         "x": 154,
-        "y": 459
+        "y": 459,
+        "w": 1092,
+        "h": 282
     },
     {
         "id": "6c6732761a2613b5",
@@ -3262,7 +3268,9 @@
             "a0b90b4f54fbae9f"
         ],
         "x": 674,
-        "y": 1159
+        "y": 1159,
+        "w": 1142,
+        "h": 222
     },
     {
         "id": "9ff47da5fe193161",
@@ -3345,7 +3353,9 @@
             "d5eb026a704fd13b"
         ],
         "x": 154,
-        "y": 179
+        "y": 179,
+        "w": 1392,
+        "h": 162
     },
     {
         "id": "e4cabd2892b5651b",
@@ -3371,7 +3381,9 @@
             "44b52a5ca865f32a"
         ],
         "x": 114,
-        "y": 999
+        "y": 999,
+        "w": 862,
+        "h": 242
     },
     {
         "id": "65dbd90af70f1e98",
@@ -3400,7 +3412,9 @@
             "c9ef5029dfa1dca4"
         ],
         "x": 114,
-        "y": 599
+        "y": 599,
+        "w": 968,
+        "h": 375.5
     },
     {
         "id": "2ceb8ec502cd9a4d",
@@ -3427,7 +3441,9 @@
             "86a9047e4057bacf"
         ],
         "x": 1254,
-        "y": 599
+        "y": 599,
+        "w": 692,
+        "h": 322
     },
     {
         "id": "7fd14179472bdff0",
@@ -3456,10 +3472,15 @@
             "af1bfa09ad24bbee",
             "8db6319d8e9d7d24",
             "6f05a009383c5e7c",
-            "9caea9d1e37c9273"
+            "9caea9d1e37c9273",
+            "29a69eac175c133c",
+            "f53a59615c13ca9c",
+            "3d79a61c74a2c05e"
         ],
         "x": 114,
-        "y": 279
+        "y": 239,
+        "w": 1292,
+        "h": 282
     },
     {
         "id": "b76c959d391c2570",
@@ -3581,7 +3602,9 @@
             "e560dfdfebe2fd7d"
         ],
         "x": 14,
-        "y": 419
+        "y": 419,
+        "w": 1672,
+        "h": 262
     },
     {
         "id": "162691d3abd26ddb",
@@ -3637,7 +3660,9 @@
             "4cffd004074e8a5b"
         ],
         "x": 1714,
-        "y": 19
+        "y": 19,
+        "w": 1252,
+        "h": 522
     },
     {
         "id": "bca72b7420df46a9",
@@ -3654,7 +3679,9 @@
             "d264a0cf20ef8465"
         ],
         "x": 14,
-        "y": 1139
+        "y": 1139,
+        "w": 492,
+        "h": 122
     },
     {
         "id": "f4c2cbbaa70a9690",
@@ -3708,7 +3735,9 @@
             "6ed90a8920505a76"
         ],
         "x": 14,
-        "y": 719
+        "y": 719,
+        "w": 1382,
+        "h": 382
     },
     {
         "id": "fd781041a7a8fbec",
@@ -3744,7 +3773,9 @@
             "08ec9dde6065ed99"
         ],
         "x": 14,
-        "y": 79
+        "y": 79,
+        "w": 1122,
+        "h": 322
     },
     {
         "id": "73546535bd657e5f",
@@ -3770,7 +3801,9 @@
             "bb22ffcb688c15d2"
         ],
         "x": 1354,
-        "y": 179
+        "y": 179,
+        "w": 1042,
+        "h": 222
     },
     {
         "id": "abfc5c293f394682",
@@ -3785,14 +3818,11 @@
             "f3725f49b1e49b20",
             "6a9062bd190db550",
             "df8e483d5526c510",
-            "b6ccf7628a758b36",
-            "b862b007fadc3854",
             "f29cf89058d2bf0c",
             "c64adff573b33d8e",
             "5ba3bd2da473a65e",
             "f87215caf347b889",
             "c35adde9b5af3493",
-            "f90a82bb260e58f9",
             "ddd09a126914e360",
             "2f923bf00fd6503f",
             "b56f728504cd4913",
@@ -3811,10 +3841,14 @@
             "ba4ade2274a727fa",
             "264babaaa7723c2e",
             "743c2eab596e36db",
-            "e869301ec7102570"
+            "e869301ec7102570",
+            "70bb5fbc3b6775da",
+            "3a607a8c4e851e60"
         ],
         "x": 114,
-        "y": 179
+        "y": 219,
+        "w": 1182,
+        "h": 382
     },
     {
         "id": "0e0b9759209dfb2f",
@@ -3854,7 +3888,9 @@
             "13f3a541f69a175b"
         ],
         "x": 114,
-        "y": 639
+        "y": 639,
+        "w": 792,
+        "h": 462
     },
     {
         "id": "07f02b70dd167ae5",
@@ -3875,7 +3911,9 @@
             "c0e57e8a82e6d05a"
         ],
         "x": 1354,
-        "y": 759
+        "y": 759,
+        "w": 912,
+        "h": 122
     },
     {
         "id": "7d20e2da985dd33b",
@@ -3901,7 +3939,9 @@
             "17f0cfed3a423e5f"
         ],
         "x": 1354,
-        "y": 519
+        "y": 519,
+        "w": 1042,
+        "h": 222
     },
     {
         "id": "27eadf663f119ea4",
@@ -3917,7 +3957,9 @@
             "5b99a9cea8e23964"
         ],
         "x": 1354,
-        "y": 419
+        "y": 419,
+        "w": 532,
+        "h": 82
     },
     {
         "id": "5f073a0997d5cb40",
@@ -3932,9 +3974,7 @@
             "d115ffc88399fa0e"
         ],
         "x": 8,
-        "y": 413,
-        "w": 654,
-        "h": 294
+        "y": 413
     },
     {
         "id": "ce07caa8578887e5",
@@ -3949,9 +3989,7 @@
             "705a2916f49a5d9c"
         ],
         "x": 28,
-        "y": 13,
-        "w": 1754,
-        "h": 394
+        "y": 13
     },
     {
         "id": "eba7ccecbe9c1b4f",
@@ -3967,9 +4005,7 @@
             "251e634bb726d126"
         ],
         "x": 564,
-        "y": 759,
-        "w": 282,
-        "h": 82
+        "y": 759
     },
     {
         "id": "092aed0af97581d2",
@@ -3988,9 +4024,7 @@
             "9289963bf572e5fa"
         ],
         "x": 34,
-        "y": 719,
-        "w": 462,
-        "h": 202
+        "y": 719
     },
     {
         "id": "1306de9a.9ba341",
@@ -5493,7 +5527,9 @@
             "a6ae08b25206a8fb"
         ],
         "x": 154,
-        "y": 799
+        "y": 799,
+        "w": 902,
+        "h": 149.5
     },
     {
         "id": "b692a9f8cbb5191a",
@@ -5526,9 +5562,7 @@
             "a79ebbe030cb9598"
         ],
         "x": 54,
-        "y": 39,
-        "w": 1422,
-        "h": 212
+        "y": 39
     },
     {
         "id": "705a2916f49a5d9c",
@@ -5555,9 +5589,7 @@
             "cf66373bb23bedf0"
         ],
         "x": 54,
-        "y": 259,
-        "w": 1702,
-        "h": 122
+        "y": 259
     },
     {
         "id": "d115ffc88399fa0e",
@@ -5579,9 +5611,7 @@
             "1f09a6517beb7198"
         ],
         "x": 34,
-        "y": 439,
-        "w": 602,
-        "h": 242
+        "y": 439
     },
     {
         "id": "a80677cf.4274c8",
@@ -11520,7 +11550,7 @@
         "type": "function",
         "z": "222e9a8dc8f57193",
         "name": "conversionHz",
-        "func": "var spm = msg.payload;//spm seteada por la entrada\nvar PoleaGrande = global.get(\"C2S.Motor_Control.Nameplate.PoleaGrande\")||0;\nvar PoleaPequena = global.get(\"C2S.Motor_Control.Nameplate.PoleaPequena\")||0;\nvar RGB = global.get(\"C2S.Motor_Control.Nameplate.RGB\")||0;\nvar RPM = global.get(\"C2S.Motor_Control.Nameplate.RPM\")||0;\nvar HertzMotor = global.get(\"C2S.Motor_Control.Nameplate.Hertz\")||0;\n\n// guardar las variables\ncontext.set(\"spm\", spm, \"memoryOnly\");\ncontext.set(\"PoleaGrande\", PoleaGrande, \"memoryOnly\");\ncontext.set(\"PoleaPequena\", PoleaPequena, \"memoryOnly\");\ncontext.set(\"RGB\", RGB, \"memoryOnly\");\ncontext.set(\"HertzMotor\", HertzMotor, \"memoryOnly\");\ncontext.set(\"RPM\", RPM, \"memoryOnly\");\ncontext.set(\"relSRP1\", relSRP1, \"memoryOnly\");\ncontext.set(\"relSRP2\", relSRP2, \"memoryOnly\");\n\nif ((PoleaGrande != 0) && (RGB != 0) && (RPM != 0) && HertzMotor!= 0){\n    node.status({fill:\"green\",shape:\"dot\",text:\"Configurado\"});\n    var relSRP1 = spm*PoleaGrande*RGB*HertzMotor;\n    var relSRP2 = RPM*PoleaPequena\n    if(relSRP2 != 0){//ejecute si la relacion de SRP2 está correcta\n        var hz = relSRP1/relSRP2;\n        msg.payload = hz;\n        context.set(\"hz\", hz, \"memoryOnly\");\n        // setea la variable global\n        global.set(\"Input.Operation.Reference\", hz, \"memoryOnly\");\n        global.set(\"C2S.Last_Reference.Value\", hz, \"memoryOnly\");\n        global.set(\"Input.Operation.spm\", spm, \"memoryOnly\");\n        return msg;\n    }\n\n}else{\n    node.status({fill:\"red\",shape:\"dot\",text:\"NoConfigurado\"});\n}\n",
+        "func": "var spm = msg.payload;//spm seteada por la entrada\nvar PoleaGrande = global.get(\"C2S.Motor_Control.Nameplate.PoleaGrande\")||0;\nvar PoleaPequena = global.get(\"C2S.Motor_Control.Nameplate.PoleaPequena\")||0;\nvar RGB = global.get(\"C2S.Motor_Control.Nameplate.RGB\")||0;\nvar RPM = global.get(\"C2S.Motor_Control.Nameplate.RPM\")||0;\nvar HertzMotor = global.get(\"C2S.Motor_Control.Nameplate.Hertz\")||0;\n\n// guardar las variables\ncontext.set(\"spm\", spm, \"memoryOnly\");\ncontext.set(\"PoleaGrande\", PoleaGrande, \"memoryOnly\");\ncontext.set(\"PoleaPequena\", PoleaPequena, \"memoryOnly\");\ncontext.set(\"RGB\", RGB, \"memoryOnly\");\ncontext.set(\"HertzMotor\", HertzMotor, \"memoryOnly\");\ncontext.set(\"RPM\", RPM, \"memoryOnly\");\ncontext.set(\"relSRP1\", relSRP1, \"memoryOnly\");\ncontext.set(\"relSRP2\", relSRP2, \"memoryOnly\");\n\nif ((PoleaGrande != 0) && (RGB != 0) && (RPM != 0) && HertzMotor!= 0){\n    node.status({fill:\"green\",shape:\"dot\",text:\"Configurado\"});\n    var relSRP1 = spm*PoleaGrande*RGB*HertzMotor;\n    var relSRP2 = RPM*PoleaPequena\n    if(relSRP2 != 0){//ejecute si la relacion de SRP2 está correcta\n        var hz = relSRP1/relSRP2;\n        hz = parseFloat(hz.toFixed(4));//redondeo a 4 cifras\n        msg.payload = hz;\n        context.set(\"hz\", hz, \"memoryOnly\");\n        // setea la variable global\n        global.set(\"Input.Operation.Reference\", hz, \"memoryOnly\");\n        global.set(\"C2S.Last_Reference.Value\", hz, \"memoryOnly\");\n        global.set(\"Input.Operation.spm\", spm, \"memoryOnly\");\n        return msg;\n    }\n\n}else{\n    node.status({fill:\"red\",shape:\"dot\",text:\"NoConfigurado\"});\n}\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -81104,7 +81134,7 @@
         "targetType": "msg",
         "statusVal": "payload",
         "statusType": "auto",
-        "x": 900,
+        "x": 960,
         "y": 1060,
         "wires": []
     },
@@ -81126,30 +81156,12 @@
         ]
     },
     {
-        "id": "590065f4322532b6",
-        "type": "debug",
-        "z": "8c6f930882747645",
-        "g": "0e5fc807c9fa372e",
-        "name": "tiempo",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": true,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "payload",
-        "statusType": "auto",
-        "x": 680,
-        "y": 960,
-        "wires": []
-    },
-    {
         "id": "f415b27484203371",
         "type": "function",
         "z": "8c6f930882747645",
         "g": "0e5fc807c9fa372e",
         "name": "LogicaControlOnOff",
-        "func": "var habilitado = global.get(\"Control_functions.Controlon_off.habilitado\")||false;\nvar ton = global.get(\"Control_functions.Controlon_off.ton\") || 0;//tiempo de alta\nvar toff = global.get(\"Control_functions.Controlon_off.toff\") || 0;//tiempo de baja\nvar estado = global.get(\"Control_functions.Controlon_off.estado\") || false;//estado del equipo\nvar buttonComand = global.get(\"Control_functions.Controlon_off.buttonComand\") || false;//boton de arranque del sistema\nvar At_Setpt_Spd = global.get(\"C2S.Drive_Status.At_Setpt_Spd\",\"memoryOnly\")||0;//llegó a referencia el VSD\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\",\"memoryOnly\")||false;\n// flag de estado del arranque automatico\nvar AutomaticRestart = global.get(\"Control_functions.ActiveCF.AutomaticRestart\",\"memoryOnly\")||false;\nvar flagArranqueAutomatico = context.get(\"flagArranqueAutomatico\",\"memoryOnly\")||false;\nvar ctr = context.get(\"ctr\",ctr)||0;\nvar time = 0;\nvar flag = context.get(\"flag\",\"memoryOnly\")||false; //seteo de flag para identificar si ya ha llegado a la referencia\nif (habilitado == true && comunicacion == true) {\n    //visualizar estado del habilitado\n    node.status({ fill: \"green\", shape: \"dot\", text: \"habilitado\" });\n    if (toff != 0 && ton != 0) {\n        // logica para cambiar entre estados\n        if (AutomaticRestart == true && flagArranqueAutomatico == false){\n            node.status({ fill: \"yellow\", shape: \"dot\", text: \"esperandoArranque\" });\n            buttonComand = false;//se ejecuta una sola vez\n            estado = true;\n            flagArranqueAutomatico = true;//ya se ejecuto el arranque automatico\n        }else if(flagArranqueAutomatico == true){\n            buttonComand = true;//inicie la operación\n            flagArranqueAutomatico = false;\n        }\n        if (estado == true && buttonComand == true ) {\n            node.status({ fill: \"green\", shape: \"dot\", text: estado });\n            if (At_Setpt_Spd == 1){//El VSD ya llegó a la referencia\n                ctr = ctr + 1;\n                flag = true;\n            }else if(flag == true){//seguir contando el tiempo\n                ctr = ctr + 1;\n            }\n            else{\n                ctr = ctr;//No aumente el tiempo\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = ton - ctr;\n            if (ton == ctr) {\n                global.set(\"Control_functions.Controlon_off.estado\", false);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > ton) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        } else if (estado == false && buttonComand == true){\n            node.status({ fill: \"red\", shape: \"dot\", text: estado });\n            if (At_Setpt_Spd == 0){//El VSD ya se paro\n                ctr = ctr + 1;\n                flag = false;//seteo de la flag\n            }\n            else{\n                ctr = ctr;\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = toff - ctr;\n            if (toff == ctr) {\n                global.set(\"Control_functions.Controlon_off.estado\", true);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > toff) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        }else {\n            estado = \"pausa\";\n            time = 0;\n        }\n\n    } else {\n        node.status({ fill: \"red\", shape: \"dot\", text: \"tiemposNoConfigurados\" });\n        time = 0;\n        estado = \"tiemposNoConfigurados\";\n        flag = false;\n    }\n} else if (habilitado == false && comunicacion == true) {\n    global.set(\"Control_functions.Controlon_off.estado\", true);\n    context.set(\"ctr\", 0)//setear el contador\n    time = time ;\n    estado = \"deshabilitado\";\n    flag = false\n    node.status({ fill: \"red\", shape: \"dot\", text: estado });\n}else if (comunicacion == false){\n    node.status({ fill: \"red\", shape: \"dot\", text: \"falloComunicacion\" });\n    global.set(\"Control_functions.Controlon_off.estado\", false);//setee el estado de activar en bajo\n    context.set(\"ctr\", 0)//setear el contador\n    time = 0;\n    estado = \"falloComunicacion\";\n    flag = false\n}\n// set variables\ncontext.set(\"habilitado\",habilitado,\"memoryOnly\");\ncontext.set(\"estado\",estado,\"memoryOnly\");\ncontext.set(\"toff\",toff,\"memoryOnly\");\ncontext.set(\"ton\",ton,\"memoryOnly\");\ncontext.set(\"time\",time,\"memoryOnly\");\ncontext.set(\"time\",time,\"memoryOnly\");\ncontext.set(\"buttonComand\", buttonComand,\"memoryOnly\");\ncontext.set(\"At_Setpt_Spd\", At_Setpt_Spd,\"memoryOnly\");\ncontext.set(\"flag\", flag,\"memoryOnly\");\n\ntime = { payload: time };\nestado = { payload: estado };\nreturn [estado, time];\n",
+        "func": "var habilitado = global.get(\"Control_functions.Controlon_off.habilitado\")||false;\nvar ton = global.get(\"Control_functions.Controlon_off.ton\") || 0;//tiempo de alta\nvar toff = global.get(\"Control_functions.Controlon_off.toff\") || 0;//tiempo de baja\nvar estado = global.get(\"Control_functions.Controlon_off.estado\") || false;//estado del equipo\nvar buttonComand = global.get(\"Control_functions.Controlon_off.buttonComand\") || false;//boton de arranque del sistema\nvar At_Setpt_Spd = global.get(\"C2S.Drive_Status.At_Setpt_Spd\",\"memoryOnly\")||0;//llegó a referencia el VSD\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\",\"memoryOnly\")||false;\n// flag de estado del arranque automatico\nvar AutomaticRestart = global.get(\"Control_functions.ActiveCF.AutomaticRestart\",\"memoryOnly\")||false;\nvar flagArranqueAutomatico = context.get(\"flagArranqueAutomatico\",\"memoryOnly\")||false;\nvar ctr = context.get(\"ctr\",ctr)||0;\nvar time = 0,color;\nvar flag = context.get(\"flag\",\"memoryOnly\")||false; //seteo de flag para identificar si ya ha llegado a la referencia\nif (habilitado == true && comunicacion == true) {\n    //visualizar estado del habilitado\n    color = \"green\";\n    if (toff != 0 && ton != 0) {\n        // logica para cambiar entre estados\n        if (AutomaticRestart == true && flagArranqueAutomatico == false){\n            node.status({ fill: \"yellow\", shape: \"dot\", text: \"esperandoArranque\" });\n            buttonComand = false;//se ejecuta una sola vez\n            estado = true;\n            flagArranqueAutomatico = true;//ya se ejecuto el arranque automatico\n        }else if(flagArranqueAutomatico == true){\n            buttonComand = true;//inicie la operación\n            flagArranqueAutomatico = false;\n        }\n        if (estado == true && buttonComand == true ) {\n            color = \"green\";\n            if (At_Setpt_Spd == 1){//El VSD ya llegó a la referencia\n                ctr = ctr + 1;\n                flag = true;\n            }else if(flag == true){//seguir contando el tiempo\n                ctr = ctr + 1;\n            }\n            else{\n                ctr = ctr;//No aumente el tiempo\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = ton - ctr;\n            if (ton == ctr) {\n                global.set(\"Control_functions.Controlon_off.estado\", false);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > ton) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        } else if (estado == false && buttonComand == true){\n            color = \"red\";\n            if (At_Setpt_Spd == 0){//El VSD ya se paro\n                ctr = ctr + 1;\n                flag = false;//seteo de la flag\n            }\n            else{\n                ctr = ctr;\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = toff - ctr;\n            if (toff == ctr) {\n                global.set(\"Control_functions.Controlon_off.estado\", true);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > toff) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        }else {\n            estado = \"pausa\";\n            time = 0;\n        }\n\n    } else {\n        color = \"red\"\n        time = 0;\n        estado = \"tiemposNoConfigurados\";\n        flag = false;\n    }\n} else if (habilitado == false && comunicacion == true) {\n    global.set(\"Control_functions.Controlon_off.estado\", true);\n    context.set(\"ctr\", 0)//setear el contador\n    time = time ;\n    estado = \"deshabilitado\";color = \"red\";\n    flag = false\n}else if (comunicacion == false){\n    global.set(\"Control_functions.Controlon_off.estado\", false);//setee el estado de activar en bajo\n    context.set(\"ctr\", 0)//setear el contador\n    time = 0;\n    estado = \"falloComunicacion\";\n    flag = false\n}\n// estado de la función\nnode.status({ fill: \"red\", shape: \"dot\", text: estado });\n// set variables\ncontext.set(\"habilitado\",habilitado,\"memoryOnly\");\ncontext.set(\"estado\",estado,\"memoryOnly\");\ncontext.set(\"toff\",toff,\"memoryOnly\");\ncontext.set(\"ton\",ton,\"memoryOnly\");\ncontext.set(\"time\",time,\"memoryOnly\");\ncontext.set(\"time\",time,\"memoryOnly\");\ncontext.set(\"buttonComand\", buttonComand,\"memoryOnly\");\ncontext.set(\"At_Setpt_Spd\", At_Setpt_Spd,\"memoryOnly\");\ncontext.set(\"flag\", flag,\"memoryOnly\");\n\ntime = { payload: time };\nestado = { payload: estado };\nreturn [estado, time];\n",
         "outputs": 2,
         "noerr": 0,
         "initialize": "",
@@ -81162,8 +81174,7 @@
                 "f9aa5d06fd27dc2c"
             ],
             [
-                "590065f4322532b6",
-                "3fe6ba310d6fe1c0"
+                "dc25a197792f9812"
             ]
         ]
     },
@@ -81309,8 +81320,8 @@
         "label": "Tiempo:",
         "format": "{{msg.payload}}",
         "layout": "row-spread",
-        "x": 900,
-        "y": 980,
+        "x": 960,
+        "y": 960,
         "wires": []
     },
     {
@@ -82721,14 +82732,14 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 350,
-        "y": 360,
+        "x": 330,
+        "y": 300,
         "wires": [
             [
-                "2d333ee7b58d941e"
+                "f53a59615c13ca9c"
             ],
             [
-                "9da85b9e2c8fef00"
+                "3d79a61c74a2c05e"
             ]
         ]
     },
@@ -84428,7 +84439,8 @@
         "z": "830fadc6f5236b78",
         "g": "7fd14179472bdff0",
         "name": "",
-        "x": 880,
+        "env": [],
+        "x": 1000,
         "y": 420,
         "wires": [
             [
@@ -84450,8 +84462,8 @@
         "targetType": "msg",
         "statusVal": "payload",
         "statusType": "auto",
-        "x": 510,
-        "y": 320,
+        "x": 610,
+        "y": 280,
         "wires": []
     },
     {
@@ -86290,7 +86302,7 @@
             ],
             [
                 "4fc20db7e752d913",
-                "33e780fd53e383dc"
+                "29a69eac175c133c"
             ]
         ]
     },
@@ -86362,8 +86374,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 1220,
-        "y": 380,
+        "x": 1180,
+        "y": 340,
         "wires": [
             [
                 "af1bfa09ad24bbee"
@@ -86385,8 +86397,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1360,
-        "y": 400,
+        "x": 1320,
+        "y": 340,
         "wires": [
             []
         ]
@@ -86403,8 +86415,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1360,
-        "y": 340,
+        "x": 1320,
+        "y": 300,
         "wires": [
             []
         ]
@@ -88400,7 +88412,6 @@
         "y": 420,
         "wires": [
             [
-                "b862b007fadc3854",
                 "c64adff573b33d8e"
             ],
             [
@@ -88408,7 +88419,7 @@
                 "820a4c65386459ee"
             ],
             [
-                "f29cf89058d2bf0c"
+                "3a607a8c4e851e60"
             ]
         ]
     },
@@ -89418,11 +89429,9 @@
         "x": 430,
         "y": 260,
         "wires": [
+            [],
             [
-                "f90a82bb260e58f9"
-            ],
-            [
-                "ddd09a126914e360"
+                "70bb5fbc3b6775da"
             ]
         ]
     },
@@ -89563,47 +89572,11 @@
         "wires": []
     },
     {
-        "id": "b6ccf7628a758b36",
-        "type": "debug",
-        "z": "29bf75edf21541c4",
-        "g": "abfc5c293f394682",
-        "name": "",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": true,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "payload",
-        "statusType": "auto",
-        "x": 690,
-        "y": 580,
-        "wires": []
-    },
-    {
-        "id": "b862b007fadc3854",
-        "type": "debug",
-        "z": "29bf75edf21541c4",
-        "g": "abfc5c293f394682",
-        "name": "comando",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": true,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "payload",
-        "statusType": "auto",
-        "x": 560,
-        "y": 320,
-        "wires": []
-    },
-    {
         "id": "3fe6ba310d6fe1c0",
         "type": "subflow:dc9f1a7a8ca59495",
         "z": "8c6f930882747645",
         "g": "0e5fc807c9fa372e",
-        "x": 740,
+        "x": 820,
         "y": 1020,
         "wires": [
             [
@@ -89618,11 +89591,10 @@
         "z": "29bf75edf21541c4",
         "g": "abfc5c293f394682",
         "name": "",
-        "x": 500,
+        "x": 720,
         "y": 540,
         "wires": [
             [
-                "b6ccf7628a758b36",
                 "2f923bf00fd6503f"
             ]
         ]
@@ -89749,24 +89721,6 @@
         ]
     },
     {
-        "id": "f90a82bb260e58f9",
-        "type": "debug",
-        "z": "29bf75edf21541c4",
-        "g": "abfc5c293f394682",
-        "name": "estado",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": true,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "payload",
-        "statusType": "auto",
-        "x": 590,
-        "y": 220,
-        "wires": []
-    },
-    {
         "id": "ddd09a126914e360",
         "type": "ui_text",
         "z": "29bf75edf21541c4",
@@ -89779,7 +89733,7 @@
         "label": "#Intentos",
         "format": "{{msg.payload}}",
         "layout": "row-left",
-        "x": 600,
+        "x": 720,
         "y": 280,
         "wires": []
     },
@@ -89796,8 +89750,8 @@
         "label": "tiempo",
         "format": "{{msg.payload}}",
         "layout": "row-left",
-        "x": 670,
-        "y": 520,
+        "x": 870,
+        "y": 540,
         "wires": []
     },
     {
@@ -91683,7 +91637,7 @@
         "z": "830fadc6f5236b78",
         "g": "7fd14179472bdff0",
         "name": "",
-        "x": 1100,
+        "x": 1200,
         "y": 420,
         "wires": [
             []
@@ -92799,6 +92753,132 @@
         "wires": [
             [
                 "907ada7c619cbebf"
+            ]
+        ]
+    },
+    {
+        "id": "dc25a197792f9812",
+        "type": "rbe",
+        "z": "8c6f930882747645",
+        "g": "0e5fc807c9fa372e",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 650,
+        "y": 1020,
+        "wires": [
+            [
+                "3fe6ba310d6fe1c0"
+            ]
+        ]
+    },
+    {
+        "id": "29a69eac175c133c",
+        "type": "rbe",
+        "z": "830fadc6f5236b78",
+        "g": "7fd14179472bdff0",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 850,
+        "y": 420,
+        "wires": [
+            [
+                "33e780fd53e383dc"
+            ]
+        ]
+    },
+    {
+        "id": "f53a59615c13ca9c",
+        "type": "rbe",
+        "z": "830fadc6f5236b78",
+        "g": "7fd14179472bdff0",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 470,
+        "y": 280,
+        "wires": [
+            [
+                "2d333ee7b58d941e"
+            ]
+        ]
+    },
+    {
+        "id": "3d79a61c74a2c05e",
+        "type": "rbe",
+        "z": "830fadc6f5236b78",
+        "g": "7fd14179472bdff0",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 470,
+        "y": 320,
+        "wires": [
+            [
+                "9da85b9e2c8fef00"
+            ]
+        ]
+    },
+    {
+        "id": "70bb5fbc3b6775da",
+        "type": "rbe",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 590,
+        "y": 280,
+        "wires": [
+            [
+                "ddd09a126914e360"
+            ]
+        ]
+    },
+    {
+        "id": "3a607a8c4e851e60",
+        "type": "rbe",
+        "z": "29bf75edf21541c4",
+        "g": "abfc5c293f394682",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 570,
+        "y": 540,
+        "wires": [
+            [
+                "f29cf89058d2bf0c"
             ]
         ]
     }
