@@ -1465,9 +1465,7 @@
             "1b8cd32f8a397c41"
         ],
         "x": 1534,
-        "y": 359,
-        "w": 1192,
-        "h": 802
+        "y": 359
     },
     {
         "id": "99671f60976b1d2a",
@@ -1500,9 +1498,7 @@
             "6665cfb9001a61c6"
         ],
         "x": 1544,
-        "y": 59,
-        "w": 1482,
-        "h": 262
+        "y": 59
     },
     {
         "id": "95daead77be77494",
@@ -1549,9 +1545,7 @@
             "0990c77b15bde411"
         ],
         "x": 994,
-        "y": 649,
-        "w": 532,
-        "h": 732
+        "y": 649
     },
     {
         "id": "87fca62744442ad4",
@@ -1590,9 +1584,7 @@
             "19a66bb9.eaa504"
         ],
         "x": 44,
-        "y": 409,
-        "w": 702,
-        "h": 272
+        "y": 409
     },
     {
         "id": "a7f58aaec292b159",
@@ -1635,9 +1627,7 @@
             "30359a42be66cafb"
         ],
         "x": 44,
-        "y": 689,
-        "w": 812,
-        "h": 272
+        "y": 689
     },
     {
         "id": "37b64a70f39dda06",
@@ -1676,9 +1666,7 @@
             "e0a3fe6a.f68a1"
         ],
         "x": 44,
-        "y": 969,
-        "w": 742,
-        "h": 272
+        "y": 969
     },
     {
         "id": "ee5753bdd6eedb72",
@@ -1703,9 +1691,7 @@
             "ddc7c55f2c0f73c9"
         ],
         "x": 44,
-        "y": 219,
-        "w": 812,
-        "h": 182
+        "y": 219
     },
     {
         "id": "931b0370.afc1b",
@@ -2115,7 +2101,9 @@
             "ca1808e9c0cebc54"
         ],
         "x": 52,
-        "y": 637
+        "y": 637,
+        "w": 3166,
+        "h": 2556
     },
     {
         "id": "3d603bc8c80c2124",
@@ -2135,7 +2123,9 @@
             "8f311859e2329cb0"
         ],
         "x": 54,
-        "y": 379
+        "y": 379,
+        "w": 902,
+        "h": 82
     },
     {
         "id": "4c1b2fd5bfa8819c",
@@ -2151,7 +2141,9 @@
             "af436d3d4e5d33de"
         ],
         "x": 42,
-        "y": 3227
+        "y": 3227,
+        "w": 3020,
+        "h": 1410
     },
     {
         "id": "600556d8bd2ccda4",
@@ -2216,7 +2208,9 @@
             "72c298a02ef42417"
         ],
         "x": 1094,
-        "y": 59
+        "y": 59,
+        "w": 2342,
+        "h": 532
     },
     {
         "id": "a9988da34f9622ff",
@@ -2242,7 +2236,9 @@
             "03552a6ae2d7be66"
         ],
         "x": 34,
-        "y": 39
+        "y": 39,
+        "w": 892,
+        "h": 322
     },
     {
         "id": "03502219e91ec6ae",
@@ -2564,10 +2560,13 @@
             "444951382a661254",
             "3fe6ba310d6fe1c0",
             "7e1e2393241c4da6",
-            "dc25a197792f9812"
+            "dc25a197792f9812",
+            "4ebc908b9d52b224"
         ],
         "x": 154,
-        "y": 779
+        "y": 779,
+        "w": 1152,
+        "h": 362
     },
     {
         "id": "99fd9c5cbd90ceb5",
@@ -2584,7 +2583,9 @@
             "5e3e278f18c43297"
         ],
         "x": 154,
-        "y": 1159
+        "y": 1159,
+        "w": 492,
+        "h": 122
     },
     {
         "id": "aecdec289959a88b",
@@ -2614,7 +2615,9 @@
             "c029b9bec80247e8"
         ],
         "x": 154,
-        "y": 459
+        "y": 459,
+        "w": 1092,
+        "h": 282
     },
     {
         "id": "6c6732761a2613b5",
@@ -2994,11 +2997,12 @@
             "1a6e5e4c8450ec6f",
             "230c1efb688de958",
             "5017aa8c7a43b98d",
-            "d3fc647f21f7d8eb"
+            "d3fc647f21f7d8eb",
+            "de95dabeadfa8333"
         ],
         "x": 254,
         "y": 1939,
-        "w": 532,
+        "w": 672,
         "h": 142
     },
     {
@@ -3025,7 +3029,9 @@
             "a0b90b4f54fbae9f"
         ],
         "x": 674,
-        "y": 1159
+        "y": 1159,
+        "w": 1142,
+        "h": 222
     },
     {
         "id": "9ff47da5fe193161",
@@ -3082,7 +3088,9 @@
             "d5eb026a704fd13b"
         ],
         "x": 154,
-        "y": 179
+        "y": 179,
+        "w": 1392,
+        "h": 162
     },
     {
         "id": "e4cabd2892b5651b",
@@ -4471,7 +4479,9 @@
             "0d3271d48cdd3dc2"
         ],
         "x": 78,
-        "y": 673
+        "y": 673,
+        "w": 1724,
+        "h": 2494
     },
     {
         "id": "ca1808e9c0cebc54",
@@ -4489,7 +4499,9 @@
             "acf6618644660324"
         ],
         "x": 1828,
-        "y": 663
+        "y": 663,
+        "w": 1364,
+        "h": 1536.5
     },
     {
         "id": "eae7b72d553551bc",
@@ -4506,7 +4518,9 @@
             "7d3d6fba6fb45cf5"
         ],
         "x": 68,
-        "y": 3253
+        "y": 3253,
+        "w": 1284,
+        "h": 894
     },
     {
         "id": "af436d3d4e5d33de",
@@ -4583,7 +4597,9 @@
             "9f7b833ed93f0cc5"
         ],
         "x": 1368,
-        "y": 3263
+        "y": 3263,
+        "w": 1668,
+        "h": 1348
     },
     {
         "id": "b1830307.ee865",
@@ -5657,7 +5673,9 @@
             "5da923b060b7d724"
         ],
         "x": 104,
-        "y": 699
+        "y": 699,
+        "w": 1242,
+        "h": 862
     },
     {
         "id": "b670eeac81e3a4e1",
@@ -5686,7 +5704,9 @@
             "7186bd5b0ee62a27"
         ],
         "x": 124,
-        "y": 2959
+        "y": 2959,
+        "w": 702,
+        "h": 182
     },
     {
         "id": "404043e2f2ac38f5",
@@ -5742,7 +5762,9 @@
             "da3df13ea266ba47"
         ],
         "x": 1854,
-        "y": 689
+        "y": 689,
+        "w": 1292,
+        "h": 718
     },
     {
         "id": "acf6618644660324",
@@ -5806,10 +5828,12 @@
             "8e79f1a9642157a3",
             "ee737e8b154ad95a",
             "1e10a31872824428",
-            "8daf2335c61c98d8"
+            "d5da4e68a94b8066"
         ],
         "x": 1874,
-        "y": 1519
+        "y": 1519,
+        "w": 1292,
+        "h": 654.5
     },
     {
         "id": "0d3271d48cdd3dc2",
@@ -6020,7 +6044,9 @@
             "f26884a752f635f5"
         ],
         "x": 114,
-        "y": 1579
+        "y": 1579,
+        "w": 1662,
+        "h": 1322
     },
     {
         "id": "7d3d6fba6fb45cf5",
@@ -6087,7 +6113,9 @@
             "43e435b1bf98945c"
         ],
         "x": 94,
-        "y": 3279
+        "y": 3279,
+        "w": 1232,
+        "h": 842
     },
     {
         "id": "01d2b2ec2f34b6be",
@@ -6126,7 +6154,9 @@
             "d4e43509215bf215"
         ],
         "x": 1394,
-        "y": 3289
+        "y": 3289,
+        "w": 1232,
+        "h": 322
     },
     {
         "id": "b4a46197db30977b",
@@ -6166,7 +6196,9 @@
             "592f8a1403a12574"
         ],
         "x": 1394,
-        "y": 3609
+        "y": 3609,
+        "w": 722,
+        "h": 442
     },
     {
         "id": "36fa9c99094e8f47",
@@ -6720,7 +6752,9 @@
             "43a7fe4169e0b657"
         ],
         "x": 2394,
-        "y": 1179
+        "y": 1179,
+        "w": 572,
+        "h": 202
     },
     {
         "id": "d25d405a.19cff",
@@ -16616,7 +16650,7 @@
             "#c5b0d5"
         ],
         "outputs": 1,
-        "x": 670,
+        "x": 810,
         "y": 1980,
         "wires": [
             []
@@ -16638,8 +16672,8 @@
         "y": 1980,
         "wires": [
             [
-                "1a6e5e4c8450ec6f",
-                "d3fc647f21f7d8eb"
+                "d3fc647f21f7d8eb",
+                "de95dabeadfa8333"
             ]
         ]
     },
@@ -61079,7 +61113,7 @@
                 "b5345eb3c483d70a",
                 "ba4e3ee43463e7b1",
                 "ee737e8b154ad95a",
-                "8daf2335c61c98d8"
+                "d5da4e68a94b8066"
             ]
         ]
     },
@@ -73213,8 +73247,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2690,
-        "y": 1870,
+        "x": 2700,
+        "y": 1880,
         "wires": [
             [
                 "8e79f1a9642157a3"
@@ -73245,26 +73279,6 @@
         "y": 1980,
         "wires": [
             []
-        ]
-    },
-    {
-        "id": "8daf2335c61c98d8",
-        "type": "function",
-        "z": "edcda77493e16eaa",
-        "g": "acf6618644660324",
-        "name": "Limpiar CARGA",
-        "func": "var ES = Object.values(flow.get(\"ES.EA.Funciones.Lista_Simple\"));\nvar status = ES.indexOf(\"CARGA\");\n\nif(status != -1){\n    return;\n} \nelse{\n    return {'payload':0};\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 2700,
-        "y": 1920,
-        "wires": [
-            [
-                "1e10a31872824428"
-            ]
         ]
     },
     {
@@ -79826,7 +79840,7 @@
         "z": "8c6f930882747645",
         "g": "0e5fc807c9fa372e",
         "name": "LogicaControlOnOff",
-        "func": "var habilitado = global.get(\"Control_functions.Controlon_off.habilitado\")||false;\nvar ton = global.get(\"Control_functions.Controlon_off.ton\") || 0;//tiempo de alta\nvar toff = global.get(\"Control_functions.Controlon_off.toff\") || 0;//tiempo de baja\nvar estado = global.get(\"Control_functions.Controlon_off.estado\") || false;//estado del equipo\nvar buttonComand = global.get(\"Control_functions.Controlon_off.buttonComand\") || false;//boton de arranque del sistema\nvar At_Setpt_Spd = global.get(\"C2S.Drive_Status.At_Setpt_Spd\",\"memoryOnly\")||0;//llegó a referencia el VSD\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\",\"memoryOnly\")||false;\nvar FallaGeneral = global.get(\"IO.Functions.DO['Falla general']\", 'memoryOnly') || false;\n// flag de estado del arranque automatico\nvar AutomaticRestart = global.get(\"Control_functions.ActiveCF.AutomaticRestart\",\"memoryOnly\")||false;\nvar flagArranqueAutomatico = context.get(\"flagArranqueAutomatico\",\"memoryOnly\")||false;\nvar ctr = context.get(\"ctr\",ctr)||0;\nvar time = 0,color;\nvar flag = context.get(\"flag\",\"memoryOnly\")||false; //seteo de flag para identificar si ya ha llegado a la referencia\nif (habilitado == true && comunicacion == true && FallaGeneral == false) {\n    //visualizar estado del habilitado\n    color = \"green\";\n    if (toff != 0 && ton != 0) {\n        // logica para cambiar entre estados\n        if (AutomaticRestart == true && flagArranqueAutomatico == false){\n            node.status({ fill: \"yellow\", shape: \"dot\", text: \"esperandoArranque\" });\n            buttonComand = false;//se ejecuta una sola vez\n            estado = true;\n            flagArranqueAutomatico = true;//ya se ejecuto el arranque automatico\n        }else if(flagArranqueAutomatico == true){\n            buttonComand = true;//inicie la operación\n            flagArranqueAutomatico = false;\n        }\n        if (estado == true && buttonComand == true ) {\n            color = \"green\";\n            if (At_Setpt_Spd == 1){//El VSD ya llegó a la referencia\n                ctr = ctr + 1;\n                flag = true;\n            }else if(flag == true){//seguir contando el tiempo\n                ctr = ctr + 1;\n            }\n            else{\n                ctr = ctr;//No aumente el tiempo\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = ton - ctr;\n            if (ton == ctr) {\n                global.set(\"Control_functions.Controlon_off.estado\", false);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > ton) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        } else if (estado == false && buttonComand == true){\n            color = \"red\";\n            if (At_Setpt_Spd == 0){//El VSD ya se paro\n                ctr = ctr + 1;\n                flag = false;//seteo de la flag\n            }\n            else{\n                ctr = ctr;\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = toff - ctr;\n            if (toff == ctr) {\n                global.set(\"Control_functions.Controlon_off.estado\", true);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > toff) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        }else {\n            estado = \"pausa\";\n            time = 0;\n        }\n\n    } else {\n        color = \"red\"\n        time = 0;\n        estado = \"tiemposNoConfigurados\";\n        flag = false;\n    }\n} else if (habilitado == false && comunicacion == true && FallaGeneral == false) {\n    global.set(\"Control_functions.Controlon_off.estado\", true);\n    context.set(\"ctr\", 0)//setear el contador\n    time = time ;\n    estado = \"deshabilitado\";color = \"red\";\n    flag = false\n} else if (FallaGeneral == true && comunicacion == true){\n    global.set(\"Control_functions.Controlon_off.estado\", false);//setee el estado de activar en bajo\n    buttonComand = false;\n    context.set(\"ctr\", 0)//setear el contador\n    time = 0;\n    estado = \"FallaGeneral\";\n    flag = false\n}\nelse if (comunicacion == false){\n    buttonComand = false;\n    global.set(\"Control_functions.Controlon_off.estado\", false);//setee el estado de activar en bajo\n    context.set(\"ctr\", 0)//setear el contador\n    time = 0;\n    estado = \"falloComunicacion\";\n    flag = false\n}\n//variables globales\nglobal.set(\"Control_functions.Controlon_off.buttonComand\", buttonComand);\n// estado de la función\nnode.status({ fill: \"red\", shape: \"dot\", text: estado });\n// set variables\ncontext.set(\"habilitado\",habilitado,\"memoryOnly\");\ncontext.set(\"estado\",estado,\"memoryOnly\");\ncontext.set(\"toff\",toff,\"memoryOnly\");\ncontext.set(\"ton\",ton,\"memoryOnly\");\ncontext.set(\"time\",time,\"memoryOnly\");\ncontext.set(\"time\",time,\"memoryOnly\");\ncontext.set(\"buttonComand\", buttonComand,\"memoryOnly\");\ncontext.set(\"At_Setpt_Spd\", At_Setpt_Spd,\"memoryOnly\");\ncontext.set(\"flag\", flag,\"memoryOnly\");\n\ntime = { payload: time };\nestado = { payload: estado };\nreturn [estado, time];\n",
+        "func": "var habilitado = global.get(\"Control_functions.Controlon_off.habilitado\")||false;\nvar ton = global.get(\"Control_functions.Controlon_off.ton\") || 0;//tiempo de alta\nvar toff = global.get(\"Control_functions.Controlon_off.toff\") || 0;//tiempo de baja\nvar estado = global.get(\"Control_functions.Controlon_off.estado\") || false;//estado del equipo\nvar buttonComand = global.get(\"Control_functions.Controlon_off.buttonComand\") || false;//boton de arranque del sistema\nvar At_Setpt_Spd = global.get(\"C2S.Drive_Status.At_Setpt_Spd\",\"memoryOnly\")||0;//llegó a referencia el VSD\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\",\"memoryOnly\")||false;\nvar FallaGeneral = global.get(\"IO.Functions.DO['Falla general']\", 'memoryOnly') || false;\n// flag de estado del arranque automatico\nvar AutomaticRestart = global.get(\"Control_functions.ActiveCF.AutomaticRestart\",\"memoryOnly\")||false;\nvar flagArranqueAutomatico = context.get(\"flagArranqueAutomatico\",\"memoryOnly\")||false;\nvar ctr = context.get(\"ctr\",ctr)||0;\nvar time = 0,color;\nvar flag = context.get(\"flag\",\"memoryOnly\")||false; //seteo de flag para identificar si ya ha llegado a la referencia\nif (habilitado == true && comunicacion == true && FallaGeneral == false) {\n    //visualizar estado del habilitado\n    color = \"green\";\n    if (toff != 0 && ton != 0) {\n        // logica para cambiar entre estados\n        if (AutomaticRestart == true && flagArranqueAutomatico == false){\n            node.status({ fill: \"yellow\", shape: \"dot\", text: \"esperandoArranque\" });\n            buttonComand = false;//se ejecuta una sola vez\n            estado = true;\n            flagArranqueAutomatico = true;//ya se ejecuto el arranque automatico\n        }else if(flagArranqueAutomatico == true){\n            buttonComand = true;//inicie la operación\n            flagArranqueAutomatico = false;\n        }\n        if (estado == true && buttonComand == true ) {\n            color = \"green\";\n            if (At_Setpt_Spd == 1){//El VSD ya llegó a la referencia\n                ctr = ctr + 1;\n                flag = true;\n            }else if(flag == true){//seguir contando el tiempo\n                ctr = ctr + 1;\n            }\n            else{\n                ctr = ctr;//No aumente el tiempo\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = ton - ctr;\n            if (ton == ctr) {\n                global.set(\"Control_functions.Controlon_off.estado\", false);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > ton) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        } else if (estado == false && buttonComand == true){\n            color = \"red\";\n            if (At_Setpt_Spd == 0){//El VSD ya se paro\n                ctr = ctr + 1;\n                flag = false;//seteo de la flag\n            }\n            else{\n                ctr = ctr;\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = toff - ctr;\n            if (toff == ctr) {\n                global.set(\"Control_functions.Controlon_off.estado\", true);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > toff) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        }else {\n            estado = \"pausa\";\n            time = 0;\n        }\n\n    } else {\n        color = \"red\"\n        time = 0;\n        estado = \"tiemposNoConfigurados\";\n        flag = false;\n    }\n} else if (habilitado == false && comunicacion == true && FallaGeneral == false) {\n    global.set(\"Control_functions.Controlon_off.estado\", true);\n    context.set(\"ctr\", 0)//setear el contador\n    time = time ;\n    estado = \"deshabilitado\";color = \"red\";\n    flag = false\n} else if (FallaGeneral == true && comunicacion == true){\n    global.set(\"Control_functions.Controlon_off.estado\", false);//setee el estado de activar en bajo\n    buttonComand = false;\n    context.set(\"ctr\", 0)//setear el contador\n    time = 0;\n    estado = \"FallaGeneral\";\n    flag = false\n}\nelse if (comunicacion == false){\n    buttonComand = false;\n    global.set(\"Control_functions.Controlon_off.estado\", false);//setee el estado de activar en bajo\n    context.set(\"ctr\", 0)//setear el contador\n    time = 0;\n    estado = \"falloComunicacion\";\n    flag = false\n}\n//variables globales\nglobal.set(\"Control_functions.Controlon_off.buttonComand\", buttonComand);\n// estado de la función\nnode.status({ fill: \"red\", shape: \"dot\", text: estado });\n// set variables\ncontext.set(\"habilitado\",habilitado,\"memoryOnly\");\ncontext.set(\"estado\",estado,\"memoryOnly\");\ncontext.set(\"toff\",toff,\"memoryOnly\");\ncontext.set(\"ton\",ton,\"memoryOnly\");\ncontext.set(\"time\",time,\"memoryOnly\");\ncontext.set(\"time\",time,\"memoryOnly\");\ncontext.set(\"buttonComand\", buttonComand,\"memoryOnly\");\ncontext.set(\"At_Setpt_Spd\", At_Setpt_Spd,\"memoryOnly\");\ncontext.set(\"flag\", flag,\"memoryOnly\");\ncontext.set(\"FallaGeneral\", FallaGeneral,\"memoryOnly\");\n\ntime = { payload: time };\nestado = { payload: estado };\nreturn [estado, time];\n",
         "outputs": 2,
         "noerr": 0,
         "initialize": "",
@@ -82586,6 +82600,7 @@
         "id": "3adf23d809d6c4be",
         "type": "inject",
         "z": "5b797a7252061594",
+        "d": true,
         "g": "fd781041a7a8fbec",
         "name": "",
         "props": [
@@ -87615,6 +87630,82 @@
             [],
             [
                 "633f44af41940f7e"
+            ]
+        ]
+    },
+    {
+        "id": "4ebc908b9d52b224",
+        "type": "inject",
+        "z": "8c6f930882747645",
+        "g": "0e5fc807c9fa372e",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 610,
+        "y": 1100,
+        "wires": [
+            [
+                "337b45b67a7e1518"
+            ]
+        ]
+    },
+    {
+        "id": "d5da4e68a94b8066",
+        "type": "function",
+        "z": "edcda77493e16eaa",
+        "g": "acf6618644660324",
+        "name": "Limpiar Posición",
+        "func": "var ES = Object.values(flow.get(\"ES.EA.Funciones.Lista_Simple\")||0);\nvar status = ES.indexOf(\"CARGA\");\ncontext.set(\"ES\",ES,\"memoryOnly\");\ncontext.set(\"status\", status,\"memoryOnly\");\n\nif(status != -1){\n    return;\n} \nelse{\n    return {'payload':0};\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2540,
+        "y": 1920,
+        "wires": [
+            [
+                "1e10a31872824428"
+            ]
+        ]
+    },
+    {
+        "id": "de95dabeadfa8333",
+        "type": "switch",
+        "z": "902fc438.e5d758",
+        "g": "b2fff3b09f0ae95c",
+        "name": "home",
+        "property": "#:(memoryOnly)::Navegación.Pantalla",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Principal",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 650,
+        "y": 1980,
+        "wires": [
+            [
+                "1a6e5e4c8450ec6f"
             ]
         ]
     }
