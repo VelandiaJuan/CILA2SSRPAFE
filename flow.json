@@ -3992,6 +3992,31 @@
         "y": 2499
     },
     {
+        "id": "87b93bc766cd4107",
+        "type": "group",
+        "z": "902fc438.e5d758",
+        "name": "Check De tipos de Control SRP Especial",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "61130b022d2942c7",
+            "8d3e7d996cded88a",
+            "6afc818b2eef55bb",
+            "6394104eba47bf7a",
+            "5d2f4c68c2c59bec",
+            "c654e84642208414",
+            "27cb37cd34d5cc28",
+            "8c48220e51095446",
+            "24af91719f71a1b3",
+            "8b26636d1d23678c"
+        ],
+        "x": 974,
+        "y": 1939,
+        "w": 512,
+        "h": 242
+    },
+    {
         "id": "31895ea6.22f372",
         "type": "group",
         "z": "e7088c4e.cc6b4",
@@ -16633,7 +16658,7 @@
         "ymin": "",
         "ymax": "",
         "removeOlder": "5",
-        "removeOlderPoints": "300",
+        "removeOlderPoints": "20",
         "removeOlderUnit": "60",
         "cutout": 0,
         "useOneColor": false,
@@ -16650,6 +16675,8 @@
             "#c5b0d5"
         ],
         "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
         "x": 810,
         "y": 1980,
         "wires": [
@@ -53930,7 +53957,8 @@
             "d0bd353a8ba51cbe",
             "2cb88eaf70893679",
             "806bf1b9eefa1219",
-            "a1d67166cfb77b31"
+            "a1d67166cfb77b31",
+            "8b26636d1d23678c"
         ],
         "x": 335,
         "y": 320,
@@ -79840,7 +79868,7 @@
         "z": "8c6f930882747645",
         "g": "0e5fc807c9fa372e",
         "name": "LogicaControlOnOff",
-        "func": "var habilitado = global.get(\"Control_functions.Controlon_off.habilitado\")||false;\nvar ton = global.get(\"Control_functions.Controlon_off.ton\") || 0;//tiempo de alta\nvar toff = global.get(\"Control_functions.Controlon_off.toff\") || 0;//tiempo de baja\nvar estado = global.get(\"Control_functions.Controlon_off.estado\") || false;//estado del equipo\nvar buttonComand = global.get(\"Control_functions.Controlon_off.buttonComand\") || false;//boton de arranque del sistema\nvar At_Setpt_Spd = global.get(\"C2S.Drive_Status.At_Setpt_Spd\",\"memoryOnly\")||0;//llegó a referencia el VSD\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\",\"memoryOnly\")||false;\nvar FallaGeneral = global.get(\"IO.Functions.DO['Falla general']\", 'memoryOnly') || false;\n// flag de estado del arranque automatico\nvar AutomaticRestart = global.get(\"Control_functions.ActiveCF.AutomaticRestart\",\"memoryOnly\")||false;\nvar flagArranqueAutomatico = context.get(\"flagArranqueAutomatico\",\"memoryOnly\")||false;\nvar ctr = context.get(\"ctr\",ctr)||0;\nvar time = 0,color;\nvar flag = context.get(\"flag\",\"memoryOnly\")||false; //seteo de flag para identificar si ya ha llegado a la referencia\nif (habilitado == true && comunicacion == true && FallaGeneral == false) {\n    //visualizar estado del habilitado\n    color = \"green\";\n    if (toff != 0 && ton != 0) {\n        // logica para cambiar entre estados\n        if (AutomaticRestart == true && flagArranqueAutomatico == false){\n            node.status({ fill: \"yellow\", shape: \"dot\", text: \"esperandoArranque\" });\n            buttonComand = false;//se ejecuta una sola vez\n            estado = true;\n            flagArranqueAutomatico = true;//ya se ejecuto el arranque automatico\n        }else if(flagArranqueAutomatico == true){\n            buttonComand = true;//inicie la operación\n            flagArranqueAutomatico = false;\n        }\n        if (estado == true && buttonComand == true ) {\n            color = \"green\";\n            if (At_Setpt_Spd == 1){//El VSD ya llegó a la referencia\n                ctr = ctr + 1;\n                flag = true;\n            }else if(flag == true){//seguir contando el tiempo\n                ctr = ctr + 1;\n            }\n            else{\n                ctr = ctr;//No aumente el tiempo\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = ton - ctr;\n            if (ton == ctr) {\n                global.set(\"Control_functions.Controlon_off.estado\", false);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > ton) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        } else if (estado == false && buttonComand == true){\n            color = \"red\";\n            if (At_Setpt_Spd == 0){//El VSD ya se paro\n                ctr = ctr + 1;\n                flag = false;//seteo de la flag\n            }\n            else{\n                ctr = ctr;\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = toff - ctr;\n            if (toff == ctr) {\n                global.set(\"Control_functions.Controlon_off.estado\", true);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > toff) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        }else {\n            estado = \"pausa\";\n            time = 0;\n        }\n\n    } else {\n        color = \"red\"\n        time = 0;\n        estado = \"tiemposNoConfigurados\";\n        flag = false;\n    }\n} else if (habilitado == false && comunicacion == true && FallaGeneral == false) {\n    global.set(\"Control_functions.Controlon_off.estado\", true);\n    context.set(\"ctr\", 0)//setear el contador\n    time = time ;\n    estado = \"deshabilitado\";color = \"red\";\n    flag = false\n} else if (FallaGeneral == true && comunicacion == true){\n    global.set(\"Control_functions.Controlon_off.estado\", false);//setee el estado de activar en bajo\n    buttonComand = false;\n    context.set(\"ctr\", 0)//setear el contador\n    time = 0;\n    estado = \"FallaGeneral\";\n    flag = false\n}\nelse if (comunicacion == false){\n    buttonComand = false;\n    global.set(\"Control_functions.Controlon_off.estado\", false);//setee el estado de activar en bajo\n    context.set(\"ctr\", 0)//setear el contador\n    time = 0;\n    estado = \"falloComunicacion\";\n    flag = false\n}\n//variables globales\nglobal.set(\"Control_functions.Controlon_off.buttonComand\", buttonComand);\n// estado de la función\nnode.status({ fill: \"red\", shape: \"dot\", text: estado });\n// set variables\ncontext.set(\"habilitado\",habilitado,\"memoryOnly\");\ncontext.set(\"estado\",estado,\"memoryOnly\");\ncontext.set(\"toff\",toff,\"memoryOnly\");\ncontext.set(\"ton\",ton,\"memoryOnly\");\ncontext.set(\"time\",time,\"memoryOnly\");\ncontext.set(\"time\",time,\"memoryOnly\");\ncontext.set(\"buttonComand\", buttonComand,\"memoryOnly\");\ncontext.set(\"At_Setpt_Spd\", At_Setpt_Spd,\"memoryOnly\");\ncontext.set(\"flag\", flag,\"memoryOnly\");\ncontext.set(\"FallaGeneral\", FallaGeneral,\"memoryOnly\");\n\ntime = { payload: time };\nestado = { payload: estado };\nreturn [estado, time];\n",
+        "func": "var habilitado = global.get(\"Control_functions.Controlon_off.habilitado\")||false;\nvar ton = global.get(\"Control_functions.Controlon_off.ton\") || 0;//tiempo de alta\nvar toff = global.get(\"Control_functions.Controlon_off.toff\") || 0;//tiempo de baja\nvar estado = global.get(\"Control_functions.Controlon_off.estado\") || false;//estado del equipo\nvar buttonComand = global.get(\"Control_functions.Controlon_off.buttonComand\") || false;//boton de arranque del sistema\nvar At_Setpt_Spd = global.get(\"C2S.Drive_Status.At_Setpt_Spd\",\"memoryOnly\")||0;//llegó a referencia el VSD\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\",\"memoryOnly\")||false;\nvar FallaGeneral = global.get(\"IO.Functions.DO['Falla general']\", 'memoryOnly') || false;\n// flag de estado del arranque automatico\nvar AutomaticRestart = global.get(\"Control_functions.ActiveCF.AutomaticRestart\",\"memoryOnly\")||false;\nvar flagArranqueAutomatico = context.get(\"flagArranqueAutomatico\",\"memoryOnly\")||false;\nvar ctr = context.get(\"ctr\",ctr)||0;\nvar time = 0,color;\nvar flag = context.get(\"flag\",\"memoryOnly\")||false; //seteo de flag para identificar si ya ha llegado a la referencia\nif (habilitado == true && comunicacion == true && FallaGeneral == false) {\n    //visualizar estado del habilitado\n    color = \"green\";\n    if (toff != 0 && ton != 0) {\n        // logica para cambiar entre estados\n        if (AutomaticRestart == true && flagArranqueAutomatico == false){\n            node.status({ fill: \"yellow\", shape: \"dot\", text: \"esperandoArranque\" });\n            buttonComand = false;//se ejecuta una sola vez\n            estado = true;\n            flagArranqueAutomatico = true;//ya se ejecuto el arranque automatico\n        }else if(flagArranqueAutomatico == true){\n            buttonComand = true;//inicie la operación\n            flagArranqueAutomatico = false;\n        }\n        if (estado == true && buttonComand == true ) {\n            color = \"green\";\n            if (At_Setpt_Spd == 1){//El VSD ya llegó a la referencia\n                ctr = ctr + 1;\n                flag = true;\n            }else if(flag == true){//seguir contando el tiempo\n                ctr = ctr + 1;\n            }\n            else{\n                ctr = ctr;//No aumente el tiempo\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = ton - ctr;\n            if (ton == ctr) {\n                global.set(\"Control_functions.Controlon_off.estado\", false);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > ton) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        } else if (estado == false && buttonComand == true){\n            color = \"red\";\n            if (At_Setpt_Spd == 0){//El VSD ya se paro\n                ctr = ctr + 1;\n                flag = false;//seteo de la flag\n            }\n            else{\n                ctr = ctr;\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = toff - ctr;\n            if (toff == ctr) {\n                global.set(\"Control_functions.Controlon_off.estado\", true);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > toff) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        }else {\n            estado = \"pausa\";\n            time = 0;\n        }\n\n    } else {\n        color = \"red\"\n        time = 0;\n        estado = \"tiemposNoConfigurados\";\n        flag = false;\n    }\n} else if (habilitado == false && comunicacion == true && FallaGeneral == false) {\n    global.set(\"Control_functions.Controlon_off.estado\", true);\n    context.set(\"ctr\", 0)//setear el contador\n    time = time ;\n    estado = \"deshabilitado\";color = \"red\";\n    flag = false\n} else if (FallaGeneral == true && comunicacion == true){\n    global.set(\"Control_functions.Controlon_off.estado\", false);//setee el estado de activar en bajo\n    buttonComand = false;\n    global.set(\"Control_functions.Controlon_off.buttonComand\", false);\n    context.set(\"ctr\", 0)//setear el contador\n    time = 0;\n    estado = \"FallaGeneral\";\n    flag = false\n}\nelse if (comunicacion == false){\n    global.set(\"Control_functions.Controlon_off.estado\", false);//setee el estado de activar en bajo\n    context.set(\"ctr\", 0)//setear el contador\n    time = 0;\n    estado = \"falloComunicacion\";\n    flag = false\n}\n// estado de la función\nnode.status({ fill: \"red\", shape: \"dot\", text: estado });\n// set variables\ncontext.set(\"habilitado\",habilitado,\"memoryOnly\");\ncontext.set(\"estado\",estado,\"memoryOnly\");\ncontext.set(\"toff\",toff,\"memoryOnly\");\ncontext.set(\"ton\",ton,\"memoryOnly\");\ncontext.set(\"time\",time,\"memoryOnly\");\ncontext.set(\"time\",time,\"memoryOnly\");\ncontext.set(\"buttonComand\", buttonComand,\"memoryOnly\");\ncontext.set(\"At_Setpt_Spd\", At_Setpt_Spd,\"memoryOnly\");\ncontext.set(\"flag\", flag,\"memoryOnly\");\ncontext.set(\"FallaGeneral\", FallaGeneral,\"memoryOnly\");\n\ntime = { payload: time };\nestado = { payload: estado };\nreturn [estado, time];\n",
         "outputs": 2,
         "noerr": 0,
         "initialize": "",
@@ -80041,6 +80069,7 @@
         ],
         "outputs": 1,
         "useDifferentColor": false,
+        "className": "",
         "x": 530,
         "y": 1200,
         "wires": [
@@ -80471,7 +80500,8 @@
         "g": "5519b13db7a1857a",
         "name": "mensajeConfirmacionhabilitarPumpuOffController",
         "links": [
-            "3023be06a10a9863"
+            "3023be06a10a9863",
+            "8b26636d1d23678c"
         ],
         "x": 1775,
         "y": 1240,
@@ -81022,7 +81052,8 @@
         "g": "e4cabd2892b5651b",
         "name": "botonHabilitarSpeedControlOut",
         "links": [
-            "e3610e70df32ce6e"
+            "e3610e70df32ce6e",
+            "8b26636d1d23678c"
         ],
         "x": 935,
         "y": 1120,
@@ -83239,7 +83270,8 @@
         "g": "f4c2cbbaa70a9690",
         "name": "mensajeConfirmacionhabilitarSurfaceControl",
         "links": [
-            "2994dea1d4713a60"
+            "2994dea1d4713a60",
+            "8b26636d1d23678c"
         ],
         "x": 1335,
         "y": 960,
@@ -85590,7 +85622,8 @@
         "g": "73546535bd657e5f",
         "name": "mensajeConfirmacionhabilitarDownhole",
         "links": [
-            "d0bd353a8ba51cbe"
+            "d0bd353a8ba51cbe",
+            "8b26636d1d23678c"
         ],
         "x": 2355,
         "y": 280,
@@ -86257,8 +86290,8 @@
         "g": "7d20e2da985dd33b",
         "name": "swichDownholeControl",
         "links": [
-            "b8bf43fb333c88c5",
-            "ad87cee4.7dbb5"
+            "ad87cee4.7dbb5",
+            "b8bf43fb333c88c5"
         ],
         "x": 1395,
         "y": 640,
@@ -86529,7 +86562,7 @@
         "type": "link out",
         "z": "29bf75edf21541c4",
         "g": "7d20e2da985dd33b",
-        "name": "mensajeConfirmacionhabilitarDownhole",
+        "name": "mensajeConfirmacionhabilitarsimulacionDownhole",
         "links": [
             "806bf1b9eefa1219"
         ],
@@ -87706,6 +87739,303 @@
         "wires": [
             [
                 "1a6e5e4c8450ec6f"
+            ]
+        ]
+    },
+    {
+        "id": "61130b022d2942c7",
+        "type": "ui_led",
+        "z": "902fc438.e5d758",
+        "g": "87b93bc766cd4107",
+        "order": 12,
+        "group": "e5ec1549.1923c8",
+        "width": "2",
+        "height": "1",
+        "label": "PumpOn",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#808080",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "",
+        "x": 1410,
+        "y": 2020,
+        "wires": []
+    },
+    {
+        "id": "8d3e7d996cded88a",
+        "type": "change",
+        "z": "902fc438.e5d758",
+        "g": "87b93bc766cd4107",
+        "name": "pumpHablitado",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Control_functions.Controlon_off.habilitado",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1240,
+        "y": 2020,
+        "wires": [
+            [
+                "61130b022d2942c7"
+            ]
+        ]
+    },
+    {
+        "id": "6afc818b2eef55bb",
+        "type": "ui_led",
+        "z": "902fc438.e5d758",
+        "g": "87b93bc766cd4107",
+        "order": 12,
+        "group": "e5ec1549.1923c8",
+        "width": "2",
+        "height": "1",
+        "label": "Velocidad",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#808080",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "",
+        "x": 1410,
+        "y": 2060,
+        "wires": []
+    },
+    {
+        "id": "6394104eba47bf7a",
+        "type": "ui_led",
+        "z": "902fc438.e5d758",
+        "g": "87b93bc766cd4107",
+        "order": 12,
+        "group": "e5ec1549.1923c8",
+        "width": "2",
+        "height": "1",
+        "label": "Superficie",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#808080",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "",
+        "x": 1410,
+        "y": 2100,
+        "wires": []
+    },
+    {
+        "id": "5d2f4c68c2c59bec",
+        "type": "ui_led",
+        "z": "902fc438.e5d758",
+        "g": "87b93bc766cd4107",
+        "order": 12,
+        "group": "e5ec1549.1923c8",
+        "width": "2",
+        "height": "1",
+        "label": "Fondo",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#808080",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "",
+        "x": 1410,
+        "y": 2140,
+        "wires": []
+    },
+    {
+        "id": "c654e84642208414",
+        "type": "inject",
+        "z": "902fc438.e5d758",
+        "g": "87b93bc766cd4107",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 1080,
+        "y": 1980,
+        "wires": [
+            [
+                "8d3e7d996cded88a",
+                "27cb37cd34d5cc28",
+                "8c48220e51095446",
+                "24af91719f71a1b3"
+            ]
+        ]
+    },
+    {
+        "id": "27cb37cd34d5cc28",
+        "type": "change",
+        "z": "902fc438.e5d758",
+        "g": "87b93bc766cd4107",
+        "name": "SpeedHablitado",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Control_functions.doubleSpeed.habilitado",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1240,
+        "y": 2060,
+        "wires": [
+            [
+                "6afc818b2eef55bb"
+            ]
+        ]
+    },
+    {
+        "id": "8c48220e51095446",
+        "type": "change",
+        "z": "902fc438.e5d758",
+        "g": "87b93bc766cd4107",
+        "name": "surfaceHablitado",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Control_functions.SurfaceControl.habilitadoCS",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1250,
+        "y": 2100,
+        "wires": [
+            [
+                "6394104eba47bf7a"
+            ]
+        ]
+    },
+    {
+        "id": "24af91719f71a1b3",
+        "type": "change",
+        "z": "902fc438.e5d758",
+        "g": "87b93bc766cd4107",
+        "name": "downholeHablitado",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Control_functions.ControlDownhole.habilitado",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1250,
+        "y": 2140,
+        "wires": [
+            [
+                "5d2f4c68c2c59bec"
+            ]
+        ]
+    },
+    {
+        "id": "8b26636d1d23678c",
+        "type": "link in",
+        "z": "902fc438.e5d758",
+        "g": "87b93bc766cd4107",
+        "name": "VisualizadorEstadoDelControl",
+        "links": [
+            "2143bfbe4eac74b5",
+            "8b6795e7e350310b",
+            "a0b90b4f54fbae9f",
+            "ad87cee4.7dbb5",
+            "cda177c85b21954f"
+        ],
+        "x": 1035,
+        "y": 2080,
+        "wires": [
+            [
+                "8d3e7d996cded88a",
+                "27cb37cd34d5cc28",
+                "8c48220e51095446",
+                "24af91719f71a1b3"
             ]
         ]
     }
