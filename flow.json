@@ -1497,12 +1497,12 @@
             "42616e6e2127cd15",
             "2682eeef87375b9c",
             "8978504839e7eede",
-            "64eb3a5330da4f87"
+            "6665cfb9001a61c6"
         ],
         "x": 1544,
-        "y": 39,
+        "y": 59,
         "w": 1482,
-        "h": 282
+        "h": 262
     },
     {
         "id": "95daead77be77494",
@@ -1746,9 +1746,7 @@
             "dad84feb.d4773"
         ],
         "x": 28,
-        "y": 23,
-        "w": 2970,
-        "h": 1284
+        "y": 23
     },
     {
         "id": "e1e65313b5eaa836",
@@ -3512,9 +3510,7 @@
             "bb22ffcb688c15d2"
         ],
         "x": 1354,
-        "y": 179,
-        "w": 1042,
-        "h": 222
+        "y": 179
     },
     {
         "id": "abfc5c293f394682",
@@ -3557,9 +3553,7 @@
             "3a607a8c4e851e60"
         ],
         "x": 114,
-        "y": 219,
-        "w": 1182,
-        "h": 382
+        "y": 219
     },
     {
         "id": "0e0b9759209dfb2f",
@@ -3599,9 +3593,7 @@
             "13f3a541f69a175b"
         ],
         "x": 114,
-        "y": 639,
-        "w": 792,
-        "h": 462
+        "y": 639
     },
     {
         "id": "07f02b70dd167ae5",
@@ -3622,9 +3614,7 @@
             "c0e57e8a82e6d05a"
         ],
         "x": 1354,
-        "y": 759,
-        "w": 912,
-        "h": 122
+        "y": 759
     },
     {
         "id": "7d20e2da985dd33b",
@@ -3650,9 +3640,7 @@
             "17f0cfed3a423e5f"
         ],
         "x": 1354,
-        "y": 519,
-        "w": 1042,
-        "h": 222
+        "y": 519
     },
     {
         "id": "27eadf663f119ea4",
@@ -3668,9 +3656,7 @@
             "5b99a9cea8e23964"
         ],
         "x": 1354,
-        "y": 419,
-        "w": 532,
-        "h": 82
+        "y": 419
     },
     {
         "id": "5f073a0997d5cb40",
@@ -3685,9 +3671,7 @@
             "d115ffc88399fa0e"
         ],
         "x": 8,
-        "y": 413,
-        "w": 654,
-        "h": 294
+        "y": 413
     },
     {
         "id": "ce07caa8578887e5",
@@ -3702,9 +3686,7 @@
             "705a2916f49a5d9c"
         ],
         "x": 28,
-        "y": 13,
-        "w": 1754,
-        "h": 394
+        "y": 13
     },
     {
         "id": "eba7ccecbe9c1b4f",
@@ -3720,9 +3702,7 @@
             "251e634bb726d126"
         ],
         "x": 564,
-        "y": 759,
-        "w": 282,
-        "h": 82
+        "y": 759
     },
     {
         "id": "092aed0af97581d2",
@@ -3741,9 +3721,267 @@
             "9289963bf572e5fa"
         ],
         "x": 34,
-        "y": 719,
-        "w": 462,
-        "h": 202
+        "y": 719
+    },
+    {
+        "id": "ad0c713ad5cece71",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "name": "",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "11160372e60be750",
+            "d833c89b162d0a86"
+        ],
+        "x": 68,
+        "y": 983
+    },
+    {
+        "id": "db5caeececfedb14",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "600a625acb648a97",
+            "938c2784d1392e3c",
+            "c3d59abc790619fd",
+            "addfbc59bee1fbda",
+            "430d0ec60a7b6de9",
+            "00c37d1280f1b7e5"
+        ],
+        "x": 1672,
+        "y": 127
+    },
+    {
+        "id": "2dd26bf8721b3469",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "name": "",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "df63ddc8c6d46681",
+            "9964108a36705a14"
+        ],
+        "x": 68,
+        "y": 521
+    },
+    {
+        "id": "7ff7e1af4770c4c7",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "name": "Sintonización",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "44c3e95d498968d7",
+            "c2616aa4bc4fcfe5",
+            "b9f691a704236a83",
+            "813a3caa4ba0b755",
+            "f811eddd0d207647",
+            "328ef6a8d84e5e94",
+            "1b8a3ab03fe6d8c7",
+            "567736fbc7928ebb"
+        ],
+        "x": 74,
+        "y": 1329
+    },
+    {
+        "id": "2524cd78925f7f97",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "name": "",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "e6621e20fc0aa776",
+            "e7f8478ce3aaacff"
+        ],
+        "x": 68,
+        "y": 133
+    },
+    {
+        "id": "fd95a660b159b910",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "name": "Acceso a pantalla de configuración drive C2S",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "bd9e7a8f595d93e2",
+            "aaee6751452351a6",
+            "66e85fb74b687658"
+        ],
+        "x": 774,
+        "y": 1329
+    },
+    {
+        "id": "ae46aaa5e4d94904",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "5554c95be9be4ba5",
+            "95410079b75aee54"
+        ],
+        "x": 3378,
+        "y": 1713
+    },
+    {
+        "id": "e58946c4dbfd7041",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "name": "Eventos escritura de parámetros de variador",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "bebd23998a30258e",
+            "7f71cac632f7706a",
+            "fbb9e7e0549a44bf",
+            "7608a3e478ba3ee8",
+            "d10a155b4e9c5119",
+            "dcd6c71981ca1e9a"
+        ],
+        "x": 3384,
+        "y": 2349
+    },
+    {
+        "id": "411ff358a54f4da6",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "2533677535fb6e47",
+            "d0c1d37f514ca3dd"
+        ],
+        "x": 3378,
+        "y": 133
+    },
+    {
+        "id": "39d0b72ee336f565",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "name": "Relación de transformación",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "c7ac8bdf299fd9c3"
+        ],
+        "x": 78,
+        "y": 2183
+    },
+    {
+        "id": "e77f0a1115d3b0d2",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "name": "Navegación IM/PMM",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "718c1009fb600217",
+            "6ea811498cd67e30",
+            "951d8f01ad970728",
+            "e32220064a68c130",
+            "15c36db02c8bd51a",
+            "3217a96a69122327",
+            "ff287ed9426a8fab",
+            "9503130a8e885557",
+            "ebd5f427a87d2659",
+            "c3eb026630950a7a",
+            "f9662b3f37d4b18e",
+            "f1bc778657a47cce",
+            "539e27666cdd0146",
+            "a56e2327924c6b18",
+            "4f0047596f83777e",
+            "e3952bf1429b2ebf",
+            "f5970bc62bdb10fd",
+            "405e92d1546c5551",
+            "545987c08c5bac72",
+            "24a9b5c491cfd663",
+            "3d63a8a79e3138a4",
+            "72137416b81fe02a",
+            "64615aad62b4dcc7",
+            "b7aca072d7c33b5f",
+            "086138e51a7d5688",
+            "776e7f9de33ea107",
+            "7dfce6308f153ef8",
+            "3faffb4c206a3443",
+            "3c4672edb0f78231",
+            "a5acf9d588978788",
+            "092cc81376620bc2",
+            "29fcaeec99fc2922",
+            "164ad14d9afa8b1a",
+            "bed9c23d2fa5c613",
+            "d2618f4e6923c202",
+            "8b5b2eb54d94e129",
+            "3cc96a15c9c3eeda"
+        ],
+        "x": 74,
+        "y": 1539
+    },
+    {
+        "id": "092dd020eb5a4c3c",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "name": "Configuración Caja Reductora",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "f21f6e3713f08a18",
+            "612772b1e7ed8055",
+            "0859580f8c436b4e",
+            "db2c4d82ca1e8253",
+            "717c598c65fa6edc",
+            "d31d0334d8d563a3",
+            "d10e3a9a5fc0bc3e",
+            "9bbd24040ab59574",
+            "d1da2623f13156d6",
+            "a1d67166cfb77b31",
+            "551dac9d64d1a9aa",
+            "4f6d7fee6a552f9c",
+            "ff967886151c2314"
+        ],
+        "x": 94,
+        "y": 2499
     },
     {
         "id": "31895ea6.22f372",
@@ -4014,9 +4252,7 @@
             "3b884b2fd586554b"
         ],
         "x": 54,
-        "y": 49,
-        "w": 2762,
-        "h": 302
+        "y": 49
     },
     {
         "id": "8f8a192b.bb2ef8",
@@ -4044,9 +4280,7 @@
             "4e19cfd4.3982f"
         ],
         "x": 1894,
-        "y": 439,
-        "w": 1062,
-        "h": 232
+        "y": 439
     },
     {
         "id": "b9df7528.923398",
@@ -4062,9 +4296,7 @@
             "65994a87.9d5eb4"
         ],
         "x": 1888,
-        "y": 683,
-        "w": 1084,
-        "h": 134
+        "y": 683
     },
     {
         "id": "ef45fa052227c233",
@@ -4542,9 +4774,7 @@
             "ebd6b588a18416f2"
         ],
         "x": 54,
-        "y": 359,
-        "w": 1752,
-        "h": 922
+        "y": 359
     },
     {
         "id": "16bbc2506679bb34",
@@ -4688,9 +4918,7 @@
             "a79ebbe030cb9598"
         ],
         "x": 54,
-        "y": 39,
-        "w": 1422,
-        "h": 212
+        "y": 39
     },
     {
         "id": "705a2916f49a5d9c",
@@ -4717,9 +4945,7 @@
             "cf66373bb23bedf0"
         ],
         "x": 54,
-        "y": 259,
-        "w": 1702,
-        "h": 122
+        "y": 259
     },
     {
         "id": "d115ffc88399fa0e",
@@ -4741,9 +4967,528 @@
             "1f09a6517beb7198"
         ],
         "x": 34,
-        "y": 439,
-        "w": 602,
-        "h": 242
+        "y": 439
+    },
+    {
+        "id": "11160372e60be750",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "g": "ad0c713ad5cece71",
+        "name": "Volts por Hertz",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "f511ed7eb7ba901d",
+            "729b63fc6aea7ed1",
+            "dc1890bc8c88dd19",
+            "6fc62995064d122f",
+            "03688745eb9ac8f5",
+            "78f4382b34bb8a7e",
+            "a33002cb477d1867",
+            "360ac989e7dd4d50",
+            "dea0485ebf11f3f1",
+            "a9419811b28c1d4c",
+            "968ddc1ecc32a5a3",
+            "f5d4077dad9703fd"
+        ],
+        "x": 964,
+        "y": 1009
+    },
+    {
+        "id": "d833c89b162d0a86",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "g": "ad0c713ad5cece71",
+        "name": "Control de motor - Volts por Hertz",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "3b4ca552f2b6f1df",
+            "dfb847c280634f5a",
+            "1bc9ff1b53ee21af",
+            "6f6616dd8d029fc7",
+            "4f121fa7b61703c6",
+            "b29d06408c2687b7",
+            "28461a0ee8ac0b22",
+            "a4c1492b22677e48",
+            "3bb5be447ce77c17",
+            "ca64bdb2b5093d15",
+            "4950f9672a89b3a8",
+            "9c2117b16edcb0c2",
+            "8eaef1885be7c26a",
+            "092b75b9b4e66fc5"
+        ],
+        "x": 94,
+        "y": 1009
+    },
+    {
+        "id": "00c37d1280f1b7e5",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "g": "db5caeececfedb14",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "5c5ad5c077ed3353",
+            "b27890516bfd376e"
+        ],
+        "x": 1698,
+        "y": 153
+    },
+    {
+        "id": "c3d59abc790619fd",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "g": "db5caeececfedb14",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "b776122affd947be",
+            "039cd5b4364a841d"
+        ],
+        "x": 1718,
+        "y": 1183
+    },
+    {
+        "id": "938c2784d1392e3c",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "g": "db5caeececfedb14",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "7899e869c8a37c5b",
+            "331b767e3a601a36"
+        ],
+        "x": 1718,
+        "y": 1693
+    },
+    {
+        "id": "430d0ec60a7b6de9",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "g": "db5caeececfedb14",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "1b31eefd63c5582c",
+            "9dbdef16c02ddf60"
+        ],
+        "x": 1718,
+        "y": 1963
+    },
+    {
+        "id": "addfbc59bee1fbda",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "g": "db5caeececfedb14",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "a31beeaef0abf9dc",
+            "188f9f99804c443a"
+        ],
+        "x": 1718,
+        "y": 2233
+    },
+    {
+        "id": "df63ddc8c6d46681",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "g": "2dd26bf8721b3469",
+        "name": "Control de motor - Datos Placa de Motor",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "a513752061788d45",
+            "a3de4c50ed7fcfdf",
+            "3b7d461dfb74f9ed",
+            "ce03ec0836795f3f",
+            "afb9417dce5f0175",
+            "893a8856289ffc84",
+            "93f2d5aac1b2ef5d",
+            "7975fb220bbea0f0",
+            "370e4a31f76310fe",
+            "cc22213c92394942",
+            "50bd07a2ebbf0bef",
+            "2878100a87f138ce",
+            "637b7e2839e4aee7",
+            "b3c5c47283a47373",
+            "ca9910986943a208",
+            "6d552266c951071f",
+            "e18f9babd472f44d",
+            "d5d2a4383d95e11d",
+            "9161c1aed4d4c75b",
+            "e7ea6ec87023b297",
+            "eee56db211a50ed6",
+            "8a7802fb82f46c02",
+            "1783e4a754f2e89b"
+        ],
+        "x": 94,
+        "y": 549
+    },
+    {
+        "id": "9964108a36705a14",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "g": "2dd26bf8721b3469",
+        "name": "Datos placa de motor",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "47da7dda6f790bf7",
+            "9588aec0b019400b",
+            "553b3170415da37e",
+            "093dc2c34311d24a",
+            "c7e1b14ac957fe2e",
+            "61619cbce1beaa38",
+            "6fc3202e8681c9bb",
+            "bde6717b70f080c3",
+            "41ea7744d531a6bc",
+            "b682e795d22f1e94",
+            "bd904d1b51a6ef9c",
+            "c1746028b7ded6b3",
+            "ece9aae1d85ff245",
+            "3cef0ada76041f65",
+            "12956760c8dd360e",
+            "95236f26ba2ae902",
+            "f8dbbf98beb343a7",
+            "93a0ee39f642203c"
+        ],
+        "x": 874,
+        "y": 547
+    },
+    {
+        "id": "e6621e20fc0aa776",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "g": "2524cd78925f7f97",
+        "name": "Rampas y Límites",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "eeee804fbbe83807",
+            "d8b195fd4dab0be3",
+            "0eb409c5fd90e9de",
+            "ae2b4512fa4a70a1",
+            "57ba4f0a92faab04",
+            "a248794ef8cf2e63",
+            "2c553ef0bb314149",
+            "e712463884407a7a",
+            "d9ec92d1d25fbfc3",
+            "76f4e6b22d50293e",
+            "43f51a8065b54b37",
+            "88ccde0bab6203e3",
+            "d58de2db4d2e4eb2",
+            "f188e24eae127149",
+            "089356f9b633f84b",
+            "f6bb9df94f806b57",
+            "951f026ec69b674f",
+            "1d8a253e429e91eb",
+            "f9392c3f8bb8c305",
+            "e17a3ffe819f3ce6"
+        ],
+        "x": 94,
+        "y": 159
+    },
+    {
+        "id": "e7f8478ce3aaacff",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "g": "2524cd78925f7f97",
+        "name": "Rampas y Límites",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "54d1886de1518102",
+            "8e2ad9459d1ede09",
+            "f8f4d66c26eb322b",
+            "7dd47a8663e6855a",
+            "f1cbeec01c770cb4",
+            "68c731b9b0f3fccf",
+            "05d05f9c5926791b",
+            "24e54fa7b39452a8",
+            "f267266cc5dc3ba6",
+            "5e77c5957b5ddb54",
+            "97805877c33ccc22",
+            "d330089cf2b317f2",
+            "582e4ed800f1f4be",
+            "11d5c8997beb643b",
+            "16c390a5692c0287"
+        ],
+        "x": 854,
+        "y": 159
+    },
+    {
+        "id": "5554c95be9be4ba5",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "g": "ae46aaa5e4d94904",
+        "name": "Mapa de motores PMM",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "cf327fab97722938",
+            "c42bebb41fa4d76a",
+            "9478e6e9fd800a27",
+            "95e8c6d622f4bfdd",
+            "fe99d47a97c9648d",
+            "7eb870c137c1b827",
+            "c88e320105aeec65",
+            "d8bcbe5d0edfc3b0",
+            "df3c2d269329aa76",
+            "a31516a5449689b0",
+            "f8d4468ac349a3fd",
+            "6c64ddad2f1557ee",
+            "8e559e18ed6ecfd0",
+            "7bf6beb10f40f05c",
+            "761dd5941b0adc1e",
+            "f3b146d1eda2d536"
+        ],
+        "x": 3414,
+        "y": 1829
+    },
+    {
+        "id": "95410079b75aee54",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "g": "ae46aaa5e4d94904",
+        "name": "Selector Motores",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "3f11f3c33e8a65b6",
+            "1f6b268e9830a15d",
+            "b44ac1aefc6b7e2d",
+            "4471b00c2fcb1fb6",
+            "734a45090dd8a96b"
+        ],
+        "x": 3404,
+        "y": 1739
+    },
+    {
+        "id": "2533677535fb6e47",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "g": "411ff358a54f4da6",
+        "name": "Curvas de saturación",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "445f51b71147f29c",
+            "9f1c22d124d131c7",
+            "8914d669c9e3bc5c",
+            "b539b428b0409925",
+            "15d3f3eed0c758dc",
+            "0ee8442e07c69ca8",
+            "b5f0ee2ea3113e64",
+            "a38e289535b210ef",
+            "db758bcb037e24c5",
+            "c62e402016238b0e",
+            "a174ce1c91ac6ffd",
+            "5e6feff90b158e25",
+            "a023ce2c04c23756",
+            "5b69472d2ebd628a",
+            "1a182ef06e5f4fbd",
+            "b2bdbe19149923e5",
+            "15a2cb02aa6b7635",
+            "bafa38eb0c874de1",
+            "299bba776e5e4fc1",
+            "6b04fa05ec8a66d0",
+            "eeb883ac21bb82e5",
+            "840bc19845a30c9b",
+            "8b9c5800c73ae4ed",
+            "84446f6bf73a082b",
+            "66451c32b902eda9",
+            "42d4119ace6f9e57",
+            "29992038a98cfda2",
+            "c8b9178f191c1a44",
+            "ec383984f031e9a9",
+            "d5534efde9531027",
+            "64196ca74803e391",
+            "ee8efa3d9eac5c01",
+            "92e5e4c24865b12f",
+            "b824408890c14e19",
+            "bfbed14650fb0fd4",
+            "02a8e574e0cb0590",
+            "f6fb80889f13a2ad",
+            "91114f9e6aefb374",
+            "010f9788034a4e71",
+            "bef0556acf9120a6",
+            "414a885e0a4ebf8c",
+            "1520eca60dee5f0a",
+            "f1267b0aa3991389",
+            "9d17b1b3fddcc61c",
+            "3f0a34d7533c4327",
+            "b0b92456d7fe447f",
+            "ab1f8c727b6b7921",
+            "7899671c99cc79d8",
+            "e8ba7985f3c47c3a",
+            "b975d631a2f56027",
+            "9cf6635d20466d63",
+            "4467462bc4b993c5",
+            "7243d154a5d543ec",
+            "3f367b3adb63c7fc"
+        ],
+        "x": 3404,
+        "y": 159
+    },
+    {
+        "id": "d0c1d37f514ca3dd",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "g": "411ff358a54f4da6",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "06886d2f5079e292",
+            "7b0cec50542e2a60",
+            "1a4e123b13656198",
+            "f6bfcea4c0812555",
+            "ec82ac6fd78cd5e0",
+            "30bee367b4552e52",
+            "a496dfca1c95fd61",
+            "87ae7f84d88112af",
+            "265d72289cdca2f0",
+            "a434dac33ce3fcec",
+            "94c8ca370fc05207",
+            "a07b0caf5291e982",
+            "a7302118a01bb5e9",
+            "6893f109083a6655",
+            "0ab7348691521a7f",
+            "496b047d056ec161",
+            "5b609e26ee8ad2c6",
+            "7fad2854043bf20d",
+            "79a2e88f12d5e412",
+            "72a8d91d9a7d0b84",
+            "01f1d31e4080db18",
+            "de0919c711e76827",
+            "0d728b700af0b1d7",
+            "9d75a4d69bd8ccad",
+            "d99c2890461548e1",
+            "9c3bae34aad256bc",
+            "4b81f5035cc7797e",
+            "483e1e67532ac812",
+            "fbc782b201c81a34",
+            "c222a12b531f94ac",
+            "1d5f4ad758d799cc",
+            "0fc5f680d4b1f991",
+            "b03a02f0dddb062d",
+            "ee43e31d057767e5",
+            "b2696ee55abe6f0e",
+            "c8b35887682ba969",
+            "885dabbae80ce5a6",
+            "58e4e0510c2ce3e7",
+            "6ede0b4f18e7f79b",
+            "127d7deb53627ec9",
+            "6f0260e93a2471b1",
+            "e66541178cfaca94",
+            "d399f6ff9c932304",
+            "e0f74d8870f573d8",
+            "69272d8082ef51d2",
+            "172fc05860dda1cc",
+            "81ae67211d5a5a99",
+            "81c00e97d8769144",
+            "60436a34ef2cbfe4",
+            "dd0ec12812901f68",
+            "b9f162a9451fb95e",
+            "b0c3f72526264157",
+            "52138649ed5f96b0"
+        ],
+        "x": 4244,
+        "y": 159
+    },
+    {
+        "id": "c7ac8bdf299fd9c3",
+        "type": "group",
+        "z": "1133590d304d60be",
+        "g": "39d0b72ee336f565",
+        "name": "Configuración",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "bb4eb33467e080b4",
+            "1ecda436934d72dd",
+            "77ce978265c6bdda",
+            "9fc9099f51841daf",
+            "6058272dbf3be62c",
+            "31868741446eabb0",
+            "7ea39873861f1ecc",
+            "e886b60481e11fb3",
+            "f3123f15f5c9f32b",
+            "269738549722e041",
+            "62abd64e8a9ae985",
+            "94276b012147cf62",
+            "cc41fa3036bd1b68",
+            "6953e35f79797b69",
+            "4d2d98e4cc32d7d2",
+            "6f9c5b42e7d81645",
+            "2742ef9178a903c1"
+        ],
+        "x": 104,
+        "y": 2209
     },
     {
         "id": "a80677cf.4274c8",
@@ -4826,9 +5571,7 @@
             "f4363e16.f1813"
         ],
         "x": 1914,
-        "y": 709,
-        "w": 1032,
-        "h": 82
+        "y": 709
     },
     {
         "id": "c2478f1687e8ccc7",
@@ -5500,835 +6243,6 @@
         "y": 319
     },
     {
-        "id": "da3df13ea266ba47",
-        "type": "group",
-        "z": "edcda77493e16eaa",
-        "g": "404043e2f2ac38f5",
-        "name": "Visualización Entradas análogas",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "d8c64eef7b116b45",
-            "640a87fa1ce980b1",
-            "6654bec995c4f76f",
-            "9fef553efcd7191b",
-            "f3543cc50f28a6d5",
-            "43a7fe4169e0b657"
-        ],
-        "x": 2394,
-        "y": 1179
-    },
-    {
-        "id": "ad0c713ad5cece71",
-        "type": "group",
-        "z": "1133590d304d60be",
-        "name": "",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "11160372e60be750",
-            "d833c89b162d0a86"
-        ],
-        "x": 68,
-        "y": 983,
-        "w": 1564,
-        "h": 334
-    },
-    {
-        "id": "db5caeececfedb14",
-        "type": "group",
-        "z": "1133590d304d60be",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "600a625acb648a97",
-            "938c2784d1392e3c",
-            "c3d59abc790619fd",
-            "addfbc59bee1fbda",
-            "430d0ec60a7b6de9",
-            "00c37d1280f1b7e5"
-        ],
-        "x": 1672,
-        "y": 127,
-        "w": 1696,
-        "h": 2506
-    },
-    {
-        "id": "2dd26bf8721b3469",
-        "type": "group",
-        "z": "1133590d304d60be",
-        "name": "",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "df63ddc8c6d46681",
-            "9964108a36705a14"
-        ],
-        "x": 68,
-        "y": 521,
-        "w": 1564,
-        "h": 456
-    },
-    {
-        "id": "7ff7e1af4770c4c7",
-        "type": "group",
-        "z": "1133590d304d60be",
-        "name": "Sintonización",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "44c3e95d498968d7",
-            "c2616aa4bc4fcfe5",
-            "b9f691a704236a83",
-            "813a3caa4ba0b755",
-            "f811eddd0d207647",
-            "328ef6a8d84e5e94",
-            "1b8a3ab03fe6d8c7",
-            "567736fbc7928ebb"
-        ],
-        "x": 74,
-        "y": 1329,
-        "w": 682,
-        "h": 202
-    },
-    {
-        "id": "2524cd78925f7f97",
-        "type": "group",
-        "z": "1133590d304d60be",
-        "name": "",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "e6621e20fc0aa776",
-            "e7f8478ce3aaacff"
-        ],
-        "x": 68,
-        "y": 133,
-        "w": 1564,
-        "h": 374
-    },
-    {
-        "id": "fd95a660b159b910",
-        "type": "group",
-        "z": "1133590d304d60be",
-        "name": "Acceso a pantalla de configuración drive C2S",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "bd9e7a8f595d93e2",
-            "aaee6751452351a6",
-            "66e85fb74b687658"
-        ],
-        "x": 774,
-        "y": 1329,
-        "w": 290,
-        "h": 122
-    },
-    {
-        "id": "ae46aaa5e4d94904",
-        "type": "group",
-        "z": "1133590d304d60be",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "5554c95be9be4ba5",
-            "95410079b75aee54"
-        ],
-        "x": 3378,
-        "y": 1713,
-        "w": 1334,
-        "h": 624
-    },
-    {
-        "id": "e58946c4dbfd7041",
-        "type": "group",
-        "z": "1133590d304d60be",
-        "name": "Eventos escritura de parámetros de variador",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "bebd23998a30258e",
-            "7f71cac632f7706a",
-            "fbb9e7e0549a44bf",
-            "7608a3e478ba3ee8",
-            "d10a155b4e9c5119",
-            "dcd6c71981ca1e9a"
-        ],
-        "x": 3384,
-        "y": 2349,
-        "w": 752,
-        "h": 122
-    },
-    {
-        "id": "411ff358a54f4da6",
-        "type": "group",
-        "z": "1133590d304d60be",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "2533677535fb6e47",
-            "d0c1d37f514ca3dd"
-        ],
-        "x": 3378,
-        "y": 133,
-        "w": 1534,
-        "h": 1574
-    },
-    {
-        "id": "39d0b72ee336f565",
-        "type": "group",
-        "z": "1133590d304d60be",
-        "name": "Relación de transformación",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "c7ac8bdf299fd9c3"
-        ],
-        "x": 78,
-        "y": 2183,
-        "w": 1504,
-        "h": 294
-    },
-    {
-        "id": "e77f0a1115d3b0d2",
-        "type": "group",
-        "z": "1133590d304d60be",
-        "name": "Navegación IM/PMM",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "718c1009fb600217",
-            "6ea811498cd67e30",
-            "951d8f01ad970728",
-            "e32220064a68c130",
-            "15c36db02c8bd51a",
-            "3217a96a69122327",
-            "ff287ed9426a8fab",
-            "9503130a8e885557",
-            "ebd5f427a87d2659",
-            "c3eb026630950a7a",
-            "f9662b3f37d4b18e",
-            "f1bc778657a47cce",
-            "539e27666cdd0146",
-            "a56e2327924c6b18",
-            "4f0047596f83777e",
-            "e3952bf1429b2ebf",
-            "f5970bc62bdb10fd",
-            "405e92d1546c5551",
-            "545987c08c5bac72",
-            "24a9b5c491cfd663",
-            "3d63a8a79e3138a4",
-            "72137416b81fe02a",
-            "64615aad62b4dcc7",
-            "b7aca072d7c33b5f",
-            "086138e51a7d5688",
-            "776e7f9de33ea107",
-            "7dfce6308f153ef8",
-            "3faffb4c206a3443",
-            "3c4672edb0f78231",
-            "a5acf9d588978788",
-            "092cc81376620bc2",
-            "29fcaeec99fc2922",
-            "164ad14d9afa8b1a",
-            "bed9c23d2fa5c613",
-            "d2618f4e6923c202",
-            "8b5b2eb54d94e129",
-            "3cc96a15c9c3eeda"
-        ],
-        "x": 74,
-        "y": 1539,
-        "w": 1132,
-        "h": 632
-    },
-    {
-        "id": "11160372e60be750",
-        "type": "group",
-        "z": "1133590d304d60be",
-        "g": "ad0c713ad5cece71",
-        "name": "Volts por Hertz",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "f511ed7eb7ba901d",
-            "729b63fc6aea7ed1",
-            "dc1890bc8c88dd19",
-            "6fc62995064d122f",
-            "03688745eb9ac8f5",
-            "78f4382b34bb8a7e",
-            "a33002cb477d1867",
-            "360ac989e7dd4d50",
-            "dea0485ebf11f3f1",
-            "a9419811b28c1d4c",
-            "968ddc1ecc32a5a3",
-            "f5d4077dad9703fd"
-        ],
-        "x": 964,
-        "y": 1009,
-        "w": 642,
-        "h": 282
-    },
-    {
-        "id": "d833c89b162d0a86",
-        "type": "group",
-        "z": "1133590d304d60be",
-        "g": "ad0c713ad5cece71",
-        "name": "Control de motor - Volts por Hertz",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "3b4ca552f2b6f1df",
-            "dfb847c280634f5a",
-            "1bc9ff1b53ee21af",
-            "6f6616dd8d029fc7",
-            "4f121fa7b61703c6",
-            "b29d06408c2687b7",
-            "28461a0ee8ac0b22",
-            "a4c1492b22677e48",
-            "3bb5be447ce77c17",
-            "ca64bdb2b5093d15",
-            "4950f9672a89b3a8",
-            "9c2117b16edcb0c2",
-            "8eaef1885be7c26a",
-            "092b75b9b4e66fc5"
-        ],
-        "x": 94,
-        "y": 1009,
-        "w": 862,
-        "h": 202
-    },
-    {
-        "id": "00c37d1280f1b7e5",
-        "type": "group",
-        "z": "1133590d304d60be",
-        "g": "db5caeececfedb14",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "5c5ad5c077ed3353",
-            "b27890516bfd376e"
-        ],
-        "x": 1698,
-        "y": 153,
-        "w": 1594,
-        "h": 1014
-    },
-    {
-        "id": "c3d59abc790619fd",
-        "type": "group",
-        "z": "1133590d304d60be",
-        "g": "db5caeececfedb14",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "b776122affd947be",
-            "039cd5b4364a841d"
-        ],
-        "x": 1718,
-        "y": 1183,
-        "w": 1574,
-        "h": 494
-    },
-    {
-        "id": "938c2784d1392e3c",
-        "type": "group",
-        "z": "1133590d304d60be",
-        "g": "db5caeececfedb14",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "7899e869c8a37c5b",
-            "331b767e3a601a36"
-        ],
-        "x": 1718,
-        "y": 1693,
-        "w": 1624,
-        "h": 254
-    },
-    {
-        "id": "430d0ec60a7b6de9",
-        "type": "group",
-        "z": "1133590d304d60be",
-        "g": "db5caeececfedb14",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "1b31eefd63c5582c",
-            "9dbdef16c02ddf60"
-        ],
-        "x": 1718,
-        "y": 1963,
-        "w": 1574,
-        "h": 254
-    },
-    {
-        "id": "addfbc59bee1fbda",
-        "type": "group",
-        "z": "1133590d304d60be",
-        "g": "db5caeececfedb14",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "a31beeaef0abf9dc",
-            "188f9f99804c443a"
-        ],
-        "x": 1718,
-        "y": 2233,
-        "w": 1574,
-        "h": 374
-    },
-    {
-        "id": "df63ddc8c6d46681",
-        "type": "group",
-        "z": "1133590d304d60be",
-        "g": "2dd26bf8721b3469",
-        "name": "Control de motor - Datos Placa de Motor",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "a513752061788d45",
-            "a3de4c50ed7fcfdf",
-            "3b7d461dfb74f9ed",
-            "ce03ec0836795f3f",
-            "afb9417dce5f0175",
-            "893a8856289ffc84",
-            "93f2d5aac1b2ef5d",
-            "7975fb220bbea0f0",
-            "370e4a31f76310fe",
-            "cc22213c92394942",
-            "50bd07a2ebbf0bef",
-            "2878100a87f138ce",
-            "637b7e2839e4aee7",
-            "b3c5c47283a47373",
-            "ca9910986943a208",
-            "6d552266c951071f",
-            "e18f9babd472f44d",
-            "d5d2a4383d95e11d",
-            "9161c1aed4d4c75b",
-            "e7ea6ec87023b297",
-            "eee56db211a50ed6",
-            "8a7802fb82f46c02",
-            "1783e4a754f2e89b"
-        ],
-        "x": 94,
-        "y": 549,
-        "w": 772,
-        "h": 322
-    },
-    {
-        "id": "9964108a36705a14",
-        "type": "group",
-        "z": "1133590d304d60be",
-        "g": "2dd26bf8721b3469",
-        "name": "Datos placa de motor",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "47da7dda6f790bf7",
-            "9588aec0b019400b",
-            "553b3170415da37e",
-            "093dc2c34311d24a",
-            "c7e1b14ac957fe2e",
-            "61619cbce1beaa38",
-            "6fc3202e8681c9bb",
-            "bde6717b70f080c3",
-            "41ea7744d531a6bc",
-            "b682e795d22f1e94",
-            "bd904d1b51a6ef9c",
-            "c1746028b7ded6b3",
-            "ece9aae1d85ff245",
-            "3cef0ada76041f65",
-            "12956760c8dd360e",
-            "95236f26ba2ae902",
-            "f8dbbf98beb343a7",
-            "93a0ee39f642203c"
-        ],
-        "x": 874,
-        "y": 547,
-        "w": 732,
-        "h": 404
-    },
-    {
-        "id": "e6621e20fc0aa776",
-        "type": "group",
-        "z": "1133590d304d60be",
-        "g": "2524cd78925f7f97",
-        "name": "Rampas y Límites",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "eeee804fbbe83807",
-            "d8b195fd4dab0be3",
-            "0eb409c5fd90e9de",
-            "ae2b4512fa4a70a1",
-            "57ba4f0a92faab04",
-            "a248794ef8cf2e63",
-            "2c553ef0bb314149",
-            "e712463884407a7a",
-            "d9ec92d1d25fbfc3",
-            "76f4e6b22d50293e",
-            "43f51a8065b54b37",
-            "88ccde0bab6203e3",
-            "d58de2db4d2e4eb2",
-            "f188e24eae127149",
-            "089356f9b633f84b",
-            "f6bb9df94f806b57",
-            "951f026ec69b674f",
-            "1d8a253e429e91eb",
-            "f9392c3f8bb8c305",
-            "e17a3ffe819f3ce6"
-        ],
-        "x": 94,
-        "y": 159,
-        "w": 752,
-        "h": 282
-    },
-    {
-        "id": "e7f8478ce3aaacff",
-        "type": "group",
-        "z": "1133590d304d60be",
-        "g": "2524cd78925f7f97",
-        "name": "Rampas y Límites",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "54d1886de1518102",
-            "8e2ad9459d1ede09",
-            "f8f4d66c26eb322b",
-            "7dd47a8663e6855a",
-            "f1cbeec01c770cb4",
-            "68c731b9b0f3fccf",
-            "05d05f9c5926791b",
-            "24e54fa7b39452a8",
-            "f267266cc5dc3ba6",
-            "5e77c5957b5ddb54",
-            "97805877c33ccc22",
-            "d330089cf2b317f2",
-            "582e4ed800f1f4be",
-            "11d5c8997beb643b",
-            "16c390a5692c0287"
-        ],
-        "x": 854,
-        "y": 159,
-        "w": 752,
-        "h": 322
-    },
-    {
-        "id": "5554c95be9be4ba5",
-        "type": "group",
-        "z": "1133590d304d60be",
-        "g": "ae46aaa5e4d94904",
-        "name": "Mapa de motores PMM",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "cf327fab97722938",
-            "c42bebb41fa4d76a",
-            "9478e6e9fd800a27",
-            "95e8c6d622f4bfdd",
-            "fe99d47a97c9648d",
-            "7eb870c137c1b827",
-            "c88e320105aeec65",
-            "d8bcbe5d0edfc3b0",
-            "df3c2d269329aa76",
-            "a31516a5449689b0",
-            "f8d4468ac349a3fd",
-            "6c64ddad2f1557ee",
-            "8e559e18ed6ecfd0",
-            "7bf6beb10f40f05c",
-            "761dd5941b0adc1e",
-            "f3b146d1eda2d536"
-        ],
-        "x": 3414,
-        "y": 1829,
-        "w": 1272,
-        "h": 482
-    },
-    {
-        "id": "95410079b75aee54",
-        "type": "group",
-        "z": "1133590d304d60be",
-        "g": "ae46aaa5e4d94904",
-        "name": "Selector Motores",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "3f11f3c33e8a65b6",
-            "1f6b268e9830a15d",
-            "b44ac1aefc6b7e2d",
-            "4471b00c2fcb1fb6",
-            "734a45090dd8a96b"
-        ],
-        "x": 3404,
-        "y": 1739,
-        "w": 682,
-        "h": 82
-    },
-    {
-        "id": "2533677535fb6e47",
-        "type": "group",
-        "z": "1133590d304d60be",
-        "g": "411ff358a54f4da6",
-        "name": "Curvas de saturación",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "445f51b71147f29c",
-            "9f1c22d124d131c7",
-            "8914d669c9e3bc5c",
-            "b539b428b0409925",
-            "15d3f3eed0c758dc",
-            "0ee8442e07c69ca8",
-            "b5f0ee2ea3113e64",
-            "a38e289535b210ef",
-            "db758bcb037e24c5",
-            "c62e402016238b0e",
-            "a174ce1c91ac6ffd",
-            "5e6feff90b158e25",
-            "a023ce2c04c23756",
-            "5b69472d2ebd628a",
-            "1a182ef06e5f4fbd",
-            "b2bdbe19149923e5",
-            "15a2cb02aa6b7635",
-            "bafa38eb0c874de1",
-            "299bba776e5e4fc1",
-            "6b04fa05ec8a66d0",
-            "eeb883ac21bb82e5",
-            "840bc19845a30c9b",
-            "8b9c5800c73ae4ed",
-            "84446f6bf73a082b",
-            "66451c32b902eda9",
-            "42d4119ace6f9e57",
-            "29992038a98cfda2",
-            "c8b9178f191c1a44",
-            "ec383984f031e9a9",
-            "d5534efde9531027",
-            "64196ca74803e391",
-            "ee8efa3d9eac5c01",
-            "92e5e4c24865b12f",
-            "b824408890c14e19",
-            "bfbed14650fb0fd4",
-            "02a8e574e0cb0590",
-            "f6fb80889f13a2ad",
-            "91114f9e6aefb374",
-            "010f9788034a4e71",
-            "bef0556acf9120a6",
-            "414a885e0a4ebf8c",
-            "1520eca60dee5f0a",
-            "f1267b0aa3991389",
-            "9d17b1b3fddcc61c",
-            "3f0a34d7533c4327",
-            "b0b92456d7fe447f",
-            "ab1f8c727b6b7921",
-            "7899671c99cc79d8",
-            "e8ba7985f3c47c3a",
-            "b975d631a2f56027",
-            "9cf6635d20466d63",
-            "4467462bc4b993c5",
-            "7243d154a5d543ec",
-            "3f367b3adb63c7fc"
-        ],
-        "x": 3404,
-        "y": 159,
-        "w": 832,
-        "h": 1522
-    },
-    {
-        "id": "d0c1d37f514ca3dd",
-        "type": "group",
-        "z": "1133590d304d60be",
-        "g": "411ff358a54f4da6",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "06886d2f5079e292",
-            "7b0cec50542e2a60",
-            "1a4e123b13656198",
-            "f6bfcea4c0812555",
-            "ec82ac6fd78cd5e0",
-            "30bee367b4552e52",
-            "a496dfca1c95fd61",
-            "87ae7f84d88112af",
-            "265d72289cdca2f0",
-            "a434dac33ce3fcec",
-            "94c8ca370fc05207",
-            "a07b0caf5291e982",
-            "a7302118a01bb5e9",
-            "6893f109083a6655",
-            "0ab7348691521a7f",
-            "496b047d056ec161",
-            "5b609e26ee8ad2c6",
-            "7fad2854043bf20d",
-            "79a2e88f12d5e412",
-            "72a8d91d9a7d0b84",
-            "01f1d31e4080db18",
-            "de0919c711e76827",
-            "0d728b700af0b1d7",
-            "9d75a4d69bd8ccad",
-            "d99c2890461548e1",
-            "9c3bae34aad256bc",
-            "4b81f5035cc7797e",
-            "483e1e67532ac812",
-            "fbc782b201c81a34",
-            "c222a12b531f94ac",
-            "1d5f4ad758d799cc",
-            "0fc5f680d4b1f991",
-            "b03a02f0dddb062d",
-            "ee43e31d057767e5",
-            "b2696ee55abe6f0e",
-            "c8b35887682ba969",
-            "885dabbae80ce5a6",
-            "58e4e0510c2ce3e7",
-            "6ede0b4f18e7f79b",
-            "127d7deb53627ec9",
-            "6f0260e93a2471b1",
-            "e66541178cfaca94",
-            "d399f6ff9c932304",
-            "e0f74d8870f573d8",
-            "69272d8082ef51d2",
-            "172fc05860dda1cc",
-            "81ae67211d5a5a99",
-            "81c00e97d8769144",
-            "60436a34ef2cbfe4",
-            "dd0ec12812901f68",
-            "b9f162a9451fb95e",
-            "b0c3f72526264157",
-            "52138649ed5f96b0"
-        ],
-        "x": 4244,
-        "y": 159,
-        "w": 642,
-        "h": 562
-    },
-    {
-        "id": "c7ac8bdf299fd9c3",
-        "type": "group",
-        "z": "1133590d304d60be",
-        "g": "39d0b72ee336f565",
-        "name": "Configuración",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "bb4eb33467e080b4",
-            "1ecda436934d72dd",
-            "77ce978265c6bdda",
-            "9fc9099f51841daf",
-            "6058272dbf3be62c",
-            "31868741446eabb0",
-            "7ea39873861f1ecc",
-            "e886b60481e11fb3",
-            "f3123f15f5c9f32b",
-            "269738549722e041",
-            "62abd64e8a9ae985",
-            "94276b012147cf62",
-            "cc41fa3036bd1b68",
-            "6953e35f79797b69",
-            "4d2d98e4cc32d7d2",
-            "6f9c5b42e7d81645",
-            "2742ef9178a903c1"
-        ],
-        "x": 104,
-        "y": 2209,
-        "w": 1452,
-        "h": 242
-    },
-    {
         "id": "b776122affd947be",
         "type": "group",
         "z": "1133590d304d60be",
@@ -6373,9 +6287,7 @@
             "bed4f52f479fd1c1"
         ],
         "x": 1744,
-        "y": 1209,
-        "w": 872,
-        "h": 442
+        "y": 1209
     },
     {
         "id": "7899e869c8a37c5b",
@@ -6404,9 +6316,7 @@
             "ae20bf35b82469b0"
         ],
         "x": 1744,
-        "y": 1719,
-        "w": 912,
-        "h": 202
+        "y": 1719
     },
     {
         "id": "9dbdef16c02ddf60",
@@ -6435,9 +6345,7 @@
             "bcca6aa514245024"
         ],
         "x": 1744,
-        "y": 1989,
-        "w": 862,
-        "h": 202
+        "y": 1989
     },
     {
         "id": "5c5ad5c077ed3353",
@@ -6514,9 +6422,7 @@
             "ebe40b7e703dd7d3"
         ],
         "x": 2614,
-        "y": 179,
-        "w": 652,
-        "h": 642
+        "y": 179
     },
     {
         "id": "039cd5b4364a841d",
@@ -6576,9 +6482,7 @@
             "63d7b21e2ac7a48e"
         ],
         "x": 2614,
-        "y": 1209,
-        "w": 652,
-        "h": 442
+        "y": 1209
     },
     {
         "id": "331b767e3a601a36",
@@ -6614,9 +6518,7 @@
             "32137a73e73a5f45"
         ],
         "x": 2664,
-        "y": 1719,
-        "w": 652,
-        "h": 202
+        "y": 1719
     },
     {
         "id": "1b31eefd63c5582c",
@@ -6648,9 +6550,7 @@
             "f113a342af58a416"
         ],
         "x": 2614,
-        "y": 1989,
-        "w": 652,
-        "h": 162
+        "y": 1989
     },
     {
         "id": "a31beeaef0abf9dc",
@@ -6688,9 +6588,7 @@
             "189524014e3c89b5"
         ],
         "x": 1744,
-        "y": 2259,
-        "w": 862,
-        "h": 322
+        "y": 2259
     },
     {
         "id": "188f9f99804c443a",
@@ -6738,9 +6636,7 @@
             "85eec4641fb2cbad"
         ],
         "x": 2614,
-        "y": 2259,
-        "w": 652,
-        "h": 322
+        "y": 2259
     },
     {
         "id": "b27890516bfd376e",
@@ -6804,37 +6700,27 @@
             "618ecabb623453c6"
         ],
         "x": 1724,
-        "y": 179,
-        "w": 882,
-        "h": 962
+        "y": 179
     },
     {
-        "id": "092dd020eb5a4c3c",
+        "id": "da3df13ea266ba47",
         "type": "group",
-        "z": "1133590d304d60be",
-        "name": "Configuración Caja Reductora",
+        "z": "edcda77493e16eaa",
+        "g": "404043e2f2ac38f5",
+        "name": "Visualización Entradas análogas",
         "style": {
             "label": true
         },
         "nodes": [
-            "f21f6e3713f08a18",
-            "612772b1e7ed8055",
-            "0859580f8c436b4e",
-            "db2c4d82ca1e8253",
-            "717c598c65fa6edc",
-            "d31d0334d8d563a3",
-            "d10e3a9a5fc0bc3e",
-            "9bbd24040ab59574",
-            "d1da2623f13156d6",
-            "a1d67166cfb77b31",
-            "551dac9d64d1a9aa",
-            "4f6d7fee6a552f9c",
-            "ff967886151c2314"
+            "d8c64eef7b116b45",
+            "640a87fa1ce980b1",
+            "6654bec995c4f76f",
+            "9fef553efcd7191b",
+            "f3543cc50f28a6d5",
+            "43a7fe4169e0b657"
         ],
-        "x": 94,
-        "y": 2499,
-        "w": 1072,
-        "h": 162
+        "x": 2394,
+        "y": 1179
     },
     {
         "id": "d25d405a.19cff",
@@ -11262,7 +11148,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 268,
         "y": 104,
         "wires": [
@@ -11489,7 +11374,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 410,
         "y": 140,
         "wires": [
@@ -11599,7 +11483,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1090,
         "y": 110,
         "wires": [
@@ -11650,7 +11533,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1640,
         "y": 190,
         "wires": [
@@ -11769,7 +11651,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1710,
         "y": 230,
         "wires": [
@@ -12960,7 +12841,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1500,
         "y": 700,
         "wires": [
@@ -12985,7 +12865,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1500,
         "y": 740,
         "wires": [
@@ -13260,7 +13139,7 @@
         "g": "086b9d08c3b68939",
         "name": "Status Drive Link In",
         "links": [
-            "f16815630fb5bc06"
+            "3b857e7af771bdda"
         ],
         "x": 515,
         "y": 1400,
@@ -14016,7 +13895,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 1190,
         "y": 160,
         "wires": [
@@ -16480,7 +16358,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1240,
         "y": 1120,
         "wires": [
@@ -16659,7 +16536,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 560,
         "y": 490,
         "wires": [
@@ -19236,7 +19112,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 1060,
         "y": 80,
         "wires": [
@@ -19683,7 +19558,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 950,
         "y": 80,
         "wires": [
@@ -19764,7 +19638,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 830,
         "y": 160,
         "wires": [
@@ -19971,7 +19844,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1090,
         "y": 170,
         "wires": [
@@ -29339,7 +29211,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 3550,
         "y": 2430,
         "wires": [
@@ -36932,7 +36803,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 850,
         "y": 820,
         "wires": [
@@ -37479,7 +37349,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 640,
         "y": 1220,
         "wires": [
@@ -37645,7 +37514,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 650,
         "y": 1040,
         "wires": [
@@ -37704,7 +37572,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1440,
         "y": 1080,
         "wires": [
@@ -37770,7 +37637,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 650,
         "y": 1140,
         "wires": [
@@ -41546,7 +41412,7 @@
         "y": 110,
         "wires": [
             [
-                "64eb3a5330da4f87"
+                "6665cfb9001a61c6"
             ]
         ]
     },
@@ -42052,7 +41918,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 2340,
         "y": 1120,
         "wires": [
@@ -42507,24 +42372,6 @@
         ]
     },
     {
-        "id": "64eb3a5330da4f87",
-        "type": "debug",
-        "z": "9941a439.4b17c8",
-        "g": "99671f60976b1d2a",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": true,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "payload",
-        "statusType": "auto",
-        "x": 2150,
-        "y": 80,
-        "wires": []
-    },
-    {
         "id": "1b8cd32f8a397c41",
         "type": "subflow:a52b5a046f4fd02f",
         "z": "9941a439.4b17c8",
@@ -42726,7 +42573,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 160,
         "y": 120,
         "wires": [
@@ -45746,7 +45592,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 640,
         "y": 520,
         "wires": [
@@ -51247,7 +51092,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 400,
         "y": 200,
         "wires": [
@@ -51819,7 +51663,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 200,
         "y": 220,
         "wires": [
@@ -52353,7 +52196,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 730,
         "y": 270,
         "wires": [
@@ -52380,7 +52222,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 730,
         "y": 400,
         "wires": [
@@ -54389,7 +54230,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 840,
         "y": 270,
         "wires": [
@@ -54646,7 +54486,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 260,
         "y": 190,
         "wires": [
@@ -54693,7 +54532,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 770,
         "y": 190,
         "wires": [
@@ -59162,7 +59000,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 640,
         "y": 1160,
         "wires": [
@@ -60281,7 +60118,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 2510,
         "y": 1010,
         "wires": [
@@ -62454,7 +62290,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 670,
         "y": 3630,
         "wires": [
@@ -64357,7 +64192,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1330,
         "y": 140,
         "wires": [
@@ -64383,7 +64217,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1330,
         "y": 180,
         "wires": [
@@ -64409,7 +64242,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1330,
         "y": 220,
         "wires": [
@@ -64435,7 +64267,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1330,
         "y": 260,
         "wires": [
@@ -70150,7 +69981,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1330,
         "y": 300,
         "wires": [
@@ -70257,7 +70087,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 2380,
         "y": 140,
         "wires": [
@@ -70430,7 +70259,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 680,
         "y": 420,
         "wires": [
@@ -70488,7 +70316,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1330,
         "y": 380,
         "wires": [
@@ -70514,7 +70341,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1330,
         "y": 420,
         "wires": [
@@ -70539,7 +70365,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1330,
         "y": 460,
         "wires": [
@@ -70565,7 +70390,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1330,
         "y": 500,
         "wires": [
@@ -70591,7 +70415,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1330,
         "y": 540,
         "wires": [
@@ -70669,7 +70492,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 1330,
         "y": 340,
         "wires": [
@@ -70866,7 +70688,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "outputs": 1,
         "x": 2480,
         "y": 320,
         "wires": [
@@ -70914,7 +70735,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 3020,
         "y": 240,
         "wires": [
@@ -71647,7 +71467,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 2910,
         "y": 350,
         "wires": [
@@ -73186,8 +73005,8 @@
         "g": "a9988da34f9622ff",
         "name": "Falla General",
         "links": [],
-        "x": 535,
-        "y": 140,
+        "x": 455,
+        "y": 120,
         "wires": []
     },
     {
@@ -73207,7 +73026,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 1820,
         "y": 3690,
         "wires": [
@@ -73233,7 +73051,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 1820,
         "y": 3790,
         "wires": [
@@ -73259,7 +73076,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 1820,
         "y": 3870,
         "wires": [
@@ -73285,7 +73101,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 1820,
         "y": 3970,
         "wires": [
@@ -76096,7 +75911,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 1120,
         "y": 240,
         "wires": [
@@ -80012,7 +79826,7 @@
         "z": "8c6f930882747645",
         "g": "0e5fc807c9fa372e",
         "name": "LogicaControlOnOff",
-        "func": "var habilitado = global.get(\"Control_functions.Controlon_off.habilitado\")||false;\nvar ton = global.get(\"Control_functions.Controlon_off.ton\") || 0;//tiempo de alta\nvar toff = global.get(\"Control_functions.Controlon_off.toff\") || 0;//tiempo de baja\nvar estado = global.get(\"Control_functions.Controlon_off.estado\") || false;//estado del equipo\nvar buttonComand = global.get(\"Control_functions.Controlon_off.buttonComand\") || false;//boton de arranque del sistema\nvar At_Setpt_Spd = global.get(\"C2S.Drive_Status.At_Setpt_Spd\",\"memoryOnly\")||0;//llegó a referencia el VSD\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\",\"memoryOnly\")||false;\n// flag de estado del arranque automatico\nvar AutomaticRestart = global.get(\"Control_functions.ActiveCF.AutomaticRestart\",\"memoryOnly\")||false;\nvar flagArranqueAutomatico = context.get(\"flagArranqueAutomatico\",\"memoryOnly\")||false;\nvar ctr = context.get(\"ctr\",ctr)||0;\nvar time = 0,color;\nvar flag = context.get(\"flag\",\"memoryOnly\")||false; //seteo de flag para identificar si ya ha llegado a la referencia\nif (habilitado == true && comunicacion == true) {\n    //visualizar estado del habilitado\n    color = \"green\";\n    if (toff != 0 && ton != 0) {\n        // logica para cambiar entre estados\n        if (AutomaticRestart == true && flagArranqueAutomatico == false){\n            node.status({ fill: \"yellow\", shape: \"dot\", text: \"esperandoArranque\" });\n            buttonComand = false;//se ejecuta una sola vez\n            estado = true;\n            flagArranqueAutomatico = true;//ya se ejecuto el arranque automatico\n        }else if(flagArranqueAutomatico == true){\n            buttonComand = true;//inicie la operación\n            flagArranqueAutomatico = false;\n        }\n        if (estado == true && buttonComand == true ) {\n            color = \"green\";\n            if (At_Setpt_Spd == 1){//El VSD ya llegó a la referencia\n                ctr = ctr + 1;\n                flag = true;\n            }else if(flag == true){//seguir contando el tiempo\n                ctr = ctr + 1;\n            }\n            else{\n                ctr = ctr;//No aumente el tiempo\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = ton - ctr;\n            if (ton == ctr) {\n                global.set(\"Control_functions.Controlon_off.estado\", false);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > ton) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        } else if (estado == false && buttonComand == true){\n            color = \"red\";\n            if (At_Setpt_Spd == 0){//El VSD ya se paro\n                ctr = ctr + 1;\n                flag = false;//seteo de la flag\n            }\n            else{\n                ctr = ctr;\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = toff - ctr;\n            if (toff == ctr) {\n                global.set(\"Control_functions.Controlon_off.estado\", true);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > toff) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        }else {\n            estado = \"pausa\";\n            time = 0;\n        }\n\n    } else {\n        color = \"red\"\n        time = 0;\n        estado = \"tiemposNoConfigurados\";\n        flag = false;\n    }\n} else if (habilitado == false && comunicacion == true) {\n    global.set(\"Control_functions.Controlon_off.estado\", true);\n    context.set(\"ctr\", 0)//setear el contador\n    time = time ;\n    estado = \"deshabilitado\";color = \"red\";\n    flag = false\n}else if (comunicacion == false){\n    global.set(\"Control_functions.Controlon_off.estado\", false);//setee el estado de activar en bajo\n    context.set(\"ctr\", 0)//setear el contador\n    time = 0;\n    estado = \"falloComunicacion\";\n    flag = false\n}\n// estado de la función\nnode.status({ fill: \"red\", shape: \"dot\", text: estado });\n// set variables\ncontext.set(\"habilitado\",habilitado,\"memoryOnly\");\ncontext.set(\"estado\",estado,\"memoryOnly\");\ncontext.set(\"toff\",toff,\"memoryOnly\");\ncontext.set(\"ton\",ton,\"memoryOnly\");\ncontext.set(\"time\",time,\"memoryOnly\");\ncontext.set(\"time\",time,\"memoryOnly\");\ncontext.set(\"buttonComand\", buttonComand,\"memoryOnly\");\ncontext.set(\"At_Setpt_Spd\", At_Setpt_Spd,\"memoryOnly\");\ncontext.set(\"flag\", flag,\"memoryOnly\");\n\ntime = { payload: time };\nestado = { payload: estado };\nreturn [estado, time];\n",
+        "func": "var habilitado = global.get(\"Control_functions.Controlon_off.habilitado\")||false;\nvar ton = global.get(\"Control_functions.Controlon_off.ton\") || 0;//tiempo de alta\nvar toff = global.get(\"Control_functions.Controlon_off.toff\") || 0;//tiempo de baja\nvar estado = global.get(\"Control_functions.Controlon_off.estado\") || false;//estado del equipo\nvar buttonComand = global.get(\"Control_functions.Controlon_off.buttonComand\") || false;//boton de arranque del sistema\nvar At_Setpt_Spd = global.get(\"C2S.Drive_Status.At_Setpt_Spd\",\"memoryOnly\")||0;//llegó a referencia el VSD\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\",\"memoryOnly\")||false;\nvar FallaGeneral = global.get(\"IO.Functions.DO['Falla general']\", 'memoryOnly') || false;\n// flag de estado del arranque automatico\nvar AutomaticRestart = global.get(\"Control_functions.ActiveCF.AutomaticRestart\",\"memoryOnly\")||false;\nvar flagArranqueAutomatico = context.get(\"flagArranqueAutomatico\",\"memoryOnly\")||false;\nvar ctr = context.get(\"ctr\",ctr)||0;\nvar time = 0,color;\nvar flag = context.get(\"flag\",\"memoryOnly\")||false; //seteo de flag para identificar si ya ha llegado a la referencia\nif (habilitado == true && comunicacion == true && FallaGeneral == false) {\n    //visualizar estado del habilitado\n    color = \"green\";\n    if (toff != 0 && ton != 0) {\n        // logica para cambiar entre estados\n        if (AutomaticRestart == true && flagArranqueAutomatico == false){\n            node.status({ fill: \"yellow\", shape: \"dot\", text: \"esperandoArranque\" });\n            buttonComand = false;//se ejecuta una sola vez\n            estado = true;\n            flagArranqueAutomatico = true;//ya se ejecuto el arranque automatico\n        }else if(flagArranqueAutomatico == true){\n            buttonComand = true;//inicie la operación\n            flagArranqueAutomatico = false;\n        }\n        if (estado == true && buttonComand == true ) {\n            color = \"green\";\n            if (At_Setpt_Spd == 1){//El VSD ya llegó a la referencia\n                ctr = ctr + 1;\n                flag = true;\n            }else if(flag == true){//seguir contando el tiempo\n                ctr = ctr + 1;\n            }\n            else{\n                ctr = ctr;//No aumente el tiempo\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = ton - ctr;\n            if (ton == ctr) {\n                global.set(\"Control_functions.Controlon_off.estado\", false);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > ton) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        } else if (estado == false && buttonComand == true){\n            color = \"red\";\n            if (At_Setpt_Spd == 0){//El VSD ya se paro\n                ctr = ctr + 1;\n                flag = false;//seteo de la flag\n            }\n            else{\n                ctr = ctr;\n            }\n            context.set(\"ctr\", ctr)//guardar contador\n            time = toff - ctr;\n            if (toff == ctr) {\n                global.set(\"Control_functions.Controlon_off.estado\", true);\n                context.set(\"ctr\", 0)//setear el contador\n            } else if (ctr > toff) {\n                //caso en el cual se cambia el tiempo del contador pot pantalla\n                context.set(\"ctr\", 0)//setear el contador\n            }\n        }else {\n            estado = \"pausa\";\n            time = 0;\n        }\n\n    } else {\n        color = \"red\"\n        time = 0;\n        estado = \"tiemposNoConfigurados\";\n        flag = false;\n    }\n} else if (habilitado == false && comunicacion == true && FallaGeneral == false) {\n    global.set(\"Control_functions.Controlon_off.estado\", true);\n    context.set(\"ctr\", 0)//setear el contador\n    time = time ;\n    estado = \"deshabilitado\";color = \"red\";\n    flag = false\n} else if (FallaGeneral == true && comunicacion == true){\n    global.set(\"Control_functions.Controlon_off.estado\", false);//setee el estado de activar en bajo\n    buttonComand = false;\n    context.set(\"ctr\", 0)//setear el contador\n    time = 0;\n    estado = \"FallaGeneral\";\n    flag = false\n}\nelse if (comunicacion == false){\n    buttonComand = false;\n    global.set(\"Control_functions.Controlon_off.estado\", false);//setee el estado de activar en bajo\n    context.set(\"ctr\", 0)//setear el contador\n    time = 0;\n    estado = \"falloComunicacion\";\n    flag = false\n}\n//variables globales\nglobal.set(\"Control_functions.Controlon_off.buttonComand\", buttonComand);\n// estado de la función\nnode.status({ fill: \"red\", shape: \"dot\", text: estado });\n// set variables\ncontext.set(\"habilitado\",habilitado,\"memoryOnly\");\ncontext.set(\"estado\",estado,\"memoryOnly\");\ncontext.set(\"toff\",toff,\"memoryOnly\");\ncontext.set(\"ton\",ton,\"memoryOnly\");\ncontext.set(\"time\",time,\"memoryOnly\");\ncontext.set(\"time\",time,\"memoryOnly\");\ncontext.set(\"buttonComand\", buttonComand,\"memoryOnly\");\ncontext.set(\"At_Setpt_Spd\", At_Setpt_Spd,\"memoryOnly\");\ncontext.set(\"flag\", flag,\"memoryOnly\");\n\ntime = { payload: time };\nestado = { payload: estado };\nreturn [estado, time];\n",
         "outputs": 2,
         "noerr": 0,
         "initialize": "",
@@ -82180,7 +81994,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 860,
         "y": 380,
         "wires": [
@@ -84203,7 +84016,6 @@
         "randomUnits": "seconds",
         "drop": false,
         "allowrate": false,
-        "outputs": 1,
         "x": 640,
         "y": 880,
         "wires": [
@@ -87788,6 +87600,21 @@
         "wires": [
             [
                 "f29cf89058d2bf0c"
+            ]
+        ]
+    },
+    {
+        "id": "6665cfb9001a61c6",
+        "type": "subflow:d9270a824debddba",
+        "z": "9941a439.4b17c8",
+        "g": "99671f60976b1d2a",
+        "name": "",
+        "x": 2100,
+        "y": 100,
+        "wires": [
+            [],
+            [
+                "633f44af41940f7e"
             ]
         ]
     }
