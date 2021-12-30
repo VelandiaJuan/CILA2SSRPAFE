@@ -143,7 +143,7 @@
         "id": "830fadc6f5236b78",
         "type": "tab",
         "label": "ControlDobleVelocidad",
-        "disabled": true,
+        "disabled": false,
         "info": ""
     },
     {
@@ -1110,7 +1110,9 @@
             "c35fbf62d8f2cdf8"
         ],
         "x": 24,
-        "y": 609
+        "y": 609,
+        "w": 2632,
+        "h": 552
     },
     {
         "id": "3cb51855.a66038",
@@ -1125,7 +1127,9 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169
+        "y": 1169,
+        "w": 232,
+        "h": 82
     },
     {
         "id": "d689e3de.7d569",
@@ -1767,7 +1771,9 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269
+        "y": 1269,
+        "w": 352,
+        "h": 82
     },
     {
         "id": "6202107f.ed9aa",
@@ -1836,10 +1842,13 @@
             "8e77c9d647a0565f",
             "927d0ac2c84471a7",
             "7035c5bac0894530",
-            "126bcc4a4f8556dc"
+            "126bcc4a4f8556dc",
+            "c4be0af39e50b293"
         ],
         "x": 44,
-        "y": -21
+        "y": -21,
+        "w": 1992,
+        "h": 622
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -1873,7 +1882,9 @@
             "17c1f84a5b3ad8ad"
         ],
         "x": 3224,
-        "y": 19
+        "y": 19,
+        "w": 1284,
+        "h": 1708
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -1894,7 +1905,9 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169
+        "y": 1169,
+        "w": 782,
+        "h": 182
     },
     {
         "id": "086b9d08c3b68939",
@@ -1925,7 +1938,9 @@
             "9661d016b799c47d"
         ],
         "x": 24,
-        "y": 1359
+        "y": 1359,
+        "w": 1022,
+        "h": 292
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -1951,7 +1966,9 @@
             "6e75b5f5657d3a7e"
         ],
         "x": 24,
-        "y": 1679
+        "y": 1679,
+        "w": 1132,
+        "h": 202
     },
     {
         "id": "afdbbb533d628687",
@@ -1967,7 +1984,9 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679
+        "y": 1679,
+        "w": 332,
+        "h": 82
     },
     {
         "id": "23c99fd.b16886",
@@ -2536,9 +2555,7 @@
             "dc25a197792f9812"
         ],
         "x": 154,
-        "y": 779,
-        "w": 1152,
-        "h": 342
+        "y": 779
     },
     {
         "id": "99fd9c5cbd90ceb5",
@@ -2555,9 +2572,7 @@
             "5e3e278f18c43297"
         ],
         "x": 154,
-        "y": 1159,
-        "w": 492,
-        "h": 122
+        "y": 1159
     },
     {
         "id": "aecdec289959a88b",
@@ -2587,9 +2602,7 @@
             "c029b9bec80247e8"
         ],
         "x": 154,
-        "y": 459,
-        "w": 1092,
-        "h": 282
+        "y": 459
     },
     {
         "id": "6c6732761a2613b5",
@@ -2973,7 +2986,9 @@
             "de95dabeadfa8333"
         ],
         "x": 254,
-        "y": 1939
+        "y": 1939,
+        "w": 672,
+        "h": 142
     },
     {
         "id": "5519b13db7a1857a",
@@ -2999,9 +3014,7 @@
             "a0b90b4f54fbae9f"
         ],
         "x": 674,
-        "y": 1159,
-        "w": 1142,
-        "h": 222
+        "y": 1159
     },
     {
         "id": "9ff47da5fe193161",
@@ -3058,9 +3071,7 @@
             "d5eb026a704fd13b"
         ],
         "x": 154,
-        "y": 179,
-        "w": 1392,
-        "h": 162
+        "y": 179
     },
     {
         "id": "e4cabd2892b5651b",
@@ -3086,7 +3097,9 @@
             "44b52a5ca865f32a"
         ],
         "x": 114,
-        "y": 999
+        "y": 1119,
+        "w": 862,
+        "h": 242
     },
     {
         "id": "65dbd90af70f1e98",
@@ -3114,8 +3127,10 @@
             "6fc284d752239ac0",
             "c9ef5029dfa1dca4"
         ],
-        "x": 114,
-        "y": 599
+        "x": 108,
+        "y": 699,
+        "w": 954,
+        "h": 395.5
     },
     {
         "id": "2ceb8ec502cd9a4d",
@@ -3139,10 +3154,13 @@
             "9d5241c05da1b3a8",
             "ae99f68c08d8c44b",
             "11cdf377e409913a",
-            "86a9047e4057bacf"
+            "86a9047e4057bacf",
+            "133a6558e1a8c7d2"
         ],
-        "x": 1254,
-        "y": 599
+        "x": 1134,
+        "y": 699,
+        "w": 692,
+        "h": 322
     },
     {
         "id": "7fd14179472bdff0",
@@ -3174,10 +3192,13 @@
             "9caea9d1e37c9273",
             "29a69eac175c133c",
             "f53a59615c13ca9c",
-            "3d79a61c74a2c05e"
+            "3d79a61c74a2c05e",
+            "b5dd25bc9187aa75"
         ],
         "x": 114,
-        "y": 239
+        "y": 239,
+        "w": 1292,
+        "h": 428
     },
     {
         "id": "b76c959d391c2570",
@@ -3981,7 +4002,9 @@
             "8b26636d1d23678c"
         ],
         "x": 954,
-        "y": 1939
+        "y": 1939,
+        "w": 492,
+        "h": 202
     },
     {
         "id": "31895ea6.22f372",
@@ -4317,7 +4340,9 @@
             "8296f6a13feaac28"
         ],
         "x": 74,
-        "y": 399
+        "y": 399,
+        "w": 792,
+        "h": 132
     },
     {
         "id": "487b4f399a10404b",
@@ -4631,7 +4656,9 @@
             "26836fe8d310f685"
         ],
         "x": 3428,
-        "y": 413
+        "y": 413,
+        "w": 1054,
+        "h": 758
     },
     {
         "id": "7bc9759a9a7ea0be",
@@ -4686,7 +4713,9 @@
             "09240a88f66b7c6f"
         ],
         "x": 3434,
-        "y": 1179
+        "y": 1179,
+        "w": 992,
+        "h": 522
     },
     {
         "id": "dad84feb.d4773",
@@ -4876,10 +4905,13 @@
             "0c7e810b831f1140",
             "2915404d918e6500",
             "caba6930587fef43",
-            "a6ae08b25206a8fb"
+            "a6ae08b25206a8fb",
+            "8f689579bc1f6c75"
         ],
-        "x": 154,
-        "y": 799
+        "x": 134,
+        "y": 899,
+        "w": 902,
+        "h": 169.5
     },
     {
         "id": "b692a9f8cbb5191a",
@@ -5483,6 +5515,26 @@
         ],
         "x": 104,
         "y": 2209
+    },
+    {
+        "id": "b5dd25bc9187aa75",
+        "type": "group",
+        "z": "830fadc6f5236b78",
+        "g": "7fd14179472bdff0",
+        "name": "comandos de inicio desde la ventana principal",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "0b0b573c3e13a9f2",
+            "c161086a855c6162",
+            "44a788eb65d6fa67",
+            "786e9b7051b23244"
+        ],
+        "x": 194,
+        "y": 519,
+        "w": 294,
+        "h": 122
     },
     {
         "id": "a80677cf.4274c8",
@@ -6184,7 +6236,9 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 439
+        "y": 439,
+        "w": 402,
+        "h": 362
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -6212,7 +6266,9 @@
             "1f3630da2492d4f9"
         ],
         "x": 3454,
-        "y": 809
+        "y": 809,
+        "w": 1002,
+        "h": 212
     },
     {
         "id": "b6e70888e2a92a81",
@@ -13921,7 +13977,8 @@
         "wires": [
             [
                 "eb59ebb6.a7e4b8",
-                "5fe807f47d2920cc"
+                "5fe807f47d2920cc",
+                "c4be0af39e50b293"
             ],
             [
                 "51500f5e.edf25"
@@ -13940,8 +13997,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1630,
-        "y": 180,
+        "x": 1620,
+        "y": 220,
         "wires": [
             [
                 "d819c89.12f6638"
@@ -14241,8 +14298,8 @@
             "cbbbcd1c.7180e",
             "204c251e.8264ca"
         ],
-        "x": 1725,
-        "y": 180,
+        "x": 1735,
+        "y": 220,
         "wires": []
     },
     {
@@ -15957,7 +16014,8 @@
         "links": [
             "3f9513f6724de73e",
             "2f233a4c9cf3a4b2",
-            "3327cfa838294b44"
+            "3327cfa838294b44",
+            "786e9b7051b23244"
         ],
         "x": 1577,
         "y": 1090,
@@ -19202,7 +19260,8 @@
         "name": "BotonArrancarPantallaPrincipal",
         "links": [
             "16aadb577f484ba8",
-            "18e1ef5a1e4a3756"
+            "18e1ef5a1e4a3756",
+            "44a788eb65d6fa67"
         ],
         "x": 1975,
         "y": 1040,
@@ -80604,8 +80663,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 680,
-        "y": 840,
+        "x": 660,
+        "y": 960,
         "wires": [
             [
                 "d95eee71384d9b10",
@@ -80640,7 +80699,7 @@
         "offcolor": "",
         "animate": false,
         "x": 220,
-        "y": 1120,
+        "y": 1240,
         "wires": [
             [
                 "663522710551f94d"
@@ -80667,7 +80726,7 @@
         "repair": false,
         "outputs": 2,
         "x": 370,
-        "y": 1120,
+        "y": 1240,
         "wires": [
             [
                 "e6fa09f375d678ed"
@@ -80693,7 +80752,7 @@
         "topic": "¿Desea Activar el doble Velocidad controller?",
         "name": "confirm",
         "x": 460,
-        "y": 1080,
+        "y": 1200,
         "wires": [
             [
                 "0e2c72f39a6f522b"
@@ -80716,7 +80775,7 @@
         "topic": "¿Desea Desactivar el doble velocidad controller?",
         "name": "confirm",
         "x": 440,
-        "y": 1160,
+        "y": 1280,
         "wires": [
             [
                 "e5c9efce519be42a"
@@ -80747,7 +80806,7 @@
         "repair": false,
         "outputs": 2,
         "x": 650,
-        "y": 1180,
+        "y": 1300,
         "wires": [
             [
                 "5c2a6bfeeacf3425"
@@ -80781,7 +80840,7 @@
         "repair": false,
         "outputs": 2,
         "x": 610,
-        "y": 1080,
+        "y": 1200,
         "wires": [
             [
                 "16a17c1e87e4c8c7"
@@ -80812,7 +80871,7 @@
         "to": "",
         "reg": false,
         "x": 760,
-        "y": 1060,
+        "y": 1180,
         "wires": [
             [
                 "cda177c85b21954f"
@@ -80840,7 +80899,7 @@
         "to": "",
         "reg": false,
         "x": 770,
-        "y": 1100,
+        "y": 1220,
         "wires": [
             [
                 "cda177c85b21954f"
@@ -80868,7 +80927,7 @@
         "to": "",
         "reg": false,
         "x": 790,
-        "y": 1160,
+        "y": 1280,
         "wires": [
             [
                 "cda177c85b21954f"
@@ -80896,7 +80955,7 @@
         "to": "",
         "reg": false,
         "x": 780,
-        "y": 1200,
+        "y": 1320,
         "wires": [
             [
                 "cda177c85b21954f"
@@ -80914,7 +80973,7 @@
             "8b26636d1d23678c"
         ],
         "x": 935,
-        "y": 1120,
+        "y": 1240,
         "wires": []
     },
     {
@@ -80928,7 +80987,7 @@
             "cda177c85b21954f"
         ],
         "x": 175,
-        "y": 1040,
+        "y": 1160,
         "wires": [
             [
                 "44b52a5ca865f32a"
@@ -80956,7 +81015,7 @@
         "to": "",
         "reg": false,
         "x": 200,
-        "y": 1080,
+        "y": 1200,
         "wires": [
             [
                 "19a1cbedecd70b0b"
@@ -80981,7 +81040,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 530,
-        "y": 680,
+        "y": 780,
         "wires": [
             [
                 "fb6b90c38f6aa7db",
@@ -81007,7 +81066,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 530,
-        "y": 740,
+        "y": 840,
         "wires": [
             [
                 "14ec7dae23d1555b",
@@ -81028,8 +81087,8 @@
         "label": "Referencia",
         "format": "{{msg.payload}}",
         "layout": "row-left",
-        "x": 1810,
-        "y": 640,
+        "x": 1690,
+        "y": 740,
         "wires": []
     },
     {
@@ -81052,8 +81111,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 240,
-        "y": 860,
+        "x": 220,
+        "y": 980,
         "wires": [
             [
                 "6ba0fad0bc54e475"
@@ -81073,7 +81132,7 @@
         "finalize": "",
         "libs": [],
         "x": 800,
-        "y": 660,
+        "y": 760,
         "wires": [
             [
                 "f7dfcbf933c3b97a"
@@ -81093,7 +81152,7 @@
         "finalize": "",
         "libs": [],
         "x": 800,
-        "y": 760,
+        "y": 860,
         "wires": [
             [
                 "afc20a72f4c90f05"
@@ -81112,7 +81171,7 @@
             "d95eee71384d9b10"
         ],
         "x": 155,
-        "y": 680,
+        "y": 780,
         "wires": [
             [
                 "57450dbd41529225",
@@ -81141,7 +81200,7 @@
         "to": "",
         "reg": false,
         "x": 330,
-        "y": 680,
+        "y": 780,
         "wires": [
             [
                 "46d5fccb2caf5c6f"
@@ -81169,7 +81228,7 @@
         "to": "",
         "reg": false,
         "x": 330,
-        "y": 760,
+        "y": 860,
         "wires": [
             [
                 "d5b64351ea9799e8"
@@ -81190,7 +81249,7 @@
         "property": "payload",
         "topi": "topic",
         "x": 330,
-        "y": 640,
+        "y": 740,
         "wires": [
             [
                 "46d5fccb2caf5c6f"
@@ -81211,7 +81270,7 @@
         "property": "payload",
         "topi": "topic",
         "x": 330,
-        "y": 720,
+        "y": 820,
         "wires": [
             [
                 "d5b64351ea9799e8"
@@ -81233,8 +81292,8 @@
         "raw": false,
         "topic": "¿Desea Actualizar Datos del control de doble velocidad?",
         "name": "confirm",
-        "x": 380,
-        "y": 860,
+        "x": 360,
+        "y": 980,
         "wires": [
             [
                 "ba844f213c4dc194"
@@ -81264,8 +81323,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 510,
-        "y": 860,
+        "x": 490,
+        "y": 980,
         "wires": [
             [
                 "dd15a0bed0cbf685"
@@ -81285,8 +81344,8 @@
             "24d112a4a561706b",
             "1fee5b8b9ef43b98"
         ],
-        "x": 595,
-        "y": 880,
+        "x": 575,
+        "y": 1000,
         "wires": []
     },
     {
@@ -81301,7 +81360,7 @@
             "11cdf377e409913a"
         ],
         "x": 955,
-        "y": 680,
+        "y": 780,
         "wires": []
     },
     {
@@ -81314,7 +81373,7 @@
             "f7dfcbf933c3b97a"
         ],
         "x": 255,
-        "y": 720,
+        "y": 820,
         "wires": [
             [
                 "198ef70bf560b890"
@@ -81331,7 +81390,7 @@
             "afc20a72f4c90f05"
         ],
         "x": 165,
-        "y": 640,
+        "y": 740,
         "wires": [
             [
                 "4ecc1a5be18a461f"
@@ -81350,7 +81409,7 @@
             "11cdf377e409913a"
         ],
         "x": 955,
-        "y": 740,
+        "y": 840,
         "wires": []
     },
     {
@@ -81359,7 +81418,7 @@
         "z": "830fadc6f5236b78",
         "g": "7fd14179472bdff0",
         "name": "logic",
-        "func": "var habilitado = global.get(\"Control_functions.doubleSpeed.habilitado\")||false;\nvar state = global.get(\"Control_functions.doubleSpeed.state\")||false;//si está upstroke o DownStroke\nvar upSpeedCalculated = global.get(\"Control_functions.doubleSpeed.upSpeedCalculated\")||false;//Velocidad de subida\nvar DownSpeedCalculated = global.get(\"Control_functions.doubleSpeed.DownSpeedCalculated\")||false;//Velocidad de bajada\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\",\"memoryOnly\")||false;//comunicación VSD\nvar estadoPrograma = 0;//estadoPrograma en el que esta el equipo\nvar referencia = global.get(\"C2S.Last_Reference.ValueSpm\")||0;//referencia que se debe setear\nvar active = global.get(\"C2S.Drive_Status.Active\",\"memoryOnly\")||0;\n\n\nif(habilitado == true && comunicacion == true && active == 1){//está listo para arrancar\n    if (state == \"Upstroke\"){\n        referencia = upSpeedCalculated;\n    } else if (state == \"DownStroke\"){\n        referencia = DownSpeedCalculated;\n    }\n    estadoPrograma = \"Activo\";\n} else if (habilitado == true && comunicacion == true && active == 0){\n    //variador no está arrancandO\n    estadoPrograma = \"VSDNoactive\";\n}\nelse if (habilitado == false && comunicacion == true  && active == 1){\n    estadoPrograma = \"Deshabilitado\";\n}else if(comunicacion == false){\n    estadoPrograma = \"fallo de comunicacion\";\n}\n\nnode.status({fill:\"red\",shape:\"ring\",text:estadoPrograma});\ncontext.set(\"habilitado\", habilitado,\"memoryOnly\");\ncontext.set(\"comunicacion\", comunicacion,\"memoryOnly\");\ncontext.set(\"estadoPrograma\", estadoPrograma,\"memoryOnly\");\ncontext.set(\"state\", state,\"memoryOnly\");\ncontext.set(\"upSpeedCalculated\", upSpeedCalculated,\"memoryOnly\");\ncontext.set(\"DownSpeedCalculated\", DownSpeedCalculated,\"memoryOnly\");\ncontext.set(\"referencia\", referencia,\"memoryOnly\");\ncontext.set(\"active\", active,\"memoryOnly\");\n// estructura para enviar los mensajes\nestadoPrograma = { payload: estadoPrograma};\nreferencia = { payload: referencia};\nreturn [estadoPrograma,referencia];",
+        "func": "var habilitado = global.get(\"Control_functions.doubleSpeed.habilitado\")||false;\nvar state = global.get(\"Control_functions.doubleSpeed.state\")||false;//si está upstroke o DownStroke\nvar buttonComand = global.get(\"Control_functions.doubleSpeed.buttonComand\")||false;//Inicio del Sistema desde el boton de entrada Principal\nvar upSpeedCalculated = global.get(\"Control_functions.doubleSpeed.upSpeedCalculated\")||false;//Velocidad de subida\nvar DownSpeedCalculated = global.get(\"Control_functions.doubleSpeed.DownSpeedCalculated\")||false;//Velocidad de bajada\nvar comunicacion = global.get(\"C2S.Comunicacion_Drive\",\"memoryOnly\")||false;//comunicación VSD\nvar estadoPrograma = 0,color;//estadoPrograma en el que esta el equipo\nvar referencia = global.get(\"C2S.Last_Reference.ValueSpm\")||0;//referencia que se debe setear\nvar active = global.get(\"C2S.Drive_Status.Active\",\"memoryOnly\")||0;//estado del VSD\n\n\nif (habilitado == true && comunicacion == true && active == 1 && buttonComand == true){//está listo para arrancar\n    if (state == \"Upstroke\"){\n        referencia = upSpeedCalculated;\n    } else if (state == \"DownStroke\"){\n        referencia = DownSpeedCalculated;\n    }\n    estadoPrograma = \"Activo\"; color = \"green\";\n} else if (habilitado == true && comunicacion == true && active == 1 && buttonComand == false){\n    //estado en el que esta esperando el arranque desde el boton de inicio del proceso\n    estadoPrograma = \"Pausa\"; color = \"yellow\";\n}\nelse if (habilitado == true && comunicacion == true && active == 0 && buttonComand == true){\n    //variador no está arrancandO\n    estadoPrograma = \"VSDNoactive\"; color = \"yellow\";\n}\nelse if (habilitado == false && comunicacion == true  && active == 1){\n    //no se toma en cuenta el buttonComand  no es necesario\n    estadoPrograma = \"Deshabilitado\"; color = \"red\";\n}else if(comunicacion == false){\n    estadoPrograma = \"fallo de comunicacion\"; color = \"red\";\n}\n\nnode.status({fill:color,shape:\"dot\",text:estadoPrograma});\ncontext.set(\"habilitado\", habilitado,\"memoryOnly\");\ncontext.set(\"comunicacion\", comunicacion,\"memoryOnly\");\ncontext.set(\"estadoPrograma\", estadoPrograma,\"memoryOnly\");\ncontext.set(\"state\", state,\"memoryOnly\");\ncontext.set(\"upSpeedCalculated\", upSpeedCalculated,\"memoryOnly\");\ncontext.set(\"DownSpeedCalculated\", DownSpeedCalculated,\"memoryOnly\");\ncontext.set(\"referencia\", referencia,\"memoryOnly\");\ncontext.set(\"active\", active,\"memoryOnly\");\ncontext.set(\"buttonComand\", buttonComand,\"memoryOnly\");\n// estructura para enviar los mensajes\nestadoPrograma = { payload: estadoPrograma};\nreferencia = { payload: referencia};\nreturn [estadoPrograma,referencia];",
         "outputs": 2,
         "noerr": 0,
         "initialize": "",
@@ -81382,7 +81441,7 @@
         "z": "830fadc6f5236b78",
         "g": "7fd14179472bdff0",
         "name": "IdentificarUpDownStroke",
-        "func": "// logica de control speed control habilitada\nvar habilitado = global.get(\"Control_functions.doubleSpeed.habilitado\")||false;\nvar int1 = msg.payload;//lectura actual\nvar int1_k1 = context.get(\"int1_k1\", \"memoryOnly\")||0;//lecturaAnterior\nvar estado = 0;var color = \"red\";\nif(habilitado == true){\n    var aux = int1 - int1_k1;\n    if(aux >= 0){//está en upstroke\n        estado = \"Upstroke\";color = \"green\";\n    }else if(aux < 0 ){//esta un downestroke\n        estado = \"DownStroke\";color = \"yellow\";\n    }else {\n        estado = \"limbo\";color = \"yellow\";\n    }\n    // guardando el estado anterior\n    context.set(\"int1_k1\", int1,\"memoryOnly\" );\n    context.set(\"int1\", int1,\"memoryOnly\" );\n}else{\n    estado = \"Disabled\";color = \"red\";\n}\nnode.status({fill:color,shape:\"dot\",text:estado});\nmsg.payload = estado;\nreturn msg;",
+        "func": "// logica de control speed control habilitada\nvar habilitado = global.get(\"Control_functions.doubleSpeed.habilitado\")||false;\nvar buttonComand = global.get(\"Control_functions.doubleSpeed.buttonComand\") || false;//Inicio del Sistema desde el boton de entrada Principal\nvar int1 = msg.payload;//lectura actual\nvar int1_k1 = context.get(\"int1_k1\", \"memoryOnly\")||0;//lecturaAnterior\nvar estado = 0;var color = \"red\";\nif (habilitado == true && buttonComand == true){\n    var aux = int1 - int1_k1;\n    if(aux >= 0){//está en upstroke\n        estado = \"Upstroke\";color = \"green\";\n    }else if(aux < 0 ){//esta un downestroke\n        estado = \"DownStroke\";color = \"yellow\";\n    }else {\n        estado = \"limbo\";color = \"yellow\";\n    }\n    // guardando el estado anterior\n    context.set(\"int1_k1\", int1,\"memoryOnly\" );\n    context.set(\"int1\", int1,\"memoryOnly\" );\n} else if (habilitado == true && buttonComand == false){\n    estado = \"pausa\";color = \"yellow\";\n}\nelse{\n    estado = \"Disabled\";color = \"red\";\n}\nnode.status({fill:color,shape:\"dot\",text:estado});\nmsg.payload = estado;\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -81588,8 +81647,8 @@
         "label": "Velocidad Subida",
         "format": "{{msg.payload}}",
         "layout": "row-left",
-        "x": 1830,
-        "y": 700,
+        "x": 1710,
+        "y": 800,
         "wires": []
     },
     {
@@ -81605,8 +81664,8 @@
         "label": "Velocidad Bajada",
         "format": "{{msg.payload}}",
         "layout": "row-left",
-        "x": 1830,
-        "y": 820,
+        "x": 1710,
+        "y": 920,
         "wires": []
     },
     {
@@ -81621,8 +81680,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1610,
-        "y": 700,
+        "x": 1490,
+        "y": 800,
         "wires": [
             [
                 "182115e70d02be15"
@@ -81640,8 +81699,8 @@
             "ad87cee4.7dbb5",
             "d95eee71384d9b10"
         ],
-        "x": 1375,
-        "y": 720,
+        "x": 1255,
+        "y": 820,
         "wires": [
             [
                 "6e45636243380c11",
@@ -81660,8 +81719,8 @@
             "1fee5b8b9ef43b98",
             "24d112a4a561706b"
         ],
-        "x": 795,
-        "y": 840,
+        "x": 775,
+        "y": 960,
         "wires": []
     },
     {
@@ -81676,8 +81735,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1600,
-        "y": 840,
+        "x": 1480,
+        "y": 940,
         "wires": [
             [
                 "e0745701b791b87b"
@@ -81696,8 +81755,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1580,
-        "y": 640,
+        "x": 1460,
+        "y": 740,
         "wires": [
             [
                 "3a58368fdac48060"
@@ -81713,8 +81772,8 @@
         "links": [
             "ecf98f3f.4a704"
         ],
-        "x": 1295,
-        "y": 640,
+        "x": 1175,
+        "y": 740,
         "wires": [
             [
                 "d0958b60d0661966"
@@ -81739,8 +81798,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 1420,
-        "y": 640,
+        "x": 1300,
+        "y": 740,
         "wires": [
             [
                 "ac714586c67e977a"
@@ -81785,8 +81844,8 @@
         ],
         "outputs": 1,
         "useDifferentColor": false,
-        "x": 1770,
-        "y": 880,
+        "x": 1650,
+        "y": 980,
         "wires": [
             []
         ]
@@ -81809,8 +81868,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 1480,
-        "y": 880,
+        "x": 1360,
+        "y": 980,
         "wires": [
             [
                 "6d6d439b9fc092eb"
@@ -81827,8 +81886,8 @@
         "links": [
             "d3fc647f21f7d8eb"
         ],
-        "x": 1355,
-        "y": 880,
+        "x": 1235,
+        "y": 980,
         "wires": [
             [
                 "9d5241c05da1b3a8"
@@ -82040,8 +82099,8 @@
             "afc20a72f4c90f05",
             "f7dfcbf933c3b97a"
         ],
-        "x": 1475,
-        "y": 760,
+        "x": 1355,
+        "y": 840,
         "wires": [
             [
                 "133a6558e1a8c7d2"
@@ -82052,6 +82111,7 @@
         "id": "133a6558e1a8c7d2",
         "type": "change",
         "z": "830fadc6f5236b78",
+        "g": "2ceb8ec502cd9a4d",
         "name": "savePercent",
         "rules": [
             {
@@ -82074,8 +82134,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1350,
-        "y": 760,
+        "x": 1450,
+        "y": 860,
         "wires": [
             [
                 "86a9047e4057bacf"
@@ -82094,8 +82154,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1790,
-        "y": 760,
+        "x": 1670,
+        "y": 860,
         "wires": [
             [
                 "182115e70d02be15"
@@ -82121,7 +82181,7 @@
         "topic": "",
         "name": "spm",
         "x": 870,
-        "y": 720,
+        "y": 820,
         "wires": []
     },
     {
@@ -82137,7 +82197,7 @@
         "finalize": "",
         "libs": [],
         "x": 740,
-        "y": 720,
+        "y": 820,
         "wires": [
             [
                 "6fc284d752239ac0"
@@ -82172,8 +82232,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 3,
-        "x": 740,
-        "y": 900,
+        "x": 720,
+        "y": 1020,
         "wires": [
             [
                 "0c7e810b831f1140"
@@ -82211,8 +82271,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 920,
-        "y": 860,
+        "x": 900,
+        "y": 980,
         "wires": [
             [
                 "2915404d918e6500"
@@ -82229,8 +82289,8 @@
             "2da816b7.b2be9a",
             "cbbbcd1c.7180e"
         ],
-        "x": 1015,
-        "y": 860,
+        "x": 995,
+        "y": 980,
         "wires": []
     },
     {
@@ -82260,8 +82320,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 920,
-        "y": 900,
+        "x": 900,
+        "y": 1020,
         "wires": [
             [
                 "a6ae08b25206a8fb"
@@ -82278,8 +82338,8 @@
             "2da816b7.b2be9a",
             "cbbbcd1c.7180e"
         ],
-        "x": 1015,
-        "y": 900,
+        "x": 995,
+        "y": 1020,
         "wires": []
     },
     {
@@ -87859,5 +87919,121 @@
                 "3738a46428965bed"
             ]
         ]
+    },
+    {
+        "id": "c161086a855c6162",
+        "type": "change",
+        "z": "830fadc6f5236b78",
+        "g": "b5dd25bc9187aa75",
+        "name": "buttonComandOn",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.doubleSpeed.buttonComand",
+                "pt": "global",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 370,
+        "y": 560,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "44a788eb65d6fa67",
+        "type": "link in",
+        "z": "830fadc6f5236b78",
+        "g": "b5dd25bc9187aa75",
+        "name": "ArrancarDobleVelocidad",
+        "links": [
+            "0d7d36d911e2cbb3"
+        ],
+        "x": 235,
+        "y": 560,
+        "wires": [
+            [
+                "c161086a855c6162"
+            ]
+        ]
+    },
+    {
+        "id": "786e9b7051b23244",
+        "type": "link in",
+        "z": "830fadc6f5236b78",
+        "g": "b5dd25bc9187aa75",
+        "name": "DetenerDobleVelocidad",
+        "links": [
+            "f1f7bfacfe0754bf"
+        ],
+        "x": 235,
+        "y": 600,
+        "wires": [
+            [
+                "0b0b573c3e13a9f2"
+            ]
+        ]
+    },
+    {
+        "id": "0b0b573c3e13a9f2",
+        "type": "change",
+        "z": "830fadc6f5236b78",
+        "g": "b5dd25bc9187aa75",
+        "name": "buttonComandOff",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Control_functions.doubleSpeed.buttonComand",
+                "pt": "global",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 370,
+        "y": 600,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8f689579bc1f6c75",
+        "type": "link in",
+        "z": "830fadc6f5236b78",
+        "g": "932eb8b65e7cc7be",
+        "name": "calculoSpeedControl",
+        "links": [
+            "c4be0af39e50b293"
+        ],
+        "x": 515,
+        "y": 940,
+        "wires": [
+            [
+                "dd15a0bed0cbf685"
+            ]
+        ]
+    },
+    {
+        "id": "c4be0af39e50b293",
+        "type": "link out",
+        "z": "902fc438.e5d758",
+        "g": "6202107f.ed9aa",
+        "name": "enviarDoobleSpeedReference",
+        "links": [
+            "8f689579bc1f6c75"
+        ],
+        "x": 1615,
+        "y": 180,
+        "wires": []
     }
 ]
