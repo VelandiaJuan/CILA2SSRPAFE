@@ -24,7 +24,7 @@
         "id": "d08f14e12055286a",
         "type": "tab",
         "label": "Arranque Automático",
-        "disabled": false,
+        "disabled": true,
         "info": ""
     },
     {
@@ -143,21 +143,21 @@
         "id": "830fadc6f5236b78",
         "type": "tab",
         "label": "ControlDobleVelocidad",
-        "disabled": false,
+        "disabled": true,
         "info": ""
     },
     {
         "id": "5b797a7252061594",
         "type": "tab",
         "label": "SurfaceControl",
-        "disabled": false,
+        "disabled": true,
         "info": ""
     },
     {
         "id": "29bf75edf21541c4",
         "type": "tab",
         "label": "downholeControl",
-        "disabled": false,
+        "disabled": true,
         "info": ""
     },
     {
@@ -1110,9 +1110,7 @@
             "c35fbf62d8f2cdf8"
         ],
         "x": 24,
-        "y": 609,
-        "w": 2632,
-        "h": 552
+        "y": 609
     },
     {
         "id": "3cb51855.a66038",
@@ -1127,9 +1125,7 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169,
-        "w": 232,
-        "h": 82
+        "y": 1169
     },
     {
         "id": "d689e3de.7d569",
@@ -1771,9 +1767,7 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269,
-        "w": 352,
-        "h": 82
+        "y": 1269
     },
     {
         "id": "6202107f.ed9aa",
@@ -1845,9 +1839,7 @@
             "126bcc4a4f8556dc"
         ],
         "x": 44,
-        "y": -21,
-        "w": 1992,
-        "h": 622
+        "y": -21
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -1881,9 +1873,7 @@
             "17c1f84a5b3ad8ad"
         ],
         "x": 3224,
-        "y": 19,
-        "w": 1284,
-        "h": 1708
+        "y": 19
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -1904,9 +1894,7 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169,
-        "w": 782,
-        "h": 182
+        "y": 1169
     },
     {
         "id": "086b9d08c3b68939",
@@ -1937,9 +1925,7 @@
             "9661d016b799c47d"
         ],
         "x": 24,
-        "y": 1359,
-        "w": 1022,
-        "h": 292
+        "y": 1359
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -1965,9 +1951,7 @@
             "6e75b5f5657d3a7e"
         ],
         "x": 24,
-        "y": 1679,
-        "w": 1132,
-        "h": 202
+        "y": 1679
     },
     {
         "id": "afdbbb533d628687",
@@ -1983,9 +1967,7 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679,
-        "w": 332,
-        "h": 82
+        "y": 1679
     },
     {
         "id": "23c99fd.b16886",
@@ -2101,9 +2083,7 @@
             "ca1808e9c0cebc54"
         ],
         "x": 52,
-        "y": 637,
-        "w": 3166,
-        "h": 2556
+        "y": 637
     },
     {
         "id": "3d603bc8c80c2124",
@@ -2123,9 +2103,7 @@
             "8f311859e2329cb0"
         ],
         "x": 54,
-        "y": 379,
-        "w": 902,
-        "h": 82
+        "y": 379
     },
     {
         "id": "4c1b2fd5bfa8819c",
@@ -2141,9 +2119,7 @@
             "af436d3d4e5d33de"
         ],
         "x": 42,
-        "y": 3227,
-        "w": 3020,
-        "h": 1410
+        "y": 3227
     },
     {
         "id": "600556d8bd2ccda4",
@@ -2208,9 +2184,7 @@
             "72c298a02ef42417"
         ],
         "x": 1094,
-        "y": 59,
-        "w": 2342,
-        "h": 532
+        "y": 59
     },
     {
         "id": "a9988da34f9622ff",
@@ -2236,9 +2210,7 @@
             "03552a6ae2d7be66"
         ],
         "x": 34,
-        "y": 39,
-        "w": 892,
-        "h": 322
+        "y": 39
     },
     {
         "id": "03502219e91ec6ae",
@@ -2382,7 +2354,8 @@
             "99549476ce8c837c",
             "ec08bb6ef256b997",
             "795fbef8ee895ff5",
-            "0b885dc22789a069"
+            "0b885dc22789a069",
+            "3de8f18efe49e12e"
         ],
         "x": 34,
         "y": 19
@@ -2560,13 +2533,12 @@
             "444951382a661254",
             "3fe6ba310d6fe1c0",
             "7e1e2393241c4da6",
-            "dc25a197792f9812",
-            "4ebc908b9d52b224"
+            "dc25a197792f9812"
         ],
         "x": 154,
         "y": 779,
         "w": 1152,
-        "h": 362
+        "h": 342
     },
     {
         "id": "99fd9c5cbd90ceb5",
@@ -3001,9 +2973,7 @@
             "de95dabeadfa8333"
         ],
         "x": 254,
-        "y": 1939,
-        "w": 672,
-        "h": 142
+        "y": 1939
     },
     {
         "id": "5519b13db7a1857a",
@@ -4005,16 +3975,13 @@
             "6afc818b2eef55bb",
             "6394104eba47bf7a",
             "5d2f4c68c2c59bec",
-            "c654e84642208414",
             "27cb37cd34d5cc28",
             "8c48220e51095446",
             "24af91719f71a1b3",
             "8b26636d1d23678c"
         ],
-        "x": 974,
-        "y": 1939,
-        "w": 512,
-        "h": 242
+        "x": 954,
+        "y": 1939
     },
     {
         "id": "31895ea6.22f372",
@@ -4350,9 +4317,7 @@
             "8296f6a13feaac28"
         ],
         "x": 74,
-        "y": 399,
-        "w": 792,
-        "h": 132
+        "y": 399
     },
     {
         "id": "487b4f399a10404b",
@@ -4504,9 +4469,7 @@
             "0d3271d48cdd3dc2"
         ],
         "x": 78,
-        "y": 673,
-        "w": 1724,
-        "h": 2494
+        "y": 673
     },
     {
         "id": "ca1808e9c0cebc54",
@@ -4524,9 +4487,7 @@
             "acf6618644660324"
         ],
         "x": 1828,
-        "y": 663,
-        "w": 1364,
-        "h": 1536.5
+        "y": 663
     },
     {
         "id": "eae7b72d553551bc",
@@ -4543,9 +4504,7 @@
             "7d3d6fba6fb45cf5"
         ],
         "x": 68,
-        "y": 3253,
-        "w": 1284,
-        "h": 894
+        "y": 3253
     },
     {
         "id": "af436d3d4e5d33de",
@@ -4622,9 +4581,7 @@
             "9f7b833ed93f0cc5"
         ],
         "x": 1368,
-        "y": 3263,
-        "w": 1668,
-        "h": 1348
+        "y": 3263
     },
     {
         "id": "b1830307.ee865",
@@ -4674,9 +4631,7 @@
             "26836fe8d310f685"
         ],
         "x": 3428,
-        "y": 413,
-        "w": 1054,
-        "h": 758
+        "y": 413
     },
     {
         "id": "7bc9759a9a7ea0be",
@@ -4731,9 +4686,7 @@
             "09240a88f66b7c6f"
         ],
         "x": 3434,
-        "y": 1179,
-        "w": 992,
-        "h": 522
+        "y": 1179
     },
     {
         "id": "dad84feb.d4773",
@@ -5698,9 +5651,7 @@
             "5da923b060b7d724"
         ],
         "x": 104,
-        "y": 699,
-        "w": 1242,
-        "h": 862
+        "y": 699
     },
     {
         "id": "b670eeac81e3a4e1",
@@ -5729,9 +5680,7 @@
             "7186bd5b0ee62a27"
         ],
         "x": 124,
-        "y": 2959,
-        "w": 702,
-        "h": 182
+        "y": 2959
     },
     {
         "id": "404043e2f2ac38f5",
@@ -5787,9 +5736,7 @@
             "da3df13ea266ba47"
         ],
         "x": 1854,
-        "y": 689,
-        "w": 1292,
-        "h": 718
+        "y": 689
     },
     {
         "id": "acf6618644660324",
@@ -5856,9 +5803,7 @@
             "d5da4e68a94b8066"
         ],
         "x": 1874,
-        "y": 1519,
-        "w": 1292,
-        "h": 654.5
+        "y": 1519
     },
     {
         "id": "0d3271d48cdd3dc2",
@@ -6069,9 +6014,7 @@
             "f26884a752f635f5"
         ],
         "x": 114,
-        "y": 1579,
-        "w": 1662,
-        "h": 1322
+        "y": 1579
     },
     {
         "id": "7d3d6fba6fb45cf5",
@@ -6138,9 +6081,7 @@
             "43e435b1bf98945c"
         ],
         "x": 94,
-        "y": 3279,
-        "w": 1232,
-        "h": 842
+        "y": 3279
     },
     {
         "id": "01d2b2ec2f34b6be",
@@ -6179,9 +6120,7 @@
             "d4e43509215bf215"
         ],
         "x": 1394,
-        "y": 3289,
-        "w": 1232,
-        "h": 322
+        "y": 3289
     },
     {
         "id": "b4a46197db30977b",
@@ -6221,9 +6160,7 @@
             "592f8a1403a12574"
         ],
         "x": 1394,
-        "y": 3609,
-        "w": 722,
-        "h": 442
+        "y": 3609
     },
     {
         "id": "36fa9c99094e8f47",
@@ -6247,9 +6184,7 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 439,
-        "w": 402,
-        "h": 362
+        "y": 439
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -6277,9 +6212,7 @@
             "1f3630da2492d4f9"
         ],
         "x": 3454,
-        "y": 809,
-        "w": 1002,
-        "h": 212
+        "y": 809
     },
     {
         "id": "b6e70888e2a92a81",
@@ -6777,9 +6710,7 @@
             "43a7fe4169e0b657"
         ],
         "x": 2394,
-        "y": 1179,
-        "w": 572,
-        "h": 202
+        "y": 1179
     },
     {
         "id": "d25d405a.19cff",
@@ -16715,7 +16646,7 @@
                 "p": "payload"
             }
         ],
-        "repeat": "1",
+        "repeat": "2",
         "crontab": "",
         "once": true,
         "onceDelay": "10",
@@ -74347,7 +74278,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 360,
+        "x": 540,
         "y": 240,
         "wires": [
             [
@@ -74393,7 +74324,7 @@
         ],
         "outputs": 1,
         "useDifferentColor": false,
-        "x": 570,
+        "x": 750,
         "y": 240,
         "wires": [
             []
@@ -74451,6 +74382,7 @@
         "id": "c8c0bcb1ebd9fe87",
         "type": "ui_chart",
         "z": "759eb633bbadf3e1",
+        "d": true,
         "g": "5dc71a84bf12ae23",
         "name": "",
         "group": "f5471725db0f8d14",
@@ -74484,6 +74416,8 @@
             "#c5b0d5"
         ],
         "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
         "x": 590,
         "y": 400,
         "wires": [
@@ -74494,6 +74428,7 @@
         "id": "0a8cf06fd166c42e",
         "type": "inject",
         "z": "759eb633bbadf3e1",
+        "d": true,
         "g": "5dc71a84bf12ae23",
         "name": "",
         "props": [
@@ -74523,6 +74458,7 @@
         "id": "79d46cb161b83ec8",
         "type": "function",
         "z": "759eb633bbadf3e1",
+        "d": true,
         "g": "5dc71a84bf12ae23",
         "name": "Fill Pie Chart Array",
         "func": "var size_w = 336;\nvar size = 288;\nvar labels = [];\nvar series = [];\nvar day = [\"Domingo\", \"Lunes\", \"Martes\", \"Miercoles\", \"Jueves\", \"Viernes\", \"Sábado\"];\n\nvar labels_w = [];\nvar series_w = [];\n\nvar datas = flow.get(\"Amperimetrica.datas_pro\") || [];\nvar datas_w = flow.get(\"Amperimetrica.datas_week_pro\") || [];\nvar counter = flow.get(\"Amperimetrica.Possition\") || 0;\nvar c_hora = flow.get(\"Amperimetrica.c_hora_pro\") || 0;\nvar c_dia = flow.get(\"Amperimetrica.c_dia_pro\") || 0;\n\nvar Output_Current = global.get(\"C2S.Implicit.Output_Current\", 'memoryOnly') || 0;\nvar Rtx = global.get(\"C2S.RelTx\") || 1;\nvar MtrCurrent = Output_Current / Rtx;\n\nfor (var i = 0; i < size; i += 1) {\n    labels[i] = \"\";\n    series[i] = \"\";\n}\n\nfor (let k = 0; k < size; k += 12) {\n    labels[k] = c_hora + \":00\";\n    var c_hora = (c_hora >= size) ? 0 : c_hora + 1;\n}\n\n//Week\n//Se crea los dos array para los lables de la grafica amperimetrica \nfor (let k = 0; k < size_w; k += 1) {\n    labels_w[k] = \"\";\n    series_w[k] = \"\";\n}\n//se toma el array de lables y se le setean los datos de los dias para poder ser vistos en la grafica amperimetrica \nfor (let k = 0; k < size_w; k += 14) {\n    labels_w[k] = day[c_dia];\n    //contador para recorrer los dias de la semana \n    var c_dia = (c_dia >= 7) ? 0 : c_dia + 1;\n}\n//seteode datos de corriente en el array data que es el ploteado en la grafica  \ndatas[counter] = MtrCurrent;\n//\nvar counter_day = (counter % 6 == 0) ? true : false;\n\nif (counter_day == true) {\n\n    var position_Array = counter - 30;\n    var media = datas.slice(position_Array, counter);\n    var ang = media.length;\n\n\n}\n\n\nvar pie = {\n    \"labels\": labels,\n    \"series\": series,\n    \"data\": [datas]\n};\n\nvar counter = (counter >= size) ? 0 : counter + 1;\nnode.status({ fill: \"red\", shape: \"ring\", text: counter + \" residua \" + counter_day + \" array \" + position_Array + \" Average \" + ang });\n\nflow.set(\"Amperimetrica.datas_pro\", datas);\nflow.set(\"Amperimetrica.Possition\", counter);\nflow.set(\"Amperimetrica.series_pro\", labels);\nflow.set(\"Amperimetrica.datas_w\", datas_w);\n\nmsg.payload = [pie];\nreturn msg;",
@@ -74543,6 +74479,7 @@
         "id": "7276dba6243990f2",
         "type": "function",
         "z": "759eb633bbadf3e1",
+        "d": true,
         "g": "5dc71a84bf12ae23",
         "name": "",
         "func": "var hoy = new Date();\n\nvar hora = hoy.getHours() * 60;\nvar minutos = Math.floor((hoy.getMinutes() + hora) / 5);\nnode.status({fill:\"red\",shape:\"ring\",text:minutos});\nflow.set(\"Amperimetrica.Possition\",minutos);\nreturn msg;",
@@ -74563,6 +74500,7 @@
         "id": "c3c6f48e93405386",
         "type": "inject",
         "z": "759eb633bbadf3e1",
+        "d": true,
         "g": "5dc71a84bf12ae23",
         "name": "",
         "props": [
@@ -74592,6 +74530,7 @@
         "id": "68a2367b68a2d36b",
         "type": "ui_dropdown",
         "z": "759eb633bbadf3e1",
+        "d": true,
         "g": "5dc71a84bf12ae23",
         "name": "",
         "label": "Selecione Rango",
@@ -74617,6 +74556,8 @@
         ],
         "payload": "",
         "topic": "",
+        "topicType": "str",
+        "className": "",
         "x": 150,
         "y": 560,
         "wires": [
@@ -74629,6 +74570,7 @@
         "id": "74b76e998626d493",
         "type": "change",
         "z": "759eb633bbadf3e1",
+        "d": true,
         "g": "5dc71a84bf12ae23",
         "name": "",
         "rules": [
@@ -74723,6 +74665,7 @@
         "id": "8b6c1f1de90514c9",
         "type": "function",
         "z": "759eb633bbadf3e1",
+        "d": true,
         "g": "5dc71a84bf12ae23",
         "name": "Data show",
         "func": "var Output_Frequency    = global.get(\"C2S.Implicit.Output_Frequency\",'memoryOnly')||0;\nvar Output_Current = global.get(\"C2S.Implicit.Output_Current\", 'memoryOnly') || 0;\nvar Rtx = global.get(\"C2S.RelTx\") || 1;\nvar MtrCurrent = Output_Current / Rtx;\n\nreturn[\n    { payload: catcherror(Output_Frequency,3)+ \" \" + \"Hz\"},\n    { payload: catcherror(MtrCurrent,1) + \" \" + \"A\" },\n]\n\nfunction catcherror(variable,dec){\n    return parseFloat(variable.toFixed(dec));\n}",
@@ -74743,20 +74686,14 @@
         ],
         "outputLabels": [
             "Output_Frequency",
-            "SpeedPercentage",
-            "Power_Factor",
-            "Output_Current",
-            "Bus_DC_Volts",
-            "Mtr_Voltage",
-            "Output_Power",
-            "Output_Voltage",
-            "Mtr_Current"
+            "SpeedPercentage"
         ]
     },
     {
         "id": "3232c7cbd0e96a18",
         "type": "ui_level",
         "z": "759eb633bbadf3e1",
+        "d": true,
         "g": "5dc71a84bf12ae23",
         "group": "f5471725db0f8d14",
         "order": 5,
@@ -74800,6 +74737,7 @@
         "id": "8f3bb3f83df36820",
         "type": "ui_level",
         "z": "759eb633bbadf3e1",
+        "d": true,
         "g": "5dc71a84bf12ae23",
         "group": "f5471725db0f8d14",
         "order": 3,
@@ -75103,23 +75041,6 @@
         ]
     },
     {
-        "id": "c210aee407f08cc7",
-        "type": "function",
-        "z": "759eb633bbadf3e1",
-        "name": "",
-        "func": "var trabajando_con_tiln_XD = msg.payload_0;\n\n\ncontext.set(\"tilin\",trabajando_con_tiln_XD,\"memoryOnly\")\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 910,
-        "y": 420,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "6c9a8129c8ce6856",
         "type": "inject",
         "z": "759eb633bbadf3e1",
@@ -75170,7 +75091,7 @@
                 "vt": "global"
             }
         ],
-        "repeat": "1",
+        "repeat": "2",
         "crontab": "",
         "once": true,
         "onceDelay": 0.1,
@@ -75181,7 +75102,7 @@
         "wires": [
             [
                 "8b6c1f1de90514c9",
-                "3738a46428965bed"
+                "3de8f18efe49e12e"
             ]
         ]
     },
@@ -76723,69 +76644,6 @@
         "templateScope": "local",
         "x": 600,
         "y": 980,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "4011e386434c6956",
-        "type": "function",
-        "z": "0919ca8b08ef5398",
-        "name": "testOnda",
-        "func": "var NumeroMuestras = flow.get(\"NumeroMuestras\")||0;\nvar Desp_CD = flow.get(\"Desp_CD\")||0;\nvar Esfu_CD = flow.get(\"Esfu_CD\")||0;\nvar DX = flow.get(\"DX\") || 0;\nvar Tramo = flow.get(\"Tramo\") || 0;\nvar A = Tramo[nt1][15];\nvar E = Tramo[nt1][14];\nvar Numero_de_sartas = flow.get(\"numSarta\") || 0;\nvar nt1 = Numero_de_sartas - 1;\n// var UM = createArray(3, 520);\n// var UV = createArray(520);\n// for (let j = 0; j <= NumeroMuestras - 1; j++) {\n//     UM[0][j] = -(Desp_CD[j]) / (12.0);\n//     if ((E != 0.0) && (A != 0)) {\n//         // segunda  ley de hooke segunda linea \n//         UM[1][j] = (Esfu_CD[j] * 1000.0) * (DX / (E * A * 144.0)) + UM[0][j];\n//     }\n// }\ncontext.set(\"NumeroMuestras\", NumeroMuestras,\"memoryOnly\");\ncontext.set(\"nt1\", nt1,\"memoryOnly\");\ncontext.set(\"Numero_de_sartas\", Numero_de_sartas,\"memoryOnly\");\n// context.set(\"UM\", UM,\"memoryOnly\");\ncontext.set(\"Esfu_CD\", Esfu_CD,\"memoryOnly\");\nreturn msg;\n\n\nfunction createArray(length) {\n    var arr = new Array(length || 0),\n        i = length;\n\n    if (arguments.length > 1) {\n        var args = Array.prototype.slice.call(arguments, 1);\n        while (i--) arr[length - 1 - i] = createArray.apply(this, args);\n    }\n\n    return arr;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 880,
-        "y": 440,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "3644fc75810e2217",
-        "type": "inject",
-        "z": "0919ca8b08ef5398",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payloadType": "date",
-        "x": 760,
-        "y": 480,
-        "wires": [
-            [
-                "4011e386434c6956",
-                "65db02148621dea2"
-            ]
-        ]
-    },
-    {
-        "id": "65db02148621dea2",
-        "type": "function",
-        "z": "0919ca8b08ef5398",
-        "name": "SetVarPouDefinitivo",
-        "func": "\nvar np = 1.0, DT_0 = 0, DT1, Rho, gc = 32.2, Cest, LongOptm;\nvar NumeroMuestras = flow.get(\"NumeroMuestras\") || 0;\nvar Desp_CD = flow.get(\"Desp_CD\") || 0;\nvar Esfu_CD = flow.get(\"Esfu_CD\") || 0;\nvar DX = flow.get(\"DX\") || 0;\nvar Tramo = flow.get(\"Tramo\") || 0;\nvar Numero_de_sartas = flow.get(\"numSarta\") || 0;\nvar nt1 = Numero_de_sartas - 1;\nvar A = Tramo[nt1][15];\nvar E = Tramo[nt1][14];\nvar M = Tramo[nt1][18] - 1.0;\nvar UM = createArray(3, 520);\nvar UV = createArray(520);\nvar nCab = flow.get(\"nCab\") || 0;\nvar T_Matrix = NumeroMuestras;\nvar L = Tramo[nt1][12];\nvar LM = M + 1.0;\n\nif ((L != 0.0) && (T_Matrix != 149)) {\n    LongOptm = (2.0 / (149.0 - (T_Matrix))) * L;\n}\n\nif (((T_Matrix) + 2.0 * (LM)) > 500.0) {\n    nCab = LongOptm;\n    var Ajustar_Datos = 1.0;\n    M = Tramo[nt1][18] - 1.0;\n    M = parseInt(M);\n}\n\n// setear las variables\nfor (let j = 0; j <= 1; j++) {\n    for (let z = 0; z <= 499; z++) {\n        UM[j][z] = 0.0;\n        UV[z] = 0.0;\n    }\n}\n\nfor (let j = 0; j <= NumeroMuestras - 1; j++) {\n    UM[0][j] = -(Desp_CD[j]) / (12.0);\n    if ((E != 0.0) && (A != 0)) {\n        // segunda  ley de hooke segunda linea \n        UM[1][j] = (Esfu_CD[j] * 1000.0) * (DX / (E * A * 144.0)) + UM[0][j];\n    }\n}\n\n\nM = parseInt(M);//truncar valores del ciclo for\nfor (let j = 0; j <= M; j++) {\n    UM[0][NumeroMuestras + j] = UM[0][j];\n    UM[1][NumeroMuestras + j] = UM[1][j];\n}\n\ncontext.set(\"NumeroMuestras\", NumeroMuestras,\"memoryOnly\");\ncontext.set(\"Desp_CD\", Desp_CD,\"memoryOnly\");\ncontext.set(\"Esfu_CD\", Esfu_CD,\"memoryOnly\");\ncontext.set(\"DX\", DX,\"memoryOnly\");\ncontext.set(\"Tramo\", Tramo,\"memoryOnly\");\ncontext.set(\"Numero_de_sartas\", Numero_de_sartas,\"memoryOnly\");\ncontext.set(\"nt1\", nt1,\"memoryOnly\");\ncontext.set(\"A\", A,\"memoryOnly\");\ncontext.set(\"E\", E,\"memoryOnly\");\ncontext.set(\"UM\", UM,\"memoryOnly\");\ncontext.set(\"UV\", UV,\"memoryOnly\");\ncontext.set(\"LongOptm\", LongOptm,\"memoryOnly\");\nreturn msg;\n\n// funciones a utilizar\n\nfunction createArray(length) {\n    var arr = new Array(length || 0),\n        i = length;\n\n    if (arguments.length > 1) {\n        var args = Array.prototype.slice.call(arguments, 1);\n        while (i--) arr[length - 1 - i] = createArray.apply(this, args);\n    }\n\n    return arr;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 900,
-        "y": 520,
         "wires": [
             []
         ]
@@ -87667,36 +87525,6 @@
         ]
     },
     {
-        "id": "4ebc908b9d52b224",
-        "type": "inject",
-        "z": "8c6f930882747645",
-        "g": "0e5fc807c9fa372e",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 610,
-        "y": 1100,
-        "wires": [
-            [
-                "337b45b67a7e1518"
-            ]
-        ]
-    },
-    {
         "id": "d5da4e68a94b8066",
         "type": "function",
         "z": "edcda77493e16eaa",
@@ -87770,8 +87598,8 @@
         "shape": "circle",
         "showGlow": true,
         "name": "",
-        "x": 1410,
-        "y": 2020,
+        "x": 1370,
+        "y": 1980,
         "wires": []
     },
     {
@@ -87794,8 +87622,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1240,
-        "y": 2020,
+        "x": 1200,
+        "y": 1980,
         "wires": [
             [
                 "61130b022d2942c7"
@@ -87830,8 +87658,8 @@
         "shape": "circle",
         "showGlow": true,
         "name": "",
-        "x": 1410,
-        "y": 2060,
+        "x": 1370,
+        "y": 2020,
         "wires": []
     },
     {
@@ -87862,8 +87690,8 @@
         "shape": "circle",
         "showGlow": true,
         "name": "",
-        "x": 1410,
-        "y": 2100,
+        "x": 1370,
+        "y": 2060,
         "wires": []
     },
     {
@@ -87894,42 +87722,9 @@
         "shape": "circle",
         "showGlow": true,
         "name": "",
-        "x": 1410,
-        "y": 2140,
+        "x": 1370,
+        "y": 2100,
         "wires": []
-    },
-    {
-        "id": "c654e84642208414",
-        "type": "inject",
-        "z": "902fc438.e5d758",
-        "g": "87b93bc766cd4107",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 1080,
-        "y": 1980,
-        "wires": [
-            [
-                "8d3e7d996cded88a",
-                "27cb37cd34d5cc28",
-                "8c48220e51095446",
-                "24af91719f71a1b3"
-            ]
-        ]
     },
     {
         "id": "27cb37cd34d5cc28",
@@ -87951,8 +87746,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1240,
-        "y": 2060,
+        "x": 1200,
+        "y": 2020,
         "wires": [
             [
                 "6afc818b2eef55bb"
@@ -87979,8 +87774,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1250,
-        "y": 2100,
+        "x": 1210,
+        "y": 2060,
         "wires": [
             [
                 "6394104eba47bf7a"
@@ -88007,8 +87802,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1250,
-        "y": 2140,
+        "x": 1210,
+        "y": 2100,
         "wires": [
             [
                 "5d2f4c68c2c59bec"
@@ -88028,14 +87823,40 @@
             "ad87cee4.7dbb5",
             "cda177c85b21954f"
         ],
-        "x": 1035,
-        "y": 2080,
+        "x": 995,
+        "y": 2040,
         "wires": [
             [
                 "8d3e7d996cded88a",
                 "27cb37cd34d5cc28",
                 "8c48220e51095446",
                 "24af91719f71a1b3"
+            ]
+        ]
+    },
+    {
+        "id": "3de8f18efe49e12e",
+        "type": "switch",
+        "z": "759eb633bbadf3e1",
+        "g": "da9df0726c99ccd4",
+        "name": "Tendencias",
+        "property": "#:(memoryOnly)::Navegación.Pantalla",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Tendencias",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 370,
+        "y": 240,
+        "wires": [
+            [
+                "3738a46428965bed"
             ]
         ]
     }
