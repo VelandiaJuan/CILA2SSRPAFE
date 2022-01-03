@@ -2102,7 +2102,9 @@
             "ca1808e9c0cebc54"
         ],
         "x": 52,
-        "y": 637
+        "y": 637,
+        "w": 3166,
+        "h": 2556
     },
     {
         "id": "3d603bc8c80c2124",
@@ -2122,7 +2124,9 @@
             "8f311859e2329cb0"
         ],
         "x": 54,
-        "y": 379
+        "y": 379,
+        "w": 902,
+        "h": 82
     },
     {
         "id": "4c1b2fd5bfa8819c",
@@ -2138,7 +2142,9 @@
             "af436d3d4e5d33de"
         ],
         "x": 42,
-        "y": 3227
+        "y": 3227,
+        "w": 3020,
+        "h": 1410
     },
     {
         "id": "600556d8bd2ccda4",
@@ -2200,10 +2206,15 @@
             "3f594a3dbdf92d76",
             "ba79778827ca94cb",
             "e6e775f93ad9b13e",
-            "72c298a02ef42417"
+            "72c298a02ef42417",
+            "10de9ad98295f4b8",
+            "857d7b0cb9f2ac1c",
+            "bbe74f37b3ee042c"
         ],
         "x": 1094,
-        "y": 59
+        "y": 39,
+        "w": 2342,
+        "h": 552
     },
     {
         "id": "a9988da34f9622ff",
@@ -2229,7 +2240,9 @@
             "03552a6ae2d7be66"
         ],
         "x": 34,
-        "y": 39
+        "y": 39,
+        "w": 892,
+        "h": 322
     },
     {
         "id": "03502219e91ec6ae",
@@ -3097,9 +3110,7 @@
             "44b52a5ca865f32a"
         ],
         "x": 114,
-        "y": 1119,
-        "w": 862,
-        "h": 242
+        "y": 1119
     },
     {
         "id": "65dbd90af70f1e98",
@@ -3128,9 +3139,7 @@
             "c9ef5029dfa1dca4"
         ],
         "x": 108,
-        "y": 699,
-        "w": 954,
-        "h": 395.5
+        "y": 699
     },
     {
         "id": "2ceb8ec502cd9a4d",
@@ -3158,9 +3167,7 @@
             "133a6558e1a8c7d2"
         ],
         "x": 1134,
-        "y": 699,
-        "w": 692,
-        "h": 322
+        "y": 699
     },
     {
         "id": "7fd14179472bdff0",
@@ -3196,9 +3203,7 @@
             "b5dd25bc9187aa75"
         ],
         "x": 114,
-        "y": 239,
-        "w": 1292,
-        "h": 428
+        "y": 239
     },
     {
         "id": "b76c959d391c2570",
@@ -3509,7 +3514,9 @@
             "bb22ffcb688c15d2"
         ],
         "x": 1354,
-        "y": 179
+        "y": 179,
+        "w": 1042,
+        "h": 222
     },
     {
         "id": "abfc5c293f394682",
@@ -3552,7 +3559,9 @@
             "3a607a8c4e851e60"
         ],
         "x": 114,
-        "y": 219
+        "y": 219,
+        "w": 1182,
+        "h": 382
     },
     {
         "id": "0e0b9759209dfb2f",
@@ -3592,7 +3601,9 @@
             "13f3a541f69a175b"
         ],
         "x": 114,
-        "y": 639
+        "y": 639,
+        "w": 802,
+        "h": 462
     },
     {
         "id": "07f02b70dd167ae5",
@@ -3613,7 +3624,9 @@
             "c0e57e8a82e6d05a"
         ],
         "x": 1354,
-        "y": 759
+        "y": 759,
+        "w": 912,
+        "h": 122
     },
     {
         "id": "7d20e2da985dd33b",
@@ -3639,7 +3652,9 @@
             "17f0cfed3a423e5f"
         ],
         "x": 1354,
-        "y": 519
+        "y": 519,
+        "w": 1042,
+        "h": 222
     },
     {
         "id": "27eadf663f119ea4",
@@ -3655,7 +3670,9 @@
             "5b99a9cea8e23964"
         ],
         "x": 1354,
-        "y": 419
+        "y": 419,
+        "w": 532,
+        "h": 82
     },
     {
         "id": "5f073a0997d5cb40",
@@ -4494,7 +4511,9 @@
             "0d3271d48cdd3dc2"
         ],
         "x": 78,
-        "y": 673
+        "y": 673,
+        "w": 1724,
+        "h": 2494
     },
     {
         "id": "ca1808e9c0cebc54",
@@ -4512,7 +4531,9 @@
             "acf6618644660324"
         ],
         "x": 1828,
-        "y": 663
+        "y": 663,
+        "w": 1364,
+        "h": 1536.5
     },
     {
         "id": "eae7b72d553551bc",
@@ -4529,7 +4550,9 @@
             "7d3d6fba6fb45cf5"
         ],
         "x": 68,
-        "y": 3253
+        "y": 3253,
+        "w": 1284,
+        "h": 894
     },
     {
         "id": "af436d3d4e5d33de",
@@ -4606,7 +4629,9 @@
             "9f7b833ed93f0cc5"
         ],
         "x": 1368,
-        "y": 3263
+        "y": 3263,
+        "w": 1668,
+        "h": 1348
     },
     {
         "id": "b1830307.ee865",
@@ -4909,9 +4934,7 @@
             "8f689579bc1f6c75"
         ],
         "x": 134,
-        "y": 899,
-        "w": 902,
-        "h": 169.5
+        "y": 899
     },
     {
         "id": "b692a9f8cbb5191a",
@@ -5532,9 +5555,7 @@
             "786e9b7051b23244"
         ],
         "x": 194,
-        "y": 519,
-        "w": 294,
-        "h": 122
+        "y": 519
     },
     {
         "id": "a80677cf.4274c8",
@@ -5703,7 +5724,9 @@
             "5da923b060b7d724"
         ],
         "x": 104,
-        "y": 699
+        "y": 699,
+        "w": 1242,
+        "h": 862
     },
     {
         "id": "b670eeac81e3a4e1",
@@ -5732,7 +5755,9 @@
             "7186bd5b0ee62a27"
         ],
         "x": 124,
-        "y": 2959
+        "y": 2959,
+        "w": 702,
+        "h": 182
     },
     {
         "id": "404043e2f2ac38f5",
@@ -5788,7 +5813,9 @@
             "da3df13ea266ba47"
         ],
         "x": 1854,
-        "y": 689
+        "y": 689,
+        "w": 1292,
+        "h": 718
     },
     {
         "id": "acf6618644660324",
@@ -5855,7 +5882,9 @@
             "d5da4e68a94b8066"
         ],
         "x": 1874,
-        "y": 1519
+        "y": 1519,
+        "w": 1292,
+        "h": 654.5
     },
     {
         "id": "0d3271d48cdd3dc2",
@@ -6066,7 +6095,9 @@
             "f26884a752f635f5"
         ],
         "x": 114,
-        "y": 1579
+        "y": 1579,
+        "w": 1662,
+        "h": 1322
     },
     {
         "id": "7d3d6fba6fb45cf5",
@@ -6133,7 +6164,9 @@
             "43e435b1bf98945c"
         ],
         "x": 94,
-        "y": 3279
+        "y": 3279,
+        "w": 1232,
+        "h": 842
     },
     {
         "id": "01d2b2ec2f34b6be",
@@ -6172,7 +6205,9 @@
             "d4e43509215bf215"
         ],
         "x": 1394,
-        "y": 3289
+        "y": 3289,
+        "w": 1232,
+        "h": 322
     },
     {
         "id": "b4a46197db30977b",
@@ -6212,7 +6247,9 @@
             "592f8a1403a12574"
         ],
         "x": 1394,
-        "y": 3609
+        "y": 3609,
+        "w": 722,
+        "h": 442
     },
     {
         "id": "36fa9c99094e8f47",
@@ -6766,7 +6803,9 @@
             "43a7fe4169e0b657"
         ],
         "x": 2394,
-        "y": 1179
+        "y": 1179,
+        "w": 572,
+        "h": 202
     },
     {
         "id": "d25d405a.19cff",
@@ -7490,11 +7529,11 @@
         "id": "f630cb55.8d18e8",
         "type": "modbus-client",
         "name": "Cubloc RS-232",
-        "clienttype": "simpleser",
+        "clienttype": "tcp",
         "bufferCommands": true,
         "stateLogEnabled": false,
         "queueLogEnabled": false,
-        "tcpHost": "127.0.0.1",
+        "tcpHost": "192.168.2.15",
         "tcpPort": "502",
         "tcpType": "DEFAULT",
         "serialPort": "/dev/ttyS1",
@@ -7504,11 +7543,12 @@
         "serialStopbits": "1",
         "serialParity": "none",
         "serialConnectionDelay": "100",
-        "unit_id": 1,
-        "commandDelay": 1,
-        "clientTimeout": 1000,
+        "serialAsciiResponseStartDelimiter": "",
+        "unit_id": "1",
+        "commandDelay": "1",
+        "clientTimeout": "1000",
         "reconnectOnTimeout": true,
-        "reconnectTimeout": 2000,
+        "reconnectTimeout": "2000",
         "parallelUnitIdsAllowed": true
     },
     {
@@ -9737,6 +9777,32 @@
         "order": 18,
         "width": 6,
         "height": 1
+    },
+    {
+        "id": "b0e9da9e57fb5bc6",
+        "type": "modbus-client",
+        "name": "Click PLC",
+        "clienttype": "tcp",
+        "bufferCommands": true,
+        "stateLogEnabled": false,
+        "queueLogEnabled": false,
+        "tcpHost": "192.168.2.15",
+        "tcpPort": "502",
+        "tcpType": "DEFAULT",
+        "serialPort": "/dev/ttyUSB",
+        "serialType": "RTU-BUFFERD",
+        "serialBaudrate": "9600",
+        "serialDatabits": "8",
+        "serialStopbits": "1",
+        "serialParity": "none",
+        "serialConnectionDelay": "100",
+        "serialAsciiResponseStartDelimiter": "0x3A",
+        "unit_id": 1,
+        "commandDelay": 1,
+        "clientTimeout": 1000,
+        "reconnectOnTimeout": true,
+        "reconnectTimeout": 2000,
+        "parallelUnitIdsAllowed": true
     },
     {
         "id": "8c24ec8f.cf43c",
@@ -64016,6 +64082,7 @@
         "id": "b36e480ec442cbed",
         "type": "function",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "Entradas Analógicas",
         "func": "msg.topic = 'Entradas Analogicas';\nmsg.payload = { \n    value: msg.payload, \n    'fc': 4, \n    'unitid': 1, \n    'address': 10, \n    'quantity':8   \n} \nreturn msg",
@@ -64023,6 +64090,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 1580,
         "y": 140,
         "wires": [
@@ -64035,6 +64103,7 @@
         "id": "d8d63ec42eab0e54",
         "type": "function",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "Entradas Digitales",
         "func": "msg.topic = 'Entradas Digitales';\nmsg.payload = { \n    value: msg.payload, \n    'fc': 2, \n    'unitid': 1, \n    'address': 8, \n    'quantity':20   \n} \nreturn msg",
@@ -64042,6 +64111,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 1590,
         "y": 180,
         "wires": [
@@ -64054,6 +64124,7 @@
         "id": "8ef22ac4b3db424a",
         "type": "function",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "Salidas Digitales",
         "func": "msg.topic = 'Salidas Digitales';\nmsg.payload = { \n    value: msg.payload, \n    'fc': 2, \n    'unitid': 1, \n    'address': 32, \n    'quantity':12   \n} \nreturn msg",
@@ -64061,6 +64132,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 1600,
         "y": 220,
         "wires": [
@@ -64074,7 +64146,7 @@
         "type": "modbus-flex-getter",
         "z": "edcda77493e16eaa",
         "g": "600556d8bd2ccda4",
-        "name": "Leer Cubloc RS-232",
+        "name": "Leer PLC",
         "showStatusActivities": true,
         "showErrors": false,
         "logIOActivities": false,
@@ -64084,13 +64156,15 @@
         "useIOForPayload": false,
         "emptyMsgOnFail": false,
         "keepMsgProperties": false,
-        "x": 1860,
+        "x": 1820,
         "y": 140,
         "wires": [
-            [],
+            [
+                "bbe74f37b3ee042c"
+            ],
             [
                 "64df20565fd72ccd",
-                "7a595adbeef4154f"
+                "857d7b0cb9f2ac1c"
             ]
         ]
     },
@@ -64098,6 +64172,7 @@
         "id": "64df20565fd72ccd",
         "type": "function",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "Interpretar lectura CUBLOC",
         "func": "if(msg.topic == 'Salidas Digitales'){\n    msg.payload ={\n        \"32\" : msg.payload.data[0],\n        \"33\" : msg.payload.data[1],\n        \"34\" : msg.payload.data[2],\n        \"35\" : msg.payload.data[3],\n        \"36\" : msg.payload.data[4],\n        \"37\" : msg.payload.data[5],\n        \"38\" : msg.payload.data[6],\n        \"39\" : msg.payload.data[7],\n        \"40\" : msg.payload.data[8],\n        \"41\" : msg.payload.data[9],\n        \"42\" : msg.payload.data[10],\n        \"43\" : msg.payload.data[11]\n    }\n    global.set('IO.DO', msg.payload, 'memoryOnly');\n}\nelse if(msg.topic == 'Entradas Digitales'){\n    msg.payload = {\n        \"8\"  : msg.payload.data[0],\n        \"9\"  : msg.payload.data[1],\n        \"10\" : msg.payload.data[2],\n        \"11\" : msg.payload.data[3],\n        \"12\" : msg.payload.data[4],\n        \"13\" : msg.payload.data[5],\n        \"14\" : msg.payload.data[6],\n        \"15\" : msg.payload.data[7],\n        \"16\" : msg.payload.data[8],\n        \"17\" : msg.payload.data[9],\n        \"18\" : msg.payload.data[10],\n        \"19\" : msg.payload.data[11],\n        \"20\" : msg.payload.data[12],\n        \"21\" : msg.payload.data[13],\n        \"22\" : msg.payload.data[14],\n        \"23\" : msg.payload.data[15],\n        \"24\" : msg.payload.data[16],\n        \"25\" : msg.payload.data[17],\n        \"26\" : msg.payload.data[18],\n        \"27\" : msg.payload.data[19]\n    }\n    global.set('IO.DI', msg.payload, 'memoryOnly');\n}\nelse if(msg.topic == \"Entradas Analogicas\"){\n    msg.payload ={\n        \"0\" : msg.payload.data[0],\n        \"1\" : msg.payload.data[1],\n        \"2\" : msg.payload.data[2],\n        \"3\" : msg.payload.data[3],\n        \"4\" : msg.payload.data[4],\n        \"5\" : msg.payload.data[5],\n        \"6\" : msg.payload.data[6],\n        \"7\" : msg.payload.data[7]\n    }\n    global.set('IO.AI', msg.payload, 'memoryOnly');\n}\nreturn msg;",
@@ -64105,6 +64180,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 2100,
         "y": 140,
         "wires": [
@@ -64117,7 +64193,7 @@
         "z": "edcda77493e16eaa",
         "g": "600556d8bd2ccda4",
         "name": "",
-        "active": false,
+        "active": true,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -64125,8 +64201,8 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 2030,
-        "y": 190,
+        "x": 2010,
+        "y": 220,
         "wires": []
     },
     {
@@ -64134,12 +64210,12 @@
         "type": "catch",
         "z": "edcda77493e16eaa",
         "g": "600556d8bd2ccda4",
-        "name": "Errores lectura Cubloc",
+        "name": "Errores lectura PLC",
         "scope": [
             "72a83f45ed67f1af"
         ],
         "uncaught": false,
-        "x": 1860,
+        "x": 1850,
         "y": 190,
         "wires": [
             [
@@ -64158,9 +64234,9 @@
                 "p": "payload"
             }
         ],
-        "repeat": "1",
+        "repeat": "0.1",
         "crontab": "",
-        "once": true,
+        "once": false,
         "onceDelay": "10",
         "topic": "",
         "payload": "true",
@@ -64169,7 +64245,8 @@
         "y": 140,
         "wires": [
             [
-                "e346395fced8f93a"
+                "e346395fced8f93a",
+                "10de9ad98295f4b8"
             ]
         ]
     },
@@ -64339,6 +64416,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 1580,
         "y": 260,
         "wires": [
@@ -64358,6 +64436,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 1840,
         "y": 260,
         "wires": [
@@ -70002,6 +70081,7 @@
         "id": "a92007eb98343917",
         "type": "function",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "Comunication Fault",
         "func": "msg.topic = 'Comunication Fault';\nmsg.payload = { \n    value: msg.payload, \n    'fc': 3, \n    'unitid': 1, \n    'address': 3031, \n    'quantity': 1   \n} \nreturn msg",
@@ -70009,8 +70089,9 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 1590,
-        "y": 300,
+        "y": 100,
         "wires": [
             [
                 "72a83f45ed67f1af"
@@ -88035,5 +88116,54 @@
         "x": 1615,
         "y": 180,
         "wires": []
+    },
+    {
+        "id": "10de9ad98295f4b8",
+        "type": "function",
+        "z": "edcda77493e16eaa",
+        "g": "600556d8bd2ccda4",
+        "name": "Lectura Holding Register",
+        "func": "msg.payload = {\n    'fc': 3,\n    'unitid': 1,\n    'address' : 0,\n    'quantity': 32\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1590,
+        "y": 300,
+        "wires": [
+            [
+                "72a83f45ed67f1af"
+            ]
+        ]
+    },
+    {
+        "id": "bbe74f37b3ee042c",
+        "type": "modbus-response",
+        "z": "edcda77493e16eaa",
+        "g": "600556d8bd2ccda4",
+        "name": "",
+        "registerShowMax": "40",
+        "x": 1850,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "857d7b0cb9f2ac1c",
+        "type": "function",
+        "z": "edcda77493e16eaa",
+        "g": "600556d8bd2ccda4",
+        "name": "Interpretar lectura AD",
+        "func": "\nvar Entradas_Digitales ={\n    \"32\" : msg.payload.data[0],\n    \"33\" : msg.payload.data[1],\n    \"34\" : msg.payload.data[2],\n    \"35\" : msg.payload.data[3],\n    \"36\" : msg.payload.data[4],\n    \"37\" : msg.payload.data[5],\n    \"38\" : msg.payload.data[6],\n    \"39\" : msg.payload.data[7],\n}\nglobal.set('IO.DI', Entradas_Digitales, 'memoryOnly');\n\nvar Salidas_Digitales ={\n  \"9\": msg.payload.data[8],\n  \"10\": msg.payload.data[9],\n  \"11\": msg.payload.data[10],\n  \"12\": msg.payload.data[11],\n  \"13\": msg.payload.data[12],\n  \"14\": msg.payload.data[13],\n  \"15\": msg.payload.data[14],\n  \"16\": msg.payload.data[15],\n\n}\nglobal.set('IO.DO', Salidas_Digitales, 'memoryOnly');\n\nvar Analoga1 = ((msg.payload.data[17] << 16) + msg.payload.data[18]); Analoga1 = Int2Float32(Analoga1);\nvar Analoga2 = ((msg.payload.data[19] << 16) + msg.payload.data[20]); Analoga2 = Int2Float32(Analoga2);\nvar Analoga3 = ((msg.payload.data[21] << 16) + msg.payload.data[22]); Analoga3 = Int2Float32(Analoga3);\nvar Analoga4 = ((msg.payload.data[23] << 16) + msg.payload.data[24]); Analoga4 = Int2Float32(Analoga4);\n\nvar Entradas_Analogas = {\n  \"1\": Analoga1,\n  \"2\": Analoga2,\n  \"3\": Analoga3,\n  \"4\": Analoga4,\n\n}\n\nglobal.set('IO.AI', Entradas_Analogas, 'memoryOnly');\n\nfunction Int2Float32(bytes) {\n  var sign = (bytes & 0x80000000) ? -1 : 1;\n  var exponent = ((bytes >> 23) & 0xFF) - 127;\n  var significand = (bytes & ~(-1 << 23));\n\n  if (exponent == 128)\n    return sign * ((significand) ? Number.NaN : Number.POSITIVE_INFINITY);\n\n  if (exponent == -127) {\n    if (significand === 0) return sign * 0.0;\n    exponent = -126;\n    significand /= (1 << 22);\n  } else significand = (significand | (1 << 23)) / (1 << 23);\n\n  return sign * significand * Math.pow(2, exponent);\n}\n//Créditos: https://flows.nodered.org/flow/359ead34237b7ab6ec0465ee85a34b62RelCT\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2100,
+        "y": 180,
+        "wires": [
+            []
+        ]
     }
 ]
