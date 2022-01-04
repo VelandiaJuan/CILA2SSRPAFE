@@ -1110,9 +1110,7 @@
             "c35fbf62d8f2cdf8"
         ],
         "x": 24,
-        "y": 609,
-        "w": 2632,
-        "h": 552
+        "y": 609
     },
     {
         "id": "3cb51855.a66038",
@@ -1127,9 +1125,7 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169,
-        "w": 232,
-        "h": 82
+        "y": 1169
     },
     {
         "id": "d689e3de.7d569",
@@ -1771,9 +1767,7 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269,
-        "w": 352,
-        "h": 82
+        "y": 1269
     },
     {
         "id": "6202107f.ed9aa",
@@ -1846,9 +1840,7 @@
             "c4be0af39e50b293"
         ],
         "x": 44,
-        "y": -21,
-        "w": 1992,
-        "h": 622
+        "y": -21
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -1882,9 +1874,7 @@
             "17c1f84a5b3ad8ad"
         ],
         "x": 3224,
-        "y": 19,
-        "w": 1284,
-        "h": 1708
+        "y": 19
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -1905,9 +1895,7 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169,
-        "w": 782,
-        "h": 182
+        "y": 1169
     },
     {
         "id": "086b9d08c3b68939",
@@ -1938,9 +1926,7 @@
             "9661d016b799c47d"
         ],
         "x": 24,
-        "y": 1359,
-        "w": 1022,
-        "h": 292
+        "y": 1359
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -1966,9 +1952,7 @@
             "6e75b5f5657d3a7e"
         ],
         "x": 24,
-        "y": 1679,
-        "w": 1132,
-        "h": 202
+        "y": 1679
     },
     {
         "id": "afdbbb533d628687",
@@ -1984,9 +1968,7 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679,
-        "w": 332,
-        "h": 82
+        "y": 1679
     },
     {
         "id": "23c99fd.b16886",
@@ -2067,7 +2049,9 @@
             "22b2f935e069825d"
         ],
         "x": 2498,
-        "y": 93
+        "y": 93,
+        "w": 1344,
+        "h": 714
     },
     {
         "id": "ef342a4a7f2984c3",
@@ -2085,7 +2069,9 @@
             "ce0884f8ad42bd03"
         ],
         "x": 34,
-        "y": 1019
+        "y": 1019,
+        "w": 332,
+        "h": 122
     },
     {
         "id": "096b837a3a33f58b",
@@ -2195,9 +2181,7 @@
             "ad49f1ee486ceabf",
             "7ca9952216e55ff7",
             "e8d27af8dbb53b1f",
-            "cda9368e27f8907a",
             "13ae2db66a6609f2",
-            "3507a3fb5aa75b2f",
             "8d784be063f1d4db",
             "633deaa1943f8055",
             "f339b976e17001e2",
@@ -2212,9 +2196,9 @@
             "bbe74f37b3ee042c"
         ],
         "x": 1094,
-        "y": 39,
+        "y": 19,
         "w": 2342,
-        "h": 552
+        "h": 572
     },
     {
         "id": "a9988da34f9622ff",
@@ -2310,7 +2294,9 @@
             "c5028a1ed882d76c"
         ],
         "x": 4,
-        "y": 119
+        "y": 119,
+        "w": 1932,
+        "h": 262
     },
     {
         "id": "2d8d39f1e038a15b",
@@ -2981,7 +2967,9 @@
             "c40108170a37478f"
         ],
         "x": 8,
-        "y": 393
+        "y": 393,
+        "w": 2194,
+        "h": 594
     },
     {
         "id": "b2fff3b09f0ae95c",
@@ -2999,9 +2987,7 @@
             "de95dabeadfa8333"
         ],
         "x": 254,
-        "y": 1939,
-        "w": 672,
-        "h": 142
+        "y": 1939
     },
     {
         "id": "5519b13db7a1857a",
@@ -3514,9 +3500,7 @@
             "bb22ffcb688c15d2"
         ],
         "x": 1354,
-        "y": 179,
-        "w": 1042,
-        "h": 222
+        "y": 179
     },
     {
         "id": "abfc5c293f394682",
@@ -3559,9 +3543,7 @@
             "3a607a8c4e851e60"
         ],
         "x": 114,
-        "y": 219,
-        "w": 1182,
-        "h": 382
+        "y": 219
     },
     {
         "id": "0e0b9759209dfb2f",
@@ -3601,9 +3583,7 @@
             "13f3a541f69a175b"
         ],
         "x": 114,
-        "y": 639,
-        "w": 802,
-        "h": 462
+        "y": 639
     },
     {
         "id": "07f02b70dd167ae5",
@@ -3624,9 +3604,7 @@
             "c0e57e8a82e6d05a"
         ],
         "x": 1354,
-        "y": 759,
-        "w": 912,
-        "h": 122
+        "y": 759
     },
     {
         "id": "7d20e2da985dd33b",
@@ -3652,9 +3630,7 @@
             "17f0cfed3a423e5f"
         ],
         "x": 1354,
-        "y": 519,
-        "w": 1042,
-        "h": 222
+        "y": 519
     },
     {
         "id": "27eadf663f119ea4",
@@ -3670,9 +3646,7 @@
             "5b99a9cea8e23964"
         ],
         "x": 1354,
-        "y": 419,
-        "w": 532,
-        "h": 82
+        "y": 419
     },
     {
         "id": "5f073a0997d5cb40",
@@ -4019,9 +3993,7 @@
             "8b26636d1d23678c"
         ],
         "x": 954,
-        "y": 1939,
-        "w": 492,
-        "h": 202
+        "y": 1939
     },
     {
         "id": "31895ea6.22f372",
@@ -4357,9 +4329,7 @@
             "8296f6a13feaac28"
         ],
         "x": 74,
-        "y": 399,
-        "w": 792,
-        "h": 132
+        "y": 399
     },
     {
         "id": "487b4f399a10404b",
@@ -4409,7 +4379,9 @@
             "4fb76cafe519048c"
         ],
         "x": 2524,
-        "y": 119
+        "y": 119,
+        "w": 1292,
+        "h": 532
     },
     {
         "id": "22b2f935e069825d",
@@ -4430,7 +4402,9 @@
             "e74da3e6e268b270"
         ],
         "x": 2534,
-        "y": 659
+        "y": 659,
+        "w": 832,
+        "h": 122
     },
     {
         "id": "103cd2dbe76e1fc5",
@@ -4454,7 +4428,9 @@
             "2a531a19f520cae6"
         ],
         "x": 64,
-        "y": 429
+        "y": 429,
+        "w": 952,
+        "h": 132
     },
     {
         "id": "c40108170a37478f",
@@ -4492,7 +4468,9 @@
             "cb4016443864caa6"
         ],
         "x": 34,
-        "y": 719
+        "y": 719,
+        "w": 1672,
+        "h": 242
     },
     {
         "id": "22196749d13fa9b3",
@@ -4681,9 +4659,7 @@
             "26836fe8d310f685"
         ],
         "x": 3428,
-        "y": 413,
-        "w": 1054,
-        "h": 758
+        "y": 413
     },
     {
         "id": "7bc9759a9a7ea0be",
@@ -4738,9 +4714,7 @@
             "09240a88f66b7c6f"
         ],
         "x": 3434,
-        "y": 1179,
-        "w": 992,
-        "h": 522
+        "y": 1179
     },
     {
         "id": "dad84feb.d4773",
@@ -4908,7 +4882,9 @@
             "330e1c381f5627b0"
         ],
         "x": 1044,
-        "y": 419
+        "y": 419,
+        "w": 1132,
+        "h": 302
     },
     {
         "id": "932eb8b65e7cc7be",
@@ -6273,9 +6249,7 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 439,
-        "w": 402,
-        "h": 362
+        "y": 439
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -6303,9 +6277,7 @@
             "1f3630da2492d4f9"
         ],
         "x": 3454,
-        "y": 809,
-        "w": 1002,
-        "h": 212
+        "y": 809
     },
     {
         "id": "b6e70888e2a92a81",
@@ -6806,6 +6778,36 @@
         "y": 1179,
         "w": 572,
         "h": 202
+    },
+    {
+        "id": "561a30aa7b0f82ec",
+        "type": "group",
+        "z": "edcda77493e16eaa",
+        "name": "LEER, ESCRIBIR PLC A.D",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "b0ddc04ce9da065e",
+            "4f1385234a7022b0",
+            "2e0d56160736ca7b",
+            "3b135be46e483364",
+            "c621d8686ba5df9e",
+            "90f25ebe3ce1c4d6",
+            "26da319f2f2e63bb",
+            "b598e1a104bcfdc8",
+            "21499eeddc66fc6a",
+            "ab47909da690633c",
+            "786d422853f4d72b",
+            "d6a8da2be68d76ab",
+            "462dbf6be96a4d3d",
+            "57c7f208be9b64d8",
+            "15784669b8d6a507"
+        ],
+        "x": 3534,
+        "y": 79,
+        "w": 932,
+        "h": 302
     },
     {
         "id": "d25d405a.19cff",
@@ -7528,7 +7530,7 @@
     {
         "id": "f630cb55.8d18e8",
         "type": "modbus-client",
-        "name": "Cubloc RS-232",
+        "name": "MODBUSTCP PLC",
         "clienttype": "tcp",
         "bufferCommands": true,
         "stateLogEnabled": false,
@@ -56877,7 +56879,8 @@
         "g": "86af7867dc10f4a8",
         "name": "Arranque/Parada/Reset RTU-Link In",
         "links": [
-            "ad49f1ee486ceabf"
+            "ad49f1ee486ceabf",
+            "c621d8686ba5df9e"
         ],
         "x": 45,
         "y": 330,
@@ -57501,7 +57504,8 @@
         "g": "ddb2b7d6d6bff088",
         "name": "Referencia Remota - RTU Link In",
         "links": [
-            "d407f4bca8315e27"
+            "d407f4bca8315e27",
+            "3b135be46e483364"
         ],
         "x": 1085,
         "y": 570,
@@ -64145,6 +64149,7 @@
         "id": "72a83f45ed67f1af",
         "type": "modbus-flex-getter",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "Leer PLC",
         "showStatusActivities": true,
@@ -64191,6 +64196,7 @@
         "id": "a5172ae4c93ca8ac",
         "type": "debug",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "",
         "active": true,
@@ -64209,6 +64215,7 @@
         "id": "a201bc133b0a07fe",
         "type": "catch",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "Errores lectura PLC",
         "scope": [
@@ -64227,6 +64234,7 @@
         "id": "cc24b84ebbbd7605",
         "type": "inject",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "",
         "props": [
@@ -64246,7 +64254,14 @@
         "wires": [
             [
                 "e346395fced8f93a",
-                "10de9ad98295f4b8"
+                "10de9ad98295f4b8",
+                "41d4d4112c8f5ecb",
+                "d5fcb5e80a4c8df1",
+                "dc36af82ecf1436d",
+                "7b050333dc5443c7",
+                "476a09cb6e5bfc95",
+                "d407f4bca8315e27",
+                "ad49f1ee486ceabf"
             ]
         ]
     },
@@ -64254,6 +64269,7 @@
         "id": "e7fea39105a252c6",
         "type": "debug",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "",
         "active": false,
@@ -64272,6 +64288,7 @@
         "id": "d77f3a8da0de50e2",
         "type": "catch",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "Erroes escritura Cubloc",
         "scope": [
@@ -64291,14 +64308,15 @@
         "id": "e814a141cce81223",
         "type": "modbus-flex-write",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
-        "name": "Escribir Cubloc-RS-232",
+        "name": "Escribir PLC",
         "showStatusActivities": true,
         "showErrors": false,
         "server": "f630cb55.8d18e8",
         "emptyMsgOnFail": false,
         "keepMsgProperties": false,
-        "x": 2100,
+        "x": 2060,
         "y": 260,
         "wires": [
             [],
@@ -64309,6 +64327,7 @@
         "id": "e346395fced8f93a",
         "type": "delay",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "",
         "pauseType": "delay",
@@ -64321,6 +64340,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "allowrate": false,
         "x": 1330,
         "y": 140,
         "wires": [
@@ -64334,6 +64354,7 @@
         "id": "7041815baddb606b",
         "type": "delay",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "",
         "pauseType": "delay",
@@ -64346,6 +64367,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "allowrate": false,
         "x": 1330,
         "y": 180,
         "wires": [
@@ -64359,6 +64381,7 @@
         "id": "0c89b42771a9a3d1",
         "type": "delay",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "",
         "pauseType": "delay",
@@ -64371,6 +64394,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "allowrate": false,
         "x": 1330,
         "y": 220,
         "wires": [
@@ -64384,6 +64408,7 @@
         "id": "5e22965bec2dc701",
         "type": "delay",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "",
         "pauseType": "delay",
@@ -64396,6 +64421,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "allowrate": false,
         "x": 1330,
         "y": 260,
         "wires": [
@@ -64409,6 +64435,7 @@
         "id": "d5fcb5e80a4c8df1",
         "type": "function",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "Retardo Escritura SD",
         "func": "var Counter = context.get(\"count\",\"memoryOnly\")||0;\nif(Counter <= 5){\n    Counter += 1;\n    context.set(\"count\",Counter,\"memoryOnly\");\n    return;\n}\nelse{\n    return msg;\n}",
@@ -64429,9 +64456,10 @@
         "id": "476a09cb6e5bfc95",
         "type": "function",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "Salidas Digitales",
-        "func": "var ES = flow.get('ES') || null;\n\n// Arreglo de Canales\nvar Data    = { \n    32:false, 33:false, 34:false, 35:false, \n    36:false, 37:false, 38:false, 39:false, \n    40:false, 41:false, 42:false, 43:false\n};\n\n// Obtener llaves del objeto Data\nvar Canal = Object.keys(Data);\n// Declaración del string con \nvar canalmsg;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"CILA2S en marcha\": global.get(\"IO.Functions.DO['CILA2S en marcha']\", 'memoryOnly') || false,\n    \"Falla general\": global.get(\"IO.Functions.DO['Falla general']\", 'memoryOnly') || false,\n    \"Disparo breaker módulo ESD\": global.get(\"IO.Functions.DO['Disparo breaker módulo ESD']\", 'memoryOnly') || false,\n    \"Cierre motorizado SDT\": global.get(\"IO.Functions.DO['Cierre motorizado SDT']\", 'memoryOnly') || false,\n    \"Apertura motorizado SDT\": global.get(\"IO.Functions.DO['Apertura motorizado SDT']\", 'memoryOnly') || false,\n    \"Bypass filtro de armónicos\": global.get(\"IO.Functions.DO.HF.Status\", 'memoryOnly') || false,\n    \"Simulación\": false\n}\n\n// Llaves del vector FuncionesC2S\nvar Keys = Object.keys(FuncionC2S);\n\n// Para cada canal de salida\nfor(var i=0; i <Canal.length; i++){\n    canalmsg ='Canal'+ Canal[i];\n    // Si la configuración del canal está declarada\n    if(typeof ES.SD[canalmsg] != 'undefined'){\n        // Para cada llave del vector FuncionesC2S que coincida con la configuración del canal\n        for(var j=0; j<Keys.length; j++){\n            if(ES.SD[canalmsg].Funcion == Keys[j]){\n                // Asignar el valor contenido en el vector de funciones al canal de salida\n                Data[Canal[i]] = ES.SD[canalmsg].Tipo == \"NO\" ? FuncionC2S[Keys[j]]:!FuncionC2S[Keys[j]];\n            } \n        }\n    }\n}\n\n// Asignar variable con los valores a escribir  (Se puede eliminar al asignar directamente).\nvar values = Object.values(Data);\ncontext.set(\"Data\", values,'memoryOnly');\ncontext.set(\"Functions\", FuncionC2S, 'memoryOnly');\n// Escribir datos en el Cubloc\nmsg.payload = {\n    value: values,\n    'fc': 15,\n    'unitid': 1,\n    'address': 4096,\n    'quantity': 12\n}\n\n// Retorno del mensaje\nreturn msg;",
+        "func": "var ES = flow.get('ES') || null;\n\n// Arreglo de Canales CUBLOC\n// var Data    = { \n//     32:false, 33:false, 34:false, 35:false, \n//     36:false, 37:false, 38:false, 39:false, \n//     40:false, 41:false, 42:false, 43:false\n// };\nvar Data    = { \n    32:false, 33:false, 34:false, 35:false, \n    36:false, 37:false, 38:false, 39:false\n};\n\n// Obtener llaves del objeto Data\nvar Canal = Object.keys(Data);\n// Declaración del string con \nvar canalmsg;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"CILA2S en marcha\": global.get(\"IO.Functions.DO['CILA2S en marcha']\", 'memoryOnly') || false,\n    \"Falla general\": global.get(\"IO.Functions.DO['Falla general']\", 'memoryOnly') || false,\n    \"Disparo breaker módulo ESD\": global.get(\"IO.Functions.DO['Disparo breaker módulo ESD']\", 'memoryOnly') || false,\n    \"Cierre motorizado SDT\": global.get(\"IO.Functions.DO['Cierre motorizado SDT']\", 'memoryOnly') || false,\n    \"Apertura motorizado SDT\": global.get(\"IO.Functions.DO['Apertura motorizado SDT']\", 'memoryOnly') || false,\n    \"Bypass filtro de armónicos\": global.get(\"IO.Functions.DO.HF.Status\", 'memoryOnly') || false,\n    \"Simulación\": false\n}\n\n// Llaves del vector FuncionesC2S\nvar Keys = Object.keys(FuncionC2S);\n\n// Para cada canal de salida\nfor(var i=0; i <Canal.length; i++){\n    canalmsg ='Canal'+ Canal[i];\n    // Si la configuración del canal está declarada\n    if(typeof ES.SD[canalmsg] != 'undefined'){\n        // Para cada llave del vector FuncionesC2S que coincida con la configuración del canal\n        for(var j=0; j<Keys.length; j++){\n            if(ES.SD[canalmsg].Funcion == Keys[j]){\n                // Asignar el valor contenido en el vector de funciones al canal de salida\n                Data[Canal[i]] = ES.SD[canalmsg].Tipo == \"NO\" ? FuncionC2S[Keys[j]]:!FuncionC2S[Keys[j]];\n                //Ternario para escribir datos al PLC, el acepta 1 o 0 no booleano\n                //Es un Holding Register \n                //Data[Canal[i]] == true ? 1 : 0;\n\n            } \n        }\n    }\n    Data[Canal[i]] = Data[Canal[i]] == true ? 1 : 0;\n}\n\n// Asignar variable con los valores a escribir  (Se puede eliminar al asignar directamente).\nvar values = Object.values(Data);\ncontext.set(\"values\", values,'memoryOnly');\ncontext.set(\"Data\", Data, 'memoryOnly');\ncontext.set(\"Functions\", FuncionC2S, 'memoryOnly');\n// Escribir datos en el Cubloc\nmsg.payload = {\n    value: values,\n    'fc': 16,\n    'unitid': 1,\n    'address': 8,\n    'quantity': 8\n}\n\n// Retorno del mensaje\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -70102,6 +70130,7 @@
         "id": "b6437c5251eda261",
         "type": "delay",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "",
         "pauseType": "delay",
@@ -70114,6 +70143,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "allowrate": false,
         "x": 1330,
         "y": 300,
         "wires": [
@@ -70437,6 +70467,7 @@
         "id": "b2c6db902f138ca6",
         "type": "delay",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "",
         "pauseType": "delay",
@@ -70449,6 +70480,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "allowrate": false,
         "x": 1330,
         "y": 380,
         "wires": [
@@ -70462,6 +70494,7 @@
         "id": "a70374374542fecd",
         "type": "delay",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "",
         "pauseType": "delay",
@@ -70474,6 +70507,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "allowrate": false,
         "x": 1330,
         "y": 420,
         "wires": [
@@ -70486,6 +70520,7 @@
         "id": "ae5acc2b90608d1c",
         "type": "delay",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "",
         "pauseType": "delay",
@@ -70498,6 +70533,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "allowrate": false,
         "x": 1330,
         "y": 460,
         "wires": [
@@ -70511,6 +70547,7 @@
         "id": "5f2d6dfc65e8da58",
         "type": "delay",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "",
         "pauseType": "delay",
@@ -70523,6 +70560,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "allowrate": false,
         "x": 1330,
         "y": 500,
         "wires": [
@@ -70536,6 +70574,7 @@
         "id": "87cce1528d9a85ef",
         "type": "delay",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "",
         "pauseType": "delay",
@@ -70548,6 +70587,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "allowrate": false,
         "x": 1330,
         "y": 540,
         "wires": [
@@ -70560,6 +70600,7 @@
         "id": "7b050333dc5443c7",
         "type": "function",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "Mapa Modbus Protecciones",
         "func": "var Load_HH_Sp      = global.get('Protections.Load.HH.Setpoint')||0;\nvar Load_LL_Sp      = global.get('Protections.Load.LL.Setpoint')||0;\nvar PReference      = global.get('Prolonged_Reference.Time')||0;\nvar PIn_HH_Sp       = global.get('Protections.Intake.Pressure.HH.Setpoint')||0;\nvar PIn_LL_Sp       = global.get('Protections.Intake.Pressure.LL.Setpoint')||0;\nvar TIn_HH_Sp       = global.get('Protections.Intake.Temperature.HH.Setpoint')||0;\nvar TDis_HH_Sp      = global.get('Protections.Discharge.Temperature.HH.Setpoint')||0;\nvar Mtr_Temp_HH_Sp  = global.get('Protections.Motor.Temperature.HH.Setpoint')||0;\nvar Accel           = global.get('Speed_Control.Accel')||0;\nvar Deccel          = global.get('Speed_Control.Decel')||0;\n\nvar vector = [\n    Load_HH_Sp,     // 58\n    Load_LL_Sp,     // 59\n    PReference,     // 60\n    PIn_HH_Sp,      // 61\n    PIn_LL_Sp,      // 62\n    TIn_HH_Sp,      // 63\n    TDis_HH_Sp,     // 64\n    Mtr_Temp_HH_Sp, // 65\n    Accel,          // 66\n    Deccel          // 67\n]\n\nmsg.payload = { \n    value: vector, \n    'fc': 16, \n    'unitid': 1, \n    'address': 28672+20+58,\n    'quantity': vector.length\n} \n\nreturn msg;",
@@ -70580,6 +70621,7 @@
         "id": "41d4d4112c8f5ecb",
         "type": "function",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "Estado Protecciones MBS",
         "func": "var Voltage         = global.get(\"Protections.Voltage.Status\",'memoryOnly')||0;\nvar Current         = global.get(\"Protections.Current.Status\",'memoryOnly')||0;\nvar Vibration       = global.get(\"Protections.Vibration.Status\",'memoryOnly')||0;\nvar InPressure      = global.get(\"Protections.Intake.Pressure.Status\",'memoryOnly')||0;\nvar InTemperaure    = global.get(\"Protections.Intake.Temperature.Status\",'memoryOnly')||0;\nvar DisPressure     = global.get(\"Protections.Discharge.Pressure.Status\",'memoryOnly')||0;\nvar DisTemperature  = global.get(\"Protections.Discharge.Temperature.Status\",'memoryOnly')||0;\nvar MtrTemp         = global.get(\"Protections.Motor.Temperature.Status\",'memoryOnly')||0;\nvar Tubing          = global.get(\"Protections.Tubing.Status\",'memoryOnly')||0;\nvar Casing          = global.get(\"Protections.Casing.Status\",'memoryOnly')||0;\n\nvar vector = [\n    Voltage,        // 68\n    Current,        // 69\n    Vibration,      // 70\n    InPressure,     // 71\n    InTemperaure,   // 72\n    DisPressure,    // 73\n    DisTemperature, // 74\n    MtrTemp,        // 75\n    Tubing,         // 76\n    Casing          // 77\n]\n\nmsg.payload = { \n    value: vector, \n    'fc': 16, \n    'unitid': 1, \n    'address': 28672+20+68, \n    'quantity': vector.length\n} \nreturn msg;",
@@ -70613,6 +70655,7 @@
         "id": "66a49141ae594080",
         "type": "delay",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "",
         "pauseType": "delay",
@@ -70625,6 +70668,7 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
+        "allowrate": false,
         "x": 1330,
         "y": 340,
         "wires": [
@@ -70666,10 +70710,11 @@
         "id": "7ca9952216e55ff7",
         "type": "link in",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "MapaModbusCubloc",
         "links": [
-            "75850562133f138f"
+            "2a531a19f520cae6"
         ],
         "x": 1965,
         "y": 320,
@@ -70800,9 +70845,7 @@
         "x": 3030,
         "y": 180,
         "wires": [
-            [
-                "e8d27af8dbb53b1f"
-            ]
+            []
         ]
     },
     {
@@ -70845,55 +70888,7 @@
         "y": 320,
         "wires": [
             [
-                "3507a3fb5aa75b2f",
                 "72c298a02ef42417"
-            ]
-        ]
-    },
-    {
-        "id": "cda9368e27f8907a",
-        "type": "delay",
-        "z": "edcda77493e16eaa",
-        "d": true,
-        "g": "600556d8bd2ccda4",
-        "name": "",
-        "pauseType": "delay",
-        "timeout": "500",
-        "timeoutUnits": "milliseconds",
-        "rate": "1",
-        "nbRateUnits": "1",
-        "rateUnits": "second",
-        "randomFirst": "1",
-        "randomLast": "5",
-        "randomUnits": "seconds",
-        "drop": false,
-        "allowrate": false,
-        "x": 3020,
-        "y": 240,
-        "wires": [
-            [
-                "3507a3fb5aa75b2f"
-            ]
-        ]
-    },
-    {
-        "id": "3507a3fb5aa75b2f",
-        "type": "function",
-        "z": "edcda77493e16eaa",
-        "d": true,
-        "g": "600556d8bd2ccda4",
-        "name": "ConfigSalidaDigitales",
-        "func": "// var Outbreaker = [1,2,3,4,5,6,7,8,1,2,3,4,5,6,7,8];\nvar Outbreaker = global.get(\"Outbreaker\")||0;\nvar ctr = context.get(\"ctr\",\"memoryOnly\")||0;\nif (Outbreaker!= 0){\n    msg.payload = {\n        \"value\": Outbreaker[ctr],\n        \"fc\": 6,\n        \"unitid\": 1,\n        \"address\": ctr+19,\n        \"quantity\": 1\n    };\n    ctr = ctr + 1;\n    context.set(\"ctr\", ctr, \"memoryOnly\");\n    context.set(\"Outbreaker\", Outbreaker, \"memoryOnly\");\n    context.set(\"configuracionActualTomada\", Outbreaker[ctr], \"memoryOnly\");\n\n\n    if(ctr < 16){\n        return msg;\n    }else{\n        context.set(\"ctr\",0,\"memoryOnly\");\n    }\n}\n",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 3010,
-        "y": 280,
-        "wires": [
-            [
-                "cda9368e27f8907a"
             ]
         ]
     },
@@ -70912,9 +70907,7 @@
         "x": 3090,
         "y": 350,
         "wires": [
-            [
-                "e8d27af8dbb53b1f"
-            ]
+            []
         ]
     },
     {
@@ -88121,6 +88114,7 @@
         "id": "10de9ad98295f4b8",
         "type": "function",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "Lectura Holding Register",
         "func": "msg.payload = {\n    'fc': 3,\n    'unitid': 1,\n    'address' : 0,\n    'quantity': 32\n}\nreturn msg;",
@@ -88141,20 +88135,22 @@
         "id": "bbe74f37b3ee042c",
         "type": "modbus-response",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "",
         "registerShowMax": "40",
-        "x": 1850,
-        "y": 80,
+        "x": 1790,
+        "y": 60,
         "wires": []
     },
     {
         "id": "857d7b0cb9f2ac1c",
         "type": "function",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "Interpretar lectura AD",
-        "func": "\nvar Entradas_Digitales ={\n    \"32\" : msg.payload.data[0],\n    \"33\" : msg.payload.data[1],\n    \"34\" : msg.payload.data[2],\n    \"35\" : msg.payload.data[3],\n    \"36\" : msg.payload.data[4],\n    \"37\" : msg.payload.data[5],\n    \"38\" : msg.payload.data[6],\n    \"39\" : msg.payload.data[7],\n}\nglobal.set('IO.DI', Entradas_Digitales, 'memoryOnly');\n\nvar Salidas_Digitales ={\n  \"9\": msg.payload.data[8],\n  \"10\": msg.payload.data[9],\n  \"11\": msg.payload.data[10],\n  \"12\": msg.payload.data[11],\n  \"13\": msg.payload.data[12],\n  \"14\": msg.payload.data[13],\n  \"15\": msg.payload.data[14],\n  \"16\": msg.payload.data[15],\n\n}\nglobal.set('IO.DO', Salidas_Digitales, 'memoryOnly');\n\nvar Analoga1 = ((msg.payload.data[17] << 16) + msg.payload.data[18]); Analoga1 = Int2Float32(Analoga1);\nvar Analoga2 = ((msg.payload.data[19] << 16) + msg.payload.data[20]); Analoga2 = Int2Float32(Analoga2);\nvar Analoga3 = ((msg.payload.data[21] << 16) + msg.payload.data[22]); Analoga3 = Int2Float32(Analoga3);\nvar Analoga4 = ((msg.payload.data[23] << 16) + msg.payload.data[24]); Analoga4 = Int2Float32(Analoga4);\n\nvar Entradas_Analogas = {\n  \"1\": Analoga1,\n  \"2\": Analoga2,\n  \"3\": Analoga3,\n  \"4\": Analoga4,\n\n}\n\nglobal.set('IO.AI', Entradas_Analogas, 'memoryOnly');\n\nfunction Int2Float32(bytes) {\n  var sign = (bytes & 0x80000000) ? -1 : 1;\n  var exponent = ((bytes >> 23) & 0xFF) - 127;\n  var significand = (bytes & ~(-1 << 23));\n\n  if (exponent == 128)\n    return sign * ((significand) ? Number.NaN : Number.POSITIVE_INFINITY);\n\n  if (exponent == -127) {\n    if (significand === 0) return sign * 0.0;\n    exponent = -126;\n    significand /= (1 << 22);\n  } else significand = (significand | (1 << 23)) / (1 << 23);\n\n  return sign * significand * Math.pow(2, exponent);\n}\n//Créditos: https://flows.nodered.org/flow/359ead34237b7ab6ec0465ee85a34b62RelCT\n\nreturn msg;",
+        "func": "\nvar Entradas_Digitales ={ \n    \"8\"  : msg.payload.data[0]  == 1 ? true : false, //alternario se utiliza porque el registro me envia un 1 o 0\n    \"9\"  : msg.payload.data[1]  == 1 ? true : false,\n    \"10\" : msg.payload.data[2]  == 1 ? true : false,\n    \"11\": msg.payload.data[3]   == 1 ? true : false,\n    \"12\": msg.payload.data[4]   == 1 ? true : false,\n    \"13\": msg.payload.data[5]   == 1 ? true : false,\n    \"14\": msg.payload.data[6]   == 1 ? true : false,\n    \"15\": msg.payload.data[7]   == 1 ? true : false,\n}\nglobal.set('IO.DI', Entradas_Digitales, 'memoryOnly');\n\nvar Salidas_Digitales ={\n  \"32\": msg.payload.data[8]  == 1 ? true : false,\n  \"33\": msg.payload.data[9]  == 1 ? true : false,\n  \"34\": msg.payload.data[10] == 1 ? true : false,\n  \"35\": msg.payload.data[11] == 1 ? true : false,\n  \"36\": msg.payload.data[12] == 1 ? true : false,\n  \"37\": msg.payload.data[13] == 1 ? true : false,\n  \"38\": msg.payload.data[14] == 1 ? true : false,\n  \"39\": msg.payload.data[15] == 1 ? true : false,\n\n}\nglobal.set('IO.DO', Salidas_Digitales, 'memoryOnly');\n\nvar Analoga1 = ((msg.payload.data[17] << 16) + msg.payload.data[18]); Analoga1 = Int2Float32(Analoga1);\nvar Analoga2 = ((msg.payload.data[19] << 16) + msg.payload.data[20]); Analoga2 = Int2Float32(Analoga2);\nvar Analoga3 = ((msg.payload.data[21] << 16) + msg.payload.data[22]); Analoga3 = Int2Float32(Analoga3);\nvar Analoga4 = ((msg.payload.data[23] << 16) + msg.payload.data[24]); Analoga4 = Int2Float32(Analoga4);\n\nvar Entradas_Analogas = {\n  \"1\": Analoga1,\n  \"2\": Analoga2,\n  \"3\": Analoga3,\n  \"4\": Analoga4,\n\n}\n\nglobal.set('IO.AI', Entradas_Analogas, 'memoryOnly');\n\nfunction Int2Float32(bytes) {\n  var sign = (bytes & 0x80000000) ? -1 : 1;\n  var exponent = ((bytes >> 23) & 0xFF) - 127;\n  var significand = (bytes & ~(-1 << 23));\n\n  if (exponent == 128)\n    return sign * ((significand) ? Number.NaN : Number.POSITIVE_INFINITY);\n\n  if (exponent == -127) {\n    if (significand === 0) return sign * 0.0;\n    exponent = -126;\n    significand /= (1 << 22);\n  } else significand = (significand | (1 << 23)) / (1 << 23);\n\n  return sign * significand * Math.pow(2, exponent);\n}\n//Créditos: https://flows.nodered.org/flow/359ead34237b7ab6ec0465ee85a34b62RelCT\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -88165,5 +88161,315 @@
         "wires": [
             []
         ]
+    },
+    {
+        "id": "b0ddc04ce9da065e",
+        "type": "inject",
+        "z": "edcda77493e16eaa",
+        "g": "561a30aa7b0f82ec",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "0.1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": "10",
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 3630,
+        "y": 160,
+        "wires": [
+            [
+                "4f1385234a7022b0",
+                "90f25ebe3ce1c4d6",
+                "2e0d56160736ca7b",
+                "3b135be46e483364",
+                "c621d8686ba5df9e"
+            ]
+        ]
+    },
+    {
+        "id": "4f1385234a7022b0",
+        "type": "function",
+        "z": "edcda77493e16eaa",
+        "g": "561a30aa7b0f82ec",
+        "name": "Lectura Holding Register",
+        "func": "msg.payload = {\n    'fc': 3,\n    'unitid': 1,\n    'address' : 0,\n    'quantity': 32\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3910,
+        "y": 160,
+        "wires": [
+            [
+                "462dbf6be96a4d3d"
+            ]
+        ]
+    },
+    {
+        "id": "3b135be46e483364",
+        "type": "link out",
+        "z": "edcda77493e16eaa",
+        "g": "561a30aa7b0f82ec",
+        "name": "Leer CUBLOC",
+        "links": [
+            "036ae70fa8b4a7d7",
+            "831dd7a9b0bd10bc"
+        ],
+        "x": 3755,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "c621d8686ba5df9e",
+        "type": "link out",
+        "z": "edcda77493e16eaa",
+        "g": "561a30aa7b0f82ec",
+        "name": "registro_Modbus",
+        "links": [
+            "025e44e56c51c4d2",
+            "cbed23389bd10c6d"
+        ],
+        "x": 3735,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "90f25ebe3ce1c4d6",
+        "type": "link out",
+        "z": "edcda77493e16eaa",
+        "g": "561a30aa7b0f82ec",
+        "name": "Sentido de giro remoto",
+        "links": [
+            "597fb86ead37ce75"
+        ],
+        "x": 3755,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "2e0d56160736ca7b",
+        "type": "function",
+        "z": "edcda77493e16eaa",
+        "g": "561a30aa7b0f82ec",
+        "name": "Salidas Digitales",
+        "func": "var ES = flow.get('ES') || null;\n\n// Arreglo de Canales CUBLOC\n// var Data    = { \n//     32:false, 33:false, 34:false, 35:false, \n//     36:false, 37:false, 38:false, 39:false, \n//     40:false, 41:false, 42:false, 43:false\n// };\nvar Data    = { \n    32:false, 33:false, 34:false, 35:false, \n    36:false, 37:false, 38:false, 39:false\n};\n\n// Obtener llaves del objeto Data\nvar Canal = Object.keys(Data);\n// Declaración del string con \nvar canalmsg;\n\n//Objeto con las funciones del CILA2S\nvar FuncionC2S = {\n    \"CILA2S en marcha\": global.get(\"IO.Functions.DO['CILA2S en marcha']\", 'memoryOnly') || false,\n    \"Falla general\": global.get(\"IO.Functions.DO['Falla general']\", 'memoryOnly') || false,\n    \"Disparo breaker módulo ESD\": global.get(\"IO.Functions.DO['Disparo breaker módulo ESD']\", 'memoryOnly') || false,\n    \"Cierre motorizado SDT\": global.get(\"IO.Functions.DO['Cierre motorizado SDT']\", 'memoryOnly') || false,\n    \"Apertura motorizado SDT\": global.get(\"IO.Functions.DO['Apertura motorizado SDT']\", 'memoryOnly') || false,\n    \"Bypass filtro de armónicos\": global.get(\"IO.Functions.DO.HF.Status\", 'memoryOnly') || false,\n    \"Simulación\": false\n}\n\n// Llaves del vector FuncionesC2S\nvar Keys = Object.keys(FuncionC2S);\n\n// Para cada canal de salida\nfor(var i=0; i <Canal.length; i++){\n    canalmsg ='Canal'+ Canal[i];\n    // Si la configuración del canal está declarada\n    if(typeof ES.SD[canalmsg] != 'undefined'){\n        // Para cada llave del vector FuncionesC2S que coincida con la configuración del canal\n        for(var j=0; j<Keys.length; j++){\n            if(ES.SD[canalmsg].Funcion == Keys[j]){\n                // Asignar el valor contenido en el vector de funciones al canal de salida\n                Data[Canal[i]] = ES.SD[canalmsg].Tipo == \"NO\" ? FuncionC2S[Keys[j]]:!FuncionC2S[Keys[j]];\n                //Ternario para escribir datos al PLC, el acepta 1 o 0 no booleano\n                //Es un Holding Register \n                //Data[Canal[i]] == true ? 1 : 0;\n\n            } \n        }\n    }\n    Data[Canal[i]] = Data[Canal[i]] == true ? 1 : 0;\n}\n\n// Asignar variable con los valores a escribir  (Se puede eliminar al asignar directamente).\nvar values = Object.values(Data);\ncontext.set(\"values\", values,'memoryOnly');\ncontext.set(\"Data\", Data, 'memoryOnly');\ncontext.set(\"Functions\", FuncionC2S, 'memoryOnly');\n// Escribir datos en el Cubloc\nmsg.payload = {\n    value: values,\n    'fc': 16,\n    'unitid': 1,\n    'address': 8,\n    'quantity': 8\n}\n\n// Retorno del mensaje\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3890,
+        "y": 200,
+        "wires": [
+            [
+                "2f3117db1ddd6e01"
+            ]
+        ],
+        "inputLabels": [
+            "Activar función"
+        ],
+        "outputLabels": [
+            "Canal32"
+        ]
+    },
+    {
+        "id": "b598e1a104bcfdc8",
+        "type": "catch",
+        "z": "edcda77493e16eaa",
+        "g": "561a30aa7b0f82ec",
+        "name": "Errores lectura PLC",
+        "scope": [
+            "462dbf6be96a4d3d"
+        ],
+        "uncaught": false,
+        "x": 3890,
+        "y": 240,
+        "wires": [
+            [
+                "21499eeddc66fc6a"
+            ]
+        ]
+    },
+    {
+        "id": "462dbf6be96a4d3d",
+        "type": "modbus-flex-getter",
+        "z": "edcda77493e16eaa",
+        "g": "561a30aa7b0f82ec",
+        "name": "Leer PLC",
+        "showStatusActivities": true,
+        "showErrors": false,
+        "logIOActivities": false,
+        "server": "f630cb55.8d18e8",
+        "useIOFile": false,
+        "ioFile": "",
+        "useIOForPayload": false,
+        "emptyMsgOnFail": false,
+        "keepMsgProperties": false,
+        "x": 4140,
+        "y": 140,
+        "wires": [
+            [
+                "57c7f208be9b64d8"
+            ],
+            [
+                "15784669b8d6a507"
+            ]
+        ]
+    },
+    {
+        "id": "57c7f208be9b64d8",
+        "type": "modbus-response",
+        "z": "edcda77493e16eaa",
+        "g": "561a30aa7b0f82ec",
+        "name": "",
+        "registerShowMax": "40",
+        "x": 4330,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "21499eeddc66fc6a",
+        "type": "debug",
+        "z": "edcda77493e16eaa",
+        "g": "561a30aa7b0f82ec",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 4070,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "15784669b8d6a507",
+        "type": "function",
+        "z": "edcda77493e16eaa",
+        "g": "561a30aa7b0f82ec",
+        "name": "Interpretar lectura AD",
+        "func": "\nvar Entradas_Digitales ={ \n    \"8\"  : msg.payload.data[0]  == 1 ? true : false, //alternario se utiliza porque el registro me envia un 1 o 0\n    \"9\"  : msg.payload.data[1]  == 1 ? true : false,\n    \"10\" : msg.payload.data[2]  == 1 ? true : false,\n    \"11\": msg.payload.data[3]   == 1 ? true : false,\n    \"12\": msg.payload.data[4]   == 1 ? true : false,\n    \"13\": msg.payload.data[5]   == 1 ? true : false,\n    \"14\": msg.payload.data[6]   == 1 ? true : false,\n    \"15\": msg.payload.data[7]   == 1 ? true : false,\n}\nglobal.set('IO.DI', Entradas_Digitales, 'memoryOnly');\n\nvar Salidas_Digitales ={\n  \"32\": msg.payload.data[8]  == 1 ? true : false,\n  \"33\": msg.payload.data[9]  == 1 ? true : false,\n  \"34\": msg.payload.data[10] == 1 ? true : false,\n  \"35\": msg.payload.data[11] == 1 ? true : false,\n  \"36\": msg.payload.data[12] == 1 ? true : false,\n  \"37\": msg.payload.data[13] == 1 ? true : false,\n  \"38\": msg.payload.data[14] == 1 ? true : false,\n  \"39\": msg.payload.data[15] == 1 ? true : false,\n\n}\nglobal.set('IO.DO', Salidas_Digitales, 'memoryOnly');\n\nvar Analoga1 = ((msg.payload.data[17] << 16) + msg.payload.data[18]); Analoga1 = Int2Float32(Analoga1);\nvar Analoga2 = ((msg.payload.data[19] << 16) + msg.payload.data[20]); Analoga2 = Int2Float32(Analoga2);\nvar Analoga3 = ((msg.payload.data[21] << 16) + msg.payload.data[22]); Analoga3 = Int2Float32(Analoga3);\nvar Analoga4 = ((msg.payload.data[23] << 16) + msg.payload.data[24]); Analoga4 = Int2Float32(Analoga4);\n\nvar Entradas_Analogas = {\n  \"1\": Analoga1,\n  \"2\": Analoga2,\n  \"3\": Analoga3,\n  \"4\": Analoga4,\n\n}\n\nglobal.set('IO.AI', Entradas_Analogas, 'memoryOnly');\n\nfunction Int2Float32(bytes) {\n  var sign = (bytes & 0x80000000) ? -1 : 1;\n  var exponent = ((bytes >> 23) & 0xFF) - 127;\n  var significand = (bytes & ~(-1 << 23));\n\n  if (exponent == 128)\n    return sign * ((significand) ? Number.NaN : Number.POSITIVE_INFINITY);\n\n  if (exponent == -127) {\n    if (significand === 0) return sign * 0.0;\n    exponent = -126;\n    significand /= (1 << 22);\n  } else significand = (significand | (1 << 23)) / (1 << 23);\n\n  return sign * significand * Math.pow(2, exponent);\n}\n//Créditos: https://flows.nodered.org/flow/359ead34237b7ab6ec0465ee85a34b62RelCT\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 4340,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2f3117db1ddd6e01",
+        "type": "modbus-flex-write",
+        "z": "edcda77493e16eaa",
+        "name": "Escribir PLC",
+        "showStatusActivities": true,
+        "showErrors": false,
+        "server": "f630cb55.8d18e8",
+        "emptyMsgOnFail": false,
+        "keepMsgProperties": false,
+        "x": 4090,
+        "y": 200,
+        "wires": [
+            [],
+            []
+        ]
+    },
+    {
+        "id": "786d422853f4d72b",
+        "type": "function",
+        "z": "edcda77493e16eaa",
+        "g": "561a30aa7b0f82ec",
+        "name": "",
+        "func": "msg.payload = {\n    value: [1],\n    'fc': 16,\n    'unitid': 1,\n    'address': 8,\n    'quantity': 1\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 4020,
+        "y": 340,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d6a8da2be68d76ab",
+        "type": "inject",
+        "z": "edcda77493e16eaa",
+        "g": "561a30aa7b0f82ec",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 3860,
+        "y": 320,
+        "wires": [
+            [
+                "786d422853f4d72b"
+            ]
+        ]
+    },
+    {
+        "id": "26da319f2f2e63bb",
+        "type": "catch",
+        "z": "edcda77493e16eaa",
+        "g": "561a30aa7b0f82ec",
+        "name": "Erroes escritura PLC",
+        "scope": [
+            "2e0d56160736ca7b",
+            "2f3117db1ddd6e01"
+        ],
+        "uncaught": false,
+        "x": 3890,
+        "y": 280,
+        "wires": [
+            [
+                "ab47909da690633c"
+            ]
+        ]
+    },
+    {
+        "id": "ab47909da690633c",
+        "type": "debug",
+        "z": "edcda77493e16eaa",
+        "g": "561a30aa7b0f82ec",
+        "name": "",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 4070,
+        "y": 300,
+        "wires": []
     }
 ]
