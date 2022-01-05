@@ -1110,7 +1110,9 @@
             "c35fbf62d8f2cdf8"
         ],
         "x": 24,
-        "y": 609
+        "y": 609,
+        "w": 2632,
+        "h": 552
     },
     {
         "id": "3cb51855.a66038",
@@ -1125,7 +1127,9 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169
+        "y": 1169,
+        "w": 232,
+        "h": 82
     },
     {
         "id": "d689e3de.7d569",
@@ -1325,7 +1329,9 @@
             "eb91dac5.690838"
         ],
         "x": -12,
-        "y": 13
+        "y": 13,
+        "w": 1664,
+        "h": 1240
     },
     {
         "id": "e98dc6a9.24ece8",
@@ -1767,7 +1773,9 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269
+        "y": 1269,
+        "w": 352,
+        "h": 82
     },
     {
         "id": "6202107f.ed9aa",
@@ -1840,7 +1848,9 @@
             "c4be0af39e50b293"
         ],
         "x": 44,
-        "y": -21
+        "y": -21,
+        "w": 1992,
+        "h": 622
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -1874,7 +1884,9 @@
             "17c1f84a5b3ad8ad"
         ],
         "x": 3224,
-        "y": 19
+        "y": 19,
+        "w": 1284,
+        "h": 1708
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -1895,7 +1907,9 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169
+        "y": 1169,
+        "w": 782,
+        "h": 182
     },
     {
         "id": "086b9d08c3b68939",
@@ -1926,7 +1940,9 @@
             "9661d016b799c47d"
         ],
         "x": 24,
-        "y": 1359
+        "y": 1359,
+        "w": 1022,
+        "h": 292
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -1952,7 +1968,9 @@
             "6e75b5f5657d3a7e"
         ],
         "x": 24,
-        "y": 1679
+        "y": 1679,
+        "w": 1132,
+        "h": 202
     },
     {
         "id": "afdbbb533d628687",
@@ -1968,7 +1986,9 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679
+        "y": 1679,
+        "w": 332,
+        "h": 82
     },
     {
         "id": "23c99fd.b16886",
@@ -2540,9 +2560,7 @@
             "cb9849361e51ef5b"
         ],
         "x": 154,
-        "y": 779,
-        "w": 1152,
-        "h": 342
+        "y": 779
     },
     {
         "id": "99fd9c5cbd90ceb5",
@@ -2559,9 +2577,7 @@
             "5e3e278f18c43297"
         ],
         "x": 154,
-        "y": 1159,
-        "w": 492,
-        "h": 122
+        "y": 1159
     },
     {
         "id": "aecdec289959a88b",
@@ -2591,9 +2607,7 @@
             "c029b9bec80247e8"
         ],
         "x": 154,
-        "y": 459,
-        "w": 1092,
-        "h": 282
+        "y": 459
     },
     {
         "id": "6c6732761a2613b5",
@@ -2977,7 +2991,9 @@
             "de95dabeadfa8333"
         ],
         "x": 254,
-        "y": 1939
+        "y": 1939,
+        "w": 672,
+        "h": 142
     },
     {
         "id": "5519b13db7a1857a",
@@ -3003,9 +3019,7 @@
             "a0b90b4f54fbae9f"
         ],
         "x": 674,
-        "y": 1159,
-        "w": 1142,
-        "h": 222
+        "y": 1159
     },
     {
         "id": "9ff47da5fe193161",
@@ -3062,9 +3076,7 @@
             "d5eb026a704fd13b"
         ],
         "x": 154,
-        "y": 179,
-        "w": 1392,
-        "h": 162
+        "y": 179
     },
     {
         "id": "e4cabd2892b5651b",
@@ -3302,7 +3314,9 @@
             "e560dfdfebe2fd7d"
         ],
         "x": 14,
-        "y": 439
+        "y": 439,
+        "w": 1672,
+        "h": 242
     },
     {
         "id": "162691d3abd26ddb",
@@ -3358,7 +3372,9 @@
             "4cffd004074e8a5b"
         ],
         "x": 1714,
-        "y": 19
+        "y": 19,
+        "w": 1252,
+        "h": 522
     },
     {
         "id": "bca72b7420df46a9",
@@ -3375,7 +3391,9 @@
             "d264a0cf20ef8465"
         ],
         "x": 14,
-        "y": 1139
+        "y": 1139,
+        "w": 492,
+        "h": 122
     },
     {
         "id": "f4c2cbbaa70a9690",
@@ -3432,7 +3450,9 @@
             "d14586566a5c1d96"
         ],
         "x": 14,
-        "y": 719
+        "y": 719,
+        "w": 1382,
+        "h": 382
     },
     {
         "id": "fd781041a7a8fbec",
@@ -3468,7 +3488,9 @@
             "76264975ec2ac9e2"
         ],
         "x": 14,
-        "y": 79
+        "y": 79,
+        "w": 1122,
+        "h": 322
     },
     {
         "id": "73546535bd657e5f",
@@ -3494,7 +3516,9 @@
             "bb22ffcb688c15d2"
         ],
         "x": 1354,
-        "y": 179
+        "y": 179,
+        "w": 1042,
+        "h": 222
     },
     {
         "id": "abfc5c293f394682",
@@ -3537,7 +3561,9 @@
             "3a607a8c4e851e60"
         ],
         "x": 114,
-        "y": 219
+        "y": 219,
+        "w": 1182,
+        "h": 382
     },
     {
         "id": "0e0b9759209dfb2f",
@@ -3577,7 +3603,9 @@
             "13f3a541f69a175b"
         ],
         "x": 114,
-        "y": 639
+        "y": 639,
+        "w": 792,
+        "h": 462
     },
     {
         "id": "07f02b70dd167ae5",
@@ -3598,7 +3626,9 @@
             "c0e57e8a82e6d05a"
         ],
         "x": 1354,
-        "y": 759
+        "y": 759,
+        "w": 912,
+        "h": 122
     },
     {
         "id": "7d20e2da985dd33b",
@@ -3624,7 +3654,9 @@
             "17f0cfed3a423e5f"
         ],
         "x": 1354,
-        "y": 519
+        "y": 519,
+        "w": 1042,
+        "h": 222
     },
     {
         "id": "27eadf663f119ea4",
@@ -3640,7 +3672,9 @@
             "5b99a9cea8e23964"
         ],
         "x": 1354,
-        "y": 419
+        "y": 419,
+        "w": 532,
+        "h": 82
     },
     {
         "id": "5f073a0997d5cb40",
@@ -3987,7 +4021,9 @@
             "8b26636d1d23678c"
         ],
         "x": 954,
-        "y": 1939
+        "y": 1939,
+        "w": 492,
+        "h": 202
     },
     {
         "id": "561a30aa7b0f82ec",
@@ -4068,7 +4104,9 @@
             "b045615539735b86"
         ],
         "x": 14,
-        "y": 493
+        "y": 493,
+        "w": 1018,
+        "h": 734
     },
     {
         "id": "eb91dac5.690838",
@@ -4122,7 +4160,9 @@
             "b6e70888e2a92a81"
         ],
         "x": 44,
-        "y": 39
+        "y": 39,
+        "w": 1582,
+        "h": 448
     },
     {
         "id": "70a63b74.44894c",
@@ -4351,7 +4391,9 @@
             "8296f6a13feaac28"
         ],
         "x": 74,
-        "y": 399
+        "y": 399,
+        "w": 792,
+        "h": 132
     },
     {
         "id": "487b4f399a10404b",
@@ -4665,7 +4707,9 @@
             "26836fe8d310f685"
         ],
         "x": 3428,
-        "y": 413
+        "y": 413,
+        "w": 1054,
+        "h": 758
     },
     {
         "id": "7bc9759a9a7ea0be",
@@ -4720,7 +4764,9 @@
             "09240a88f66b7c6f"
         ],
         "x": 3434,
-        "y": 1179
+        "y": 1179,
+        "w": 992,
+        "h": 522
     },
     {
         "id": "dad84feb.d4773",
@@ -5558,7 +5604,9 @@
             "ecd73acb6f9a9a0a"
         ],
         "x": 594,
-        "y": 999
+        "y": 999,
+        "w": 362,
+        "h": 202
     },
     {
         "id": "64ff74e5.f4c53c",
@@ -5578,7 +5626,9 @@
             "c1672804cba19e98"
         ],
         "x": 594,
-        "y": 519
+        "y": 519,
+        "w": 172,
+        "h": 212
     },
     {
         "id": "be55ea76.ed4478",
@@ -5601,7 +5651,9 @@
             "af9c07cdafbeb0f6"
         ],
         "x": 594,
-        "y": 739
+        "y": 739,
+        "w": 412,
+        "h": 242
     },
     {
         "id": "65994a87.9d5eb4",
@@ -6239,7 +6291,9 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 439
+        "y": 439,
+        "w": 402,
+        "h": 362
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -6267,7 +6321,9 @@
             "1f3630da2492d4f9"
         ],
         "x": 3454,
-        "y": 809
+        "y": 809,
+        "w": 1002,
+        "h": 212
     },
     {
         "id": "b6e70888e2a92a81",
@@ -6285,7 +6341,9 @@
             "48bc33d5372bae8d"
         ],
         "x": 914,
-        "y": 319
+        "y": 319,
+        "w": 552,
+        "h": 142
     },
     {
         "id": "b776122affd947be",
@@ -7515,7 +7573,7 @@
         "id": "55a9eb4e.762c64",
         "type": "ui_group",
         "name": "Configuracion",
-        "tab": "2dbf183f.1f2ed8",
+        "tab": "",
         "order": 1,
         "disp": true,
         "width": "3",
@@ -7525,20 +7583,11 @@
         "id": "8276e64d.c16508",
         "type": "ui_group",
         "name": "Estado sensor de fondo",
-        "tab": "2dbf183f.1f2ed8",
+        "tab": "",
         "order": 3,
         "disp": false,
         "width": "12",
         "collapse": false
-    },
-    {
-        "id": "2dbf183f.1f2ed8",
-        "type": "ui_tab",
-        "name": "Sensor de Fondo",
-        "icon": "fa-thermometer-three-quarters",
-        "order": 10,
-        "disabled": false,
-        "hidden": false
     },
     {
         "id": "bbd73f04.32559",
@@ -8385,7 +8434,7 @@
         "id": "ab77be5a0af25d0a",
         "type": "ui_group",
         "name": "Status_Bar",
-        "tab": "2dbf183f.1f2ed8",
+        "tab": "",
         "order": 4,
         "disp": false,
         "width": "12",
@@ -13487,7 +13536,7 @@
         "z": "902fc438.e5d758",
         "g": "086b9d08c3b68939",
         "name": "ReferenciaMotor",
-        "func": "var refMotor = global.get(\"C2S.Implicit.Commanded_SpdRef\",\"memoryOnly\");\nmsg.payload = refMotor.toFixed(1);\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload});\nreturn msg;",
+        "func": "var refMotor = global.get(\"C2S.Implicit.Commanded_SpdRef\",\"memoryOnly\")||0;\nmsg.payload = refMotor.toFixed(1);\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload});\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -51831,7 +51880,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\"tabs\":\t    {\"hide\":\t        [\"SWC\"],\t    \"show\":\t        [\"Principal\",\t        \"Eventos_y_Alarmas\",\t        \"Protecciones\",\t        \"Entradas_y_Salidas\",\t        \"Configuración_VSD\",\t        \"Usuario\",\t        \"Sensor_de_Fondo\",\t        \"Otras_Funciones_de_Control\",\t        \"Tendencias\",\t        \"AVAS ®\"]\t    }\t}",
+                "to": "{\"tabs\":\t    {\"hide\":\t        [\"SWC\"],\t    \"show\":\t        [\"Principal\",\t        \"Eventos_y_Alarmas\",\t        \"Protecciones\",\t        \"Entradas_y_Salidas\",\t        \"Configuración_VSD\",\t        \"Usuario\",\t        \"Sensor_de_Fondo\",\t        \"Otras_Funciones_de_Control\",\t        \"Settings\",\t        \"IWOC\",\t        \"Downhole_SensorLess_Dynagram\",\t        \"Tendencias\",\t        \"AVAS ®\"]\t    }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -51924,7 +51973,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\"tabs\":\t    {\"hide\":\t        [\"Protecciones\",\t        \"Entradas_y_Salidas\",\t        \"Configuración_VSD\",\t        \"Sensor_de_Fondo\",\t        \"SWC\",\t        \"Otras_Funciones_de_Control\",\t        \"Tendencias\",\t        \"AVAS ®\"],\t    \"show\":\t        [\"Principal\",\t        \"Eventos_y_Alarmas\",\t        \"Usuario\"]\t    }\t}",
+                "to": "{\"tabs\":\t    {\"hide\":\t        [\"Protecciones\",\t        \"Entradas_y_Salidas\",\t        \"Configuración_VSD\",\t        \"Sensor_de_Fondo\",\t        \"SWC\",\t        \"Otras_Funciones_de_Control\",\t        \"Settings\",\t        \"Downhole_SensorLess_Dynagram\",\t        \"IWOC\",\t        \"Tendencias\",\t        \"AVAS ®\"],\t    \"show\":\t        [\"Principal\",\t        \"Eventos_y_Alarmas\",\t        \"Usuario\"]\t    }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -52166,9 +52215,10 @@
         "type": "link in",
         "z": "3af652c9.6f9bee",
         "g": "eb91dac5.690838",
-        "name": "",
+        "name": "menuNoUser",
         "links": [
-            "4372d5a0.d338dc"
+            "4372d5a0.d338dc",
+            "ad87cee4.7dbb5"
         ],
         "x": 1075,
         "y": 240,
@@ -52453,7 +52503,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\"tabs\":\t    {\"hide\":\t        [\"Protecciones\",\t        \"Entradas_y_Salidas\",\t        \"Configuración_VSD\",\t        \"Sensor_de_Fondo\",\t        \"SWC\",\t        \"Tendencias\",\t        \"AVAS ®\"],\t    \"show\":\t        [\"Principal\",\t        \"Eventos_y_Alarmas\",\t         \"Otras_Funciones_de_Control\",\t        \"Usuario\"]\t    }\t}",
+                "to": "{\"tabs\":\t    {\"hide\":\t        [\"Protecciones\",\t        \"Entradas_y_Salidas\",\t        \"Configuración_VSD\",\t        \"Settings\",\t        \"Otras_Funciones_de_Control\",\t        \"Downhole_SensorLess_Dynagram\",\t        \"Sensor_de_Fondo\",\t        \"SWC\",\t        \"Tendencias\",\t        \"AVAS ®\"],\t    \"show\":\t        [\"Principal\",\t        \"Eventos_y_Alarmas\",\t         \"Otras_Funciones_de_Control\",\t        \"Usuario\"]\t    }\t}",
                 "tot": "jsonata"
             }
         ],
@@ -53950,7 +54000,8 @@
             "806bf1b9eefa1219",
             "a1d67166cfb77b31",
             "8b26636d1d23678c",
-            "cb9849361e51ef5b"
+            "cb9849361e51ef5b",
+            "6eb47ec.d02a08"
         ],
         "x": 335,
         "y": 320,
