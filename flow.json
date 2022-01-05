@@ -24,7 +24,7 @@
         "id": "d08f14e12055286a",
         "type": "tab",
         "label": "Arranque Automático",
-        "disabled": true,
+        "disabled": false,
         "info": ""
     },
     {
@@ -2084,9 +2084,7 @@
             "ca1808e9c0cebc54"
         ],
         "x": 52,
-        "y": 637,
-        "w": 3166,
-        "h": 2556
+        "y": 637
     },
     {
         "id": "3d603bc8c80c2124",
@@ -2106,9 +2104,7 @@
             "8f311859e2329cb0"
         ],
         "x": 54,
-        "y": 379,
-        "w": 902,
-        "h": 82
+        "y": 379
     },
     {
         "id": "4c1b2fd5bfa8819c",
@@ -2124,9 +2120,7 @@
             "af436d3d4e5d33de"
         ],
         "x": 42,
-        "y": 3227,
-        "w": 3020,
-        "h": 1410
+        "y": 3227
     },
     {
         "id": "600556d8bd2ccda4",
@@ -2192,9 +2186,7 @@
             "bbe74f37b3ee042c"
         ],
         "x": 1094,
-        "y": 19,
-        "w": 2342,
-        "h": 572
+        "y": 19
     },
     {
         "id": "a9988da34f9622ff",
@@ -2220,9 +2212,7 @@
             "03552a6ae2d7be66"
         ],
         "x": 34,
-        "y": 39,
-        "w": 892,
-        "h": 322
+        "y": 39
     },
     {
         "id": "03502219e91ec6ae",
@@ -3088,7 +3078,9 @@
             "44b52a5ca865f32a"
         ],
         "x": 114,
-        "y": 1119
+        "y": 1119,
+        "w": 862,
+        "h": 242
     },
     {
         "id": "65dbd90af70f1e98",
@@ -3117,7 +3109,9 @@
             "c9ef5029dfa1dca4"
         ],
         "x": 108,
-        "y": 699
+        "y": 699,
+        "w": 954,
+        "h": 395.5
     },
     {
         "id": "2ceb8ec502cd9a4d",
@@ -3145,7 +3139,9 @@
             "133a6558e1a8c7d2"
         ],
         "x": 1134,
-        "y": 699
+        "y": 699,
+        "w": 692,
+        "h": 322
     },
     {
         "id": "7fd14179472bdff0",
@@ -3181,7 +3177,9 @@
             "b5dd25bc9187aa75"
         ],
         "x": 114,
-        "y": 239
+        "y": 239,
+        "w": 1292,
+        "h": 428
     },
     {
         "id": "b76c959d391c2570",
@@ -3653,7 +3651,9 @@
             "d115ffc88399fa0e"
         ],
         "x": 8,
-        "y": 413
+        "y": 413,
+        "w": 654,
+        "h": 294
     },
     {
         "id": "ce07caa8578887e5",
@@ -3668,7 +3668,9 @@
             "705a2916f49a5d9c"
         ],
         "x": 28,
-        "y": 13
+        "y": 13,
+        "w": 1754,
+        "h": 394
     },
     {
         "id": "eba7ccecbe9c1b4f",
@@ -3684,7 +3686,9 @@
             "251e634bb726d126"
         ],
         "x": 564,
-        "y": 759
+        "y": 759,
+        "w": 282,
+        "h": 82
     },
     {
         "id": "092aed0af97581d2",
@@ -3703,7 +3707,9 @@
             "9289963bf572e5fa"
         ],
         "x": 34,
-        "y": 719
+        "y": 719,
+        "w": 462,
+        "h": 202
     },
     {
         "id": "ad0c713ad5cece71",
@@ -4013,9 +4019,7 @@
             "15784669b8d6a507"
         ],
         "x": 3534,
-        "y": 79,
-        "w": 932,
-        "h": 302
+        "y": 79
     },
     {
         "id": "31895ea6.22f372",
@@ -4503,9 +4507,7 @@
             "0d3271d48cdd3dc2"
         ],
         "x": 78,
-        "y": 673,
-        "w": 1724,
-        "h": 2494
+        "y": 673
     },
     {
         "id": "ca1808e9c0cebc54",
@@ -4523,9 +4525,7 @@
             "acf6618644660324"
         ],
         "x": 1828,
-        "y": 663,
-        "w": 1364,
-        "h": 1536.5
+        "y": 663
     },
     {
         "id": "eae7b72d553551bc",
@@ -4542,9 +4542,7 @@
             "7d3d6fba6fb45cf5"
         ],
         "x": 68,
-        "y": 3253,
-        "w": 1284,
-        "h": 894
+        "y": 3253
     },
     {
         "id": "af436d3d4e5d33de",
@@ -4621,9 +4619,7 @@
             "9f7b833ed93f0cc5"
         ],
         "x": 1368,
-        "y": 3263,
-        "w": 1668,
-        "h": 1348
+        "y": 3263
     },
     {
         "id": "b1830307.ee865",
@@ -4919,10 +4915,13 @@
             "2915404d918e6500",
             "caba6930587fef43",
             "a6ae08b25206a8fb",
-            "8f689579bc1f6c75"
+            "8f689579bc1f6c75",
+            "1bc7e7a68d6bbbef"
         ],
         "x": 134,
-        "y": 899
+        "y": 899,
+        "w": 902,
+        "h": 169.5
     },
     {
         "id": "b692a9f8cbb5191a",
@@ -4955,7 +4954,9 @@
             "a79ebbe030cb9598"
         ],
         "x": 54,
-        "y": 39
+        "y": 39,
+        "w": 1422,
+        "h": 212
     },
     {
         "id": "705a2916f49a5d9c",
@@ -4982,7 +4983,9 @@
             "cf66373bb23bedf0"
         ],
         "x": 54,
-        "y": 259
+        "y": 259,
+        "w": 1702,
+        "h": 122
     },
     {
         "id": "d115ffc88399fa0e",
@@ -5004,7 +5007,9 @@
             "1f09a6517beb7198"
         ],
         "x": 34,
-        "y": 439
+        "y": 439,
+        "w": 602,
+        "h": 242
     },
     {
         "id": "11160372e60be750",
@@ -5543,7 +5548,9 @@
             "786e9b7051b23244"
         ],
         "x": 194,
-        "y": 519
+        "y": 519,
+        "w": 294,
+        "h": 122
     },
     {
         "id": "a80677cf.4274c8",
@@ -5712,9 +5719,7 @@
             "5da923b060b7d724"
         ],
         "x": 104,
-        "y": 699,
-        "w": 1242,
-        "h": 862
+        "y": 699
     },
     {
         "id": "b670eeac81e3a4e1",
@@ -5743,9 +5748,7 @@
             "7186bd5b0ee62a27"
         ],
         "x": 124,
-        "y": 2959,
-        "w": 702,
-        "h": 182
+        "y": 2959
     },
     {
         "id": "404043e2f2ac38f5",
@@ -5801,9 +5804,7 @@
             "da3df13ea266ba47"
         ],
         "x": 1854,
-        "y": 689,
-        "w": 1292,
-        "h": 718
+        "y": 689
     },
     {
         "id": "acf6618644660324",
@@ -5870,9 +5871,7 @@
             "d5da4e68a94b8066"
         ],
         "x": 1874,
-        "y": 1519,
-        "w": 1292,
-        "h": 654.5
+        "y": 1519
     },
     {
         "id": "0d3271d48cdd3dc2",
@@ -6083,9 +6082,7 @@
             "f26884a752f635f5"
         ],
         "x": 114,
-        "y": 1579,
-        "w": 1662,
-        "h": 1322
+        "y": 1579
     },
     {
         "id": "7d3d6fba6fb45cf5",
@@ -6152,9 +6149,7 @@
             "43e435b1bf98945c"
         ],
         "x": 94,
-        "y": 3279,
-        "w": 1232,
-        "h": 842
+        "y": 3279
     },
     {
         "id": "01d2b2ec2f34b6be",
@@ -6193,9 +6188,7 @@
             "d4e43509215bf215"
         ],
         "x": 1394,
-        "y": 3289,
-        "w": 1232,
-        "h": 322
+        "y": 3289
     },
     {
         "id": "b4a46197db30977b",
@@ -6235,9 +6228,7 @@
             "592f8a1403a12574"
         ],
         "x": 1394,
-        "y": 3609,
-        "w": 722,
-        "h": 442
+        "y": 3609
     },
     {
         "id": "36fa9c99094e8f47",
@@ -6787,9 +6778,7 @@
             "43a7fe4169e0b657"
         ],
         "x": 2394,
-        "y": 1179,
-        "w": 572,
-        "h": 202
+        "y": 1179
     },
     {
         "id": "d25d405a.19cff",
@@ -7528,11 +7517,11 @@
         "serialParity": "none",
         "serialConnectionDelay": "100",
         "serialAsciiResponseStartDelimiter": "",
-        "unit_id": "1",
-        "commandDelay": "1",
-        "clientTimeout": "1000",
+        "unit_id": 1,
+        "commandDelay": 1,
+        "clientTimeout": 1000,
         "reconnectOnTimeout": true,
-        "reconnectTimeout": "2000",
+        "reconnectTimeout": 2000,
         "parallelUnitIdsAllowed": true
     },
     {
@@ -7586,7 +7575,7 @@
     {
         "id": "e9d237aaf9318e74",
         "type": "pccc endpoint",
-        "address": "192.168.2.15",
+        "address": "192.168.2.10",
         "port": "44818",
         "userouting": false,
         "routingbuf": "",
@@ -9762,32 +9751,6 @@
         "order": 18,
         "width": 6,
         "height": 1
-    },
-    {
-        "id": "b0e9da9e57fb5bc6",
-        "type": "modbus-client",
-        "name": "Click PLC",
-        "clienttype": "tcp",
-        "bufferCommands": true,
-        "stateLogEnabled": false,
-        "queueLogEnabled": false,
-        "tcpHost": "192.168.2.15",
-        "tcpPort": "502",
-        "tcpType": "DEFAULT",
-        "serialPort": "/dev/ttyUSB",
-        "serialType": "RTU-BUFFERD",
-        "serialBaudrate": "9600",
-        "serialDatabits": "8",
-        "serialStopbits": "1",
-        "serialParity": "none",
-        "serialConnectionDelay": "100",
-        "serialAsciiResponseStartDelimiter": "0x3A",
-        "unit_id": 1,
-        "commandDelay": 1,
-        "clientTimeout": 1000,
-        "reconnectOnTimeout": true,
-        "reconnectTimeout": 2000,
-        "parallelUnitIdsAllowed": true
     },
     {
         "id": "8c24ec8f.cf43c",
@@ -12136,7 +12099,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "python -m cpppo.server.enip.get_attribute '@0x93/++/09=(---)###' '@0x93/++/09' -S -a IP",
+                "to": "python3 -m cpppo.server.enip.get_attribute '@0x93/++/09=(---)###' '@0x93/++/09' -S -a IP",
                 "tot": "str"
             },
             {
@@ -43598,7 +43561,8 @@
             "6fb7736af2631081",
             "6cd860e1377cb2c3",
             "cc02647885cf85e3",
-            "7bc22b3b6220fa1e"
+            "7bc22b3b6220fa1e",
+            "2915404d918e6500"
         ],
         "x": 1035,
         "y": 280,
@@ -43654,7 +43618,6 @@
             "6375a216d9ba350e",
             "6f05a009383c5e7c",
             "e4e1f55820bbf3ef",
-            "2915404d918e6500",
             "a6ae08b25206a8fb",
             "1a13e58e8e1995f8",
             "264babaaa7723c2e",
@@ -70901,6 +70864,7 @@
         "id": "e8d27af8dbb53b1f",
         "type": "modbus-flex-write",
         "z": "edcda77493e16eaa",
+        "d": true,
         "g": "600556d8bd2ccda4",
         "name": "Escribir Cubloc-RS-232",
         "showStatusActivities": true,
@@ -82347,8 +82311,8 @@
         "g": "932eb8b65e7cc7be",
         "name": "mensajeReferenciaDoubleSpeedCambiada",
         "links": [
-            "2da816b7.b2be9a",
-            "cbbbcd1c.7180e"
+            "207ea8ce.3dea68",
+            "2da816b7.b2be9a"
         ],
         "x": 995,
         "y": 980,
@@ -88076,11 +88040,11 @@
         "links": [
             "c4be0af39e50b293"
         ],
-        "x": 515,
+        "x": 375,
         "y": 940,
         "wires": [
             [
-                "dd15a0bed0cbf685"
+                "1bc7e7a68d6bbbef"
             ]
         ]
     },
@@ -88458,5 +88422,29 @@
         "x": 4070,
         "y": 300,
         "wires": []
+    },
+    {
+        "id": "1bc7e7a68d6bbbef",
+        "type": "switch",
+        "z": "830fadc6f5236b78",
+        "g": "932eb8b65e7cc7be",
+        "name": "habilitado?",
+        "property": "Control_functions.doubleSpeed.habilitado",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 490,
+        "y": 940,
+        "wires": [
+            [
+                "dd15a0bed0cbf685"
+            ]
+        ]
     }
 ]
